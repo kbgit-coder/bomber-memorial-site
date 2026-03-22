@@ -123,5 +123,43 @@
     "website": "https://www.farnsfield-pc.gov.uk",
     "maintainer_type": "parish-council",
     "notes": "Memorial maintained by Farnsfield Memorial Trust in cooperation with the parish council. The Trust maintains the stone memorial and surrounding oak trees."
-  }
+  },
+  "what3words": "deeply.knowledge.farmer",
+  "local_contacts": [
+    {
+      "org_name": "Farnsfield & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Annual Remembrance Sunday service at the memorial",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    },
+    {
+      "org_name": "Farnsfield Parish Council",
+      "org_type": "parish_council",
+      "role": "Maintains memorial site with Farnsfield Memorial Trust",
+      "website": "https://www.farnsfield-pc.gov.uk"
+    },
+    {
+      "org_name": "Farnsfield History Group",
+      "org_type": "history_society",
+      "role": "Local history research and memorial documentation"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/parfitt-reginald.html",
+      "summary": "Detailed crew biographies and operational history for P/O Parfitt and crew. Includes CWGC records, squadron postings, and accounts from the 578 Squadron Association.",
+      "key_details": "Confirms this was Parfitt's 23rd operational mission. Crew had completed training at 1660 HCU Swinderby before posting to 578 Squadron at Burn.",
+      "date_retrieved": "2026-03-22",
+      "still_live": true
+    },
+    {
+      "source_site": "578 Squadron Association",
+      "original_url": "http://www.578squadron.org.uk/memorials/farnsfield.html",
+      "summary": "Squadron records of the loss of Halifax MZ519 LK-U on 6 July 1944. Includes operational details of the V-1 site attack and eyewitness accounts from Farnsfield residents.",
+      "key_details": "Local witnesses described the aircraft passing over with its port wing fully ablaze. The crew's deliberate decision to avoid the village is corroborated by the crash trajectory.",
+      "date_retrieved": "2026-03-22",
+      "still_live": true
+    }
+  ]
 }
