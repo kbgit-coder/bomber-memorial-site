@@ -1,0 +1,61 @@
+{
+  "campaign_name": "March 2026 Introduction",
+  "campaign_id": "march-2026-introduction",
+  "status": "draft",
+  "created": "2026-03-22",
+  "from_name": "Keith Binley",
+  "from_email": "admin@bombermemorial.co.uk",
+  "project_url": "https://bombermemorial.co.uk",
+  "target_count": 22,
+  "draft_count": 7,
+  "segments": [
+    "national_heritage",
+    "nottinghamshire_local",
+    "key_county_contacts",
+    "online_digital_heritage"
+  ],
+  "drafts": [
+    {
+      "file": "drafts/draft-rbl-national.md",
+      "target_ids": ["rbl-national"],
+      "segment": "national_heritage"
+    },
+    {
+      "file": "drafts/draft-ibcc-lincoln.md",
+      "target_ids": ["ibcc-lincoln"],
+      "segment": "national_heritage"
+    },
+    {
+      "file": "drafts/draft-aircrew-remembered.md",
+      "target_ids": ["aircrew-remembered"],
+      "segment": "national_heritage"
+    },
+    {
+      "file": "drafts/draft-war-memorials-trust.md",
+      "target_ids": ["war-memorials-trust"],
+      "segment": "national_heritage"
+    },
+    {
+      "file": "drafts/draft-nottinghamshire-local.md",
+      "target_ids": ["farnsfield-parish", "newark-sherwood-heritage", "notts-county-archives", "southwell-history", "notts-rbl-county"],
+      "segment": "nottinghamshire_local"
+    },
+    {
+      "file": "drafts/draft-county-heritage.md",
+      "target_ids": ["lincs-aviation-heritage", "lincs-county-aviation", "yorkshire-air-museum", "norfolk-suffolk-aviation", "peak-district-air-research", "national-war-museum-scotland", "national-museum-of-flight", "iwm-memorials"],
+      "segment": "key_county_contacts"
+    },
+    {
+      "file": "drafts/draft-online-heritage.md",
+      "target_ids": ["forces-war-records", "cwgc", "find-a-grave"],
+      "segment": "online_digital_heritage"
+    }
+  ],
+  "notes": [
+    "Bomber Command Association appears to be dissolving — deprioritised",
+    "BBC WW2 People's War archive is no longer actively maintained — no contact available",
+    "Find a Grave has no partnership email — contact form only",
+    "Southwell History Society contact is a named individual — use general enquiry tone",
+    "Notts RBL county has no direct email — use website contact form"
+  ]
+}

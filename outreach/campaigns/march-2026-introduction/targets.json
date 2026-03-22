@@ -1,0 +1,279 @@
+{
+  "campaign": "march-2026-introduction",
+  "generated": "2026-03-22",
+  "segments": {
+    "national_heritage": {
+      "label": "National Heritage Organisations",
+      "targets": [
+        {
+          "id": "rbl-national",
+          "name": "Royal British Legion (National HQ)",
+          "type": "charity",
+          "email": "info@britishlegion.org.uk",
+          "website": "https://www.britishlegion.org.uk",
+          "contact_form": "https://www.britishlegion.org.uk/about-us/who-we-are/get-in-touch",
+          "relevance": "National veteran/memorial charity — we reference RBL branches on memorial pages",
+          "draft": "draft-rbl-national.md",
+          "priority": "high"
+        },
+        {
+          "id": "ibcc-lincoln",
+          "name": "International Bomber Command Centre (Lincoln)",
+          "type": "heritage_centre",
+          "email": "info@internationalbcc.co.uk",
+          "email_archive": "archive@internationalbcc.co.uk",
+          "website": "https://internationalbcc.co.uk",
+          "contact_form": "https://internationalbcc.co.uk/contact/",
+          "relevance": "Largest UK bomber command heritage organisation — digital archive of crew records complements our site-based data",
+          "draft": "draft-ibcc-lincoln.md",
+          "priority": "high"
+        },
+        {
+          "id": "aircrew-remembered",
+          "name": "Aircrew Remembered",
+          "type": "heritage_website",
+          "email": "info@aircrewremembered.com",
+          "website": "https://aircrewremembered.com",
+          "contact_form": "https://aircrewremembered.com/contactus.html",
+          "notes": "Prefer their helpdesk ticket system for faster response",
+          "relevance": "Key source site — we already link to their crew detail pages from many memorials",
+          "draft": "draft-aircrew-remembered.md",
+          "priority": "high"
+        },
+        {
+          "id": "war-memorials-trust",
+          "name": "War Memorials Trust",
+          "type": "charity",
+          "email": "info@warmemorials.org",
+          "email_conservation": "conservation@warmemorials.org",
+          "website": "https://www.warmemorials.org",
+          "contact_form": "https://www.warmemorialsonline.org.uk/contact/",
+          "relevance": "Dedicated memorial conservation charity — our condition tracking data could help them prioritise grants",
+          "draft": "draft-war-memorials-trust.md",
+          "priority": "high"
+        },
+        {
+          "id": "iwm-memorials",
+          "name": "Imperial War Museum — War Memorials Register",
+          "type": "museum",
+          "email": "memorials@iwm.org.uk",
+          "website": "https://www.iwm.org.uk/memorials",
+          "contact_form": "https://www.iwm.org.uk/contact-us",
+          "relevance": "UK's official war memorials register — cross-referencing opportunity",
+          "draft": "draft-county-heritage.md",
+          "priority": "medium"
+        },
+        {
+          "id": "bomber-command-association",
+          "name": "Bomber Command Association",
+          "type": "association",
+          "email": null,
+          "website": "https://www.rafbombercommand.co.uk",
+          "notes": "Association was in process of dissolving as of 2021 — may no longer be active. Based at RAF Museum Hendon. Phone: 02083584841",
+          "relevance": "Historical association for bomber command veterans — status uncertain",
+          "draft": null,
+          "priority": "low"
+        }
+      ]
+    },
+    "nottinghamshire_local": {
+      "label": "Nottinghamshire Local (Keith's home area)",
+      "targets": [
+        {
+          "id": "farnsfield-parish",
+          "name": "Farnsfield Parish Council",
+          "type": "parish_council",
+          "email": "clerk@farnsfield-pc.gov.uk",
+          "website": "https://www.farnsfield-pc.gov.uk",
+          "relevance": "Keith's home parish — maintains the Halifax MZ519 memorial",
+          "draft": "draft-nottinghamshire-local.md",
+          "priority": "high"
+        },
+        {
+          "id": "newark-sherwood-heritage",
+          "name": "Newark & Sherwood District Council — Heritage & Conservation",
+          "type": "local_authority",
+          "email": "conservation@newark-sherwooddc.gov.uk",
+          "website": "https://www.newark-sherwooddc.gov.uk/heritageconservation/",
+          "relevance": "District council covering Farnsfield area — heritage and conservation team",
+          "draft": "draft-nottinghamshire-local.md",
+          "priority": "medium"
+        },
+        {
+          "id": "notts-county-archives",
+          "name": "Nottinghamshire County Council — Archives & Heritage",
+          "type": "local_authority",
+          "email": "archives@nottscc.gov.uk",
+          "website": "https://www.nottinghamshire.gov.uk/culture-leisure/archives",
+          "notes": "Also reachable at archives@inspireculture.org.uk",
+          "relevance": "County archives — may hold records relating to Nottinghamshire crash sites",
+          "draft": "draft-nottinghamshire-local.md",
+          "priority": "medium"
+        },
+        {
+          "id": "southwell-history",
+          "name": "Southwell & District Local History Society",
+          "type": "society",
+          "email": "carol@southwellhistorysociety.co.uk",
+          "website": "https://southwellhistorysociety.co.uk",
+          "notes": "Contact is secretary Carol Fitzgerald — this is a named individual, use with care",
+          "relevance": "Local history society near Farnsfield — community engagement opportunity",
+          "draft": "draft-nottinghamshire-local.md",
+          "priority": "low"
+        },
+        {
+          "id": "notts-rbl-county",
+          "name": "Royal British Legion — Nottinghamshire County",
+          "type": "charity_branch",
+          "email": null,
+          "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/",
+          "contact_form": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/",
+          "notes": "County-level RBL — use contact form on website; general RBL email info@britishlegion.org.uk also works",
+          "relevance": "Local RBL county office — can connect with branches near Notts memorial sites",
+          "draft": "draft-nottinghamshire-local.md",
+          "priority": "medium"
+        }
+      ]
+    },
+    "key_county_contacts": {
+      "label": "Key County Contacts (highest memorial concentrations)",
+      "targets": [
+        {
+          "id": "lincs-aviation-heritage",
+          "name": "Lincolnshire Aviation Heritage Centre (East Kirkby)",
+          "type": "heritage_centre",
+          "email": "enquiries@lincsaviation.co.uk",
+          "website": "https://www.lincsaviation.co.uk",
+          "contact_form": "https://www.lincsaviation.co.uk/contact-us",
+          "relevance": "Lincolnshire has highest concentration of bomber memorials — East Kirkby is a major aviation heritage site",
+          "draft": "draft-county-heritage.md",
+          "priority": "high"
+        },
+        {
+          "id": "lincs-county-aviation",
+          "name": "Lincolnshire County Council — Aviation Heritage",
+          "type": "local_authority",
+          "email": "AviationHeritage@Lincolnshire.gov.uk",
+          "website": "https://www.lincolnshire.gov.uk/history-heritage",
+          "relevance": "County council aviation heritage team — official records and local connections",
+          "draft": "draft-county-heritage.md",
+          "priority": "high"
+        },
+        {
+          "id": "yorkshire-air-museum",
+          "name": "Yorkshire Air Museum (Elvington)",
+          "type": "museum",
+          "email": "museum@yorkshireairmuseum.org",
+          "website": "https://yorkshireairmuseum.org",
+          "contact_form": "https://yorkshireairmuseum.org/contact/",
+          "relevance": "Major Yorkshire aviation museum — Allied Air Forces Memorial site",
+          "draft": "draft-county-heritage.md",
+          "priority": "high"
+        },
+        {
+          "id": "norfolk-suffolk-aviation",
+          "name": "Norfolk & Suffolk Aviation Museum (Flixton)",
+          "type": "museum",
+          "email": "nsam.flixton@gmail.com",
+          "website": "https://www.aviationmuseum.net",
+          "notes": "Alternative email: manager@aviationmuseum.net",
+          "relevance": "East Anglia aviation heritage — many USAAF and RAF bomber sites in region",
+          "draft": "draft-county-heritage.md",
+          "priority": "medium"
+        },
+        {
+          "id": "peak-district-air-research",
+          "name": "Peak District Air Accident Research",
+          "type": "research_group",
+          "email": null,
+          "website": "https://www.peakdistrictaircrashes.co.uk",
+          "contact_form": "https://www.peakdistrictaircrashes.co.uk",
+          "notes": "No public email found — contact via website or Facebook page",
+          "relevance": "Researches crash sites in Peak District/Pennines — many hill crash memorials in our register",
+          "draft": "draft-county-heritage.md",
+          "priority": "medium"
+        },
+        {
+          "id": "national-war-museum-scotland",
+          "name": "National War Museum (Edinburgh)",
+          "type": "museum",
+          "email": "info@nms.ac.uk",
+          "website": "https://www.nms.ac.uk/national-war-museum",
+          "relevance": "Scottish national military museum — covers Scottish bomber crash sites",
+          "draft": "draft-county-heritage.md",
+          "priority": "medium"
+        },
+        {
+          "id": "national-museum-of-flight",
+          "name": "National Museum of Flight (East Fortune)",
+          "type": "museum",
+          "email": "info@nms.ac.uk",
+          "website": "https://www.nms.ac.uk/national-museum-of-flight",
+          "notes": "Part of National Museums Scotland — same general email",
+          "relevance": "Scottish aviation museum — relevant for Scottish crash site memorials",
+          "draft": "draft-county-heritage.md",
+          "priority": "low"
+        }
+      ]
+    },
+    "online_digital_heritage": {
+      "label": "Online/Digital Heritage Platforms",
+      "targets": [
+        {
+          "id": "forces-war-records",
+          "name": "Forces War Records",
+          "type": "digital_platform",
+          "email": "support@forceswarrecords.com",
+          "website": "https://uk.forceswarrecords.com",
+          "contact_form": "https://uk.forceswarrecords.com/contact",
+          "relevance": "Major military records platform — cross-referencing crew records with crash sites",
+          "draft": "draft-online-heritage.md",
+          "priority": "medium"
+        },
+        {
+          "id": "cwgc",
+          "name": "Commonwealth War Graves Commission",
+          "type": "commission",
+          "email": "enquiries@cwgc.org",
+          "website": "https://www.cwgc.org",
+          "contact_form": "https://www.cwgc.org/contact-us/",
+          "relevance": "Official keeper of war graves records — many crash site crew are in their register",
+          "draft": "draft-online-heritage.md",
+          "priority": "high"
+        },
+        {
+          "id": "find-a-grave",
+          "name": "Find a Grave (UK)",
+          "type": "digital_platform",
+          "email": null,
+          "website": "https://www.findagrave.com",
+          "contact_form": "https://www.findagrave.com/contact",
+          "notes": "Owned by Ancestry — no general partnership email; use contact form",
+          "relevance": "Cemetery and memorial records — some crash site memorials are listed",
+          "draft": "draft-online-heritage.md",
+          "priority": "low"
+        },
+        {
+          "id": "bbc-ww2-peoples-war",
+          "name": "BBC WW2 People's War Archive",
+          "type": "archive",
+          "email": null,
+          "website": "https://www.bbc.co.uk/history/ww2peopleswar/",
+          "notes": "Archive project completed in 2006 — no longer actively maintained but content is preserved. No active contact available",
+          "relevance": "Historical archive of personal WW2 stories — some relate to bomber crash sites",
+          "draft": null,
+          "priority": "low"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_targets": 22,
+    "with_email": 17,
+    "contact_form_only": 4,
+    "no_contact": 1,
+    "high_priority": 9,
+    "medium_priority": 8,
+    "low_priority": 5
+  }
+}
