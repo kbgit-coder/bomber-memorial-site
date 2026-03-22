@@ -1,0 +1,39 @@
+{
+  "id": "beetley-bj764",
+  "title": "Beetley Wellington Memorial",
+  "location_name": "Beetley, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-003",
+  "crash_date": "1942-11-09",
+  "aircraft_type": "Wellington",
+  "serial_number": "BJ764",
+  "squadron": "425 Squadron",
+  "station": "Dishforth",
+  "crew_summary": "4 killed including Flt Sgt. Raymond Rogers Foltz",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron crashed at Beetley in central Norfolk. The Alouette Squadron had been formed at RAF Dishforth in Yorkshire only five months earlier, in June 1942, as one of the RCAF's designated French-Canadian bomber squadrons. The Wellington, a twin-engine medium bomber with its distinctive geodetic airframe construction, was one of Bomber Command's workhorses during 1942. The circumstances of this particular crash -- with the aircraft coming down in Norfolk, far from its Yorkshire base -- suggest the bomber was either returning from operations over the continent or had been diverted due to weather conditions. Four of the six-man crew perished in the crash, while two survived. A memorial at the crash site near the village of Beetley now commemorates the Canadian aircrew who died.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Raymond Rogers Foltz",
+      "role": "Pilot",
+      "fate": "Details incomplete"
+    }
+  ],
+  "latitude": 52.7238,
+  "longitude": 0.917,
+  "cause_of_loss": "Uncertain; aircraft came down in Norfolk, far from home base",
+  "operation_type": "Operational",
+  "operation_target": "Operational sortie (details incomplete)",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Near Beetley village, Norfolk | | Access | Accessible; rural location |"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "great-gransden-hayley-wood-jb219",
+  "title": "Great Gransden (Hayley Wood) Lancaster Memorial",
+  "location_name": "Great Gransden (Hayley Wood), Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-006",
+  "os_grid_reference": "TL2852",
+  "crash_date": "1943-12-16",
+  "aircraft_type": "Lancaster",
+  "serial_number": "JB219",
+  "squadron": "97 Squadron",
+  "station": "Bourn",
+  "crew_summary": "7 killed; pilot Plt Off. James Kirkwood",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "The night of 16/17 December 1943 became known in Bomber Command as \"Black Thursday.\" A force of nearly 500 aircraft took off to attack Berlin as part of the sustained Battle of Berlin campaign. Casualties over the target were relatively light, but the real disaster struck as the bombers returned to their English bases. A rapidly deteriorating weather front rolled across eastern England, bringing fog, low cloud, and freezing conditions. Across Bomber Command, seventy aircraft crashed attempting to land in conditions that made their home airfields invisible. No. 97 Squadron at Bourn suffered some of the worst losses of the night -- not from German defences but from English weather. Lancaster JB219, piloted by Flying Officer James Kirkwood, completed the round trip to Berlin successfully but could not find a way through the murk blanketing the Cambridgeshire fens. At 00:10 hours on the 17th, the Lancaster crashed into Hayley Wood, a patch of ancient woodland just south of RAF Gransden Lodge, killing all seven crew members. The crew were young: four of the seven were twenty-one or twenty-two years old. Kirkwood, at twenty-eight, was the eldest. Their burial locations -- scattered from Scotland to Dorset, from Manchester to London -- reflect the nationwide draw of Bomber Command's volunteer crews. A memorial now stands at the crash site in Hayley Wood.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "James Kirkwood",
+      "service_number": "146119 RAFVR",
+      "age": 28,
+      "role": "Pilot",
+      "burial_location": "Kilwinning Cemetery, Scotland",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Edward George Hubbard",
+      "service_number": "1477239 RAFVR",
+      "age": 21,
+      "role": "Flight Engineer",
+      "burial_location": "Croxton Churchyard, Norfolk",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Charles Stewart",
+      "service_number": "1361082 RAFVR",
+      "age": 21,
+      "role": "Navigator",
+      "burial_location": "Braemar Graveyard, Scotland",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "George Alexander Wigley",
+      "service_number": "132874 RAFVR",
+      "age": 22,
+      "role": "Air Bomber",
+      "burial_location": "Carshalton Churchyard, London",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ronald George Cleeve",
+      "service_number": "1315213 RAFVR",
+      "age": 21,
+      "role": "Wireless Operator/Air Gunner",
+      "burial_location": "Wyke Regis, Dorset",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Madeley",
+      "service_number": "1696999 RAFVR",
+      "role": "Air Gunner",
+      "burial_location": "Manchester Southern Cemetery",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "John Killen",
+      "service_number": "1055997 RAFVR",
+      "age": 22,
+      "role": "Air Gunner",
+      "burial_location": "Hollinfare Cemetery, Manchester",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Weather-related crash on return from operations; part of the \"Black Thursday\" disaster when 70 returning bombers crashed in bad weather",
+  "operation_type": "Operational",
+  "operation_target": "Berlin raid (part of the Battle of Berlin)",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Hayley Wood, south of RAF Gransden Lodge, Cambridgeshire | | Access | Woodland; accessible on foot |",
+  "latitude": 52.30693407545724,
+  "longitude": 0.00665675663343851
+}

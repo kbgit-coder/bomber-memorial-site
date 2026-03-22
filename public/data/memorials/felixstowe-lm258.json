@@ -1,0 +1,41 @@
+{
+  "id": "felixstowe-lm258",
+  "title": "Felixstowe Lancaster Memorial",
+  "location_name": "Felixstowe, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-005",
+  "crash_date": "1944-08-25",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM258",
+  "squadron": "218 Squadron",
+  "station": "Methwold",
+  "crew_summary": "7 killed; pilot Flt Lt. Douglas C. Haggis",
+  "memorial_type": "Town hall plaque",
+  "sources": [
+    {
+      "title": "Geograph Suffolk / IWM (memorial/57032)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 25 August 1944, Lancaster LM258 of 218 (Gold Coast) Squadron crashed in the Felixstowe area of Suffolk. The aircraft was based at RAF Methwold in Norfolk and all seven crew members, led by Flight Lieutenant Douglas Haggis, were killed. The memorial to this crew is located on Felixstowe Town Hall, reflecting the close connection between the Suffolk coastal town and the bomber crews who lost their lives in its vicinity during the war.",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Douglas Charles Haggis",
+      "role": "Pilot",
+      "fate": "Killed"
+    },
+    {
+      "name": "Six additional crew",
+      "role": "Various",
+      "fate": "All killed"
+    }
+  ],
+  "latitude": 51.9569,
+  "longitude": 1.3474,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque on Felixstowe Town Hall | | Location | Felixstowe Town Hall, Suffolk | | Access | Publicly accessible |"
+}

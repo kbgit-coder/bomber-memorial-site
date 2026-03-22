@@ -1,0 +1,58 @@
+{
+  "id": "calverton-fairey-battle-l-5499",
+  "title": "Calverton L.5499 Memorial",
+  "location_name": "Calverton, Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-011",
+  "crash_date": "1940-10-13",
+  "aircraft_type": "Fairey Battle L.5499",
+  "squadron": "300 (Masovian) Squadron",
+  "station": "Swinderby",
+  "crew_summary": "4 Polish crew killed",
+  "memorial_type": "Polish Cross memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle \u2014 a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. F/O Gebicki, an experienced 39-year-old pilot, stayed airborne until fuel was nearly exhausted, then attempted to land in darkness. The memorial \u2014 a steel cross with the inscription 'Perished for our and your freedom' \u2014 was erected by coal miners building the railway to Calverton Colliery. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Jan Gebicki",
+      "age": 39,
+      "role": "Pilot",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Morawa",
+      "age": 35,
+      "role": "Observer",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Tadeusz Egierski",
+      "age": 22,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham"
+    }
+  ],
+  "cause_of_loss": "Lost in fog and blackout conditions returning from France",
+  "operation_type": "Operational",
+  "operation_target": "Calais harbour",
+  "latitude": 53.107093591734746,
+  "longitude": -0.8762020125583881
+}

@@ -1,0 +1,90 @@
+{
+  "id": "marchington-wellington-mk-x",
+  "title": "Marchington Mk.X Memorial",
+  "location_name": "Marchington, Staffordshire",
+  "county": "Staffordshire",
+  "country": "United Kingdom",
+  "region_code": "WM-001",
+  "crash_date": "1944-07-18",
+  "aircraft_type": "Wellington Mk.X",
+  "squadron": "OTU",
+  "crew_summary": "Details from Midland Aircraft Recovery Group records",
+  "memorial_type": "Crash site memorial",
+  "sources": [
+    {
+      "title": "aviationarchaeology.org.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the afternoon of 13 June 1944 -- exactly one week after D-Day -- Wellington LP397 departed RAF Castle Donington on a routine cross-country training exercise. Twenty-five minutes into the flight, the aircraft entered a thunderstorm. The Wellington emerged from cloud in a steep, unrecoverable dive and crashed in a field beside Mayfield Parish Church. All six crew were killed instantly. Subsequent investigation found no evidence of structural failure, leading investigators to conclude the aircraft may have been struck by lightning. Of the six-man crew, five were Canadian; the exception was 31-year-old Sgt William Paterson, a Scotsman who was the oldest aboard. The youngest, 19-year-old air gunner James Stevens from Canada, had barely begun his training. Pilot Joseph Starr was 29 -- old for a bomber crew member -- and had travelled to England before the war to join the RAF. He is buried in Nottingham's Jewish Cemetery, while his Canadian crewmates rest at Brookwood Military Cemetery in Surrey.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Joseph Starr",
+      "service_number": "53473",
+      "age": 29,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Nottingham Jewish Cemetery, Wilford Hill",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "George David Wills Buchanan",
+      "service_number": "J/39007",
+      "age": 20,
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "burial_location": "Brookwood Military Cemetery",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Corley Davis",
+      "service_number": "R/193967",
+      "age": 22,
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "burial_location": "Brookwood Military Cemetery",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William George Paterson",
+      "service_number": "1024471",
+      "age": 31,
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "burial_location": "Torryburn Cemetery, Scotland",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Richard John Taylor",
+      "service_number": "R/203228",
+      "age": 21,
+      "role": "W/Op Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Brookwood Military Cemetery",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Joseph Urban Stevens",
+      "service_number": "R/206869",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Brookwood Military Cemetery",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Possible lightning strike during thunderstorm; aircraft entered steep dive from cloud",
+  "operation_type": "Training",
+  "memorial_details": "The Mayfield Heritage Group led a campaign to establish a permanent memorial at the crash site. In May 2011, a memorial was unveiled at Mayfield Parish Church, adjacent to the field where the Wellington crashed 67 years earlier. The memorial records the names of all six crew members and the circumstances of the crash. The church and memorial are publicly accessible in the centre of Mayfield village.",
+  "latitude": 52.769332602125,
+  "longitude": -1.966525834754961
+}

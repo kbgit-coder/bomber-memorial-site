@@ -1,0 +1,66 @@
+{
+  "id": "laxton-lp841",
+  "title": "Laxton Wellington Memorial",
+  "location_name": "Laxton, Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-017",
+  "crash_date": "1945-01-05",
+  "aircraft_type": "Wellington",
+  "serial_number": "LP841",
+  "squadron": "82 OTU",
+  "station": "Ossington",
+  "crew_summary": "4 killed; rear gunner survived",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section \u2014 carrying rear gunner Sgt Eden \u2014 separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "J.C. McLeod",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "L.J. Robillard",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "E.E. Fernandez",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "E.A. Bishop",
+      "role": "W/Op Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R. Eden",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "**Survived** (tail section broke away)"
+    }
+  ],
+  "cause_of_loss": "Hit electrical pole near local stream; burst into flames",
+  "operation_type": "Training",
+  "latitude": 53.09836221112822,
+  "longitude": -1.0971748885492252
+}

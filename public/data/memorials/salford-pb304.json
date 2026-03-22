@@ -1,0 +1,81 @@
+{
+  "id": "salford-pb304",
+  "title": "Salford Lancaster Memorial",
+  "location_name": "Salford, Lancashire / Greater Manchester",
+  "county": "Lancashire / Greater Manchester",
+  "country": "United Kingdom",
+  "region_code": "NW-003",
+  "crash_date": "WW2",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB304",
+  "squadron": "Bomber Command",
+  "crew_summary": "Crew killed",
+  "memorial_type": "Memorial at crash site",
+  "sources": [
+    {
+      "title": "aircrashsites.co.uk; IWM (memorial/15977)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the morning of 30 July 1944, Lancaster PB304 was part of a force attacking German positions at Cahagnes in the Normandy battle zone, supporting the Allied breakout following D-Day. Radio communication between aircraft was garbled and difficult, possibly due to German interference broadcasting over the master bomber's frequency. During the return to base, the aircraft developed severe difficulties. Witnesses in Prestwich, on the northern edges of Manchester, saw the Lancaster flying low and in obvious distress, engulfed in flames. The aircraft twice passed over a playing field -- leading local witnesses to believe that pilot Flight Lieutenant Lines was attempting a crash landing to avoid populated areas. The Lancaster came down on the banks of the River Irwell near Regatta Street, Salford, resulting in a massive explosion as its full bomb load and fuel reserves ignited on impact. Seven crew members were killed along with two civilians -- Lucy Bamford and George Morris. Over 100 people were injured and many houses were damaged, with one completely demolished. The crew included Sgt Mohand Singh, one of many Indian airmen who served with the RAF during the war.",
+  "crew": [
+    {
+      "rank": "F/L",
+      "name": "Peter Lines",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Barnes",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "Harry Reid",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "John Harvey Steel",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur William Young",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Bruce Thornley Davenport",
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Mohand Singh",
+      "role": "Rear Gunner",
+      "nationality": "Indian",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Battle damage or mechanical failure during return from Normandy operation; garbled communications possibly due to German interference",
+  "operation_type": "Operational",
+  "operation_target": "Operational -- attacking enemy positions at Cahagnes, Normandy",
+  "memorial_details": "On the 50th anniversary of the crash in 1994, a Memorial Stone of Remembrance was dedicated at Agecroft Cemetery, Langley Road, Salford. The stone records the names of all seven crew members. The crash site itself -- the Regatta Street area by the River Irwell -- has been substantially redeveloped. A book, \"The Salford Lancaster\" by Joe Bamford (published 1996), provides the definitive account.",
+  "latitude": 53.888742724815316,
+  "longitude": -2.4744926592848024
+}

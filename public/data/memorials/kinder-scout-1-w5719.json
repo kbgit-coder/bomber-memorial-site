@@ -1,0 +1,76 @@
+{
+  "id": "kinder-scout-1-w5719",
+  "title": "Kinder Scout (1) Wellington Memorial",
+  "location_name": "Kinder Scout (1), Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-005",
+  "crash_date": "1941-07-31",
+  "aircraft_type": "Wellington",
+  "serial_number": "W5719",
+  "squadron": "Bomber Command",
+  "crew_summary": "4 killed; 1 survived (Rear Gunner Sgt. Earl Tilley, thrown clear in turret when bombs exploded on impact)",
+  "memorial_type": "Small cross and plaque",
+  "sources": [
+    {
+      "title": "peakdistrictaircrashes.co.uk; pleszak.blog",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 30/31 July 1941, No. 150 Squadron at RAF Snaith was ordered to provide eight Wellington bombers for a raid on Cologne. The weather in England that night was poor, with low cloud and rain. Wellington W5719 was the first aircraft to take off, departing at 23:25. The raid on Cologne was completed, and the crew turned for home. But in the murky conditions over England, the Wellington overshot its base in Yorkshire and continued westward towards the Pennines. At approximately 04:05, still in cloud and misjudging their altitude, the crew flew into the steeply rising ground on the northern side of Grindsbrook Clough, near Upper Tor on Kinder Scout. The crash was catastrophic. The bomber exploded on impact, killing five of the six crew instantly. However, in a remarkable stroke of fortune, rear gunner Sergeant Earl Tilley survived -- his tail turret was torn free from the fuselage by the force of the impact and flung clear of the burning wreckage. Injured but alive, Tilley was able to extricate himself and make his way down to the village of Edale to raise the alarm.",
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "Percival Harold Charles Parrott",
+      "role": "Pilot",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Joseph Arthur Haswell",
+      "role": "2nd Pilot (supernumerary)",
+      "nationality": "RAF",
+      "fate": "Killed",
+      "burial_location": "Manchester Southern Cemetery (commemorated on screen wall)"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Jack Douglas Evelle",
+      "role": "Observer / Navigator",
+      "nationality": "RCAF",
+      "fate": "Killed",
+      "burial_location": "Manchester Southern Cemetery"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Frederick Kenneth Webber",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Dennis Aloysius Monk",
+      "role": "Air Gunner",
+      "nationality": "RAF",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Earl Tilley",
+      "role": "Rear Gunner",
+      "nationality": "RAF",
+      "fate": "Survived"
+    }
+  ],
+  "cause_of_loss": "Overshot base on return from operations; descended too low in cloud and flew into the steeply rising ground on the northern side of Grindsbrook Clough.",
+  "operation_type": "Operational",
+  "operation_target": "Operational -- returning from bombing raid on Cologne (Koln)",
+  "memorial_details": "Wreckage fragments remain at the site. No formal memorial plaque has been documented at the crash location.",
+  "latitude": 53.380942294143644,
+  "longitude": -1.551334270273853
+}

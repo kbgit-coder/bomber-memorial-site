@@ -1,0 +1,112 @@
+{
+  "id": "great-carrs-ll505-s-for-sugar-",
+  "title": "Great Carrs Halifax Memorial",
+  "location_name": "Great Carrs, Coniston, Cumbria / Lake District",
+  "county": "Cumbria / Lake District",
+  "country": "United Kingdom",
+  "region_code": "NW-001",
+  "crash_date": "1944-10-22",
+  "aircraft_type": "Halifax",
+  "serial_number": "LL505 \"S for Sugar\"",
+  "squadron": "1659 HCU",
+  "station": "Topcliffe",
+  "crew_summary": "8 killed (7 RCAF + 1 RAFVR): J.A. Johnston (27), R.N. Whitley (20), F.A. Bell (33), H.E. Pyche (21), D.F. Titt (19), G. Riddoch (20), C.G. Whittingstall (20), W.B. Ferguson (19)",
+  "memorial_type": "Cairn with wooden cross and plaque; aircraft wreckage (undercarriage) remains at site",
+  "sources": [
+    {
+      "title": "IWM (memorial/13028); warmemorialsonline.org.uk (memorial/175022); Wikipedia (Great Carrs)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 22 October 1944, Halifax LL505 departed RAF Topcliffe on a routine night navigation training exercise. The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "John Armstrong Johnston",
+      "service_number": "C/29783",
+      "age": 27,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "Francis Aubrey Bell",
+      "service_number": "J/39888",
+      "age": 33,
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Robert Newton Whitley",
+      "service_number": "J/38243",
+      "age": 20,
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Brisbane Ferguson",
+      "service_number": "1826294",
+      "age": 19,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "New Monkland Cemetery, Lanarkshire",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Calvin George Whittingstall",
+      "service_number": "R/198207",
+      "age": 20,
+      "role": "W/Op Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Donald Fraser Titt",
+      "service_number": "R/271259",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Riddoch",
+      "service_number": "R/259938",
+      "age": 20,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harvey Ellsworth Pyche",
+      "service_number": "R/225354",
+      "age": 21,
+      "role": "Flight Engineer (supernumerary)",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Pilot descended below cloud base to obtain visual fix; aircraft failed to clear ridge by a few feet",
+  "operation_type": "Training",
+  "memorial_details": "A stone memorial cairn stands on the fellside of Great Carrs, accessible via a hill walk from Wrynose Pass or the Wetherlam approach. Substantial wreckage remains visible at the crash site, including undercarriage components. The site is a popular objective for fell walkers and aviation historians. A wooden cross was placed at the site earlier, and the memorial cairn was added subsequently. The crash site is now permanently protected as part of the Lake District UNESCO World Heritage Site (designated 2017).",
+  "latitude": 54.52803441887313,
+  "longitude": -2.8295823702766367
+}

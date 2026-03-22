@@ -1,0 +1,66 @@
+{
+  "id": "felixstowe-docks-hampden-p-1340",
+  "title": "Felixstowe Docks P.1340 Memorial",
+  "location_name": "Felixstowe Docks, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-004",
+  "crash_date": "1940-06-04",
+  "aircraft_type": "Hampden P.1340",
+  "squadron": "44 (Rhodesia) Squadron",
+  "station": "Waddington",
+  "crew_summary": "3 killed (struck barrage balloon cable); pilot survived",
+  "memorial_type": "Waterside marker",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 3/4 June 1940, during the desperate early months of the war, Hampden P1340 of 44 (Rhodesia) Squadron took off from RAF Waddington in Lincolnshire for a bombing mission against Emmerich on the German-Dutch border. The Hampden was one of the RAF's frontline medium bombers at this stage of the war, and 44 Squadron was heavily engaged in operations over occupied Europe. Returning from the sortie, the Hampden flew into the barrage balloon defences protecting the port of Harwich and the approaches to the Orwell and Stour estuaries. In the darkness, the pilot had no warning before the aircraft's wing struck a barrage balloon cable. The cable sliced through the aircraft structure, sending the Hampden plunging into the waters near Shotley Point. The pilot, Sergeant Edwin Spencer, was rescued from the water by Petty Officer B. Driver of the Royal Navy. However, the three other crew members -- all aged just twenty years old -- were never recovered. Their bodies remained in the wreckage, which was partially trawled up from the docks area in the 1980s, but no human remains were identified. All three are commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Edwin Joseph Spencer",
+      "service_number": "565945",
+      "role": "Pilot",
+      "fate": "Survived (rescued by PO B. Driver, RN)"
+    },
+    {
+      "rank": "P/O",
+      "name": "Reginald William Roots",
+      "service_number": "36202",
+      "age": 20,
+      "role": "Observer",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 10"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Gross Kendrew",
+      "service_number": "624417 (RAFVR)",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 16"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Samuel Patrick Connell",
+      "service_number": "580913",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Missing, believed killed",
+      "burial_location": "Runnymede Memorial, Panel 12"
+    }
+  ],
+  "latitude": 51.9397,
+  "longitude": 1.317,
+  "cause_of_loss": "Collided with barrage balloon cable near Harwich while returning from operations",
+  "operation_type": "Operational",
+  "operation_target": "Bombing sortie to Emmerich, Germany",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque/marker at crash site; also noted on Felixstowe Town Hall | | Location | Felixstowe area, Suffolk | | Related | Runnymede Memorial (primary commemoration for the three missing crew) |"
+}

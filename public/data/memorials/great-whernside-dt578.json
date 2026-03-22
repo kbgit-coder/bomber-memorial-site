@@ -1,0 +1,101 @@
+{
+  "id": "great-whernside-dt578",
+  "title": "Great Whernside Halifax Memorial",
+  "location_name": "Great Whernside, above Kettlewell, Pennines (North)",
+  "county": "Pennines (North)",
+  "country": "United Kingdom",
+  "region_code": "PN-001",
+  "crash_date": "1943-11-23",
+  "aircraft_type": "Halifax",
+  "serial_number": "DT578",
+  "squadron": "HCU",
+  "crew_summary": "All killed",
+  "memorial_type": "Crash site cairn",
+  "sources": [
+    {
+      "title": "militaryaircraftcrashsites.blogspot.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the night of 23/24 November 1943, Halifax DT578 from 1658 HCU at Riccall took off on a night cross-country training exercise. The aircraft was one of several Halifax trainers airborne that night in conditions that included severe icing at altitude. The Halifax struck the western slope of Great Whernside at approximately 2,000 feet, killing all seven crew instantly. For many years it was believed that DT578 had collided mid-air with another Halifax from the same unit, JB926, which crashed the same night less than ten miles away near Masham. However, closer examination of the Accident Investigation Branch reports showed that JB926 was actually over St Bees Head on the Cumbrian coast at the time of DT578's crash, and did not come down at Agra Moor near Masham until 01:15 hours. The two crashes were independent incidents, both likely caused by icing. The crew of DT578 were all British, ranging in age from 19 to 30. Navigator Frank Robson was the eldest at 30; the youngest, wireless operator Norman Martin and gunner Kenneth Vincent, were both 19.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Stanley Chadwick",
+      "service_number": "1453551 RAFVR",
+      "age": 21,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Walney Island Churchyard, Lancashire",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Weldon Robson",
+      "service_number": "1451671 RAFVR",
+      "age": 30,
+      "role": "Navigator",
+      "nationality": "British",
+      "burial_location": "Hull Northern Cemetery, Yorkshire",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank James Robinson",
+      "service_number": "538137 RAF",
+      "age": 25,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Chesterton Churchyard, Staffordshire",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Norman Sebright Martin",
+      "service_number": "1600285 RAF",
+      "age": 19,
+      "role": "Wireless Op/Air Gunner",
+      "nationality": "British",
+      "burial_location": "East Finchley Cemetery, Middlesex",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Donald Paget Aitken",
+      "service_number": "1322354 RAFVR",
+      "age": 21,
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "burial_location": "Bognor Regis Cemetery, Sussex",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ernest Stabler",
+      "service_number": "1784108 RAFVR",
+      "age": 20,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Distington Churchyard, Cumbria",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Vincent",
+      "service_number": "1819902 RAFVR",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Wednesfield Churchyard, Staffordshire",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Flew into hillside; probable icing conditions",
+  "operation_type": "Training",
+  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial plaque at crash site on Great Whernside; separate memorial inside chapel at Hagg Dyke | | **Crash site plaque dedicated** | June 2016 | | **Organised by** | Joseph (Ernest Stabler's half-brother) and David Robson, with wider Robson family | | **Condition** | Good | | **Access** | Great Whernside (2,310 ft), Yorkshire Dales; remote hillside location, accessible on foot from Kettlewell |",
+  "latitude": 53.75927835272793,
+  "longitude": -1.2072348391153833
+}

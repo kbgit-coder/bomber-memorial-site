@@ -1,0 +1,80 @@
+{
+  "id": "craiglockhart-view-edinburgh-area-x3707",
+  "title": "CraigLockhart View (Edinburgh area) Wellington Memorial",
+  "location_name": "CraigLockhart View (Edinburgh area), Edinburgh / Lothian",
+  "county": "Edinburgh / Lothian",
+  "country": "United Kingdom",
+  "region_code": "SC-007",
+  "crash_date": "WW2",
+  "aircraft_type": "Vickers Wellington",
+  "serial_number": "X3707",
+  "squadron": "RAF Bomber Command",
+  "crew_summary": "All killed",
+  "memorial_type": "Small concrete cairn with metal plaque detailing names of airmen",
+  "sources": [
+    {
+      "title": "IWM (memorial/97912)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "This crash involved not a routine bomber but a Wellington being used for top-secret radar research. On 14 December 1942, Wellington X3707 took off from RAF Defford in Worcestershire -- home of the Telecommunications Research Establishment, where Britain developed its airborne radar systems -- bound for RAF Turnhouse (now Edinburgh Airport). On board were four RAF crew and one American signals officer, 1st Lt Kaulis of the USAAC, reflecting the close Anglo-American collaboration on radar technology. As the aircraft approached Edinburgh it suffered engine failure. The pilot attempted an emergency landing on the allotments in the Happy Valley area of Craiglockhart, beside the Union Canal. The aircraft struck the Allan Park Bridge (now a footbridge) and burst into flames. All five crew were killed. The secret nature of the mission meant the crash received minimal contemporary publicity. Warrant Officer McFadyen and Flight Sergeant McGregor were both Scottish, buried in Glasgow and Ballingry respectively. The American officer's burial location has not been confirmed.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Thomas Lennox French",
+      "service_number": "65991 RAFVR",
+      "age": 24,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Edinburgh (Corstorphine Hill) Cemetery, Sec B, Joint Grave 558",
+      "fate": "Killed"
+    },
+    {
+      "rank": "W/O",
+      "name": "Andrew McFadyen",
+      "service_number": "581109 RAF",
+      "age": 26,
+      "role": "Observer",
+      "nationality": "British",
+      "burial_location": "Glasgow (St Kentigern's) RC Cemetery, Sec 6, Grave 1776",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Charles McGregor",
+      "service_number": "638173 RAF",
+      "age": 23,
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "burial_location": "Ballingry Cemetery, Sec K, Grave 390",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "John Robert Harper",
+      "service_number": "1115653 RAFVR",
+      "age": 29,
+      "role": "Radar Operator",
+      "nationality": "British",
+      "burial_location": "Pickering Cemetery, Grave 1570",
+      "fate": "Killed"
+    },
+    {
+      "rank": "1st Lt",
+      "name": "S. Kaulis",
+      "service_number": "USAAC",
+      "age": 26,
+      "role": "Signaller",
+      "nationality": "American",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Engine failure; aircraft struck Allan Park Bridge while descending",
+  "operation_type": "Training",
+  "memorial_details": "A stone memorial cairn with an inscribed and painted metal plate was unveiled on 11 November 2012, on the 70th anniversary of the crash (adjusted to coincide with Remembrance Sunday). The memorial is situated in Craiglockhart Gardens, Edinburgh (EH14 1BS). It commemorates all five crew members. The memorial was organised by local residents and Edinburgh civic groups.",
+  "latitude": 53.67113632260189,
+  "longitude": -0.12035510797402282
+}

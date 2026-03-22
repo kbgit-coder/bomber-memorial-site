@@ -1,0 +1,75 @@
+{
+  "id": "tattershall-1-w4175",
+  "title": "Tattershall (1) Lancaster Memorial",
+  "location_name": "Tattershall (1), Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-029",
+  "crash_date": "1944-03-30",
+  "aircraft_type": "Lancaster",
+  "serial_number": "W4175",
+  "squadron": "97 Sqdn.",
+  "station": "Woodhall Spa",
+  "crew_summary": "7 killed including pilot Flg Off. Peter Hilary Norton",
+  "memorial_type": "Bridge memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "Lancaster W4175 had survived the long and dangerous round trip to Berlin -- one of the most heavily defended targets in Germany. The crew must have felt relief as they crossed the English coast and made for their home airfield. But tragedy struck at the last moment. While circling RAF Woodhall Spa preparing to land, the aircraft crashed onto the Tattershall and Coningsby Gas Works, killing all six crew instantly. The cruel irony of surviving a Berlin raid only to die within sight of home was a fate that befell more Bomber Command crews than the popular narrative acknowledges. Many losses occurred during landing, in circuit, or on approach -- exhausted crews flying damaged aircraft in poor visibility after hours of operational stress.",
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "D. W. Francis",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "P. H. Norton",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J. A. Peel",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W. Standring",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R. Frank",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "F. R. Birtwistle",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Crashed while circling the airfield on return",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing raid on Berlin",
+  "memorial_details": "A memorial plaque to the crew is located on the nearby Butt's Bridge. It was erected by the Royal British Legion Coningsby, Tattershall and District Branch. The plaque is publicly accessible on the bridge.",
+  "latitude": 53.19875074271027,
+  "longitude": -0.3049557312074799
+}

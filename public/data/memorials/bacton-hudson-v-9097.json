@@ -1,0 +1,52 @@
+{
+  "id": "bacton-hudson-v-9097",
+  "title": "Bacton V-9097 Memorial",
+  "location_name": "Bacton, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-001",
+  "crash_date": "1942-01-16",
+  "aircraft_type": "Hudson V-9097",
+  "squadron": "500 Squadron",
+  "station": "Bircham Newton",
+  "crew_summary": "4 killed including Plt Off. John MacGillivray",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "John MacGillivray",
+      "role": "Pilot",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Wilfred Albert Sanger",
+      "role": "Navigator",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Roger Bourne Wark",
+      "role": "Wireless Operator/Air Gunner",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Stewart Brownsell",
+      "role": "Wireless Operator/Air Gunner",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": 52.8441,
+  "longitude": 1.4599,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Crash site memorial | | Location | Bacton, Norfolk |"
+}

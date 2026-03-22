@@ -1,0 +1,148 @@
+{
+  "id": "dunbeath-short-sunderland-mk-",
+  "title": "Dunbeath Mk.III Memorial",
+  "location_name": "Dunbeath, Caithness, Highlands",
+  "county": "Highlands",
+  "country": "United Kingdom",
+  "region_code": "SC-004",
+  "crash_date": "1942-08-25",
+  "aircraft_type": "Short Sunderland Mk.III",
+  "squadron": "Coastal Command / Royal family flight",
+  "crew_summary": "14 of 15 killed including Prince George, Duke of Kent",
+  "memorial_type": "Memorial at Dunbeath",
+  "sources": [
+    {
+      "title": "Wikipedia (Dunbeath air crash)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On the afternoon of 25 August 1942, Sunderland W4026 took off from the seaplane base at RAF Invergordon on the Cromarty Firth at 13:05, bound for Reykjavik, Iceland. On board was HRH Prince George, Duke of Kent -- the fourth son of King George V, younger brother of the reigning King George VI, and an Air Commodore on active RAF duty -- along with his private secretary and batman, and the Sunderland's crew led by the 228 Squadron CO, Wing Commander Moseley. Fog persisted and the aircraft, flying on instruments, veered off its planned flight path. Just 37 minutes after take-off, at 13:42, the Sunderland flew into Eagle's Rock (Creag na h-Iolaire), a headland near Dunbeath in Caithness. Fourteen of the fifteen on board were killed. The sole survivor was Flt Sgt Andrew Jack, the rear gunner, who was thrown clear. The Duke of Kent became the first member of the Royal Family killed on active service since 1453 (the death of the Duke of York at the Battle of Wakefield, Wars of the Roses -- though some sources dispute this comparison). A Royal Air Force Board of Inquiry attributed the crash to navigational error. The incident has been the subject of continued speculation and conspiracy theories, though no evidence has emerged to contradict the official finding.",
+  "crew": [
+    {
+      "rank": "Flt Lt",
+      "name": "Frank McKenzie Goyen",
+      "service_number": "42057 RAF",
+      "role": "Captain/Pilot",
+      "nationality": "Australian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Wg Cdr",
+      "name": "Thomas Lawton Moseley",
+      "service_number": "33064 RAF",
+      "role": "CO 228 Sqn / 1st Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Sydney Wood Smith",
+      "service_number": "403961 RAAF",
+      "role": "2nd Pilot",
+      "nationality": "Australian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "George Richard Saunders",
+      "service_number": "126975 RAFVR",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "The Hon. Michael Strutt",
+      "service_number": "J15062 RCAF",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "William Royston Jones",
+      "service_number": "523047 RAF",
+      "role": "Flight Mechanic/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Charles Norman Lewis",
+      "service_number": "517386 RAF",
+      "role": "Airframe Fitter",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Ernest James Hewerdine",
+      "service_number": "566884 RAF",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Andrew Simpson Wilson Jack",
+      "service_number": "970168 RAFVR",
+      "role": "Rear Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Francis Blacklock",
+      "service_number": "405467 RNZAF",
+      "role": "W/Op Air Gunner",
+      "nationality": "New Zealander",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur Rowland Catt",
+      "service_number": "1252994 RAFVR",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Edward Sweett",
+      "service_number": "570678 RAF",
+      "role": "Fitter",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Air Cdre",
+      "name": "HRH Prince George, Duke of Kent",
+      "role": "VIP Passenger",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Lt",
+      "name": "John Crowther",
+      "service_number": "RNVR",
+      "role": "Private Secretary to Duke",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "LAC",
+      "name": "John Walter Holes",
+      "role": "Batman to Duke",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Navigational error leading to controlled flight into terrain in fog",
+  "operation_type": "Training",
+  "memorial_details": "Two memorials were erected in 1946 by the Ministry of Works. The primary monument is a Latin cross set on a tapering plinth and step, bearing the names of all fourteen who died. A secondary marker to the north denotes where the Duke of Kent's remains were discovered. The memorials are located between Berriedale and Braemore, approximately 3 miles west of Borgue and 4 miles SW of Dunbeath. Access is on foot across moorland.",
+  "latitude": 57.36615025722391,
+  "longitude": -5.121957111034671
+}

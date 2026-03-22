@@ -1,0 +1,41 @@
+{
+  "id": "chediston-dv930",
+  "title": "Chediston Wellington Memorial",
+  "location_name": "Chediston, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-003",
+  "crash_date": "1942-09-10",
+  "aircraft_type": "Wellington",
+  "serial_number": "DV930",
+  "squadron": "11 OTU",
+  "station": "Bassingbourn/Steeple Morden",
+  "crew_summary": "6 killed; pilot Sgt. Thomas F. Munro",
+  "memorial_type": "Stone marker",
+  "sources": [
+    {
+      "title": "Geograph Suffolk / IWM (memorial/72006)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "On 10 September 1942, Wellington DV930 from No. 11 Operational Training Unit was on a training flight when it crashed near the village of Chediston in Suffolk. The OTU system was Bomber Command's pipeline for producing operational crews, and the training involved realistic exercises that carried genuine risks. The Wellington had departed from Steeple Morden, a satellite of Bassingbourn, and all six crew members were killed in the crash. A memorial at the crash site near Chediston commemorates the crew.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Thomas Frazer Munro",
+      "role": "Pilot",
+      "fate": "Killed"
+    },
+    {
+      "name": "Five additional crew members",
+      "role": "Various",
+      "fate": "All killed"
+    }
+  ],
+  "latitude": 52.3407,
+  "longitude": 1.4498,
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Chediston, Suffolk |"
+}

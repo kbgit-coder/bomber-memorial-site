@@ -1,0 +1,81 @@
+{
+  "id": "coveney-double-lancaster-crash-ll667-and-lancaster-ll867",
+  "title": "Coveney (double Lancaster crash) Lancaster Memorial",
+  "location_name": "Coveney (double Lancaster crash), Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-003",
+  "os_grid_reference": "TL4882",
+  "crash_date": "1944-04-19",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LL667 and Lancaster LL867",
+  "squadron": "115 Squadron",
+  "station": "Witchford",
+  "crew_summary": "14 killed (7 each aircraft)",
+  "memorial_type": "Double memorial",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Complete",
+  "narrative": "Lancaster ED503 took off from RAF Waddington on 29 January 1943 for an engine and airframe test flight. Over the flat fenland near Boston, the aircraft suddenly lost altitude for reasons that were never determined and plunged into the waterlogged ground at Sibsey Northlands. The impact created a deep crater in the quicksand and subsoil. The fire service spent two days attempting to pump out the water and recover the crew, but it proved impossible. The fen simply swallowed the aircraft and five of its six crew members. Only Sgt Thomas Wishart, who was thrown clear of the wreckage on impact, could be recovered. He was buried in his home town of Dalkeith, Scotland. His five crewmates remain where they fell, entombed in the Lincolnshire fenland. Because their bodies were never recovered, the five are commemorated on the Runnymede Memorial. After the war, the families of the crew paid for a stone cross memorial to be erected at the crash site. It was consecrated in 1947 and bears all six names. The memorial stands alone in open fenland -- a solitary cross in a vast flat landscape, marking where five young men lie forever.",
+  "crew": [
+    {
+      "rank": "Fl/Lt",
+      "name": "Robert Frood Lind",
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Buried at crash site (unrecoverable)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Charles Cocks",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "burial_location": "Buried at crash site (unrecoverable)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Doran",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Buried at crash site (unrecoverable)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Henry",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "burial_location": "Buried at crash site (unrecoverable)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Donald Brown",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Buried at crash site (unrecoverable)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Wishart",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Dalkeith, Scotland (thrown clear)",
+      "fate": "Killed"
+    }
+  ],
+  "cause_of_loss": "Unknown -- aircraft suddenly lost height",
+  "operation_type": "Training",
+  "memorial_details": "Stone cross memorial erected 1947, funded by the crew's families. Located in open fenland at Bishops Farm, Sibsey Northlands. The Sibsey Lancaster Memorial Trust (associated with Coningsby Town Council) maintains the site and organises annual commemorations, regularly attended by 200+ people, with wreaths from the Royal British Legion, RAFA, and RAF Coningsby. The Mareham Le Fen Silver Band provides music. Condition: good, actively maintained.",
+  "latitude": 52.267168493387224,
+  "longitude": 0.04224725911114649
+}
