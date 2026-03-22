@@ -1,12 +1,36 @@
-import { getAllMemorials, getMemorialStats, getFeaturedMemorials } from "@/lib/data";
+import { getAllMemorials, getMemorialStats, getFeaturedMemorials, getCountryCodes } from "@/lib/data";
 import MemorialCard from "@/components/MemorialCard";
 import SearchBar from "@/components/SearchBar";
-import MemorialMap from "@/components/MemorialMap";
+import Link from "next/link";
+import { Memorial } from "@/lib/types";
+
+// Strip heavy fields to reduce page payload
+function toLightMemorial(m: Memorial): Memorial {
+  return {
+    id: m.id,
+    title: m.title,
+    location_name: m.location_name,
+    county: m.county,
+    country: m.country,
+    region_code: m.region_code,
+    crash_date: m.crash_date,
+    aircraft_type: m.aircraft_type,
+    serial_number: m.serial_number,
+    squadron: m.squadron,
+    data_quality: m.data_quality,
+    memorial_type: m.memorial_type,
+  };
+}
 
 export default function HomePage() {
-  const memorials = getAllMemorials();
+  const allMemorials = getAllMemorials();
   const stats = getMemorialStats();
   const featured = getFeaturedMemorials();
+  const regions = getCountryCodes();
+
+  // Light versions for search (no narratives, crew arrays, coords, or sources)
+  const memorials = allMemorials.map(toLightMemorial);
+  const featuredLight = featured.map(toLightMemorial);
 
   return (
     <div>
@@ -21,7 +45,6 @@ export default function HomePage() {
           overflow: "hidden",
         }}
       >
-        {/* Subtle gold accent line */}
         <div
           style={{
             position: "absolute",
@@ -63,7 +86,6 @@ export default function HomePage() {
           Bomber Command during the Second World War. Lest we forget.
         </p>
 
-        {/* Gold divider */}
         <div
           style={{
             width: 80,
@@ -112,7 +134,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Map Section */}
+      {/* Browse by Region */}
       <section
         style={{
           maxWidth: 1200,
@@ -125,11 +147,11 @@ export default function HomePage() {
             fontFamily: "'Helvetica Neue', Arial, sans-serif",
             color: "#1a2332",
             fontSize: "1.5rem",
-            marginBottom: "1rem",
+            marginBottom: "0.5rem",
             textAlign: "center",
           }}
         >
-          Memorial Locations
+          Browse by Region
         </h2>
         <p
           style={{
@@ -139,19 +161,49 @@ export default function HomePage() {
             fontSize: "0.95rem",
           }}
         >
-          Showing memorials with known coordinates. Many more locations are being
-          researched.
+          Explore memorials across {stats.countries} countries.
         </p>
-        <MemorialMap memorials={memorials} />
+        <div
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "center",
+            gap: "0.75rem",
+          }}
+        >
+          {regions.map((region) => (
+            <Link
+              key={region.code}
+              href={`/region/${region.code}`}
+              style={{
+                display: "inline-block",
+                padding: "0.5rem 1.25rem",
+                backgroundColor: "#ffffff",
+                border: "1px solid #e0dcd5",
+                borderRadius: 20,
+                fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                fontSize: "0.875rem",
+                color: "#1a2332",
+                textDecoration: "none",
+                transition: "all 0.2s ease",
+              }}
+            >
+              {region.name}{" "}
+              <span style={{ color: "#8b7355", fontSize: "0.8rem" }}>
+                ({region.count})
+              </span>
+            </Link>
+          ))}
+        </div>
       </section>
 
       {/* Featured Memorials */}
-      {featured.length > 0 && (
+      {featuredLight.length > 0 && (
         <section
           style={{
             maxWidth: 1200,
             margin: "3rem auto",
-            padding: "0 1.5rem",
+            padding: "0 1.5rem 2rem",
           }}
         >
           <h2
@@ -182,67 +234,12 @@ export default function HomePage() {
               gap: "1.5rem",
             }}
           >
-            {featured.map((memorial) => (
+            {featuredLight.map((memorial) => (
               <MemorialCard key={memorial.id} memorial={memorial} />
             ))}
           </div>
         </section>
       )}
-
-      {/* Recent Additions */}
-      <section
-        style={{
-          maxWidth: 1200,
-          margin: "3rem auto",
-          padding: "0 1.5rem 2rem",
-        }}
-      >
-        <h2
-          style={{
-            fontFamily: "'Helvetica Neue', Arial, sans-serif",
-            color: "#1a2332",
-            fontSize: "1.5rem",
-            marginBottom: "0.5rem",
-            textAlign: "center",
-          }}
-        >
-          All Memorials
-        </h2>
-        <p
-          style={{
-            textAlign: "center",
-            color: "#666",
-            marginBottom: "2rem",
-            fontSize: "0.95rem",
-          }}
-        >
-          Browse the complete register of {stats.totalMemorials} memorials.
-        </p>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fill, minmax(320px, 1fr))",
-            gap: "1.5rem",
-          }}
-        >
-          {memorials.slice(0, 12).map((memorial) => (
-            <MemorialCard key={memorial.id} memorial={memorial} />
-          ))}
-        </div>
-        {memorials.length > 12 && (
-          <p
-            style={{
-              textAlign: "center",
-              marginTop: "2rem",
-              color: "#8b7355",
-              fontStyle: "italic",
-            }}
-          >
-            Showing 12 of {memorials.length} memorials. Use the search above or
-            browse by region.
-          </p>
-        )}
-      </section>
     </div>
   );
 }

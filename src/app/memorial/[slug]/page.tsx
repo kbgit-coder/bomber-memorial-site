@@ -5,6 +5,7 @@ import {
 } from "@/lib/data";
 import CrewTable from "@/components/CrewTable";
 import StubCTA from "@/components/StubCTA";
+import MemorialMap from "@/components/MemorialMap";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -112,6 +113,24 @@ export default function MemorialPage({ params }: Props) {
           {memorial.data_quality || "Stub"} Record
         </span>
       </div>
+
+      {/* Location Map */}
+      {memorial.latitude != null && memorial.longitude != null && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Location</h2>
+          {memorial.location_name && (
+            <p style={{ color: "#666", fontSize: "0.95rem", marginBottom: "1rem" }}>
+              {memorial.location_name}
+              {memorial.county && `, ${memorial.county}`}
+            </p>
+          )}
+          <MemorialMap
+            memorials={[memorial]}
+            center={[memorial.latitude, memorial.longitude]}
+            zoom={13}
+          />
+        </section>
+      )}
 
       {/* Photos (Farnsfield) */}
       {isFarnsfield && (
