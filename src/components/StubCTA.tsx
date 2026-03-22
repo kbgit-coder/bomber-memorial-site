@@ -50,11 +50,19 @@ export default function StubCTA({ quality, title }: StubCTAProps) {
           fontStyle: "italic",
         }}
       >
-        Contact us at{" "}
+        Email{" "}
         <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
           admin@bombermemorial.co.uk
         </a>{" "}
-        to contribute information
+        or contribute directly via our{" "}
+        <a
+          href="https://github.com/kbgit-coder/bomber-memorial-site"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#2c5f8a" }}
+        >
+          GitHub repository
+        </a>
       </p>
     </div>
   );

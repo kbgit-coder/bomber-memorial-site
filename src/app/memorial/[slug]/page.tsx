@@ -129,6 +129,19 @@ export default function MemorialPage({ params }: Props) {
             center={[memorial.latitude, memorial.longitude]}
             zoom={13}
           />
+          {memorial.what3words && (
+            <p style={{ marginTop: "0.75rem", fontSize: "0.9rem" }}>
+              <span style={{ color: "#999" }}>what3words: </span>
+              <a
+                href={`https://what3words.com/${memorial.what3words}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: "#2c5f8a", fontWeight: 500 }}
+              >
+                {"///"}{memorial.what3words}
+              </a>
+            </p>
+          )}
         </section>
       )}
 
@@ -403,6 +416,132 @@ export default function MemorialPage({ params }: Props) {
                 {memorial.maintainer.notes}
               </p>
             )}
+          </div>
+        </section>
+      )}
+
+      {/* Local Contacts */}
+      {memorial.local_contacts && memorial.local_contacts.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Local Contacts</h2>
+          <p style={{ fontSize: "0.9rem", color: "#666", marginBottom: "1rem" }}>
+            These local organisations are connected to this memorial and may be able to help with information or visits.
+          </p>
+          <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+            {memorial.local_contacts.map((contact, i) => (
+              <div
+                key={i}
+                style={{
+                  backgroundColor: "#ffffff",
+                  border: "1px solid #e0dcd5",
+                  borderRadius: 8,
+                  padding: "1.25rem 1.5rem",
+                }}
+              >
+                <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", marginBottom: "0.5rem" }}>
+                  <span style={{ fontWeight: 600, color: "#1a2332", fontSize: "1rem" }}>
+                    {contact.org_name}
+                  </span>
+                  {contact.org_type && (
+                    <span
+                      style={{
+                        fontSize: "0.7rem",
+                        padding: "0.2rem 0.6rem",
+                        borderRadius: 10,
+                        textTransform: "uppercase",
+                        letterSpacing: "0.05em",
+                        fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                        backgroundColor: contact.org_type === "british_legion" ? "#1a2332" : "#eee8dd",
+                        color: contact.org_type === "british_legion" ? "#d4c98c" : "#8b7355",
+                      }}
+                    >
+                      {contact.org_type.replace(/_/g, " ")}
+                    </span>
+                  )}
+                </div>
+                {contact.role && (
+                  <p style={{ fontSize: "0.9rem", color: "#666", marginBottom: "0.5rem", fontStyle: "italic" }}>
+                    {contact.role}
+                  </p>
+                )}
+                <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem", fontSize: "0.9rem" }}>
+                  {contact.contact_name && (
+                    <span style={{ color: "#333" }}>{contact.contact_name}</span>
+                  )}
+                  {contact.contact_email && (
+                    <a href={`mailto:${contact.contact_email}`} style={{ color: "#2c5f8a" }}>
+                      {contact.contact_email}
+                    </a>
+                  )}
+                  {contact.contact_phone && (
+                    <span style={{ color: "#333" }}>{contact.contact_phone}</span>
+                  )}
+                  {contact.website && (
+                    <a
+                      href={contact.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "#2c5f8a" }}
+                    >
+                      {contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+                    </a>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* External Stories */}
+      {memorial.external_narratives && memorial.external_narratives.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Stories From Other Sources</h2>
+          <p style={{ fontSize: "0.9rem", color: "#666", marginBottom: "1rem" }}>
+            Additional information about this memorial gathered from other heritage sites.
+          </p>
+          <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
+            {memorial.external_narratives.map((narrative, i) => (
+              <div
+                key={i}
+                style={{
+                  backgroundColor: "#ffffff",
+                  border: "1px solid #e0dcd5",
+                  borderLeft: "3px solid #2c5f8a",
+                  borderRadius: "0 8px 8px 0",
+                  padding: "1.25rem 1.5rem",
+                }}
+              >
+                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "0.5rem" }}>
+                  <a
+                    href={narrative.original_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: "#2c5f8a", fontWeight: 600, fontSize: "1rem" }}
+                  >
+                    {narrative.source_site}
+                  </a>
+                  {narrative.date_retrieved && (
+                    <span style={{ fontSize: "0.75rem", color: "#999" }}>
+                      Retrieved {narrative.date_retrieved}
+                      {narrative.still_live === false && (
+                        <span style={{ color: "#c44", marginLeft: "0.5rem" }}>(link may be broken)</span>
+                      )}
+                    </span>
+                  )}
+                </div>
+                {narrative.summary && (
+                  <p style={{ fontSize: "0.95rem", color: "#333", lineHeight: 1.7, marginBottom: "0.5rem" }}>
+                    {narrative.summary}
+                  </p>
+                )}
+                {narrative.key_details && (
+                  <p style={{ fontSize: "0.9rem", color: "#666", fontStyle: "italic" }}>
+                    {narrative.key_details}
+                  </p>
+                )}
+              </div>
+            ))}
           </div>
         </section>
       )}

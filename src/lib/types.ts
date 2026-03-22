@@ -24,6 +24,25 @@ export interface Maintainer {
   notes?: string;
 }
 
+export interface LocalContact {
+  org_name: string;
+  org_type?: string;
+  role?: string;
+  contact_name?: string;
+  contact_email?: string;
+  contact_phone?: string;
+  website?: string;
+}
+
+export interface ExternalNarrative {
+  source_site: string;
+  original_url: string;
+  summary?: string;
+  key_details?: string;
+  date_retrieved?: string;
+  still_live?: boolean;
+}
+
 export interface Memorial {
   id: string;
   title: string;
@@ -33,6 +52,7 @@ export interface Memorial {
   county?: string;
   country?: string;
   region_code?: string;
+  what3words?: string;
   crash_date?: string;
   aircraft_type?: string;
   serial_number?: string;
@@ -50,6 +70,8 @@ export interface Memorial {
   dedication_date?: string;
   condition?: string;
   maintainer?: Maintainer;
+  local_contacts?: LocalContact[];
+  external_narratives?: ExternalNarrative[];
   sources?: Source[];
   contributor?: string;
   last_updated?: string;
