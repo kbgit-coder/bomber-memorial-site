@@ -21,51 +21,51 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "By January 1945, the Short Stirling was obsolete as a front-line bomber and was being withdrawn from service. Stirling EH988 of 1661 HCU at RAF Winthorpe was being ferried to Maghaberry in Northern Ireland for scrapping. Squadron Leader Cockbain, an experienced pilot who had been \"rested\" from operations and posted to Ferry Command, was at the controls. Shortly after takeoff, one of the starboard engines caught fire. Witnesses saw the aircraft begin to turn, the turn becoming increasingly steep. The Stirling entered cloud and went into an uncontrollable diving turn, crashing at Home Farm on the Annesley Park estate near Mansfield. All five crew members were killed. The crash was grimly ironic \u2014 these men died not on a bombing raid or training flight, but while delivering a worn-out aircraft to be broken up. The Stirling, with its relatively short wingspan and underpowered engines, was notoriously difficult to fly on asymmetric power when an engine failed \u2014 a fatal characteristic that claimed many crews.",
+  "narrative": "By January 1945, the Short Stirling was obsolete as a front-line bomber and was being withdrawn from service. Stirling EH988 of 1661 HCU at RAF Winthorpe was being ferried to Maghaberry in Northern Ireland for scrapping. Squadron Leader Cockbain, an experienced pilot who had been \"rested\" from operations and posted to Ferry Command, was at the controls. Shortly after takeoff, one of the starboard engines caught fire. Witnesses saw the aircraft begin to turn, the turn becoming increasingly steep. The Stirling entered cloud and went into an uncontrollable diving turn, crashing at Home Farm on the Annesley Park estate near Mansfield. All five crew members were killed. The crash was grimly ironic — these men died not on a bombing raid or training flight, but while delivering a worn-out aircraft to be broken up. The Stirling, with its relatively short wingspan and underpowered engines, was notoriously difficult to fly on asymmetric power when an engine failed — a fatal characteristic that claimed many crews.",
   "crew": [
     {
       "rank": "S/Ldr",
       "name": "S.L. Cockbain",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Pilot",
       "nationality": "British",
       "burial_location": "Oxford (Botley) Cemetery",
       "fate": "Killed"
     },
     {
-      "rank": "\u2014",
+      "rank": "—",
       "name": "T.A. Ball",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
-      "rank": "\u2014",
+      "rank": "—",
       "name": "E.C. Barton",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
-      "rank": "\u2014",
+      "rank": "—",
       "name": "K. Harris",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
-      "rank": "\u2014",
+      "rank": "—",
       "name": "J. Littlemore",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     }
   ],
@@ -73,5 +73,9 @@
   "longitude": -1.2422,
   "cause_of_loss": "Starboard engine fire; aircraft entered cloud in steep diving turn and crashed",
   "operation_type": "Training",
-  "memorial_details": "A memorial garden was established at the Priory Hospital site (formerly Annesley Park) and dedicated on 16 September 1998, unveiled by Group Captain Cook with RAF veterans and surviving family members present. The memorial includes a stone of remembrance, a memorial bench, and an interpretive panel featuring a photograph of a Stirling bomber. The site is accessible to visitors at Priory Hospital."
+  "memorial_details": "A memorial garden was established at the Priory Hospital site (formerly Annesley Park) and dedicated on 16 September 1998, unveiled by Group Captain Cook with RAF veterans and surviving family members present. The memorial includes a stone of remembrance, a memorial bench, and an interpretive panel featuring a photograph of a Stirling bomber. The site is accessible to visitors at Priory Hospital.",
+  "maintainer": {
+    "organisation": "Annesley and Felley Parish Council",
+    "maintainer_type": "parish-council"
+  }
 }

@@ -15,12 +15,17 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - Sgt Warne, Lancaster W4270",
+      "url": "https://aircrewremembered.com/warne-thomas.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position \u2014 possibly deployed in preparation for an emergency landing \u2014 the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border \u2014 territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
+  "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position — possibly deployed in preparation for an emergency landing — the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border — territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
   "crew": [
     {
       "rank": "Sgt",
@@ -97,5 +102,10 @@
   "longitude": -0.8009,
   "cause_of_loss": "Con rod broke on inner starboard engine; fire spread; undercarriage lowered causing loss of control",
   "operation_type": "Training",
-  "memorial_details": "An original memorial was erected in St Mary's churchyard, Staunton-in-the-Vale. By 2010, the original brass plaques had degraded, and local historian efforts led to their replacement with slate tablets. A rededication ceremony was held on 3 July 2010, attended by relatives and RAF representatives. The memorial site is publicly accessible in the churchyard. A dedicated website (stauntonlancaster.co.uk) preserves the full story of the crew."
+  "memorial_details": "An original memorial was erected in St Mary's churchyard, Staunton-in-the-Vale. By 2010, the original brass plaques had degraded, and local historian efforts led to their replacement with slate tablets. A rededication ceremony was held on 3 July 2010, attended by relatives and RAF representatives. The memorial site is publicly accessible in the churchyard. A dedicated website (stauntonlancaster.co.uk) preserves the full story of the crew.",
+  "maintainer": {
+    "organisation": "Staunton in the Vale Parish Meeting",
+    "maintainer_type": "parish-council",
+    "notes": "Memorial with interpretation board in new burial ground of St Mary's Church."
+  }
 }

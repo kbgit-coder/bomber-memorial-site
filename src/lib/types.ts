@@ -15,6 +15,15 @@ export interface Source {
   type?: string;
 }
 
+export interface Maintainer {
+  organisation?: string;
+  contact_email?: string;
+  contact_phone?: string;
+  website?: string;
+  maintainer_type?: string;
+  notes?: string;
+}
+
 export interface Memorial {
   id: string;
   title: string;
@@ -40,6 +49,7 @@ export interface Memorial {
   erected_by?: string;
   dedication_date?: string;
   condition?: string;
+  maintainer?: Maintainer;
   sources?: Source[];
   contributor?: string;
   last_updated?: string;

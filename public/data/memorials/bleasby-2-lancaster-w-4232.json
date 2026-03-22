@@ -15,11 +15,22 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - P/O Humphreys, Lancaster W4232",
+      "url": "https://aircrewremembered.com/humphreys-bruce-lettington.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
   "latitude": 53.11326757190086,
-  "longitude": -1.1065140272315284
+  "longitude": -1.1065140272315284,
+  "maintainer": {
+    "organisation": "Bleasby Parish Council",
+    "website": "https://www.bleasbycommunity.uk",
+    "maintainer_type": "parish-council",
+    "notes": "Part of the Bleasby Aircrew Memorial site."
+  }
 }

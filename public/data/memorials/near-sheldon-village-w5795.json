@@ -21,7 +21,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "This was no ordinary training accident. Wellington Mk.VI W5795 was a specialised high-altitude variant with a pressurised cabin, being tested from the Aeroplane and Armament Experimental Establishment at Boscombe Down, Wiltshire. The crew was flying at 35,000 feet \u2014 an extraordinary altitude for a Wellington \u2014 testing whether it was possible to fly above the ceiling of German fighters. During the flight, a propeller sheared off and tore through the pressurised cabin, causing catastrophic decompression and structural failure. The aircraft crashed into farmland in Stanley parish near Ilkeston. All five aboard were killed, including civilian test observer Clifford Abbott, aged 23. The presence of a DFM holder (Flight Sergeant Arthur Smith) and a Squadron Leader among the dead speaks to the calibre of men involved in this classified test programme. The Wellington VI was one of the rarest marks produced, with only around 64 built, designed specifically for high-altitude operations.",
+  "narrative": "This was no ordinary training accident. Wellington Mk.VI W5795 was a specialised high-altitude variant with a pressurised cabin, being tested from the Aeroplane and Armament Experimental Establishment at Boscombe Down, Wiltshire. The crew was flying at 35,000 feet — an extraordinary altitude for a Wellington — testing whether it was possible to fly above the ceiling of German fighters. During the flight, a propeller sheared off and tore through the pressurised cabin, causing catastrophic decompression and structural failure. The aircraft crashed into farmland in Stanley parish near Ilkeston. All five aboard were killed, including civilian test observer Clifford Abbott, aged 23. The presence of a DFM holder (Flight Sergeant Arthur Smith) and a Squadron Leader among the dead speaks to the calibre of men involved in this classified test programme. The Wellington VI was one of the rarest marks produced, with only around 64 built, designed specifically for high-altitude operations.",
   "crew": [
     {
       "rank": "S/Ldr",
@@ -30,7 +30,7 @@
       "age": 29,
       "role": "Pilot",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
@@ -40,7 +40,7 @@
       "age": 27,
       "role": "Pilot",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
@@ -50,7 +50,7 @@
       "age": 22,
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
@@ -60,17 +60,17 @@
       "age": 23,
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     },
     {
       "rank": "Mr",
       "name": "Clifford V. Abbott",
-      "service_number": "\u2014 (civilian)",
+      "service_number": "— (civilian)",
       "age": 23,
       "role": "Civilian Test Observer",
       "nationality": "British",
-      "burial_location": "\u2014",
+      "burial_location": "—",
       "fate": "Killed"
     }
   ],
@@ -78,5 +78,10 @@
   "operation_type": "Training",
   "memorial_details": "A polished grey granite tablet featuring the Royal Air Force badge was unveiled on 11 July 2004 in St Andrew's Churchyard, Stanley. The War Memorials Trust contributed towards the memorial costs. The inscription reads: \"In Memory of The Crew of Wellington Mk VI W5795 Who Tragically Lost Their Lives On 12th July 1942 In A Crash In the Quarry Farm Area Of This Parish.\" Publicly accessible in the churchyard.",
   "latitude": 53.17301352158918,
-  "longitude": -1.824359179371043
+  "longitude": -1.824359179371043,
+  "maintainer": {
+    "organisation": "Sheldon Parish Meeting",
+    "maintainer_type": "parish-council",
+    "notes": "Village memorial; Lancaster Bomber flypast conducted at 80th anniversary 2022."
+  }
 }

@@ -22,12 +22,12 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "This is one of the most tragic cases in the East Midlands \u2014 a friendly fire incident. On the night of 21-22 June 1941, seven Avro Manchester bombers of 207 Squadron took off from RAF Waddington to bomb the docks at Boulogne. L7314, piloted by 21-year-old Flying Officer Withers (a contemporary of the legendary Guy Gibson at 83 Squadron, Scampton), was returning at about 6,000 feet when it was attacked by a Beaufighter night fighter crewed by Pilot Officers Smith and Lusty, who had been scrambled to intercept reported enemy raiders. The Manchester was set ablaze and crashed near Poplars Farm, Wollaston. Some crew members attempted to escape the burning wreck, but part of the bomb load exploded before they could get clear. Nobody survived. Traces of only five bodies were recovered. The Beaufighter crew were subsequently court-martialled, and blame was also apportioned to the ground control station that had vectored them. The Avro Manchester itself was notoriously unreliable \u2014 only 200 were built before the type was replaced by the four-engined Lancaster \u2014 making its crews doubly vulnerable. F/O Withers held the DFC; Fl/Sgt Brown the DFM \u2014 both decorated men killed by their own side.",
+  "narrative": "This is one of the most tragic cases in the East Midlands — a friendly fire incident. On the night of 21-22 June 1941, seven Avro Manchester bombers of 207 Squadron took off from RAF Waddington to bomb the docks at Boulogne. L7314, piloted by 21-year-old Flying Officer Withers (a contemporary of the legendary Guy Gibson at 83 Squadron, Scampton), was returning at about 6,000 feet when it was attacked by a Beaufighter night fighter crewed by Pilot Officers Smith and Lusty, who had been scrambled to intercept reported enemy raiders. The Manchester was set ablaze and crashed near Poplars Farm, Wollaston. Some crew members attempted to escape the burning wreck, but part of the bomb load exploded before they could get clear. Nobody survived. Traces of only five bodies were recovered. The Beaufighter crew were subsequently court-martialled, and blame was also apportioned to the ground control station that had vectored them. The Avro Manchester itself was notoriously unreliable — only 200 were built before the type was replaced by the four-engined Lancaster — making its crews doubly vulnerable. F/O Withers held the DFC; Fl/Sgt Brown the DFM — both decorated men killed by their own side.",
   "crew": [
     {
       "rank": "F/O",
       "name": "John Douglas George Withers DFC",
-      "service_number": "\u2014",
+      "service_number": "—",
       "age": 21,
       "role": "Pilot",
       "nationality": "British",
@@ -37,7 +37,7 @@
     {
       "rank": "Sgt",
       "name": "Alick Michael James",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "2nd Pilot",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
@@ -46,7 +46,7 @@
     {
       "rank": "Fl/Sgt",
       "name": "William Brown DFM",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "Observer",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
@@ -55,7 +55,7 @@
     {
       "rank": "Fl/Sgt",
       "name": "Michael Vincent Browne",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
@@ -64,7 +64,7 @@
     {
       "rank": "Fl/Sgt",
       "name": "Allan Malone",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
@@ -73,7 +73,7 @@
     {
       "rank": "Sgt",
       "name": "Stanley Veitch",
-      "service_number": "\u2014",
+      "service_number": "—",
       "role": "W/Op",
       "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
@@ -82,17 +82,22 @@
     {
       "rank": "Sgt",
       "name": "John Allan Maville",
-      "service_number": "\u2014 RCAF",
+      "service_number": "— RCAF",
       "role": "Air Gunner",
       "nationality": "Canadian",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed"
     }
   ],
-  "cause_of_loss": "Friendly fire \u2014 shot down by RAF Beaufighter night fighter",
+  "cause_of_loss": "Friendly fire — shot down by RAF Beaufighter night fighter",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on docks at Boulogne, France",
-  "memorial_details": "On 22 June 2021 \u2014 eighty years to the day \u2014 a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.",
+  "memorial_details": "On 22 June 2021 — eighty years to the day — a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.",
   "latitude": 52.265704289112776,
-  "longitude": -0.8067779277484537
+  "longitude": -0.8067779277484537,
+  "maintainer": {
+    "organisation": "Wollaston Parish Council",
+    "maintainer_type": "parish-council",
+    "notes": "1.5-ton Derbyshire Gritstone block with plaque."
+  }
 }

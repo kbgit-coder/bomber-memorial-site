@@ -15,7 +15,7 @@
   "operation_type": "Training",
   "operation_target": "Combined navigation and bombing exercise",
   "cause_of_loss": "Suspected parachute harness entangled in controls; aircraft dived from 8,000 ft",
-  "narrative": "Lancaster L7578 was a historically significant aircraft \u2014 originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and Conversion Units 1654 and 1668 before arriving at 5 LFS. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery. Eyewitnesses Arthur Knowles (later 91) and Kath Yates (85) attended a 75th anniversary memorial service in 2019, led by the Vice Lord-Lieutenant of Nottinghamshire and the Royal Canadian Air Force.",
+  "narrative": "Lancaster L7578 was a historically significant aircraft — originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and Conversion Units 1654 and 1668 before arriving at 5 LFS. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery. Eyewitnesses Arthur Knowles (later 91) and Kath Yates (85) attended a 75th anniversary memorial service in 2019, led by the Vice Lord-Lieutenant of Nottinghamshire and the Royal Canadian Air Force.",
   "crew": [
     {
       "rank": "P/O",
@@ -107,9 +107,20 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
       "type": "database"
+    },
+    {
+      "title": "Aircrew Remembered - P/O Sanderson, Lancaster L7578",
+      "url": "https://aircrewremembered.com/sanderson-george.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
-  "data_quality": "Complete"
+  "data_quality": "Complete",
+  "maintainer": {
+    "organisation": "Gonalston Parish Meeting",
+    "website": "https://gonalston.parish.uk",
+    "maintainer_type": "parish-council",
+    "notes": "Maintained by local community. Gonalston is a small parish with a parish meeting rather than a full council."
+  }
 }

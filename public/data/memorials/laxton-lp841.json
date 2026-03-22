@@ -21,7 +21,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section \u2014 carrying rear gunner Sgt Eden \u2014 separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
+  "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section — carrying rear gunner Sgt Eden — separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
   "crew": [
     {
       "rank": "F/O",
@@ -62,5 +62,9 @@
   "cause_of_loss": "Hit electrical pole near local stream; burst into flames",
   "operation_type": "Training",
   "latitude": 53.09836221112822,
-  "longitude": -1.0971748885492252
+  "longitude": -1.0971748885492252,
+  "maintainer": {
+    "organisation": "Laxton and Moorhouse Parish Council",
+    "maintainer_type": "parish-council"
+  }
 }

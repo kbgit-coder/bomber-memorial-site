@@ -296,6 +296,117 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
+      {/* Memorial Care */}
+      {memorial.maintainer && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Memorial Care</h2>
+          <div
+            style={{
+              backgroundColor: "#ffffff",
+              border: "1px solid #e0dcd5",
+              borderRadius: 8,
+              padding: "1.5rem",
+            }}
+          >
+            {memorial.maintainer.maintainer_type && (
+              <div style={{ marginBottom: "1rem" }}>
+                <span
+                  style={{
+                    fontSize: "0.7rem",
+                    padding: "0.2rem 0.6rem",
+                    borderRadius: 10,
+                    textTransform: "uppercase",
+                    letterSpacing: "0.05em",
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    backgroundColor: "#eee8dd",
+                    color: "#8b7355",
+                  }}
+                >
+                  {memorial.maintainer.maintainer_type.replace(/-/g, " ")}
+                </span>
+              </div>
+            )}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+                gap: "1rem",
+              }}
+            >
+              {memorial.maintainer.organisation && (
+                <DetailItem label="Organisation" value={memorial.maintainer.organisation} />
+              )}
+              {memorial.maintainer.contact_email && (
+                <div>
+                  <div
+                    style={{
+                      fontSize: "0.7rem",
+                      color: "#999",
+                      textTransform: "uppercase",
+                      letterSpacing: "0.05em",
+                      fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                      marginBottom: "0.2rem",
+                    }}
+                  >
+                    Contact Email
+                  </div>
+                  <div style={{ fontWeight: 500, color: "#333" }}>
+                    <a
+                      href={`mailto:${memorial.maintainer.contact_email}`}
+                      style={{ color: "#2c5f8a" }}
+                    >
+                      {memorial.maintainer.contact_email}
+                    </a>
+                  </div>
+                </div>
+              )}
+              {memorial.maintainer.contact_phone && (
+                <DetailItem label="Contact Phone" value={memorial.maintainer.contact_phone} />
+              )}
+              {memorial.maintainer.website && (
+                <div>
+                  <div
+                    style={{
+                      fontSize: "0.7rem",
+                      color: "#999",
+                      textTransform: "uppercase",
+                      letterSpacing: "0.05em",
+                      fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                      marginBottom: "0.2rem",
+                    }}
+                  >
+                    Website
+                  </div>
+                  <div style={{ fontWeight: 500, color: "#333" }}>
+                    <a
+                      href={memorial.maintainer.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: "#2c5f8a" }}
+                    >
+                      {memorial.maintainer.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
+                    </a>
+                  </div>
+                </div>
+              )}
+            </div>
+            {memorial.maintainer.notes && (
+              <p
+                style={{
+                  marginTop: "1rem",
+                  fontSize: "0.9rem",
+                  color: "#666",
+                  fontStyle: "italic",
+                  lineHeight: 1.6,
+                }}
+              >
+                {memorial.maintainer.notes}
+              </p>
+            )}
+          </div>
+        </section>
+      )}
+
       {/* Sources */}
       {memorial.sources && memorial.sources.length > 0 && (
         <section style={{ marginBottom: "2.5rem" }}>

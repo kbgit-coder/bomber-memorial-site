@@ -20,7 +20,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-22",
   "data_quality": "Complete",
-  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle \u2014 a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. F/O Gebicki, an experienced 39-year-old pilot, stayed airborne until fuel was nearly exhausted, then attempted to land in darkness. The memorial \u2014 a steel cross with the inscription 'Perished for our and your freedom' \u2014 was erected by coal miners building the railway to Calverton Colliery. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
+  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle — a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. F/O Gebicki, an experienced 39-year-old pilot, stayed airborne until fuel was nearly exhausted, then attempted to land in darkness. The memorial — a steel cross with the inscription 'Perished for our and your freedom' — was erected by coal miners building the railway to Calverton Colliery. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
   "crew": [
     {
       "rank": "F/O",
@@ -54,5 +54,10 @@
   "operation_type": "Operational",
   "operation_target": "Calais harbour",
   "latitude": 53.107093591734746,
-  "longitude": -0.8762020125583881
+  "longitude": -0.8762020125583881,
+  "maintainer": {
+    "organisation": "Calverton Parish Council",
+    "website": "https://www.calvertonparishcouncil.gov.uk",
+    "maintainer_type": "parish-council"
+  }
 }

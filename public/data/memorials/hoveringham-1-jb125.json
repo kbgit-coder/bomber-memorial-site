@@ -16,11 +16,21 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - P/O Dunlop, Lancaster JB125",
+      "url": "https://aircrewremembered.com/dunlop-guy-1.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
   "latitude": 53.174696645034906,
-  "longitude": -1.0628255995732059
+  "longitude": -1.0628255995732059,
+  "maintainer": {
+    "organisation": "Hoveringham Parish Council",
+    "website": "https://www.hoveringhamparishcouncil.gov.uk",
+    "maintainer_type": "parish-council"
+  }
 }

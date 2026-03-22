@@ -16,11 +16,21 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - W/O Rathbone, Lancaster LM308",
+      "url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
+      "type": "website"
     }
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
   "latitude": 53.05506116398948,
-  "longitude": -0.9761037381431208
+  "longitude": -0.9761037381431208,
+  "maintainer": {
+    "organisation": "Hoveringham Parish Council",
+    "website": "https://www.hoveringhamparishcouncil.gov.uk",
+    "maintainer_type": "parish-council"
+  }
 }

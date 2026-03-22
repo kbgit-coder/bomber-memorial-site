@@ -92,5 +92,9 @@
   "operation_target": "Berlin raid (part of the Battle of Berlin)",
   "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Hayley Wood, south of RAF Gransden Lodge, Cambridgeshire | | Access | Woodland; accessible on foot |",
   "latitude": 52.30693407545724,
-  "longitude": 0.00665675663343851
+  "longitude": 0.00665675663343851,
+  "maintainer": {
+    "organisation": "Great Gransden Parish Council",
+    "maintainer_type": "parish-council"
+  }
 }
