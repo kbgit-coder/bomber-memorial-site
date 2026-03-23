@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# outreach and marketing data
+/outreach/
+/marketing/
+
+# environment files
+.env*
+
+# nginx config
+nginx-preview.conf
