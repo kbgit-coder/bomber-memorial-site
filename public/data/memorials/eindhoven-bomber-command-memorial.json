@@ -14,5 +14,15 @@
     }
   ],
   "latitude": 51.44,
-  "longitude": 5.47
+  "longitude": 5.47,
+  "external_narratives": [
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/164/War--and-Liberation-Memorial-Eindhoven.htm",
+      "summary": "Eindhoven has several WW2 memorials including a War and Liberation Memorial commemorating inhabitants killed during the Second World War and the city's liberation on 18 September 1944. The city was heavily affected by both Allied bombing (Operation Oyster, December 1942) and Luftwaffe reprisal raids.",
+      "key_details": "Operation Oyster on 6 December 1942 targeted Philips factories; 135 Dutch civilians killed. The city was liberated by the 101st Airborne Division in September 1944.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

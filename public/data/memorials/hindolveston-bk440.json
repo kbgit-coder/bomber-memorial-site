@@ -1,30 +1,79 @@
 {
-  "id": "hindolveston-bk440",
-  "title": "Hindolveston Wellington Memorial",
-  "location_name": "Hindolveston, Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-025",
-  "crash_date": "1943-12-11",
-  "aircraft_type": "Wellington",
-  "serial_number": "BK440",
-  "squadron": "16 OTU",
-  "station": "Little Horwood",
-  "crew_summary": "6 killed including Flt Sgt. Arthur Merridew",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.73157625322716,
-  "longitude": 1.0604324616059828,
-  "maintainer": {
-    "organisation": "Hindolveston Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "hindolveston-bk440",
+    "title": "Hindolveston Wellington Memorial",
+    "location_name": "Hindolveston, Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-025",
+    "crash_date": "1943-12-11",
+    "aircraft_type": "Wellington",
+    "serial_number": "BK440",
+    "squadron": "16 OTU",
+    "station": "Little Horwood",
+    "crew_summary": "6 killed including Flt Sgt. Arthur Merridew",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.73157625322716,
+    "longitude": 1.0604324616059828,
+    "maintainer": {
+        "organisation": "Hindolveston Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101339",
+            "summary": "The IWM registers the memorial to the crew of Wellington BK440 at Hindolveston. The aircraft was on a navigation training sortie from RAF Little Horwood when it crashed near Park Farm, Hindolveston, approximately 8 miles ESE of Fakenham, exploding at about 0800 hours on 11 December 1943.",
+            "key_details": [
+                "IWM memorial reference 101339",
+                "Crashed near Park Farm, Hindolveston",
+                "Exploded at approximately 0800 hours",
+                "Navigation training sortie"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Heroes of Our Time",
+            "original_url": "https://heroesofourtime.co.uk/hindolveston-wellington-crash-.html",
+            "summary": "Local history website created by Donna Gray based on war research by her late father Richard of Hindolveston. Documents the Wellington BK440 crash and its impact on the rural Norfolk community, providing personal accounts and local context.",
+            "key_details": [
+                "Local family research project",
+                "Personal accounts from Hindolveston residents"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Hindolveston Village",
+            "original_url": "https://hindolvestonparishcouncil.norfolkparishes.gov.uk/the-village/world-war-rememberance-links/",
+            "summary": "The Hindolveston parish council maintains a World War remembrance links page that includes reference to the Wellington BK440 crash memorial as part of the village's WW2 heritage.",
+            "key_details": [
+                "Parish council maintains remembrance page"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Holt Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Hindolveston Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

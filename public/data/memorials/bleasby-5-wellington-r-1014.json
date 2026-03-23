@@ -32,5 +32,59 @@
     "website": "https://www.bleasbycommunity.uk",
     "maintainer_type": "parish-council",
     "notes": "Part of the Bleasby Aircrew Memorial site."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrewremembered.com",
+      "original_url": "https://aircrewremembered.com/toffin-stanislaw.html",
+      "summary": "Wellington R1014 of 304 (Land of Silesia) Polish Bomber Squadron crashed shortly after takeoff from RAF Syerston on 6 February 1941, coming down at Station Farm near Bleasby. All four Polish crew were killed: AG Jan Adam Cymborski, Pilot Jozef Jonczyk, Observer Wojciech Lichota, and Pilot Stanislaw Tofin.",
+      "key_details": [
+        "Crashed at Station Farm near Bleasby",
+        "All 4 Polish crew killed",
+        "Crew: Cymborski, Jonczyk, Lichota, Tofin",
+        "304 Squadron formed 23 August 1940 at RAF Bramcote",
+        "Operating from Syerston from 1 December 1940"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/No._304_Polish_Bomber_Squadron",
+      "summary": "304 (Land of Silesia) Squadron was a Polish bomber squadron formed in Great Britain under the agreement between the Polish Government in Exile and the UK in 1940, operating Wellingtons from several stations including Syerston.",
+      "key_details": [
+        "Polish Government in Exile unit",
+        "Land of Silesia designation",
+        "Wellington-equipped bomber squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6412685",
+      "summary": "Geograph photo record shows the shared memorial stone for Wellington R1014 and R1212, both 304 Polish Squadron aircraft lost near Bleasby in 1941.",
+      "key_details": [
+        "Shared memorial covers both R1014 and R1212 losses"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Bleasby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.bleasbycommunity.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/304_Dywizjon_Bombowy.png",
+  "squadron_motto": "Land of Silesia"
 }

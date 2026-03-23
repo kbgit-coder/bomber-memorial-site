@@ -26,5 +26,57 @@
   "maintainer": {
     "organisation": "Desborough Town Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265171/",
+      "summary": "Memorial record for the crew of Boeing Fortress Mk.I AN534 WP-E of 90 Squadron. The aircraft suffered catastrophic structural failure during a high-altitude test flight on 28 July 1941, with the starboard wing breaking off in severe turbulence.",
+      "key_details": [
+        "Fortress Mk.I (ex-USAAC B-17C, s/n 40-2053)",
+        "Starboard wing structural failure in severe turbulence",
+        "Departed Polebrook at 17:00 for high altitude test",
+        "Crashed 4 miles west of Corby near Stoke Albany"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Commands Archive",
+      "original_url": "http://www.rafcommands.com/archive/00651.php",
+      "summary": "RAF Commands forum discussion with historical details of Flying Fortress AN534 from 90 Squadron. Documents the aircraft's history as one of the early RAF-operated B-17s based at Polebrook.",
+      "key_details": [
+        "One of earliest RAF B-17 operations",
+        "90 Squadron at Polebrook"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "B-17 Bomber Flying Fortress",
+      "original_url": "https://b17flyingfortress.de/en/royal-air-force/no-90-squadron/",
+      "summary": "Reference entry on 90 Squadron's operation of Boeing Fortress aircraft. Documents the squadron's use of early B-17C models received under Lend-Lease, including AN534.",
+      "key_details": [
+        "90 Squadron Fortress operations documented",
+        "Early Lend-Lease B-17C aircraft"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Desborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Desborough Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/No._90_Squadron_RAF.png",
+  "squadron_motto": "Swift"
 }

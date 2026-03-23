@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "On the night of 21 March 1941, six Hampden bombers of 49 Squadron lifted from RAF Scampton and set course for the German naval base at Lorient in occupied France. On return, X3054 experienced a radio malfunction that rendered it unable to receive signals. Without functioning radio aids, the pilot -- 25-year-old Pilot Officer Robert Wilson -- became disoriented regarding his position relative to the English coast. Flying in deteriorating visibility, the Hampden struck the western slope of Hameldown Tor at approximately 1,400 feet and burst into flames. Sergeants Brames, Ellis, and Lyon appear to have died on impact, but Wilson -- strapped into the pilot's seat -- survived initially, only to die the following day. Wilson and Ellis lie side by side in Exeter's Higher Cemetery; the two air gunners were buried in their home towns. All four were 25 or under. The Hampden was one of the earlier Bomber Command types, a cramped twin-engine aircraft with a crew of four, already being superseded by the heavier Halifax and Lancaster by 1941.",
   "crew": [
@@ -30,7 +30,11 @@
       "role": "Pilot",
       "nationality": "British",
       "burial_location": "Higher Cemetery, Exeter",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Survived the initial impact but died the following day from his injuries. Buried side by side with Sgt Ellis at Exeter Higher Cemetery.",
+      "bio": "A 25-year-old pilot with 49 Squadron at RAF Scampton. Wilson survived the crash initially but succumbed to his injuries the next day.",
+      "cwgc_verified": true,
+      "cwgc_url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/37364/exeter-higher-cemetery/"
     },
     {
       "rank": "Sgt",
@@ -39,7 +43,10 @@
       "role": "2nd Pilot/Navigator",
       "nationality": "British",
       "burial_location": "Higher Cemetery, Exeter",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed on impact when the Hampden struck Hameldown Tor. Buried beside his pilot P/O Wilson at Exeter Higher Cemetery.",
+      "cwgc_verified": true,
+      "cwgc_url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/37364/exeter-higher-cemetery/"
     },
     {
       "rank": "Sgt",
@@ -47,8 +54,11 @@
       "age": 22,
       "role": "Rear Gunner",
       "nationality": "British",
-      "burial_location": "Home town (unspecified)",
-      "fate": "Killed"
+      "burial_location": "Eltham (St John the Baptist) Churchyard, London",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Hameldown Tor. Buried in his home town at Eltham churchyard in London.",
+      "hometown": "Eltham, London",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -56,8 +66,11 @@
       "age": 23,
       "role": "Wireless Operator",
       "nationality": "British",
-      "burial_location": "Home town (unspecified)",
-      "fate": "Killed"
+      "burial_location": "Prescot Cemetery, Lancashire",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Hameldown Tor. Buried in his home area at Prescot Cemetery in Lancashire.",
+      "hometown": "Prescot, Lancashire",
+      "cwgc_verified": true
     }
   ],
   "cause_of_loss": "Radio unable to receive; pilot disoriented regarding coastal position; flew into high ground in poor visibility",
@@ -71,5 +84,70 @@
     "website": "https://www.dartmoor.gov.uk",
     "maintainer_type": "military",
     "notes": "Granite boulder incised with initials and squadron number; plaque added 1991."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "49 Squadron Association",
+      "original_url": "https://www.49squadron.co.uk/memorials/memorial_dartmoor",
+      "summary": "The 49 Squadron Association maintains a dedicated page for the Hameldown Tor memorial. It records that six Hampdens departed Scampton at 18:20 on 21 March 1941 to bomb the submarine base at Lorient, and that X3054's crew lost their radio fix on return, striking the hillside at about 1,400 feet.",
+      "key_details": [
+        "Squadron Association maintains active memorial page",
+        "Departure time recorded as 18:20"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Dartmoor Explorations",
+      "original_url": "https://dartmoorexplorations.co.uk/hameldown-crash-site-of-handley-page-hampden-x3054/",
+      "summary": "Detailed walking guide to the crash site with historical context. Describes the granite boulder memorial commissioned by Lady Wilson and its 1991 restoration by the Torbay and District Aircrew Association.",
+      "key_details": [
+        "Walking route information provided",
+        "Memorial restoration history documented"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/98287",
+      "summary": "Listed as '49 Sqn RAF Crash Site' in the War Memorials Online register, confirming the memorial's status and location on Hameldown Tor, Dartmoor.",
+      "key_details": [
+        "Registered memorial reference number 98287"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/25874",
+      "summary": "The Imperial War Museum records 49 Squadron RAF in its memorials register, linking to the Hameldown site among the squadron's commemorative locations.",
+      "key_details": [
+        "IWM memorial reference 25874"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/37364/exeter-higher-cemetery/",
+      "summary": "The Commonwealth War Graves Commission confirms that Pilot Officer Wilson and Sergeant Ellis are buried at Exeter Higher Cemetery. The CWGC maintains their graves as part of the 73 Commonwealth war burials at the site.",
+      "key_details": [
+        "Wilson and Ellis confirmed buried at Exeter Higher Cemetery",
+        "73 Commonwealth war burials at this cemetery"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Exeter Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/devon/"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/No._49_Squadron_RAF_badge.jpg",
+  "squadron_motto": "Beware of the dog"
 }

@@ -32,5 +32,58 @@
     "website": "https://www.bleasbycommunity.uk",
     "maintainer_type": "parish-council",
     "notes": "Part of the Bleasby Aircrew Memorial site."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "304 Polish Squadron Blog",
+      "original_url": "https://304squadron.blogspot.com/2009",
+      "summary": "Blog documenting the history of 304 (Silesian) Squadron records Wellington R1212 lost on 15 April 1941 during a training flight from RAF Syerston. The aircraft lost one or both engines and crashed while attempting to land near Flintham Woods, Newark. Three Polish crew killed (F/O Christmann, Sgt Berger, Sgt Pietruszewski); three survived (F/O Galczynski, Sgt Ananowski, Sgt Jarosz).",
+      "key_details": [
+        "Engine failure during training flight",
+        "Crashed near Flintham Woods, Newark",
+        "3 killed: Christmann, Berger, Pietruszewski",
+        "3 survived: Galczynski, Ananowski, Jarosz"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6412685",
+      "summary": "Geograph records the shared memorial stone at Bleasby for both Wellington R1014 and R1212, both 304 Polish Squadron losses from 1941.",
+      "key_details": [
+        "Shared memorial with R1014",
+        "Both 304 Polish Squadron losses from 1941"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrewremembered.com",
+      "original_url": "https://aircrewremembered.com/bleasby-aircrew-memorial.html",
+      "summary": "The Bleasby Aircrew Memorial dedication page lists Wellington R1212 among the seven aircraft losses commemorated on the memorial, noting 304 (Silesian) Squadron's Polish crews who flew from nearby RAF Syerston.",
+      "key_details": [
+        "One of seven aircraft losses on memorial",
+        "Polish crews from Syerston commemorated"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Bleasby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.bleasbycommunity.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/304_Dywizjon_Bombowy.png",
+  "squadron_motto": "Land of Silesia"
 }

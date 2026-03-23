@@ -1,31 +1,62 @@
 {
-  "id": "elsham-wolds-jd386",
-  "title": "Elsham Wolds Halifax Memorial",
-  "location_name": "Elsham Wolds, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-011",
-  "crash_date": "1944-02-29",
-  "aircraft_type": "Halifax",
-  "serial_number": "JD386",
-  "squadron": "1666 HCU",
-  "station": "Elsham Wolds",
-  "crew_summary": "7 killed including pilot Plt Off. Johann Sigurdson",
-  "memorial_type": "Memorial at airfield",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.088377710105874,
-  "longitude": -0.4013351565614094,
-  "maintainer": {
-    "organisation": "Elsham Parish Council",
-    "maintainer_type": "parish-council",
-    "notes": "Memorial at former RAF Elsham Wolds airfield."
-  }
+    "id": "elsham-wolds-jd386",
+    "title": "Elsham Wolds Halifax Memorial",
+    "location_name": "Elsham Wolds, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-011",
+    "crash_date": "1944-02-29",
+    "aircraft_type": "Halifax",
+    "serial_number": "JD386",
+    "squadron": "1666 HCU",
+    "station": "Elsham Wolds",
+    "crew_summary": "7 killed including pilot Plt Off. Johann Sigurdson",
+    "memorial_type": "Memorial at airfield",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.088377710105874,
+    "longitude": -0.4013351565614094,
+    "maintainer": {
+        "organisation": "Elsham Parish Council",
+        "maintainer_type": "parish-council",
+        "notes": "Memorial at former RAF Elsham Wolds airfield."
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/sigurdson-johann.html",
+            "summary": "Comprehensive page on P/O Johann Sigurdson and crew of Halifax JD386. All seven crew (six RCAF, one RAFVR) were killed when the aircraft crashed near Wressle on 29 February 1944. They were buried with full military honours at Harrogate Cemetery on 8 March 1944.",
+            "key_details": "Sigurdson was the only Icelandic bomber pilot killed in WW2. Sigurdson Peninsula in Manitoba was named in his honour in 1995. His wife was Mary Eileen Sigurdson of Winnipeg. This was the first major accident from 1666 HCU since June 1943.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "North Lincs Web",
+            "original_url": "https://www.northlincsweb.net/RAFElshamWolds/html/29th_feb_1944_-_1666_heavy_conversion_unit-_raf_wombleton_-_hali.html",
+            "summary": "Entry from the RAF Elsham Wolds memorial database documenting the loss of Halifax JD386 from 1666 HCU RAF Wombleton. Aircraft crashed at Bridge Farm, Broughton at 17:10 hours during a training flight.",
+            "key_details": "Aircraft crashed at Bridge Farm, Broughton. Unit was 1666 HCU based at RAF Wombleton, not Elsham Wolds itself. Crash time recorded as 17:10 hours.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Great Grimsby Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Elsham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

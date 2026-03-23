@@ -26,5 +26,38 @@
   "maintainer": {
     "organisation": "Greensted Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/56210",
+      "summary": "Imperial War Museum register entry for the Lancaster PB512 memorial at St Andrew's Church, Greensted Juxta Ongar. Records the monument commemorating the eight crew of 582 (Pathfinder) Squadron who died on 23 September 1944.",
+      "key_details": "Memorial reference 56210. Located at St Andrew's Church, Greensted Juxta Ongar. Eight crew killed including pilot Flg Off William Lawrence Shirley. 582 Squadron was part of No. 8 (Pathfinder) Group.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Digital Archive",
+      "original_url": "https://ibccdigitalarchive.lincoln.ac.uk/items/browse?tags=582+Squadron",
+      "summary": "International Bomber Command Centre digital archive entries for 582 Squadron. The squadron was formed on 1 April 1944 at Little Staughton from detachments of 7 and 156 Squadrons, operating as part of No. 8 (Pathfinder) Group on target-marking missions.",
+      "key_details": "582 Squadron formed 1 April 1944. Operated from Little Staughton. PB512 coded 'J' flew missions to Osnabruck, Kiel, and Boulogne before its loss.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Ongar Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+    },
+    {
+      "org_name": "Greensted Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

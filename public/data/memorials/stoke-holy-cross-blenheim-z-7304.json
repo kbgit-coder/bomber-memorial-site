@@ -25,5 +25,46 @@
   "maintainer": {
     "organisation": "Stoke Holy Cross Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/lowther-philip.html",
+      "summary": "Detailed account of the crash of Blenheim Z7304 from 18 Squadron. The aircraft was on an air test from Wattisham when the pilot flew to the coast in poor visibility, hitting a radar pylon at Stoke Holy Cross just 10 feet from its top.",
+      "key_details": "Crew: P/O Philip Henry Lowther (pilot, age 20, RAFVR 104490), Sgt Kenneth Custance Ellis (navigator, age 32, RAFVR 1259306), Sgt George Bernard Crawford (WOp/AG, age 21, RAFVR 1178840). Also killed was Ken Tagg, an 18-year-old civilian meteorological assistant who was an unofficial passenger.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/206141",
+      "summary": "Accident database entry for Bristol Blenheim Mk IV Z7304, recording the crash on 18 July 1942 at Stoke Holy Cross, Norfolk, during an air test flight.",
+      "key_details": "Aircraft struck a radar pylon in low cloud. The air test should have been conducted near Wattisham but the pilot elected to fly to the coast.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Poringland Archive",
+      "original_url": "https://sites.google.com/a/poringlandarchive.co.uk/poringland-archive/stoke-holy-cross/raf-stoke-holy-cross",
+      "summary": "Local archive page documenting the history of RAF Stoke Holy Cross radar station, including the 1942 Blenheim crash into the radar pylon. A memorial plaque was placed on the old pylon base on 18 July 1992, the 50th anniversary.",
+      "key_details": "Memorial plaque unveiled on 50th anniversary in 1992. The radar station at Stoke Holy Cross was an important Chain Home installation during the Battle of Britain.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Norwich Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Stoke Holy Cross Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

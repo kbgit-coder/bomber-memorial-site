@@ -26,5 +26,80 @@
   "maintainer": {
     "organisation": "Bressingham Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "75 NZ Squadron",
+      "original_url": "https://75nzsquadron.wordpress.com/tag/stirling-mk-iii-bk770/",
+      "summary": "Stirling Mk.III BK770 arrived with 75(NZ) Squadron on 2 April 1943 and was lost on 8 April during an operation to Duisburg. A brief W/T distress signal was received at 01:10hrs before the aircraft crashed at Valley Farm, Bressingham, Norfolk, exploding on impact. This was the first Mk III Stirling written off by 75(NZ) Squadron.",
+      "key_details": [
+        "First Mk III Stirling lost by 75(NZ) Squadron",
+        "Target: Duisburg",
+        "Distress signal received at 01:10hrs",
+        "Crashed at Valley Farm, Bressingham"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "crew": [
+    {
+      "name": "John Arthur Ernest Walsh",
+      "rank": "W/O",
+      "role": "Pilot",
+      "nationality": "New Zealander",
+      "fate": "Killed"
+    },
+    {
+      "name": "Bertram Augustus Moffatt",
+      "rank": "F/Sgt",
+      "role": "Navigator",
+      "fate": "Killed"
+    },
+    {
+      "name": "Francis Henry Reddicliffe",
+      "rank": "Sgt",
+      "role": "Air Bomber",
+      "fate": "Killed"
+    },
+    {
+      "name": "John William Scudder",
+      "rank": "Sgt",
+      "role": "Wireless Operator",
+      "fate": "Killed"
+    },
+    {
+      "name": "Jack Herbert Worthington",
+      "rank": "Sgt",
+      "role": "Flight Engineer",
+      "fate": "Killed"
+    },
+    {
+      "name": "Stanley Arthur Curtis",
+      "rank": "Sgt",
+      "role": "Mid Upper Gunner",
+      "fate": "Killed"
+    },
+    {
+      "name": "Phillip Gordon Stuart",
+      "rank": "Sgt",
+      "role": "Rear Gunner",
+      "fate": "Killed"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Diss & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Bressingham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/RNZAF_75_Sqn_Badge.png",
+  "squadron_motto": "For ever and ever be strong"
 }

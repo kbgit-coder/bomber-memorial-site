@@ -31,5 +31,67 @@
   "maintainer": {
     "organisation": "Chipping Warden and Edgcote Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/hillier-william.html",
+      "summary": "Detailed account of Wellington LP286 from 12 OTU crashing at Edgcote Park on 18 April 1945. The aircraft suffered starboard engine problems during a cross-country navigation exercise and stalled after an overshoot attempt, crashing at 14:03. Five of six crew killed.",
+      "key_details": [
+        "Pilot Fl/Sgt William John Hillier",
+        "Starboard engine failure",
+        "Stalled during go-around at 14:03",
+        "Only 22 days before VE Day"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265172/",
+      "summary": "Memorial plaque record for the crew of 12 OTU Wellington LP286 at Chipping Warden. Documents the memorial plaque and its location.",
+      "key_details": [
+        "Memorial plaque at Chipping Warden Parish Hall",
+        "Copper etching presented on 63rd anniversary"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/93325",
+      "summary": "Imperial War Museums register entry for the Wellington Bomber LP286 air crew memorial at Chipping Warden, Northamptonshire.",
+      "key_details": [
+        "IWM memorial reference 93325"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Essentially England",
+      "original_url": "https://www.essentially-england.com/wellington-bomber-lp286-memorial-walk.html",
+      "summary": "Walking guide to the Wellington LP286 memorial and crash site at Edgcote Park near Chipping Warden. Describes the walking route and provides context about the crash.",
+      "key_details": [
+        "Walking route to memorial described",
+        "Crash site at Edgcote Park"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Daventry & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Chipping Warden and Edgcote Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/No._12_Squadron_RAF.png",
+  "squadron_motto": "Leads the Field"
 }

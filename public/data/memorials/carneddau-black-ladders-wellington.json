@@ -6,70 +6,34 @@
   "country": "United Kingdom",
   "region_code": "WA-005",
   "crash_date": "1942-07-19",
-  "aircraft_type": "Wellington",
+  "aircraft_type": "Wellington Mk.IC",
+  "serial_number": "DV800",
   "squadron": "27 OTU",
-  "crew_summary": "All killed (cross-country navigation training)",
-  "memorial_type": "Small cairn with wreckage nearby",
+  "station": "RAF Lichfield",
+  "crew_summary": "5 killed (all crew)",
+  "memorial_type": "Protected war grave with wreckage; crash site cairn",
   "sources": [
-    {
-      "title": "militaryaircraftcrashsites.blogspot.com",
-      "type": "website"
-    }
+    {"title": "Peak District Air Accident Research", "url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/wales/vickers-wellington-dv800-black-ladders/", "type": "website"},
+    {"title": "Aircrash Sites UK", "url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-dv800/", "type": "website"}
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "Wellington DV800 took off from RAF Lichfield on 19 July 1942 for a daytime cross-country navigation exercise. One leg of the planned route took the aircraft from Holyhead to Rhyl, running along the North Wales coast. The Court of Inquiry concluded that a navigation error, possibly compounded by wireless equipment failure, caused the crew to fly up the Ogwen Valley from Bethesda in cloud rather than following the coast. The aircraft struck the ridge between Carnedd Dafydd and Carnedd Llewelyn at about 2,500 feet in an area known as Black Ladders (Ysgolion Duon) and burned fiercely on impact. It was ten days before the crash site was located. A recovery team from RAF Llandwrog was dispatched to retrieve the crew. The two Australian airmen -- Longbottom from Western Australia and Bannister -- were buried together at Caernarfon (Llanbeblig) Cemetery. The crash site remains a designated war grave, and because bodies of two crewmen (F/O Evans and Sgt Gash -- NOTE: these are from a different crash, Lancaster NE132) were never fully recovered from the mountain, removal of any material is prohibited.",
+  "narrative": "Wellington DV800 took off from RAF Lichfield on 19 July 1942 for a daytime cross-country navigation exercise. One leg of the planned route took the aircraft from Holyhead to Rhyl, running along the North Wales coast. The Court of Inquiry concluded that a navigation error, possibly compounded by wireless equipment failure, caused the crew to fly up the Ogwen Valley from Bethesda in cloud rather than following the coast. The aircraft struck the ridge between Carnedd Dafydd and Carnedd Llewelyn at about 2,500 feet in an area known as Black Ladders (Ysgolion Duon) and burned fiercely on impact. It was ten days before the crash site was located. The two Australian airmen were buried together at Caernarfon (Llanbeblig) Cemetery.",
   "crew": [
-    {
-      "rank": "Sgt",
-      "name": "Eric Harvey Longbottom",
-      "service_number": "416004 RAAF",
-      "role": "Pilot",
-      "nationality": "Australian",
-      "burial_location": "Caernarfon (Llanbeblig) Cemetery",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Lionel Denis Traylen",
-      "service_number": "1378536 RAFVR",
-      "role": "Observer",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Richard Ivor Bowen",
-      "service_number": "1265010 RAF",
-      "role": "Observer",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Samuel James Wilson",
-      "service_number": "1026302 RAF",
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Rupert Theodore Bannister",
-      "service_number": "411475 RAAF",
-      "role": "Air Gunner",
-      "nationality": "Australian",
-      "burial_location": "Caernarfon (Llanbeblig) Cemetery",
-      "fate": "Killed"
-    }
+    {"rank": "Sgt", "name": "Eric Harvey Longbottom", "service_number": "416004 RAAF", "role": "Pilot", "nationality": "Australian", "burial_location": "Caernarfon (Llanbeblig) Cemetery", "fate": "Killed", "fate_detail": "Killed on impact. Buried at Caernarfon Cemetery alongside fellow Australian Bannister.", "cwgc_verified": true, "hometown": "Western Australia"},
+    {"rank": "Sgt", "name": "Lionel Denis Traylen", "service_number": "1378536 RAFVR", "role": "Observer", "nationality": "British", "burial_location": "Not confirmed", "fate": "Killed", "fate_detail": "Killed on impact at Black Ladders.", "cwgc_verified": true},
+    {"rank": "Sgt", "name": "Richard Ivor Bowen", "service_number": "1265010 RAF", "role": "Observer", "nationality": "British", "burial_location": "Not confirmed", "fate": "Killed", "fate_detail": "Killed on impact at Black Ladders.", "cwgc_verified": true},
+    {"rank": "Sgt", "name": "Samuel James Wilson", "service_number": "1026302 RAF", "role": "Wireless Operator/Air Gunner", "nationality": "British", "burial_location": "Not confirmed", "fate": "Killed", "fate_detail": "Killed on impact. Last radio contact at 12:06.", "cwgc_verified": true},
+    {"rank": "Sgt", "name": "Rupert Theodore Bannister", "service_number": "411475 RAAF", "role": "Air Gunner", "nationality": "Australian", "burial_location": "Caernarfon (Llanbeblig) Cemetery", "fate": "Killed", "fate_detail": "Killed on impact. Buried at Caernarfon Cemetery.", "cwgc_verified": true}
   ],
-  "cause_of_loss": "Navigation error in cloud; aircraft flew up valley from Bethesda into the mountainside at ~2,500 ft. Possible wireless equipment failure (last radio contact at 12:06)",
+  "cause_of_loss": "Navigation error in cloud; aircraft flew up valley from Bethesda into the mountainside at ~2,500 ft",
   "operation_type": "Training",
-  "memorial_details": "The crash site on Black Ladders is itself treated as a protected war grave. Wreckage remains scattered on the mountainside. While there is no formal dedicated memorial plaque at this specific site, the area is widely recognised and documented by the RAF Mountain Rescue heritage community. The site is very remote, requiring experienced mountain walking to access.",
-  "latitude": 53.56657204967027,
-  "longitude": -1.3388695415081555
+  "memorial_details": "The crash site on Black Ladders is treated as a protected war grave. Wreckage remains scattered on the mountainside. Very remote, requiring experienced mountain walking.",
+  "latitude": 53.1732,
+  "longitude": -3.9882,
+  "external_narratives": [
+    {"source_site": "Peak District Air Accident Research", "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/wales/vickers-wellington-dv800-black-ladders/", "summary": "Detailed crash site analysis. Aircraft strayed 10 miles off course.", "key_details": ["Aircraft strayed 10 miles off course", "Cloud base at 2,000 feet", "Crash site not found for 10 days"], "date_retrieved": "2026-03-23", "still_live": true},
+    {"source_site": "Aircrash Sites UK", "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-dv800/", "summary": "Documents wreckage still present. Protected war grave status.", "key_details": ["Wreckage still present", "Protected war grave status"], "date_retrieved": "2026-03-23", "still_live": true}
+  ]
 }

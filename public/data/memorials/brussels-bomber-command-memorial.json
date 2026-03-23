@@ -14,5 +14,19 @@
     }
   ],
   "latitude": 50.85,
-  "longitude": 4.35
+  "longitude": 4.35,
+  "external_narratives": [
+    {
+      "source_site": "RAF Benevolent Fund",
+      "original_url": "https://www.rafbf.org/bomber-command-memorial/about-memorial",
+      "summary": "The Bomber Command Memorial in London incorporates aluminium recovered from a Halifax III bomber shot down over Belgium on 12 May 1944. While this is the London memorial, it has a direct connection to Belgium where eight crew were killed. Three crew members were found still at their stations when the aircraft was excavated in 1997 and buried in Belgium with full military honours.",
+      "key_details": [
+        "Halifax III shot down over Belgium, 12 May 1944",
+        "Aircraft excavated in Belgium in 1997",
+        "Three crew found at stations and buried in Belgium with military honours"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

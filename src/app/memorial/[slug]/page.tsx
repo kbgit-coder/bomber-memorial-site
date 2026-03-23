@@ -213,11 +213,49 @@ export default function MemorialPage({ params }: Props) {
               border: "1px solid #e0dcd5",
               borderRadius: 8,
               padding: "1.5rem",
-              display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
-              gap: "1rem",
+              display: "flex",
+              gap: "1.5rem",
+              flexWrap: "wrap",
             }}
           >
+            {/* Squadron badge */}
+            {memorial.squadron_badge_url && (
+              <div style={{
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "center",
+                minWidth: 100,
+                padding: "0.5rem",
+              }}>
+                <Image
+                  src={memorial.squadron_badge_url}
+                  alt={`${memorial.squadron || 'Squadron'} badge`}
+                  width={80}
+                  height={80}
+                  style={{ objectFit: "contain" }}
+                  unoptimized
+                />
+                {memorial.squadron_motto && (
+                  <span style={{
+                    fontSize: "0.7rem",
+                    color: "#8b7355",
+                    fontStyle: "italic",
+                    marginTop: "0.4rem",
+                    textAlign: "center",
+                  }}>
+                    {memorial.squadron_motto}
+                  </span>
+                )}
+              </div>
+            )}
+            <div
+              style={{
+                flex: 1,
+                display: "grid",
+                gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+                gap: "1rem",
+              }}
+            >
             {memorial.aircraft_type && (
               <DetailItem label="Aircraft Type" value={memorial.aircraft_type} />
             )}
@@ -245,6 +283,7 @@ export default function MemorialPage({ params }: Props) {
             {memorial.cause_of_loss && (
               <DetailItem label="Cause of Loss" value={memorial.cause_of_loss} />
             )}
+            </div>
           </div>
         </section>
       )}
@@ -493,12 +532,12 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* External Stories */}
+      {/* Other Stories */}
       {memorial.external_narratives && memorial.external_narratives.length > 0 && (
         <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Stories From Other Sources</h2>
+          <h2 style={sectionHeading}>Other Stories</h2>
           <p style={{ fontSize: "0.9rem", color: "#666", marginBottom: "1rem" }}>
-            Additional information about this memorial gathered from other heritage sites.
+            Further reading about this memorial from heritage websites, aviation archives, and local history groups.
           </p>
           <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
             {memorial.external_narratives.map((narrative, i) => (

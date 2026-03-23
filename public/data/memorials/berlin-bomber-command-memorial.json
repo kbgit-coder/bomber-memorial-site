@@ -14,5 +14,43 @@
     }
   ],
   "latitude": 52.52,
-  "longitude": 13.4
+  "longitude": 13.4,
+  "external_narratives": [
+    {
+      "source_site": "RAF Benevolent Fund",
+      "original_url": "https://www.rafbf.org/bomber-command-memorial",
+      "summary": "The RAF Benevolent Fund manages the Bomber Command Memorial, which includes a Memorial Spire and walls listing the names of 57,861 personnel who died serving in Bomber Command during WW2. The memorial centre opened to the public in January 2018, with an official ceremony on 12 April 2018.",
+      "key_details": [
+        "Memorial Spire and name walls",
+        "57,861 names inscribed",
+        "Opened January 2018",
+        "Official ceremony 12 April 2018"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Wikipedia - Battle of Berlin (RAF campaign)",
+      "original_url": "https://en.wikipedia.org/wiki/Battle_of_Berlin_(RAF_campaign)",
+      "summary": "The RAF Battle of Berlin (November 1943 - March 1944) saw 16 major raids comprising 9,111 sorties, costing 492 aircraft and their crews. The first major raid on 18/19 November 1943 involved 440 Lancasters and 4 Mosquitos. Over 1,000 aircraft and 7,000 aircrew were lost during the campaign.",
+      "key_details": [
+        "16 major raids, 9,111 sorties",
+        "492 aircraft lost, 5.8% loss rate",
+        "Over 7,000 aircrew killed or captured",
+        "First raid: 18/19 November 1943"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM",
+      "original_url": "https://www.iwm.org.uk/history/raf-bomber-command-during-the-second-world-war",
+      "summary": "IWM's overview of RAF Bomber Command during WW2 provides context for the Berlin bombing campaign within the broader strategic bombing offensive.",
+      "key_details": [
+        "Comprehensive IWM overview of Bomber Command operations"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ]
 }

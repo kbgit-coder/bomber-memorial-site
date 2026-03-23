@@ -26,5 +26,67 @@
   "maintainer": {
     "organisation": "Atwick Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "158 Squadron Association",
+      "original_url": "https://www.158squadron.co.uk/memorials/jennings",
+      "summary": "The 158 Squadron Association maintains a memorial page for P/O Jennings and his crew. Halifax HX351 (coded NP-S) departed Lissett at 00:06 on 20 February 1944 for an operational flight to Leipzig. Nine minutes later the aircraft crashed into a field between Atwick and Bewholme. The climb after takeoff was normal until the aircraft entered cloud at about 2,000 feet, after which it was heard in a dive with engines running before impact.",
+      "key_details": [
+        "Aircraft coded NP-S",
+        "Departed 00:06 for Leipzig operation",
+        "Crashed 9 minutes after takeoff",
+        "823 aircraft detailed for Leipzig that night, 78 failed to return"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/258620/",
+      "summary": "War Memorials Online registers the Halifax HX351 NP-S memorial of 158 Squadron at RAF Lissett, confirming its status and location near Little Atwick.",
+      "key_details": [
+        "Memorial reference 258620"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/34867",
+      "summary": "IWM registers the Halifax HX351 158 Squadron memorial, confirming its location and the commemoration of the seven crew members killed when the aircraft crashed shortly after takeoff from Lissett.",
+      "key_details": [
+        "IWM memorial reference 34867"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/hx351.html",
+      "summary": "Detailed accident record for Halifax HX351. The investigation found the cause inconclusive but suggested the pilot may have lost control after entering cloud, possibly resulting in a tailplane structural failure, though this could not be proved. The full bombload exploded on impact, scattering the aircraft across a large area.",
+      "key_details": [
+        "Cause inconclusive -- possible loss of control in cloud",
+        "Possible tailplane structural failure",
+        "Full bombload exploded on impact"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Hornsea & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Atwick Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/No._15_Squadron_RAF.png/300px-No._15_Squadron_RAF.png",
+  "squadron_motto": "Aim Sure"
 }

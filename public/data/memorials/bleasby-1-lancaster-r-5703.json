@@ -32,5 +32,73 @@
     "website": "https://www.bleasbycommunity.uk",
     "maintainer_type": "parish-council",
     "notes": "Part of the Bleasby Aircrew Memorial site on Glebe Field, next to St Mary's Church."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrewremembered.com",
+      "original_url": "https://aircrewremembered.com/weston-george-ernest.html",
+      "summary": "Detailed account of the R5703 crash on 1 October 1942. As the Lancaster left the runway at RAF Syerston bound for Wismar, the dinghy immersion switch activated, causing the dinghy to inflate and foul the tailplane. The aircraft dived into the ground one mile NE of Gunthorpe, killing all seven crew.",
+      "key_details": [
+        "Dinghy immersion switch activated on takeoff",
+        "Inflated dinghy fouled tailplane",
+        "Crashed 1 mile NE of Gunthorpe",
+        "Aircraft fully loaded with fuel and bombs",
+        "Pilot S/Ldr Weston was 23, from RNZAF",
+        "Crew included RCAF, RAF members"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/86723",
+      "summary": "IWM records the Bleasby Air Crews memorial honouring approximately 40 airmen from multiple crashes near the village during WW2, including the R5703 crew.",
+      "key_details": [
+        "IWM memorial reference 86723",
+        "Covers approximately 40 airmen from multiple crashes"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC (via Aircrewremembered)",
+      "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-george-alan-hawes-127491-rafvr-61-squadron/",
+      "summary": "CWGC records P/O George Alan Hawes (navigator, 127491 RAFVR) of 61 Squadron, killed in the R5703 crash. Full crew: S/Ldr Weston DFC (pilot), Sgt Bellchambers (FE), P/O Hawes (nav), Sgt Ramsey (bomb aimer), F/O Hanson DFM (W/Op), Sgt Robinson (MU AG), F/Sgt Gallaway RCAF (rear AG).",
+      "key_details": [
+        "P/O Hawes CWGC verified",
+        "Full crew of 7 identified"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Bleasby Community Website",
+      "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
+      "summary": "The Bleasby community website documents the aircrew memorial project led by resident Ken Ogilvie, with the memorial dedicated on 1 September 2018. The stone memorial is designed as a scale replica of a Lancaster tail section, located on Glebe Field next to St Mary's Church.",
+      "key_details": [
+        "Memorial dedicated 1 September 2018",
+        "Led by Ken Ogilvie",
+        "Stone seat shaped as Lancaster tail section",
+        "Located on Glebe Field, next to St Mary's Church"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Bleasby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.bleasbycommunity.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

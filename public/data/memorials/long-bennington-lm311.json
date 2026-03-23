@@ -1,30 +1,105 @@
 {
-  "id": "long-bennington-lm311",
-  "title": "Long Bennington III Memorial",
-  "location_name": "Long Bennington, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-015",
-  "crash_date": "1943-07-13",
-  "aircraft_type": "Lancaster III",
-  "serial_number": "LM311",
-  "squadron": "467 (Australian) Sqdn.",
-  "station": "Bottesford",
-  "crew_summary": "7 killed including pilot Plt Off. Cedric Arthur Chapman",
-  "memorial_type": "Stone memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.33392482550291,
-  "longitude": -0.22588152646899526,
-  "maintainer": {
-    "organisation": "Long Bennington Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "long-bennington-lm311",
+    "title": "Long Bennington III Memorial",
+    "location_name": "Long Bennington, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-015",
+    "crash_date": "1943-07-13",
+    "aircraft_type": "Lancaster III",
+    "serial_number": "LM311",
+    "squadron": "467 (Australian) Sqdn.",
+    "station": "Bottesford",
+    "crew_summary": "7 killed including pilot Plt Off. Cedric Arthur Chapman",
+    "memorial_type": "Stone memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.33392482550291,
+    "longitude": -0.22588152646899526,
+    "maintainer": {
+        "organisation": "Long Bennington Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/chapman-cedric-arthur.html",
+            "summary": "Detailed account of the loss of Lancaster LM311 on 12/13 July 1943. The aircraft was severely damaged by flak over Turin and on return to base suffered structural failure when flaps were lowered, breaking in two. Chapman reported having no elevator control and was flying on trimmer only.",
+            "key_details": [
+                "Returning from bombing raid on Turin",
+                "Flak damage forward of tail section",
+                "Structural failure when flaps lowered for landing",
+                "Pilot reported no elevator control, flying on trimmer",
+                "Three of 18 squadron aircraft lost that night"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bottesford Living History",
+            "original_url": "https://www.bottesfordhistory.org.uk/content/war-and-peace/bottesford-2nd-world-war/wartime-bottesford/flight-lm311-raaf-467-squadron",
+            "summary": "Comprehensive local history account of Lancaster LM311's last flight from RAF Bottesford with 467 (RAAF) Squadron. Documents the seven crew members and the circumstances of the crash near Long Bennington village.",
+            "key_details": [
+                "Full crew roster documented",
+                "Took off at 2248 hrs on 12 July 1943",
+                "467 RAAF Squadron based at Bottesford",
+                "Target was Turin, Italy"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99212",
+            "summary": "IWM War Memorials Register entry for the memorial to the crew of Lancaster LM311 at Long Bennington.",
+            "key_details": [
+                "IWM memorial reference 99212"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "CWGC / Newbattle at War",
+            "original_url": "https://newbattleatwar.wordpress.com/2013/07/30/the-last-flight-of-lancaster-lm311-467-squadron-raaf-l-lizbeth-13th-july-1943/",
+            "summary": "Research article on the last flight of LM311, known as 'L-Liz'beth'. Details the crew composition: P/O Chapman (RAAF pilot), Sgt Michaels (navigator), Sgt Smith (bomb aimer), Sgt Donlevy (W/Op AG), Sgt Greenwood (flight engineer), F/Sgt Bruce (mid-upper gunner), Sgt Buchanan (rear gunner).",
+            "key_details": [
+                "Aircraft nicknamed 'L-Liz'beth'",
+                "Chapman was RAAF",
+                "Sgt Norman Campbell Smith was bomb aimer, age 21"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "CWGC",
+            "original_url": "https://www.cwgc.org/stories/stories/sergeant-navigatorbomber-norman-smith-rafvr-467-raaf-squadron-died-13-july-1943-age-21/",
+            "summary": "CWGC story page for Sgt Norman Campbell Smith, navigator/bomber with 467 RAAF Squadron, who died aged 21 on 13 July 1943 aboard Lancaster LM311.",
+            "key_details": [
+                "Sgt Norman Campbell Smith age 21 at death",
+                "CWGC verified casualty"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Grantham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Long Bennington Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

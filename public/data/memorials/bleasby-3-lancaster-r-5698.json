@@ -1,36 +1,89 @@
 {
-  "id": "bleasby-3-lancaster-r-5698",
-  "title": "Bleasby (3) R.5698 Memorial",
-  "location_name": "Bleasby (3), Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-004",
-  "crash_date": "1943-09-01",
-  "aircraft_type": "Lancaster R.5698",
-  "squadron": "1654 HCU",
-  "station": "Wigsley",
-  "crew_summary": "8 killed including Flg Off. Joseph Widger Murphy MacDonald",
-  "memorial_type": "Memorial marker",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "bleasby-3-lancaster-r-5698",
+    "title": "Bleasby (3) R.5698 Memorial",
+    "location_name": "Bleasby (3), Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-004",
+    "crash_date": "1943-09-01",
+    "aircraft_type": "Lancaster R.5698",
+    "squadron": "1654 HCU",
+    "station": "Wigsley",
+    "crew_summary": "8 killed including Flg Off. Joseph Widger Murphy MacDonald",
+    "memorial_type": "Memorial marker",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - Bleasby Aircrew Memorial",
+            "url": "https://aircrewremembered.com/bleasby-aircrew-memorial.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.12988306419242,
+    "longitude": -0.9620780336487038,
+    "maintainer": {
+        "organisation": "Bleasby Parish Council",
+        "website": "https://www.bleasbycommunity.uk",
+        "maintainer_type": "parish-council",
+        "notes": "Part of the Bleasby Aircrew Memorial site."
     },
-    {
-      "title": "Aircrew Remembered - Bleasby Aircrew Memorial",
-      "url": "https://aircrewremembered.com/bleasby-aircrew-memorial.html",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.12988306419242,
-  "longitude": -0.9620780336487038,
-  "maintainer": {
-    "organisation": "Bleasby Parish Council",
-    "website": "https://www.bleasbycommunity.uk",
-    "maintainer_type": "parish-council",
-    "notes": "Part of the Bleasby Aircrew Memorial site."
-  }
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/macdonald-joseph.html",
+            "summary": "Lancaster R5698 (coded UG:P) of 1654 HCU was on a night training cross-country from RAF Wigsley on 1 September 1943 when it collided head-on at 1,500 feet with Lancaster JB132 of 61 Squadron returning from a Berlin raid. The collision occurred at 03:26 hours, 4 miles NW of RAF Syerston, killing all 8 crew of R5698.",
+            "key_details": [
+                "Aircraft coded UG:P",
+                "Training cross-country from Wigsley",
+                "Head-on collision at 1,500 feet",
+                "Collision at 03:26 hours, 4 miles NW of Syerston",
+                "Both aircraft burning navigation lights",
+                "All 8 crew killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bleasby Community Website",
+            "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
+            "summary": "The R5698 crew is commemorated on the Bleasby Aircrew Memorial dedicated on 1 September 2018, exactly 75 years after the mid-air collision. The memorial honours 14 airmen from this single collision event.",
+            "key_details": [
+                "Memorial dedicated exactly 75 years after collision",
+                "14 airmen from collision commemorated"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Newark Advertiser",
+            "original_url": "https://www.newarkadvertiser.co.uk/news/memorial-honours-those-who-made-the-ultimate-sacrifice-9043629/",
+            "summary": "Local newspaper coverage of the memorial dedication ceremony, describing the community-led project to honour the approximately 40 airmen who perished near Bleasby during the war.",
+            "key_details": [
+                "Community-led memorial project",
+                "Approximately 40 airmen commemorated in total"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southwell Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Bleasby Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep",
+            "website": "https://www.bleasbycommunity.uk"
+        }
+    ]
 }

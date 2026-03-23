@@ -25,5 +25,46 @@
   "maintainer": {
     "organisation": "Thorpe Morieux Parish Meeting",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/5519538",
+      "summary": "Photograph and location of the second crash site plaque at Thorpe Morieux, commemorating the crew of B-17G 42-38085 from the 711th Bomb Squadron, 447th Bomb Group.",
+      "key_details": "Memorial plaque at the crash site marks where the B-17G came down on 27 March 1944 during a takeoff accident.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "American Air Museum (IWM)",
+      "original_url": "https://www.americanairmuseum.com/archive/unit/711th-bomb-squadron",
+      "summary": "IWM American Air Museum archive page for the 711th Bomb Squadron, part of the 447th Bomb Group at Rattlesden. Documents the squadron's operational history and aircraft losses.",
+      "key_details": "The 711th BS operated from Rattlesden as part of the 447th BG. B-17G 42-38085 was among the squadron's losses. Crew included 1Lt W.C. Hudson (Pilot), 2Lt W.B. Corley (Co-pilot), 2Lt N. Bishusky (Navigator), 2Lt J.C. Henix Jr (Bombardier).",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "USAF Mildenhall News",
+      "original_url": "https://www.mildenhall.af.mil/News/Article-Display/Article/3060353/",
+      "summary": "Report on the 'Return to Rattlesden' event where families of 447th Bomb Group veterans visited Suffolk to pay tribute at crash sites and memorials including Thorpe Morieux.",
+      "key_details": "447th BG families continue to visit the crash sites. The Thorpe Morieux memorials remain focal points for remembrance by American families of the fallen crews.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Stowmarket & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Thorpe Morieux Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/No._44_Squadron_RAF.png",
+  "squadron_motto": "The King's thunderbolts are righteous"
 }

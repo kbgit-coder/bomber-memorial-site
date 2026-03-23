@@ -1,30 +1,102 @@
 {
-  "id": "mumby-bb216",
-  "title": "Mumby Halifax Memorial",
-  "location_name": "Mumby, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-016",
-  "crash_date": "01-02/09/1942",
-  "aircraft_type": "Halifax",
-  "serial_number": "BB216",
-  "squadron": "405 (Vancouver) Sqdn.",
-  "station": "Topcliffe",
-  "crew_summary": "4 killed; pilot WO2. Norman Angus McKenzie",
-  "memorial_type": "Memorial plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.34391211344131,
-  "longitude": -0.2626346997578872,
-  "maintainer": {
-    "organisation": "Mumby Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "mumby-bb216",
+    "title": "Mumby Halifax Memorial",
+    "location_name": "Mumby, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-016",
+    "crash_date": "01-02/09/1942",
+    "aircraft_type": "Halifax",
+    "serial_number": "BB216",
+    "squadron": "405 (Vancouver) Sqdn.",
+    "station": "Topcliffe",
+    "crew_summary": "4 killed; pilot WO2. Norman Angus McKenzie",
+    "memorial_type": "Memorial plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.34391211344131,
+    "longitude": -0.2626346997578872,
+    "maintainer": {
+        "organisation": "Mumby Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/mackenzie-norman.html",
+            "summary": "Detailed account of Halifax II BB216 (LQ:D) from 405 (Vancouver) Squadron RCAF. The aircraft took off from RAF Topcliffe at 2303 on 1 September 1942 for a bombing mission to Saarbrucken. After crossing the coast at 2344, the port outer engine caught fire; though the blaze was extinguished, structural failure of the port wing followed and the order to bail out was given. At least two airmen fell into the sea and drowned. The Halifax crashed at 2358 near Chapel St Leonards.",
+            "key_details": [
+                "Pilot was Flt Sgt Norman Angus MacKenzie R86313 RCAF, age 27",
+                "Mission target was Saarbrucken",
+                "Port outer engine fire led to port wing structural failure",
+                "At least two crew fell into the sea",
+                "Four killed: MacKenzie, Eagles (age 21), Stone (age 20), Dawdy (age 26)",
+                "Three crew members survived"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/54024",
+            "summary": "IWM War Memorials Register entry for the Halifax BB216 (LQ-D) memorial at Mumby, Lincolnshire.",
+            "key_details": [
+                "IWM memorial reference 54024"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Geograph",
+            "original_url": "https://www.geograph.org.uk/photo/173274",
+            "summary": "Photographic record of the memorial to the crew of Halifax II BB216 at Mumby, showing the granite plaque unveiled on 4 December 2004.",
+            "key_details": [
+                "Granite plaque memorial",
+                "Unveiled 4 December 2004",
+                "Relatives travelled from Ontario for ceremony"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/24579/Memorial-Crash-Halifax-BB216.htm",
+            "summary": "International war heritage entry for the Halifax BB216 crash memorial at Mumby with location and context details.",
+            "key_details": [
+                "Documented on international heritage database"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Mumby Parish Council",
+            "original_url": "https://mumby.parish.lincolnshire.gov.uk/parish-information/history-mumby/1",
+            "summary": "Parish council history page referencing the 405 Squadron RCAF crash memorial as part of Mumby's local heritage.",
+            "key_details": [
+                "Memorial integrated into parish history narrative"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Alford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Mumby Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

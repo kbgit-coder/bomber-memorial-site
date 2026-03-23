@@ -1,23 +1,57 @@
 {
-  "id": "succoth-glen-b-29-superfortress-p",
-  "title": "Succoth Glen operations) Memorial",
-  "location_name": "Succoth Glen, Lochgoilhead, Argyll & Bute",
-  "county": "Argyll & Bute",
-  "country": "United Kingdom",
-  "region_code": "SC-005",
-  "crash_date": "Post-WW2",
-  "aircraft_type": "B-29 Superfortress (post-war but related to wartime operations)",
-  "crew_summary": "20 killed",
-  "memorial_type": "Memorial cairn (now enclosed within forestry plantation)",
-  "sources": [
-    {
-      "title": "walkscotland.com; pressandjournal.co.uk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.47090318798939,
-  "longitude": -1.3121051452578505
+    "id": "succoth-glen-b-29-superfortress-p",
+    "title": "Succoth Glen operations) Memorial",
+    "location_name": "Succoth Glen, Lochgoilhead, Argyll & Bute",
+    "county": "Argyll & Bute",
+    "country": "United Kingdom",
+    "region_code": "SC-005",
+    "crash_date": "Post-WW2",
+    "aircraft_type": "B-29 Superfortress (post-war but related to wartime operations)",
+    "crew_summary": "20 killed",
+    "memorial_type": "Memorial cairn (now enclosed within forestry plantation)",
+    "sources": [
+        {
+            "title": "walkscotland.com; pressandjournal.co.uk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.47090318798939,
+    "longitude": -1.3121051452578505,
+    "external_narratives": [
+        {
+            "source_site": "Eat Sleep Wild",
+            "original_url": "https://eatsleepwild.com/scotland-crash-b29-superfortress-succoth-glen/",
+            "summary": "Detailed account of the B-29 Superfortress 44-62276 crash on 17 January 1949. The aircraft of the 301st Bomb Group was returning to Smoky Hill AFB, Kansas, from RAF Scampton after Berlin Airlift duties when it encountered severe icing over Scotland.",
+            "key_details": "Serial 44-62276. All 20 aboard killed. A companion B-29 piloted by Captain Donald E Riggs turned back due to icing; this aircraft continued and struck Stob na Boine Druim-fhinn. Crew had been involved in the Berlin Airlift.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Secret Scotland",
+            "original_url": "https://www.secretscotland.org.uk/index.php/Secrets/B29Superfortress4462276Lochgoilhead",
+            "summary": "Comprehensive page documenting the B-29 crash at Succoth Glen including crew names, circumstances, and the memorial cairn. Notes that the inquiry could not determine exact cause but cited adverse weather and heavy icing as contributory factors.",
+            "key_details": "Aircraft was from 301st Bomb Group, 15th US Air Group. Memorial cairn bears all 20 names and features touching tributes and poems from surviving families.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Peak District Air Accident Research",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/boeing-b-29a-44-62276-beinn-tharsuinn/",
+            "summary": "Technical crash site record for B-29A 44-62276, including aircraft specifications, crew list, and detailed account of the accident on Beinn Tharsuinn above Succoth Glen.",
+            "key_details": "Aircraft was a B-29A variant. Departed RAF Scampton, Lincolnshire. The crash site is at altitude on the hillside and wreckage remains visible.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Oban Branch, Legion Scotland",
+            "org_type": "legion_scotland",
+            "role": "Local remembrance and memorial support",
+            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+        }
+    ]
 }

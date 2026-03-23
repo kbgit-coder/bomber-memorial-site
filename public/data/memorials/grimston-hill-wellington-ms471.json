@@ -25,7 +25,11 @@
       "role": "Pilot",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Bournemouth Crematorium, Panel 1"
+      "fate_detail": "Killed when the Wellington stalled while trying to clear telegraph poles during a forced landing attempt. Adams had only 18 hours of daytime Wellington flying experience and no recorded night experience.",
+      "bio": "A 24-year-old trainee pilot with limited Wellington experience. He was unable to maintain height on one engine after the starboard engine failed.",
+      "hometown": "Bournemouth",
+      "burial_location": "Bournemouth Crematorium, Panel 1",
+      "cwgc_verified": true
     },
     {
       "rank": "F/O",
@@ -35,7 +39,11 @@
       "role": "Observer",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Golders Green Crematorium, Panel 2"
+      "fate_detail": "Killed in the crash. Graham-Bell was a distinguished painter and art critic for the New Statesman magazine, a notable cultural loss.",
+      "bio": "Frank Graham-Bell (1910-1943) was a distinguished painter and art critic who wrote for the New Statesman. At 32, he was the eldest crew member. His death represented a significant loss to the British art world.",
+      "hometown": "London",
+      "burial_location": "Golders Green Crematorium, Panel 2",
+      "cwgc_verified": true
     },
     {
       "rank": "P/O",
@@ -45,7 +53,10 @@
       "role": "Bomb Aimer",
       "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Bedford Cemetery, Sec H, Grave 838"
+      "fate_detail": "Killed in the crash. Ibbott was a Canadian whose memory lives on -- a lake in northern Manitoba is named in his honour.",
+      "bio": "A 21-year-old Canadian serving with the RCAF. Ibbott Lake in northern Manitoba is named in his memory.",
+      "burial_location": "Bedford Cemetery, Sec H, Grave 838",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -55,7 +66,9 @@
       "role": "Wireless Operator/Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Ollerton Cemetery, Grave 1205"
+      "fate_detail": "Killed in the crash at Grimston Hill.",
+      "burial_location": "Ollerton Cemetery, Grave 1205",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -65,7 +78,9 @@
       "role": "Rear Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Ollerton Cemetery, Grave 1180"
+      "fate_detail": "Killed in the crash. At 19, Baldwin was the youngest crew member.",
+      "burial_location": "Ollerton Cemetery, Grave 1180",
+      "cwgc_verified": true
     }
   ],
   "memorial_type": "Memorial at RAF Ossington site",
@@ -84,11 +99,44 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "maintainer": {
     "organisation": "Wellow Parish Council",
     "maintainer_type": "parish-council",
     "notes": "Memorial at former RAF Ossington site, in Wellow parish area."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/adams-walter.html",
+      "summary": "Page for P/O Walter Waldron Adams and crew of Wellington MS471 KA:G, 82 OTU. On 9 August 1943, the aircraft's starboard engine failed during a cross-country training exercise. The pilot attempted a forced landing but stalled trying to clear telegraph poles, crashing into a cornfield at Grimston Hill.",
+      "key_details": "Police Sergeant Ernest Flinders was on leave nearby and pulled crew from the burning wreckage despite exploding ammunition, earning the British Empire Medal. F/O Frank Graham-Bell was a distinguished painter and art critic for the New Statesman. Canadian P/O Herbert Ibbott has a lake in northern Manitoba named in his honour.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Newark Advertiser",
+      "original_url": "https://www.newarkadvertiser.co.uk/news/remembering-tragic-bomber-crash-and-wartime-heroes-80-years-9325299/",
+      "summary": "Newspaper article marking 80 years since the Wellington MS471 crash at Grimston Hill. Details the heroism of PS Flinders and the stories of the crew, including the notable backgrounds of Graham-Bell (artist/critic) and Ibbott (Canadian whose name lives on in Manitoba geography).",
+      "key_details": "80th anniversary commemoration. Pilot Adams had only 18 hours of daytime Wellington flying experience and no night experience recorded. Memorial at former RAF Ossington site dedicated in 2022.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Wellow Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

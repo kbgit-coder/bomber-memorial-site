@@ -25,5 +25,34 @@
   "maintainer": {
     "organisation": "Carleton Rode Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50452",
+      "summary": "The American Air Museum records B-24J 42-50452 'Earthquake McGoon' of the 566th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft collided with 44-10513 'Old Glory' during formation assembly on 21 November 1944. Pilot Lt Alfred Brooks was the sole survivor from this aircraft, with 17 total killed across both planes.",
+      "key_details": [
+        "566th Bomb Squadron, 389th Bomb Group",
+        "Pilot Lt Alfred Brooks was sole survivor from this aircraft",
+        "17 total killed across both aircraft",
+        "Memorial board at All Saints Church, Carleton Rode"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Attleborough Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Carleton Rode Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/389th_Bombardment_Group_-_Emblem.png"
 }

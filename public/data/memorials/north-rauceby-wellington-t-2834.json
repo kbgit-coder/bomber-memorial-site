@@ -1,29 +1,69 @@
 {
-  "id": "north-rauceby-wellington-t-2834",
-  "title": "North Rauceby T.2834 Memorial",
-  "location_name": "North Rauceby, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-018",
-  "crash_date": "1942-04-20",
-  "aircraft_type": "Wellington T.2834",
-  "squadron": "3 OTU",
-  "station": "Cranwell",
-  "crew_summary": "2 killed; pilot Plt Off. Henry Eric Rath",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.151144840043486,
-  "longitude": -0.19724546665463452,
-  "maintainer": {
-    "organisation": "Rauceby Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "north-rauceby-wellington-t-2834",
+    "title": "North Rauceby T.2834 Memorial",
+    "location_name": "North Rauceby, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-018",
+    "crash_date": "1942-04-20",
+    "aircraft_type": "Wellington T.2834",
+    "squadron": "3 OTU",
+    "station": "Cranwell",
+    "crew_summary": "2 killed; pilot Plt Off. Henry Eric Rath",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.151144840043486,
+    "longitude": -0.19724546665463452,
+    "maintainer": {
+        "organisation": "Rauceby Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/rath-henry-eric.html",
+            "summary": "Detailed account of the loss of Wellington T2834 from No. 3 Coastal Operational Training Unit at RAF Cranwell on 20 April 1942. P/O Henry Eric Rath (J/6686 RCAF, age 21) and Sgt Karl Morris Miegel (AUS/403480 RAAF, age 27) were conducting night circuit and landing practice when the aircraft flew into high ground near the vicarage at North Rauceby at 0120 hours.",
+            "key_details": [
+                "P/O Rath was RCAF, age 21",
+                "Sgt Miegel was RAAF, age 27",
+                "Night circuit and landing practice",
+                "Crashed near vicarage at 0120 hrs",
+                "No. 3 Coastal OTU",
+                "Rath buried in Cranwell Churchyard (St Andrew), Plot 3 Row E Grave 1"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Commands Archive",
+            "original_url": "https://www.rafcommands.com/archive/12689.php/",
+            "summary": "RAF Commands archive entry providing official records for Wellington T2834 and the circumstances of the training accident at North Rauceby.",
+            "key_details": [
+                "Official RAF record archived"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "North Hykeham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Rauceby Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

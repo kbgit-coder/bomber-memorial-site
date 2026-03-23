@@ -33,5 +33,58 @@
     "website": "https://www.bleasbycommunity.uk",
     "maintainer_type": "parish-council",
     "notes": "Part of the Bleasby Aircrew Memorial site."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrewremembered.com",
+      "original_url": "https://aircrewremembered.com/wellburn-dennis.html",
+      "summary": "Lancaster JB132 of 61 Squadron departed RAF Syerston at 20:08 on 31 August 1943 to bomb Berlin. Returning at 03:26 on 1 September, it collided head-on at 1,500 feet with Lancaster R5698 of 1654 HCU. An explosion and fire occurred in mid-air, killing all 8 crew including Sqn Ldr Dennis Crosby Wellburn DFC, aged 27.",
+      "key_details": [
+        "Departed Syerston 20:08 for Berlin raid",
+        "Head-on collision at 03:26 at 1,500 feet",
+        "Explosion and fire in mid-air",
+        "Wellburn aged 27, held DFC",
+        "Full crew: Clarke, Watson, Forrest, Davies, Blackett, Joyce, Paterson"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/210390",
+      "summary": "ASN records the mid-air collision accident of Lancaster III JB132 on 1 September 1943, classified as a mid-air collision during return from operations.",
+      "key_details": [
+        "ASN reference 210390",
+        "Classified as mid-air collision"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/86723",
+      "summary": "IWM records the Bleasby Air Crews memorial that includes the JB132 crew among the approximately 40 airmen commemorated from multiple wartime crashes near the village.",
+      "key_details": [
+        "IWM memorial reference 86723"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Bleasby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.bleasbycommunity.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

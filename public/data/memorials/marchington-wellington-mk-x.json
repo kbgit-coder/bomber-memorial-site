@@ -5,10 +5,12 @@
   "county": "Staffordshire",
   "country": "United Kingdom",
   "region_code": "WM-001",
-  "crash_date": "1944-07-18",
+  "crash_date": "1944-06-13",
   "aircraft_type": "Wellington Mk.X",
-  "squadron": "OTU",
-  "crew_summary": "Details from Midland Aircraft Recovery Group records",
+  "serial_number": "LP397",
+  "squadron": "28 OTU",
+  "station": "Castle Donington",
+  "crew_summary": "6 killed; pilot F/O Joseph Starr (RCAF)",
   "memorial_type": "Crash site memorial",
   "sources": [
     {
@@ -17,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "On the afternoon of 13 June 1944 -- exactly one week after D-Day -- Wellington LP397 departed RAF Castle Donington on a routine cross-country training exercise. Twenty-five minutes into the flight, the aircraft entered a thunderstorm. The Wellington emerged from cloud in a steep, unrecoverable dive and crashed in a field beside Mayfield Parish Church. All six crew were killed instantly. Subsequent investigation found no evidence of structural failure, leading investigators to conclude the aircraft may have been struck by lightning. Of the six-man crew, five were Canadian; the exception was 31-year-old Sgt William Paterson, a Scotsman who was the oldest aboard. The youngest, 19-year-old air gunner James Stevens from Canada, had barely begun his training. Pilot Joseph Starr was 29 -- old for a bomber crew member -- and had travelled to England before the war to join the RAF. He is buried in Nottingham's Jewish Cemetery, while his Canadian crewmates rest at Brookwood Military Cemetery in Surrey.",
   "crew": [
@@ -29,7 +31,11 @@
       "role": "Pilot",
       "nationality": "Canadian",
       "burial_location": "Nottingham Jewish Cemetery, Wilford Hill",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly when the Wellington crashed beside Mayfield Parish Church after emerging from a thunderstorm in an unrecoverable dive.",
+      "cwgc_verified": true,
+      "bio": "Canadian pilot who had travelled to England before the war to join the RAF. At 29, old for a bomber crew member. Buried in Nottingham's Jewish Cemetery.",
+      "decorations": []
     },
     {
       "rank": "F/O",
@@ -39,7 +45,11 @@
       "role": "Navigator",
       "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly in the crash beside Mayfield Parish Church.",
+      "bio": "Canadian navigator serving with the RCAF, aged 20.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -49,7 +59,11 @@
       "role": "Air Bomber",
       "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Canadian air bomber serving with the RCAF, aged 22.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -59,7 +73,12 @@
       "role": "W/Op Air Gunner",
       "nationality": "British",
       "burial_location": "Torryburn Cemetery, Scotland",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly in the crash. The oldest crew member at 31 and the only non-Canadian, a Scotsman.",
+      "bio": "Scottish wireless operator/air gunner, the oldest at 31 and the only non-Canadian. Buried at Torryburn Cemetery in his hometown.",
+      "hometown": "Torryburn, Fife, Scotland",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -69,7 +88,11 @@
       "role": "W/Op Air Gunner",
       "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly in the crash.",
+      "bio": "Canadian wireless operator/air gunner serving with the RCAF, aged 21.",
+      "decorations": []
     },
     {
       "rank": "Sgt",
@@ -79,7 +102,11 @@
       "role": "Air Gunner",
       "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed instantly in the crash. The youngest crew member at 19, barely begun his training.",
+      "bio": "Canadian air gunner serving with the RCAF, the youngest at just 19.",
+      "decorations": []
     }
   ],
   "cause_of_loss": "Possible lightning strike during thunderstorm; aircraft entered steep dive from cloud",
@@ -90,5 +117,68 @@
   "maintainer": {
     "organisation": "Marchington Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrewremembered.com",
+      "original_url": "https://aircrewremembered.com/starr-joseph.html",
+      "summary": "Detailed account of the loss of Wellington X LP397 from 28 OTU on 13 June 1944. Documents F/O Joseph Starr's crew and the circumstances of the thunderstorm crash near Mayfield, Staffordshire. Confirms burial locations for all crew members.",
+      "key_details": [
+        "28 OTU confirmed as unit",
+        "LP397 serial confirmed",
+        "Joseph Starr travelled to England pre-war to join RAF",
+        "Four Canadians buried at Brookwood Military Cemetery"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/midlands/vickers-wellington-lp397-mayfield/",
+      "summary": "Technical and historical account of Wellington LP397 crash. The aircraft departed RAF Castle Donington on a cross-country training exercise and entered a thunderstorm 25 minutes later, with no evidence of structural failure found in investigation.",
+      "key_details": [
+        "Departed RAF Castle Donington",
+        "Crashed beside Mayfield Parish Church",
+        "No structural failure found"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/82062/Memorial-Crash-Wellington.htm",
+      "summary": "International war heritage entry documenting the Wellington LP397 crash memorial at Mayfield, Staffordshire, with photographs and location details.",
+      "key_details": [
+        "Memorial documented on international heritage database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Waymarking.com",
+      "original_url": "https://www.waymarking.com/waymarks/WMWGH1_Wellington_MK10_LP397_Nr_St_John_the_Baptist_Mayfield_Staffordshire",
+      "summary": "Waymark entry for the Wellington MK10 LP397 memorial near St John the Baptist Church, Mayfield. The memorial stone was placed in the churchyard approximately 200 yards from the crash site.",
+      "key_details": [
+        "Memorial in churchyard of St John the Baptist, Mayfield",
+        "200 yards from actual crash site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Stafford Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/staffordshire/"
+    },
+    {
+      "org_name": "Marchington Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

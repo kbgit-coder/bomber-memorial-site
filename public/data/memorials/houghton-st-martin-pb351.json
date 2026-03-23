@@ -31,5 +31,65 @@
   "maintainer": {
     "organisation": "Houghton Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/richins-denis.html",
+      "summary": "Detailed page on P/O Denis Richard Garth Richins RAAF (aged 22) and his crew of Lancaster PB351 (coded AR-H2). The aircraft departed Binbrook at 16:15 on 23 October 1944 for a bombing raid on Essen, the largest operation to the city with 1,055 aircraft participating. On return, the crew was diverted to Bircham Newton due to poor conditions at base. During the approach, PB351 hit a 70-foot tree in the grounds of Houghton Hall and crashed at 21:56.",
+      "key_details": [
+        "Target was Essen, 1,055 aircraft operation",
+        "Diverted to Bircham Newton",
+        "Hit 70-foot tree in Houghton Hall grounds at 21:56",
+        "Pilot Richins aged 22"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/159217",
+      "summary": "The Aviation Safety Network records the accident of Lancaster Mk III PB351 on 23 October 1944, confirming the crash location and circumstances during the diversion approach.",
+      "key_details": [
+        "ASN accident record confirmed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/5587903",
+      "summary": "Photographic record of the aircrew crash memorial at Houghton St Martin, showing the memorial stone in its setting near Houghton Hall, Norfolk.",
+      "key_details": [
+        "Photographic record of memorial stone"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Heritage Museum (Western Australia)",
+      "original_url": "https://aviationmuseumwa.org.au/afcraaf-roll/frankish-kenneth-thomas-427818/",
+      "summary": "The Australian Aviation Heritage Museum records crew member details for the RAAF personnel aboard PB351, including references to the 460 Squadron RAAF service records and loss circumstances.",
+      "key_details": [
+        "Australian heritage records for RAAF crew members"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sedgeford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Houghton Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/460_Sqn_RAAF.png",
+  "squadron_motto": "Strike and return"
 }

@@ -1,36 +1,88 @@
 {
-  "id": "hoveringham-2-lm308",
-  "title": "Hoveringham (2) Lancaster Memorial",
-  "location_name": "Hoveringham (2), Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-016",
-  "crash_date": "1945-01-29",
-  "aircraft_type": "Lancaster",
-  "serial_number": "LM308",
-  "squadron": "5 LFS",
-  "station": "Syerston",
-  "crew_summary": "7 killed including WO Richard Barlow Rathbone",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "hoveringham-2-lm308",
+    "title": "Hoveringham (2) Lancaster Memorial",
+    "location_name": "Hoveringham (2), Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-016",
+    "crash_date": "1945-01-29",
+    "aircraft_type": "Lancaster",
+    "serial_number": "LM308",
+    "squadron": "5 LFS",
+    "station": "Syerston",
+    "crew_summary": "7 killed including WO Richard Barlow Rathbone",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - W/O Rathbone, Lancaster LM308",
+            "url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.05506116398948,
+    "longitude": -0.9761037381431208,
+    "maintainer": {
+        "organisation": "Hoveringham Parish Council",
+        "website": "https://www.hoveringhamparishcouncil.gov.uk",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "Aircrew Remembered - W/O Rathbone, Lancaster LM308",
-      "url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.05506116398948,
-  "longitude": -0.9761037381431208,
-  "maintainer": {
-    "organisation": "Hoveringham Parish Council",
-    "website": "https://www.hoveringhamparishcouncil.gov.uk",
-    "maintainer_type": "parish-council"
-  }
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
+            "summary": "Detailed page on W/O Richard Barlow Rathbone RCAF (aged 28) and his crew of Lancaster III LM308. The aircraft took off at 00:01 from Syerston on a night cross-country training sortie. After completing the exercise, the crew acknowledged landing instructions from flying control. Two minutes later at 02:16, LM308 crashed at high speed and exploded on impact. Eyewitnesses reported both port engines may have caught fire while airborne.",
+            "key_details": [
+                "Takeoff at 00:01 from Syerston",
+                "Crash at 02:16 after acknowledging landing instructions",
+                "Both port engines possibly on fire",
+                "Five Canadians and two British crew, all killed",
+                "Rathbone aged 28, RCAF"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Graham Edwards (Author)",
+            "original_url": "https://graham-edwards.com/2016/03/30/hoveringham-lancasters/",
+            "summary": "Historical account linking the LM308 crash to the earlier JB125 loss at Hoveringham just 17 days prior. Both aircraft were from No. 5 Lancaster Finishing School at RAF Syerston, highlighting the dangerous nature of night training operations in the final months of the war.",
+            "key_details": [
+                "Second crash at same location within 17 days",
+                "Both from 5 LFS Syerston"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61799",
+            "summary": "The IWM registers the twin memorial stones at Hoveringham, with the right stone commemorating the crew of LM308 lost on 29 January 1945. The memorial reference covers both Hoveringham Lancaster crashes.",
+            "key_details": [
+                "IWM memorial reference 61799",
+                "Right stone commemorates LM308 crew"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southwell Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Hoveringham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep",
+            "website": "https://www.hoveringhamparishcouncil.gov.uk"
+        }
+    ]
 }

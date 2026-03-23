@@ -52,5 +52,55 @@
   "maintainer": {
     "organisation": "Bacton Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/24581/Memorial-Crash-Lockheed-Hudson.htm",
+      "summary": "TracesOfWar records a memorial at Bacton, Norfolk commemorating four RAF airmen who died when their Lockheed Hudson crashed south of the village on 16 January 1942. The aircraft was carrying four bombs at the time of the crash.",
+      "key_details": [
+        "Memorial at crash site south of Bacton",
+        "Four crew killed",
+        "Aircraft carried four bombs"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Key Aero Forum",
+      "original_url": "https://www.key.aero/forum/historic-aviation/51672-raf-hudson-crash-16-01-42-near-bacton-norfolk",
+      "summary": "Aviation enthusiast forum discussion documenting the RAF Hudson crash near Bacton on 16 January 1942, with contributor research into the crew and circumstances.",
+      "key_details": [
+        "Community research into crash details",
+        "Crash date confirmed as 16 January 1942"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
+      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
+      "summary": "Geograph's comprehensive listing of East Anglia WW2 aircrew crash memorials includes the Bacton Hudson memorial among the Norfolk sites documented.",
+      "key_details": [
+        "Listed in comprehensive East Anglia WW2 memorial catalogue"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "North Walsham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Bacton Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/No._50_Squadron_RAF.png",
+  "squadron_motto": "From defence to attack"
 }

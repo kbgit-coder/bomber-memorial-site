@@ -20,7 +20,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "The night of 16/17 December 1943 became known in Bomber Command as \"Black Thursday.\" A force of nearly 500 aircraft took off to attack Berlin as part of the sustained Battle of Berlin campaign. Casualties over the target were relatively light, but the real disaster struck as the bombers returned to their English bases. A rapidly deteriorating weather front rolled across eastern England, bringing fog, low cloud, and freezing conditions. Across Bomber Command, seventy aircraft crashed attempting to land in conditions that made their home airfields invisible. No. 97 Squadron at Bourn suffered some of the worst losses of the night -- not from German defences but from English weather. Lancaster JB219, piloted by Flying Officer James Kirkwood, completed the round trip to Berlin successfully but could not find a way through the murk blanketing the Cambridgeshire fens. At 00:10 hours on the 17th, the Lancaster crashed into Hayley Wood, a patch of ancient woodland just south of RAF Gransden Lodge, killing all seven crew members. The crew were young: four of the seven were twenty-one or twenty-two years old. Kirkwood, at twenty-eight, was the eldest. Their burial locations -- scattered from Scotland to Dorset, from Manchester to London -- reflect the nationwide draw of Bomber Command's volunteer crews. A memorial now stands at the crash site in Hayley Wood.",
   "crew": [
@@ -31,7 +31,14 @@
       "age": 28,
       "role": "Pilot",
       "burial_location": "Kilwinning Cemetery, Scotland",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster JB219 crashed into Hayley Wood at 00:10 on 17 December 1943, returning from Berlin on 'Black Thursday'. Kirkwood held the DFC.",
+      "bio": "A 28-year-old pilot and holder of the Distinguished Flying Cross, Kirkwood was the eldest of the crew. He was flying with 97 Squadron, part of No. 8 (Pathfinder) Group.",
+      "decorations": [
+        "DFC"
+      ],
+      "hometown": "Kilwinning, Scotland",
+      "cwgc_verified": true
     },
     {
       "rank": "F/Sgt",
@@ -40,7 +47,10 @@
       "age": 21,
       "role": "Flight Engineer",
       "burial_location": "Croxton Churchyard, Norfolk",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Croxton, Norfolk",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -49,7 +59,10 @@
       "age": 21,
       "role": "Navigator",
       "burial_location": "Braemar Graveyard, Scotland",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Braemar, Scotland",
+      "cwgc_verified": true
     },
     {
       "rank": "F/O",
@@ -58,7 +71,10 @@
       "age": 22,
       "role": "Air Bomber",
       "burial_location": "Carshalton Churchyard, London",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Carshalton, London",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -67,7 +83,10 @@
       "age": 21,
       "role": "Wireless Operator/Air Gunner",
       "burial_location": "Wyke Regis, Dorset",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Wyke Regis, Dorset",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -75,7 +94,10 @@
       "service_number": "1696999 RAFVR",
       "role": "Air Gunner",
       "burial_location": "Manchester Southern Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Manchester",
+      "cwgc_verified": true
     },
     {
       "rank": "F/Sgt",
@@ -84,7 +106,10 @@
       "age": 22,
       "role": "Air Gunner",
       "burial_location": "Hollinfare Cemetery, Manchester",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
+      "hometown": "Hollinfare, Manchester area",
+      "cwgc_verified": true
     }
   ],
   "cause_of_loss": "Weather-related crash on return from operations; part of the \"Black Thursday\" disaster when 70 returning bombers crashed in bad weather",
@@ -96,5 +121,46 @@
   "maintainer": {
     "organisation": "Great Gransden Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/kirkwood-james-1.html",
+      "summary": "Comprehensive page on F/O James Kirkwood DFC and crew of Lancaster JB219 OF-R, 97 Squadron. The aircraft crashed at Hayley Wood at 00:10 on 17 December 1943 while returning from Berlin, one of 70 bombers lost to fog on 'Black Thursday'.",
+      "key_details": "Kirkwood held the DFC. 97 Squadron lost eight Lancasters that night with 36 aircrew killed. The crew ranged in age from 21 to 28. Memorial plaque dedicated on 15 September 2007.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Pathfinders Archive",
+      "original_url": "https://rafpathfinders.com/16-17-december-1943-the-night-of-the-fog/",
+      "summary": "Detailed article on 'The Night of the Fog' (Black Thursday), 16/17 December 1943. Nearly 500 aircraft attacked Berlin; casualties over the target were light but 70 bombers crashed on return when fog enveloped eastern England.",
+      "key_details": "97 Squadron at Bourn suffered the worst losses of the night. Lancaster JB219 completed the Berlin mission successfully but could not find its way through the fog to land.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Pathfinders Archive",
+      "original_url": "https://raf-pathfinders.com/crew-kirkwood/",
+      "summary": "Crew record for F/O Kirkwood's team from the RAF Pathfinders Archive. Documents the crew's service with 97 Squadron and their loss during the Battle of Berlin campaign.",
+      "key_details": "97 Squadron was part of No. 8 (Pathfinder) Group. The crew were lost during the sustained Battle of Berlin bombing campaign.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Gransden & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Great Gransden Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/No._97_Squadron_RAF_badge.png",
+  "squadron_motto": "Achieve your aim"
 }

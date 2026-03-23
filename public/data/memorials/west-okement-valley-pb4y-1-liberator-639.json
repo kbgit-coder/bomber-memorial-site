@@ -1,105 +1,214 @@
 {
-  "id": "west-okement-valley-pb4y-1-liberator-639",
-  "title": "West Okement Valley 63926 Memorial",
-  "location_name": "West Okement Valley, Dartmoor, Devon (Dartmoor)",
-  "county": "Devon (Dartmoor)",
-  "country": "United Kingdom",
-  "region_code": "SW-003",
-  "crash_date": "1943-12-28",
-  "aircraft_type": "PB4Y-1 Liberator 63926",
-  "squadron": "VB-110 (US Navy)",
-  "crew_summary": "10 killed",
-  "memorial_type": "Crash site memorial",
-  "sources": [
-    {
-      "title": "dartmoorexplorations.co.uk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Complete",
-  "narrative": "The PB4Y-1 Liberator was the US Navy's version of the B-24, deployed to RAF Dunkeswell in Devon for anti-submarine operations over the Bay of Biscay. Squadron VB-110 operated these long-range maritime patrol aircraft against German U-boats threatening Allied Atlantic convoys. On 28 December 1943, Liberator 63926 was in transit when it encountered poor visibility over Dartmoor. The aircraft flew into the steep-sided West Okement Valley, crashing between the Slipper Stones and Steng-a-Tor on the western side, opposite the south end of Black-a-Tor Copse. All ten crew members were killed instantly. The crash site is remote and remains littered with wreckage fragments. Though this is a US Navy rather than RAF Bomber Command aircraft, it represents the broader Allied bomber operations that used Devon bases extensively.",
-  "crew": [
-    {
-      "rank": "Lt",
-      "name": "William W. Parish",
-      "role": "Pilot",
-      "nationality": "American",
-      "fate": "Killed"
+    "id": "west-okement-valley-pb4y-1-liberator-639",
+    "title": "West Okement Valley 63926 Memorial",
+    "location_name": "West Okement Valley, Dartmoor, Devon (Dartmoor)",
+    "county": "Devon (Dartmoor)",
+    "country": "United Kingdom",
+    "region_code": "SW-003",
+    "crash_date": "1943-12-28",
+    "aircraft_type": "PB4Y-1 Liberator 63926",
+    "squadron": "VB-110 (US Navy)",
+    "crew_summary": "10 killed",
+    "memorial_type": "Crash site memorial",
+    "sources": [
+        {
+            "title": "dartmoorexplorations.co.uk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "The PB4Y-1 Liberator was the US Navy's version of the B-24, deployed to RAF Dunkeswell in Devon for anti-submarine operations over the Bay of Biscay. Squadron VB-110 operated these long-range maritime patrol aircraft against German U-boats threatening Allied Atlantic convoys. On 28 December 1943, Liberator 63926 was in transit when it encountered poor visibility over Dartmoor. The aircraft flew into the steep-sided West Okement Valley, crashing between the Slipper Stones and Steng-a-Tor on the western side, opposite the south end of Black-a-Tor Copse. All ten crew members were killed instantly. The crash site is remote and remains littered with wreckage fragments. Though this is a US Navy rather than RAF Bomber Command aircraft, it represents the broader Allied bomber operations that used Devon bases extensively.",
+    "crew": [
+        {
+            "rank": "Lt",
+            "name": "William W. Parish",
+            "role": "Pilot",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed when the Liberator flew into the steep-sided West Okement Valley in poor visibility. Had radioed control at 22:15 with an ETA of 22:20, minutes before the crash.",
+            "bio": "Lieutenant and pilot of the PB4Y-1 Liberator from VB-110, US Navy. Was returning from an anti-submarine patrol mission over the Bay of Biscay.",
+            "decorations": []
+        },
+        {
+            "rank": "Ens",
+            "name": "Donald M. Lyons",
+            "role": "Co-pilot",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash in West Okement Valley.",
+            "bio": "Ensign serving as co-pilot.",
+            "decorations": []
+        },
+        {
+            "rank": "Ens",
+            "name": "Roger W. Lovelace Jr.",
+            "role": "Navigator",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Ensign serving as navigator.",
+            "decorations": []
+        },
+        {
+            "rank": "AMM2c",
+            "name": "Arthur J. Stork",
+            "role": "Flight Engineer",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Aviation Machinist's Mate 2nd Class serving as flight engineer.",
+            "decorations": []
+        },
+        {
+            "rank": "AMM2c",
+            "name": "John E. Shaffer",
+            "role": "Flight Engineer",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Aviation Machinist's Mate 2nd Class serving as flight engineer.",
+            "decorations": []
+        },
+        {
+            "rank": "RM2c",
+            "name": "Leo M. Davenport",
+            "role": "Radio Operator",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Radioman 2nd Class serving as radio operator.",
+            "decorations": []
+        },
+        {
+            "rank": "RM3c",
+            "name": "John F. Benson",
+            "role": "Radio Operator",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Radioman 3rd Class serving as radio operator.",
+            "decorations": []
+        },
+        {
+            "rank": "AMM3c",
+            "name": "Alfred J. Roddy Jr.",
+            "role": "Gunner",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Aviation Machinist's Mate 3rd Class serving as gunner.",
+            "decorations": []
+        },
+        {
+            "rank": "AMM3c",
+            "name": "Charles A. Reynard",
+            "role": "Ordnance Operator",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Aviation Machinist's Mate 3rd Class serving as ordnance operator.",
+            "decorations": []
+        },
+        {
+            "rank": "AMM3c",
+            "name": "Dwight E. Nash",
+            "role": "Gunner",
+            "nationality": "American",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash.",
+            "bio": "Aviation Machinist's Mate 3rd Class serving as gunner.",
+            "decorations": []
+        }
+    ],
+    "cause_of_loss": "Aircraft flew into high ground in poor visibility during transit",
+    "operation_type": "Anti-submarine patrol (Bay of Biscay operations)",
+    "memorial_details": "For nearly 80 years, the crash site had no formal memorial. In May 2022, a memorial plaque was installed on the ridge above the valley. The stone was brought to the location by a Royal Navy Commando helicopter, given the remoteness of the site. The memorial is accessible via a walk from Meldon Reservoir car park, approximately 3 miles. Wreckage remains visible at the crash site below.",
+    "latitude": 50.7170753268521,
+    "longitude": -3.3803569579326136,
+    "maintainer": {
+        "organisation": "Dartmoor National Park Authority",
+        "website": "https://www.dartmoor.gov.uk",
+        "maintainer_type": "military"
     },
-    {
-      "rank": "Ens",
-      "name": "Donald M. Lyons",
-      "role": "Co-pilot",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Ens",
-      "name": "Roger W. Lovelace Jr.",
-      "role": "Navigator",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "AMM2c",
-      "name": "Arthur J. Stork",
-      "role": "Flight Engineer",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "AMM2c",
-      "name": "John E. Shaffer",
-      "role": "Flight Engineer",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "RM2c",
-      "name": "Leo M. Davenport",
-      "role": "Radio Operator",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "RM3c",
-      "name": "John F. Benson",
-      "role": "Radio Operator",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "AMM3c",
-      "name": "Alfred J. Roddy Jr.",
-      "role": "Gunner",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "AMM3c",
-      "name": "Charles A. Reynard",
-      "role": "Ordnance Operator",
-      "nationality": "American",
-      "fate": "Killed"
-    },
-    {
-      "rank": "AMM3c",
-      "name": "Dwight E. Nash",
-      "role": "Gunner",
-      "nationality": "American",
-      "fate": "Killed"
-    }
-  ],
-  "cause_of_loss": "Aircraft flew into high ground in poor visibility during transit",
-  "operation_type": "Anti-submarine patrol (Bay of Biscay operations)",
-  "memorial_details": "For nearly 80 years, the crash site had no formal memorial. In May 2022, a memorial plaque was installed on the ridge above the valley. The stone was brought to the location by a Royal Navy Commando helicopter, given the remoteness of the site. The memorial is accessible via a walk from Meldon Reservoir car park, approximately 3 miles. Wreckage remains visible at the crash site below.",
-  "latitude": 50.7170753268521,
-  "longitude": -3.3803569579326136,
-  "maintainer": {
-    "organisation": "Dartmoor National Park Authority",
-    "website": "https://www.dartmoor.gov.uk",
-    "maintainer_type": "military"
-  }
+    "external_narratives": [
+        {
+            "source_site": "Dartmoor Explorations",
+            "original_url": "https://dartmoorexplorations.co.uk/west-okement-valley-crash-site-of-us-navy-pb4y-1-liberator-63926-from-squadron-vb-110/",
+            "summary": "Detailed account of the PB4Y-1 Liberator 63926 crash in West Okement Valley. The aircraft departed Dunkeswell on 28 December 1943 with 14 other aircraft from Air Wing 7 to engage enemy destroyers in the Bay of Biscay. At 22:15 the pilot radioed an ETA of 22:20, but minutes later the aircraft struck the hillside in low cloud.",
+            "key_details": [
+                "Aircraft was part of a 15-aircraft mission from Air Wing 7",
+                "Pilot Lt Parish radioed control at 22:15 with ETA of 22:20",
+                "Aircraft still carried a full bomb load for unknown reasons",
+                "Wreckage was partly removed in 1960s; Devon Aircraft Research and Recovery Team examined site in 1973",
+                "Considerable wreckage still visible at site over 80 years later"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Legendary Dartmoor",
+            "original_url": "https://www.legendarydartmoor.co.uk/2016/03/21/lost_liberator/",
+            "summary": "Legendary Dartmoor's account of the 'Lost Liberator' crash on Dartmoor. Describes the remote crash site in West Okement Valley and the long campaign to get a memorial erected for the ten US Navy crew members who died.",
+            "key_details": [
+                "Describes the remote and atmospheric crash site location",
+                "Wreckage strewn from near ridge top down to the river"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Royal Navy",
+            "original_url": "https://www.royalnavy.mod.uk/news/2022/may/20/20220520-commando-helicopters-deliver-memorial-stones-for-us-aviators-killed-on-dartmoor-in-ww2",
+            "summary": "Official Royal Navy news release about the May 2022 memorial installation. Commando helicopters from the Royal Navy delivered the memorial stones to the remote Dartmoor crash site, enabling a formal dedication ahead of the 80th anniversary of the crash.",
+            "key_details": [
+                "Royal Navy Commando helicopter transported the memorial stone",
+                "Dedication timed for 80th anniversary",
+                "Official military involvement in memorial installation"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Moorland Ramblings",
+            "original_url": "https://moorlandramblings.com/2024/07/09/dartmoor-liberator-crash/",
+            "summary": "Walking guide to the PB4Y-1 Liberator 63926 crash site on Dartmoor, describing the route from Meldon Reservoir car park and the memorial plaque installed in 2022 on the ridge above the crash site.",
+            "key_details": [
+                "Walking route approximately 3 miles from Meldon Reservoir car park",
+                "Photographic documentation of wreckage and memorial"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "The Moorlander",
+            "original_url": "https://www.themoorlander.co.uk/gallery/home/1559122/tragic-history-of-us-navy-pb4y-1-liberator-on-dartmoor.html",
+            "summary": "Photo gallery documenting the tragic history of the US Navy PB4Y-1 Liberator on Dartmoor, with images of the crash site wreckage and the surrounding landscape in West Okement Valley.",
+            "key_details": [
+                "Photographic documentation of wreckage fragments at crash site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Pastscape (Historic England)",
+            "original_url": "https://www.pastscape.org.uk/hob.aspx?hob_id=1437740",
+            "summary": "Historic England's Pastscape database entry for the crash site of PB4Y-1 Liberator 63926/E, recording it as a heritage feature on Dartmoor with formal archaeological documentation.",
+            "key_details": [
+                "Formally recorded as heritage feature by Historic England",
+                "Listed under aircraft designation 63926/E"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Exeter Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/devon/"
+        }
+    ]
 }

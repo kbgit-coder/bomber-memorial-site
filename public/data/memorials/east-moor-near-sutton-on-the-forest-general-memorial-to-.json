@@ -1,28 +1,90 @@
 {
-  "id": "east-moor-near-sutton-on-the-forest-general-memorial-to-",
-  "title": "East Moor (near Sutton-on-the-Forest) served Memorial",
-  "location_name": "East Moor (near Sutton-on-the-Forest), General Yorkshire",
-  "county": "General Yorkshire",
-  "country": "United Kingdom",
-  "region_code": "YK-001",
-  "crash_date": "WW2",
-  "aircraft_type": "General memorial to all who served",
-  "squadron": "Various squadrons based at East Moor",
-  "memorial_type": "Airfield memorial near site of former East Moor airfield",
-  "sources": [
-    {
-      "title": "York Stories",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.76109502802034,
-  "longitude": -1.3713426359491403,
-  "maintainer": {
-    "organisation": "Sutton-on-the-Forest Parish Council",
-    "maintainer_type": "raf-association",
-    "notes": "Airfield memorial near site of former RAF East Moor."
-  }
+    "id": "east-moor-near-sutton-on-the-forest-general-memorial-to-",
+    "title": "East Moor (near Sutton-on-the-Forest) served Memorial",
+    "location_name": "East Moor (near Sutton-on-the-Forest), General Yorkshire",
+    "county": "General Yorkshire",
+    "country": "United Kingdom",
+    "region_code": "YK-001",
+    "crash_date": "WW2",
+    "aircraft_type": "General memorial to all who served",
+    "squadron": "Various squadrons based at East Moor",
+    "memorial_type": "Airfield memorial near site of former East Moor airfield",
+    "sources": [
+        {
+            "title": "York Stories",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.76109502802034,
+    "longitude": -1.3713426359491403,
+    "maintainer": {
+        "organisation": "Sutton-on-the-Forest Parish Council",
+        "maintainer_type": "raf-association",
+        "notes": "Airfield memorial near site of former RAF East Moor."
+    },
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/29901",
+            "summary": "Imperial War Museums register entry for the memorial to 415, 429, and 432 Squadrons RCAF at the former East Moor airfield site near Sutton-on-the-Forest. The memorial sundial cairn commemorates 640 RCAF aircrew who lost their lives during operations from the airfield.",
+            "key_details": [
+                "IWM memorial reference 29901",
+                "640 RCAF aircrew lost from this airfield",
+                "415, 429, and 432 Squadrons RCAF"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "415 Squadron RCAF Association",
+            "original_url": "http://www.415sqn.com/east-moor-2017.html",
+            "summary": "415 Squadron Association page documenting annual memorial services at the East Moor memorial cairn. The sundial cairn was installed in 1990 at the village pound in Sutton-on-the-Forest by Canadian veterans of the three RCAF squadrons.",
+            "key_details": [
+                "Sundial cairn installed 1990",
+                "Located at village pound",
+                "Annual memorial services attended by Canadian veterans"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/187682/",
+            "summary": "Memorial record for the 415, 429, and 432 Squadrons RCAF memorial at Eastmoor Airfield. The sandstone and Westmoreland slate sundial cairn was erected by Canadian veterans in remembrance of their fallen comrades.",
+            "key_details": [
+                "Sandstone base with Westmoreland slate sundial",
+                "Purchased and erected by Canadian veterans"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Sutton-on-the-Forest Village",
+            "original_url": "https://www.suttonontheforestvillage.org.uk/our-community/east-moor-memorial-service",
+            "summary": "Village community page about the annual East Moor memorial service. Describes the ongoing relationship between the village and Canadian veterans and their families who return annually to commemorate the 640 aircrew lost.",
+            "key_details": [
+                "Annual memorial service tradition",
+                "Canadian families continue to attend",
+                "Village community involvement in remembrance"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "York Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Sutton-on-the-Forest Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

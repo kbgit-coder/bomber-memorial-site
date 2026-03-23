@@ -1,5 +1,4 @@
-import { getAllMemorials, getMemorialStats, getFeaturedMemorials, getCountryCodes } from "@/lib/data";
-import MemorialCard from "@/components/MemorialCard";
+import { getAllMemorials, getMemorialStats, getCountryCodes, getWeeklyFeaturedMemorials, getWeekLabel } from "@/lib/data";
 import SearchBar from "@/components/SearchBar";
 import Link from "next/link";
 import { Memorial } from "@/lib/types";
@@ -22,15 +21,35 @@ function toLightMemorial(m: Memorial): Memorial {
   };
 }
 
+// Featured memorials keep narrative excerpt + external narrative count
+function toFeaturedMemorial(m: Memorial) {
+  return {
+    id: m.id,
+    title: m.title,
+    location_name: m.location_name,
+    county: m.county,
+    country: m.country,
+    crash_date: m.crash_date,
+    aircraft_type: m.aircraft_type,
+    serial_number: m.serial_number,
+    squadron: m.squadron,
+    data_quality: m.data_quality,
+    narrative_excerpt: m.narrative ? m.narrative.slice(0, 200) + (m.narrative.length > 200 ? "..." : "") : undefined,
+    crew_count: m.crew?.length || 0,
+    external_narratives_count: m.external_narratives?.length || 0,
+  };
+}
+
 export default function HomePage() {
   const allMemorials = getAllMemorials();
   const stats = getMemorialStats();
-  const featured = getFeaturedMemorials();
+  const weeklyFeatured = getWeeklyFeaturedMemorials();
+  const weekLabel = getWeekLabel();
   const regions = getCountryCodes();
 
   // Light versions for search (no narratives, crew arrays, coords, or sources)
   const memorials = allMemorials.map(toLightMemorial);
-  const featuredLight = featured.map(toLightMemorial);
+  const weeklyCards = weeklyFeatured.map(toFeaturedMemorial);
 
   return (
     <div>
@@ -197,8 +216,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Featured Memorials */}
-      {featuredLight.length > 0 && (
+      {/* This Week's Memorials */}
+      {weeklyCards.length > 0 && (
         <section
           style={{
             maxWidth: 1200,
@@ -215,27 +234,155 @@ export default function HomePage() {
               textAlign: "center",
             }}
           >
-            Featured Memorials
+            This Week&apos;s Memorials
           </h2>
           <p
             style={{
               textAlign: "center",
               color: "#666",
-              marginBottom: "2rem",
+              marginBottom: "0.25rem",
               fontSize: "0.95rem",
             }}
           >
-            Fully documented entries with crew details, narratives, and sources.
+            Five memorials showcased each week &mdash; every memorial featured at least once per year.
+          </p>
+          <p
+            style={{
+              textAlign: "center",
+              color: "#999",
+              marginBottom: "2rem",
+              fontSize: "0.8rem",
+              fontStyle: "italic",
+            }}
+          >
+            {weekLabel}
           </p>
           <div
             style={{
               display: "grid",
-              gridTemplateColumns: "repeat(auto-fill, minmax(320px, 1fr))",
+              gridTemplateColumns: "repeat(auto-fill, minmax(340px, 1fr))",
               gap: "1.5rem",
             }}
           >
-            {featuredLight.map((memorial) => (
-              <MemorialCard key={memorial.id} memorial={memorial} />
+            {weeklyCards.map((card) => (
+              <Link
+                key={card.id}
+                href={`/memorial/${card.id}`}
+                style={{ textDecoration: "none" }}
+              >
+                <div
+                  style={{
+                    backgroundColor: "#ffffff",
+                    border: "1px solid #e0dcd5",
+                    borderRadius: 12,
+                    padding: "1.5rem",
+                    transition: "box-shadow 0.2s ease, transform 0.2s ease",
+                    height: "100%",
+                    display: "flex",
+                    flexDirection: "column",
+                  }}
+                >
+                  {/* Header row: title + quality badge */}
+                  <div style={{ marginBottom: "0.75rem" }}>
+                    <h3
+                      style={{
+                        fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                        color: "#1a2332",
+                        fontSize: "1.1rem",
+                        margin: "0 0 0.5rem",
+                        lineHeight: 1.3,
+                      }}
+                    >
+                      {card.title}
+                    </h3>
+                    <div style={{ display: "flex", gap: "0.5rem", flexWrap: "wrap" }}>
+                      <span
+                        style={{
+                          fontSize: "0.7rem",
+                          padding: "0.15rem 0.6rem",
+                          borderRadius: 10,
+                          textTransform: "uppercase",
+                          letterSpacing: "0.05em",
+                          fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                          backgroundColor: card.data_quality === "Complete" ? "#2d5016" : "#5a4a1e",
+                          color: card.data_quality === "Complete" ? "#a8d48c" : "#d4c98c",
+                        }}
+                      >
+                        {card.data_quality}
+                      </span>
+                      {card.external_narratives_count > 0 && (
+                        <span
+                          style={{
+                            fontSize: "0.7rem",
+                            padding: "0.15rem 0.6rem",
+                            borderRadius: 10,
+                            fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                            backgroundColor: "#1a2332",
+                            color: "#c9b98a",
+                          }}
+                        >
+                          {card.external_narratives_count} external {card.external_narratives_count === 1 ? "source" : "sources"}
+                        </span>
+                      )}
+                    </div>
+                  </div>
+
+                  {/* Location + date */}
+                  <div style={{ fontSize: "0.85rem", color: "#666", marginBottom: "0.75rem" }}>
+                    {card.location_name && <span>{card.location_name}</span>}
+                    {card.county && <span>, {card.county}</span>}
+                    {card.crash_date && (
+                      <span style={{ marginLeft: "0.75rem", color: "#999" }}>
+                        {card.crash_date}
+                      </span>
+                    )}
+                  </div>
+
+                  {/* Aircraft info */}
+                  {(card.aircraft_type || card.squadron) && (
+                    <div style={{ fontSize: "0.85rem", color: "#8b7355", marginBottom: "0.75rem" }}>
+                      {card.aircraft_type}
+                      {card.serial_number && ` ${card.serial_number}`}
+                      {card.squadron && ` \u2022 ${card.squadron}`}
+                    </div>
+                  )}
+
+                  {/* Narrative excerpt */}
+                  {card.narrative_excerpt && (
+                    <p
+                      style={{
+                        fontSize: "0.9rem",
+                        color: "#555",
+                        lineHeight: 1.6,
+                        flex: 1,
+                        marginBottom: "0.75rem",
+                      }}
+                    >
+                      {card.narrative_excerpt}
+                    </p>
+                  )}
+
+                  {/* Stats row */}
+                  <div
+                    style={{
+                      display: "flex",
+                      gap: "1.25rem",
+                      fontSize: "0.8rem",
+                      color: "#999",
+                      borderTop: "1px solid #f0ece5",
+                      paddingTop: "0.75rem",
+                      marginTop: "auto",
+                    }}
+                  >
+                    {card.crew_count > 0 && (
+                      <span>{card.crew_count} crew recorded</span>
+                    )}
+                    <span style={{ marginLeft: "auto", color: "#2c5f8a" }}>
+                      Read the full story &rarr;
+                    </span>
+                  </div>
+                </div>
+              </Link>
             ))}
           </div>
         </section>

@@ -16,10 +16,20 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "War Memorials Online - Memorial 265202",
+      "type": "website",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/265202/"
+    },
+    {
+      "title": "Key Aero Forum - Aircrew Memorials at Laxton",
+      "type": "website",
+      "url": "https://www.key.aero/forum/historic-aviation/124560-aircrew-memorials-at-laxton-notts-wellington-lp841"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section — carrying rear gunner Sgt Eden — separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
   "crew": [
@@ -28,35 +38,62 @@
       "name": "J.C. McLeod",
       "role": "Pilot",
       "nationality": "Canadian",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed instantly when the Wellington struck an electrical pole and burst into flames shortly after take-off at 5pm.",
+      "burial_location": "Harrogate (Stonefall) Cemetery",
+      "cwgc_verified": true,
+      "bio": "Canadian pilot from Minnedosa, Manitoba, training with 82 OTU at RAF Ossington.",
+      "hometown": "Minnedosa, Manitoba, Canada",
+      "decorations": []
     },
     {
       "rank": "F/O",
       "name": "L.J. Robillard",
       "role": "Bomb Aimer",
       "nationality": "Canadian",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and subsequent fire when the Wellington hit an electrical pole on take-off.",
+      "burial_location": "Harrogate (Stonefall) Cemetery",
+      "cwgc_verified": true,
+      "bio": "Canadian airman from Toronto, Ontario, serving as bomb aimer with 82 OTU.",
+      "hometown": "Toronto, Ontario, Canada",
+      "decorations": []
     },
     {
       "rank": "F/O",
       "name": "E.E. Fernandez",
       "role": "Navigator",
       "nationality": "Canadian",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and fire. Unable to escape the burning fuselage.",
+      "burial_location": "Harrogate (Stonefall) Cemetery",
+      "cwgc_verified": true,
+      "bio": "Canadian navigator from Windsor, Ontario, training at 82 OTU.",
+      "hometown": "Windsor, Ontario, Canada",
+      "decorations": []
     },
     {
       "rank": "Sgt",
       "name": "E.A. Bishop",
       "role": "W/Op Air Gunner",
       "nationality": "Canadian",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and fire that consumed the forward fuselage of the Wellington.",
+      "burial_location": "Harrogate (Stonefall) Cemetery",
+      "cwgc_verified": true,
+      "bio": "Canadian wireless operator/air gunner from Carseland, Alberta.",
+      "hometown": "Carseland, Alberta, Canada",
+      "decorations": []
     },
     {
       "rank": "Sgt",
       "name": "R. Eden",
       "role": "Rear Gunner",
       "nationality": "British",
-      "fate": "**Survived** (tail section broke away)"
+      "fate": "Survived",
+      "fate_detail": "Survived when the tail section broke away from the burning fuselage on impact. Local villagers led the injured survivor to safety.",
+      "bio": "British rear gunner whose life was saved when the tail turret separated from the main fuselage. Villagers from Laxton helped him to safety after the crash.",
+      "decorations": []
     }
   ],
   "cause_of_loss": "Hit electrical pole near local stream; burst into flames",
@@ -66,5 +103,56 @@
   "maintainer": {
     "organisation": "Laxton and Moorhouse Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265202/",
+      "summary": "War Memorials Online registers the memorial stone to the crew of 82 OTU Wellington LP841 at Laxton. The memorial was dedicated alongside a second stone in the church of St Michael the Archangel on 6 January 2013.",
+      "key_details": [
+        "Memorial reference 265202",
+        "Dedicated 6 January 2013",
+        "Located at St Michael the Archangel church"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Key Aero Forum",
+      "original_url": "https://www.key.aero/forum/historic-aviation/124560-aircrew-memorials-at-laxton-notts-wellington-lp841",
+      "summary": "Forum discussion documenting the research and dedication of the Laxton memorial stones. Wellington LP841 crashed shortly after take-off at 5pm on 5 January 1945, hitting an electrical pole near a stream in a small valley. The tail section separated, allowing rear gunner Sgt Eden to survive with help from local villagers.",
+      "key_details": [
+        "Crashed shortly after takeoff at 5pm",
+        "Villagers led survivor Sgt Eden to safety"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "FighterControl Forum",
+      "original_url": "https://www.fightercontrol.co.uk/forum/viewtopic.php?t=72267",
+      "summary": "Research discussion providing additional detail on the LP841 crash at Laxton, including the unique setting of England's last surviving open-field farming village and the two memorial stones -- one in the church and one by the roadside on Moorhouse Road overlooking the crash site.",
+      "key_details": [
+        "Two memorial stones: one in church, one roadside",
+        "Roadside memorial on Moorhouse Road overlooks crash site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Ollerton & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Laxton and Moorhouse Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

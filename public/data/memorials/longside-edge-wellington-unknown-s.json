@@ -1,24 +1,70 @@
 {
-  "id": "longside-edge-wellington-unknown-s",
-  "title": "Longside Edge serial) Memorial",
-  "location_name": "Longside Edge, Keswick, Cumbria / Lake District",
-  "county": "Cumbria / Lake District",
-  "country": "United Kingdom",
-  "region_code": "NW-002",
-  "crash_date": "1942-12-16",
-  "aircraft_type": "Wellington (unknown serial)",
-  "squadron": "RAF Pershore",
-  "crew_summary": "All killed",
-  "memorial_type": "Memorial marker at ridge crash site",
-  "sources": [
-    {
-      "title": "chriswaldron.co.uk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 54.51567234929973,
-  "longitude": -2.7732698105080726
+    "id": "longside-edge-wellington-unknown-s",
+    "title": "Longside Edge serial) Memorial",
+    "location_name": "Longside Edge, Keswick, Cumbria / Lake District",
+    "county": "Cumbria / Lake District",
+    "country": "United Kingdom",
+    "region_code": "NW-002",
+    "crash_date": "1942-12-16",
+    "aircraft_type": "Wellington (unknown serial)",
+    "squadron": "RAF Pershore",
+    "crew_summary": "All killed",
+    "memorial_type": "Memorial marker at ridge crash site",
+    "sources": [
+        {
+            "title": "chriswaldron.co.uk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 54.51567234929973,
+    "longitude": -2.7732698105080726,
+    "external_narratives": [
+        {
+            "source_site": "aircrashsites.co.uk",
+            "original_url": "https://aircrashsites.co.uk/5-jpgd/",
+            "summary": "Wellington X3336 took off from RAF Pershore at 1838 on 16 December 1942 on a navigation exercise and crashed on Longside Edge on Skiddaw at approximately 2325. The crew had missed a turn point, possibly over Lancaster, and were about 40 miles off track over high ground when the bomber struck the ridge top and exploded.",
+            "key_details": [
+                "Serial identified as X3336",
+                "Took off from RAF Pershore at 1838",
+                "Crashed at 2325 on Longside Edge, Skiddaw",
+                "40 miles off track",
+                "Navigation exercise"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Flickr / Historical Record",
+            "original_url": "https://www.flickr.com/photos/pasujoba44/8749586273",
+            "summary": "Photographic documentation of the Wellington X3336 crash site on Longside Edge. The crew included F/Sgt Reginald Bellew (pilot), P/O Anthony Higgins RCAF (navigator), P/O Ronald Goodwin (navigator), Sgt Arthur Dubben (observer), Sgt George Hicks (W/Op AG), and Sgt Richard Lawton RCAF (air gunner). Only fragments and .303 ammunition remain at the site.",
+            "key_details": [
+                "Crew of six all killed",
+                "Two RCAF members: Higgins and Lawton",
+                "Wreckage fragments and .303 rounds still present at site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Military Aircraft Crash Sites blog",
+            "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/lake-district.html",
+            "summary": "Listed among Lake District military aircraft crash sites with details of the crash location on Longside Edge near Keswick.",
+            "key_details": [
+                "Catalogued as Lake District crash site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Kendal Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/cumbria/"
+        }
+    ]
 }

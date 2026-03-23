@@ -27,5 +27,61 @@
     "organisation": "Brigstock Parish Council",
     "maintainer_type": "parish-council",
     "notes": "Memorial at entrance to Welland Gliding Club on Harley Way."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "207 Squadron RAF History",
+      "original_url": "http://www.207squadron.rafinfo.org.uk/memorials_crew_brig.htm",
+      "summary": "The 207 Squadron Association website documents the memorial to the crew of Lancaster DV361 EM-V at Brigstock. Three crew members were killed: F/Sgt C.E. Ryall, Sgt T.G. Higgins, and Sgt G.C. O'Neill. The memorial cairn was dedicated on 16 September 1998.",
+      "key_details": [
+        "Aircraft code: EM-V",
+        "Three killed: F/Sgt Ryall, Sgt Higgins, Sgt O'Neill",
+        "Memorial cairn dedicated 16 September 1998"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/37442",
+      "summary": "IWM records the memorial to Avro Lancaster DV361 at Brigstock, Northamptonshire, commemorating the three 207 Squadron crew members killed when the aircraft crashed on 22 December 1943.",
+      "key_details": [
+        "IWM reference: memorial/37442"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "crew": [
+    {
+      "name": "C.E. Ryall",
+      "rank": "F/Sgt",
+      "fate": "Killed"
+    },
+    {
+      "name": "T.G. Higgins",
+      "rank": "Sgt",
+      "fate": "Killed"
+    },
+    {
+      "name": "G.C. O'Neill",
+      "rank": "Sgt",
+      "fate": "Killed"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Daventry & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Brigstock Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/No._207_Squadron_RAF.png",
+  "squadron_motto": "Always prepared"
 }

@@ -25,5 +25,76 @@
   "maintainer": {
     "organisation": "Briston Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/mcveigh-charles.html",
+      "summary": "Detailed account of Wellington W5444 PH-T piloted by Fl/Lt Charles Norman McVeigh AFC of 12 Squadron. Returning from a mission to Cologne on 16/17 August 1941, the starboard engine was damaged by flak. McVeigh attempted an emergency landing near Briston but crashed into a railway bridge after mistaking railway signal lights for an aerodrome.",
+      "key_details": [
+        "Aircraft code: PH-T",
+        "Starboard engine damaged by flak over Cologne",
+        "Crashed into railway bridge at Briston",
+        "Pilot Fl/Lt McVeigh AFC survived"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC (International Bomber Command Centre)",
+      "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/briston-norfolkmemorial-to-three-of-the-crew-of-a-12-b-sqn-wellington-w5444-ph-t/1198056476913260/",
+      "summary": "The IBCC shared information about the Briston memorial, noting it commemorates three of the crew of 12(B) Squadron Wellington W5444 PH-T who were killed in the crash on 17 August 1941.",
+      "key_details": [
+        "IBCC recognition of the memorial",
+        "Three killed: P/O Vincent, F/Sgt Nancarrow, F/Sgt Frost"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "crew": [
+    {
+      "name": "Charles Norman McVeigh",
+      "rank": "Fl/Lt",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "name": "Bernard Montague Jeffrey Vincent",
+      "rank": "P/O",
+      "role": "2nd Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "name": "Edward Horatio Nancarrow",
+      "rank": "F/Sgt",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "name": "Colin George Charles Frost",
+      "rank": "F/Sgt",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Holt Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Briston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/No._12_Squadron_RAF.png",
+  "squadron_motto": "Leads the Field"
 }

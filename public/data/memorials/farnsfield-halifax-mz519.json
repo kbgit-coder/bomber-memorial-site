@@ -25,7 +25,11 @@
       "role": "Pilot",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Cardiff Cemetery (Cathays), Sec E.A., Grave 2214"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm, Farnsfield on his 23rd operational mission. Local witnesses saw the aircraft pass with its wing ablaze. The crew are believed to have deliberately steered the aircraft away from the village.",
+      "hometown": "Cardiff, Wales",
+      "burial_location": "Cardiff Cemetery (Cathays), Sec E.A., Grave 2214",
+      "bio": "A 22-year-old pilot from Cardiff on his 23rd operational mission. Local belief, supported by the crash trajectory, is that Parfitt and his crew deliberately chose not to bail out in order to steer the burning aircraft away from Farnsfield village.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -35,7 +39,10 @@
       "role": "Flight Engineer",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Hawkwell Churchyard (St Mary), Grave 1066"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm.",
+      "hometown": "Hawkwell, Essex",
+      "burial_location": "Hawkwell Churchyard (St Mary), Grave 1066",
+      "cwgc_verified": true
     },
     {
       "rank": "F/O",
@@ -45,7 +52,10 @@
       "role": "Navigator",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Bristol Cemetery (Canford), Sec QQ, Grave 294B"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm.",
+      "hometown": "Bristol",
+      "burial_location": "Bristol Cemetery (Canford), Sec QQ, Grave 294B",
+      "cwgc_verified": true
     },
     {
       "rank": "Fl/Sgt",
@@ -55,7 +65,10 @@
       "role": "Air Bomber",
       "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Harrogate Cemetery (Stonefall), Sec B, Row H, Grave 11"
+      "fate_detail": "The youngest crew member at just 19, Godin was a Canadian bomb aimer. Two Canadian redwoods were planted at the memorial site in his honour.",
+      "bio": "A 19-year-old Canadian from the RCAF, Godin was the youngest member of the crew. Two Canadian redwoods were planted at the Farnsfield memorial in his honour.",
+      "burial_location": "Harrogate Cemetery (Stonefall), Sec B, Row H, Grave 11",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -65,7 +78,10 @@
       "role": "Wireless Operator/Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Hale Cemetery, Sec K, Grave 197"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm.",
+      "hometown": "Hale, Cheshire",
+      "burial_location": "Hale Cemetery, Sec K, Grave 197",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -75,7 +91,10 @@
       "role": "Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Bilston Cemetery, Sec G.A., Grave 4811"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm.",
+      "hometown": "Bilston, Staffordshire",
+      "burial_location": "Bilston Cemetery, Sec G.A., Grave 4811",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -85,7 +104,10 @@
       "role": "Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Tipton Cemetery, Sec A/E, Grave 227"
+      "fate_detail": "Killed when Halifax MZ519 crashed at Riddings Farm.",
+      "hometown": "Tipton, Staffordshire",
+      "burial_location": "Tipton Cemetery, Sec A/E, Grave 227",
+      "cwgc_verified": true
     }
   ],
   "memorial_type": "Stone memorial",
@@ -115,7 +137,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "memorial_details": "Farnsfield residents Jack Wright and Frank Reynolds campaigned in the early 1990s to establish a permanent memorial. A stone memorial was dedicated on 6 July 1994 (50th anniversary) by Air Marshal Sir John Curtis, himself a former 578 Squadron pilot. Seven Nottinghamshire oaks (one per crew member) and two Canadian redwoods (for Godin) were planted. Parfitt Road on the village outskirts bears a second memorial plaque. The crew's names are read at every Remembrance Sunday service. The Farnsfield Memorial Trust maintains the site. A Nottinghamshire County Council walking trail includes the memorial.",
   "maintainer": {
@@ -160,6 +182,32 @@
       "key_details": "Local witnesses described the aircraft passing over with its port wing fully ablaze. The crew's deliberate decision to avoid the village is corroborated by the crash trajectory.",
       "date_retrieved": "2026-03-22",
       "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/32217",
+      "summary": "Imperial War Museum register entry for the Halifax MZ519 memorial at Farnsfield. Records the stone memorial dedicated on 6 July 1994, the 50th anniversary of the crash, by Air Marshal Sir John Curtis.",
+      "key_details": "Memorial reference 32217. Dedicated by Air Marshal Sir John Curtis, himself a former 578 Squadron pilot. Seven Nottinghamshire oaks and two Canadian redwoods planted.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/92115",
+      "summary": "War Memorials Online listing for the Halifax MZ519 memorial at Farnsfield, Nottinghamshire. Documents the memorial's condition as good and provides details of the crew commemorated.",
+      "key_details": "Memorial reference 92115. Condition recorded as good. Lists all seven crew members.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/midlands/handley-page-halifax-mz519-fansfield/",
+      "summary": "Detailed crash investigation record for Halifax MZ519 LK-U. Documents the anti-aircraft damage sustained over Dieppe and the crew's attempt to return to RAF Burn with a spreading engine fire.",
+      "key_details": "Aircraft attacked V-1 launch sites at Croixdalle. Heavily damaged by flak over Dieppe. Local witnesses saw the aircraft pass with its wing ablaze. Crash site at Riddings Farm.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     }
-  ]
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/No._78_Squadron_RAF.png",
+  "squadron_motto": "Nobody unprepared"
 }

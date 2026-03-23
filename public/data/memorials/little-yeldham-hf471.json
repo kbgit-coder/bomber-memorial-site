@@ -1,30 +1,67 @@
 {
-  "id": "little-yeldham-hf471",
-  "title": "Little Yeldham Wellington Memorial",
-  "location_name": "Little Yeldham, Essex",
-  "county": "Essex",
-  "country": "United Kingdom",
-  "region_code": "EX-004",
-  "crash_date": "1944-04-11",
-  "aircraft_type": "Wellington",
-  "serial_number": "HF471",
-  "squadron": "30 OTU",
-  "station": "Hixon",
-  "crew_summary": "7 killed including Plt Off. Charles Henry Gale",
-  "memorial_type": "Monument",
-  "sources": [
-    {
-      "title": "Geograph Essex",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 51.6997372648629,
-  "longitude": 0.587451491671461,
-  "maintainer": {
-    "organisation": "Little Yeldham Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "little-yeldham-hf471",
+    "title": "Little Yeldham Wellington Memorial",
+    "location_name": "Little Yeldham, Essex",
+    "county": "Essex",
+    "country": "United Kingdom",
+    "region_code": "EX-004",
+    "crash_date": "1944-04-11",
+    "aircraft_type": "Wellington",
+    "serial_number": "HF471",
+    "squadron": "30 OTU",
+    "station": "Hixon",
+    "crew_summary": "7 killed including Plt Off. Charles Henry Gale",
+    "memorial_type": "Monument",
+    "sources": [
+        {
+            "title": "Geograph Essex",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 51.6997372648629,
+    "longitude": 0.587451491671461,
+    "maintainer": {
+        "organisation": "Little Yeldham Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Yorkshire Aircraft",
+            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/hf471.html",
+            "summary": "Records Wellington HF471 of 30 OTU as having crashed during a training flight. One crew member, Sgt Ronald Victor Smith (aged 21), was the wireless operator/air gunner and was buried at Little Yeldham Churchyard, Essex -- suggesting the aircraft crashed in or near the village. Plt Off Charles Henry Gale received his commission on 6 April 1944, shortly before the fatal flight.",
+            "key_details": [
+                "Sgt Ronald Victor Smith aged 21, buried Little Yeldham Churchyard",
+                "Gale commissioned 6 April 1944, days before crash"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Archaeology (Midlands)",
+            "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
+            "summary": "The Midlands Aircraft Recovery Group's 1944 crash list includes Wellington HF471 among the training losses from 30 OTU at RAF Hixon in Staffordshire. The unit suffered significant attrition during the training programme, with crashes occurring across a wide area of central and eastern England.",
+            "key_details": [
+                "Listed in MARG 1944 crash records",
+                "30 OTU based at RAF Hixon, Staffordshire"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Wickford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+        },
+        {
+            "org_name": "Little Yeldham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

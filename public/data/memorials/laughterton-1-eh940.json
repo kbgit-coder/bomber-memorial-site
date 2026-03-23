@@ -26,5 +26,59 @@
   "maintainer": {
     "organisation": "Laughterton Parish Meeting",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264797/",
+      "summary": "War Memorials Online registers the Laughterton Trentside Memorial, a stone cairn surmounted by a propeller blade and reduction gear with plaques on opposing sides. One side commemorates Stirling EH940 from 1661 HCU (pilot's first solo flight) which suffered an in-flight engine fire at 1,800 feet and crashed at Park Farm, Kettlethorpe on 21 June 1944. Five crew were killed and three injured.",
+      "key_details": [
+        "Memorial reference 264797",
+        "Stone cairn with propeller blade",
+        "Pilot's first solo flight",
+        "In-flight engine fire at 1,800 feet",
+        "Crashed at Park Farm, Kettlethorpe"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20313",
+      "summary": "IWM registers the memorial as commemorating both Shorts Stirling EH940 and Avro Lancaster LM292. The memorial plaques on opposing sides were unveiled on 16 July 1994, erected on the village green beside the A1133.",
+      "key_details": [
+        "IWM memorial reference 20313",
+        "Dual memorial covering two crashes",
+        "Unveiled 16 July 1994 on village green"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://www.tracesofwar.com/sights/136947/Memorial-RAF-Winthorpe-1661-HCU.htm",
+      "summary": "Traces of War documents the broader memorial context for 1661 Heavy Conversion Unit at RAF Winthorpe, which suffered numerous training losses with the notoriously difficult Short Stirling bomber during the conversion training programme.",
+      "key_details": [
+        "1661 HCU training context documented",
+        "Stirling bomber conversion training losses"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Laughterton Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

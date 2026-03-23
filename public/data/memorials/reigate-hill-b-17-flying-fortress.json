@@ -1,31 +1,113 @@
 {
-  "id": "reigate-hill-b-17-flying-fortress",
-  "title": "Reigate Hill Fortress Memorial",
-  "location_name": "Reigate Hill, Surrey",
-  "county": "Surrey",
-  "country": "United Kingdom",
-  "region_code": "SE-004",
-  "crash_date": "WW2",
-  "aircraft_type": "B-17 Flying Fortress",
-  "squadron": "USAAF",
-  "crew_summary": "Crew killed",
-  "memorial_type": "Memorial sculpture by Surrey artist Roger Day in woodland clearing",
-  "dedication_date": "70th anniversary of crash",
-  "sources": [
-    {
-      "title": "National Trust",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 51.06752019553776,
-  "longitude": -0.4756744137687041,
-  "maintainer": {
-    "organisation": "National Trust",
-    "website": "https://www.nationaltrust.org.uk",
-    "maintainer_type": "national-trust",
-    "notes": "Memorial sculpture by Surrey artist Roger Day in woodland clearing on National Trust land."
-  }
+    "id": "reigate-hill-b-17-flying-fortress",
+    "title": "Reigate Hill Fortress Memorial",
+    "location_name": "Reigate Hill, Surrey",
+    "county": "Surrey",
+    "country": "United Kingdom",
+    "region_code": "SE-004",
+    "crash_date": "WW2",
+    "aircraft_type": "B-17 Flying Fortress",
+    "squadron": "USAAF",
+    "crew_summary": "Crew killed",
+    "memorial_type": "Memorial sculpture by Surrey artist Roger Day in woodland clearing",
+    "dedication_date": "70th anniversary of crash",
+    "sources": [
+        {
+            "title": "National Trust",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 51.06752019553776,
+    "longitude": -0.4756744137687041,
+    "maintainer": {
+        "organisation": "National Trust",
+        "website": "https://www.nationaltrust.org.uk",
+        "maintainer_type": "national-trust",
+        "notes": "Memorial sculpture by Surrey artist Roger Day in woodland clearing on National Trust land."
+    },
+    "external_narratives": [
+        {
+            "source_site": "National Trust",
+            "original_url": "https://www.nationaltrust.org.uk/visit/surrey/reigate-hill-and-gatton-park/b17-wartime-plane-crash-on-reigate-hill",
+            "summary": "National Trust page about the B-17G crash on Reigate Hill on 19 March 1945, killing nine USAAF airmen from the 384th Bombardment Group. The crew were returning from bombing an oil refinery at Plauen, Germany, when their battle-damaged aircraft entered cloud and struck trees.",
+            "key_details": [
+                "Crash date: 19 March 1945",
+                "384th Bombardment Group, 547th Bomb Squadron",
+                "Returning from Plauen oil refinery raid",
+                "Aircraft serial 43-39035",
+                "Nine crew killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Surrey Hills Arts",
+            "original_url": "https://www.surreyhillsarts.org/wing-tips/",
+            "summary": "Details of the 'Wing Tips' memorial sculpture by Surrey artist Roger Day. The two oak pieces are spaced exactly 32 metres (105 feet) apart, matching the B-17 wingspan. Molten metal recovered from the crash site is embedded within the sculpture.",
+            "key_details": [
+                "Sculpture called 'Wing Tips'",
+                "Made from ancient Surrey oak",
+                "Pieces spaced at exact B-17 wingspan (32m/105ft)",
+                "Contains molten metal from crash site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Surrey Hills National Landscape",
+            "original_url": "https://surreyhills.org/b17-80-years-memorial/",
+            "summary": "Coverage of the 80th anniversary commemoration in 2025, attended by the US Air Attache and civic leaders. The event marked continued Anglo-American remembrance of the nine crew members.",
+            "key_details": [
+                "80th anniversary ceremony held 2025",
+                "US Air Attache attended",
+                "Ongoing Anglo-American commemoration"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/73208",
+            "summary": "IWM War Memorials Register entry for the 384th Bomb Group B-17 Flying Fortress 43-39035 memorial on Reigate Hill. National-level record of the memorial.",
+            "key_details": [
+                "IWM memorial reference 73208"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "US War Memorials",
+            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2057&MemID=2707",
+            "summary": "US War Memorials registry listing crew names: pilot Robert S. Griffin, co-pilot Herbert S. Geller, navigator Royal A. Runyon, and six enlisted men including Robert Manbeck, Donald W. Jeffrey, Philip J. Phillips Jr, Robert F. Marshall, William R. Irons, and Thomas J. Hickey.",
+            "key_details": [
+                "Pilot: Robert Stanley Griffin",
+                "Co-pilot: Herbert Seymour Geller",
+                "Navigator: Royal A. Runyon",
+                "Base: Grafton Underwood, Northamptonshire"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wings Aviation Museum",
+            "original_url": "https://www.wingsmuseum.co.uk/our-work/aircrew-memorials/b-17g-tail-number-43-39035/",
+            "summary": "Wings Aviation Museum page dedicated to B-17G 43-39035 and its crew, providing detailed biographical information and crash context within the museum's aircrew memorials collection.",
+            "key_details": [
+                "Part of Wings Aviation Museum aircrew memorials collection"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Reigate Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/surrey/"
+        }
+    ]
 }

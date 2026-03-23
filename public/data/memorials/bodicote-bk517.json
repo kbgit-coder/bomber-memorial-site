@@ -1,79 +1,183 @@
 {
-  "id": "bodicote-bk517",
-  "title": "Bodicote Wellington Memorial",
-  "location_name": "Bodicote, Cherwell, Oxfordshire",
-  "county": "Oxfordshire",
-  "country": "United Kingdom",
-  "region_code": "SE-001",
-  "crash_date": "1942-12-28",
-  "aircraft_type": "Wellington",
-  "serial_number": "BK517",
-  "squadron": "23 OTU",
-  "station": "Pershore / Atherstone-on-Stour",
-  "crew_summary": "6 killed: John G. Beaumont, Granville Broadhurst, John Gordon Byrne, Jack Thompson McDonald, William Nicholson, Leslie Hamilton",
-  "memorial_type": "Large block of Hornton stone with engraved bronze plaque and RAF insignia, enclosed by circular metal railing fence",
-  "dedication_date": "June 2012",
-  "sources": [
-    {
-      "title": "IWM (memorial/63182); aircrewremembered.com",
-      "type": "website"
+    "id": "bodicote-bk517",
+    "title": "Bodicote Wellington Memorial",
+    "location_name": "Bodicote, Cherwell, Oxfordshire",
+    "county": "Oxfordshire",
+    "country": "United Kingdom",
+    "region_code": "SE-001",
+    "crash_date": "1942-12-28",
+    "aircraft_type": "Wellington",
+    "serial_number": "BK517",
+    "squadron": "23 OTU",
+    "station": "Pershore / Atherstone-on-Stour",
+    "crew_summary": "6 killed: Byrne (pilot), Beaumont, Broadhurst, McDonald, McMillan, Nicholson",
+    "memorial_type": "Large block of Hornton stone with engraved bronze plaque and RAF insignia, enclosed by circular metal railing fence",
+    "dedication_date": "June 2012",
+    "sources": [
+        {
+            "title": "IWM (memorial/63182)",
+            "url": "https://www.iwm.org.uk/memorials/item/memorial/63182",
+            "type": "database"
+        },
+        {
+            "title": "Aircrew Remembered - F/O Byrne, Wellington BK517",
+            "url": "https://aircrewremembered.com/byrne-john-gordon.html",
+            "type": "website"
+        },
+        {
+            "title": "Fulwood History Group - John Gordon Byrne",
+            "url": "https://www.fulwoodhistory.uk/biographies-from-the-second-world-war/a-to-g/byrne/",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On 28 December 1942, the Wellington took off from Atherstone-on-Stour for what should have been a routine 25-minute air test. The flight was described as an Air Test (Medical), suggesting F/O Byrne was demonstrating fitness to fly after illness or injury. The experienced pilot and five crew members climbed into cloud. Witnesses in Bodicote village saw the aircraft flying westwards extremely low with one engine smoking. The Wellington clipped its wing on an elm tree and crashed into the valley a quarter of a mile west of the village. All six men were killed. The official accident card noted the aircraft had \"flown into cloud without a wireless operator\" — suggesting the crew may have been flying with a depleted complement and unable to obtain weather or navigational assistance. The wreckage was later investigated by the Midland Aircraft Recovery Group, who found the crash site on private land west of Bodicote Church.",
+    "crew": [
+        {
+            "rank": "F/O",
+            "name": "John Gordon Byrne",
+            "service_number": "112527",
+            "role": "Pilot",
+            "nationality": "British",
+            "burial_location": "Fulwood Churchyard (Christ Church), Grave 408",
+            "fate": "Killed",
+            "fate_detail": "Killed when Wellington BK517 clipped an elm tree and crashed west of Bodicote. Buried at Fulwood Churchyard with CWGC headstone inscribed 'I THANK MY GOD UPON EVERY REMEMBRANCE OF THEE'.",
+            "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/",
+            "cwgc_verified": true,
+            "bio": "F/O Byrne was 22 years old, from Fulwood, Sheffield. He was the son of Armel and Annie Byrne, and was married to Beryl Jean Byrne of Millhouses, Sheffield.",
+            "hometown": "Fulwood, Sheffield",
+            "age": 22
+        },
+        {
+            "rank": "AC2",
+            "name": "John Ernest George Beaumont",
+            "service_number": "1710222",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Wellington BK517 at Bodicote.",
+            "cwgc_verified": true,
+            "age": 19
+        },
+        {
+            "rank": "AC2",
+            "name": "Granville Broadhurst",
+            "service_number": "1579235",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Erdington Churchyard (St. Barnabas), Grave H.186",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash. Buried at Erdington Churchyard, Birmingham.",
+            "cwgc_verified": true,
+            "age": 19
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "Jack Thompson McDonald",
+            "service_number": "R/90083",
+            "role": "Observer",
+            "nationality": "Canadian",
+            "burial_location": "Middleton Stoney Churchyard (All Saints), Plot 2, Row G, Grave 11",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash. Canadian crew member buried at Middleton Stoney Churchyard, Oxfordshire.",
+            "cwgc_verified": true,
+            "age": 26
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "William Thompson McMillan",
+            "service_number": "967661",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Wellington BK517.",
+            "cwgc_verified": true,
+            "age": 26
+        },
+        {
+            "rank": "LAC",
+            "name": "Leslie Hamilton Nicholson",
+            "service_number": "1066387",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Rotherham Cemetery (Moorgate), Sec B.1st New, Grave 64",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash. Buried at Rotherham Cemetery.",
+            "cwgc_verified": true,
+            "age": 20
+        }
+    ],
+    "latitude": 52.0354,
+    "longitude": -1.3335,
+    "cause_of_loss": "Engine fire; flew into cloud without wireless operator; crashed attempting forced landing",
+    "operation_type": "Training",
+    "memorial_details": "| Field | Detail | |-------|--------| | **Type** | Large block of Hornton stone with engraved bronze plaque and RAF insignia badge | | **Location** | Approx. 400m south of Wykham Lane, Bodicote, Cherwell, Oxfordshire | | **Grid Reference** | SP 45743 37656 | | **Enclosure** | Circular metal railing fence | | **Dedicated** | 2 June 2012 | | **Ceremony** | Rev'd Ben Phillips; attended by serving military, parishioners, relatives | | **Site donated by** | Landowner John Colegrave | | **Condition** | Good (dedicated 2012) |",
+    "maintainer": {
+        "organisation": "Bodicote Parish Council",
+        "maintainer_type": "parish-council",
+        "notes": "Memorial stone with RAF insignia, enclosed by circular metal railing fence."
     },
-    {
-      "title": "Aircrew Remembered - F/O Byrne, Wellington BK517",
-      "url": "https://aircrewremembered.com/byrne-john-gordon.html",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Complete",
-  "narrative": "On 28 December 1942, the Wellington took off from Atherstone-on-Stour for what should have been a routine 25-minute air test. The experienced pilot and five crew members climbed into cloud. Witnesses in Bodicote village saw the aircraft flying westwards extremely low with one engine smoking. The Wellington clipped its wing on an elm tree and crashed into the valley a quarter of a mile west of the village. All six men were killed. The official accident card noted the aircraft had \"flown into cloud without a wireless operator\" -- suggesting the crew may have been flying with a depleted complement and unable to obtain weather or navigational assistance. The wreckage was later investigated by the Midland Aircraft Recovery Group, who found the crash site on private land west of Bodicote Church.",
-  "crew": [
-    {
-      "name": "John G. Beaumont",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "name": "Granville Broadhurst",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "name": "John Gordon Byrne",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "name": "Jack McDonald",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "name": "William Thompson McMillan",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    },
-    {
-      "name": "Leslie Hamilton Nicholson",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed"
-    }
-  ],
-  "latitude": 52.0354,
-  "longitude": -1.3335,
-  "cause_of_loss": "Engine fire; flew into cloud without wireless operator; crashed attempting forced landing",
-  "operation_type": "Training",
-  "memorial_details": "| Field | Detail | |-------|--------| | **Type** | Large block of Hornton stone with engraved bronze plaque and RAF insignia badge | | **Location** | Approx. 400m south of Wykham Lane, Bodicote, Cherwell, Oxfordshire | | **Grid Reference** | SP 45743 37656 | | **Enclosure** | Circular metal railing fence | | **Dedicated** | 2 June 2012 | | **Ceremony** | Rev'd Ben Phillips; attended by serving military, parishioners, relatives | | **Site donated by** | Landowner John Colegrave | | **Condition** | Good (dedicated 2012) |",
-  "maintainer": {
-    "organisation": "Bodicote Parish Council",
-    "maintainer_type": "parish-council",
-    "notes": "Memorial stone with RAF insignia, enclosed by circular metal railing fence."
-  }
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63182",
+            "summary": "The IWM register records this as a memorial to the crew of Vickers Wellington BK517 which crashed at Bodicote on 28 December 1942. The memorial is a large block of Hornton stone with an engraved bronze plaque and RAF insignia.",
+            "key_details": [
+                "IWM reference: memorial/63182",
+                "Hornton stone memorial with RAF insignia badge"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/byrne-john-gordon.html",
+            "summary": "Detailed account of the crash of Wellington BK517 piloted by F/O John Gordon Byrne, age 22, of 23 OTU. The flight was described as an Air Test (Medical), suggesting Byrne was demonstrating fitness to fly. Byrne was the son of Armel and Annie Byrne of Fulwood, Sheffield.",
+            "key_details": [
+                "Flight type: Air Test (Medical)",
+                "Byrne aged 22, from Fulwood, Sheffield",
+                "Married to Beryl Jean Byrne of Millhouses, Sheffield"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/230026",
+            "summary": "War Memorials Online records the 1942 Wellington Bomber BK517 Air Crash memorial at Bodicote, Oxfordshire. The memorial was unveiled in June 2012 at a ceremony attended by relatives of the crew who died.",
+            "key_details": [
+                "WMO reference: 230026",
+                "Memorial unveiled June 2012"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Commands",
+            "original_url": "https://www.rafcommands.com/database/serials/details.php?uniq=BK517",
+            "summary": "RAF Commands serial database entry for Wellington III BK517, confirming the aircraft serial and its loss record.",
+            "key_details": [
+                "Serial confirmed in RAF Commands database"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Oxford Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/oxfordshire/"
+        },
+        {
+            "org_name": "Bodicote Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

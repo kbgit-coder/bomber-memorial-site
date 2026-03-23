@@ -26,5 +26,46 @@
   "maintainer": {
     "organisation": "Waithe Parish Meeting",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/262658/",
+      "summary": "Registry entry for the Waithe combined memorial commemorating four 100 Squadron Lancaster crews lost on Black Thursday. Lancaster JB674, piloted by F/Sgt Allen Kevis, collided with Lancaster JB678 at 00:40 on 17 December 1943 while both aircraft circled the fog-bound airfield.",
+      "key_details": "JB674 is one of four 100 Squadron aircraft commemorated on the combined black marble memorial tablet. The collision occurred during the return from the Berlin raid in dense fog.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Memorial Flight Club",
+      "original_url": "https://www.memorialflightclub.com/blog/black-thursday-16th-december-1943",
+      "summary": "Account of Black Thursday documenting the catastrophic losses at fog-bound airfields. Lancaster JB674 from 100 Squadron collided mid-air with JB678 after both had survived the Berlin raid, only to die in English fog waiting to land.",
+      "key_details": "The collision of JB674 and JB678 was one of the cruelest ironies of Black Thursday — crews surviving the most dangerous target in Germany only to die within sight of their home airfield.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Lancaster ED559",
+      "original_url": "https://www.lancaster-ed559.co.uk/100-squadron.html",
+      "summary": "100 Squadron history page documenting the unit's WW2 formation, operations, and losses. Includes the Black Thursday losses among the squadron's operational record from RAF Grimsby (Waltham).",
+      "key_details": "100 Squadron operated from RAF Grimsby (also known as Waltham) as part of 1 Group, Bomber Command. The squadron suffered disproportionately heavy losses on 16/17 December 1943.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Grimsby Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Waithe Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/RAF_100_Sqn.svg",
+  "squadron_motto": "Never stir up a hornets' nest"
 }

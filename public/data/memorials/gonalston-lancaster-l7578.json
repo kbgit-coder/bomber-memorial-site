@@ -1,126 +1,171 @@
 {
-  "id": "gonalston-lancaster-l7578",
-  "title": "Gonalston Lancaster L7578 Memorial",
-  "location_name": "Gonalston, Nottinghamshire",
-  "latitude": 53.0167,
-  "longitude": -0.9833,
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "crash_date": "1944-05-26",
-  "aircraft_type": "Avro Lancaster I",
-  "serial_number": "L7578",
-  "aircraft_code": "RC-L",
-  "squadron": "5 Lancaster Finishing School",
-  "station": "RAF Syerston",
-  "operation_type": "Training",
-  "operation_target": "Combined navigation and bombing exercise",
-  "cause_of_loss": "Suspected parachute harness entangled in controls; aircraft dived from 8,000 ft",
-  "narrative": "Lancaster L7578 was a historically significant aircraft — originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and Conversion Units 1654 and 1668 before arriving at 5 LFS. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery. Eyewitnesses Arthur Knowles (later 91) and Kath Yates (85) attended a 75th anniversary memorial service in 2019, led by the Vice Lord-Lieutenant of Nottinghamshire and the Royal Canadian Air Force.",
-  "crew": [
-    {
-      "rank": "P/O",
-      "name": "George Benjamin Sanderson",
-      "service_number": "J/86545 RCAF",
-      "age": 31,
-      "role": "Pilot",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+    "id": "gonalston-lancaster-l7578",
+    "title": "Gonalston Lancaster L7578 Memorial",
+    "location_name": "Gonalston, Nottinghamshire",
+    "latitude": 53.0167,
+    "longitude": -0.9833,
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "crash_date": "1944-05-26",
+    "aircraft_type": "Avro Lancaster I",
+    "serial_number": "L7578",
+    "aircraft_code": "RC-L",
+    "squadron": "5 Lancaster Finishing School",
+    "station": "RAF Syerston",
+    "operation_type": "Training",
+    "operation_target": "Combined navigation and bombing exercise",
+    "cause_of_loss": "Suspected parachute harness entangled in controls; aircraft dived from 8,000 ft",
+    "narrative": "Lancaster L7578 was a historically significant aircraft — originally built as a Manchester bomber in 1940, later converted to a Lancaster. It had served with Squadrons 97, 207, 83, and Conversion Units 1654 and 1668 before arriving at 5 LFS. Notably, it was the aircraft used by Wing Commander John Nettleton VC for training prior to the famous Augsburg Raid. On 26 May 1944, P/O Sanderson's crew took off for a training exercise. The aircraft climbed to 8,000 feet, then suddenly dived into the ground at Gonalston. One theory suggests a parachute harness became entangled in the controls. All seven were buried together in a collective grave at Newark Cemetery. Eyewitnesses Arthur Knowles (later 91) and Kath Yates (85) attended a 75th anniversary memorial service in 2019, led by the Vice Lord-Lieutenant of Nottinghamshire and the Royal Canadian Air Force.",
+    "crew": [
+        {
+            "rank": "P/O",
+            "name": "George Benjamin Sanderson",
+            "service_number": "J/86545 RCAF",
+            "age": 31,
+            "role": "Pilot",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Killed when Lancaster L7578 dived from 8,000 feet into the ground at Gonalston. Sanderson was a 31-year-old Canadian, the eldest of the crew.",
+            "bio": "A 31-year-old Canadian pilot, Sanderson was the eldest member of the crew. He was partway through his Heavy Conversion Unit course, learning to fly four-engine bombers before posting to an operational squadron.",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "James Graham Middlemas",
+            "service_number": "1822037 RAFVR",
+            "age": 19,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed aged 19 in the crash at Gonalston. Buried with the entire crew in a collective grave at Newark Cemetery.",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Albert Dennis Clark",
+            "service_number": "1473146 RAFVR",
+            "age": 28,
+            "role": "Navigator",
+            "nationality": "British",
+            "fate": "Killed",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+        },
+        {
+            "rank": "P/O",
+            "name": "Archibald Thomas Noble",
+            "service_number": "J/87968 RCAF",
+            "age": 28,
+            "role": "Air Bomber",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Bernard Broe",
+            "service_number": "1450090 RAFVR",
+            "age": 22,
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+        },
+        {
+            "rank": "Fl/Sgt",
+            "name": "Dennis Wright",
+            "service_number": "R/203453 RCAF",
+            "age": 20,
+            "role": "Air Gunner",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Derek Nicholls",
+            "service_number": "1852333 RAFVR",
+            "age": 19,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+        }
+    ],
+    "memorial_type": "Stone memorial",
+    "erected_by": "Local community",
+    "dedication_date": "2010",
+    "condition": "Good",
+    "sources": [
+        {
+            "title": "Aircrew Remembered",
+            "url": "http://aircrewremembered.com/sanderson-george.html",
+            "type": "website"
+        },
+        {
+            "title": "Newark Advertiser",
+            "url": "https://www.newarkadvertiser.co.uk/news/remembering-downed-crew-9072510/",
+            "type": "newspaper"
+        },
+        {
+            "title": "IWM War Memorials Register",
+            "url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
+            "type": "database"
+        },
+        {
+            "title": "Aircrew Remembered - P/O Sanderson, Lancaster L7578",
+            "url": "https://aircrewremembered.com/sanderson-george.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "maintainer": {
+        "organisation": "Gonalston Parish Meeting",
+        "website": "https://gonalston.parish.uk",
+        "maintainer_type": "parish-council",
+        "notes": "Maintained by local community. Gonalston is a small parish with a parish meeting rather than a full council."
     },
-    {
-      "rank": "Sgt",
-      "name": "James Graham Middlemas",
-      "service_number": "1822037 RAFVR",
-      "age": 19,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Albert Dennis Clark",
-      "service_number": "1473146 RAFVR",
-      "age": 28,
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    },
-    {
-      "rank": "P/O",
-      "name": "Archibald Thomas Noble",
-      "service_number": "J/87968 RCAF",
-      "age": 28,
-      "role": "Air Bomber",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Bernard Broe",
-      "service_number": "1450090 RAFVR",
-      "age": 22,
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    },
-    {
-      "rank": "Fl/Sgt",
-      "name": "Dennis Wright",
-      "service_number": "R/203453 RCAF",
-      "age": 20,
-      "role": "Air Gunner",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Derek Nicholls",
-      "service_number": "1852333 RAFVR",
-      "age": 19,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
-    }
-  ],
-  "memorial_type": "Stone memorial",
-  "erected_by": "Local community",
-  "dedication_date": "2010",
-  "condition": "Good",
-  "sources": [
-    {
-      "title": "Aircrew Remembered",
-      "url": "http://aircrewremembered.com/sanderson-george.html",
-      "type": "website"
-    },
-    {
-      "title": "Newark Advertiser",
-      "url": "https://www.newarkadvertiser.co.uk/news/remembering-downed-crew-9072510/",
-      "type": "newspaper"
-    },
-    {
-      "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
-      "type": "database"
-    },
-    {
-      "title": "Aircrew Remembered - P/O Sanderson, Lancaster L7578",
-      "url": "https://aircrewremembered.com/sanderson-george.html",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Complete",
-  "maintainer": {
-    "organisation": "Gonalston Parish Meeting",
-    "website": "https://gonalston.parish.uk",
-    "maintainer_type": "parish-council",
-    "notes": "Maintained by local community. Gonalston is a small parish with a parish meeting rather than a full council."
-  }
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/sanderson-george.html",
+            "summary": "Comprehensive page on P/O George Benjamin Sanderson and crew of Lancaster L7578 RC-L, 5 Lancaster Finishing School. The aircraft dived from 8,000 feet at 22:15 on 26 May 1944, crashing at Wood Barn near Gonalston. All seven crew killed.",
+            "key_details": "Lancaster L7578 was historically significant, originally built as a Manchester in 1940 and converted. Used by Wing Commander John Nettleton VC for training before the Augsburg Raid. Possible cause was parachute harness entangled in controls.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/27204",
+            "summary": "Imperial War Museum register entry for the Lancaster L7578 memorial at Gonalston. Stone memorial dedicated in 2010 commemorating all seven crew members.",
+            "key_details": "Memorial reference 27204. Dedicated 2010. All seven crew buried in collective Grave 309, Section F, Newark Cemetery.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Thurgarton History",
+            "original_url": "http://thurgartonhistory.co.uk/2011/08/lancaster-bomber-l7578/",
+            "summary": "Local history article about Lancaster L7578, detailing the crash at Gonalston and the aircraft's distinguished service record with multiple squadrons before arriving at 5 LFS Syerston.",
+            "key_details": "Aircraft served with 97, 207, 83 Squadrons and Conversion Units 1654 and 1668 before 5 LFS. Eyewitnesses Arthur Knowles and Kath Yates attended the 75th anniversary service in 2019.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southwell Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Gonalston Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep",
+            "website": "https://gonalston.parish.uk"
+        }
+    ]
 }

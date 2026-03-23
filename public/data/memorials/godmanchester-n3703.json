@@ -27,5 +27,46 @@
   "maintainer": {
     "organisation": "Godmanchester Town Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/wilson-mathew.html",
+      "summary": "Page for Sqn Ldr Drummond Wilson and the crew of Stirling N3703 LS:Q, XV Squadron. On 10/11 April 1942, the aircraft was badly damaged by flak over Essen and crash-landed at Godmanchester after both starboard engines failed on approach to RAF Alconbury.",
+      "key_details": "The crew were 'coned' by searchlights over Essen. On final approach to Alconbury, ordered to go around due to an aircraft blocking the runway. A damaged oil pipe broke, both starboard engines cut out. Navigator F/O Clifford Reeve was awarded the MBE for rescuing crew from the burning wreckage.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/97973",
+      "summary": "Imperial War Museum register entry for the Short Stirling N3703 memorial at Godmanchester. Records the memorial stone commemorating the two crew members killed and the aircraft's operational loss.",
+      "key_details": "Memorial reference 97973. Two killed: Sqn Ldr Wilson (pilot) and Sgt Edgar Gould (mid-upper gunner). Five survived but three died later in the war.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "The Godmanchester Stirling",
+      "original_url": "http://thegodmanchesterstirling.co.uk/",
+      "summary": "Dedicated website for the Stirling N3703 crash at Godmanchester, including research by Roger Leivers who authored a book about the incident. Documents the crew's story, the crash, and the memorial dedication ceremony.",
+      "key_details": "Roger Leivers researched and published a book about the crash. Dedication ceremony held with surviving relatives and military representatives.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Huntingdon & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Godmanchester Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/No._15_Squadron_RAF.png/300px-No._15_Squadron_RAF.png",
+  "squadron_motto": "Aim Sure"
 }

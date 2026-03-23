@@ -1,30 +1,107 @@
 {
-  "id": "wrangle-b-24j-liberator-42-9",
-  "title": "Wrangle 42-95103 Memorial",
-  "location_name": "Wrangle, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-041",
-  "crash_date": "1944-07-13",
-  "aircraft_type": "B-24J Liberator 42-95103",
-  "squadron": "579th Bomb Sqdn.",
-  "station": "Wendling (USAAF)",
-  "crew_summary": "8 killed; pilot 1st Lt. Norman J. Hunt; 1 survivor",
-  "memorial_type": "USAAF memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.32330591060784,
-  "longitude": -0.43795072038620186,
-  "maintainer": {
-    "organisation": "Wrangle Parish Council",
-    "maintainer_type": "parish-council",
-    "notes": "USAAF memorial."
-  }
+    "id": "wrangle-b-24j-liberator-42-9",
+    "title": "Wrangle 42-95103 Memorial",
+    "location_name": "Wrangle, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-041",
+    "crash_date": "1944-07-13",
+    "aircraft_type": "B-24J Liberator 42-95103",
+    "squadron": "579th Bomb Sqdn.",
+    "station": "Wendling (USAAF)",
+    "crew_summary": "8 killed; pilot 1st Lt. Norman J. Hunt; 1 survivor",
+    "memorial_type": "USAAF memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.32330591060784,
+    "longitude": -0.43795072038620186,
+    "maintainer": {
+        "organisation": "Wrangle Parish Council",
+        "maintainer_type": "parish-council",
+        "notes": "USAAF memorial."
+    },
+    "cause_of_loss": "Severe aircraft icing during formation assembly; aircraft spun in and crashed at Wrangle Common",
+    "operation_type": "Operational",
+    "operation_target": "Assembling for mission to Saarbrucken, Germany",
+    "external_narratives": [
+        {
+            "source_site": "US War Memorials",
+            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2046&MemID=2693",
+            "summary": "US War Memorials database entry for the B-24 42-95103 memorial plaque at Wrangle Common, Lincolnshire. The plaque bears the 8th Air Force insignia, a B-24 aircraft depiction, and the 579th Bomb Squadron insignia, commemorating the crew who crashed on 13 July 1944.",
+            "key_details": [
+                "Aircraft nose-art was 'BERLIN BITCH'",
+                "Took off from Wendling airfield assembling for Saarbrucken mission",
+                "Severe icing caused aircraft to spin in at Wrangle Common",
+                "S/Sgt Mark Osment bailed out and survived",
+                "Bombs did not explode but caused anxious moments during ensuing fire"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "American Air Museum",
+            "original_url": "https://www.americanairmuseum.com/archive/unit/579th-bomb-squadron",
+            "summary": "American Air Museum in Britain archive page for the 579th Bomb Squadron, part of the 392nd Bomb Group based at Wendling. Documents the squadron's operations including losses such as the B-24J 42-95103 crash at Wrangle.",
+            "key_details": [
+                "579th was part of 392nd Bomb Group (Heavy)",
+                "Based at Wendling airfield, Norfolk",
+                "Operated B-24 Liberators in the 8th Air Force"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "American Battle Monuments Commission",
+            "original_url": "https://www.abmc.gov/db-abmc-burial-unit/579th-bomber-squadron-392nd-bomber-group-heavy",
+            "summary": "ABMC database listing for the 579th Bomber Squadron, 392nd Bomber Group (Heavy), recording American servicemen buried or memorialised through ABMC cemeteries, including those lost in the Wrangle crash.",
+            "key_details": [
+                "Official US government burial records for 579th Bomb Squadron personnel",
+                "Part of 392nd Bomb Group (Heavy)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Find a Grave",
+            "original_url": "https://www.findagrave.com/memorial/42356133/william_j-hession",
+            "summary": "Find a Grave memorial for 2nd Lt William J. Hession, navigator of B-24J 42-95103, killed in the Wrangle Common crash on 13 July 1944. Hession was from Illinois and served with the 579th Bomb Squadron, 392nd Bomb Group.",
+            "key_details": [
+                "Navigator 2nd Lt William J. Hession from Illinois confirmed KIA",
+                "Formal burial record available"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Find a Grave",
+            "original_url": "https://www.findagrave.com/memorial/40056990/harold-c-wilkinson",
+            "summary": "Find a Grave memorial for T/Sgt Harold C. Wilkinson, radio operator of B-24J 42-95103, killed in the Wrangle Common crash on 13 July 1944. Wilkinson was from West Virginia and served with the 579th Bomb Squadron.",
+            "key_details": [
+                "Radio operator T/Sgt Harold C. Wilkinson from West Virginia confirmed KIA",
+                "Formal burial record available"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Wrangle & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Wrangle Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

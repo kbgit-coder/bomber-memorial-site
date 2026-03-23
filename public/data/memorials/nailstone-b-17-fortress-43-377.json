@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "The B-17 \"Heavenly Body\" was on a night navigation training flight from its home base at Eye in Suffolk — a long way from the operational missions over Germany that the 490th Bomb Group normally flew. Twelve men were aboard, including three passengers along for the ride. Over NW Leicestershire, while executing a turn near Nailstone, the nose dropped and the port wing struck the ground. The aircraft was completely destroyed by fire and explosion. All twelve men were killed. Five were subsequently buried at Cambridge American Cemetery at Madingley, near Cambridge; the other seven were repatriated to the United States after the war. This was the single deadliest crash in Leicestershire during the war. The \"Heavenly Body\" name and the fact that these men died on a training flight far from their base — not in combat — adds to the tragedy.",
   "crew": [
@@ -28,7 +28,10 @@
       "role": "Pilot",
       "nationality": "American",
       "burial_location": "5 buried at Cambridge American Cemetery; 7 repatriated to USA",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed when the B-17 struck a tree during a low-altitude turn near Nailstone and exploded. All twelve aboard died.",
+      "bio": "First Lieutenant and pilot of the B-17 'Heavenly Body', 490th Bomb Group.",
+      "decorations": []
     },
     {
       "rank": "1st Lt",
@@ -36,7 +39,10 @@
       "role": "Co-pilot",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion at Nailstone.",
+      "bio": "First Lieutenant and co-pilot of the 'Heavenly Body'.",
+      "decorations": []
     },
     {
       "rank": "2nd Lt",
@@ -44,7 +50,10 @@
       "role": "Navigator",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Second Lieutenant and navigator.",
+      "decorations": []
     },
     {
       "rank": "2nd Lt",
@@ -52,7 +61,10 @@
       "role": "Bomb Aimer",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Second Lieutenant and bomb aimer.",
+      "decorations": []
     },
     {
       "rank": "T/Sgt",
@@ -60,7 +72,10 @@
       "role": "Flight Engineer",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Technical Sergeant and flight engineer.",
+      "decorations": []
     },
     {
       "rank": "T/Sgt",
@@ -68,7 +83,10 @@
       "role": "Radio Operator",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Technical Sergeant and radio operator.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -76,7 +94,10 @@
       "role": "Ball Turret Gunner",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and ball turret gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -84,7 +105,10 @@
       "role": "Waist Gunner",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and waist gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -92,7 +116,10 @@
       "role": "Tail Gunner",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "bio": "Staff Sergeant and tail gunner.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -100,7 +127,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "—",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Was a passenger along for the night navigation exercise.",
+      "bio": "Staff Sergeant, a passenger who was not part of the regular crew.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -108,7 +138,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. One of three passengers aboard.",
+      "bio": "Staff Sergeant, a passenger.",
+      "decorations": []
     },
     {
       "rank": "S/Sgt",
@@ -116,7 +149,10 @@
       "role": "Passenger",
       "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. One of three passengers aboard.",
+      "bio": "Staff Sergeant, a passenger.",
+      "decorations": []
     }
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",
@@ -127,5 +163,78 @@
   "maintainer": {
     "organisation": "Nailstone Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2135&MemID=2801",
+      "summary": "US War Memorials database entry for the B-17 'Heavenly Body' (43-37776) memorial at Nailstone. Documents the stone of remembrance with attached plaque in the Memorial Garden commemorating all 12 crew members of the 490th Bomb Group.",
+      "key_details": [
+        "US War Memorials database reference",
+        "Stone of remembrance with plaque",
+        "Memorial Garden location"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/midlands/boeing-b-17g-43-37776-nailstone/",
+      "summary": "Detailed technical and historical account of the B-17G 43-37776 crash at Nailstone on 27 September 1944. The bomber was on a training flight from Eye to Liverpool when it flew low over Barlestone and Nailstone, hit a tree and exploded. All twelve aboard were killed.",
+      "key_details": [
+        "Training flight route was Eye to Liverpool",
+        "Hit a tree on farmland near Nailstone",
+        "Fully loaded with bombs and ammunition",
+        "Trying to reach Desford aerodrome"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "B-17 Flying Fortress database",
+      "original_url": "https://b17flyingfortress.de/en/b17/43-37776-heavenly-body/",
+      "summary": "International B-17 database entry for 43-37776 'Heavenly Body', confirming the aircraft details, unit assignment to the 490th Bomb Group, and loss circumstances at Nailstone.",
+      "key_details": [
+        "Aircraft name 'Heavenly Body' confirmed",
+        "490th Bomb Group assignment confirmed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/aircraft/11782",
+      "summary": "American Air Museum in Britain database entry for B-17G 43-37776, part of the IWM's American Air Museum collection records.",
+      "key_details": [
+        "American Air Museum reference 11782"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/50741",
+      "summary": "IWM War Memorials Register entry for the B-17 Flying Fortress crew memorial at Nailstone.",
+      "key_details": [
+        "IWM memorial reference 50741"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Leicester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
+    },
+    {
+      "org_name": "Nailstone Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/No._49_Squadron_RAF_badge.jpg",
+  "squadron_motto": "Beware of the dog"
 }

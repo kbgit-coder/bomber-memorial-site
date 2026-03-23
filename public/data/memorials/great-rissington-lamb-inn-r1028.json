@@ -1,31 +1,62 @@
 {
-  "id": "great-rissington-lamb-inn-r1028",
-  "title": "Great Rissington (Lamb Inn) Wellington Memorial",
-  "location_name": "Great Rissington (Lamb Inn), Gloucestershire",
-  "county": "Gloucestershire",
-  "country": "United Kingdom",
-  "region_code": "SW-005",
-  "crash_date": "1943-10-07",
-  "aircraft_type": "Wellington",
-  "serial_number": "R1028",
-  "squadron": "21 OTU",
-  "station": "RAF Bomber Command",
-  "crew_summary": "5 killed (crashed in back garden of Lamb Inn on approach to Little Rissington)",
-  "memorial_type": "Plaque at Lamb Inn",
-  "sources": [
-    {
-      "title": "IWM (memorial/32821)",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 51.88998736064418,
-  "longitude": -2.011161794050088,
-  "maintainer": {
-    "organisation": "Great Rissington Parish Council",
-    "maintainer_type": "private",
-    "notes": "Plaque at the Lamb Inn."
-  }
+    "id": "great-rissington-lamb-inn-r1028",
+    "title": "Great Rissington (Lamb Inn) Wellington Memorial",
+    "location_name": "Great Rissington (Lamb Inn), Gloucestershire",
+    "county": "Gloucestershire",
+    "country": "United Kingdom",
+    "region_code": "SW-005",
+    "crash_date": "1943-10-07",
+    "aircraft_type": "Wellington",
+    "serial_number": "R1028",
+    "squadron": "21 OTU",
+    "station": "RAF Bomber Command",
+    "crew_summary": "5 killed (crashed in back garden of Lamb Inn on approach to Little Rissington)",
+    "memorial_type": "Plaque at Lamb Inn",
+    "sources": [
+        {
+            "title": "IWM (memorial/32821)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 51.88998736064418,
+    "longitude": -2.011161794050088,
+    "maintainer": {
+        "organisation": "Great Rissington Parish Council",
+        "maintainer_type": "private",
+        "notes": "Plaque at the Lamb Inn."
+    },
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/32821",
+            "summary": "Imperial War Museum register entry for the Wellington R1028 memorial plaque at the Lamb Inn, Great Rissington. Records the plaque commemorating the five crew of 21 OTU who died when the aircraft crashed in the pub's back garden on 7 October 1943.",
+            "key_details": "Memorial reference 32821. Located at the Lamb Inn, Great Rissington. Five killed; rear gunner Sgt John Smith survived.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Heritage Museum (Australia)",
+            "original_url": "https://aviationmuseumwa.org.au/afcraaf-roll/hazeldene-jack-arthur-19907/",
+            "summary": "Australian aviation heritage record for Flight Sergeant Jack Arthur Hazeldene, pilot of Wellington R1028. Hazeldene was from Australia and was killed aged 22 when the aircraft stalled attempting a forced landing after port engine failure.",
+            "key_details": "Pilot Fl/Sgt Jack Hazeldene was Australian, service number 19907. Aircraft took off from Moreton-in-Marsh at 19:39 hours. Port engine failed; aircraft stalled trying to clear telegraph poles.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Gloucester Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/gloucestershire/"
+        },
+        {
+            "org_name": "Great Rissington Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

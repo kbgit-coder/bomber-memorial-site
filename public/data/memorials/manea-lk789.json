@@ -1,31 +1,93 @@
 {
-  "id": "manea-lk789",
-  "title": "Manea Halifax Memorial",
-  "location_name": "Manea, Cambridgeshire",
-  "county": "Cambridgeshire",
-  "country": "United Kingdom",
-  "region_code": "CB-007",
-  "os_grid_reference": "TL4789",
-  "crash_date": "1944-04-25",
-  "aircraft_type": "Halifax",
-  "serial_number": "LK789",
-  "squadron": "76 Squadron",
-  "station": "Holme on Spalding Moor",
-  "crew_summary": "6 killed; 1 survived (rear gunner Flt Sgt. J. Anderson)",
-  "memorial_type": "Crew memorial",
-  "sources": [
-    {
-      "title": "Geograph Cambridgeshire",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.30329634844416,
-  "longitude": -0.01841718094694561,
-  "maintainer": {
-    "organisation": "Manea Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "manea-lk789",
+    "title": "Manea Halifax Memorial",
+    "location_name": "Manea, Cambridgeshire",
+    "county": "Cambridgeshire",
+    "country": "United Kingdom",
+    "region_code": "CB-007",
+    "os_grid_reference": "TL4789",
+    "crash_date": "1944-04-25",
+    "aircraft_type": "Halifax",
+    "serial_number": "LK789",
+    "squadron": "76 Squadron",
+    "station": "Holme on Spalding Moor",
+    "crew_summary": "6 killed; 1 survived (rear gunner Flt Sgt. J. Anderson)",
+    "memorial_type": "Crew memorial",
+    "sources": [
+        {
+            "title": "Geograph Cambridgeshire",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.30329634844416,
+    "longitude": -0.01841718094694561,
+    "maintainer": {
+        "organisation": "Manea Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/douglas-dibbins.html",
+            "summary": "Detailed account of Halifax III LK789 (MP-L) of 76 Squadron, piloted by P/O Douglas Dibbins. On the evening of 24 April 1944, the crew's 18th operation, the target was Karlsruhe. On return, the Halifax was intercepted and shot down by Lt Wolfgang Wenning of II./KG51 flying a Me 410, at 1,000 metres altitude, 20km NE of Cambridge. The aircraft crashed at Colony Farm near Welney at 0420 hrs.",
+            "key_details": [
+                "Pilot was P/O Douglas Dibbins",
+                "Shot down by Me 410 intruder (Lt Wolfgang Wenning, II./KG51)",
+                "Crew's 18th operation",
+                "Target was Karlsruhe",
+                "Crashed at Colony Farm near Welney at 0420 hrs",
+                "Rear gunner Flt Sgt John Anderson survived with fractured femur"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/97988",
+            "summary": "IWM War Memorials Register entry for the RAF Halifax LK789 memorial near Manea, Cambridgeshire.",
+            "key_details": [
+                "IWM memorial reference 97988"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Manea Matters",
+            "original_url": "https://www.maneamatters.co.uk/halifax",
+            "summary": "Local community page documenting the Halifax LK789 crash and memorial, with news updates about the site near Manea village.",
+            "key_details": [
+                "Local community involvement in memorial upkeep"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bureau of Aircraft Accidents Archives",
+            "original_url": "https://www.baaa-acro.com/crash/crash-handley-page-hp57-halifax-iii-near-manea-6-killed",
+            "summary": "BAAA archive entry confirming six killed in the crash of Halifax III LK789 near Manea. The aircraft was built at the Fairey Engineering factory at Stockport and delivered to 76 Squadron on 22 February 1944.",
+            "key_details": [
+                "Built at Fairey Engineering, Stockport",
+                "Delivered to 76 Sqn 22 Feb 1944",
+                "Halifax III variant confirmed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Manea Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+        },
+        {
+            "org_name": "Manea Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

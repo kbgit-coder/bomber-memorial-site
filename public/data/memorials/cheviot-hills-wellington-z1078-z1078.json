@@ -1,26 +1,33 @@
 {
   "id": "cheviot-hills-wellington-z1078-z1078",
-  "title": "Cheviot Hills - Wellington Z1078 Wellington Memorial",
-  "location_name": "Cheviot Hills - Wellington Z1078, Northumberland",
+  "title": "Cheviot Hills - Wellington Z1078 Memorial",
+  "location_name": "Cheviot Hills, Northumberland",
   "county": "Northumberland",
   "country": "United Kingdom",
   "region_code": "NE-002",
   "crash_date": "1942-01-15",
-  "aircraft_type": "Wellington",
+  "aircraft_type": "Wellington Ic",
   "serial_number": "Z1078",
-  "squadron": "RAF Snaith",
-  "crew_summary": "All killed (returning from Hamburg bombing mission)",
-  "memorial_type": "Crash site marker in Cheviot Hills",
+  "squadron": "150 Squadron",
+  "station": "RAF Snaith",
+  "crew_summary": "3 killed (1 on impact, 2 died of injuries); 3 survived injured",
+  "memorial_type": "Cheviot Airmen Memorial in College Valley",
   "sources": [
     {
-      "title": "Northumberland National Park / nelsam.org.uk",
+      "title": "ACIA",
+      "url": "https://acia.co.uk/1942/01/15/wellington-z1078/",
+      "type": "website"
+    },
+    {
+      "title": "Northumberland National Park",
+      "url": "https://www.northumberlandnationalpark.org.uk/walk/dunsdale-to-west-hill/",
       "type": "website"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "The Cheviot Hills, rising to 2,676 feet on the English-Scottish border, claimed 58 airmen's lives in 19 separate crashes during the Second World War. The combination of high terrain, unpredictable weather, and proximity to training airfields made this area particularly dangerous. One of the most well-documented incidents occurred on 15 January 1942 when Wellington Z1078 of 150 Squadron departed RAF Snaith in Yorkshire to attack Hamburg. On the return flight, the aircraft's navigation aids failed, causing it to drift far north over the North Sea. Lost and low on fuel, the Wellington struck a glancing blow on the lower slopes of The Cheviot at 1,500 feet, which was obscured by low snow clouds. The aircraft caught fire immediately. Observer Sgt Thomas Irving was killed on impact. Local farmer John Dagg of Dunsdale Farm heard the crash and made his way up the hill, guided by the smell of burning and exploding ammunition. He found three unconscious crew members near the burning wreckage and located two more sheltering nearby. Despite Dagg's heroic rescue, pilot Sgt Hunt and wireless operator Sgt Maple died from their injuries the following day. The heroism of Dagg and fellow shepherd Frank Moscrop inspired the creation of the collective memorial.",
+  "narrative": "The Cheviot Hills claimed 58 airmen's lives in 19 separate crashes during WW2. On 15 January 1942, Wellington Z1078 of 150 Squadron departed RAF Snaith to attack Hamburg as part of a 14-aircraft force. Navigation aids failed on the return, causing the aircraft to drift far north. Lost and low on fuel, the Wellington struck The Cheviot at 1,500 feet in low snow clouds. Observer Sgt Irving was killed on impact. Local farmer John Dagg heard the crash and found three unconscious crew members and two more sheltering nearby. Despite Dagg's heroic rescue, pilot Sgt Hunt and wireless operator Sgt Maple died the following day. Three crew survived with injuries.",
   "crew": [
     {
       "rank": "Sgt",
@@ -28,8 +35,11 @@
       "service_number": "405278",
       "age": 20,
       "role": "Pilot",
-      "nationality": "New Zealand",
-      "fate": "Died of injuries"
+      "nationality": "New Zealander",
+      "fate": "Died of injuries",
+      "fate_detail": "Survived the crash but died of injuries the following day. New Zealander serving with the RNZAF.",
+      "cwgc_verified": true,
+      "bio": "Sgt Hunt was a 20-year-old New Zealander serving with the RNZAF. He died from his injuries the day after the crash."
     },
     {
       "rank": "P/O",
@@ -38,7 +48,9 @@
       "age": 21,
       "role": "2nd Pilot",
       "nationality": "Canadian",
-      "fate": "Survived (injured)"
+      "fate": "Survived injured",
+      "fate_detail": "Survived the crash with injuries. Canadian serving with the RCAF.",
+      "cwgc_verified": false
     },
     {
       "rank": "Sgt",
@@ -46,7 +58,9 @@
       "service_number": "1259356",
       "role": "W/Op Air Gunner",
       "nationality": "British",
-      "fate": "Survived (injured)"
+      "fate": "Survived injured",
+      "fate_detail": "Survived the crash with injuries.",
+      "cwgc_verified": false
     },
     {
       "rank": "Sgt",
@@ -54,8 +68,11 @@
       "service_number": "405378",
       "age": 23,
       "role": "Observer",
-      "nationality": "New Zealand",
-      "fate": "Killed on impact"
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact. New Zealander serving with the RNZAF.",
+      "cwgc_verified": true,
+      "bio": "Sgt Irving was a 23-year-old New Zealander."
     },
     {
       "rank": "Sgt",
@@ -64,7 +81,10 @@
       "age": 33,
       "role": "W/Op Air Gunner",
       "nationality": "British",
-      "fate": "Died of injuries"
+      "fate": "Died of injuries",
+      "fate_detail": "Survived the crash but died of injuries the following day.",
+      "cwgc_verified": true,
+      "bio": "At 33, the oldest crew member."
     },
     {
       "rank": "Sgt",
@@ -72,16 +92,56 @@
       "service_number": "535512",
       "role": "Air Gunner",
       "nationality": "British",
-      "fate": "Survived (injured)"
+      "fate": "Survived injured",
+      "fate_detail": "Survived the crash with injuries. One of three survivors rescued by local farmer John Dagg.",
+      "cwgc_verified": false
     }
   ],
-  "memorial_details": "The Cheviot Airmen Memorial stands in the College Valley, opposite Cuddystone Hall. The original memorial was unveiled on 19 May 1995 by HRH The Duke of Gloucester, dedicated to the memory of all allied airmen who lost their lives in the Cheviot Hills during WW2. The monument is approximately 4 feet high with a sloping top, set inside a drystone circular wall designed to resemble a sheep stell (enclosure). The dedication in gilded Roman capitals is accompanied by RAF wings. In 2018, as part of RAF 100 centenary celebrations, a 25,000-pound project repaired and upgraded the memorial. A new polished granite and bronze monument was unveiled and rededicated on 6 September 2018, again by the Duke of Gloucester. The memorial is accessible via the College Valley road from Hethpool.",
+  "memorial_details": "The Cheviot Airmen Memorial stands in the College Valley, opposite Cuddystone Hall. Originally unveiled 19 May 1995 by HRH The Duke of Gloucester. Rededicated 6 September 2018 after a 25,000-pound restoration as part of RAF 100 centenary celebrations.",
   "latitude": 55.25955915676337,
   "longitude": -2.03799961199424,
+  "cause_of_loss": "Navigation aids failed on return from Hamburg; aircraft drifted north and struck The Cheviot at 1,500 ft in snow clouds",
+  "operation_type": "Operational",
+  "operation_target": "Hamburg",
   "maintainer": {
     "organisation": "Northumberland National Park Authority",
     "website": "https://www.northumberlandnationalpark.org.uk",
-    "maintainer_type": "military",
-    "notes": "Crash site marker within Northumberland National Park."
-  }
+    "maintainer_type": "military"
+  },
+  "external_narratives": [
+    {
+      "source_site": "ACIA",
+      "original_url": "https://acia.co.uk/1942/01/15/wellington-z1078/",
+      "summary": "Detailed investigation record. 150 Squadron, RAF Snaith. Part of 14-aircraft force attacking Hamburg.",
+      "key_details": [
+        "150 Squadron, RAF Snaith",
+        "Navigation aids failed on return"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "NELSAM / WtdWhd",
+      "original_url": "http://www.wtdwhd.co.uk/crash%20details/Cheviots/WestHillWelly.html",
+      "summary": "Crash site details. John Dagg rescue documented.",
+      "key_details": [
+        "John Dagg rescue documented",
+        "Three crew killed, three survived"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Northumberland National Park",
+      "original_url": "https://www.northumberlandnationalpark.org.uk/walk/dunsdale-to-west-hill/",
+      "summary": "Walking route from Dunsdale to West Hill passes the crash site.",
+      "key_details": [
+        "Walking route passes crash site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/No._15_Squadron_RAF.png/300px-No._15_Squadron_RAF.png",
+  "squadron_motto": "Aim Sure"
 }

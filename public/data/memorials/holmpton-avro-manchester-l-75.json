@@ -25,5 +25,79 @@
   "maintainer": {
     "organisation": "Holmpton Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "207 Squadron RAF History",
+      "original_url": "http://www.207squadron.rafinfo.org.uk/Holmpton/",
+      "summary": "The 207 Squadron history website maintains a dedicated page for the Holmpton crash. Manchester L7523 (coded EM-M) took off from RAF Bottesford at 17:35 on 14 January 1942, some 15 minutes late due to a technical problem, tasked with attacking the Blohm and Voss shipyards in Hamburg. The aircraft was seen with its port engine on fire before crashing on Mill Hill, half a mile from the Rocket House at Holmpton.",
+      "key_details": [
+        "Target was Blohm and Voss shipyards, Hamburg",
+        "Departed 15 minutes late due to technical issue",
+        "Port engine seen on fire",
+        "Crashed on Mill Hill crest"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/wescombe-basil-courtney.html",
+      "summary": "Aircrew Remembered provides a detailed crew page for Flt Sgt Basil Courtney Wescombe and his six fellow crew members. The inquest established that L7523 had jettisoned its bomb load over the sea, and concluded the aircraft had probably sustained battle damage from enemy action, forcing an early return.",
+      "key_details": [
+        "Bombs jettisoned over sea before crash",
+        "Battle damage from enemy action suspected",
+        "Inquest held at local farm"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61182",
+      "summary": "The IWM registers the Holmpton memorial commemorating Avro Manchester L7523 of No. 207 Squadron Bomber Command. The memorial was dedicated on 7 November 2009 at Holmpton Church, East Yorkshire.",
+      "key_details": [
+        "IWM memorial reference 61182",
+        "Memorial dedicated 7 November 2009 at Holmpton Church"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/stories/stories/flight-sergeant-basil-courtney-wescombe-523056-of-207-squadron-raf/",
+      "summary": "The CWGC features a detailed story about Flight Sergeant Basil Courtney Wescombe (service number 523056) of 207 Squadron RAF, providing verified burial details and service history for the pilot of Manchester L7523.",
+      "key_details": [
+        "CWGC story page for Wescombe",
+        "Service number 523056 confirmed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Digital Archive",
+      "original_url": "https://internationalbcc.co.uk/about-ibcc/news/eric-ronald-harper/",
+      "summary": "The International Bomber Command Centre features a story about Sergeant Eric Ronald Harper, one of the crew members killed aboard Manchester L7523, providing personal background and service history.",
+      "key_details": [
+        "IBCC story on crew member Sgt Eric Ronald Harper"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Withernsea Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Holmpton Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/No._207_Squadron_RAF.png",
+  "squadron_motto": "Always prepared"
 }

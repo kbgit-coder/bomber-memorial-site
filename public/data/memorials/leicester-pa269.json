@@ -26,5 +26,69 @@
   "maintainer": {
     "organisation": "Leicester City Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55366",
+      "summary": "IWM registers a wall-mounted plaque commemorating the airmen of 300 Polish Bomber Squadron killed when Lancaster PA269 crashed on Long Street, Wigston, Leicester on 4 February 1946. All six crew members were killed.",
+      "key_details": [
+        "IWM memorial reference 55366",
+        "Crash location was Long Street, Wigston",
+        "All six Polish crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register (tree memorial)",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55367",
+      "summary": "A second IWM-registered memorial -- a commemorative tree -- also marks the site of the Lancaster PA269 crash in Wigston, providing a living memorial alongside the plaque.",
+      "key_details": [
+        "IWM memorial reference 55367",
+        "Commemorative tree memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Oadby and Wigston Borough Council",
+      "original_url": "https://www.oadby-wigston.gov.uk/news/2026/02/05/80th_anniversary_of_lancaster_bomber_crash_in_wigston",
+      "summary": "In February 2026, Oadby and Wigston Borough Council marked the 80th anniversary of the crash. The Lancaster, on a routine flight from RAF Faldingworth, was believed to have been hit by lightning during a violent thunderstorm. The pilot, Wing Commander Romuald Sulinski KSOVM DSO DFC, avoided Long Street and the nearby school, steering towards a ploughed field. The aircraft crashed at approximately 13:25, missing Long Street Modern School by less than 10 feet.",
+      "key_details": [
+        "80th anniversary marked February 2026",
+        "Pilot was Wg Cdr Sulinski DSO DFC",
+        "Believed struck by lightning",
+        "Missed school by less than 10 feet",
+        "Crew buried at Newark-Upon-Trent Polish war graves"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/267102/",
+      "summary": "War Memorials Online registers the Faldingworth memorial to 300 Squadron Polish Air Force, providing broader context for the Polish squadron's presence in Lincolnshire and their post-war losses.",
+      "key_details": [
+        "Faldingworth 300 Squadron memorial registered"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Leicester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
+    },
+    {
+      "org_name": "Leicester City Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/300_Dywizjon_Bombowy.png",
+  "squadron_motto": "Land of Masovia"
 }

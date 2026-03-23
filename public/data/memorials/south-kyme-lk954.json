@@ -26,5 +26,92 @@
   "maintainer": {
     "organisation": "South Kyme Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "South Kyme Parish Council",
+      "original_url": "https://south-kyme.parish.lincolnshire.gov.uk/news/article/39/memorial-service-at-sk-golf-club-to-remember-halifax-bomber-crew",
+      "summary": "Parish council announcement of memorial service at South Kyme Golf Club to remember the Halifax bomber crew. The crash site is adjacent to what is now the golf club, which built a memorial near the clubhouse.",
+      "key_details": [
+        "Crash site adjacent to South Kyme Golf Club",
+        "Memorial built near golf club clubhouse",
+        "Regular memorial services held"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "WW2 History (ww2history.eu)",
+      "original_url": "https://ww2history.eu/air-force-operations/airplanes-allies-and-axis-lost/halifax/18828-LK9541943-11-04",
+      "summary": "Database entry for Halifax V LK954 NA-E lost on a mission to Dusseldorf on 4 November 1943. The bomb door fell off, removing a large part of the tailplane, and the aircraft crashed due to the resulting structural damage.",
+      "key_details": [
+        "Halifax V variant",
+        "Aircraft code NA-E",
+        "Bomb door fell off removing tailplane section",
+        "Mission target: Dusseldorf"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/92485",
+      "summary": "IWM War Memorials Register entry for Halifax LK954 NA-E memorial. National-level memorial registration for the 428 (Ghost) Squadron RCAF aircraft.",
+      "key_details": [
+        "IWM memorial reference 92485",
+        "428 (Ghost) Squadron RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums (2019 memorial)",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/100041",
+      "summary": "IWM entry for a newer 2019 memorial to the crew of Halifax LK954, located approximately 1 kilometre northeast of the older memorial. Shows ongoing community commitment to remembrance.",
+      "key_details": [
+        "Second memorial added 2019",
+        "Located 1km NE of original memorial",
+        "IWM reference 100041"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264873/",
+      "summary": "War Memorials Online listing for the crew of 428 (RCAF) Squadron Halifax LK954 NA-E memorial. Notes that P/O A.E. McKenzie was one of the youngest Canadians killed on Bomber Command operations at just 18 years of age.",
+      "key_details": [
+        "P/O A.E. McKenzie was only 18 years old",
+        "One of youngest Canadians killed on Bomber Command ops"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Bombercrew.com Forum",
+      "original_url": "https://100548.activeboard.com/t32144141/halifax-bomber-lk954-na-e-of-428-ghost-squadron/?page=1",
+      "summary": "Forum discussion with detailed crew research for Halifax LK954 of 428 Ghost Squadron RCAF. Community researchers have compiled additional biographical details of the Canadian crew members.",
+      "key_details": [
+        "428 (Ghost) Squadron nickname",
+        "Community-sourced crew research"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sleaford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "South Kyme Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

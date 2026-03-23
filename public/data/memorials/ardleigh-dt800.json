@@ -1,30 +1,82 @@
 {
-  "id": "ardleigh-dt800",
-  "title": "Ardleigh II Memorial",
-  "location_name": "Ardleigh, Essex",
-  "county": "Essex",
-  "country": "United Kingdom",
-  "region_code": "EX-001",
-  "crash_date": "1943-02-25",
-  "aircraft_type": "Halifax II",
-  "serial_number": "DT800",
-  "squadron": "102 (Ceylon) Squadron",
-  "station": "Pocklington",
-  "crew_summary": "8 killed including pilot Flt Sgt. Charles Henry Bray",
-  "memorial_type": "Monument",
-  "sources": [
-    {
-      "title": "Geograph Essex",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 51.92594601344611,
-  "longitude": 0.5124659679305601,
-  "maintainer": {
-    "organisation": "Ardleigh Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "id": "ardleigh-dt800",
+    "title": "Ardleigh II Memorial",
+    "location_name": "Ardleigh, Essex",
+    "county": "Essex",
+    "country": "United Kingdom",
+    "region_code": "EX-001",
+    "crash_date": "1943-02-25",
+    "aircraft_type": "Halifax II",
+    "serial_number": "DT800",
+    "squadron": "102 (Ceylon) Squadron",
+    "station": "Pocklington",
+    "crew_summary": "8 killed including pilot Flt Sgt. Charles Henry Bray",
+    "memorial_type": "Monument",
+    "sources": [
+        {
+            "title": "Geograph Essex",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 51.92594601344611,
+    "longitude": 0.5124659679305601,
+    "maintainer": {
+        "organisation": "Ardleigh Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "102 (Ceylon) Squadron Association",
+            "original_url": "https://102ceylonsquadronassociation.org/dy-g.html",
+            "summary": "On the evening of 25 February 1943, eleven Halifax II bombers of 102 (Ceylon) Squadron took off from RAF Pocklington for a raid on Nuremberg. DT800 (coded DY-P) crashed at Ardleigh at 20:24, about an hour after takeoff, likely due to icing causing loss of control.",
+            "key_details": [
+                "Part of 11-aircraft raid on Nuremberg",
+                "Aircraft coded DY-P",
+                "Crashed at 20:24, one hour after takeoff",
+                "Carrying 1000lb bomb, incendiaries and propaganda leaflets",
+                "Explosion created crater 30 yards diameter, 8ft deep",
+                "1000lb bomb exploded 90 minutes later (possibly delayed-action)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wartime Memories Project",
+            "original_url": "https://www.wartimememoriesproject.com/ww2/airfields/airfield.php?pid=1822",
+            "summary": "The Wartime Memories Project documents RAF Pocklington as the base of 102 (Ceylon) Squadron, from which Halifax DT800 departed on its final flight.",
+            "key_details": [
+                "102 Squadron operated from Pocklington",
+                "Squadron flew Halifax II bombers"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Coventry Telegraph",
+            "original_url": "https://www.coventrytelegraph.net/news/coventry-news/wwii-halifax-bomber-crash-coventry-15387821",
+            "summary": "Local press coverage of the memorial unveiling for the crew of Halifax DT800, honouring the eight crew members killed when the bomber crashed at Ardleigh during a Nuremberg raid.",
+            "key_details": [
+                "Memorial unveiled 75 years after crash",
+                "All eight crew killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Wickford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+        },
+        {
+            "org_name": "Ardleigh Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

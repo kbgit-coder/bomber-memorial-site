@@ -1,111 +1,247 @@
 {
   "id": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
-  "title": "Cloot Drove Lancaster Memorial",
-  "location_name": "Cloot Drove, Deeping Fen, IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-  "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
+  "title": "Cloot Drove Lancaster Mid-Air Collision Memorial",
+  "location_name": "Cloot Drove, Deeping Fen, Lincolnshire",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "region_code": "PN-009",
-  "crash_date": "WW2",
-  "aircraft_type": "Lancaster",
-  "serial_number": "ND981 and Lancaster ME625 (mid-air collision)",
-  "squadron": "Bomber Command",
-  "crew_summary": "Multiple killed",
+  "crash_date": "1944-06-23",
+  "aircraft_type": "Lancaster III",
+  "serial_number": "ME625 and ND981",
+  "squadron": "97 Squadron",
+  "station": "RAF Coningsby",
+  "crew_summary": "13 killed; 1 survivor (Sgt Joseph Coman bailed out from ND981)",
   "memorial_type": "Plaque at Cloot House Farm",
   "sources": [
     {
-      "title": "warmemorialsonline.org.uk (memorial/177573)",
+      "title": "War Memorials Online",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
+      "type": "database"
+    },
+    {
+      "title": "Aircrew Remembered - Van Raalte",
+      "url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - Perkins",
+      "url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
+      "type": "database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on a summer afternoon for formation flying practice -- a routine exercise that should have been one of the safer flying activities. The six aircraft flew in two V formations. Fl/Lt \"Jim\" Van Raalte, a 31-year-old Australian, was at the controls of ME625. Without warning, his Lancaster became trapped in the slipstream of the lead aircraft ahead. The turbulence threw ME625 into collision with Lancaster ND981, tearing the tail clean off the second aircraft. Both Lancasters spun out of control and plunged to earth. All eight crew in ME625 were killed. In ND981, Sgt Joseph Coman managed to bail out and survived; the remaining crew perished. The dead included three Australians and two Welshmen. Van Raalte, at 31, was older than most -- experienced enough to have known the risks. This was not combat loss but training accident, and such losses were disturbingly common. On 23 June 2014, the 70th anniversary, relatives gathered at Cloot House Farm for a memorial service and the unveiling of a permanent plaque.",
+  "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on the afternoon of 23 June 1944 for formation flying practice. Fl/Lt Van Raalte's Lancaster ME625 (OF-O) became trapped in the slipstream of the lead aircraft during a gentle turn. The turbulence threw ME625 into collision with Lancaster ND981 (OF-T), tearing the tail clean off. Both Lancasters spun out of control. All eight crew in ME625 were killed. In ND981, which broke apart at 1,000 ft, Sgt Joseph Coman managed to bail out and survived; the remaining five crew perished.",
   "crew": [
     {
       "rank": "Fl/Lt",
       "name": "Henry Stewart \"Jim\" Van Raalte",
       "service_number": "Aus/415220 RAAF",
       "age": 31,
-      "role": "Pilot",
+      "role": "Pilot (ME625)",
       "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 13766",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Pilot of ME625. Killed when his aircraft was trapped in slipstream and collided with ND981.",
+      "cwgc_verified": true,
+      "bio": "Fl/Lt 'Jim' Van Raalte was a 31-year-old Australian serving with the RAAF."
     },
     {
       "rank": "F/Sgt",
       "name": "Maurice Durn",
       "service_number": "1622745 RAFVR",
       "age": 21,
-      "role": "Flight Engineer",
+      "role": "Flight Engineer (ME625)",
       "nationality": "British",
       "burial_location": "Marsden (St Bartholomew's) Churchyard, Row 7, Grave 17",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Killed in the collision. Buried at Marsden Churchyard.",
+      "cwgc_verified": true
     },
     {
       "rank": "P/O",
       "name": "David Gethin Williams",
       "service_number": "78568 RAFVR",
       "age": 22,
-      "role": "Navigator",
+      "role": "Navigator (ME625)",
       "nationality": "Welsh",
       "burial_location": "Treorchy Cemetery, Plot T, Grave 168",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Welsh crew member. Buried at Treorchy Cemetery.",
+      "cwgc_verified": true
     },
     {
       "rank": "W/O",
       "name": "Alfred Leonard Lambert",
       "service_number": "Aus/409318 RAAF",
       "age": 25,
-      "role": "Air Bomber",
+      "role": "Air Bomber (ME625)",
       "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 14166",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true
     },
     {
       "rank": "F/O",
       "name": "Alan Arnold",
       "service_number": "Aus/410136 RAAF",
       "age": 26,
-      "role": "Visual Air Bomber",
+      "role": "Visual Air Bomber (ME625)",
       "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 13966",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true
     },
     {
       "rank": "F/Sgt",
       "name": "Eric Henry Peace",
       "service_number": "1434302 RAFVR",
       "age": 22,
-      "role": "W/Op Air Gunner",
+      "role": "W/Op Air Gunner (ME625)",
       "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 14366",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true
     },
     {
       "rank": "F/Sgt",
       "name": "Royston George Davies",
       "service_number": "1315090 RAFVR",
       "age": 22,
-      "role": "Air Gunner (Mid Upper)",
+      "role": "Air Gunner Mid Upper (ME625)",
       "nationality": "Welsh",
       "burial_location": "Treorchy Cemetery, Row R.1, Grave 17",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true
     },
     {
       "rank": "Fl/Lt",
       "name": "John David Fletcher",
       "service_number": "115198 RAFVR",
       "age": 24,
-      "role": "Air Gunner (Rear)",
+      "role": "Air Gunner Rear (ME625)",
       "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 14566",
-      "fate": "Killed"
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "Edward Leslie John Perkins",
+      "service_number": "RAFVR",
+      "role": "Pilot (ND981)",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14766",
+      "fate": "Killed",
+      "fate_detail": "Pilot of ND981. Tail torn off by collision with ME625. Buried at Cambridge City Cemetery.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Ernest Coxhead",
+      "role": "Flight Engineer (ND981)",
+      "nationality": "British",
+      "burial_location": "Alfreton (Lea Brooks) Cemetery, Section B, Grave 641",
+      "fate": "Killed",
+      "fate_detail": "Buried at Alfreton Cemetery, Derbyshire.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "William James Hunt",
+      "role": "Navigator (ND981)",
+      "nationality": "British",
+      "burial_location": "Romford Cemetery, Section C.C., Grave 22",
+      "fate": "Killed",
+      "fate_detail": "Buried at Romford Cemetery, Essex.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "John Fairbairn",
+      "role": "Air Bomber (ND981)",
+      "nationality": "British",
+      "burial_location": "Knottingley Cemetery, Grave 5224",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "W/O",
+      "name": "Denis Gilbert Partos",
+      "role": "W/Op Air Gunner (ND981)",
+      "nationality": "British",
+      "burial_location": "New Southgate Cemetery, Sec G, Joint Grave 1662",
+      "fate": "Killed",
+      "fate_detail": "Held the Distinguished Flying Medal.",
+      "cwgc_verified": true,
+      "decorations": [
+        "DFM"
+      ]
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Paul Coman",
+      "role": "W/Op Air Gunner (ND981)",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Sole survivor. Bailed out as ND981 broke apart at 1,000 feet. Landed safely."
     }
   ],
   "cause_of_loss": "Mid-air collision; ME625 trapped in slipstream of lead aircraft, struck ND981 removing its tail",
   "operation_type": "Training",
-  "memorial_details": "A permanent memorial plaque was unveiled at Cloot House Farm on 23 June 2014 (70th anniversary). Relatives from Australia attended. The site is accessible with permission.",
+  "memorial_details": "A permanent memorial plaque was unveiled at Cloot House Farm on 23 June 2014 (70th anniversary). Australian relatives attended.",
   "latitude": 52.338146651008664,
-  "longitude": -0.24989331975681073
+  "longitude": -0.24989331975681073,
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered (Van Raalte)",
+      "original_url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
+      "summary": "Detailed account of ME625 OF-O in the mid-air collision on 23 June 1944.",
+      "key_details": [
+        "Van Raalte was Australian, aged 31",
+        "All 8 crew of ME625 killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered (Perkins)",
+      "original_url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "summary": "Account of ND981 OF-T. Tail removed by collision. Sgt Coman sole survivor.",
+      "key_details": [
+        "Tail section completely removed",
+        "Sgt Coman only survivor"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
+      "summary": "Memorial plaque at Cloot House Farm, unveiled 23 June 2014.",
+      "key_details": [
+        "70th anniversary unveiling"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
+      "summary": "13 crew commemorated.",
+      "key_details": [
+        "IWM memorial reference 88630"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/No._97_Squadron_RAF_badge.png",
+  "squadron_motto": "Achieve your aim"
 }

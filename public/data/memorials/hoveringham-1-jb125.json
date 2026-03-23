@@ -1,36 +1,98 @@
 {
-  "id": "hoveringham-1-jb125",
-  "title": "Hoveringham (1) Lancaster Memorial",
-  "location_name": "Hoveringham (1), Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-015",
-  "crash_date": "1945-01-12",
-  "aircraft_type": "Lancaster",
-  "serial_number": "JB125",
-  "squadron": "5 LFS",
-  "station": "Syerston",
-  "crew_summary": "7 killed including Plt Off. Guy Rerenui Dunlop",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "hoveringham-1-jb125",
+    "title": "Hoveringham (1) Lancaster Memorial",
+    "location_name": "Hoveringham (1), Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-015",
+    "crash_date": "1945-01-12",
+    "aircraft_type": "Lancaster",
+    "serial_number": "JB125",
+    "squadron": "5 LFS",
+    "station": "Syerston",
+    "crew_summary": "7 killed including Plt Off. Guy Rerenui Dunlop",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - P/O Dunlop, Lancaster JB125",
+            "url": "https://aircrewremembered.com/dunlop-guy-1.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.174696645034906,
+    "longitude": -1.0628255995732059,
+    "maintainer": {
+        "organisation": "Hoveringham Parish Council",
+        "website": "https://www.hoveringhamparishcouncil.gov.uk",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "Aircrew Remembered - P/O Dunlop, Lancaster JB125",
-      "url": "https://aircrewremembered.com/dunlop-guy-1.html",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.174696645034906,
-  "longitude": -1.0628255995732059,
-  "maintainer": {
-    "organisation": "Hoveringham Parish Council",
-    "website": "https://www.hoveringhamparishcouncil.gov.uk",
-    "maintainer_type": "parish-council"
-  }
+    "external_narratives": [
+        {
+            "source_site": "Graham Edwards (Author)",
+            "original_url": "https://graham-edwards.com/2016/03/30/hoveringham-lancasters/",
+            "summary": "Detailed historical account of both Hoveringham Lancaster crashes. JB125, piloted by P/O Guy Dunlop of the RNZAF, crashed at approximately 21:50 on 12 January 1945 after completing a three-hour training flight. In poor visibility with persistent drizzle and cloud base no higher than 6,000 feet, the Lancaster banked over a field and flew into the ground three-quarters of a mile north of the Elm Tree Hotel, Hoveringham. All seven crew, with an average age of 23, were killed.",
+            "key_details": [
+                "Crash at 21:50 on 12 January 1945",
+                "Crew of three New Zealanders and four British airmen",
+                "Average age of crew was 23",
+                "Crashed three-quarters of a mile from Elm Tree Hotel"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61799",
+            "summary": "IWM registers twin memorial stones at Hoveringham commemorating the crews of both Lancaster JB125 and LM308. The left stone bears the inscription for JB125 crew lost on 12 January 1945.",
+            "key_details": [
+                "IWM memorial reference 61799",
+                "Twin memorial stones for both Lancaster crashes"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Caythorpe Parish Council",
+            "original_url": "https://www.hugofox.com/community/caythorpe-parish-council-8096/hoveringham-lancaster-bomber-memorial/",
+            "summary": "The local parish council documents the Hoveringham Lancaster Bomber Memorial, noting that wreckage was rediscovered in 2009 and the memorial stones were dedicated on 30 May 2010 adjacent to the River Trent at Hoveringham Hall.",
+            "key_details": [
+                "Wreckage rediscovered 2009",
+                "Memorials dedicated 30 May 2010",
+                "Located adjacent to River Trent at Hoveringham Hall"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Commands Forum",
+            "original_url": "https://forum.rafcommands.com/forum/general-category/3781-crashed-lancaster-bomber-raf-syerston",
+            "summary": "Discussion thread on the RAF Commands forum providing additional research details about the two Lancaster crashes at Hoveringham, including witness accounts and surviving crew family contacts.",
+            "key_details": [
+                "Community research and family contacts documented"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southwell Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Hoveringham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep",
+            "website": "https://www.hoveringhamparishcouncil.gov.uk"
+        }
+    ]
 }

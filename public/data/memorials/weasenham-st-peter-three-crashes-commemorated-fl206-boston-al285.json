@@ -25,5 +25,81 @@
   "maintainer": {
     "organisation": "Weasenham Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-22-north-norfolk-part-3/",
+      "summary": "The pyramid memorial at Weasenham St Peter commemorates 11 airmen from three separate crashes. Blenheim L8800 of 114 Sqn crashed on 5 June 1942 killing three crew; Mitchell FL206 of 98 Sqn crashed on 17 October 1942 killing four; and Boston AL285 of 342 (Lorraine) Sqn crashed on 22 May 1943 killing four Free French aircrew.",
+      "key_details": [
+        "Memorial is a pyramid-shaped stone",
+        "Blenheim crew included Sgt Eric Kitcher, whose daughter Margaret Hennessy later researched the crash",
+        "Mitchell FL206 crew: Flt Sgt D. Tanner, Sgt E. Boreham, Sgt L. Horton, LAC F. Barnett",
+        "Boston AL285 crew were Free French: Lt M. Le Bivic, Lt R. Jacquinot, Sgt L. Cohen, Cpl J. Desertlaux",
+        "Weasenham Aircrew Memorial Group formed to create lasting tribute",
+        "Villagers had placed small wooden crosses and read names on Remembrance Day"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Roll of Honour",
+      "original_url": "http://www.roll-of-honour.com/Norfolk/WeasenhamRAF.html",
+      "summary": "The Roll of Honour website lists the RAF crews who died in the three crashes at Weasenham St Peter, Norfolk. It provides names and service details for all 11 airmen killed across the three incidents between June 1942 and May 1943.",
+      "key_details": [
+        "Comprehensive listing of all crew names across three crashes",
+        "All crashes occurred within a mile of the village"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aerosteles",
+      "original_url": "https://www.aerosteles.net/stelefr-weasenham-lebivic",
+      "summary": "French-language memorial site documenting the Boston AL285 crash of 342 (Lorraine) Squadron at Weasenham St Peters on 22 May 1943. The crew were Free French Air Force personnel who died serving with the RAF.",
+      "key_details": [
+        "Dedicated French memorial page for the Lorraine Squadron crew",
+        "Documents the Free French dimension of the Weasenham memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Norfolk Heritage Explorer",
+      "original_url": "https://www.heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
+      "summary": "Norfolk Historic Environment Record entry for the Bristol Blenheim L8800 crash site at Weasenham. Records the archaeological and heritage significance of the crash location near the village school.",
+      "key_details": [
+        "Official Norfolk heritage record for the Blenheim crash site",
+        "Crash occurred behind the village school"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
+      "summary": "Geograph article on East Anglia WW2 aircrew crash memorials includes the Weasenham St Peter pyramid memorial among the Norfolk entries, providing photographic documentation and grid reference.",
+      "key_details": [
+        "Part of wider East Anglia crash memorials survey",
+        "Photographic record of the memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Litcham Tittishall & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Weasenham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
+  "squadron_motto": "Peace Through Strength"
 }

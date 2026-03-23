@@ -1,25 +1,83 @@
 {
-  "id": "pen-yr-ole-wen-n9855",
-  "title": "Pen yr Ole Wen Mk.I Memorial",
-  "location_name": "Pen yr Ole Wen, Gwynedd, Snowdonia",
-  "county": "Snowdonia",
-  "country": "United Kingdom",
-  "region_code": "WA-006",
-  "crash_date": "1943-11-08",
-  "aircraft_type": "Anson Mk.I",
-  "serial_number": "N9855",
-  "squadron": "3 (O)AFU",
-  "crew_summary": "5 killed",
-  "memorial_type": "Crash site memorial",
-  "sources": [
-    {
-      "title": "militaryaircraftcrashsites.blogspot.com",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.047464888667456,
-  "longitude": -1.4403714411511426
+    "id": "pen-yr-ole-wen-n9855",
+    "title": "Pen yr Ole Wen Mk.I Memorial",
+    "location_name": "Pen yr Ole Wen, Gwynedd, Snowdonia",
+    "county": "Snowdonia",
+    "country": "United Kingdom",
+    "region_code": "WA-006",
+    "crash_date": "1943-11-08",
+    "aircraft_type": "Anson Mk.I",
+    "serial_number": "N9855",
+    "squadron": "3 (O)AFU",
+    "crew_summary": "5 killed",
+    "memorial_type": "Crash site memorial",
+    "sources": [
+        {
+            "title": "militaryaircraftcrashsites.blogspot.com",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.047464888667456,
+    "longitude": -1.4403714411511426,
+    "external_narratives": [
+        {
+            "source_site": "Peak District Air Accident Research",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/wales/avro-anson-n9855-pen-yr-ole-wen/",
+            "summary": "Detailed account of Anson Mk.I N9855 from No. 3 (Observer) Advanced Flying Unit, based at RAF Halfpenny Green near Wolverhampton. On the evening of 8 November 1943, a crew of five took off for a night navigation exercise covering approximately 320 miles via Rhyl, Conwy, Douglas, Maughold Head, and Chetton. The aircraft drifted off course and struck near the summit of Pen yr Ole Wen in the Carneddau, with wreckage falling down the north face.",
+            "key_details": [
+                "Based at RAF Halfpenny Green, Wolverhampton",
+                "320-mile navigation route planned",
+                "Route: Base-Rhyl-Conwy-Douglas-Maughold Head-Chetton-Base",
+                "Aircraft drifted off course into mountains",
+                "Wreckage fell down north face of Pen yr Ole Wen"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "aircrashsites.co.uk",
+            "original_url": "https://aircrashsites.co.uk/raf-crash-sites-1942-1945/dsc-3/",
+            "summary": "Documentation of the Anson N9855 crash site with photographs of remaining wreckage in the Carneddau mountains of Snowdonia.",
+            "key_details": [
+                "Wreckage photographed at crash site",
+                "Carneddau mountains location confirmed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Geograph",
+            "original_url": "https://www.geograph.org.uk/photo/2912123",
+            "summary": "Geograph photographic record of Avro Anson N9855 wreckage on Pen yr Ole Wen, showing remaining fragments at the mountain crash site.",
+            "key_details": [
+                "Photographic evidence of wreckage on mountain"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://aviation-safety.net/wikibase/27996",
+            "summary": "Aviation Safety Network accident record for Avro Anson N9855 on 8 November 1943, confirming the crash details and crew complement of five. Pilot was Sgt Hoagg from Edmonton, Alberta, Canada; Sgt Lewis from Goulburn, NSW, Australia was also aboard.",
+            "key_details": [
+                "ASN wikibase reference 27996",
+                "Pilot Sgt Hoagg from Edmonton, Alberta",
+                "Sgt Lewis from Goulburn, NSW, Australia",
+                "Commonwealth crew composition"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Bangor Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+        }
+    ]
 }

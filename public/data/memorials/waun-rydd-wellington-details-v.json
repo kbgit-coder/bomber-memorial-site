@@ -1,24 +1,58 @@
 {
-  "id": "waun-rydd-wellington-details-v",
-  "title": "Waun Rydd source) Memorial",
-  "location_name": "Waun Rydd, Brecon Beacons, Brecon Beacons (Bannau Brycheiniog)",
-  "county": "Brecon Beacons (Bannau Brycheiniog)",
-  "country": "United Kingdom",
-  "region_code": "WA-003",
-  "crash_date": "WW2",
-  "aircraft_type": "Wellington (details vary by source)",
-  "squadron": "OTU",
-  "crew_summary": "Crew killed",
-  "memorial_type": "Memorial cairn at crash site on mountain ridge",
-  "sources": [
-    {
-      "title": "wanderingwelshgirl.com",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.19243810046446,
-  "longitude": -1.3021888860464494
+    "id": "waun-rydd-wellington-details-v",
+    "title": "Waun Rydd source) Memorial",
+    "location_name": "Waun Rydd, Brecon Beacons, Brecon Beacons (Bannau Brycheiniog)",
+    "county": "Brecon Beacons (Bannau Brycheiniog)",
+    "country": "United Kingdom",
+    "region_code": "WA-003",
+    "crash_date": "WW2",
+    "aircraft_type": "Wellington (details vary by source)",
+    "squadron": "OTU",
+    "crew_summary": "Crew killed",
+    "memorial_type": "Memorial cairn at crash site on mountain ridge",
+    "sources": [
+        {
+            "title": "wanderingwelshgirl.com",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.19243810046446,
+    "longitude": -1.3021888860464494,
+    "external_narratives": [
+        {
+            "source_site": "Wandering Welsh Girl",
+            "original_url": "https://www.wanderingwelshgirl.com/waun-rydd-wellington-bomber-walk-brecon-beacons/",
+            "summary": "Walking guide and historical account of the Wellington Bomber R1465 crash site at Waun Rydd. The aircraft took off from the Operational Training Unit at Wellesbourne Mountford near Stratford-upon-Avon on 6 July 1942 for a cross-country training exercise.",
+            "key_details": "Aircraft serial R1465. Pilot descended from the advised 10,000 ft in heavy cloud to try to fix position, striking the summit of Waun Rydd in a flat high-speed crash. All five crew were Canadian and are buried in Hereford.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Institute of Welsh Affairs",
+            "original_url": "https://www.iwa.wales/agenda/2010/11/aluminium-litters-the-ravens-quarry/",
+            "summary": "Article examining the Wellington crash site at Cwar y Gigfran (Raven's Quarry) on Waun Rydd, noting the extensive wreckage that remains visible at the site more than 80 years after the crash.",
+            "key_details": "Two distinct piles of wreckage still remain at the site. The crash location is beneath Cwar y Gigfran ridge. A dedicated memorial cairn is often adorned with poppies by walkers.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Ystradgynlais Aircraft Crash Sites",
+            "original_url": "http://www.ystradgynlais-history.co.uk/wellington-r1465.html",
+            "summary": "Local history page documenting Wellington R1465 and the circumstances of its crash on Waun Rydd on 6 July 1942. Provides details of the five Canadian crew members and their training exercise from Wellesbourne Mountford OTU.",
+            "key_details": "Serial confirmed as R1465. All five crew were Canadians from the RCAF. The OTU at Wellesbourne Mountford trained crews for Bomber Command operations.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Brecon Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+        }
+    ]
 }

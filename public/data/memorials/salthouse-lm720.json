@@ -10,46 +10,123 @@
   "serial_number": "LM720",
   "squadron": "61 Squadron",
   "station": "Skellingthorpe",
-  "crew_summary": "7 killed including Flg Off. William George Corewyn",
+  "crew_summary": "7 killed including Fg Off. William George Corewyn",
   "memorial_type": "Memorial stone",
   "sources": [
     {
       "title": "Geograph Norfolk",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - Corewyn William",
+      "type": "website",
+      "url": "https://aircrewremembered.com/corewyn-william.html"
+    },
+    {
+      "title": "IWM War Memorials Register - Memorial 56361",
+      "type": "website",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/56361"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "narrative": "On the night of 15 January 1945, Lancaster LM720 of 61 Squadron departed RAF Skellingthorpe in Lincolnshire as part of a major bombing operation against the Leuna synthetic oil plant near Merseburg, one of Bomber Command's priority targets in the final months of the war. The oil campaign was proving devastatingly effective at crippling Germany's war machine, but the heavily-defended Merseburg complex remained one of the most dangerous targets in the Reich. On the return flight, the Lancaster's crew encountered deteriorating weather conditions over the Norfolk coast. Poor visibility and misunderstood wireless telegraphy messages conspired to lead the aircraft dangerously low over the coast near Salthouse. At 01:21 hours, Lancaster LM720 struck one of the 200-foot steel masts of the Type 54 Chain Home Extra Low radar station on Bard Hill, just south of Salthouse village. Six of the seven crew members were killed instantly. Flight Sergeant Boakes, although pulled from the wreckage alive and badly injured, died shortly afterwards in hospital. The twisted remains of the radar mast stood for many years as a silent memorial to the crew, with poppy wreaths fastened to the steel by local people. A more formal memorial was later placed inside St Nicholas' Church in the village.",
   "crew": [
     {
-      "name": "Ronald Charles Battersby",
-      "fate": "Killed"
-    },
-    {
-      "name": "Edward James Boakes",
-      "fate": "Killed (died in hospital shortly after crash)"
-    },
-    {
+      "rank": "Fg Off",
       "name": "William George Corewyn",
-      "fate": "Killed"
+      "service_number": "178520",
+      "age": 23,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly when the Lancaster struck the 200ft radar mast on Bard Hill at 01:21 hours on the return from Leuna.",
+      "burial_location": "Dalnottar Cemetery, Section K, Grave 11",
+      "cwgc_verified": true,
+      "bio": "Pilot serving with the RAFVR, aged 23. Led the crew on a dangerous mission to the heavily defended Leuna synthetic oil complex.",
+      "decorations": []
     },
     {
+      "rank": "F/Sgt",
+      "name": "Ronald Charles Battersby",
+      "service_number": "1545932",
+      "age": 23,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the collision with the radar mast.",
+      "burial_location": "Leeds (Lawn Wood) Cemetery, Section V, Grave 263",
+      "cwgc_verified": true,
+      "bio": "Navigator serving with the RAFVR, aged 23.",
+      "decorations": []
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Edward James Boakes",
+      "service_number": "1586951",
+      "age": 21,
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Initially survived the crash and was pulled from the wreckage alive but badly injured. Died in hospital at 06:25 hours the same morning.",
+      "burial_location": "Streatham Park Cemetery",
+      "cwgc_verified": true,
+      "bio": "Bomb aimer serving with the RAFVR, aged 21. The only crew member to initially survive the crash, but succumbed to his injuries in hospital.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
       "name": "John Douglas",
-      "fate": "Killed"
+      "service_number": "1373345",
+      "age": 24,
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the collision with the radar mast.",
+      "cwgc_verified": true,
+      "bio": "Mid-upper gunner serving with the RAFVR, aged 24.",
+      "decorations": []
     },
     {
+      "rank": "Sgt",
       "name": "Peter Richard Earl",
-      "fate": "Killed"
+      "service_number": "1649851",
+      "age": 21,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the collision with the radar mast.",
+      "burial_location": "Wells-Next-The-Sea Cemetery, Grave 374",
+      "cwgc_verified": true,
+      "bio": "Flight engineer serving with the RAFVR, aged 21.",
+      "decorations": []
     },
     {
+      "rank": "F/Sgt",
       "name": "Sidney Joseph James",
-      "fate": "Killed"
+      "service_number": "1583124",
+      "age": 20,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the collision with the radar mast.",
+      "cwgc_verified": true,
+      "bio": "Wireless operator and air gunner serving with the RAFVR, aged 20.",
+      "decorations": []
     },
     {
+      "rank": "Sgt",
       "name": "Richard Richardson",
-      "fate": "Killed"
+      "service_number": "1590833",
+      "age": 19,
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the collision with the radar mast. At 19, the youngest crew member.",
+      "cwgc_verified": true,
+      "bio": "Rear gunner serving with the RAFVR, the youngest crew member at just 19 years old.",
+      "decorations": []
     }
   ],
   "latitude": 52.9504,
@@ -61,5 +138,68 @@
   "maintainer": {
     "organisation": "Salthouse Parish Meeting",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/corewyn-william.html",
+      "summary": "Detailed aircrew memorial page for Fg Off. William G. Corewyn and the crew of Lancaster III LM720 QR:D. Took off at 16:30 from Skellingthorpe for Leuna, Germany, and struck the 200ft CHEL radar mast at Bard Hill at 01:21 on the return. The radar station operators were tracking E-boats when the collision occurred.",
+      "key_details": [
+        "Aircraft code QR:D",
+        "Took off 16:30, crashed 01:21",
+        "Radar operators were tracking E-boats at time of collision",
+        "Misunderstood W/T messages contributed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/56361",
+      "summary": "IWM War Memorials Register entry for the crew of Lancaster LM720 memorial at St Nicholas' Church, Salthouse. National memorial register record with reference WMR-56361.",
+      "key_details": [
+        "IWM memorial reference 56361",
+        "Memorial inside St Nicholas' Church"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph Britain and Ireland",
+      "original_url": "https://www.geograph.org.uk/photo/6399766",
+      "summary": "Photographic record of the memorial to Lancaster III LM720 at Bard Hill crash site. Shows the memorial marker placed at the location where the aircraft struck the radar mast.",
+      "key_details": [
+        "Photographic documentation of crash site memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Subterranea Britannica",
+      "original_url": "https://www.subbrit.org.uk/sites/bard-hill-chain-home-low-radar-station/",
+      "summary": "Technical and historical details of the Bard Hill Chain Home Low radar station that the Lancaster struck. Documents the Type 54 CHEL installation and its role in coastal defence, providing context for why the 200ft masts were present.",
+      "key_details": [
+        "Type 54 CHEL radar station",
+        "200ft steel masts for coastal defence",
+        "Station was operational tracking enemy vessels at time of crash"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sheringham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Salthouse Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

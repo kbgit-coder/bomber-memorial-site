@@ -10,34 +10,158 @@
   "serial_number": "BJ764",
   "squadron": "425 Squadron",
   "station": "Dishforth",
-  "crew_summary": "4 killed including Flt Sgt. Raymond Rogers Foltz",
+  "crew_summary": "4 killed; 2 survived as POWs (bailed out over Netherlands)",
   "memorial_type": "Memorial stone",
   "sources": [
     {
       "title": "Geograph Norfolk",
       "type": "website"
+    },
+    {
+      "title": "Back to Normandy - BJ764 loss record",
+      "url": "https://backtonormandy.org/the-history/air-force-operations/airplanes-allies-and-axis-lost/wellington/19147-BJ7641942-11-10.html",
+      "type": "database"
+    },
+    {
+      "title": "Warplane.com - Crew records",
+      "url": "https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200001751",
+      "type": "database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron crashed at Beetley in central Norfolk. The Alouette Squadron had been formed at RAF Dishforth in Yorkshire only five months earlier, in June 1942, as one of the RCAF's designated French-Canadian bomber squadrons. The Wellington, a twin-engine medium bomber with its distinctive geodetic airframe construction, was one of Bomber Command's workhorses during 1942. The circumstances of this particular crash -- with the aircraft coming down in Norfolk, far from its Yorkshire base -- suggest the bomber was either returning from operations over the continent or had been diverted due to weather conditions. Four of the six-man crew perished in the crash, while two survived. A memorial at the crash site near the village of Beetley now commemorates the Canadian aircrew who died.",
+  "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron took off from RAF Dishforth at 17:33 for a bombing mission to Hamburg. Over mainland Europe, the aircraft was attacked by Luftwaffe night-fighter ace Oberleutnant Ludwig Becker near Raard, west of Dokkum in the Netherlands. Two crew members — Sgt Delorme and Sgt Pambrun — bailed out and became prisoners of war. The pilot, Flight Sergeant Foltz, a 26-year-old American from New York City serving with the RCAF, managed to regain control of the damaged aircraft and flew it back across the North Sea. However, approaching Norfolk the aircraft became uncontrollable and crashed near the village of Beetley, killing Foltz and the three remaining crew. A memorial at St Mary Magdalene's Church, Beetley, commemorates the Canadian aircrew who died.",
   "crew": [
     {
       "rank": "F/Sgt",
       "name": "Raymond Rogers Foltz",
+      "service_number": "R/79246",
       "role": "Pilot",
-      "fate": "Details incomplete"
+      "nationality": "American (RCAF)",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Flew the damaged Wellington back from the Netherlands but crashed at Beetley attempting to land. Buried at Dishforth Cemetery.",
+      "cwgc_verified": true,
+      "bio": "Foltz was a 26-year-old American from New York City who had volunteered to serve with the Royal Canadian Air Force. He heroically flew the badly damaged aircraft back across the North Sea after two crew had bailed out.",
+      "hometown": "New York City, USA",
+      "age": 26
+    },
+    {
+      "rank": "F/O",
+      "name": "G.S. Cartwright",
+      "service_number": "RCAF",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Beetley after the damaged aircraft failed to land safely.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Unknown crew member 3",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "One of two additional crew killed in the crash at Beetley.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Unknown crew member 4",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "One of two additional crew killed in the crash at Beetley.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Albert Delorme",
+      "service_number": "RCAF",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "Bailed out over the Netherlands after the aircraft was attacked by Oblt Ludwig Becker. Became POW No. 881, held at Stalag Luft Heydekrug for the remainder of the war.",
+      "cwgc_verified": false,
+      "hometown": "St. Adolphe, Manitoba, Canada"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J.R.A. Pambrun",
+      "service_number": "R/119711",
+      "role": "Wireless Operator",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "Bailed out over the Netherlands with Sgt Delorme. Became a prisoner of war and held at Stalag Luft Heydekrug.",
+      "cwgc_verified": false
     }
   ],
   "latitude": 52.7238,
   "longitude": 0.917,
-  "cause_of_loss": "Uncertain; aircraft came down in Norfolk, far from home base",
+  "cause_of_loss": "Attacked by Luftwaffe night-fighter ace Oblt Ludwig Becker near Dokkum, Netherlands; two crew bailed out; pilot flew damaged aircraft back but crashed at Beetley",
   "operation_type": "Operational",
-  "operation_target": "Operational sortie (details incomplete)",
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Near Beetley village, Norfolk | | Access | Accessible; rural location |",
+  "operation_target": "Hamburg",
+  "memorial_details": "A plain, rectangular, white marble tablet mounted on a black backboard with commemoration in black upper case letters is located at St Mary Magdalene's Church, Church Lane, Beetley, Breckland, Norfolk.",
   "maintainer": {
     "organisation": "Beetley Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101718",
+      "summary": "The IWM records the memorial to the crew of Wellington BJ764 at Beetley, Norfolk, commemorating the Canadian aircrew who died in the crash on 9 November 1942.",
+      "key_details": [
+        "IWM memorial reference 101718"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
+      "original_url": "https://www.geograph.org.uk/photo/6029497",
+      "summary": "Geograph photo record of the memorial at Beetley to the crew of Wellington BJ764 of 425 (Alouette) Squadron RCAF. The French-Canadian squadron was formed at Dishforth in June 1942.",
+      "key_details": [
+        "425 (Alouette) Squadron RCAF",
+        "French-Canadian bomber squadron",
+        "Formed at Dishforth June 1942"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrewremembered.com (related 425 Sqn page)",
+      "original_url": "https://aircrewremembered.com/list-of-pages-relating-to-1942.html",
+      "summary": "Aircrewremembered's 1942 index references the Wellington BJ764 loss. Research indicates the aircraft was attacked by Luftwaffe ace Oblt Ludwig Becker near Dokkum in the Netherlands during a Hamburg raid. Two crew bailed out and became POWs; pilot F/Sgt Foltz (aged 26, from New York City) flew the damaged aircraft back to Norfolk but crashed attempting to land at Swanton Morley.",
+      "key_details": [
+        "Attacked by Luftwaffe ace Oblt Ludwig Becker",
+        "Attacked near Dokkum, Netherlands",
+        "On Hamburg raid",
+        "Two crew survived as POWs including Sgt Delorme",
+        "Pilot Foltz aged 26, from New York City",
+        "Attempted emergency landing at Swanton Morley"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Dereham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Beetley Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/425_Tactical_Fighter_Squadron_crest.png",
+  "squadron_motto": "I shall pluck you"
 }

@@ -25,5 +25,57 @@
   "maintainer": {
     "organisation": "Cawston Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "North Norfolk News",
+      "original_url": "https://www.northnorfolknews.co.uk/news/four-airmen-whose-plane-crashed-in-norfolk-during-the-war-1625112",
+      "summary": "News article about the memorial to the four airmen of Hampden P4405 who crashed in Norfolk. The crew, Flt Lt Frutiger, Sgt Chanin, Sgt Hill, and Flt Sgt Gapp of 61 Squadron, were returning from a mission to Wilhelmshaven on 10 February 1941.",
+      "key_details": [
+        "Returning from Wilhelmshaven raid",
+        "Crashed at Bluestone Plantation between Heydon and Cawston",
+        "Took off from Hemswell at 0220, crashed at 0650"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Cawston Heritage",
+      "original_url": "https://cawstonheritage.co.uk/items/show/314",
+      "summary": "Local heritage record of the Hampden bomber crash at Bluestone Plantation near Cawston. Documents the crash of P4405 from 61 Squadron RAF Hemswell during a forced landing attempt after returning from operations over Germany.",
+      "key_details": [
+        "Crash at Bluestone Plantation",
+        "Squadron code QR",
+        "Forced landing attempt"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Commands",
+      "original_url": "https://www.rafcommands.com/database/wardead/details.php?qnum=80978",
+      "summary": "RAF Commands casualty database entry for Sergeant J.E. Hill (935567), one of the four crew killed in the Hampden P4405 crash at Cawston on 10 February 1941.",
+      "key_details": [
+        "Sgt Hill service number 935567",
+        "Official casualty record"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Aylsham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Cawston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

@@ -74,6 +74,59 @@ export function getFeaturedMemorials(): Memorial[] {
   return all.filter((m) => m.data_quality === 'Complete');
 }
 
+/**
+ * Weekly rotating featured memorials: 5 per week (1-2 Complete, 2-3 Partial).
+ * Deterministic based on ISO week number so it's consistent during SSG.
+ * All 208 memorials appear at least once per year (208/5 = ~42 weeks < 52).
+ */
+export function getWeeklyFeaturedMemorials(): Memorial[] {
+  const all = getAllMemorials();
+  const complete = all.filter((m) => m.data_quality === 'Complete');
+  const partial = all.filter((m) => m.data_quality === 'Partial');
+
+  // Get ISO week number (1-52)
+  const now = new Date();
+  const startOfYear = new Date(now.getFullYear(), 0, 1);
+  const dayOfYear = Math.floor((now.getTime() - startOfYear.getTime()) / 86400000) + 1;
+  const weekNumber = Math.ceil(dayOfYear / 7);
+
+  // Deterministic shuffle using week as seed — simple but effective
+  function seededPick<T>(arr: T[], seed: number, count: number): T[] {
+    if (arr.length === 0) return [];
+    const result: T[] = [];
+    const used = new Set<number>();
+    let s = seed;
+    while (result.length < count && used.size < arr.length) {
+      // Simple LCG-style hash
+      s = ((s * 1103515245 + 12345) & 0x7fffffff);
+      const idx = s % arr.length;
+      if (!used.has(idx)) {
+        used.add(idx);
+        result.push(arr[idx]);
+      }
+    }
+    return result;
+  }
+
+  // Pick 2 Complete + 3 Partial (= 5 total)
+  // If not enough Complete, fill with more Partial
+  const completeCount = Math.min(2, complete.length);
+  const partialCount = 5 - completeCount;
+
+  const pickedComplete = seededPick(complete, weekNumber * 7 + 1, completeCount);
+  const pickedPartial = seededPick(partial, weekNumber * 7 + 2, partialCount);
+
+  return [...pickedComplete, ...pickedPartial];
+}
+
+export function getWeekLabel(): string {
+  const now = new Date();
+  const startOfYear = new Date(now.getFullYear(), 0, 1);
+  const dayOfYear = Math.floor((now.getTime() - startOfYear.getTime()) / 86400000) + 1;
+  const weekNumber = Math.ceil(dayOfYear / 7);
+  return `Week ${weekNumber}, ${now.getFullYear()}`;
+}
+
 export function getMemorialStats() {
   const all = getAllMemorials();
   const withCrew = all.filter((m) => m.crew && m.crew.length > 0);

@@ -26,5 +26,38 @@
   "maintainer": {
     "organisation": "East Stockwith Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered / Virtual War Memorial Australia",
+      "original_url": "https://vwma.org.au/explore/people/513866",
+      "summary": "Lancaster ME323 PH-P of 12 Squadron was shot down by a Luftwaffe intruder aircraft during Operation Gisela on the night of 3/4 March 1945. Lt Gunther Wolf of IX/NJG5 intercepted the bomber as it returned from operations, recording it as his 4th victory.",
+      "key_details": "Part of Operation Gisela, the Luftwaffe's last major intruder operation over England. Crew included Flt Sgt George Edward Davis (age 20, RAAF) and Flt Sgt Ronald Leslie Horstmann (navigator, age 22). The memorial incorporates a propeller blade from the actual aircraft.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6513817",
+      "summary": "Photograph and description of the memorial stone at East Stockwith, located next to the village war memorial at St Peter's Close. The memorial was erected to remember the seven crew of 12 Squadron Lancaster ME323 lost on 3-4 March 1945.",
+      "key_details": "Memorial stands on the corner of Back Street and St Peter's Close, incorporating a propeller blade from the crashed aircraft.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "East Stockwith Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/No._12_Squadron_RAF.png",
+  "squadron_motto": "Leads the Field"
 }

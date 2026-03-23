@@ -6,7 +6,13 @@ export interface CrewMember {
   role?: string;
   nationality?: string;
   fate?: string;
+  fate_detail?: string;
   burial_location?: string;
+  cwgc_url?: string;
+  cwgc_verified?: boolean;
+  bio?: string;
+  hometown?: string;
+  decorations?: string;
 }
 
 export interface Source {
@@ -58,6 +64,8 @@ export interface Memorial {
   serial_number?: string;
   aircraft_code?: string;
   squadron?: string;
+  squadron_badge_url?: string;
+  squadron_motto?: string;
   station?: string;
   operation_type?: string;
   operation_target?: string;

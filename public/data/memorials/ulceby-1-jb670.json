@@ -26,5 +26,46 @@
   "maintainer": {
     "organisation": "Ulceby Parish Council",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "North Lincs Web",
+      "original_url": "https://www.northlincsweb.net/UlcebyWarMemorial/html/lancaster_crash.html",
+      "summary": "Detailed local account of the mid-air collision between Lancaster JB670 (103 Squadron) and Lancaster LM332 (576 Squadron) over Ulceby on 16 December 1943. Both aircraft were taking off from RAF Elsham Wolds for a Berlin raid when they collided in low cloud.",
+      "key_details": "JB670 took off at 4:37 PM, one minute after LM332. The two Lancasters collided head-on as JB670 climbed into cloud while LM332 emerged from it. Wreckage fell over a wide area. All 14 men from both aircraft killed. Part of 'Black Thursday' when Bomber Command lost heavily to weather.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Digital Archive",
+      "original_url": "https://ibccdigitalarchive.lincoln.ac.uk/omeka/collections/document/5751",
+      "summary": "International Bomber Command Centre digital archive record documenting the next of kin of Lancaster JB670 'Q' crew, lost on 16 December 1943.",
+      "key_details": "Pilot was F/Sgt Valentine 'Val' Richter, age 22, of Chingford, Essex. The crew was a last-minute mixture of men from both 103 and 576 Squadrons.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Memorial Flight Club",
+      "original_url": "https://www.memorialflightclub.com/blog/black-thursday-16th-december-1943",
+      "summary": "Account of Black Thursday, 16 December 1943, when almost 300 RAF airmen died — half from weather rather than enemy action. Documents the Ulceby collision as one of multiple tragedies that night across Bomber Command.",
+      "key_details": "483 Lancasters and 15 Mosquitos attacked Berlin that night. 25 aircraft lost on the raid, 28 crashed in fog at English airfields, 43 total destroyed. The Ulceby collision occurred during takeoff in low cloud.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Grimsby Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Ulceby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/No._103_Squadron_RAF.png",
+  "squadron_motto": "Touch me not"
 }

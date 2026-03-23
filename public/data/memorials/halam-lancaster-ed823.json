@@ -24,7 +24,10 @@
       "role": "Pilot",
       "nationality": "Australian",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery"
+      "burial_location": "Newark Cemetery",
+      "fate_detail": "Killed when the brand-new Lancaster struck the ground on an even keel with all engines under power, likely after hitting high-tension cables.",
+      "bio": "A 22-year-old Australian pilot from the RAAF, Lean was partway through his Heavy Conversion Unit course learning to fly four-engine bombers.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -34,7 +37,9 @@
       "role": "Flight Engineer",
       "nationality": "Australian",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery"
+      "burial_location": "Newark Cemetery",
+      "fate_detail": "Killed in the crash. Dunkin was a fellow Australian serving with the RAAF.",
+      "cwgc_verified": true
     },
     {
       "rank": "F/O",
@@ -44,7 +49,10 @@
       "role": "Navigator",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Fleetwood Borough Cemetery"
+      "burial_location": "Fleetwood Borough Cemetery",
+      "fate_detail": "Killed in the crash. At 34, Lambert was the eldest crew member.",
+      "hometown": "Fleetwood, Lancashire",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -54,7 +62,9 @@
       "role": "Bomb Aimer",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Hoyland Nether Cemetery"
+      "burial_location": "Hoyland Nether Cemetery",
+      "fate_detail": "Killed when Lancaster ED823 crashed near Halam on 10 April 1943.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -64,7 +74,10 @@
       "role": "Wireless Operator",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Glasgow Western Necropolis"
+      "burial_location": "Glasgow Western Necropolis",
+      "fate_detail": "Killed in the crash. Graham was the youngest British crew member at 20.",
+      "hometown": "Glasgow, Scotland",
+      "cwgc_verified": true
     },
     {
       "rank": "Fl/Sgt",
@@ -74,7 +87,9 @@
       "role": "Air Gunner",
       "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery"
+      "burial_location": "Newark Cemetery",
+      "fate_detail": "Killed in the crash. Lewis was a Canadian whose family attended the 68th anniversary memorial dedication in 2011.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -84,7 +99,9 @@
       "role": "Air Gunner",
       "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Gilroes Cemetery, Leicester"
+      "burial_location": "Gilroes Cemetery, Leicester",
+      "fate_detail": "Killed when Lancaster ED823 crashed near Halam on 10 April 1943.",
+      "cwgc_verified": true
     }
   ],
   "memorial_type": "Stone memorial",
@@ -109,7 +126,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
   "memorial_details": "Local residents Andrew Paris and Tony Denyer campaigned for recognition of the crash site. A stone memorial bearing all seven names was dedicated on 10 April 2011 (68th anniversary). Over 200 people attended, including relatives from Australia and Canada, plus representatives of the RAF, RAAF, and RCAF. The site now includes international tributes and a Nottinghamshire County Council information board.",
   "maintainer": {
@@ -117,5 +134,47 @@
     "website": "https://www.halam-pc.gov.uk",
     "maintainer_type": "parish-council",
     "notes": "Memorial erected by local residents Andrew Paris and Tony Denyer. Parish council area."
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Nottinghamshire Roll of Honour",
+      "original_url": "https://rollofhonour.nottinghamshire.gov.uk/Memorial/Details/1972",
+      "summary": "Nottinghamshire County Council Roll of Honour entry for the Halam Air Crash memorial. Records the memorial to the seven crew of Lancaster ED823 from 1661 HCU who died on 10 April 1943.",
+      "key_details": "Memorial reference 1972. Multinational crew: two Australians, one Canadian, four British. Crash site now part of Norwood Park Golf Course.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/68377",
+      "summary": "Imperial War Museum register entry for the Lancaster ED823 memorial at Halam. Stone memorial bearing all seven names was dedicated on 10 April 2011 (68th anniversary). Over 200 people attended including relatives from Australia and Canada.",
+      "key_details": "Memorial reference 68377. Dedicated 10 April 2011. Attended by 200+ people including RAAF, RCAF representatives. Erected by local residents Andrew Paris and Tony Denyer.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Halam Village Website",
+      "original_url": "http://www.halam.org.uk/frame_ED823.htm",
+      "summary": "Halam village's own account of the Lancaster ED823 crash. The aircraft was brand new with only 12 hours on the airframe. Investigation by Sqn Ldr Orchard found it struck the ground flat and level with all engines under power, suggesting contact with high-tension cables.",
+      "key_details": "Aircraft had only 12 hours on the airframe. Engines installed just two weeks before the crash. Investigation found aircraft struck ground flat with all engines under power. High-tension cables the most likely cause.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southwell Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Halam Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep",
+      "website": "https://www.halam-pc.gov.uk"
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
+  "squadron_motto": "Thundering through the clear air"
 }

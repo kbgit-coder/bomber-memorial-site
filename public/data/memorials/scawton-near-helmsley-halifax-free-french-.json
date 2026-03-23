@@ -1,34 +1,112 @@
 {
-  "id": "scawton-near-helmsley-halifax-free-french-",
-  "title": "Scawton (near Helmsley) Force) Memorial",
-  "location_name": "Scawton (near Helmsley), North Yorkshire",
-  "county": "North Yorkshire",
-  "country": "United Kingdom",
-  "region_code": "NY-002",
-  "crash_date": "WW2 (returning from 38th mission)",
-  "aircraft_type": "Halifax (Free French Air Force)",
-  "squadron": "Based at Elvington",
-  "crew_summary": "5 Free French airmen killed; 2 survived",
-  "memorial_type": "Plaque (originally on tree at crash site, relocated to Scawton Church porch after tree fell); display of wreaths and crosses",
-  "sources": [
-    {
-      "title": "York Stories (yorkstories.co.uk)",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Partial",
-  "narrative": "RAF Elvington reopened in October 1942 as a base for 77 Squadron RAF, which suffered devastating losses -- over 500 aircrew killed, missing or taken prisoner, with almost 80 Halifaxes lost during the Battle of the Ruhr and the bombing of Berlin. In May 1944, 77 Squadron moved to nearby Full Sutton and was replaced by two Free French Air Force squadrons: 346 \"Guyenne\" and 347 \"Tunisie.\" These were the only Free French heavy bomber squadrons in the United Kingdom, and they played a significant role in operations from D-Day until the end of the war. Nearly half the French squadrons' members were killed during their time at Elvington. The airfield is now the Yorkshire Air Museum, described as \"a living memorial to allied air forces personnel.\"",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Village Memorial** | Inverse shield-shaped slate memorial with French inscription in gold and three French aviation badges; unveiled September 1957 in Elvington village | | **Yorkshire Air Museum** | Allied Air Forces Memorial on the former airfield; restored Halifax bomber (one of only three in the world); memorial to women who served in WWII | | **York Minster** | French Air Force memorial plaque supported by RAF | | **Condition** | Excellent (museum site professionally maintained) | | **Access** | Yorkshire Air Museum, Halifax Way, Elvington, York YO41 4AU; open to public |",
-  "cause_of_loss": "Unable to land due to airfield congestion; flew north to wait; damaged instruments and zero visibility; struck stone wall",
-  "operation_type": "Operational",
-  "operation_target": "Returning from 38th operational mission (bombing Germany)",
-  "latitude": 53.93694529690333,
-  "longitude": -1.2044503791651497,
-  "maintainer": {
-    "organisation": "Scawton Parish Meeting",
-    "maintainer_type": "church",
-    "notes": "Plaque relocated to Scawton Church porch after tree at crash site fell."
-  }
+    "id": "scawton-near-helmsley-halifax-free-french-",
+    "title": "Scawton (near Helmsley) Force) Memorial",
+    "location_name": "Scawton (near Helmsley), North Yorkshire",
+    "county": "North Yorkshire",
+    "country": "United Kingdom",
+    "region_code": "NY-002",
+    "crash_date": "WW2 (returning from 38th mission)",
+    "aircraft_type": "Halifax (Free French Air Force)",
+    "squadron": "Based at Elvington",
+    "crew_summary": "5 Free French airmen killed; 2 survived",
+    "memorial_type": "Plaque (originally on tree at crash site, relocated to Scawton Church porch after tree fell); display of wreaths and crosses",
+    "sources": [
+        {
+            "title": "York Stories (yorkstories.co.uk)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-22",
+    "data_quality": "Partial",
+    "narrative": "RAF Elvington reopened in October 1942 as a base for 77 Squadron RAF, which suffered devastating losses -- over 500 aircrew killed, missing or taken prisoner, with almost 80 Halifaxes lost during the Battle of the Ruhr and the bombing of Berlin. In May 1944, 77 Squadron moved to nearby Full Sutton and was replaced by two Free French Air Force squadrons: 346 \"Guyenne\" and 347 \"Tunisie.\" These were the only Free French heavy bomber squadrons in the United Kingdom, and they played a significant role in operations from D-Day until the end of the war. Nearly half the French squadrons' members were killed during their time at Elvington. The airfield is now the Yorkshire Air Museum, described as \"a living memorial to allied air forces personnel.\"",
+    "memorial_details": "| Feature | Detail | |---------|--------| | **Village Memorial** | Inverse shield-shaped slate memorial with French inscription in gold and three French aviation badges; unveiled September 1957 in Elvington village | | **Yorkshire Air Museum** | Allied Air Forces Memorial on the former airfield; restored Halifax bomber (one of only three in the world); memorial to women who served in WWII | | **York Minster** | French Air Force memorial plaque supported by RAF | | **Condition** | Excellent (museum site professionally maintained) | | **Access** | Yorkshire Air Museum, Halifax Way, Elvington, York YO41 4AU; open to public |",
+    "cause_of_loss": "Unable to land due to airfield congestion; flew north to wait; damaged instruments and zero visibility; struck stone wall",
+    "operation_type": "Operational",
+    "operation_target": "Returning from 38th operational mission (bombing Germany)",
+    "latitude": 53.93694529690333,
+    "longitude": -1.2044503791651497,
+    "maintainer": {
+        "organisation": "Scawton Parish Meeting",
+        "maintainer_type": "church",
+        "notes": "Plaque relocated to Scawton Church porch after tree at crash site fell."
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/ostre-george.html",
+            "summary": "Detailed crew page for 347 Squadron Halifax III NR287 L8-C piloted by Cdt George Ostre. The aircraft crashed at Scawton on 16 March 1945 while returning from a raid on Hagen, with 5 killed and 2 admitted to Northallerton Hospital.",
+            "key_details": [
+                "Halifax III NR287",
+                "Aircraft code L8-C",
+                "Pilot: Cdt George Ostre",
+                "Crash date: 16 March 1945 (not just 'WW2')",
+                "Returning from Hagen raid",
+                "2 survivors admitted to Northallerton Hospital",
+                "Crew buried at Harrogate (Stonefall) then returned to France"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Yorkshire Air Museum",
+            "original_url": "https://yorkshireairmuseum.org/french-squadrons-in-elvington-during-wwii/",
+            "summary": "Yorkshire Air Museum page documenting the Free French squadrons at Elvington during WWII. 346 'Guyenne' and 347 'Tunisie' were the only French heavy bomber squadrons in the UK, formed from June 1944 and operating until October 1945.",
+            "key_details": [
+                "346 and 347 Squadrons were only Free French heavy bomber units in UK",
+                "Formed June 1944 at Elvington",
+                "Nearly half of squadron members killed",
+                "Yorkshire Air Museum is now on the former airfield"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Commands Archive",
+            "original_url": "https://www.rafcommands.com/archive/06655.php",
+            "summary": "RAF Commands archive page on 346 Squadron operations at Elvington, providing operational context for the Free French bomber squadrons and their missions from the Yorkshire base.",
+            "key_details": [
+                "RAF Commands archive reference 06655"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "York Stories",
+            "original_url": "http://yorkstories.co.uk/yorkshire-memorials/crash-sites-ww2-bombers/",
+            "summary": "York Stories page documenting WW2 bomber crash sites in Yorkshire, including the Scawton Halifax crash. Five Free French airmen died when their damaged Halifax flew into high ground west of Helmsley in zero visibility after being unable to land due to airfield congestion.",
+            "key_details": [
+                "Aircraft flew into high ground 5 miles west of Helmsley",
+                "Airfield congestion prevented landing",
+                "Zero visibility conditions"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Tail End Charlie (Ted Church)",
+            "original_url": "https://tailendcharlietedchurch.wordpress.com/raf-stations/77-squadron-elvington/elvington-4344/french/347-squadron/",
+            "summary": "Detailed research page on 347 'Tunisie' Squadron at Elvington. Halifax NR287 was built by E.E.C. Ltd at Salmesbury and delivered to 347 Squadron on 2 December 1944, only three months before it was lost at Scawton.",
+            "key_details": [
+                "NR287 built by E.E.C. Ltd at Salmesbury",
+                "Delivered to 347 Squadron 2 December 1944",
+                "Lost after only 3 months with the squadron"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Thirsk Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Scawton Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

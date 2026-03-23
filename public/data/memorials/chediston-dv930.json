@@ -1,45 +1,160 @@
 {
-  "id": "chediston-dv930",
-  "title": "Chediston Wellington Memorial",
-  "location_name": "Chediston, Suffolk",
-  "county": "Suffolk",
-  "country": "United Kingdom",
-  "region_code": "SF-003",
-  "crash_date": "1942-09-10",
-  "aircraft_type": "Wellington",
-  "serial_number": "DV930",
-  "squadron": "11 OTU",
-  "station": "Bassingbourn/Steeple Morden",
-  "crew_summary": "6 killed; pilot Sgt. Thomas F. Munro",
-  "memorial_type": "Stone marker",
-  "sources": [
-    {
-      "title": "Geograph Suffolk / IWM (memorial/72006)",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Complete",
-  "narrative": "On 10 September 1942, Wellington DV930 from No. 11 Operational Training Unit was on a training flight when it crashed near the village of Chediston in Suffolk. The OTU system was Bomber Command's pipeline for producing operational crews, and the training involved realistic exercises that carried genuine risks. The Wellington had departed from Steeple Morden, a satellite of Bassingbourn, and all six crew members were killed in the crash. A memorial at the crash site near Chediston commemorates the crew.",
-  "crew": [
-    {
-      "rank": "Sgt",
-      "name": "Thomas Frazer Munro",
-      "role": "Pilot",
-      "fate": "Killed"
+    "id": "chediston-dv930",
+    "title": "Chediston Wellington Memorial",
+    "location_name": "Chediston, Suffolk",
+    "county": "Suffolk",
+    "country": "United Kingdom",
+    "region_code": "SF-003",
+    "crash_date": "1942-09-10",
+    "aircraft_type": "Wellington Ic",
+    "serial_number": "DV930",
+    "aircraft_code": "TX-D",
+    "squadron": "11 OTU",
+    "station": "Bassingbourn/Steeple Morden",
+    "crew_summary": "5 killed (4 immediately, 1 died of injuries next day); pilot Sgt. Thomas F. Munro RNZAF",
+    "memorial_type": "Stone marker",
+    "sources": [
+        {
+            "title": "Geograph Suffolk",
+            "url": "https://www.geograph.org.uk/photo/6299009",
+            "type": "website"
+        },
+        {
+            "title": "IWM War Memorials Register",
+            "url": "https://www.iwm.org.uk/memorials/item/memorial/72006",
+            "type": "database"
+        },
+        {
+            "title": "Aircrew Remembered - Munro",
+            "url": "https://aircrewremembered.com/munro-thomas-fraser.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the night of 10/11 September 1942, Wellington DV930 (TX-D) took off from Steeple Morden at 21:05 as part of a 479-aircraft raid on Dusseldorf. The aircraft sustained damage over the target and on the return journey crashed into the stack yard at Herne Hill Farm near the village of Chediston in Suffolk at 23:45. Four crew members were killed on impact; a fifth, Sgt Andrew Renwick, was aided by local villagers but died of his injuries several hours later. The pilot, Sgt Thomas Fraser Munro, was a 31-year-old New Zealander serving with the RNZAF.",
+    "crew": [
+        {
+            "rank": "Sgt",
+            "name": "Thomas Fraser Munro",
+            "service_number": "NZ/415005",
+            "role": "Pilot",
+            "nationality": "New Zealander",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed when Wellington DV930 crashed at Herne Hill Farm, Chediston, returning from a raid on Dusseldorf.",
+            "cwgc_verified": true,
+            "bio": "Sgt Munro was a 31-year-old New Zealander serving with the RNZAF. He is commemorated on the Ipswich War Memorial.",
+            "hometown": "New Zealand",
+            "age": 31
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jack Foden Stanley",
+            "service_number": "NZ/41553",
+            "role": "Observer",
+            "nationality": "New Zealander",
+            "burial_location": "Ipswich Old Cemetery, Section C, Division 31, Grave 34",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Chediston. Buried at Ipswich Old Cemetery.",
+            "cwgc_verified": true,
+            "age": 20
+        },
+        {
+            "rank": "Sgt",
+            "name": "Andrew Scott Renwick",
+            "service_number": "1552246",
+            "role": "Air Bomber",
+            "nationality": "British",
+            "burial_location": "Camelon Cemetery, Section 12, Grave 421",
+            "fate": "Died of injuries",
+            "fate_detail": "Survived the initial crash but died of injuries hours later despite aid from local villagers. Buried at Camelon Cemetery.",
+            "cwgc_verified": true,
+            "age": 20
+        },
+        {
+            "rank": "Sgt",
+            "name": "Kenneth Hamilton Vigers",
+            "service_number": "1151773",
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "British",
+            "burial_location": "Little Stukeley Churchyard (St. Martin)",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Chediston. Buried at Little Stukeley Churchyard.",
+            "cwgc_verified": true,
+            "age": 24
+        },
+        {
+            "rank": "Sgt",
+            "name": "Robert Walter Freeman",
+            "service_number": "1334858",
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "British",
+            "burial_location": "Englefield Green Cemetery, Plot 10, Grave 1164",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Chediston. Buried at Englefield Green Cemetery.",
+            "cwgc_verified": true,
+            "age": 20
+        }
+    ],
+    "latitude": 52.3407,
+    "longitude": 1.4498,
+    "cause_of_loss": "Damaged over target during 479-aircraft raid on Dusseldorf; crashed on return at Herne Hill Farm, Chediston",
+    "operation_type": "Operational",
+    "operation_target": "Dusseldorf",
+    "memorial_details": "Memorial stone at the crash site near Chediston village, Suffolk.",
+    "maintainer": {
+        "organisation": "Chediston Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "name": "Five additional crew members",
-      "role": "Various",
-      "fate": "All killed"
-    }
-  ],
-  "latitude": 52.3407,
-  "longitude": 1.4498,
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial at crash site | | Location | Chediston, Suffolk |",
-  "maintainer": {
-    "organisation": "Chediston Parish Council",
-    "maintainer_type": "parish-council"
-  }
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/munro-thomas-fraser.html",
+            "summary": "Detailed account of Wellington DV930 (TX-O) from 11 OTU. The aircraft took off from Steeple Morden at 21:05 on 10 September 1942 and crashed in flames at Herne Hill Farm, Chediston at 23:45 after returning from a raid on Dusseldorf with damage sustained over the target.",
+            "key_details": [
+                "Part of 479-aircraft raid on Dusseldorf",
+                "Crashed into stack yard of Herne Hill Farm",
+                "Pilot Sgt Munro was RNZAF, aged 31",
+                "Aircraft returned with damage from target"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/72006",
+            "summary": "Imperial War Museums register entry for the memorial to the crew of Wellington DV930 at Chediston, Suffolk. Lists the crew names commemorated at the crash site.",
+            "key_details": [
+                "IWM memorial reference 72006"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Ipswich War Memorial",
+            "original_url": "https://www.ipswichwarmemorial.co.uk/thomas-fraser-munro/",
+            "summary": "Biographical entry for pilot Sgt Thomas Fraser Munro RNZAF, documenting his service and death in the Wellington DV930 crash at Chediston.",
+            "key_details": [
+                "Munro commemorated on Ipswich War Memorial",
+                "RNZAF pilot"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Bungay & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Chediston Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

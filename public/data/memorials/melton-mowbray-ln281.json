@@ -1,30 +1,92 @@
 {
-  "id": "melton-mowbray-ln281",
-  "title": "Melton Mowbray Wellington Memorial",
-  "location_name": "Melton Mowbray, Leicestershire",
-  "county": "Leicestershire",
-  "country": "United Kingdom",
-  "region_code": "LE-001",
-  "crash_date": "1944-08-13",
-  "aircraft_type": "Wellington",
-  "serial_number": "LN281",
-  "squadron": "14 OTU",
-  "station": "Market Harborough",
-  "crew_summary": "7 killed (1 survived); pilot Flg Off. Norman Owen, DFC",
-  "memorial_type": "Stone monument",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.4673941513089,
-  "longitude": -1.170443995747511,
-  "maintainer": {
-    "organisation": "Melton Mowbray Town Estate",
-    "maintainer_type": "parish-council"
-  }
+    "id": "melton-mowbray-ln281",
+    "title": "Melton Mowbray Wellington Memorial",
+    "location_name": "Melton Mowbray, Leicestershire",
+    "county": "Leicestershire",
+    "country": "United Kingdom",
+    "region_code": "LE-001",
+    "crash_date": "1944-08-13",
+    "aircraft_type": "Wellington",
+    "serial_number": "LN281",
+    "squadron": "14 OTU",
+    "station": "Market Harborough",
+    "crew_summary": "7 killed (1 survived); pilot Flg Off. Norman Owen, DFC",
+    "memorial_type": "Stone monument",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.4673941513089,
+    "longitude": -1.170443995747511,
+    "maintainer": {
+        "organisation": "Melton Mowbray Town Estate",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Aircrewremembered.com",
+            "original_url": "https://aircrewremembered.com/owen-norman.html",
+            "summary": "Detailed account of Wellington LN281's loss on 13 August 1944. F/O Norman Owen DFC was an experienced pilot who had completed 36 operational sorties as a Lancaster pilot with 207 Squadron at RAF Spilsby before becoming an instructor at 14 OTU Market Harborough. The starboard engine failed during a cross-country exercise and bombing detail; too low to bail out, Owen attempted an emergency circuit on one engine but the aircraft stalled and crashed between Saxby Road and Thorpe Road, four miles from Melton airfield.",
+            "key_details": [
+                "Owen completed 36 ops with 207 Sqn at RAF Spilsby",
+                "DFC for full operational tour on Lancasters",
+                "Starboard engine failure",
+                "Aircraft stalled attempting single-engine circuit",
+                "Crashed between Saxby Road and Thorpe Road",
+                "Sgt George Henry Raby was sole survivor"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAFA Melton Mowbray Branch",
+            "original_url": "https://branch.rafa.org.uk/melton-mowbray/what-we-do/we-will-remember-them/wellington-ln281-memorial",
+            "summary": "RAFA branch page documenting the Wellington LN281 memorial and the crew who died. Provides context about the memorial's significance to the Melton Mowbray community.",
+            "key_details": [
+                "RAFA involvement in memorial upkeep",
+                "Local community remembrance"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/73422/Memorial-Wellington-LN281.htm",
+            "summary": "International war heritage database entry for the Wellington LN281 memorial at Melton Mowbray, with location details and photographs.",
+            "key_details": [
+                "Documented on international heritage database"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "HistoryFare",
+            "original_url": "https://historyfare.co.uk/tag/ln281/",
+            "summary": "HistoryFare research articles covering the Wellington LN281 crash, 14 OTU operations, and the broader context of training accidents at RAF Melton Mowbray during WW2.",
+            "key_details": [
+                "Training accident context documented",
+                "14 OTU operational history covered"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Melton Mowbray Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
+        },
+        {
+            "org_name": "Melton Mowbray Town Estate",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ]
 }

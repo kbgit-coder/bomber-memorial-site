@@ -8,20 +8,31 @@
   "crash_date": "1945-03-04",
   "aircraft_type": "Lancaster",
   "serial_number": "ME442",
+  "aircraft_code": "KM-V",
   "squadron": "44 Sqdn.",
   "station": "Spilsby",
-  "crew_summary": "7 killed including pilot Plt Off. John Joseph F. Ryan",
+  "crew_summary": "7 killed including pilot F/O John Joseph F. Ryan RAAF, aged 33",
   "memorial_type": "Wellingtonia/Lancaster memorial",
   "sources": [
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - Ryan",
+      "url": "https://aircrewremembered.com/ryan-john.html",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/34838",
+      "type": "database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "The night of 3/4 March 1945 was one of the most extraordinary and little-known episodes of the air war. F/O Jack Ryan, a 33-year-old Australian, took off from RAF Spilsby at 18:42 to join 212 Lancasters attacking the Ladbergen aqueducts on the Dortmund-Ems Canal. The raid was successful -- over 100 metres of canal bank destroyed, both aqueducts in ruins. But as the bombers turned for home, something unprecedented happened. The Luftwaffe launched Operation Gisela: approximately 200 German night fighters followed the bomber stream back across the North Sea and prowled the skies over eastern England, attacking bombers as they approached their home airfields with navigation lights on and undercarriages down. It was a reversal of every established tactic. At 01:00 hours, with Lincolnshire spread out below and safety minutes away, a Ju88C found Lancaster ME442. The German pilot attacked, and the Lancaster crashed into Grannington Park on the Brocklesby Estate, among ancient trees. All seven crew were killed. The youngest were 19-year-old flight engineer Thomas Jarman and 19-year-old rear gunner William Rogan. Ryan, at 33, was one of the older pilots still flying operations. The Earl of Yarborough, owner of the Brocklesby Estate, was so moved that he commissioned a copper and bronze plaque giving the names of all seven crew, and had it attached to a large tree that had been snapped off by the explosion of the crashing Lancaster.",
+  "narrative": "The night of 3/4 March 1945 was one of the most extraordinary and little-known episodes of the air war. F/O Jack Ryan, a 33-year-old Australian, took off from RAF Spilsby at 18:42 to join 212 Lancasters attacking the Ladbergen aqueducts on the Dortmund-Ems Canal. The raid was successful — over 100 metres of canal bank destroyed, both aqueducts in ruins. But as the bombers turned for home, something unprecedented happened. The Luftwaffe launched Operation Gisela: approximately 200 German night fighters followed the bomber stream back across the North Sea and prowled the skies over eastern England, attacking bombers as they approached their home airfields with navigation lights on and undercarriages down. It was a reversal of every established tactic. At 01:00 hours, with Lincolnshire spread out below and safety minutes away, a Ju88C found Lancaster ME442. The German pilot attacked, and the Lancaster crashed into Grannington Park on the Brocklesby Estate, among ancient trees. All seven crew were killed.",
   "crew": [
     {
       "rank": "F/O",
@@ -31,7 +42,10 @@
       "role": "Pilot",
       "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 15718",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Shot down by Ju88C during Operation Gisela. At 33, one of the older pilots still flying operations.",
+      "cwgc_verified": true,
+      "bio": "F/O 'Jack' Ryan was a 33-year-old Australian serving with the RAAF."
     },
     {
       "rank": "Sgt",
@@ -41,7 +55,9 @@
       "role": "Flight Engineer",
       "nationality": "British",
       "burial_location": "Stretford Cemetery, Lancashire, Sec W, Grave 40",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "At 19, tied as youngest crew member. Buried at Stretford Cemetery.",
+      "cwgc_verified": true
     },
     {
       "rank": "Fl/Sgt",
@@ -51,7 +67,9 @@
       "role": "Navigator",
       "nationality": "British",
       "burial_location": "Hove New Cemetery, Sussex, Block 3, Grave 125",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Buried at Hove New Cemetery, Sussex.",
+      "cwgc_verified": true
     },
     {
       "rank": "Fl/Sgt",
@@ -61,7 +79,9 @@
       "role": "Air Bomber",
       "nationality": "British",
       "burial_location": "Birmingham (Brandwood End) Cemetery, Sec 26, Grave 10361",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Buried at Brandwood End Cemetery, Birmingham.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -71,7 +91,9 @@
       "role": "W/Op Air Gunner",
       "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 15717",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "Buried at Cambridge City Cemetery alongside pilot Ryan.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -81,7 +103,9 @@
       "role": "Air Gunner",
       "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 8, Grave 241",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "At 29, one of the older crew. Buried at Liverpool (Kirkdale) Cemetery.",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
@@ -91,17 +115,65 @@
       "role": "Air Gunner",
       "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 27C, Grave 328",
-      "fate": "Killed"
+      "fate": "Killed",
+      "fate_detail": "At 19, tied as youngest crew member. Buried at Liverpool (Kirkdale) Cemetery.",
+      "cwgc_verified": true
     }
   ],
   "cause_of_loss": "Shot down by Ju88C night fighter during Operation Gisela (Luftwaffe intruder operation over England)",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing Ladbergen aqueducts (Dortmund-Ems Canal)",
-  "memorial_details": "The memorial is a copper and bronze plaque mounted on a Wellingtonia tree trunk in Grannington Park on the Brocklesby Estate, near Great Limber. Commissioned by the Earl of Yarborough. The site is on private estate land but accessible by arrangement. A 75th anniversary commemoration service was held in March 2020 in the woodland. Condition: maintained by the estate.",
+  "memorial_details": "The memorial is a copper and bronze plaque mounted on a Wellingtonia tree trunk in Grannington Park on the Brocklesby Estate, near Great Limber. Commissioned by the Earl of Yarborough. A 75th anniversary commemoration service was held in March 2020.",
   "latitude": 53.1116095577108,
   "longitude": -0.44723415064072,
   "maintainer": {
     "organisation": "Brocklesby Parish Meeting",
     "maintainer_type": "parish-council"
-  }
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/ryan-john.html",
+      "summary": "Comprehensive account of the loss of Lancaster ME442 KM-V during Operation Gisela.",
+      "key_details": [
+        "Aircraft code: KM-V",
+        "Part of Operation Gisela"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC",
+      "original_url": "https://internationalbcc.co.uk/about-ibcc/news/brocklesby-lancaster-crash/",
+      "summary": "75th anniversary commemoration at Brocklesby Estate, March 2020.",
+      "key_details": [
+        "75th anniversary commemoration held March 2020"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "44 Squadron Association",
+      "original_url": "https://44sqn.com/newsletters/sept-2020-newsletter/memorial/",
+      "summary": "Plaque commissioned by Earl of Yarborough, site treated as consecrated ground.",
+      "key_details": [
+        "Plaque commissioned by Earl of Yarborough",
+        "Site treated as consecrated ground"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/34838",
+      "summary": "IWM records the memorial to the crew of Lancaster ME442.",
+      "key_details": [
+        "IWM reference: memorial/34838"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/No._44_Squadron_RAF.png",
+  "squadron_motto": "The King's thunderbolts are righteous"
 }
