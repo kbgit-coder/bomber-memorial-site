@@ -1,91 +1,92 @@
 {
-  "id": "caythorpe-station-pb812",
-  "title": "Caythorpe Station Lancaster Memorial",
-  "location_name": "Caythorpe Station, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-007",
-  "crash_date": "1945-02-10",
-  "aircraft_type": "Lancaster",
-  "serial_number": "PB812",
-  "squadron": "460 (RAAF) Sqdn.",
-  "station": "Binbrook",
-  "crew_summary": "6 killed; pilot Plt Off. Richard Albert George Miller",
-  "memorial_type": "Memorial plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.13848894467595,
-  "longitude": -0.19929292345752694,
-  "maintainer": {
-    "organisation": "Caythorpe and Frieston Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "International Bomber Command Centre",
-      "original_url": "https://internationalbcc.co.uk/about-ibcc/news/lancaster-pb812-ar-y/",
-      "summary": "IBCC feature on Lancaster PB812 AR-Y of 460 Squadron RAAF. Six crew killed on 10 February 1945 during a daytime navigation training flight from Binbrook. The aircraft was seen diving vertically over Caythorpe with flames from both wings.",
-      "key_details": [
-        "All crew RAAF except RAF flight engineer",
-        "No operations that day, crew on training sortie",
-        "Bomb aimer Arnold Kloeden absent due to illness, survived"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "caythorpe-station-pb812",
+    "title": "Caythorpe Station Lancaster Memorial",
+    "location_name": "Caythorpe Station, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-007",
+    "crash_date": "1945-02-10",
+    "aircraft_type": "Lancaster",
+    "serial_number": "PB812",
+    "squadron": "460 (RAAF) Sqdn.",
+    "station": "Binbrook",
+    "crew_summary": "6 killed; pilot Plt Off. Richard Albert George Miller",
+    "memorial_type": "Memorial plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.13848894467595,
+    "longitude": -0.19929292345752694,
+    "maintainer": {
+        "organisation": "Caythorpe and Frieston Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/252907/",
-      "summary": "Memorial record for Lancaster PB812. Two plaques unveiled on 10 September 2016: one at St Vincent's Church and one on Love Lane near the crash site, organised by Linda Pope, niece of crew member Rhod Pope.",
-      "key_details": [
-        "Memorial service 10 September 2016",
-        "Organised by Rhod Pope's niece Linda Pope",
-        "Two plaques: church and crash site on Love Lane"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/84934",
-      "summary": "Imperial War Museums register entry for the crew of Lancaster PB812 memorial plaque at Caythorpe Station, Lincolnshire.",
-      "key_details": [
-        "IWM memorial reference 84934"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "TracesOfWar",
-      "original_url": "https://www.tracesofwar.com/sights/89844/Memorial-Crash-Lancaster-PB-812.htm",
-      "summary": "International memorial database entry for the Lancaster PB812 crash memorial at Caythorpe, documenting the crash location and crew details.",
-      "key_details": [
-        "International documentation of the memorial"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Sleaford & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Caythorpe and Frieston Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/460_Sqn_RAAF.png",
-  "squadron_motto": "Strike and return"
+    "external_narratives": [
+        {
+            "source_site": "International Bomber Command Centre",
+            "original_url": "https://internationalbcc.co.uk/about-ibcc/news/lancaster-pb812-ar-y/",
+            "summary": "IBCC feature on Lancaster PB812 AR-Y of 460 Squadron RAAF. Six crew killed on 10 February 1945 during a daytime navigation training flight from Binbrook. The aircraft was seen diving vertically over Caythorpe with flames from both wings.",
+            "key_details": [
+                "All crew RAAF except RAF flight engineer",
+                "No operations that day, crew on training sortie",
+                "Bomb aimer Arnold Kloeden absent due to illness, survived"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/252907/",
+            "summary": "Memorial record for Lancaster PB812. Two plaques unveiled on 10 September 2016: one at St Vincent's Church and one on Love Lane near the crash site, organised by Linda Pope, niece of crew member Rhod Pope.",
+            "key_details": [
+                "Memorial service 10 September 2016",
+                "Organised by Rhod Pope's niece Linda Pope",
+                "Two plaques: church and crash site on Love Lane"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/84934",
+            "summary": "Imperial War Museums register entry for the crew of Lancaster PB812 memorial plaque at Caythorpe Station, Lincolnshire.",
+            "key_details": [
+                "IWM memorial reference 84934"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar",
+            "original_url": "https://www.tracesofwar.com/sights/89844/Memorial-Crash-Lancaster-PB-812.htm",
+            "summary": "International memorial database entry for the Lancaster PB812 crash memorial at Caythorpe, documenting the crash location and crew details.",
+            "key_details": [
+                "International documentation of the memorial"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Sleaford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Caythorpe and Frieston Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/460.jpg",
+    "squadron_motto": "Strike and return",
+    "what3words": "manicured.committee.snow"
 }

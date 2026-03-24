@@ -1,276 +1,277 @@
 {
-  "id": "coveney-double-lancaster-crash-ll667-and-lancaster-ll867",
-  "title": "Coveney (double Lancaster crash) Lancaster Memorial",
-  "location_name": "Coveney (double Lancaster crash), Cambridgeshire",
-  "county": "Cambridgeshire",
-  "country": "United Kingdom",
-  "region_code": "CB-003",
-  "os_grid_reference": "TL4882",
-  "crash_date": "1944-04-19",
-  "aircraft_type": "Lancaster",
-  "serial_number": "LL667 and Lancaster LL867",
-  "squadron": "115 Squadron",
-  "station": "Witchford",
-  "crew_summary": "14 killed (7 each aircraft)",
-  "memorial_type": "Double memorial",
-  "sources": [
-    {
-      "title": "Geograph Cambridgeshire",
-      "url": "https://www.geograph.org.uk/photo/6371954",
-      "type": "website"
+    "id": "coveney-double-lancaster-crash-ll667-and-lancaster-ll867",
+    "title": "Coveney (double Lancaster crash) Lancaster Memorial",
+    "location_name": "Coveney (double Lancaster crash), Cambridgeshire",
+    "county": "Cambridgeshire",
+    "country": "United Kingdom",
+    "region_code": "CB-003",
+    "os_grid_reference": "TL4882",
+    "crash_date": "1944-04-19",
+    "aircraft_type": "Lancaster",
+    "serial_number": "LL667 and Lancaster LL867",
+    "squadron": "115 Squadron",
+    "station": "Witchford",
+    "crew_summary": "14 killed (7 each aircraft)",
+    "memorial_type": "Double memorial",
+    "sources": [
+        {
+            "title": "Geograph Cambridgeshire",
+            "url": "https://www.geograph.org.uk/photo/6371954",
+            "type": "website"
+        },
+        {
+            "title": "115 Squadron RAF (Belgian archive)",
+            "url": "https://115squadron-raf.be/crews/Lancaster%20Mk%20II%20-%20LL667%20-%20KO-R.html",
+            "type": "website"
+        },
+        {
+            "title": "Coveney Community Archive",
+            "url": "https://coveney.ccan.co.uk/content/catalogue_item/memoriam-to-the-lancasters-brought-down-in-coveney-parish-date-of-crash-used",
+            "type": "website"
+        },
+        {
+            "title": "War Memorials Online",
+            "url": "https://www.warmemorialsonline.org.uk/memorial/264493/",
+            "type": "database"
+        },
+        {
+            "title": "Find a Grave - Fl/Lt Charlie Eddy",
+            "url": "https://www.findagrave.com/memorial/32378793/charlie-eddy",
+            "type": "database"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the night of 18/19 April 1944, 115 Squadron at RAF Witchford sent twenty-six Lancasters to bomb the railway marshalling yards at Rouen in France. The raid was completed successfully, but as the bombers returned to their Cambridgeshire base, Luftwaffe Me 410 intruder night fighters were waiting over the circuit. Two Lancasters were intercepted and shot down within sight of their home airfield. Lancaster LL667 KO-R, piloted by twenty-year-old Pilot Officer John Birnie, was caught in the circuit at approximately 02:10 and crashed at Common Farm, Witchford. All seven crew were killed. Less than forty minutes later, at 02:48, Lancaster LL867 A4-J, piloted by Flight Lieutenant Charlie Eddy of the Royal New Zealand Air Force, was also intercepted and shot down, crashing near Ely. Again, all seven crew were killed. The fourteen young men -- drawn from Britain, Canada, New Zealand, and Australia -- had completed their mission and were within minutes of safety when they died. A memorial plaque in St Peter ad Vincula church at Coveney commemorates all fourteen aircrew.",
+    "crew": [
+        {
+            "rank": "P/O",
+            "name": "John Birnie",
+            "service_number": "173326 RAFVR",
+            "age": 20,
+            "role": "Pilot (LL667)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed when Lancaster LL667 KO-R was shot down by Me 410 intruder in the circuit at RAF Witchford at 02:10 on 19 April 1944.",
+            "burial_location": "Cambridge City Cemetery",
+            "bio": "A twenty-year-old pilot from Britain, Birnie was flying Lancaster LL667 KO-R on operations to Rouen when his aircraft was intercepted returning to base.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jack Ferguson",
+            "service_number": "1501340 RAFVR",
+            "age": 19,
+            "role": "Flight Engineer (LL667)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "David Lloyd Jones",
+            "service_number": "RAFVR",
+            "age": 30,
+            "role": "Navigator (LL667)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "Ernest Kerwin",
+            "service_number": "1540856 RAFVR",
+            "age": 30,
+            "role": "Wireless Operator (LL667)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667. Kerwin was from Wakefield, Yorkshire.",
+            "hometown": "Wakefield, Yorkshire",
+            "burial_location": "Cambridge City Cemetery",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "P/O",
+            "name": "Arnold Lepine",
+            "service_number": "J92605 RCAF",
+            "age": 27,
+            "role": "Bomb Aimer (LL667)",
+            "nationality": "American (serving with RCAF)",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667. An American serving with the Royal Canadian Air Force.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "William James MacMillan",
+            "service_number": "R209012 RCAF",
+            "age": 19,
+            "role": "Mid Upper Gunner (LL667)",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "George Edward Bailey",
+            "service_number": "1868473 RAFVR",
+            "age": 23,
+            "role": "Rear Gunner (LL667)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "F/Lt",
+            "name": "Charlie Eddy",
+            "service_number": "RNZAF",
+            "role": "Pilot (LL867)",
+            "nationality": "New Zealander",
+            "fate": "Killed",
+            "fate_detail": "Killed when Lancaster LL867 A4-J was shot down by Me 410 intruder near Ely at 02:48 on 19 April 1944.",
+            "burial_location": "Cambridge City Cemetery",
+            "bio": "A New Zealand pilot serving with the RNZAF, Eddy was commanding Lancaster LL867 on the return from Rouen when intercepted by Luftwaffe intruders.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "WO II",
+            "name": "Henry Bennis",
+            "service_number": "RCAF",
+            "role": "Air Gunner (LL867)",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "burial_location": "Cambridge City Cemetery",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "Alfred Frank Langridge",
+            "service_number": "RAFVR",
+            "role": "Crew (LL867)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "Peter John Edward Maddox",
+            "service_number": "RAFVR",
+            "role": "Crew (LL867)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "William Leslie Murphy",
+            "service_number": "RAFVR",
+            "role": "Crew (LL867)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "Sgt",
+            "name": "Harold Edward George Pugh",
+            "service_number": "RAF",
+            "role": "Crew (LL867)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "cwgc_verified": false
+        },
+        {
+            "rank": "F/O",
+            "name": "Albert Smith",
+            "service_number": "RAFVR",
+            "role": "Crew (LL867)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
+            "cwgc_verified": false
+        }
+    ],
+    "cause_of_loss": "Both aircraft shot down by Luftwaffe Me 410 intruder night fighters while in the circuit at RAF Witchford, returning from operations over Rouen",
+    "operation_type": "Operational",
+    "operation_target": "Railway marshalling yards at Rouen, France",
+    "memorial_details": "Memorial plaque in St Peter ad Vincula church, Coveney, commemorating all fourteen aircrew from both Lancaster LL667 and LL867 killed on the night of 19 April 1944. The church memorial lists all crew names from both aircraft.",
+    "latitude": 52.267168493387224,
+    "longitude": 0.04224725911114649,
+    "maintainer": {
+        "organisation": "Coveney Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "115 Squadron RAF (Belgian archive)",
-      "url": "https://115squadron-raf.be/crews/Lancaster%20Mk%20II%20-%20LL667%20-%20KO-R.html",
-      "type": "website"
-    },
-    {
-      "title": "Coveney Community Archive",
-      "url": "https://coveney.ccan.co.uk/content/catalogue_item/memoriam-to-the-lancasters-brought-down-in-coveney-parish-date-of-crash-used",
-      "type": "website"
-    },
-    {
-      "title": "War Memorials Online",
-      "url": "https://www.warmemorialsonline.org.uk/memorial/264493/",
-      "type": "database"
-    },
-    {
-      "title": "Find a Grave - Fl/Lt Charlie Eddy",
-      "url": "https://www.findagrave.com/memorial/32378793/charlie-eddy",
-      "type": "database"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the night of 18/19 April 1944, 115 Squadron at RAF Witchford sent twenty-six Lancasters to bomb the railway marshalling yards at Rouen in France. The raid was completed successfully, but as the bombers returned to their Cambridgeshire base, Luftwaffe Me 410 intruder night fighters were waiting over the circuit. Two Lancasters were intercepted and shot down within sight of their home airfield. Lancaster LL667 KO-R, piloted by twenty-year-old Pilot Officer John Birnie, was caught in the circuit at approximately 02:10 and crashed at Common Farm, Witchford. All seven crew were killed. Less than forty minutes later, at 02:48, Lancaster LL867 A4-J, piloted by Flight Lieutenant Charlie Eddy of the Royal New Zealand Air Force, was also intercepted and shot down, crashing near Ely. Again, all seven crew were killed. The fourteen young men -- drawn from Britain, Canada, New Zealand, and Australia -- had completed their mission and were within minutes of safety when they died. A memorial plaque in St Peter ad Vincula church at Coveney commemorates all fourteen aircrew.",
-  "crew": [
-    {
-      "rank": "P/O",
-      "name": "John Birnie",
-      "service_number": "173326 RAFVR",
-      "age": 20,
-      "role": "Pilot (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed when Lancaster LL667 KO-R was shot down by Me 410 intruder in the circuit at RAF Witchford at 02:10 on 19 April 1944.",
-      "burial_location": "Cambridge City Cemetery",
-      "bio": "A twenty-year-old pilot from Britain, Birnie was flying Lancaster LL667 KO-R on operations to Rouen when his aircraft was intercepted returning to base.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Jack Ferguson",
-      "service_number": "1501340 RAFVR",
-      "age": 19,
-      "role": "Flight Engineer (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "David Lloyd Jones",
-      "service_number": "RAFVR",
-      "age": 30,
-      "role": "Navigator (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Ernest Kerwin",
-      "service_number": "1540856 RAFVR",
-      "age": 30,
-      "role": "Wireless Operator (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667. Kerwin was from Wakefield, Yorkshire.",
-      "hometown": "Wakefield, Yorkshire",
-      "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "P/O",
-      "name": "Arnold Lepine",
-      "service_number": "J92605 RCAF",
-      "age": 27,
-      "role": "Bomb Aimer (LL667)",
-      "nationality": "American (serving with RCAF)",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667. An American serving with the Royal Canadian Air Force.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "William James MacMillan",
-      "service_number": "R209012 RCAF",
-      "age": 19,
-      "role": "Mid Upper Gunner (LL667)",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "George Edward Bailey",
-      "service_number": "1868473 RAFVR",
-      "age": 23,
-      "role": "Rear Gunner (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Lt",
-      "name": "Charlie Eddy",
-      "service_number": "RNZAF",
-      "role": "Pilot (LL867)",
-      "nationality": "New Zealander",
-      "fate": "Killed",
-      "fate_detail": "Killed when Lancaster LL867 A4-J was shot down by Me 410 intruder near Ely at 02:48 on 19 April 1944.",
-      "burial_location": "Cambridge City Cemetery",
-      "bio": "A New Zealand pilot serving with the RNZAF, Eddy was commanding Lancaster LL867 on the return from Rouen when intercepted by Luftwaffe intruders.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "WO II",
-      "name": "Henry Bennis",
-      "service_number": "RCAF",
-      "role": "Air Gunner (LL867)",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Alfred Frank Langridge",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "Peter John Edward Maddox",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "William Leslie Murphy",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Harold Edward George Pugh",
-      "service_number": "RAF",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/O",
-      "name": "Albert Smith",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    }
-  ],
-  "cause_of_loss": "Both aircraft shot down by Luftwaffe Me 410 intruder night fighters while in the circuit at RAF Witchford, returning from operations over Rouen",
-  "operation_type": "Operational",
-  "operation_target": "Railway marshalling yards at Rouen, France",
-  "memorial_details": "Memorial plaque in St Peter ad Vincula church, Coveney, commemorating all fourteen aircrew from both Lancaster LL667 and LL867 killed on the night of 19 April 1944. The church memorial lists all crew names from both aircraft.",
-  "latitude": 52.267168493387224,
-  "longitude": 0.04224725911114649,
-  "maintainer": {
-    "organisation": "Coveney Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Coveney Community Archive",
-      "original_url": "https://coveney.ccan.co.uk/content/catalogue_item/memoriam-to-the-lancasters-brought-down-in-coveney-parish-date-of-crash-used",
-      "summary": "Community archive record of the double Lancaster loss in Coveney parish on 19 April 1944. Lancasters LL667 and LL867 of 115 Squadron were shot down by Luftwaffe Me 410 intruders as they returned to RAF Witchford from a raid on Rouen, crashing within a mile of their home base.",
-      "key_details": [
-        "Both shot down by Me 410 intruders",
-        "Returning from raid on Rouen",
-        "LL667 crashed at Common Farm, Witchford at 02:10",
-        "LL867 crashed near Ely at 02:48"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264493/",
-      "summary": "Memorial plaque record for the two 115 Squadron Lancaster crews at Coveney. The memorial in the village church commemorates all 14 aircrew killed in the two crashes on the night of 19 April 1944.",
-      "key_details": [
-        "Memorial plaque in Coveney village church",
-        "14 aircrew commemorated (7 each aircraft)"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://asn.flightsafety.org/wikibase/234601",
-      "summary": "Accident record for Lancaster Mk II LL667 of 115 Squadron shot down on 19 April 1944. Documents the loss as combat-related, intercepted by night intruder aircraft.",
-      "key_details": [
-        "Lancaster Mk II variant",
-        "Shot down near home base"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "115 Squadron RAF (Belgian archive)",
-      "original_url": "https://115squadron-raf.be/crews/Lancaster%20Mk%20II%20-%20LL667%20-%20KO-R.html",
-      "summary": "Squadron records for Lancaster LL667 KO-R of 115 Squadron. Provides crew listing and operational history of the aircraft prior to its loss on the night of 19 April 1944.",
-      "key_details": [
-        "Aircraft code KO-R",
-        "Squadron records from Belgian archive"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "City of Ely Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-    },
-    {
-      "org_name": "Coveney Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/No._15_Squadron_RAF.png/300px-No._15_Squadron_RAF.png",
-  "squadron_motto": "Aim Sure"
+    "external_narratives": [
+        {
+            "source_site": "Coveney Community Archive",
+            "original_url": "https://coveney.ccan.co.uk/content/catalogue_item/memoriam-to-the-lancasters-brought-down-in-coveney-parish-date-of-crash-used",
+            "summary": "Community archive record of the double Lancaster loss in Coveney parish on 19 April 1944. Lancasters LL667 and LL867 of 115 Squadron were shot down by Luftwaffe Me 410 intruders as they returned to RAF Witchford from a raid on Rouen, crashing within a mile of their home base.",
+            "key_details": [
+                "Both shot down by Me 410 intruders",
+                "Returning from raid on Rouen",
+                "LL667 crashed at Common Farm, Witchford at 02:10",
+                "LL867 crashed near Ely at 02:48"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264493/",
+            "summary": "Memorial plaque record for the two 115 Squadron Lancaster crews at Coveney. The memorial in the village church commemorates all 14 aircrew killed in the two crashes on the night of 19 April 1944.",
+            "key_details": [
+                "Memorial plaque in Coveney village church",
+                "14 aircrew commemorated (7 each aircraft)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://asn.flightsafety.org/wikibase/234601",
+            "summary": "Accident record for Lancaster Mk II LL667 of 115 Squadron shot down on 19 April 1944. Documents the loss as combat-related, intercepted by night intruder aircraft.",
+            "key_details": [
+                "Lancaster Mk II variant",
+                "Shot down near home base"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "115 Squadron RAF (Belgian archive)",
+            "original_url": "https://115squadron-raf.be/crews/Lancaster%20Mk%20II%20-%20LL667%20-%20KO-R.html",
+            "summary": "Squadron records for Lancaster LL667 KO-R of 115 Squadron. Provides crew listing and operational history of the aircraft prior to its loss on the night of 19 April 1944.",
+            "key_details": [
+                "Aircraft code KO-R",
+                "Squadron records from Belgian archive"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "City of Ely Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+        },
+        {
+            "org_name": "Coveney Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/115.jpg",
+    "squadron_motto": "Despite the elements",
+    "what3words": "ruling.zoomed.roaming"
 }

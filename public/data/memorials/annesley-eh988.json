@@ -1,196 +1,195 @@
 {
-  "id": "annesley-eh988",
-  "title": "Annesley Stirling Memorial",
-  "location_name": "Annesley, Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-001",
-  "crash_date": "1945-01-14",
-  "aircraft_type": "Stirling",
-  "serial_number": "EH988",
-  "squadron": "1661 HCU",
-  "station": "Winthorpe",
-  "crew_summary": "5 killed including pilot Sqn Ldr. Stephen Legh Cockbain, DFC",
-  "memorial_type": "Stone memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "annesley-eh988",
+    "title": "Annesley Stirling Memorial",
+    "location_name": "Annesley, Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-001",
+    "crash_date": "1945-01-14",
+    "aircraft_type": "Stirling",
+    "serial_number": "EH988",
+    "squadron": "1661 HCU",
+    "station": "Winthorpe",
+    "crew_summary": "5 killed including pilot Sqn Ldr. Stephen Legh Cockbain, DFC",
+    "memorial_type": "Stone memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "CWGC - Oxford (Botley) Cemetery",
+            "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/43167/oxford-botley-cemetery/",
+            "type": "database"
+        },
+        {
+            "title": "TracesOfWar - Cockbain, Stephen Legh",
+            "url": "https://www.tracesofwar.com/persons/63120/Cockbain-Stephen-Legh.htm",
+            "type": "database"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "By January 1945, the Short Stirling was obsolete as a front-line bomber and was being withdrawn from service. Stirling EH988 of 1661 HCU at RAF Winthorpe was being ferried to Maghaberry in Northern Ireland for scrapping. Squadron Leader Cockbain, an experienced pilot who had been \"rested\" from operations and posted to Ferry Command, was at the controls. Shortly after takeoff, one of the starboard engines caught fire. Witnesses saw the aircraft begin to turn, the turn becoming increasingly steep. The Stirling entered cloud and went into an uncontrollable diving turn, crashing at Home Farm on the Annesley Park estate near Mansfield. All five crew members were killed. The crash was grimly ironic — these men died not on a bombing raid or training flight, but while delivering a worn-out aircraft to be broken up. The Stirling, with its relatively short wingspan and underpowered engines, was notoriously difficult to fly on asymmetric power when an engine failed — a fatal characteristic that claimed many crews.",
+    "crew": [
+        {
+            "rank": "S/Ldr",
+            "name": "Stephen Legh Cockbain",
+            "service_number": "67707",
+            "role": "Pilot",
+            "nationality": "British",
+            "burial_location": "Oxford (Botley) Cemetery, Plot H/1, Grave 249",
+            "fate": "Killed",
+            "fate_detail": "Killed when Stirling EH988 crashed at Home Farm, Annesley Park estate. Buried at Oxford (Botley) Cemetery.",
+            "cwgc_url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/43167/oxford-botley-cemetery/",
+            "cwgc_verified": true,
+            "bio": "Squadron Leader Cockbain held the Distinguished Flying Cross, indicating previous distinguished service on operations. He had been rested from front-line duties and was serving with Ferry Command at 1661 HCU, Winthorpe. He was 28 years old at the time of the crash.",
+            "age": 28,
+            "decorations": [
+                "DFC"
+            ]
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "T.A. Ball",
+            "service_number": "1874899",
+            "role": "Crew",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
+            "cwgc_verified": false,
+            "age": 20
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "E.C. Barton",
+            "service_number": "1587047",
+            "role": "Crew",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
+            "cwgc_verified": false,
+            "age": 21
+        },
+        {
+            "rank": "Sgt",
+            "name": "K. Harris",
+            "service_number": "1651299",
+            "role": "Crew",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
+            "cwgc_verified": false,
+            "age": 22
+        },
+        {
+            "rank": "Sgt",
+            "name": "J. Littlemore",
+            "service_number": "2204311",
+            "role": "Crew",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
+            "cwgc_verified": false,
+            "age": 19
+        }
+    ],
+    "latitude": 53.0711,
+    "longitude": -1.2422,
+    "cause_of_loss": "Starboard engine fire; aircraft entered cloud in steep diving turn and crashed",
+    "operation_type": "Training",
+    "memorial_details": "A memorial garden was established at the Priory Hospital site (formerly Annesley Park) and dedicated on 16 September 1998, unveiled by Group Captain Cook with RAF veterans and surviving family members present. The memorial includes a stone of remembrance, a memorial bench, and an interpretive panel featuring a photograph of a Stirling bomber. The site is accessible to visitors at Priory Hospital.",
+    "maintainer": {
+        "organisation": "Annesley and Felley Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "CWGC - Oxford (Botley) Cemetery",
-      "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/43167/oxford-botley-cemetery/",
-      "type": "database"
-    },
-    {
-      "title": "TracesOfWar - Cockbain, Stephen Legh",
-      "url": "https://www.tracesofwar.com/persons/63120/Cockbain-Stephen-Legh.htm",
-      "type": "database"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "By January 1945, the Short Stirling was obsolete as a front-line bomber and was being withdrawn from service. Stirling EH988 of 1661 HCU at RAF Winthorpe was being ferried to Maghaberry in Northern Ireland for scrapping. Squadron Leader Cockbain, an experienced pilot who had been \"rested\" from operations and posted to Ferry Command, was at the controls. Shortly after takeoff, one of the starboard engines caught fire. Witnesses saw the aircraft begin to turn, the turn becoming increasingly steep. The Stirling entered cloud and went into an uncontrollable diving turn, crashing at Home Farm on the Annesley Park estate near Mansfield. All five crew members were killed. The crash was grimly ironic — these men died not on a bombing raid or training flight, but while delivering a worn-out aircraft to be broken up. The Stirling, with its relatively short wingspan and underpowered engines, was notoriously difficult to fly on asymmetric power when an engine failed — a fatal characteristic that claimed many crews.",
-  "crew": [
-    {
-      "rank": "S/Ldr",
-      "name": "Stephen Legh Cockbain",
-      "service_number": "67707",
-      "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "Oxford (Botley) Cemetery, Plot H/1, Grave 249",
-      "fate": "Killed",
-      "fate_detail": "Killed when Stirling EH988 crashed at Home Farm, Annesley Park estate. Buried at Oxford (Botley) Cemetery.",
-      "cwgc_url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/43167/oxford-botley-cemetery/",
-      "cwgc_verified": true,
-      "bio": "Squadron Leader Cockbain held the Distinguished Flying Cross, indicating previous distinguished service on operations. He had been rested from front-line duties and was serving with Ferry Command at 1661 HCU, Winthorpe. He was 28 years old at the time of the crash.",
-      "age": 28,
-      "decorations": [
-        "DFC"
-      ]
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "T.A. Ball",
-      "service_number": "1874899",
-      "role": "Crew",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
-      "cwgc_verified": false,
-      "age": 20
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "E.C. Barton",
-      "service_number": "1587047",
-      "role": "Crew",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
-      "cwgc_verified": false,
-      "age": 21
-    },
-    {
-      "rank": "Sgt",
-      "name": "K. Harris",
-      "service_number": "1651299",
-      "role": "Crew",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
-      "cwgc_verified": false,
-      "age": 22
-    },
-    {
-      "rank": "Sgt",
-      "name": "J. Littlemore",
-      "service_number": "2204311",
-      "role": "Crew",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
-      "cwgc_verified": false,
-      "age": 19
-    }
-  ],
-  "latitude": 53.0711,
-  "longitude": -1.2422,
-  "cause_of_loss": "Starboard engine fire; aircraft entered cloud in steep diving turn and crashed",
-  "operation_type": "Training",
-  "memorial_details": "A memorial garden was established at the Priory Hospital site (formerly Annesley Park) and dedicated on 16 September 1998, unveiled by Group Captain Cook with RAF veterans and surviving family members present. The memorial includes a stone of remembrance, a memorial bench, and an interpretive panel featuring a photograph of a Stirling bomber. The site is accessible to visitors at Priory Hospital.",
-  "maintainer": {
-    "organisation": "Annesley and Felley Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/18844/Memorial-Stirling-Bomber-Annesley.htm",
-      "summary": "TracesOfWar documents the Annesley Stirling memorial near the crash site of EH988, noting it was erected in the late 1990s by the Stirling Memorial Group.",
-      "key_details": [
-        "Memorial erected by Stirling Memorial Group",
-        "Located close to original crash site on Musters Estate"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "RAF Commands",
-      "original_url": "https://www.rafcommands.com/archive/06320.php",
-      "summary": "RAF Commands archives hold the record of Stirling EH988 from 1661 HCU at Winthorpe, confirming it crashed on 14 January 1945 while being ferried to Northern Ireland for scrapping.",
-      "key_details": [
-        "Confirms 1661 HCU Winthorpe",
-        "Aircraft was being ferried to Maghaberry for scrapping",
-        "Two engines lost after takeoff"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/26850",
-      "summary": "The Imperial War Museum's War Memorials Register lists the Crew of Stirling EH988 memorial, recording the five casualties: Ball, Barton, Cockbain, Harris, and Littlemore.",
-      "key_details": [
-        "IWM memorial reference 26850",
-        "Lists five named casualties"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "International Bomber Command Centre",
-      "original_url": "https://losses.internationalbcc.co.uk/loss/205355/",
-      "summary": "The IBCC Digital Archive records Squadron Leader Cockbain's loss in the Stirling EH988 crash, linking it to the 1661 Heavy Conversion Unit.",
-      "key_details": [
-        "IBCC loss record 205355",
-        "Confirms S/Ldr Cockbain's DFC"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Nottinghamshire Roll of Honour",
-      "original_url": "https://rollofhonour.nottinghamshire.gov.uk/Memorial/Details/1977",
-      "summary": "The Nottinghamshire County Council Roll of Honour records the Annesley 1945 Short Stirling Air Crash war memorial, noting the crash took place on the Annesley Park estate near Mansfield.",
-      "key_details": [
-        "Nottinghamshire memorial reference 1977",
-        "Crash at Home Farm, Annesley Park estate"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Hucknall Dispatch",
-      "original_url": "https://www.hucknalldispatch.co.uk/heritage-and-retro/retro/remembering-five-war-time-raf-crew-members-who-died-in-annesley-crash-4794094",
-      "summary": "Local newspaper article recounting the Annesley crash, noting the aircraft attempted a forced landing at RAF Hucknall after losing two engines but crashed on a wooded ridge on the Musters Estate. Recovered aircraft fragments are held in a casket at Newark Air Museum.",
-      "key_details": [
-        "Aircraft tried to reach RAF Hucknall",
-        "Crashed on wooded ridge on Musters Estate",
-        "Fragments stored at Newark Air Museum"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Hucknall Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-    },
-    {
-      "org_name": "Annesley and Felley Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/No._61_Squadron_RAF.png",
-  "squadron_motto": "Thundering through the clear air"
+    "external_narratives": [
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/18844/Memorial-Stirling-Bomber-Annesley.htm",
+            "summary": "TracesOfWar documents the Annesley Stirling memorial near the crash site of EH988, noting it was erected in the late 1990s by the Stirling Memorial Group.",
+            "key_details": [
+                "Memorial erected by Stirling Memorial Group",
+                "Located close to original crash site on Musters Estate"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Commands",
+            "original_url": "https://www.rafcommands.com/archive/06320.php",
+            "summary": "RAF Commands archives hold the record of Stirling EH988 from 1661 HCU at Winthorpe, confirming it crashed on 14 January 1945 while being ferried to Northern Ireland for scrapping.",
+            "key_details": [
+                "Confirms 1661 HCU Winthorpe",
+                "Aircraft was being ferried to Maghaberry for scrapping",
+                "Two engines lost after takeoff"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/26850",
+            "summary": "The Imperial War Museum's War Memorials Register lists the Crew of Stirling EH988 memorial, recording the five casualties: Ball, Barton, Cockbain, Harris, and Littlemore.",
+            "key_details": [
+                "IWM memorial reference 26850",
+                "Lists five named casualties"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "International Bomber Command Centre",
+            "original_url": "https://losses.internationalbcc.co.uk/loss/205355/",
+            "summary": "The IBCC Digital Archive records Squadron Leader Cockbain's loss in the Stirling EH988 crash, linking it to the 1661 Heavy Conversion Unit.",
+            "key_details": [
+                "IBCC loss record 205355",
+                "Confirms S/Ldr Cockbain's DFC"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Nottinghamshire Roll of Honour",
+            "original_url": "https://rollofhonour.nottinghamshire.gov.uk/Memorial/Details/1977",
+            "summary": "The Nottinghamshire County Council Roll of Honour records the Annesley 1945 Short Stirling Air Crash war memorial, noting the crash took place on the Annesley Park estate near Mansfield.",
+            "key_details": [
+                "Nottinghamshire memorial reference 1977",
+                "Crash at Home Farm, Annesley Park estate"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Hucknall Dispatch",
+            "original_url": "https://www.hucknalldispatch.co.uk/heritage-and-retro/retro/remembering-five-war-time-raf-crew-members-who-died-in-annesley-crash-4794094",
+            "summary": "Local newspaper article recounting the Annesley crash, noting the aircraft attempted a forced landing at RAF Hucknall after losing two engines but crashed on a wooded ridge on the Musters Estate. Recovered aircraft fragments are held in a casket at Newark Air Museum.",
+            "key_details": [
+                "Aircraft tried to reach RAF Hucknall",
+                "Crashed on wooded ridge on Musters Estate",
+                "Fragments stored at Newark Air Museum"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Hucknall Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Annesley and Felley Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "reckoned.benched.ruler"
 }

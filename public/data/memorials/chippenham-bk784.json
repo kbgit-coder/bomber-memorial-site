@@ -1,70 +1,71 @@
 {
-  "id": "chippenham-bk784",
-  "title": "Chippenham Stirling Memorial",
-  "location_name": "Chippenham, Cambridgeshire",
-  "county": "Cambridgeshire",
-  "country": "United Kingdom",
-  "region_code": "CB-002",
-  "os_grid_reference": "TL6770",
-  "crash_date": "1944-05-23",
-  "aircraft_type": "Stirling",
-  "serial_number": "BK784",
-  "squadron": "90 Squadron",
-  "station": "Tuddenham",
-  "crew_summary": "7 killed including pilot Flt Sgt. John Whyte",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Cambridgeshire",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.16649840252392,
-  "longitude": 0.22847096388490734,
-  "maintainer": {
-    "organisation": "Chippenham Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
-      "summary": "Imperial War Museums register entry for the Stirling Bomber BK784 crash site memorial at Chippenham, Cambridgeshire. A stone tablet set into the ground near the crash site on private farmland off Badlingham Road commemorates the seven crew who died on 23 May 1944.",
-      "key_details": [
-        "IWM memorial reference 63962",
-        "Stone tablet on private farmland off Badlingham Road",
-        "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "chippenham-bk784",
+    "title": "Chippenham Stirling Memorial",
+    "location_name": "Chippenham, Cambridgeshire",
+    "county": "Cambridgeshire",
+    "country": "United Kingdom",
+    "region_code": "CB-002",
+    "os_grid_reference": "TL6770",
+    "crash_date": "1944-05-23",
+    "aircraft_type": "Stirling",
+    "serial_number": "BK784",
+    "squadron": "90 Squadron",
+    "station": "Tuddenham",
+    "crew_summary": "7 killed including pilot Flt Sgt. John Whyte",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Cambridgeshire",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.16649840252392,
+    "longitude": 0.22847096388490734,
+    "maintainer": {
+        "organisation": "Chippenham Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Roll of Honour",
-      "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
-      "summary": "Roll of Honour entry for Chippenham, Cambridgeshire, including the crew of Stirling BK784 from 90 Squadron who were killed in the crash on 23 May 1944.",
-      "key_details": [
-        "All seven crew listed on local roll of honour"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Soham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-    },
-    {
-      "org_name": "Chippenham Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/No._90_Squadron_RAF.png",
-  "squadron_motto": "Swift"
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
+            "summary": "Imperial War Museums register entry for the Stirling Bomber BK784 crash site memorial at Chippenham, Cambridgeshire. A stone tablet set into the ground near the crash site on private farmland off Badlingham Road commemorates the seven crew who died on 23 May 1944.",
+            "key_details": [
+                "IWM memorial reference 63962",
+                "Stone tablet on private farmland off Badlingham Road",
+                "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Roll of Honour",
+            "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
+            "summary": "Roll of Honour entry for Chippenham, Cambridgeshire, including the crew of Stirling BK784 from 90 Squadron who were killed in the crash on 23 May 1944.",
+            "key_details": [
+                "All seven crew listed on local roll of honour"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Soham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+        },
+        {
+            "org_name": "Chippenham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
+    "squadron_motto": "Caelestiibus idem",
+    "what3words": "moves.lawful.bookmark"
 }

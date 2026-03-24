@@ -1,84 +1,85 @@
 {
-  "id": "balkholme-1-lk834",
-  "title": "Balkholme (1) Halifax Memorial",
-  "location_name": "Balkholme (1), East Riding of Yorkshire",
-  "county": "East Riding of Yorkshire",
-  "country": "United Kingdom",
-  "region_code": "ERY-001",
-  "crash_date": "1944-07-21",
-  "aircraft_type": "Halifax",
-  "serial_number": "LK834",
-  "squadron": "578 Squadron",
-  "station": "Burn",
-  "crew_summary": "7 killed including pilot Plt Off. William Davidson",
-  "memorial_type": "Physical memorial with plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.969968081331494,
-  "longitude": -1.3604477343168018,
-  "maintainer": {
-    "organisation": "Balkholme Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Yorkshire Aircraft",
-      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/lk834.html",
-      "summary": "Halifax LK834 (coded LK-E) of 578 Squadron collided mid-air with Halifax MZ696 (coded LK-K) at 2,000 feet while returning from a raid on synthetic oil refineries at Bottrop on 21 July 1944. Both aircraft crashed near Gate House Farm, Balkholme at 03:15 hours, killing all fourteen crew.",
-      "key_details": [
-        "Collision at 2,000 feet during return from Bottrop",
-        "LK834 coded LK-E",
-        "Crashed near Gate House Farm",
-        "14 total killed across both aircraft",
-        "578 Squadron lost 6 aircraft that night"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "balkholme-1-lk834",
+    "title": "Balkholme (1) Halifax Memorial",
+    "location_name": "Balkholme (1), East Riding of Yorkshire",
+    "county": "East Riding of Yorkshire",
+    "country": "United Kingdom",
+    "region_code": "ERY-001",
+    "crash_date": "1944-07-21",
+    "aircraft_type": "Halifax",
+    "serial_number": "LK834",
+    "squadron": "578 Squadron",
+    "station": "Burn",
+    "crew_summary": "7 killed including pilot Plt Off. William Davidson",
+    "memorial_type": "Physical memorial with plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.969968081331494,
+    "longitude": -1.3604477343168018,
+    "maintainer": {
+        "organisation": "Balkholme Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "578 Squadron Association",
-      "original_url": "http://www.578squadron.org.uk/memorials/balkholme.html",
-      "summary": "The 578 Squadron website documents the Balkholme mid-air collision and the memorial erected to commemorate the crews of both Halifax bombers lost that night.",
-      "key_details": [
-        "26 Halifaxes from 578 Sqn attacked Bottrop that night",
-        "Six aircraft lost during the raid"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99079",
-      "summary": "The IWM records the memorial to the 578 Squadron airmen of the Balkholme mid-air collision, describing the distinctive memorial featuring a sculpture of two colliding Halifax bombers atop a curved steel pipe with squadron badge and crew names.",
-      "key_details": [
-        "IWM memorial reference 99079",
-        "Memorial features sculpture of two colliding Halifaxes",
-        "Curved black-enamelled steel pipe design"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Goole & Howden Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    },
-    {
-      "org_name": "Balkholme Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/No._78_Squadron_RAF.png",
-  "squadron_motto": "Nobody unprepared"
+    "external_narratives": [
+        {
+            "source_site": "Yorkshire Aircraft",
+            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/lk834.html",
+            "summary": "Halifax LK834 (coded LK-E) of 578 Squadron collided mid-air with Halifax MZ696 (coded LK-K) at 2,000 feet while returning from a raid on synthetic oil refineries at Bottrop on 21 July 1944. Both aircraft crashed near Gate House Farm, Balkholme at 03:15 hours, killing all fourteen crew.",
+            "key_details": [
+                "Collision at 2,000 feet during return from Bottrop",
+                "LK834 coded LK-E",
+                "Crashed near Gate House Farm",
+                "14 total killed across both aircraft",
+                "578 Squadron lost 6 aircraft that night"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "578 Squadron Association",
+            "original_url": "http://www.578squadron.org.uk/memorials/balkholme.html",
+            "summary": "The 578 Squadron website documents the Balkholme mid-air collision and the memorial erected to commemorate the crews of both Halifax bombers lost that night.",
+            "key_details": [
+                "26 Halifaxes from 578 Sqn attacked Bottrop that night",
+                "Six aircraft lost during the raid"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99079",
+            "summary": "The IWM records the memorial to the 578 Squadron airmen of the Balkholme mid-air collision, describing the distinctive memorial featuring a sculpture of two colliding Halifax bombers atop a curved steel pipe with squadron badge and crew names.",
+            "key_details": [
+                "IWM memorial reference 99079",
+                "Memorial features sculpture of two colliding Halifaxes",
+                "Curved black-enamelled steel pipe design"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Goole & Howden Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Balkholme Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/578.jpg",
+    "squadron_motto": "Accuracy",
+    "what3words": "pops.simulates.thinks"
 }

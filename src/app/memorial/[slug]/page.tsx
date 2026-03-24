@@ -645,6 +645,40 @@ export default function MemorialPage({ params }: Props) {
         </p>
       )}
 
+      {/* Suggest a Correction */}
+      <section
+        style={{
+          marginTop: "2rem",
+          marginBottom: "2.5rem",
+          padding: "1.25rem 1.5rem",
+          backgroundColor: "#f8f6f2",
+          border: "1px solid #e0dcd5",
+          borderRadius: 8,
+          textAlign: "center",
+        }}
+      >
+        <p style={{ fontSize: "0.95rem", color: "#555", marginBottom: "0.75rem", lineHeight: 1.6 }}>
+          Do you have additional information, photographs, or corrections for this record?
+          We welcome contributions from researchers, families, and local communities.
+        </p>
+        <a
+          href={`mailto:admin@bombermemorial.co.uk?subject=Correction%20or%20addition%3A%20${encodeURIComponent(memorial.title)}&body=Memorial%3A%20${encodeURIComponent(memorial.title)}%0APage%3A%20https%3A%2F%2Fbombermemorial.co.uk%2Fmemorial%2F${params.slug}%0A%0APlease%20describe%20the%20correction%20or%20addition%20below%3A%0A%0A`}
+          style={{
+            display: "inline-block",
+            padding: "0.6rem 1.5rem",
+            backgroundColor: "#1a2332",
+            color: "#c9b98a",
+            borderRadius: 6,
+            fontSize: "0.9rem",
+            fontFamily: "'Helvetica Neue', Arial, sans-serif",
+            textDecoration: "none",
+            letterSpacing: "0.03em",
+          }}
+        >
+          Suggest a correction or addition
+        </a>
+      </section>
+
       {/* Stub CTA */}
       <StubCTA
         quality={memorial.data_quality || "Stub"}

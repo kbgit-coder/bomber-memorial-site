@@ -1,42 +1,144 @@
 {
-  "id": "carreg-goch-wellington-mf509-mf509",
-  "title": "Carreg Goch (Wellington MF509) Memorial",
-  "location_name": "Carreg Goch, Brecon Beacons (Bannau Brycheiniog)",
-  "county": "Brecon Beacons (Bannau Brycheiniog)",
-  "country": "United Kingdom",
-  "region_code": "WA-002",
-  "crash_date": "1944-11-20",
-  "aircraft_type": "Wellington",
-  "serial_number": "MF509",
-  "squadron": "22 OTU",
-  "station": "Wellesbourne Mountford",
-  "crew_summary": "6 Canadian crew killed — 'the Alouettes'",
-  "memorial_type": "Memorial cairn with two plaques; wreckage on mountainside",
-  "sources": [
-    {"title": "Aircrash Sites UK", "url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-bomber-mf509/", "type": "website"},
-    {"title": "Ystradgynlais History", "url": "http://www.ystradgynlais-history.co.uk/wellington-mf509.html", "type": "website"},
-    {"title": "Wandering Welsh Girl", "url": "https://www.wanderingwelshgirl.com/carreg-goch-wellington-bomber-crash-site-brecon-beacons/", "type": "website"}
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the night of 20 November 1944, Wellington MF509 from 22 OTU at Wellesbourne Mountford was on a cross-country navigation exercise when the starboard Hercules XVI engine developed problems. The wireless operator requested permission to descend below the cloud base. But the aircraft had entered shower clouds that deposited heavy layers of ice on the wings, and with insufficient power from the port engine alone, the Wellington lost height and crashed into the south-west slopes of Carreg Goch. All six crew — known as 'the Alouettes' — were killed. All six were buried at Chester (Blacon) Cemetery. In 2013, Phyllis Allison, sister of bomb aimer William, visited the site — an extraordinary journey nearly 70 years after her brother's death.",
-  "crew": [
-    {"rank": "Sgt", "name": "Charles Hamel", "age": 21, "role": "Pilot", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "fate_detail": "Killed when Wellington MF509 crashed on Carreg Goch. Buried at Chester (Blacon) Cemetery.", "cwgc_verified": true},
-    {"rank": "Sgt", "name": "Jules Robert Rene Villeneuve", "age": 22, "role": "Navigator", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "fate_detail": "Buried at Chester (Blacon) Cemetery.", "cwgc_verified": true},
-    {"rank": "F/O", "name": "William Joseph Allison", "age": 28, "role": "Bomb Aimer", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "fate_detail": "At 28, the oldest crew member. In 2013 his sister Phyllis visited the crash site, nearly 70 years later.", "cwgc_verified": true},
-    {"rank": "Sgt", "name": "Joseph Paul Ernest Burke", "age": 20, "role": "Wireless Operator/Air Gunner", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.", "cwgc_verified": true},
-    {"rank": "Sgt", "name": "Arthur Grouix", "age": 22, "role": "Air Gunner", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "cwgc_verified": true},
-    {"rank": "Sgt", "name": "Gerard Dusablon", "age": 20, "role": "Air Gunner", "nationality": "Canadian", "burial_location": "Chester (Blacon) Cemetery", "fate": "Killed", "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.", "cwgc_verified": true}
-  ],
-  "cause_of_loss": "Starboard Hercules XVI engine failure; heavy icing in shower clouds; insufficient power from port engine",
-  "operation_type": "Training",
-  "memorial_details": "A stone and concrete memorial cairn on Carreg Goch with two plaques. 8km loop walk from Blaen-y-Glyn.",
-  "latitude": 51.8630,
-  "longitude": -3.4100,
-  "external_narratives": [
-    {"source_site": "Aircrash Sites UK", "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-bomber-mf509/", "summary": "All-Canadian crew of 22 OTU known as 'the Alouettes'. Starboard Hercules XVI engine failure.", "key_details": ["All-Canadian crew", "Starboard Hercules XVI engine failure"], "date_retrieved": "2026-03-23", "still_live": true},
-    {"source_site": "Ystradgynlais History", "original_url": "http://www.ystradgynlais-history.co.uk/wellington-mf509.html", "summary": "McGill University connection. Phyllis Allison visited crash site 2013.", "key_details": ["McGill University connection from 2005", "Phyllis Allison visited 2013"], "date_retrieved": "2026-03-23", "still_live": true},
-    {"source_site": "Wandering Welsh Girl", "original_url": "https://www.wanderingwelshgirl.com/carreg-goch-wellington-bomber-crash-site-brecon-beacons/", "summary": "Walking guide. 8km loop walk. Considerable wreckage visible.", "key_details": ["8km loop walk from Blaen-y-Glyn", "Considerable wreckage still visible"], "date_retrieved": "2026-03-23", "still_live": true}
-  ]
+    "id": "carreg-goch-wellington-mf509-mf509",
+    "title": "Carreg Goch (Wellington MF509) Memorial",
+    "location_name": "Carreg Goch, Brecon Beacons (Bannau Brycheiniog)",
+    "county": "Brecon Beacons (Bannau Brycheiniog)",
+    "country": "United Kingdom",
+    "region_code": "WA-002",
+    "crash_date": "1944-11-20",
+    "aircraft_type": "Wellington",
+    "serial_number": "MF509",
+    "squadron": "22 OTU",
+    "station": "Wellesbourne Mountford",
+    "crew_summary": "6 Canadian crew killed — 'the Alouettes'",
+    "memorial_type": "Memorial cairn with two plaques; wreckage on mountainside",
+    "sources": [
+        {
+            "title": "Aircrash Sites UK",
+            "url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-bomber-mf509/",
+            "type": "website"
+        },
+        {
+            "title": "Ystradgynlais History",
+            "url": "http://www.ystradgynlais-history.co.uk/wellington-mf509.html",
+            "type": "website"
+        },
+        {
+            "title": "Wandering Welsh Girl",
+            "url": "https://www.wanderingwelshgirl.com/carreg-goch-wellington-bomber-crash-site-brecon-beacons/",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the night of 20 November 1944, Wellington MF509 from 22 OTU at Wellesbourne Mountford was on a cross-country navigation exercise when the starboard Hercules XVI engine developed problems. The wireless operator requested permission to descend below the cloud base. But the aircraft had entered shower clouds that deposited heavy layers of ice on the wings, and with insufficient power from the port engine alone, the Wellington lost height and crashed into the south-west slopes of Carreg Goch. All six crew — known as 'the Alouettes' — were killed. All six were buried at Chester (Blacon) Cemetery. In 2013, Phyllis Allison, sister of bomb aimer William, visited the site — an extraordinary journey nearly 70 years after her brother's death.",
+    "crew": [
+        {
+            "rank": "Sgt",
+            "name": "Charles Hamel",
+            "age": 21,
+            "role": "Pilot",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "fate_detail": "Killed when Wellington MF509 crashed on Carreg Goch. Buried at Chester (Blacon) Cemetery.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jules Robert Rene Villeneuve",
+            "age": 22,
+            "role": "Navigator",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "fate_detail": "Buried at Chester (Blacon) Cemetery.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "F/O",
+            "name": "William Joseph Allison",
+            "age": 28,
+            "role": "Bomb Aimer",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "fate_detail": "At 28, the oldest crew member. In 2013 his sister Phyllis visited the crash site, nearly 70 years later.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Joseph Paul Ernest Burke",
+            "age": 20,
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Arthur Grouix",
+            "age": 22,
+            "role": "Air Gunner",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Gerard Dusablon",
+            "age": 20,
+            "role": "Air Gunner",
+            "nationality": "Canadian",
+            "burial_location": "Chester (Blacon) Cemetery",
+            "fate": "Killed",
+            "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.",
+            "cwgc_verified": true
+        }
+    ],
+    "cause_of_loss": "Starboard Hercules XVI engine failure; heavy icing in shower clouds; insufficient power from port engine",
+    "operation_type": "Training",
+    "memorial_details": "A stone and concrete memorial cairn on Carreg Goch with two plaques. 8km loop walk from Blaen-y-Glyn.",
+    "latitude": 51.863,
+    "longitude": -3.41,
+    "external_narratives": [
+        {
+            "source_site": "Aircrash Sites UK",
+            "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-bomber-mf509/",
+            "summary": "All-Canadian crew of 22 OTU known as 'the Alouettes'. Starboard Hercules XVI engine failure.",
+            "key_details": [
+                "All-Canadian crew",
+                "Starboard Hercules XVI engine failure"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Ystradgynlais History",
+            "original_url": "http://www.ystradgynlais-history.co.uk/wellington-mf509.html",
+            "summary": "McGill University connection. Phyllis Allison visited crash site 2013.",
+            "key_details": [
+                "McGill University connection from 2005",
+                "Phyllis Allison visited 2013"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wandering Welsh Girl",
+            "original_url": "https://www.wanderingwelshgirl.com/carreg-goch-wellington-bomber-crash-site-brecon-beacons/",
+            "summary": "Walking guide. 8km loop walk. Considerable wreckage visible.",
+            "key_details": [
+                "8km loop walk from Blaen-y-Glyn",
+                "Considerable wreckage still visible"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "what3words": "siesta.includes.storming"
 }

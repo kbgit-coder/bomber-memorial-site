@@ -1,92 +1,93 @@
 {
-  "id": "hull-bridge-1-jb874",
-  "title": "Hull Bridge (1) Halifax Memorial",
-  "location_name": "Hull Bridge (1), East Riding of Yorkshire",
-  "county": "East Riding of Yorkshire",
-  "country": "United Kingdom",
-  "region_code": "ERY-004",
-  "crash_date": "1943-08-24",
-  "aircraft_type": "Halifax",
-  "serial_number": "JB874",
-  "squadron": "78 Squadron",
-  "station": "Breighton",
-  "crew_summary": "6 killed including pilot Flg Off. Charles James Keirl",
-  "memorial_type": "Memorial plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.91628635913441,
-  "longitude": -1.3306891463384298,
-  "maintainer": {
-    "organisation": "Tickton and Routh Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Yorkshire Aircraft",
-      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb874.html",
-      "summary": "Halifax JB874 (coded EY-E) of 78 Squadron collided with Halifax BB373 (EY-K) at 04:30 on 24 August 1943 over Hull Bridge, Tickton, 2 miles NE of Beverley. Both crews had bombed Berlin and were being diverted -- first to Leconfield, then to Hutton Cranswick. Six of the seven crew of JB874 were killed; one survived. This was a disastrous night for 78 Squadron, which lost five aircraft and thirty-one airmen.",
-      "key_details": [
-        "Aircraft coded EY-E",
-        "Mid-air collision at 04:30",
-        "Diverted from Leconfield to Hutton Cranswick",
-        "78 Squadron lost five aircraft and 31 airmen that night",
-        "One survivor from JB874"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "hull-bridge-1-jb874",
+    "title": "Hull Bridge (1) Halifax Memorial",
+    "location_name": "Hull Bridge (1), East Riding of Yorkshire",
+    "county": "East Riding of Yorkshire",
+    "country": "United Kingdom",
+    "region_code": "ERY-004",
+    "crash_date": "1943-08-24",
+    "aircraft_type": "Halifax",
+    "serial_number": "JB874",
+    "squadron": "78 Squadron",
+    "station": "Breighton",
+    "crew_summary": "6 killed including pilot Flg Off. Charles James Keirl",
+    "memorial_type": "Memorial plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.91628635913441,
+    "longitude": -1.3306891463384298,
+    "maintainer": {
+        "organisation": "Tickton and Routh Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/98870",
-      "summary": "IWM registers the memorial to the aircrew of 78 Squadron killed in the collision over Tickton on 24 August 1943. The memorial commemorates both crews from the two Halifax bombers that collided.",
-      "key_details": [
-        "IWM memorial reference 98870",
-        "Covers both Halifax crews"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "CWGC",
-      "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
-      "summary": "CWGC features a story about Pilot Officer Edward Platt, navigator aboard one of the 78 Squadron aircraft lost that night, providing verified service records and burial details for the casualties of this tragic collision.",
-      "key_details": [
-        "CWGC verified service records for crew"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/229912/",
-      "summary": "War Memorials Online records the 78 Squadron memorial, noting its location near the Crown and Anchor pub at Hull Bridge, close to the crash site.",
-      "key_details": [
-        "Memorial near Crown and Anchor pub, Hull Bridge"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Beverley Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    },
-    {
-      "org_name": "Tickton and Routh Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/No._78_Squadron_RAF.png",
-  "squadron_motto": "Nobody unprepared"
+    "external_narratives": [
+        {
+            "source_site": "Yorkshire Aircraft",
+            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb874.html",
+            "summary": "Halifax JB874 (coded EY-E) of 78 Squadron collided with Halifax BB373 (EY-K) at 04:30 on 24 August 1943 over Hull Bridge, Tickton, 2 miles NE of Beverley. Both crews had bombed Berlin and were being diverted -- first to Leconfield, then to Hutton Cranswick. Six of the seven crew of JB874 were killed; one survived. This was a disastrous night for 78 Squadron, which lost five aircraft and thirty-one airmen.",
+            "key_details": [
+                "Aircraft coded EY-E",
+                "Mid-air collision at 04:30",
+                "Diverted from Leconfield to Hutton Cranswick",
+                "78 Squadron lost five aircraft and 31 airmen that night",
+                "One survivor from JB874"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/98870",
+            "summary": "IWM registers the memorial to the aircrew of 78 Squadron killed in the collision over Tickton on 24 August 1943. The memorial commemorates both crews from the two Halifax bombers that collided.",
+            "key_details": [
+                "IWM memorial reference 98870",
+                "Covers both Halifax crews"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "CWGC",
+            "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
+            "summary": "CWGC features a story about Pilot Officer Edward Platt, navigator aboard one of the 78 Squadron aircraft lost that night, providing verified service records and burial details for the casualties of this tragic collision.",
+            "key_details": [
+                "CWGC verified service records for crew"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/229912/",
+            "summary": "War Memorials Online records the 78 Squadron memorial, noting its location near the Crown and Anchor pub at Hull Bridge, close to the crash site.",
+            "key_details": [
+                "Memorial near Crown and Anchor pub, Hull Bridge"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Beverley Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Tickton and Routh Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/78.jpg",
+    "squadron_motto": "Nobody unprepared",
+    "what3words": "otter.dull.vanilla"
 }

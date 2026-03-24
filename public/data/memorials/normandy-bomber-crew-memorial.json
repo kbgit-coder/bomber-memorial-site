@@ -1,45 +1,57 @@
 {
-  "id": "normandy-bomber-crew-memorial",
-  "title": "Normandy Bomber Crew Memorial",
-  "location_name": "Normandy",
-  "country": "France",
-  "narrative": "Multiple bomber crash sites across the Normandy region, many associated with D-Day operations and the subsequent campaign.",
-  "memorial_type": "Multiple memorials",
-  "data_quality": "Stub",
-  "contributor": "Charlie Leitheiser",
-  "last_updated": "2026-03-21",
-  "sources": [
-    {
-      "title": "Charlie Leitheiser hackathon research",
-      "type": "personal_research"
-    }
-  ],
-  "latitude": 49.18,
-  "longitude": -0.37,
-  "external_narratives": [
-    {
-      "source_site": "British Normandy Memorial",
-      "original_url": "https://www.britishnormandymemorial.org/",
-      "summary": "The British Normandy Memorial at Ver-sur-Mer was unveiled on 6 June 2021. It records the names of 22,442 people from over 30 countries who served under British command and died in Normandy between 6 June and 31 August 1944, including many Bomber Command aircrew who supported the invasion.",
-      "key_details": ["22,442 names recorded", "Unveiled 6 June 2021", "Located near Gold Beach, Ver-sur-Mer", "Includes Bomber Command casualties"],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Normandy War Guide",
-      "original_url": "https://www.normandywarguide.com/place/memorial-to-french-bomber-crews",
-      "summary": "A memorial in Normandy specifically commemorates French bomber crews who served with RAF Bomber Command. The inscription notes that one in two French heavy bomber crew members perished during operations against Nazi Germany.",
-      "key_details": ["Dedicated to French crews in Bomber Command", "50% casualty rate among French bomber crews noted"],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "CWGC",
-      "original_url": "https://www.cwgc.org/our-work/blog/d-day-memorials-ww2-a-visitor-s-guide/",
-      "summary": "CWGC visitor guide to D-Day memorials in Normandy, including cemeteries where Bomber Command aircrew are buried. CWGC maintains multiple sites across the region with verified graves of bomber crews.",
-      "key_details": ["CWGC maintains multiple Normandy sites", "Bomber Command graves across the region"],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ]
+    "id": "normandy-bomber-crew-memorial",
+    "title": "Normandy Bomber Crew Memorial",
+    "location_name": "Normandy",
+    "country": "France",
+    "narrative": "Multiple bomber crash sites across the Normandy region, many associated with D-Day operations and the subsequent campaign.",
+    "memorial_type": "Multiple memorials",
+    "data_quality": "Stub",
+    "contributor": "Charlie Leitheiser",
+    "last_updated": "2026-03-21",
+    "sources": [
+        {
+            "title": "Charlie Leitheiser hackathon research",
+            "type": "personal_research"
+        }
+    ],
+    "latitude": 49.18,
+    "longitude": -0.37,
+    "external_narratives": [
+        {
+            "source_site": "British Normandy Memorial",
+            "original_url": "https://www.britishnormandymemorial.org/",
+            "summary": "The British Normandy Memorial at Ver-sur-Mer was unveiled on 6 June 2021. It records the names of 22,442 people from over 30 countries who served under British command and died in Normandy between 6 June and 31 August 1944, including many Bomber Command aircrew who supported the invasion.",
+            "key_details": [
+                "22,442 names recorded",
+                "Unveiled 6 June 2021",
+                "Located near Gold Beach, Ver-sur-Mer",
+                "Includes Bomber Command casualties"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Normandy War Guide",
+            "original_url": "https://www.normandywarguide.com/place/memorial-to-french-bomber-crews",
+            "summary": "A memorial in Normandy specifically commemorates French bomber crews who served with RAF Bomber Command. The inscription notes that one in two French heavy bomber crew members perished during operations against Nazi Germany.",
+            "key_details": [
+                "Dedicated to French crews in Bomber Command",
+                "50% casualty rate among French bomber crews noted"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "CWGC",
+            "original_url": "https://www.cwgc.org/our-work/blog/d-day-memorials-ww2-a-visitor-s-guide/",
+            "summary": "CWGC visitor guide to D-Day memorials in Normandy, including cemeteries where Bomber Command aircrew are buried. CWGC maintains multiple sites across the region with verified graves of bomber crews.",
+            "key_details": [
+                "CWGC maintains multiple Normandy sites",
+                "Bomber Command graves across the region"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "what3words": "info.desks.flags"
 }

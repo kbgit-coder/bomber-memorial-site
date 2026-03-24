@@ -1,214 +1,216 @@
 {
-  "id": "kirkley-lowestoft-ll356",
-  "title": "Kirkley (Lowestoft) Halifax Memorial",
-  "location_name": "Kirkley (Lowestoft), Suffolk",
-  "county": "Suffolk",
-  "country": "United Kingdom",
-  "region_code": "SF-008",
-  "crash_date": "1944-04-27",
-  "aircraft_type": "Halifax",
-  "serial_number": "LL356",
-  "squadron": "138 (SD) Squadron",
-  "station": "Tempsford",
-  "crew_summary": "7 killed; pilot Flt Sgt. George H. Williamson (RAAF)",
-  "memorial_type": "Bowls club memorial seat with plaque",
-  "sources": [
-    {
-      "title": "Geograph Suffolk",
-      "type": "website"
+    "id": "kirkley-lowestoft-ll356",
+    "title": "Kirkley (Lowestoft) Halifax Memorial",
+    "location_name": "Kirkley (Lowestoft), Suffolk",
+    "county": "Suffolk",
+    "country": "United Kingdom",
+    "region_code": "SF-008",
+    "crash_date": "1944-04-27",
+    "aircraft_type": "Halifax",
+    "serial_number": "LL356",
+    "squadron": "138 (SD) Squadron",
+    "station": "Tempsford",
+    "crew_summary": "7 killed; pilot Flt Sgt. George H. Williamson (RAAF)",
+    "memorial_type": "Bowls club memorial seat with plaque",
+    "sources": [
+        {
+            "title": "Geograph Suffolk",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - Williamson George",
+            "type": "website",
+            "url": "https://aircrewremembered.com/williamson-george.html"
+        },
+        {
+            "title": "Roll of Honour - Tempsford Halifax LL356",
+            "type": "website",
+            "url": "http://www.roll-of-honour.com/Bedfordshire/TempsfordHailfaxBomberLL356NFU.html"
+        },
+        {
+            "title": "MHHV - A Special Halifax Bomber Crew",
+            "type": "website",
+            "url": "http://www.mhhv.org.au/?p=1132"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On 27 April 1944, Halifax LL356 of the highly secretive 138 (Special Duties) Squadron crashed at Kirkley, a suburb of Lowestoft on the Suffolk coast. No. 138 Squadron was one of RAF's clandestine units, based at Tempsford in Bedfordshire, tasked with dropping agents, supplies, and equipment to resistance movements across occupied Europe. Their operations were hazardous and rarely publicised. The circumstances of this crash -- with the aircraft coming down on the Suffolk coast, far from its Bedfordshire base -- suggest the Halifax may have been returning from or departing for a special operations mission. The pilot, Flight Sergeant George Herbert Williamson of the Royal Australian Air Force, and all six other crew members were killed.",
+    "crew": [
+        {
+            "rank": "F/Sgt",
+            "name": "George Herbert Williamson",
+            "service_number": "AUS/414741",
+            "age": 29,
+            "role": "Pilot",
+            "nationality": "Australian",
+            "fate": "Killed",
+            "fate_detail": "Body washed up on the Dutch island of Terschelling on 16 June 1944. Buried there in a Commonwealth War Grave.",
+            "burial_location": "Terschelling (Formerum) General Cemetery, Netherlands",
+            "cwgc_verified": true,
+            "bio": "Australian pilot serving with the RAAF, aged 29 at the time of his death. He flew special operations missions dropping supplies to resistance movements in occupied Europe.",
+            "hometown": "Australia",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "George Partridge Croad",
+            "service_number": "1890979",
+            "age": 19,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 227.",
+            "burial_location": "Runnymede Memorial, Panel 227",
+            "cwgc_verified": true,
+            "bio": "The youngest crew member at just 19 years old, serving with the RAFVR as flight engineer on clandestine special operations missions.",
+            "decorations": []
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "Herbert Dootson",
+            "service_number": "1032035",
+            "age": 33,
+            "role": "Navigator",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 217.",
+            "burial_location": "Runnymede Memorial, Panel 217",
+            "cwgc_verified": true,
+            "bio": "At 33 years old, Dootson was the oldest crew member and an experienced navigator serving with the RAFVR.",
+            "decorations": []
+        },
+        {
+            "rank": "WO2",
+            "name": "Arthur John George Barnes",
+            "service_number": "R/157147",
+            "age": 22,
+            "role": "Air Bomber",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 254.",
+            "burial_location": "Runnymede Memorial, Panel 254",
+            "cwgc_verified": true,
+            "bio": "Canadian airman serving with the RCAF, aged 22. One of two Canadians in the multinational crew.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Hubert Francis Benbow",
+            "service_number": "1046454",
+            "age": 23,
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 225.",
+            "burial_location": "Runnymede Memorial, Panel 225",
+            "cwgc_verified": true,
+            "bio": "Served with the RAFVR as wireless operator and air gunner on special duties operations.",
+            "decorations": []
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "Eric Raymond Clayworth",
+            "service_number": "AUS/423063",
+            "age": 25,
+            "role": "Air Gunner",
+            "nationality": "Australian",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 260.",
+            "burial_location": "Runnymede Memorial, Panel 260",
+            "cwgc_verified": true,
+            "bio": "Australian airman serving with the RAAF, aged 25. One of two Australians aboard the aircraft.",
+            "decorations": []
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "James Ethelred Smythe",
+            "service_number": "R/190191",
+            "age": 21,
+            "role": "Air Gunner",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 255.",
+            "burial_location": "Runnymede Memorial, Panel 255",
+            "cwgc_verified": true,
+            "bio": "Canadian airman serving with the RCAF, the youngest at 21. The crew represented four nations: Australia, Canada, and Britain.",
+            "decorations": []
+        }
+    ],
+    "cause_of_loss": "Hit by German flak over Eindhoven, Holland, while on mission to drop supplies to Belgian resistance. Aircraft listed as Missing on Operations.",
+    "operation_type": "Special Operations",
+    "latitude": 52.4578,
+    "longitude": 1.7387,
+    "memorial_details": "| Field | Detail | |-------|--------| | Type | Plaque on memorial seat | | Location | Kirkley Bowls Club, Lowestoft, Suffolk | | Access | Publicly accessible |",
+    "maintainer": {
+        "organisation": "Lowestoft Town Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "Aircrew Remembered - Williamson George",
-      "type": "website",
-      "url": "https://aircrewremembered.com/williamson-george.html"
-    },
-    {
-      "title": "Roll of Honour - Tempsford Halifax LL356",
-      "type": "website",
-      "url": "http://www.roll-of-honour.com/Bedfordshire/TempsfordHailfaxBomberLL356NFU.html"
-    },
-    {
-      "title": "MHHV - A Special Halifax Bomber Crew",
-      "type": "website",
-      "url": "http://www.mhhv.org.au/?p=1132"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On 27 April 1944, Halifax LL356 of the highly secretive 138 (Special Duties) Squadron crashed at Kirkley, a suburb of Lowestoft on the Suffolk coast. No. 138 Squadron was one of RAF's clandestine units, based at Tempsford in Bedfordshire, tasked with dropping agents, supplies, and equipment to resistance movements across occupied Europe. Their operations were hazardous and rarely publicised. The circumstances of this crash -- with the aircraft coming down on the Suffolk coast, far from its Bedfordshire base -- suggest the Halifax may have been returning from or departing for a special operations mission. The pilot, Flight Sergeant George Herbert Williamson of the Royal Australian Air Force, and all six other crew members were killed.",
-  "crew": [
-    {
-      "rank": "F/Sgt",
-      "name": "George Herbert Williamson",
-      "service_number": "AUS/414741",
-      "age": 29,
-      "role": "Pilot",
-      "nationality": "Australian",
-      "fate": "Killed",
-      "fate_detail": "Body washed up on the Dutch island of Terschelling on 16 June 1944. Buried there in a Commonwealth War Grave.",
-      "burial_location": "Terschelling (Formerum) General Cemetery, Netherlands",
-      "cwgc_verified": true,
-      "bio": "Australian pilot serving with the RAAF, aged 29 at the time of his death. He flew special operations missions dropping supplies to resistance movements in occupied Europe.",
-      "hometown": "Australia",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "George Partridge Croad",
-      "service_number": "1890979",
-      "age": 19,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 227.",
-      "burial_location": "Runnymede Memorial, Panel 227",
-      "cwgc_verified": true,
-      "bio": "The youngest crew member at just 19 years old, serving with the RAFVR as flight engineer on clandestine special operations missions.",
-      "decorations": []
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "Herbert Dootson",
-      "service_number": "1032035",
-      "age": 33,
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 217.",
-      "burial_location": "Runnymede Memorial, Panel 217",
-      "cwgc_verified": true,
-      "bio": "At 33 years old, Dootson was the oldest crew member and an experienced navigator serving with the RAFVR.",
-      "decorations": []
-    },
-    {
-      "rank": "WO2",
-      "name": "Arthur John George Barnes",
-      "service_number": "R/157147",
-      "age": 22,
-      "role": "Air Bomber",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 254.",
-      "burial_location": "Runnymede Memorial, Panel 254",
-      "cwgc_verified": true,
-      "bio": "Canadian airman serving with the RCAF, aged 22. One of two Canadians in the multinational crew.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Hubert Francis Benbow",
-      "service_number": "1046454",
-      "age": 23,
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 225.",
-      "burial_location": "Runnymede Memorial, Panel 225",
-      "cwgc_verified": true,
-      "bio": "Served with the RAFVR as wireless operator and air gunner on special duties operations.",
-      "decorations": []
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "Eric Raymond Clayworth",
-      "service_number": "AUS/423063",
-      "age": 25,
-      "role": "Air Gunner",
-      "nationality": "Australian",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 260.",
-      "burial_location": "Runnymede Memorial, Panel 260",
-      "cwgc_verified": true,
-      "bio": "Australian airman serving with the RAAF, aged 25. One of two Australians aboard the aircraft.",
-      "decorations": []
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "James Ethelred Smythe",
-      "service_number": "R/190191",
-      "age": 21,
-      "role": "Air Gunner",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Body never recovered from the North Sea. Commemorated on the Runnymede Memorial, Panel 255.",
-      "burial_location": "Runnymede Memorial, Panel 255",
-      "cwgc_verified": true,
-      "bio": "Canadian airman serving with the RCAF, the youngest at 21. The crew represented four nations: Australia, Canada, and Britain.",
-      "decorations": []
-    }
-  ],
-  "cause_of_loss": "Hit by German flak over Eindhoven, Holland, while on mission to drop supplies to Belgian resistance. Aircraft listed as Missing on Operations.",
-  "operation_type": "Special Operations",
-  "latitude": 52.4578,
-  "longitude": 1.7387,
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Plaque on memorial seat | | Location | Kirkley Bowls Club, Lowestoft, Suffolk | | Access | Publicly accessible |",
-  "maintainer": {
-    "organisation": "Lowestoft Town Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Aircrew Remembered",
-      "original_url": "https://aircrewremembered.com/williamson-george.html",
-      "summary": "Detailed page on F/Sgt George Herbert Williamson RAAF (aged 29) and the crew of Halifax V LL356 (coded NF-U). The aircraft departed Tempsford at 23:10 on 27 April 1944 to drop supplies to Belgian resistance. It was observed being hit by German flak over Eindhoven in southern Holland. The crew likely attempted to return to base but crashed or ditched, with the aircraft listed as 'Missing on Operations'. The crew comprised airmen from the RAAF, RAFVR, and RCAF.",
-      "key_details": [
-        "Departed Tempsford at 23:10",
-        "Mission to drop supplies to Belgian resistance",
-        "Hit by flak over Eindhoven, Holland",
-        "Listed as Missing on Operations",
-        "Williamson aged 29, RAAF"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "MHHV (Military History and Heritage Victoria)",
-      "original_url": "http://www.mhhv.org.au/?p=1132",
-      "summary": "Australian military heritage article documenting the crew of Halifax LL356 as a 'Special' Halifax bomber crew from 138 Squadron. Provides context on the squadron's clandestine SOE operations and the multinational nature of the crew.",
-      "key_details": [
-        "SOE operations context provided",
-        "Multinational crew documented"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://aviation-safety.net/wikibase/50539",
-      "summary": "ASN records the accident of Halifax Mk V LL356 on 28 April 1944, confirming loss details and crew complement.",
-      "key_details": [
-        "ASN accident record confirmed",
-        "Date recorded as 28 April 1944 (post-midnight mission)"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Roll of Honour",
-      "original_url": "http://www.roll-of-honour.com/Bedfordshire/TempsfordHailfaxBomberLL356NFU.html",
-      "summary": "The Roll of Honour website lists all seven crew members of Halifax LL356 NF-U who were killed on the special operations mission. A memorial seat with plaque was dedicated at Kirkley Bowls Club, Lowestoft, with support from the RAFA Lowestoft Branch.",
-      "key_details": [
-        "All seven crew listed by name",
-        "Memorial seat with RAFA support"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Lowestoft Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Lowestoft Town Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
-  "squadron_motto": "Peace Through Strength"
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/williamson-george.html",
+            "summary": "Detailed page on F/Sgt George Herbert Williamson RAAF (aged 29) and the crew of Halifax V LL356 (coded NF-U). The aircraft departed Tempsford at 23:10 on 27 April 1944 to drop supplies to Belgian resistance. It was observed being hit by German flak over Eindhoven in southern Holland. The crew likely attempted to return to base but crashed or ditched, with the aircraft listed as 'Missing on Operations'. The crew comprised airmen from the RAAF, RAFVR, and RCAF.",
+            "key_details": [
+                "Departed Tempsford at 23:10",
+                "Mission to drop supplies to Belgian resistance",
+                "Hit by flak over Eindhoven, Holland",
+                "Listed as Missing on Operations",
+                "Williamson aged 29, RAAF"
+            ],
+            "date_retrieved": "2026-03-24",
+            "still_live": true,
+            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 27/28.04.1944 No. 138 Squadron Halifax V LL356 NF-U Fl/Sg. George H. Williamson\n\nOperation: SOE Osric 59 (Special Operations Executive)\n\nDate: 27/28th April 1944 (Thursday/Friday)\n\nUnit: No. 138 Squadron\n\nLocation: North Sea off Terschelling, Holland\n\nPilot: Fl/Sgt. George Herbert Williamson AUS/414741 RAAF Age 29. Killed\n\nFl/Eng: Sgt. George Partridge Croad 1890979 RAFVR Age 19. Missing\n\nNav: Fl/Sgt. Herbert Dootson 1032035 RAFVR Age 33. Missing\n\nAir/Bmr: W/O.2 Arthur John George Barnes R/157147 RCAF Age 22. Missing\n\nW/Op/Air/Gnr: Sgt. Hubert Francis Benbow 1046454 RAFVR Age 23. Missing\n\nAir/Gnr: Fl/Sgt. Eric Raymond Clayworth AUS/423063 RAAF Age 25. Missing\n\nAir/Gnr: Fl/Sgt. James Ethelred Smythe R/190191 RCAF Age 21. Missing\n\nWe hope with the kind assistance of W/ Cdr. Williamson, to add further pages of remembrance to our boys from the RAAF who gave everything.\n\nTaking off from RAF Tempsford, Gibraltar Farm in Bedfordshire at 23.10 hrs to drop much needed supplies to the Belgium resistance.\n\nStanding L-R: Sgt. Croad, Fl/Sgt. Smythe, Sgt. Benbow, W/O. Barnes. Seated L-R: Fl/Sgt. Williamson, Fl/Sgt. Dootson, Fl/Sgt. Clayworth (courtesy W/Cdr. John Williamson)\n\nWing Commander John Williamson RAAF (Ret) cousin of the pilot explains further:\n\nThis ‘search’ tells the story of my wife Noeleen and I, following our visit to George’s West Terschelling War Grave in 1998, searching for the family descendants of the other 6 lost crew. It was an amazing and heart-warming experience and we found them all, after 3 years! This was largely due to several kind-hearted people acting upon our letters and emails in the search. We then all met for the first time in various parts of the UK and in Ottawa, Canada. One of our commemorations was in Lowestoft, where we dedicated a public park seat to the memory of the crew, with the wonderful help of the Lowestoft District Council Officers and the RAFA Lowestoft Branch.\n\nNaturally we do focus particularly upon the RAAF and RNZAF personnel and RAF such personnel who are now Australian citizens. ATVARA now has both New Zealand and Polish/Australian families involved in our activities.\n\nThese activities happen on (or as close as possible to) Bastille Day (14 July) annually, at the Melbourne Shrine of Remembrance. The association between France and the RAF Tempsford SD Squadrons is more than appropriate, mindful of their crucial support of the French Resistance Forces throughout the War, but especially leading up to and following D-Day.\n\nATVARA have our own Memorial Plaque in a prominent place within the Shrine Reserve and our own large Forecourt SD Squadrons flag that flies on each Annual Commemoration in the Shrine Forecourt. We also have a smaller banner flag (plus another which we donated to TVARA).\n\nShrine of Remembrance, Melbourne, ATVARA ‘Special Duties’ Squadrons Memorial Plaque, on the right.\n\nIncluded in this page of remembrance as support for our friends in Australia for the work they carry out to remember 'Our boys'.\n\nJill Wilson, niece of 425800 Fl/Lt. Reginald Ronald Witham DFC, RAAF. No 138 (SD) Sqn. KIA 27th November 1944 (1), with Veteran SD Airman of No. 138 Sqn., 429212 W/O F. A. Bowman RAAF, standing in the Melbourne Shrine of Remembrance Forecourt, 14th July 2013, admiring the SD Squadron flag flying for the first time anywhere.\n\nMelbourne Shrine of Remembrance (Photo courtesy of Matt Smith, founder of the Australian War Graves Photographic Archive - AWGPA)\n\nSgt. George Partridge Croad. Runnymede Memorial. Panel 227. Son of Frederick John and Grace Beatrice Croad, of Richmond, Surrey, England.\n\nFl/Sgt. Herbert Dootson. Runnymede Memorial. Panel 217. Son of Frank and Katherine Dootson, husband of May Dootson, of Levenshulme, Lancashire, England.\n\nW/O.2 Arthur John George Barnes. Runnymede Memorial. Panel 254. Son of Walter George and Bessie Barnes, of Victoria, British Columbia, Canada.\n\nSgt. Hubert Francis Benbow. Runnymede Memorial. Panel 225. Son of Martin and Edith Mary Benbow, of Caersws, Montgomeryshire, Wales.\n\nFl/Sgt. Eric Raymond Clayworth. Runnymede Memorial. Panel 260. Son of John Harold and Amelia Ethel Clayworth, husband of Pearl Clayworth, of Willoughby, New South Wales, Australia.\n\nFl/Sgt. James Ethelred Smythe. Runnymede Memorial. Panel 255. Son of Harold Hastings Smythe and Jessie Maud Smythe, of St. Stephen, New Brunswick, Canada.\n\nFor further details our thanks to the following, W/Cdr."
+        },
+        {
+            "source_site": "MHHV (Military History and Heritage Victoria)",
+            "original_url": "http://www.mhhv.org.au/?p=1132",
+            "summary": "Australian military heritage article documenting the crew of Halifax LL356 as a 'Special' Halifax bomber crew from 138 Squadron. Provides context on the squadron's clandestine SOE operations and the multinational nature of the crew.",
+            "key_details": [
+                "SOE operations context provided",
+                "Multinational crew documented"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://aviation-safety.net/wikibase/50539",
+            "summary": "ASN records the accident of Halifax Mk V LL356 on 28 April 1944, confirming loss details and crew complement.",
+            "key_details": [
+                "ASN accident record confirmed",
+                "Date recorded as 28 April 1944 (post-midnight mission)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Roll of Honour",
+            "original_url": "http://www.roll-of-honour.com/Bedfordshire/TempsfordHailfaxBomberLL356NFU.html",
+            "summary": "The Roll of Honour website lists all seven crew members of Halifax LL356 NF-U who were killed on the special operations mission. A memorial seat with plaque was dedicated at Kirkley Bowls Club, Lowestoft, with support from the RAFA Lowestoft Branch.",
+            "key_details": [
+                "All seven crew listed by name",
+                "Memorial seat with RAFA support"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Lowestoft Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Lowestoft Town Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/138.jpg",
+    "squadron_motto": "For freedom",
+    "what3words": "bonfires.plunge.october"
 }

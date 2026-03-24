@@ -1,70 +1,69 @@
 {
-  "id": "thorpe-morieux-1-b-17-42-3108",
-  "title": "Thorpe Morieux (1) 42-3108 Memorial",
-  "location_name": "Thorpe Morieux (1), Suffolk",
-  "county": "Suffolk",
-  "country": "United Kingdom",
-  "region_code": "SF-011",
-  "crash_date": "1944-04-12",
-  "aircraft_type": "B-17 42-3108",
-  "squadron": "447th BG",
-  "station": "Rattlesden (USAAF)",
-  "crew_summary": "10 killed; pilot 2Lt. Philip D. King",
-  "memorial_type": "Crash site plaques",
-  "sources": [
-    {
-      "title": "Geograph Suffolk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.26108674962668,
-  "longitude": 1.2308363769675437,
-  "maintainer": {
-    "organisation": "Thorpe Morieux Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Geograph",
-      "original_url": "https://www.geograph.org.uk/photo/5519479",
-      "summary": "Photograph and location record of the B-17 crash site memorial at Thorpe Morieux, Suffolk, with two plaques commemorating 447th Bomb Group crews who died at this location.",
-      "key_details": "Memorial consists of crash site plaques. The 447th BG was based at USAAF Station Rattlesden, Suffolk.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "thorpe-morieux-1-b-17-42-3108",
+    "title": "Thorpe Morieux (1) 42-3108 Memorial",
+    "location_name": "Thorpe Morieux (1), Suffolk",
+    "county": "Suffolk",
+    "country": "United Kingdom",
+    "region_code": "SF-011",
+    "crash_date": "1944-04-12",
+    "aircraft_type": "B-17 42-3108",
+    "squadron": "447th BG",
+    "station": "Rattlesden (USAAF)",
+    "crew_summary": "10 killed; pilot 2Lt. Philip D. King",
+    "memorial_type": "Crash site plaques",
+    "sources": [
+        {
+            "title": "Geograph Suffolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.26108674962668,
+    "longitude": 1.2308363769675437,
+    "maintainer": {
+        "organisation": "Thorpe Morieux Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "American Air Museum (IWM)",
-      "original_url": "https://www.americanairmuseum.com/archive/unit/447th-bomb-group",
-      "summary": "IWM American Air Museum archive page for the 447th Bomb Group, which operated B-17 Flying Fortresses from Rattlesden, Suffolk, from late 1943 to 1945. Records the group's operational history and losses.",
-      "key_details": "The 447th BG flew over 250 missions from Rattlesden. The group suffered significant losses including multiple crashes in the surrounding Suffolk countryside.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "US Mil Awards",
-      "original_url": "https://usmilawards.uk/2024/01/14/tragedy-over-kettlebaston/",
-      "summary": "Detailed account of 447th Bomb Group losses near Thorpe Morieux and Kettlebaston, Suffolk. Documents the B-17 crash on 12 April 1944 involving the 711th Bomb Squadron.",
-      "key_details": "B-17 serial 42-31088 'Heaven Can Wait' from 711th BS crashed on 12 April 1944. Ten crew killed in the crash near Thorpe Morieux.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Stowmarket & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Thorpe Morieux Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/No._44_Squadron_RAF.png",
-  "squadron_motto": "The King's thunderbolts are righteous"
+    "external_narratives": [
+        {
+            "source_site": "Geograph",
+            "original_url": "https://www.geograph.org.uk/photo/5519479",
+            "summary": "Photograph and location record of the B-17 crash site memorial at Thorpe Morieux, Suffolk, with two plaques commemorating 447th Bomb Group crews who died at this location.",
+            "key_details": "Memorial consists of crash site plaques. The 447th BG was based at USAAF Station Rattlesden, Suffolk.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "American Air Museum (IWM)",
+            "original_url": "https://www.americanairmuseum.com/archive/unit/447th-bomb-group",
+            "summary": "IWM American Air Museum archive page for the 447th Bomb Group, which operated B-17 Flying Fortresses from Rattlesden, Suffolk, from late 1943 to 1945. Records the group's operational history and losses.",
+            "key_details": "The 447th BG flew over 250 missions from Rattlesden. The group suffered significant losses including multiple crashes in the surrounding Suffolk countryside.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "US Mil Awards",
+            "original_url": "https://usmilawards.uk/2024/01/14/tragedy-over-kettlebaston/",
+            "summary": "Detailed account of 447th Bomb Group losses near Thorpe Morieux and Kettlebaston, Suffolk. Documents the B-17 crash on 12 April 1944 involving the 711th Bomb Squadron.",
+            "key_details": "B-17 serial 42-31088 'Heaven Can Wait' from 711th BS crashed on 12 April 1944. Ten crew killed in the crash near Thorpe Morieux.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Stowmarket & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Thorpe Morieux Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "pump.subsystem.timidly"
 }

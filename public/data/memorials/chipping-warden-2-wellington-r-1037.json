@@ -1,69 +1,70 @@
 {
-  "id": "chipping-warden-2-wellington-r-1037",
-  "title": "Chipping Warden (2) R.1037 Memorial",
-  "location_name": "Chipping Warden (2), Northamptonshire",
-  "county": "Northamptonshire",
-  "country": "United Kingdom",
-  "region_code": "NH-005",
-  "crash_date": "1941-10-20",
-  "aircraft_type": "Wellington R.1037",
-  "squadron": "12 OTU",
-  "station": "Chipping Warden",
-  "crew_summary": "2 killed, 3 survived",
-  "memorial_type": "Memorial plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.337351425528894,
-  "longitude": -0.8604153834316527,
-  "maintainer": {
-    "organisation": "Chipping Warden and Edgcote Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "RAF Info (Chorley Losses)",
-      "original_url": "http://www.rafinfo.org.uk/BCWW2Losses/OTU.htm",
-      "summary": "RAF Bomber Command losses record referencing Wellington R.1037 of 12 OTU at Chipping Warden. The aircraft crashed on 20 October 1941 with two crew killed and three surviving.",
-      "key_details": [
-        "Reference OTU/079 in Chorley losses",
-        "12 OTU based at Chipping Warden from July 1941"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "chipping-warden-2-wellington-r-1037",
+    "title": "Chipping Warden (2) R.1037 Memorial",
+    "location_name": "Chipping Warden (2), Northamptonshire",
+    "county": "Northamptonshire",
+    "country": "United Kingdom",
+    "region_code": "NH-005",
+    "crash_date": "1941-10-20",
+    "aircraft_type": "Wellington R.1037",
+    "squadron": "12 OTU",
+    "station": "Chipping Warden",
+    "crew_summary": "2 killed, 3 survived",
+    "memorial_type": "Memorial plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.337351425528894,
+    "longitude": -0.8604153834316527,
+    "maintainer": {
+        "organisation": "Chipping Warden and Edgcote Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Wikipedia - RAF Chipping Warden",
-      "original_url": "https://en.wikipedia.org/wiki/RAF_Chipping_Warden",
-      "summary": "Overview of RAF Chipping Warden airfield which opened in July 1941 and hosted 12 OTU until June 1945, operating Avro Ansons and Vickers Wellingtons for bomber crew training. Multiple training accidents occurred during this period.",
-      "key_details": [
-        "Airfield opened July 1941",
-        "12 OTU operated Wellingtons and Ansons",
-        "Active as OTU until June 1945"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Daventry & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
-    },
-    {
-      "org_name": "Chipping Warden and Edgcote Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/No._12_Squadron_RAF.png",
-  "squadron_motto": "Leads the Field"
+    "external_narratives": [
+        {
+            "source_site": "RAF Info (Chorley Losses)",
+            "original_url": "http://www.rafinfo.org.uk/BCWW2Losses/OTU.htm",
+            "summary": "RAF Bomber Command losses record referencing Wellington R.1037 of 12 OTU at Chipping Warden. The aircraft crashed on 20 October 1941 with two crew killed and three surviving.",
+            "key_details": [
+                "Reference OTU/079 in Chorley losses",
+                "12 OTU based at Chipping Warden from July 1941"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wikipedia - RAF Chipping Warden",
+            "original_url": "https://en.wikipedia.org/wiki/RAF_Chipping_Warden",
+            "summary": "Overview of RAF Chipping Warden airfield which opened in July 1941 and hosted 12 OTU until June 1945, operating Avro Ansons and Vickers Wellingtons for bomber crew training. Multiple training accidents occurred during this period.",
+            "key_details": [
+                "Airfield opened July 1941",
+                "12 OTU operated Wellingtons and Ansons",
+                "Active as OTU until June 1945"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Daventry & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+        },
+        {
+            "org_name": "Chipping Warden and Edgcote Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
+    "squadron_motto": "Leads the field",
+    "what3words": "mimes.convey.asking"
 }

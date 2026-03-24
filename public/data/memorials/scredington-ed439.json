@@ -1,96 +1,97 @@
 {
-  "id": "scredington-ed439",
-  "title": "Scredington Lancaster Memorial",
-  "location_name": "Scredington, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-023",
-  "crash_date": "1943-06-18",
-  "aircraft_type": "Lancaster",
-  "serial_number": "ED439",
-  "squadron": "83 Sqdn.",
-  "station": "Wyton",
-  "crew_summary": "9 killed (7 crew, 2 passengers) including pilot Plt Off. Max Keiran Cummings",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.34806144583699,
-  "longitude": -0.41196297625992095,
-  "maintainer": {
-    "organisation": "Scredington Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Something Very Big (blog)",
-      "original_url": "https://somethingverybig.com/2013/03/13/remembering-scredington/",
-      "summary": "Detailed blog post about the Lancaster ED439 crash at Scredington. The aircraft dived out of cloud near Highgate Farm about 45 minutes after takeoff on 18 June 1943 and burnt on impact, killing all nine on board. The crew included an Australian pilot (PO Cummings RAAF), a Canadian rear gunner (FS Taylor RCAF), and two RAF Corporals believed to be wireless technicians.",
-      "key_details": [
-        "Crashed near Highgate Farm, Scredington",
-        "Dived out of cloud 45 minutes after takeoff",
-        "Aircraft burnt on impact",
-        "Pilot PO Max Keiran Cummings was RAAF",
-        "Two passengers were wireless technicians"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "scredington-ed439",
+    "title": "Scredington Lancaster Memorial",
+    "location_name": "Scredington, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-023",
+    "crash_date": "1943-06-18",
+    "aircraft_type": "Lancaster",
+    "serial_number": "ED439",
+    "squadron": "83 Sqdn.",
+    "station": "Wyton",
+    "crew_summary": "9 killed (7 crew, 2 passengers) including pilot Plt Off. Max Keiran Cummings",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.34806144583699,
+    "longitude": -0.41196297625992095,
+    "maintainer": {
+        "organisation": "Scredington Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Australian War Memorial",
-      "original_url": "https://www.awm.gov.au/collection/C2476120",
-      "summary": "Australian War Memorial collection entry for Lancaster Mk I fragments from PO Max Keiran Cummings RAAF. Records the Australian connection to this loss and preserves physical fragments of the aircraft.",
-      "key_details": [
-        "Physical aircraft fragments held by Australian War Memorial",
-        "RAAF service number 408904",
-        "Demonstrates Commonwealth dimension of the loss"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Imperial War Museums",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/67597",
-      "summary": "IWM War Memorials Register entry for 'The Crew of RAF Lancaster ED439 OL-N' memorial. National register record documenting the stone of remembrance at Scredington.",
-      "key_details": [
-        "IWM memorial reference 67597",
-        "Aircraft code OL-N",
-        "Stone of remembrance"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Virtual War Memorial Australia",
-      "original_url": "https://vwma.org.au/explore/units/1607",
-      "summary": "Virtual War Memorial Australia page for No. 83 Squadron (RAF) Pathfinder Force. Lists PO Cummings among Australian casualties serving with this elite Bomber Command pathfinder unit.",
-      "key_details": [
-        "83 Squadron was a Pathfinder Force unit",
-        "Australian casualties recorded in VWMA"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Sleaford & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Scredington Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eighth_Air_Force_-_Emblem_%28World_War_II%29.png",
-  "squadron_motto": "Peace Through Strength"
+    "external_narratives": [
+        {
+            "source_site": "Something Very Big (blog)",
+            "original_url": "https://somethingverybig.com/2013/03/13/remembering-scredington/",
+            "summary": "Detailed blog post about the Lancaster ED439 crash at Scredington. The aircraft dived out of cloud near Highgate Farm about 45 minutes after takeoff on 18 June 1943 and burnt on impact, killing all nine on board. The crew included an Australian pilot (PO Cummings RAAF), a Canadian rear gunner (FS Taylor RCAF), and two RAF Corporals believed to be wireless technicians.",
+            "key_details": [
+                "Crashed near Highgate Farm, Scredington",
+                "Dived out of cloud 45 minutes after takeoff",
+                "Aircraft burnt on impact",
+                "Pilot PO Max Keiran Cummings was RAAF",
+                "Two passengers were wireless technicians"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Australian War Memorial",
+            "original_url": "https://www.awm.gov.au/collection/C2476120",
+            "summary": "Australian War Memorial collection entry for Lancaster Mk I fragments from PO Max Keiran Cummings RAAF. Records the Australian connection to this loss and preserves physical fragments of the aircraft.",
+            "key_details": [
+                "Physical aircraft fragments held by Australian War Memorial",
+                "RAAF service number 408904",
+                "Demonstrates Commonwealth dimension of the loss"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/67597",
+            "summary": "IWM War Memorials Register entry for 'The Crew of RAF Lancaster ED439 OL-N' memorial. National register record documenting the stone of remembrance at Scredington.",
+            "key_details": [
+                "IWM memorial reference 67597",
+                "Aircraft code OL-N",
+                "Stone of remembrance"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Virtual War Memorial Australia",
+            "original_url": "https://vwma.org.au/explore/units/1607",
+            "summary": "Virtual War Memorial Australia page for No. 83 Squadron (RAF) Pathfinder Force. Lists PO Cummings among Australian casualties serving with this elite Bomber Command pathfinder unit.",
+            "key_details": [
+                "83 Squadron was a Pathfinder Force unit",
+                "Australian casualties recorded in VWMA"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Sleaford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Scredington Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/83.jpg",
+    "squadron_motto": "Strike to defend",
+    "what3words": "hoops.form.packing"
 }

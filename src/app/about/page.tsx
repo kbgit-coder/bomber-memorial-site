@@ -154,7 +154,9 @@ export default function AboutPage() {
           <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
             admin@bombermemorial.co.uk
           </a>{" "}
-          with any information you can share.
+          with any information you can share. Every memorial page also has a
+          &ldquo;Suggest a correction&rdquo; link at the bottom — we actively
+          welcome corrections from local communities who know these sites best.
         </p>
 
         {/* Remembrance quote */}

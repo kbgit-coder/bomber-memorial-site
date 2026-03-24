@@ -1,114 +1,115 @@
 {
-  "id": "bransby-at129",
-  "title": "Bransby Hampden Memorial",
-  "location_name": "Bransby, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-004",
-  "crash_date": "1942-01-25",
-  "aircraft_type": "Hampden",
-  "serial_number": "AT129",
-  "squadron": "49 Sqdn.",
-  "station": "Scampton",
-  "crew_summary": "4 killed including pilot Sgt. Charles Duncan Stuart Stewart",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.18549953094035,
-  "longitude": -0.39011813435287457,
-  "maintainer": {
-    "organisation": "Bransby Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20274",
-      "summary": "IWM records the memorial to Hampden AT129 which crashed at Bransby on 25 January 1942. The aircraft was coded EA-O of 49 Squadron based at RAF Scampton.",
-      "key_details": [
-        "IWM reference: memorial/20274",
-        "Aircraft code: EA-O"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "bransby-at129",
+    "title": "Bransby Hampden Memorial",
+    "location_name": "Bransby, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-004",
+    "crash_date": "1942-01-25",
+    "aircraft_type": "Hampden",
+    "serial_number": "AT129",
+    "squadron": "49 Sqdn.",
+    "station": "Scampton",
+    "crew_summary": "4 killed including pilot Sgt. Charles Duncan Stuart Stewart",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.18549953094035,
+    "longitude": -0.39011813435287457,
+    "maintainer": {
+        "organisation": "Bransby Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Geograph",
-      "original_url": "https://www.geograph.org.uk/photo/6503447",
-      "summary": "Photograph and description of the memorial to Hampden AT129 at Bransby. The memorial is within a wooden shelter at the Bransby Equestrian Centre, commemorating the four crew of 49 Squadron who were killed.",
-      "key_details": [
-        "Memorial within wooden shelter at Bransby Equestrian Centre"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "49 Squadron Association",
-      "original_url": "https://www.49squadron.co.uk/personnel_index/detail/West_GL",
-      "summary": "The 49 Squadron Association personnel index records details of the crew lost in Hampden AT129. The aircraft suffered double engine failure shortly after departing Scampton for operations over Brest, banked steeply to port and crashed.",
-      "key_details": [
-        "Double engine failure on departure for Brest operations",
-        "Crew: Sgt Stewart (23), Sgt Northrop (22), Sgt Hibbitt (21), Sgt Jardine (20)",
-        "Sgt Jardine was on attachment from 408 Squadron"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "crew": [
-    {
-      "name": "Charles Duncan Stuart Stewart",
-      "rank": "Sgt",
-      "age": 23,
-      "role": "Pilot",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "name": "Kenneth Edward Northrop",
-      "rank": "Sgt",
-      "age": 22,
-      "role": "Observer",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "name": "Albert Hibbitt",
-      "rank": "Sgt",
-      "age": 21,
-      "role": "W/Op Air Gunner",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "name": "Leonard Arthur Jardine",
-      "rank": "Sgt",
-      "age": 20,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Killed"
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Gainsborough & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Bransby Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/No._49_Squadron_RAF_badge.jpg",
-  "squadron_motto": "Beware of the dog"
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20274",
+            "summary": "IWM records the memorial to Hampden AT129 which crashed at Bransby on 25 January 1942. The aircraft was coded EA-O of 49 Squadron based at RAF Scampton.",
+            "key_details": [
+                "IWM reference: memorial/20274",
+                "Aircraft code: EA-O"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Geograph",
+            "original_url": "https://www.geograph.org.uk/photo/6503447",
+            "summary": "Photograph and description of the memorial to Hampden AT129 at Bransby. The memorial is within a wooden shelter at the Bransby Equestrian Centre, commemorating the four crew of 49 Squadron who were killed.",
+            "key_details": [
+                "Memorial within wooden shelter at Bransby Equestrian Centre"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "49 Squadron Association",
+            "original_url": "https://www.49squadron.co.uk/personnel_index/detail/West_GL",
+            "summary": "The 49 Squadron Association personnel index records details of the crew lost in Hampden AT129. The aircraft suffered double engine failure shortly after departing Scampton for operations over Brest, banked steeply to port and crashed.",
+            "key_details": [
+                "Double engine failure on departure for Brest operations",
+                "Crew: Sgt Stewart (23), Sgt Northrop (22), Sgt Hibbitt (21), Sgt Jardine (20)",
+                "Sgt Jardine was on attachment from 408 Squadron"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "crew": [
+        {
+            "name": "Charles Duncan Stuart Stewart",
+            "rank": "Sgt",
+            "age": 23,
+            "role": "Pilot",
+            "nationality": "British",
+            "fate": "Killed"
+        },
+        {
+            "name": "Kenneth Edward Northrop",
+            "rank": "Sgt",
+            "age": 22,
+            "role": "Observer",
+            "nationality": "British",
+            "fate": "Killed"
+        },
+        {
+            "name": "Albert Hibbitt",
+            "rank": "Sgt",
+            "age": 21,
+            "role": "W/Op Air Gunner",
+            "nationality": "British",
+            "fate": "Killed"
+        },
+        {
+            "name": "Leonard Arthur Jardine",
+            "rank": "Sgt",
+            "age": 20,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "fate": "Killed"
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Gainsborough & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Bransby Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
+    "squadron_motto": "Cave canem",
+    "what3words": "editor.trainer.grins"
 }
