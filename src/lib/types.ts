@@ -45,8 +45,23 @@ export interface ExternalNarrative {
   original_url: string;
   summary?: string;
   key_details?: string;
+  full_narrative?: string;
   date_retrieved?: string;
   still_live?: boolean;
+}
+
+export interface Photo {
+  filename: string;
+  caption?: string;
+  source?: string;
+  credit?: string;
+  date_taken?: string;
+}
+
+export interface AdditionalContributor {
+  name: string;
+  role?: string;
+  date?: string;
 }
 
 export interface Memorial {
@@ -74,14 +89,19 @@ export interface Memorial {
   crew?: CrewMember[];
   crew_summary?: string;
   memorial_type?: string;
+  memorial_name?: string;
+  memorial_address?: string;
+  memorial_access_notes?: string;
   erected_by?: string;
   dedication_date?: string;
   condition?: string;
+  photos?: Photo[];
   maintainer?: Maintainer;
   local_contacts?: LocalContact[];
   external_narratives?: ExternalNarrative[];
   sources?: Source[];
   contributor?: string;
+  additional_contributors?: AdditionalContributor[];
   last_updated?: string;
   data_quality?: 'Complete' | 'Partial' | 'Stub';
 }

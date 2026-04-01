@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /data/
+
+Sitemap: https://bombermemorial.co.uk/sitemap.xml

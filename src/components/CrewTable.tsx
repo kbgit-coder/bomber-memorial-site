@@ -5,7 +5,7 @@ interface CrewTableProps {
 }
 
 export default function CrewTable({ crew }: CrewTableProps) {
-  const hasBios = crew.some((m) => m.bio || m.fate_detail || m.hometown || m.decorations);
+  const hasBios = crew.some((m) => m.bio || m.hometown);
 
   return (
     <div>
@@ -59,17 +59,6 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       }}
                     >
                       {member.service_number}
-                    </div>
-                  )}
-                  {member.hometown && (
-                    <div
-                      style={{
-                        fontSize: "0.75rem",
-                        color: "#8b7355",
-                        fontWeight: 400,
-                      }}
-                    >
-                      {member.hometown}
                     </div>
                   )}
                 </td>
@@ -145,11 +134,6 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       CWGC
                     </span>
                   )}
-                  {member.fate_detail && (
-                    <div style={{ fontSize: "0.75rem", color: "#666", marginTop: "0.25rem", fontStyle: "italic" }}>
-                      {member.fate_detail}
-                    </div>
-                  )}
                 </td>
               </tr>
             ))}
@@ -172,7 +156,7 @@ export default function CrewTable({ crew }: CrewTableProps) {
           </h3>
           <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
             {crew
-              .filter((m) => m.bio || m.fate_detail || m.hometown)
+              .filter((m) => m.bio || m.hometown)
               .map((member, index) => (
                 <div
                   key={index}
@@ -223,16 +207,9 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       From {member.hometown}
                     </p>
                   )}
-                  {member.bio && (
-                    <p style={{ fontSize: "0.9rem", color: "#444", lineHeight: 1.7, margin: 0 }}>
-                      {member.bio}
-                    </p>
-                  )}
-                  {!member.bio && member.fate_detail && (
-                    <p style={{ fontSize: "0.9rem", color: "#444", lineHeight: 1.7, margin: 0 }}>
-                      {member.fate_detail}
-                    </p>
-                  )}
+                  <p style={{ fontSize: "0.9rem", color: "#444", lineHeight: 1.7, margin: 0 }}>
+                    {member.bio}
+                  </p>
                 </div>
               ))}
           </div>

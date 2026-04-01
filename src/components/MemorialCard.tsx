@@ -12,7 +12,7 @@ export default function MemorialCard({ memorial }: MemorialCardProps) {
     Stub: { bg: "#5a3a1e", text: "#d4a88c" },
   };
 
-  const badge = qualityBadge[memorial.data_quality || "Stub"];
+  const badge = qualityBadge[memorial.data_quality as keyof typeof qualityBadge] || qualityBadge["Partial"];
 
   return (
     <Link

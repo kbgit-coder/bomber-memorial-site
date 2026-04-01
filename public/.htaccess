@@ -1,0 +1,25 @@
+# Force HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Security Headers
+<IfModule mod_headers.c>
+    Header always set X-Frame-Options "DENY"
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always unset Server
+    Header always unset X-Powered-By
+</IfModule>
+
+# Prevent directory listing
+Options -Indexes
+
+# Block access to hidden files
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>

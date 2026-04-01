@@ -1,6 +1,6 @@
 {
     "id": "elsham-wolds-jd386",
-    "title": "Elsham Wolds Halifax Memorial",
+    "title": "Elsham Wolds — Black Swan Memorial (Halifax JD386)",
     "location_name": "Elsham Wolds, Lincolnshire",
     "county": "Lincolnshire",
     "country": "United Kingdom",
@@ -11,16 +11,142 @@
     "squadron": "1666 HCU",
     "station": "Elsham Wolds",
     "crew_summary": "7 killed including pilot Plt Off. Johann Sigurdson",
+    "crew": [
+        {
+            "rank": "P/O",
+            "name": "Johann Sigurdson",
+            "role": "Pilot",
+            "nationality": "Canadian (Icelandic-born)",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row C, Grave 3",
+            "bio": "Son of Sigurthor and Maria Osk Sigurdson, husband of Mary Eileen Sigurdson, of Winnipeg, Manitoba, Canada. The only Icelandic-born bomber pilot killed in WW2. Sigurdson Peninsula in Manitoba was named in his honour in 1995.",
+            "hometown": "Winnipeg, Manitoba, Canada"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Robert Thomas Garth Loughrin",
+            "service_number": "1796421",
+            "role": "Flight Engineer",
+            "age": 20,
+            "nationality": "British (Northern Irish)",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row B, Grave 17",
+            "bio": "Son of Joseph G. Loughrin and Maude E. Loughrin, of Cookstown, Co. Tyrone, Northern Ireland. Grave inscription: \"Safe In The Arms Of Jesus\".",
+            "hometown": "Cookstown, Co. Tyrone, Northern Ireland"
+        },
+        {
+            "rank": "F/O",
+            "name": "George Lindley Muskett",
+            "service_number": "J/26289",
+            "role": "Navigator",
+            "age": 31,
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row B, Grave 20",
+            "bio": "Son of Henry Joseph Salisbury Muskett and Winifred Janet Muskett, husband of Joan Elizabeth Muskett, of Vancouver, British Columbia, Canada.",
+            "hometown": "Vancouver, British Columbia, Canada"
+        },
+        {
+            "rank": "F/O",
+            "name": "John Burgess Eaton",
+            "service_number": "J/28076",
+            "role": "Air Bomber",
+            "age": 30,
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row B, Grave 19",
+            "bio": "Son of Charles Edward and Margaret Lydia Eaton, of Oshawa, Ontario, Canada. Grave inscription: \"Till The Sunshine Of To-Morrow Lifts The Shadows Of To-Day\".",
+            "hometown": "Oshawa, Ontario, Canada"
+        },
+        {
+            "rank": "W/O 1",
+            "name": "Joseph M. Healey",
+            "service_number": "R/96219",
+            "role": "Wireless Operator/Air Gunner",
+            "age": 33,
+            "nationality": "American (serving RCAF)",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row C, Grave 2",
+            "bio": "Son of Thomas R. Healey and Catherine Healey, of the USA. Grave inscription: \"Jesus Have Mercy On Him Mary And Joseph Pray For Him\".",
+            "hometown": "USA"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Francis Elvin Wilt",
+            "service_number": "R/192018",
+            "role": "Air Gunner",
+            "age": 22,
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row B, Grave 18",
+            "bio": "Son of Elvin Edward and Selena Mabel Wilt, of Stelcam, Saskatchewan, Canada. Wilt Lake in Saskatchewan was named in his honour. Grave inscription: \"Among Honored Comrades Our Son 'Rest On Thy Duty Done' From His Home In Canada\".",
+            "hometown": "Stelcam, Saskatchewan, Canada"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Peter Zayets",
+            "service_number": "R/124095",
+            "role": "Air Gunner",
+            "age": 23,
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "burial_location": "Harrogate (Stonefall) Cemetery, Sec F, Row C, Grave 1",
+            "bio": "Son of Alexander and Maria Zayets, of Winnipeg, Manitoba, Canada. Zayets Lake was named in his honour in 1974. His brother, Sgt Stephen Zayets (R/56703 RCAF), was also killed — on 14 July 1943 with 428 Squadron, buried in Florennes Communal Cemetery, Belgium. Grave inscription: \"In Loving Memory Of Our Dear Son And Brother Peter\".",
+            "hometown": "Winnipeg, Manitoba, Canada"
+        }
+    ],
     "memorial_type": "Memorial at airfield",
+    "memorial_name": "The Black Swan Memorial",
+    "memorial_address": "RAF Elsham Wolds Memorial Rooms and Garden, Middle Gate Lane, Elsham, DN20 0PH",
+    "memorial_access_notes": "Located on the old airfield site, now owned by Anglian Water. Protected by a high fenced compound with controlled access gate. The memorial is inside the compound, maintained by volunteers of the RAF Elsham Wolds Memorial Rooms and Garden.",
+    "photos": [
+        {
+            "filename": "elsham-wolds-black-swan-memorial.jpg",
+            "caption": "The Black Swan Memorial at RAF Elsham Wolds, showing crew names of Pilot Officer Sigurdson and crew",
+            "credit": "Stuart Altoft",
+            "date_taken": "2026",
+            "source": "Direct submission"
+        },
+        {
+            "filename": "elsham-wolds/1666-heavy-conversion-unit-halifax-ii-jd386-1-w900h480.jpg",
+            "caption": "Halifax II JD386 of 1666 Heavy Conversion Unit",
+            "credit": "",
+            "source": "Aircrew Remembered"
+        },
+        {
+            "filename": "elsham-wolds/harrogate-cemetery-stonefall-3-w800.jpg",
+            "caption": "Harrogate (Stonefall) Cemetery where all seven crew are buried",
+            "credit": "",
+            "source": "Aircrew Remembered"
+        },
+        {
+            "filename": "elsham-wolds/po.-johann-sigurdson-and-grave-w800.jpg",
+            "caption": "P/O Johann Sigurdson and his grave at Harrogate Cemetery",
+            "credit": "",
+            "source": "Aircrew Remembered"
+        }
+    ],
     "sources": [
         {
             "title": "Geograph",
             "type": "website"
+        },
+        {
+            "title": "Stuart Altoft — RAF Elsham Wolds Memorial Rooms volunteer",
+            "type": "personal_correspondence",
+            "date": "2026-04-01"
         }
     ],
     "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
+    "additional_contributors": [
+        {
+            "name": "Stuart Altoft",
+            "role": "Photo and memorial details — RAF Elsham Wolds Memorial Rooms and Garden volunteer",
+            "date": "2026-04-01"
+        }
+    ],
+    "last_updated": "2026-04-01",
+    "data_quality": "Good",
     "latitude": 53.088377710105874,
     "longitude": -0.4013351565614094,
     "maintainer": {
@@ -48,6 +174,13 @@
         }
     ],
     "local_contacts": [
+        {
+            "org_name": "RAF Elsham Wolds Memorial Rooms and Garden",
+            "org_type": "volunteer_group",
+            "role": "Maintains the Black Swan Memorial and memorial rooms on the former airfield site",
+            "contact_name": "Stuart Altoft",
+            "contact_email": "stu.altoft@gmail.com"
+        },
         {
             "org_name": "Great Grimsby Royal British Legion",
             "org_type": "british_legion",
