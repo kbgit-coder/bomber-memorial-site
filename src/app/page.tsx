@@ -1,4 +1,4 @@
-import { getAllMemorials, getMemorialStats, getCountryCodes, getWeeklyFeaturedMemorials, getWeekLabel } from "@/lib/data";
+import { getAllMemorials, getMemorialStats, getCountryCodes, getMemorialBySlug } from "@/lib/data";
 import SearchBar from "@/components/SearchBar";
 import Link from "next/link";
 import { Memorial } from "@/lib/types";
@@ -43,13 +43,23 @@ function toFeaturedMemorial(m: Memorial) {
 export default function HomePage() {
   const allMemorials = getAllMemorials();
   const stats = getMemorialStats();
-  const weeklyFeatured = getWeeklyFeaturedMemorials();
-  const weekLabel = getWeekLabel();
   const regions = getCountryCodes();
 
   // Light versions for search (no narratives, crew arrays, coords, or sources)
   const memorials = allMemorials.map(toLightMemorial);
-  const weeklyCards = weeklyFeatured.map(toFeaturedMemorial);
+
+  // Hand-picked flagship records — updated quarterly
+  const flagshipSlugs = [
+    "farnsfield-halifax-mz519",
+    "elsham-wolds-jd386",
+    "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
+    "kirkley-lowestoft-halifax-memorial-general-memorial-to-196",
+    "higher-shelf-stones-overexposed-memorial-b-29-44-61999",
+  ];
+  const flagshipCards = flagshipSlugs
+    .map(slug => getMemorialBySlug(slug))
+    .filter(Boolean)
+    .map(m => toFeaturedMemorial(m!));
 
   return (
     <div>
@@ -216,8 +226,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* This Week's Memorials */}
-      {weeklyCards.length > 0 && (
+      {/* Featured Memorials */}
+      {flagshipCards.length > 0 && (
         <section
           style={{
             maxWidth: 1200,
@@ -234,28 +244,17 @@ export default function HomePage() {
               textAlign: "center",
             }}
           >
-            This Week&apos;s Memorials
+            Featured Memorials
           </h2>
           <p
             style={{
               textAlign: "center",
               color: "#666",
-              marginBottom: "0.25rem",
+              marginBottom: "2rem",
               fontSize: "0.95rem",
             }}
           >
-            Five memorials showcased each week &mdash; every memorial featured at least once per year.
-          </p>
-          <p
-            style={{
-              textAlign: "center",
-              color: "#999",
-              marginBottom: "2rem",
-              fontSize: "0.8rem",
-              fontStyle: "italic",
-            }}
-          >
-            {weekLabel}
+            Some of the most detailed records in the register &mdash; showcasing crew stories, photographs, and community contributions.
           </p>
           <div
             style={{
@@ -264,7 +263,7 @@ export default function HomePage() {
               gap: "1.5rem",
             }}
           >
-            {weeklyCards.map((card) => (
+            {flagshipCards.map((card) => (
               <Link
                 key={card.id}
                 href={`/memorial/${card.id}`}
