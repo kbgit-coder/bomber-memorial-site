@@ -223,12 +223,13 @@ export default function MemorialPage({ params }: Props) {
                   border: "1px solid #e0dcd5",
                   position: "relative",
                   aspectRatio: "4/3",
+                  backgroundColor: "#f0ece4",
                 }}>
                   <Image
                     src={`/images/memorials/${photo.filename}`}
                     alt={photo.caption || `${memorial.title} - photograph ${i + 1}`}
                     fill
-                    style={{ objectFit: "cover" }}
+                    style={{ objectFit: "contain" }}
                     sizes="(max-width: 600px) 100vw, 400px"
                     unoptimized
                   />
