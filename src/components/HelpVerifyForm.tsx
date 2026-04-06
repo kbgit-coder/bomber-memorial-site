@@ -7,9 +7,6 @@ interface HelpVerifyFormProps {
   memorialTitle: string;
 }
 
-// Form handler running on Dell, accessible on Tailscale; for static export we POST directly
-const FORM_HANDLER = "http://192.168.0.114:3458/submit-verify";
-
 function posthogCapture(event: string, props: Record<string, unknown>) {
   if (typeof window !== "undefined" && (window as unknown as Record<string, unknown>).posthog) {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -21,7 +18,6 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
   const [open, setOpen] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -37,63 +33,21 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
     });
   }
 
-  async function handleSubmit(e: React.FormEvent) {
+  function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setSubmitting(true);
-    setError(null);
-
-    const payload = {
+    const subject = encodeURIComponent(`Location verification: ${memorialTitle}`);
+    const body = encodeURIComponent(
+      `Memorial: ${memorialTitle}\nID: ${memorialId}\n\nYour name: ${name.trim()}\nYour email: ${email.trim()}\n\nEvidence / source:\n${source.trim()}\n\nCorrected coordinates (if known):\nLat: ${lat.trim() || "—"}\nLng: ${lng.trim() || "—"}`
+    );
+    window.location.href = `mailto:admin@bombermemorial.co.uk?subject=${subject}&body=${body}`;
+    setSubmitted(true);
+    setSubmitting(false);
+    posthogCapture("form_submission", {
+      form_type: "help_verify",
       memorial_id: memorialId,
-      memorial_title: memorialTitle,
-      name: name.trim(),
-      email: email.trim(),
-      source: source.trim(),
-      corrected_lat: lat.trim() || null,
-      corrected_lng: lng.trim() || null,
-    };
-
-    try {
-      const res = await fetch(FORM_HANDLER, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-
-      if (res.ok) {
-        setSubmitted(true);
-        posthogCapture("form_submission", {
-          form_type: "help_verify",
-          memorial_id: memorialId,
-          has_coordinates: !!(lat && lng),
-        });
-      } else {
-        // Fall back to mailto if form handler unavailable
-        const subject = encodeURIComponent(`Location verification: ${memorialTitle}`);
-        const body = encodeURIComponent(
-          `Memorial: ${memorialTitle}\nID: ${memorialId}\n\nYour name: ${name}\nYour email: ${email}\n\nEvidence / source:\n${source}\n\nCorrected coordinates (if known):\nLat: ${lat}\nLng: ${lng}`
-        );
-        window.location.href = `mailto:admin@bombermemorial.co.uk?subject=${subject}&body=${body}`;
-        setSubmitted(true);
-        posthogCapture("form_submission", {
-          form_type: "help_verify_mailto_fallback",
-          memorial_id: memorialId,
-        });
-      }
-    } catch {
-      // Network error — use mailto fallback
-      const subject = encodeURIComponent(`Location verification: ${memorialTitle}`);
-      const body = encodeURIComponent(
-        `Memorial: ${memorialTitle}\nID: ${memorialId}\n\nYour name: ${name}\nYour email: ${email}\n\nEvidence / source:\n${source}\n\nCorrected coordinates (if known):\nLat: ${lat}\nLng: ${lng}`
-      );
-      window.location.href = `mailto:admin@bombermemorial.co.uk?subject=${subject}&body=${body}`;
-      setSubmitted(true);
-      posthogCapture("form_submission", {
-        form_type: "help_verify_mailto_fallback",
-        memorial_id: memorialId,
-      });
-    } finally {
-      setSubmitting(false);
-    }
+      has_coordinates: !!(lat.trim() && lng.trim()),
+    });
   }
 
   if (!open) {
@@ -227,10 +181,6 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
             Decimal degrees format. Leave blank if unsure.
           </p>
         </div>
-
-        {error && (
-          <p style={{ color: "#c44", fontSize: "0.85rem", marginBottom: "0.75rem" }}>{error}</p>
-        )}
 
         <div style={{ display: "flex", gap: "0.75rem", alignItems: "center" }}>
           <button
