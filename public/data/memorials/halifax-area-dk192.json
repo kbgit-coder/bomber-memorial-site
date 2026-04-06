@@ -1,178 +1,186 @@
 {
-    "id": "halifax-area-dk192",
-    "title": "Halifax area Halifax Memorial",
-    "location_name": "Halifax area, West Yorkshire",
-    "county": "West Yorkshire",
-    "country": "United Kingdom",
-    "region_code": "WY-001",
-    "crash_date": "1944-02-07",
-    "aircraft_type": "Halifax",
-    "serial_number": "DK192",
-    "squadron": "1663 Heavy Conversion Unit",
-    "station": "RAF Rufforth",
-    "crew_summary": "All killed (5 RCAF, 2 RAF); training flight in 10/10ths cloud",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "York Stories",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the morning of 7 February 1944, Flight Lieutenant Hodson -- an experienced and decorated instructor pilot -- took his trainee crew up from Rufforth for a daytime training flight. The weather was appalling: total cloud covered the Yorkshire Wolds down to ground level. At 10:15 hours, flying blind, the Halifax struck the summit of Garrowby Hill at around 800 feet, one of the highest points on the A166 road between York and the coast. The aircraft crossed the road and exploded. At that precise moment, Arthur Kirkby was driving his milk collection lorry along the road on his rounds to the surrounding farms. The Halifax struck the lorry, killing Kirkby instantly alongside all seven airmen. Hodson, who held the Distinguished Flying Cross from operational service, was 30 years old -- the two youngest crew members, gunners McDonald and Booker, were both 19. One crew member initially survived the impact but died later in York Hospital. The regular bomb aimer, Alun Emlyn-Jones, had been taken off the flight that morning due to an erupting appendix -- a twist of fate that saved his life and drove him, decades later, to campaign for a permanent memorial.",
-    "crew": [
-        {
-            "rank": "F/Lt",
-            "name": "Alfred John Shirley Hodson DFC",
-            "service_number": "130663 RAFVR",
-            "age": 30,
-            "role": "Pilot (Instructor)",
-            "nationality": "British",
-            "burial_location": "Harrogate Cemetery, C/K/19",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax DK192 struck the summit of Garrowby Hill in total cloud cover. Hodson was an experienced instructor pilot who held the Distinguished Flying Cross from operational service.",
-            "decorations": [
-                "DFC"
-            ],
-            "bio": "An experienced and decorated instructor pilot, Hodson held the DFC from operational service. At 30, he was the eldest of the crew.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Stanley Bright",
-            "service_number": "1042582 RAFVR",
-            "age": 22,
-            "role": "2nd Pilot (Trainee)",
-            "nationality": "British",
-            "burial_location": "Newcastle upon Tyne Cemetery, E/108",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "John Frederick Nelson",
-            "service_number": "1796160 RAFVR",
-            "age": 21,
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "burial_location": "Belfast City Cemetery, L.1/304",
-            "fate": "Killed"
-        },
-        {
-            "rank": "F/O",
-            "name": "John Kingsley Meyler",
-            "service_number": "151321 RAFVR",
-            "age": 25,
-            "role": "Navigator",
-            "nationality": "British",
-            "burial_location": "Jarrow Cemetery, 3/258",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "Kenneth Smith",
-            "service_number": "1577088 RAFVR",
-            "age": 22,
-            "role": "Wireless Op/Air Gunner",
-            "nationality": "British",
-            "burial_location": "Hednesford Church, E/12/3",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "Peter Gordon McDonald",
-            "service_number": "1822095 RAFVR",
-            "age": 19,
-            "role": "Air Gunner",
-            "nationality": "British",
-            "burial_location": "Glasgow Western Cemetery, D/1040",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "Sidney James Booker",
-            "service_number": "1866190 RAFVR",
-            "age": 19,
-            "role": "Air Gunner (Trainee)",
-            "nationality": "British",
-            "burial_location": "City of London Cemetery, 328/111442",
-            "fate": "Killed"
-        }
-    ],
-    "latitude": 54.0047,
-    "longitude": -0.7614,
-    "cause_of_loss": "Flew into hilltop in 10/10ths cloud; struck road and milk lorry",
-    "operation_type": "Training",
-    "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Granite memorial stone at crash site | | **Dedicated** | 8 May 1996 | | **Organised by** | Alun Emlyn-Jones (surviving crew member who missed the flight) | | **Condition** | Good | | **Access** | Lay-by on A166, Garrowby Hill, approximately 6 miles east of Stamford Bridge; publicly accessible from road |",
-    "maintainer": {
-        "organisation": "Calderdale Council",
-        "maintainer_type": "parish-council"
+  "id": "halifax-area-dk192",
+  "title": "Halifax area Halifax Memorial",
+  "location_name": "Halifax area, West Yorkshire",
+  "county": "West Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "WY-001",
+  "crash_date": "1944-02-07",
+  "aircraft_type": "Halifax",
+  "serial_number": "DK192",
+  "squadron": "1663 Heavy Conversion Unit",
+  "station": "RAF Rufforth",
+  "crew_summary": "All killed (5 RCAF, 2 RAF); training flight in 10/10ths cloud",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "York Stories",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "On the morning of 7 February 1944, Flight Lieutenant Hodson -- an experienced and decorated instructor pilot -- took his trainee crew up from Rufforth for a daytime training flight. The weather was appalling: total cloud covered the Yorkshire Wolds down to ground level. At 10:15 hours, flying blind, the Halifax struck the summit of Garrowby Hill at around 800 feet, one of the highest points on the A166 road between York and the coast. The aircraft crossed the road and exploded. At that precise moment, Arthur Kirkby was driving his milk collection lorry along the road on his rounds to the surrounding farms. The Halifax struck the lorry, killing Kirkby instantly alongside all seven airmen. Hodson, who held the Distinguished Flying Cross from operational service, was 30 years old -- the two youngest crew members, gunners McDonald and Booker, were both 19. One crew member initially survived the impact but died later in York Hospital. The regular bomb aimer, Alun Emlyn-Jones, had been taken off the flight that morning due to an erupting appendix -- a twist of fate that saved his life and drove him, decades later, to campaign for a permanent memorial.",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Alfred John Shirley Hodson DFC",
+      "service_number": "130663 RAFVR",
+      "age": 30,
+      "role": "Pilot (Instructor)",
+      "nationality": "British",
+      "burial_location": "Harrogate Cemetery, C/K/19",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax DK192 struck the summit of Garrowby Hill in total cloud cover. Hodson was an experienced instructor pilot who held the Distinguished Flying Cross from operational service.",
+      "decorations": [
+        "DFC"
+      ],
+      "bio": "An experienced and decorated instructor pilot, Hodson held the DFC from operational service. At 30, he was the eldest of the crew.",
+      "cwgc_verified": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered",
-            "original_url": "https://aircrewremembered.com/hodson-alfred.html",
-            "summary": "Page for Fl/Lt Alfred John Shirley Hodson DFC and crew of Halifax DK192, 1663 HCU RAF Rufforth. On 7 February 1944, the aircraft flew into the summit of Garrowby Hill in total cloud cover, also killing civilian milk lorry driver Arthur Kirkby.",
-            "key_details": "Hodson held the DFC from operational service and was aged 30. Regular bomb aimer Alun Emlyn-Jones was removed from the flight due to an erupting appendix, saving his life. He later campaigned for the memorial. One crew member initially survived but died in York Hospital.",
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 07.02.1944 No. 1663 HCU Halifax V DK192 Fl/Lt. Alfred J.S. Hodson DFC Operation: Training\n\nDate: 7th February 1944 (Monday)\n\nUnit: No. 1663 HCU. (Heavy Conversion Unit)\n\nLocation: Garrowby Hill, Yorkshire.\n\nPilot: (Inst) Fl/Lt. Alfred John Shirley Hodson DFC. 130663 RAFVR Age 29. Killed (1)\n\nPilot 2: (U/T) Fl/Sgt. Stanley Bright 1042582 RAFVR Age 22. Killed\n\nFl/Eng: Sgt. John Frederick Nelson 1796160 RAFVR Age 21. Killed\n\nNav: F/O. John Kingsley Meyler 151321 RAFVR Age 25. Killed\n\nW/Op/Air/Gnr: Sgt. Kenneth Smith 1577088 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Peter Gordon McDonald 1822095 RAFVR Age 19. Killed\n\nAir/Gnr: (U.T) Sgt. Sidney James Booker 1866190 RAFVR Age 19. Killed\n\nCivilian: Home Guard. Arthur Wood Kirkby Age 39. Killed\n\nTook off from RAF Rufforth in the morning of the 7th February for a cross country training exercise.\n\nA well respected local employee, Arthur Kirkby was driving his milk collection vehicle to the various village farms, collecting milk to take to the railway station when at 10:14 hrs Halifax DK192 hit the truck killing him and all the crew on the aircraft. The aircraft had skidded across the main road after, it seems, it reduced height to get their bearings not realising that they were in the area of Garrowby Hill - the highest peak in that area at 838 ft. The aircraft exploded in flames shortly after impact.\n\n(1) Fl/Lt. Alfred John Shirley Hodson, during service with 76 Squadron completed a tour. London Gazette January 7th 1944 reads:\n\nFl/Lt. Alfred John Shirley Hodson DFC. Harrogate Cemetery Sec. C. Row K. Grave 19. No further details as yet - are you able to assist with this?\n\nFl/Sgt. Stanley Bright. Newcastle Upon Tyne Cemetery Sec. E. Cons. Grave 108. Son of Thomas and Mary Bright, of Westerhope, Newcastle Upon Tyne, England.\n\nSgt. John Frederick Nelson. Belfast City Cemetery Sec. L.1. Grave 304. Son of John and Dorothy Louise Nelson, of Belfast, Northern Ireland.\n\nF/O. John Kingsley Meyler Jarrow Cemetery Sec. 3 Grave 258. Son of John Charles and Margaret Meyler, of Jarrow, Tyne and Wear, England.\n\nSgt. Kenneth Smith. Hednesford Church Sec. E. Row 12. Grave 3. Son of Edward and Annie Maria Smith; husband of Jane Lorraine Smith, of Hednesford, Cannock, Staffordshire, England.\n\nSgt. Peter Gordon McDonald. Glasgow Western Sec. D. Grave 1040. Son of P. McDonald and Margaret McDonald, of Bearsden, Dunbartonshire, Scotland.\n\nSgt. Sidney James Booker. City of London Cemetery Manor Park, Square 328. Grave 111442. No further details as yet - are you able to assist with this?\n\nCivilian: Home Guard. Arthur Wood Kirkby. Pocklington Rural District Cemetery. Employed at the time by the London and North Eastern Railway. Son of B.A. Kirkby, of 3 Carlton Street, Hessle Road, Hull, and of the late John W. Kirkby 33030 - A private in the East Yorkshire Regiment, killed on the 9th April 1918 and buried in Pas de Calais, France.\n\nResearched by Jennifer Graham and webmaster for relatives / friends of the crew.\n\nKTY/JG 01.07.2015 Update layout\n\n- 1663 HCU Halifax V DK192 Fl/Lt. Hodson, RAF Rufforth, accident, Garrowby Hill, Yorkshire Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/35102",
-            "summary": "Imperial War Museum register entry for the Halifax DK192 memorial on Garrowby Hill. Granite memorial stone erected through the efforts of Alun Emlyn-Jones, the surviving crew member.",
-            "key_details": "Memorial reference 35102. Dedicated 8 May 1996. Located in a lay-by on the A166, Garrowby Hill, approximately 6 miles east of Stamford Bridge.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/254705/",
-            "summary": "War Memorials Online listing for the Halifax DK192 memorial at Garrowby Hill. Documents the granite memorial stone and crew details.",
-            "key_details": "Memorial reference 254705. Lists all seven crew and civilian Arthur Kirkby. Publicly accessible from the A166 roadside.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Yorkshire Aircraft",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/dk192.html",
-            "summary": "Yorkshire Aircraft database entry for Halifax DK192. Provides detailed crash timeline and circumstances, noting the 10/10ths cloud cover and the aircraft's collision with both the hilltop and the milk lorry on the A166.",
-            "key_details": "Crash at 10:15 hours. Aircraft crossed the road and caught fire. Milk lorry driver Arthur Wood Kirkby killed. Unit was 1663 HCU, not 1663 as sometimes misquoted.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Halifax Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/west-yorkshire/"
-        },
-        {
-            "org_name": "Calderdale Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "darker.email.triathlon",
-    "photos": [
-        {
-            "filename": "halifax-area-dk192/1663-heavy-conversion-unit-halifax-v-dk192-memorial-w760.jpg",
-            "caption": "1663 heavy conversion unit halifax v dk192 memorial",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "halifax-area-dk192/59fa292bdec47_DSCF7686_547x410.JPG",
-            "caption": "59fa292bdec47 DSCF7686 547x410",
-            "credit": "John E Scurr / War Memorials Online"
-        },
-        {
-            "filename": "halifax-area-dk192/59fa2969427c1_DSCF7690_547x410.JPG",
-            "caption": "59fa2969427c1 DSCF7690 547x410",
-            "credit": "John E Scurr / War Memorials Online"
-        }
-    ]
+    {
+      "rank": "F/Sgt",
+      "name": "Stanley Bright",
+      "service_number": "1042582 RAFVR",
+      "age": 22,
+      "role": "2nd Pilot (Trainee)",
+      "nationality": "British",
+      "burial_location": "Newcastle upon Tyne Cemetery, E/108",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Frederick Nelson",
+      "service_number": "1796160 RAFVR",
+      "age": 21,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Belfast City Cemetery, L.1/304",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "John Kingsley Meyler",
+      "service_number": "151321 RAFVR",
+      "age": 25,
+      "role": "Navigator",
+      "nationality": "British",
+      "burial_location": "Jarrow Cemetery, 3/258",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Smith",
+      "service_number": "1577088 RAFVR",
+      "age": 22,
+      "role": "Wireless Op/Air Gunner",
+      "nationality": "British",
+      "burial_location": "Hednesford Church, E/12/3",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Peter Gordon McDonald",
+      "service_number": "1822095 RAFVR",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Glasgow Western Cemetery, D/1040",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney James Booker",
+      "service_number": "1866190 RAFVR",
+      "age": 19,
+      "role": "Air Gunner (Trainee)",
+      "nationality": "British",
+      "burial_location": "City of London Cemetery, 328/111442",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": 54.0047,
+  "longitude": -0.7614,
+  "cause_of_loss": "Flew into hilltop in 10/10ths cloud; struck road and milk lorry",
+  "operation_type": "Training",
+  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Granite memorial stone at crash site | | **Dedicated** | 8 May 1996 | | **Organised by** | Alun Emlyn-Jones (surviving crew member who missed the flight) | | **Condition** | Good | | **Access** | Lay-by on A166, Garrowby Hill, approximately 6 miles east of Stamford Bridge; publicly accessible from road |",
+  "maintainer": {
+    "organisation": "Calderdale Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/hodson-alfred.html",
+      "summary": "Page for Fl/Lt Alfred John Shirley Hodson DFC and crew of Halifax DK192, 1663 HCU RAF Rufforth. On 7 February 1944, the aircraft flew into the summit of Garrowby Hill in total cloud cover, also killing civilian milk lorry driver Arthur Kirkby.",
+      "key_details": "Hodson held the DFC from operational service and was aged 30. Regular bomb aimer Alun Emlyn-Jones was removed from the flight due to an erupting appendix, saving his life. He later campaigned for the memorial. One crew member initially survived but died in York Hospital.",
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 07.02.1944 No. 1663 HCU Halifax V DK192 Fl/Lt. Alfred J.S. Hodson DFC Operation: Training\n\nDate: 7th February 1944 (Monday)\n\nUnit: No. 1663 HCU. (Heavy Conversion Unit)\n\nLocation: Garrowby Hill, Yorkshire.\n\nPilot: (Inst) Fl/Lt. Alfred John Shirley Hodson DFC. 130663 RAFVR Age 29. Killed (1)\n\nPilot 2: (U/T) Fl/Sgt. Stanley Bright 1042582 RAFVR Age 22. Killed\n\nFl/Eng: Sgt. John Frederick Nelson 1796160 RAFVR Age 21. Killed\n\nNav: F/O. John Kingsley Meyler 151321 RAFVR Age 25. Killed\n\nW/Op/Air/Gnr: Sgt. Kenneth Smith 1577088 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Peter Gordon McDonald 1822095 RAFVR Age 19. Killed\n\nAir/Gnr: (U.T) Sgt. Sidney James Booker 1866190 RAFVR Age 19. Killed\n\nCivilian: Home Guard. Arthur Wood Kirkby Age 39. Killed\n\nTook off from RAF Rufforth in the morning of the 7th February for a cross country training exercise.\n\nA well respected local employee, Arthur Kirkby was driving his milk collection vehicle to the various village farms, collecting milk to take to the railway station when at 10:14 hrs Halifax DK192 hit the truck killing him and all the crew on the aircraft. The aircraft had skidded across the main road after, it seems, it reduced height to get their bearings not realising that they were in the area of Garrowby Hill - the highest peak in that area at 838 ft. The aircraft exploded in flames shortly after impact.\n\n(1) Fl/Lt. Alfred John Shirley Hodson, during service with 76 Squadron completed a tour. London Gazette January 7th 1944 reads:\n\nFl/Lt. Alfred John Shirley Hodson DFC. Harrogate Cemetery Sec. C. Row K. Grave 19. No further details as yet - are you able to assist with this?\n\nFl/Sgt. Stanley Bright. Newcastle Upon Tyne Cemetery Sec. E. Cons. Grave 108. Son of Thomas and Mary Bright, of Westerhope, Newcastle Upon Tyne, England.\n\nSgt. John Frederick Nelson. Belfast City Cemetery Sec. L.1. Grave 304. Son of John and Dorothy Louise Nelson, of Belfast, Northern Ireland.\n\nF/O. John Kingsley Meyler Jarrow Cemetery Sec. 3 Grave 258. Son of John Charles and Margaret Meyler, of Jarrow, Tyne and Wear, England.\n\nSgt. Kenneth Smith. Hednesford Church Sec. E. Row 12. Grave 3. Son of Edward and Annie Maria Smith; husband of Jane Lorraine Smith, of Hednesford, Cannock, Staffordshire, England.\n\nSgt. Peter Gordon McDonald. Glasgow Western Sec. D. Grave 1040. Son of P. McDonald and Margaret McDonald, of Bearsden, Dunbartonshire, Scotland.\n\nSgt. Sidney James Booker. City of London Cemetery Manor Park, Square 328. Grave 111442. No further details as yet - are you able to assist with this?\n\nCivilian: Home Guard. Arthur Wood Kirkby. Pocklington Rural District Cemetery. Employed at the time by the London and North Eastern Railway. Son of B.A. Kirkby, of 3 Carlton Street, Hessle Road, Hull, and of the late John W. Kirkby 33030 - A private in the East Yorkshire Regiment, killed on the 9th April 1918 and buried in Pas de Calais, France.\n\nResearched by Jennifer Graham and webmaster for relatives / friends of the crew.\n\nKTY/JG 01.07.2015 Update layout\n\n- 1663 HCU Halifax V DK192 Fl/Lt. Hodson, RAF Rufforth, accident, Garrowby Hill, Yorkshire Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/35102",
+      "summary": "Imperial War Museum register entry for the Halifax DK192 memorial on Garrowby Hill. Granite memorial stone erected through the efforts of Alun Emlyn-Jones, the surviving crew member.",
+      "key_details": "Memorial reference 35102. Dedicated 8 May 1996. Located in a lay-by on the A166, Garrowby Hill, approximately 6 miles east of Stamford Bridge.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/254705/",
+      "summary": "War Memorials Online listing for the Halifax DK192 memorial at Garrowby Hill. Documents the granite memorial stone and crew details.",
+      "key_details": "Memorial reference 254705. Lists all seven crew and civilian Arthur Kirkby. Publicly accessible from the A166 roadside.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/dk192.html",
+      "summary": "Yorkshire Aircraft database entry for Halifax DK192. Provides detailed crash timeline and circumstances, noting the 10/10ths cloud cover and the aircraft's collision with both the hilltop and the milk lorry on the A166.",
+      "key_details": "Crash at 10:15 hours. Aircraft crossed the road and caught fire. Milk lorry driver Arthur Wood Kirkby killed. Unit was 1663 HCU, not 1663 as sometimes misquoted.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Halifax Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/west-yorkshire/"
+    },
+    {
+      "org_name": "Calderdale Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "darker.email.triathlon",
+  "photos": [
+    {
+      "filename": "halifax-area-dk192/1663-heavy-conversion-unit-halifax-v-dk192-memorial-w760.jpg",
+      "caption": "1663 heavy conversion unit halifax v dk192 memorial",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "halifax-area-dk192/59fa292bdec47_DSCF7686_547x410.JPG",
+      "caption": "59fa292bdec47 DSCF7686 547x410",
+      "credit": "John E Scurr / War Memorials Online"
+    },
+    {
+      "filename": "halifax-area-dk192/59fa2969427c1_DSCF7690_547x410.JPG",
+      "caption": "59fa2969427c1 DSCF7690 547x410",
+      "credit": "John E Scurr / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

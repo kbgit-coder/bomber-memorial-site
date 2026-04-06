@@ -1,57 +1,65 @@
 {
-    "id": "auckland-bomber-command-memorial",
-    "title": "Bomber Command Memorial, Auckland",
-    "location_name": "Auckland",
-    "country": "New Zealand",
-    "narrative": "Memorial to New Zealand aircrew who served and died with RAF Bomber Command during WW2.",
-    "memorial_type": "Memorial",
-    "data_quality": "Stub",
-    "contributor": "Charlie Leitheiser",
-    "last_updated": "2026-03-21",
-    "sources": [
-        {
-            "title": "Charlie Leitheiser hackathon research",
-            "type": "personal_research"
-        }
-    ],
-    "latitude": -36.85,
-    "longitude": 174.76,
-    "external_narratives": [
-        {
-            "source_site": "NZ History",
-            "original_url": "https://nzhistory.govt.nz/memorial/new-zealand-bomber-command-memorial",
-            "summary": "The New Zealand Bomber Command Memorial was unveiled at Auckland War Memorial Museum on 22 March 2009, honouring 2,157 New Zealand airmen who lost their lives flying with RAF Bomber Command. Approximately 6,000 New Zealand men served in Bomber Command, suffering the highest proportional casualty rate of any Commonwealth country.",
-            "key_details": [
-                "Unveiled 22 March 2009",
-                "Honours 2,157 NZ airmen killed",
-                "6,000 NZ men served in Bomber Command",
-                "Highest proportional casualty rate of any Commonwealth nation"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Auckland War Memorial Museum",
-            "original_url": "https://www.aucklandmuseum.com/visit/whats-on/war-memorial/bomber-command-memorial",
-            "summary": "The memorial, designed by Sir Richard Taylor at Weta Workshop in 2008, features seven bronze figures representing a Lancaster crew emerging from marble clouds. It was rededicated on 12 June 2016 when moved to a permanent home in the WWII Hall of Memories.",
-            "key_details": [
-                "Designed by Sir Richard Taylor at Weta Workshop",
-                "Bronze Lancaster crew sculpture with marble clouds",
-                "Rededicated 12 June 2016 in WWII Hall of Memories"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "NZ Bomber Command Association",
-            "original_url": "https://www.nzbombercommand.co.nz/",
-            "summary": "The NZ Bomber Command Association works to ensure the service of approximately 6,000 New Zealanders in Bomber Command is preserved and remembered.",
-            "key_details": [
-                "Active association preserving NZ Bomber Command heritage"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "what3words": "abandonment.lifesize.engine"
+  "id": "auckland-bomber-command-memorial",
+  "title": "Bomber Command Memorial, Auckland",
+  "location_name": "Auckland",
+  "country": "New Zealand",
+  "narrative": "Memorial to New Zealand aircrew who served and died with RAF Bomber Command during WW2.",
+  "memorial_type": "Memorial",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": -36.85,
+  "longitude": 174.76,
+  "external_narratives": [
+    {
+      "source_site": "NZ History",
+      "original_url": "https://nzhistory.govt.nz/memorial/new-zealand-bomber-command-memorial",
+      "summary": "The New Zealand Bomber Command Memorial was unveiled at Auckland War Memorial Museum on 22 March 2009, honouring 2,157 New Zealand airmen who lost their lives flying with RAF Bomber Command. Approximately 6,000 New Zealand men served in Bomber Command, suffering the highest proportional casualty rate of any Commonwealth country.",
+      "key_details": [
+        "Unveiled 22 March 2009",
+        "Honours 2,157 NZ airmen killed",
+        "6,000 NZ men served in Bomber Command",
+        "Highest proportional casualty rate of any Commonwealth nation"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Auckland War Memorial Museum",
+      "original_url": "https://www.aucklandmuseum.com/visit/whats-on/war-memorial/bomber-command-memorial",
+      "summary": "The memorial, designed by Sir Richard Taylor at Weta Workshop in 2008, features seven bronze figures representing a Lancaster crew emerging from marble clouds. It was rededicated on 12 June 2016 when moved to a permanent home in the WWII Hall of Memories.",
+      "key_details": [
+        "Designed by Sir Richard Taylor at Weta Workshop",
+        "Bronze Lancaster crew sculpture with marble clouds",
+        "Rededicated 12 June 2016 in WWII Hall of Memories"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "NZ Bomber Command Association",
+      "original_url": "https://www.nzbombercommand.co.nz/",
+      "summary": "The NZ Bomber Command Association works to ensure the service of approximately 6,000 New Zealanders in Bomber Command is preserved and remembered.",
+      "key_details": [
+        "Active association preserving NZ Bomber Command heritage"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "what3words": "abandonment.lifesize.engine",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

@@ -1,149 +1,157 @@
 {
-    "id": "westborough-lm619",
-    "title": "Westborough Lancaster Memorial",
-    "location_name": "Westborough, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-039",
-    "crash_date": "1945-01-15",
-    "aircraft_type": "Lancaster",
-    "serial_number": "LM619",
-    "squadron": "1668 HCU",
-    "station": "Bottesford",
-    "crew_summary": "6 killed; pilot Flg Off. Ivan Lindsay Thompson",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.32670390501352,
-    "longitude": -0.18978868780526562,
-    "maintainer": {
-        "organisation": "Westborough and Dry Doddington Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "westborough-lm619",
+  "title": "Westborough Lancaster Memorial",
+  "location_name": "Westborough, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-039",
+  "crash_date": "1945-01-15",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM619",
+  "squadron": "1668 HCU",
+  "station": "Bottesford",
+  "crew_summary": "6 killed; pilot Flg Off. Ivan Lindsay Thompson",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.32670390501352,
+  "longitude": -0.18978868780526562,
+  "maintainer": {
+    "organisation": "Westborough and Dry Doddington Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264968/",
+      "summary": "War Memorials Online entry for the memorial plaque to the crew of 1668 HCU Lancaster LM619 at Westborough. The plaque commemorates the six crew members killed when the Lancaster crashed on 15 January 1945 during night bombing practice from RAF Bottesford.",
+      "key_details": [
+        "Memorial plaque near All Saints Church, Westborough",
+        "Last fatal aircraft accident at Bottesford during WWII"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264968/",
-            "summary": "War Memorials Online entry for the memorial plaque to the crew of 1668 HCU Lancaster LM619 at Westborough. The plaque commemorates the six crew members killed when the Lancaster crashed on 15 January 1945 during night bombing practice from RAF Bottesford.",
-            "key_details": [
-                "Memorial plaque near All Saints Church, Westborough",
-                "Last fatal aircraft accident at Bottesford during WWII"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Rock Enterprises Column",
-            "original_url": "https://rockenterprises.co.uk/memorial-to-crew-of-lancaster-lm619-westborough/",
-            "summary": "Detailed article about the LM619 memorial at Westborough. The Lancaster departed Bottesford at 18:20 for routine night bombing practice, conducted an overshoot of the airfield, then crashed in a field at the edge of Westborough for unknown reasons. The rear gunner, Sgt Ashby, was the sole survivor.",
-            "key_details": [
-                "Departed Bottesford at 18:20 on 15 January 1945",
-                "Crashed after conducting overshoot of airfield",
-                "Rear gunner Sgt Ashby sole survivor",
-                "Enquiry blamed loss of control in haze and poor visibility"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "International Bomber Command Centre (Facebook)",
-            "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/westborough-lincolnshireat-1820-on-the-evening-of-150145-lancaster-lm619-of-no-1/1411971188855120/",
-            "summary": "International Bomber Command Centre post detailing the circumstances of the Lancaster LM619 crash at Westborough, Lincolnshire on 15 January 1945. Confirms the aircraft was from 1668 Heavy Conversion Unit and was on a training exercise.",
-            "key_details": [
-                "IBCC documentation of the incident",
-                "Confirms 1668 HCU training flight details"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Bottesford Living History",
-            "original_url": "https://www.bottesfordhistory.org.uk/content/war-and-peace/bottesford-2nd-world-war/on-the-wings-of-the-morning-by-vincent-holyoak/chapter-17-on-the-wings-of-the-morning",
-            "summary": "Chapter 17 of 'On the Wings of the Morning' by Vincent Holyoak, published by the Bottesford Living History project, covers the final wartime accidents at RAF Bottesford including the LM619 crash. Provides broader context of the Heavy Conversion Unit's operations.",
-            "key_details": [
-                "Part of comprehensive Bottesford wartime history",
-                "LM619 was the last fatal crash at the station"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Trails",
-            "original_url": "https://aviationtrails.co.uk/2018/06/24/trail-52-raf-bottesford-and-the-bizarre-accident-that-killed-five-airmen/",
-            "summary": "Aviation Trails feature on RAF Bottesford covers multiple accidents at the station including the LM619 crash. Provides context about the Heavy Conversion Unit training operations that took place at Bottesford in the final years of the war.",
-            "key_details": [
-                "Contextualises LM619 within broader Bottesford accident history"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Grantham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Westborough and Dry Doddington Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "hindered.vertical.hiking",
-    "photos": [
-        {
-            "filename": "westborough-lm619/5d2b7ad43ec4d_LI_Westborough_1_547x410.JPG",
-            "caption": "5d2b7ad43ec4d LI Westborough 1 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/5d2b7ad5a176d_LI_Westborough_2_547x410.JPG",
-            "caption": "5d2b7ad5a176d LI Westborough 2 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/5d2b7ad6d7656_LI_Westborough_3_547x410.JPG",
-            "caption": "5d2b7ad6d7656 LI Westborough 3 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/5d2b7ad81e608_LI_Westborough_4_547x410.JPG",
-            "caption": "5d2b7ad81e608 LI Westborough 4 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/6717cd5b41f78_IMG_3742_547x410.JPG",
-            "caption": "6717cd5b41f78 IMG 3742 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/6717cd5e248ec_IMG_3743_547x410.JPG",
-            "caption": "6717cd5e248ec IMG 3743 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/6717cd606ce41_IMG_3748_547x410.JPG",
-            "caption": "6717cd606ce41 IMG 3748 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/6717cd62edb73_IMG_3749_547x410.JPG",
-            "caption": "6717cd62edb73 IMG 3749 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "westborough-lm619/6717cd654d7a6_IMG_3746_547x410.JPG",
-            "caption": "6717cd654d7a6 IMG 3746 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        }
-    ]
+    {
+      "source_site": "Rock Enterprises Column",
+      "original_url": "https://rockenterprises.co.uk/memorial-to-crew-of-lancaster-lm619-westborough/",
+      "summary": "Detailed article about the LM619 memorial at Westborough. The Lancaster departed Bottesford at 18:20 for routine night bombing practice, conducted an overshoot of the airfield, then crashed in a field at the edge of Westborough for unknown reasons. The rear gunner, Sgt Ashby, was the sole survivor.",
+      "key_details": [
+        "Departed Bottesford at 18:20 on 15 January 1945",
+        "Crashed after conducting overshoot of airfield",
+        "Rear gunner Sgt Ashby sole survivor",
+        "Enquiry blamed loss of control in haze and poor visibility"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "International Bomber Command Centre (Facebook)",
+      "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/westborough-lincolnshireat-1820-on-the-evening-of-150145-lancaster-lm619-of-no-1/1411971188855120/",
+      "summary": "International Bomber Command Centre post detailing the circumstances of the Lancaster LM619 crash at Westborough, Lincolnshire on 15 January 1945. Confirms the aircraft was from 1668 Heavy Conversion Unit and was on a training exercise.",
+      "key_details": [
+        "IBCC documentation of the incident",
+        "Confirms 1668 HCU training flight details"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Bottesford Living History",
+      "original_url": "https://www.bottesfordhistory.org.uk/content/war-and-peace/bottesford-2nd-world-war/on-the-wings-of-the-morning-by-vincent-holyoak/chapter-17-on-the-wings-of-the-morning",
+      "summary": "Chapter 17 of 'On the Wings of the Morning' by Vincent Holyoak, published by the Bottesford Living History project, covers the final wartime accidents at RAF Bottesford including the LM619 crash. Provides broader context of the Heavy Conversion Unit's operations.",
+      "key_details": [
+        "Part of comprehensive Bottesford wartime history",
+        "LM619 was the last fatal crash at the station"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/2018/06/24/trail-52-raf-bottesford-and-the-bizarre-accident-that-killed-five-airmen/",
+      "summary": "Aviation Trails feature on RAF Bottesford covers multiple accidents at the station including the LM619 crash. Provides context about the Heavy Conversion Unit training operations that took place at Bottesford in the final years of the war.",
+      "key_details": [
+        "Contextualises LM619 within broader Bottesford accident history"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Grantham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Westborough and Dry Doddington Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "hindered.vertical.hiking",
+  "photos": [
+    {
+      "filename": "westborough-lm619/5d2b7ad43ec4d_LI_Westborough_1_547x410.JPG",
+      "caption": "5d2b7ad43ec4d LI Westborough 1 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/5d2b7ad5a176d_LI_Westborough_2_547x410.JPG",
+      "caption": "5d2b7ad5a176d LI Westborough 2 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/5d2b7ad6d7656_LI_Westborough_3_547x410.JPG",
+      "caption": "5d2b7ad6d7656 LI Westborough 3 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/5d2b7ad81e608_LI_Westborough_4_547x410.JPG",
+      "caption": "5d2b7ad81e608 LI Westborough 4 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/6717cd5b41f78_IMG_3742_547x410.JPG",
+      "caption": "6717cd5b41f78 IMG 3742 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/6717cd5e248ec_IMG_3743_547x410.JPG",
+      "caption": "6717cd5e248ec IMG 3743 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/6717cd606ce41_IMG_3748_547x410.JPG",
+      "caption": "6717cd606ce41 IMG 3748 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/6717cd62edb73_IMG_3749_547x410.JPG",
+      "caption": "6717cd62edb73 IMG 3749 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "westborough-lm619/6717cd654d7a6_IMG_3746_547x410.JPG",
+      "caption": "6717cd654d7a6 IMG 3746 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

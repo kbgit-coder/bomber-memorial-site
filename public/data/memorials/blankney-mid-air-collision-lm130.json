@@ -1,94 +1,102 @@
 {
-    "id": "blankney-mid-air-collision-lm130",
-    "title": "Blankney (mid-air collision) Lancaster Memorial",
-    "location_name": "Blankney (mid-air collision), Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-003",
-    "crash_date": "1945-03-11",
-    "aircraft_type": "Lancaster",
-    "serial_number": "LM130",
-    "squadron": "463 Sqdn.",
-    "station": "Waddington",
-    "crew_summary": "7 crew killed; plus Hurricane PZ740 pilot Flg Off. Sidney Frederick Parlato, DFC",
-    "memorial_type": "Joint memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.26980269576635,
-    "longitude": -0.2478160551283405,
-    "maintainer": {
-        "organisation": "Blankney Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "blankney-mid-air-collision-lm130",
+  "title": "Blankney (mid-air collision) Lancaster Memorial",
+  "location_name": "Blankney (mid-air collision), Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-003",
+  "crash_date": "1945-03-11",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM130",
+  "squadron": "463 Sqdn.",
+  "station": "Waddington",
+  "crew_summary": "7 crew killed; plus Hurricane PZ740 pilot Flg Off. Sidney Frederick Parlato, DFC",
+  "memorial_type": "Joint memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.26980269576635,
+  "longitude": -0.2478160551283405,
+  "maintainer": {
+    "organisation": "Blankney Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/476703",
+      "summary": "ASN records the mid-air collision on 11 March 1945 between Lancaster LM130 of 463 Squadron RAAF (based at RAF Waddington) and Hurricane PZ740 of 1690 BDTF during a fighter affiliation exercise at night. All seven Lancaster crew were killed.",
+      "key_details": [
+        "Fighter affiliation exercise at night",
+        "Lancaster piloted by P/O H. Orchard RAAF",
+        "All 7 Lancaster crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/476703",
-            "summary": "ASN records the mid-air collision on 11 March 1945 between Lancaster LM130 of 463 Squadron RAAF (based at RAF Waddington) and Hurricane PZ740 of 1690 BDTF during a fighter affiliation exercise at night. All seven Lancaster crew were killed.",
-            "key_details": [
-                "Fighter affiliation exercise at night",
-                "Lancaster piloted by P/O H. Orchard RAAF",
-                "All 7 Lancaster crew killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network (Hurricane)",
-            "original_url": "https://asn.flightsafety.org/wikibase/164036",
-            "summary": "ASN records Hurricane PZ740 of 1690 Flight piloted by Flg Off Sidney Frederick Parlato DFC RNZAF, who was also killed in the mid-air collision with Lancaster LM130.",
-            "key_details": [
-                "Hurricane pilot was NZ national",
-                "Parlato held DFC",
-                "1690 Bomber Defence Training Flight"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/91741",
-            "summary": "IWM records the joint memorial for Lancaster LM130 and Hurricane PZ740 at Blankney, Lincolnshire, commemorating all eight personnel killed in the mid-air collision.",
-            "key_details": [
-                "IWM memorial reference 91741",
-                "Joint memorial for both aircraft crews",
-                "Eight total killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Flickr (Memorial Photos)",
-            "original_url": "https://www.flickr.com/photos/151928544@N03/albums/72177720316491696/",
-            "summary": "Photo album documenting the Blankney Fen memorial, showing a wooden cross with silhouettes of a Lancaster and Hurricane, located on a footpath from the Blankney Stepping Out car park.",
-            "key_details": [
-                "Wooden cross memorial with aircraft silhouettes",
-                "Located on footpath from car park",
-                "Crash site was 'The Asholt Field' at Blankney village"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Sleaford & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Blankney Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "originals.broad.rekindle"
+    {
+      "source_site": "Aviation Safety Network (Hurricane)",
+      "original_url": "https://asn.flightsafety.org/wikibase/164036",
+      "summary": "ASN records Hurricane PZ740 of 1690 Flight piloted by Flg Off Sidney Frederick Parlato DFC RNZAF, who was also killed in the mid-air collision with Lancaster LM130.",
+      "key_details": [
+        "Hurricane pilot was NZ national",
+        "Parlato held DFC",
+        "1690 Bomber Defence Training Flight"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/91741",
+      "summary": "IWM records the joint memorial for Lancaster LM130 and Hurricane PZ740 at Blankney, Lincolnshire, commemorating all eight personnel killed in the mid-air collision.",
+      "key_details": [
+        "IWM memorial reference 91741",
+        "Joint memorial for both aircraft crews",
+        "Eight total killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Flickr (Memorial Photos)",
+      "original_url": "https://www.flickr.com/photos/151928544@N03/albums/72177720316491696/",
+      "summary": "Photo album documenting the Blankney Fen memorial, showing a wooden cross with silhouettes of a Lancaster and Hurricane, located on a footpath from the Blankney Stepping Out car park.",
+      "key_details": [
+        "Wooden cross memorial with aircraft silhouettes",
+        "Located on footpath from car park",
+        "Crash site was 'The Asholt Field' at Blankney village"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sleaford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Blankney Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "originals.broad.rekindle",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

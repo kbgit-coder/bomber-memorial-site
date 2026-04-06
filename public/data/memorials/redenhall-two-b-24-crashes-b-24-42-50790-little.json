@@ -1,92 +1,100 @@
 {
-    "id": "redenhall-two-b-24-crashes-b-24-42-50790-little",
-    "title": "Redenhall (two B-24 crashes) 42-51909 Memorial",
-    "location_name": "Redenhall (two B-24 crashes), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-018",
-    "crash_date": "1945-04-11",
-    "aircraft_type": "B-24 42-50790 \"Little King\" and B-24 42-51909",
-    "squadron": "446th BG",
-    "station": "Flixton (USAAF)",
-    "crew_summary": "23 killed combined",
-    "memorial_type": "Memorial stones",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.73612052383296,
-    "longitude": 1.047927469354027,
-    "maintainer": {
-        "organisation": "Redenhall with Harleston Town Council",
-        "maintainer_type": "parish-council"
+  "id": "redenhall-two-b-24-crashes-b-24-42-50790-little",
+  "title": "Redenhall (two B-24 crashes) 42-51909 Memorial",
+  "location_name": "Redenhall (two B-24 crashes), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-018",
+  "crash_date": "1945-04-11",
+  "aircraft_type": "B-24 42-50790 \"Little King\" and B-24 42-51909",
+  "squadron": "446th BG",
+  "station": "Flixton (USAAF)",
+  "crew_summary": "23 killed combined",
+  "memorial_type": "Memorial stones",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.73612052383296,
+  "longitude": 1.047927469354027,
+  "maintainer": {
+    "organisation": "Redenhall with Harleston Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50790",
+      "summary": "American Air Museum archive entry for B-24 42-50790 'Little King' of the 446th Bomb Group. Records the aircraft's service history and loss on 11 April 1945 in a mid-air collision near Flixton airfield.",
+      "key_details": [
+        "Aircraft nickname 'Little King'",
+        "Captained by 1st Lt Robert J. Free",
+        "No. 3 position in Low Squadron formation"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum in Britain",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50790",
-            "summary": "American Air Museum archive entry for B-24 42-50790 'Little King' of the 446th Bomb Group. Records the aircraft's service history and loss on 11 April 1945 in a mid-air collision near Flixton airfield.",
-            "key_details": [
-                "Aircraft nickname 'Little King'",
-                "Captained by 1st Lt Robert J. Free",
-                "No. 3 position in Low Squadron formation"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Royal British Legion (Harleston Branch)",
-            "original_url": "https://branches.britishlegion.org.uk/media/6539670/tragedy-in-the-skies-over-harleston-updated-16th-april-2020.pdf",
-            "summary": "Detailed PDF account by Harleston RBL branch documenting the mid-air collision. The two B-24s collided during a tight formation approach to Runway 05 at Flixton at 1,000 feet altitude, with catastrophic results.",
-            "key_details": [
-                "Collision during formation approach at 1,000 feet",
-                "Lead aircraft 42-51909 captained by 1st Lt John Barron",
-                "Left-hand turn to line up with Runway 05",
-                "Memorial dedicated August 2011"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "American Air Museum in Britain",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-51909",
-            "summary": "Archive entry for B-24 42-51909, the lead aircraft in the Low Squadron that collided with 'Little King'. Records loss details and crew information for this 446th Bomb Group aircraft.",
-            "key_details": [
-                "Lead (No. 1) aircraft in Low Squadron",
-                "446th Bomb Group based at Flixton"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "446th Bomb Group Aviation Museum",
-            "original_url": "https://www.aviationmuseum.net/446bg.htm",
-            "summary": "446th Bomb Group museum page providing unit history context. The group flew B-24 Liberators from Flixton (Station 125) and suffered significant losses including the Redenhall mid-air collision.",
-            "key_details": [
-                "446th BG based at Flixton, Station 125",
-                "New memorial plaque presented by James Duckworth III of 446th BG"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Harleston Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Redenhall with Harleston Town Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "smug.stocks.improvise"
+    {
+      "source_site": "Royal British Legion (Harleston Branch)",
+      "original_url": "https://branches.britishlegion.org.uk/media/6539670/tragedy-in-the-skies-over-harleston-updated-16th-april-2020.pdf",
+      "summary": "Detailed PDF account by Harleston RBL branch documenting the mid-air collision. The two B-24s collided during a tight formation approach to Runway 05 at Flixton at 1,000 feet altitude, with catastrophic results.",
+      "key_details": [
+        "Collision during formation approach at 1,000 feet",
+        "Lead aircraft 42-51909 captained by 1st Lt John Barron",
+        "Left-hand turn to line up with Runway 05",
+        "Memorial dedicated August 2011"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-51909",
+      "summary": "Archive entry for B-24 42-51909, the lead aircraft in the Low Squadron that collided with 'Little King'. Records loss details and crew information for this 446th Bomb Group aircraft.",
+      "key_details": [
+        "Lead (No. 1) aircraft in Low Squadron",
+        "446th Bomb Group based at Flixton"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "446th Bomb Group Aviation Museum",
+      "original_url": "https://www.aviationmuseum.net/446bg.htm",
+      "summary": "446th Bomb Group museum page providing unit history context. The group flew B-24 Liberators from Flixton (Station 125) and suffered significant losses including the Redenhall mid-air collision.",
+      "key_details": [
+        "446th BG based at Flixton, Station 125",
+        "New memorial plaque presented by James Duckworth III of 446th BG"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Harleston Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Redenhall with Harleston Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "smug.stocks.improvise",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

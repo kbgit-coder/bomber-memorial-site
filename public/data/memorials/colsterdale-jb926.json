@@ -1,92 +1,100 @@
 {
-    "id": "colsterdale-jb926",
-    "title": "Colsterdale Halifax Memorial",
-    "location_name": "Colsterdale, Slipstone Crags, North Yorkshire",
-    "county": "North Yorkshire",
-    "country": "United Kingdom",
-    "region_code": "NY-003",
-    "crash_date": "1943-11-24",
-    "aircraft_type": "Halifax",
-    "serial_number": "JB926",
-    "squadron": "1658 HCU",
-    "station": "Riccall",
-    "crew_summary": "8 killed including pilot Sgt. Richard Ernest Charles Bacon",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.90367763461166,
-    "longitude": -1.3543340035191718,
-    "maintainer": {
-        "organisation": "Masham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "colsterdale-jb926",
+  "title": "Colsterdale Halifax Memorial",
+  "location_name": "Colsterdale, Slipstone Crags, North Yorkshire",
+  "county": "North Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "NY-003",
+  "crash_date": "1943-11-24",
+  "aircraft_type": "Halifax",
+  "serial_number": "JB926",
+  "squadron": "1658 HCU",
+  "station": "Riccall",
+  "crew_summary": "8 killed including pilot Sgt. Richard Ernest Charles Bacon",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.90367763461166,
+  "longitude": -1.3543340035191718,
+  "maintainer": {
+    "organisation": "Masham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/jb926.html",
+      "summary": "Detailed account of Halifax JB926 from 1658 HCU crashing at Slipstone Crags on the night of 23/24 November 1943. The aircraft broke up in mid-air due to severe icing on a night cross-country exercise despite gale warnings. All eight crew killed.",
+      "key_details": [
+        "Aircraft broke up in mid-air before impact",
+        "Port outer wing and both outer engines detached",
+        "Ice build-up on airframe was cause",
+        "CO allowed exercise despite gale warnings"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Yorkshire Aircraft",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/jb926.html",
-            "summary": "Detailed account of Halifax JB926 from 1658 HCU crashing at Slipstone Crags on the night of 23/24 November 1943. The aircraft broke up in mid-air due to severe icing on a night cross-country exercise despite gale warnings. All eight crew killed.",
-            "key_details": [
-                "Aircraft broke up in mid-air before impact",
-                "Port outer wing and both outer engines detached",
-                "Ice build-up on airframe was cause",
-                "CO allowed exercise despite gale warnings"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-jb926-slipstone-crags/",
-            "summary": "Crash site investigation record for Halifax JB926 at Slipstone Crags. Documents the crash location, wreckage distribution, and the structural failure sequence caused by severe icing conditions.",
-            "key_details": [
-                "Wreckage location documented with coordinates",
-                "Structural failure sequence analysed",
-                "Part of broader Pennines crash sites database"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/29880",
-            "summary": "Imperial War Museums register entry for the Halifax Bomber JB926 memorial stone at Colsterdale, North Yorkshire.",
-            "key_details": [
-                "IWM memorial reference 29880"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Commands Archive",
-            "original_url": "https://www.rafcommands.com/archive/11709.php",
-            "summary": "RAF Commands forum discussion with historical details of the Halifax JB926 crash from RAF Riccall. Includes crew details and circumstances of the 1658 HCU training accident.",
-            "key_details": [
-                "Based at RAF Riccall",
-                "Night cross-country training exercise"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Mashamshire Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-        },
-        {
-            "org_name": "Masham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "spelling.obscuring.burden"
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-jb926-slipstone-crags/",
+      "summary": "Crash site investigation record for Halifax JB926 at Slipstone Crags. Documents the crash location, wreckage distribution, and the structural failure sequence caused by severe icing conditions.",
+      "key_details": [
+        "Wreckage location documented with coordinates",
+        "Structural failure sequence analysed",
+        "Part of broader Pennines crash sites database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/29880",
+      "summary": "Imperial War Museums register entry for the Halifax Bomber JB926 memorial stone at Colsterdale, North Yorkshire.",
+      "key_details": [
+        "IWM memorial reference 29880"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Commands Archive",
+      "original_url": "https://www.rafcommands.com/archive/11709.php",
+      "summary": "RAF Commands forum discussion with historical details of the Halifax JB926 crash from RAF Riccall. Includes crew details and circumstances of the 1658 HCU training accident.",
+      "key_details": [
+        "Based at RAF Riccall",
+        "Night cross-country training exercise"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Mashamshire Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Masham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "spelling.obscuring.burden",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

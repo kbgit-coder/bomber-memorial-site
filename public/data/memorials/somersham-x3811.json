@@ -1,95 +1,103 @@
 {
-    "id": "somersham-x3811",
-    "title": "Somersham Wellington Memorial",
-    "location_name": "Somersham, Cambridgeshire",
-    "county": "Cambridgeshire",
-    "country": "United Kingdom",
-    "region_code": "CB-009",
-    "os_grid_reference": "TL3577",
-    "crash_date": "1942-10-05",
-    "aircraft_type": "Wellington",
-    "serial_number": "X3811",
-    "squadron": "156 Squadron",
-    "station": "Warboys",
-    "crew_summary": "Crew bailed out; 11 civilians killed (including children) when aircraft crashed into houses",
-    "memorial_type": "Plaque commemorating civilian casualties",
-    "sources": [
-        {
-            "title": "Geograph Cambridgeshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.16282422252873,
-    "longitude": 0.11548696563955149,
-    "maintainer": {
-        "organisation": "Somersham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "somersham-x3811",
+  "title": "Somersham Wellington Memorial",
+  "location_name": "Somersham, Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-009",
+  "os_grid_reference": "TL3577",
+  "crash_date": "1942-10-05",
+  "aircraft_type": "Wellington",
+  "serial_number": "X3811",
+  "squadron": "156 Squadron",
+  "station": "Warboys",
+  "crew_summary": "Crew bailed out; 11 civilians killed (including children) when aircraft crashed into houses",
+  "memorial_type": "Plaque commemorating civilian casualties",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.16282422252873,
+  "longitude": 0.11548696563955149,
+  "maintainer": {
+    "organisation": "Somersham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264514/",
+      "summary": "War Memorials Online listing for the memorial plaque to those killed in the crash of 156 Squadron Wellington X3811. Records the plaque commemorating the 11 civilian casualties of the crash.",
+      "key_details": [
+        "Memorial plaque for civilian casualties",
+        "156 Squadron Wellington"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264514/",
-            "summary": "War Memorials Online listing for the memorial plaque to those killed in the crash of 156 Squadron Wellington X3811. Records the plaque commemorating the 11 civilian casualties of the crash.",
-            "key_details": [
-                "Memorial plaque for civilian casualties",
-                "156 Squadron Wellington"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph Britain and Ireland",
-            "original_url": "https://www.geograph.org.uk/photo/6420151",
-            "summary": "Photographic record of the memorial plaque to eleven Somersham civilians killed when Wellington X3811 crashed into cottages next to Whitehall in October 1942. The crew bailed out safely but the uncontrolled aircraft struck residential buildings.",
-            "key_details": [
-                "Crashed into cottages next to Whitehall",
-                "Crew bailed out safely before crash",
-                "Bad weather and severe icing caused crew to lose control"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph Britain and Ireland (Whitehall)",
-            "original_url": "https://www.geograph.org.uk/photo/6420154",
-            "summary": "Photograph of Whitehall, Somersham, now a school, which narrowly escaped destruction when the Wellington crashed into adjacent cottages. Provides visual context of the crash site location.",
-            "key_details": [
-                "Whitehall building narrowly missed",
-                "Building now used as a school"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Somersham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-        },
-        {
-            "org_name": "Somersham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/156.jpg",
-    "squadron_motto": "We light the way",
-    "what3words": "melons.loft.mourner",
-    "photos": [
-        {
-            "filename": "somersham-x3811/5d16695497501_Somersham_1_547x410.JPG",
-            "caption": "5d16695497501 Somersham 1 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "somersham-x3811/5d1669558fc2b_Somersham_2_547x410.JPG",
-            "caption": "5d1669558fc2b Somersham 2 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        }
-    ]
+    {
+      "source_site": "Geograph Britain and Ireland",
+      "original_url": "https://www.geograph.org.uk/photo/6420151",
+      "summary": "Photographic record of the memorial plaque to eleven Somersham civilians killed when Wellington X3811 crashed into cottages next to Whitehall in October 1942. The crew bailed out safely but the uncontrolled aircraft struck residential buildings.",
+      "key_details": [
+        "Crashed into cottages next to Whitehall",
+        "Crew bailed out safely before crash",
+        "Bad weather and severe icing caused crew to lose control"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph Britain and Ireland (Whitehall)",
+      "original_url": "https://www.geograph.org.uk/photo/6420154",
+      "summary": "Photograph of Whitehall, Somersham, now a school, which narrowly escaped destruction when the Wellington crashed into adjacent cottages. Provides visual context of the crash site location.",
+      "key_details": [
+        "Whitehall building narrowly missed",
+        "Building now used as a school"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Somersham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Somersham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/156.jpg",
+  "squadron_motto": "We light the way",
+  "what3words": "melons.loft.mourner",
+  "photos": [
+    {
+      "filename": "somersham-x3811/5d16695497501_Somersham_1_547x410.JPG",
+      "caption": "5d16695497501 Somersham 1 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "somersham-x3811/5d1669558fc2b_Somersham_2_547x410.JPG",
+      "caption": "5d1669558fc2b Somersham 2 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

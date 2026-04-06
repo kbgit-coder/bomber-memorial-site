@@ -1,58 +1,66 @@
 {
-    "id": "mynydd-mawr-aircraft-type-varies",
-    "title": "Mynydd Mawr source) Memorial",
-    "location_name": "Mynydd Mawr, Snowdonia, Snowdonia",
-    "county": "Snowdonia",
-    "country": "United Kingdom",
-    "region_code": "WA-004",
-    "crash_date": "WW2",
-    "aircraft_type": "Aircraft (type varies by source)",
-    "squadron": "RAF",
-    "crew_summary": "All killed (10 minutes after takeoff, flew into summit)",
-    "memorial_type": "Crash site cairn",
-    "sources": [
-        {
-            "title": "peakdistrictaircrashes.co.uk/wales",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.15401924340301,
-    "longitude": -1.524729718691888,
-    "external_narratives": [
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/wales/",
-            "summary": "Listed among Welsh crash sites documented by Peak District Air Accident Research. Mynydd Mawr in Snowdonia has multiple aircraft crash sites from the WW2 era, though the exact aircraft type for this memorial remains uncertain across sources.",
-            "key_details": [
-                "Aircraft type disputed between sources",
-                "Crash site cairn on Mynydd Mawr summit area",
-                "Multiple WW2 crash sites in Snowdonia"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Military Aircraft Crash Sites blog",
-            "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/crash-sites-in-wales.html",
-            "summary": "Comprehensive listing of military aircraft crash sites in Wales including Snowdonia locations. Mynydd Mawr is referenced among sites with wreckage and memorial cairns from WW2 aircraft losses in the mountainous terrain.",
-            "key_details": [
-                "Part of extensive Wales crash site catalogue",
-                "Mountain terrain contributed to multiple losses"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Bangor Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
-        }
-    ],
-    "what3words": "unstated.skies.blown"
+  "id": "mynydd-mawr-aircraft-type-varies",
+  "title": "Mynydd Mawr source) Memorial",
+  "location_name": "Mynydd Mawr, Snowdonia, Snowdonia",
+  "county": "Snowdonia",
+  "country": "United Kingdom",
+  "region_code": "WA-004",
+  "crash_date": "WW2",
+  "aircraft_type": "Aircraft (type varies by source)",
+  "squadron": "RAF",
+  "crew_summary": "All killed (10 minutes after takeoff, flew into summit)",
+  "memorial_type": "Crash site cairn",
+  "sources": [
+    {
+      "title": "peakdistrictaircrashes.co.uk/wales",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.15401924340301,
+  "longitude": -1.524729718691888,
+  "external_narratives": [
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/wales/",
+      "summary": "Listed among Welsh crash sites documented by Peak District Air Accident Research. Mynydd Mawr in Snowdonia has multiple aircraft crash sites from the WW2 era, though the exact aircraft type for this memorial remains uncertain across sources.",
+      "key_details": [
+        "Aircraft type disputed between sources",
+        "Crash site cairn on Mynydd Mawr summit area",
+        "Multiple WW2 crash sites in Snowdonia"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Military Aircraft Crash Sites blog",
+      "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/crash-sites-in-wales.html",
+      "summary": "Comprehensive listing of military aircraft crash sites in Wales including Snowdonia locations. Mynydd Mawr is referenced among sites with wreckage and memorial cairns from WW2 aircraft losses in the mountainous terrain.",
+      "key_details": [
+        "Part of extensive Wales crash site catalogue",
+        "Mountain terrain contributed to multiple losses"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Bangor Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    }
+  ],
+  "what3words": "unstated.skies.blown",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

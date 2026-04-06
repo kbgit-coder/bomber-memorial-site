@@ -1,61 +1,69 @@
 {
-    "id": "garvestone-b-24-liberator-42-95",
-    "title": "Garvestone 42-95160 Memorial",
-    "location_name": "Garvestone, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-013",
-    "crash_date": "1944-06-04",
-    "aircraft_type": "B-24 Liberator 42-95160",
-    "squadron": "492 BG",
-    "station": "North Pickenham (USAAF)",
-    "crew_summary": "12 killed (10 crew + 2 firefighters)",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.665521607861486,
-    "longitude": 1.092270726017191,
-    "maintainer": {
-        "organisation": "Garvestone, Reymerston and Thuxton Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "garvestone-b-24-liberator-42-95",
+  "title": "Garvestone 42-95160 Memorial",
+  "location_name": "Garvestone, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-013",
+  "crash_date": "1944-06-04",
+  "aircraft_type": "B-24 Liberator 42-95160",
+  "squadron": "492 BG",
+  "station": "North Pickenham (USAAF)",
+  "crew_summary": "12 killed (10 crew + 2 firefighters)",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.665521607861486,
+  "longitude": 1.092270726017191,
+  "maintainer": {
+    "organisation": "Garvestone, Reymerston and Thuxton Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-95160",
+      "summary": "Record for B-24H Liberator 42-95160 of the 856th Bomb Squadron, 492nd Bomb Group. The aircraft was lost on 4 June 1944 during a mission to bomb the airfield at Avord, France, when an evasive manoeuvre to avoid mid-air collision caused a structural failure.",
+      "key_details": "Lt Raymond Sachtleben was the pilot. A wing tip separated during an evasive manoeuvre, causing the aircraft to stall. Last seen falling inverted through clouds. All ten crew killed.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum in Britain",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-95160",
-            "summary": "Record for B-24H Liberator 42-95160 of the 856th Bomb Squadron, 492nd Bomb Group. The aircraft was lost on 4 June 1944 during a mission to bomb the airfield at Avord, France, when an evasive manoeuvre to avoid mid-air collision caused a structural failure.",
-            "key_details": "Lt Raymond Sachtleben was the pilot. A wing tip separated during an evasive manoeuvre, causing the aircraft to stall. Last seen falling inverted through clouds. All ten crew killed.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US War Memorials",
-            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=1988&MemID=2626",
-            "summary": "Details of the 'Garvestone Twelve' memorial outside the village hall, commemorating ten USAAF aircrew and two US Army firefighters killed on 4 June 1944. The memorial was unveiled by Col. Sonny Blinkinsop, US Air Attache, on 6 June 2012.",
-            "key_details": "The aircraft crashed into unoccupied cottages at Hardingham. Two firefighters were killed attempting to rescue the crew. Memorial unveiled on 6 June 2012 (D-Day anniversary).",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Dereham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Garvestone, Reymerston and Thuxton Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "rules.gross.skies"
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=1988&MemID=2626",
+      "summary": "Details of the 'Garvestone Twelve' memorial outside the village hall, commemorating ten USAAF aircrew and two US Army firefighters killed on 4 June 1944. The memorial was unveiled by Col. Sonny Blinkinsop, US Air Attache, on 6 June 2012.",
+      "key_details": "The aircraft crashed into unoccupied cottages at Hardingham. Two firefighters were killed attempting to rescue the crew. Memorial unveiled on 6 June 2012 (D-Day anniversary).",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Dereham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Garvestone, Reymerston and Thuxton Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "rules.gross.skies",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

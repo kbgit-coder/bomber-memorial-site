@@ -1,99 +1,107 @@
 {
-    "id": "pocklington-ed393",
-    "title": "Pocklington Lancaster Memorial",
-    "location_name": "Pocklington, East Riding of Yorkshire",
-    "county": "East Riding of Yorkshire",
-    "country": "United Kingdom",
-    "region_code": "ERY-007",
-    "crash_date": "1943-11-26",
-    "aircraft_type": "Lancaster",
-    "serial_number": "ED393",
-    "squadron": "50 Squadron",
-    "station": "Skellingthorpe",
-    "crew_summary": "5 killed (2 survived injured); 2 civilians also killed; pilot Plt Off. Joseph Watson Thompson, DFM",
-    "memorial_type": "Memorial bench and crash site marker",
-    "sources": [
-        {
-            "title": "Geograph / IWM (memorial/99090)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-22",
-    "data_quality": "Partial",
-    "narrative": "On the evening of 29 March 1943, the crew of Halifax JB848 were detailed for a major operation against Berlin. The aircraft began its takeoff run from Pocklington airfield but during the climb-out the pilot lost control. The Halifax stalled, turned onto its back and crashed in a catastrophic explosion near Thirsk's Mill and Pocklington School at West Green, just outside the airfield boundary. All crew were killed instantly in the resulting fireball. The crash site remained undisturbed for over 70 years until 2014, when excavation work for a new doctors' surgery uncovered a Rolls-Royce Merlin engine and various aircraft parts. The discovery prompted local residents to recover, clean and restore the engine, which was subsequently installed as a memorial to the crew.",
-    "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
-    "operation_type": "Operational",
-    "operation_target": "Operational -- bombing Berlin",
-    "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Recovered Merlin engine mounted as memorial; also polished grey marble column with bronze plaque and squadron badges | | **Dedicated** | 2014 (engine memorial); earlier column memorial at airfield | | **Organised by** | Local community; Pocklington History Group | | **Condition** | Good | | **Access** | Pocklington; airfield memorial column at main entrance to former RAF Pocklington |",
-    "latitude": 53.90556766902643,
-    "longitude": -1.2809485361080999,
-    "maintainer": {
-        "organisation": "Pocklington Town Council",
-        "maintainer_type": "parish-council"
+  "id": "pocklington-ed393",
+  "title": "Pocklington Lancaster Memorial",
+  "location_name": "Pocklington, East Riding of Yorkshire",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "ERY-007",
+  "crash_date": "1943-11-26",
+  "aircraft_type": "Lancaster",
+  "serial_number": "ED393",
+  "squadron": "50 Squadron",
+  "station": "Skellingthorpe",
+  "crew_summary": "5 killed (2 survived injured); 2 civilians also killed; pilot Plt Off. Joseph Watson Thompson, DFM",
+  "memorial_type": "Memorial bench and crash site marker",
+  "sources": [
+    {
+      "title": "Geograph / IWM (memorial/99090)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "narrative": "On the evening of 29 March 1943, the crew of Halifax JB848 were detailed for a major operation against Berlin. The aircraft began its takeoff run from Pocklington airfield but during the climb-out the pilot lost control. The Halifax stalled, turned onto its back and crashed in a catastrophic explosion near Thirsk's Mill and Pocklington School at West Green, just outside the airfield boundary. All crew were killed instantly in the resulting fireball. The crash site remained undisturbed for over 70 years until 2014, when excavation work for a new doctors' surgery uncovered a Rolls-Royce Merlin engine and various aircraft parts. The discovery prompted local residents to recover, clean and restore the engine, which was subsequently installed as a memorial to the crew.",
+  "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
+  "operation_type": "Operational",
+  "operation_target": "Operational -- bombing Berlin",
+  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Recovered Merlin engine mounted as memorial; also polished grey marble column with bronze plaque and squadron badges | | **Dedicated** | 2014 (engine memorial); earlier column memorial at airfield | | **Organised by** | Local community; Pocklington History Group | | **Condition** | Good | | **Access** | Pocklington; airfield memorial column at main entrance to former RAF Pocklington |",
+  "latitude": 53.90556766902643,
+  "longitude": -1.2809485361080999,
+  "maintainer": {
+    "organisation": "Pocklington Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99090",
+      "summary": "IWM War Memorials Register entry for the crew of Lancaster Bomber ED393 memorial at Pocklington. Records the stone of remembrance dedicated by HH 'Charlie' Ross, a witness to the crash.",
+      "key_details": [
+        "IWM memorial reference 99090",
+        "Dedicated by crash witness HH 'Charlie' Ross"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99090",
-            "summary": "IWM War Memorials Register entry for the crew of Lancaster Bomber ED393 memorial at Pocklington. Records the stone of remembrance dedicated by HH 'Charlie' Ross, a witness to the crash.",
-            "key_details": [
-                "IWM memorial reference 99090",
-                "Dedicated by crash witness HH 'Charlie' Ross"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Yorkshire Aircraft (yorkshire-aircraft.co.uk)",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/ed393.html",
-            "summary": "Detailed account of Lancaster ED393 VN-K of 50 Squadron. The aircraft diverted from fog-bound Lincolnshire to Yorkshire on return from Berlin, lost height in landing circuit and crashed at Canal Head, Pocklington, destroying the Canal Head public house and cottages on Ramsdale Terrace.",
-            "key_details": [
-                "Aircraft code VN-K",
-                "Diverted due to fog over Lincolnshire",
-                "Crashed at Canal Head destroying public house and cottages",
-                "Crashed during landing circuit"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "No. 50 & No. 61 Squadrons Association",
-            "original_url": "http://www.no-50-and-no-61-squadrons-association.co.uk/the-memorials/uk-european-memorials/ed393-vn-k-pocklington/",
-            "summary": "Squadron association memorial page for ED393 VN-K at Pocklington. Provides detailed context from the squadron's perspective, including the Berlin operation that night and the diversion circumstances.",
-            "key_details": [
-                "Listed on squadron association memorial page",
-                "Part of 50 Squadron's Berlin operations November 1943"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Pocklington History Group",
-            "original_url": "https://pocklingtonhistory.com/history/20thcentury/pocklingtoninww2/crashes/index.php",
-            "summary": "Local history group research into wartime aircraft crashes around Pocklington, including the ED393 crash at Canal Head. Provides community perspective on the impact of multiple crashes on the town during the war.",
-            "key_details": [
-                "Local history group maintains detailed crash records",
-                "Multiple wartime crashes documented around Pocklington"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Pocklington Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-        },
-        {
-            "org_name": "Pocklington Town Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/50.jpg",
-    "squadron_motto": "From defence to attack",
-    "what3words": "testy.energetic.coil"
+    {
+      "source_site": "Yorkshire Aircraft (yorkshire-aircraft.co.uk)",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/ed393.html",
+      "summary": "Detailed account of Lancaster ED393 VN-K of 50 Squadron. The aircraft diverted from fog-bound Lincolnshire to Yorkshire on return from Berlin, lost height in landing circuit and crashed at Canal Head, Pocklington, destroying the Canal Head public house and cottages on Ramsdale Terrace.",
+      "key_details": [
+        "Aircraft code VN-K",
+        "Diverted due to fog over Lincolnshire",
+        "Crashed at Canal Head destroying public house and cottages",
+        "Crashed during landing circuit"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "No. 50 & No. 61 Squadrons Association",
+      "original_url": "http://www.no-50-and-no-61-squadrons-association.co.uk/the-memorials/uk-european-memorials/ed393-vn-k-pocklington/",
+      "summary": "Squadron association memorial page for ED393 VN-K at Pocklington. Provides detailed context from the squadron's perspective, including the Berlin operation that night and the diversion circumstances.",
+      "key_details": [
+        "Listed on squadron association memorial page",
+        "Part of 50 Squadron's Berlin operations November 1943"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Pocklington History Group",
+      "original_url": "https://pocklingtonhistory.com/history/20thcentury/pocklingtoninww2/crashes/index.php",
+      "summary": "Local history group research into wartime aircraft crashes around Pocklington, including the ED393 crash at Canal Head. Provides community perspective on the impact of multiple crashes on the town during the war.",
+      "key_details": [
+        "Local history group maintains detailed crash records",
+        "Multiple wartime crashes documented around Pocklington"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Pocklington Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Pocklington Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/50.jpg",
+  "squadron_motto": "From defence to attack",
+  "what3words": "testy.energetic.coil",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

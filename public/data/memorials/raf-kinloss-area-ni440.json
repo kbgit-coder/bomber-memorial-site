@@ -1,159 +1,167 @@
 {
-    "id": "raf-kinloss-area-ni440",
-    "title": "RAF Kinloss area Whitley Memorial",
-    "location_name": "RAF Kinloss area, Moray",
-    "county": "Moray",
-    "country": "United Kingdom",
-    "region_code": "SC-009",
-    "crash_date": "1940-11-07",
-    "aircraft_type": "Whitley",
-    "serial_number": "N1440",
-    "squadron": "19 OTU",
-    "station": "RAF Kinloss",
-    "crew_summary": "6 killed",
-    "memorial_type": "Rectangular brass wall-mounted plaque on wood backboard, erected by Station Commander",
-    "sources": [
-        {
-            "title": "IWM (memorial/44614)",
-            "type": "website",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/44614"
-        },
-        {
-            "title": "19 OTU Roll of Honour",
-            "type": "website",
-            "url": "http://www.griffon.clara.net/19/19otu_roll_of_honour.htm"
-        },
-        {
-            "title": "19 OTU Whitley Losses",
-            "type": "website",
-            "url": "http://www.griffon.clara.net/19/whitley_losses.htm"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On 7 November 1940, Whitley N1440 of 19 OTU crashed into the garden of a property called Glenernie on Tolbooth Street in Forres during a training flight from RAF Kinloss. All six crew members were killed. Remarkably, despite crashing into the heart of a residential area, there were no civilian casualties. The crash occurred during the early period of 19 OTU's operations; the unit had only recently begun training bomber crews at Kinloss, and the move to the satellite airfield at Forres (RAF Balnageith) would not take place until the following year. The Whitley was the standard heavy bomber trainer in Bomber Command's OTU system during 1940-42, and 19 OTU would lose over 100 aircraft during its wartime existence. Full first names and personal details for the crew have not been traced in available sources.",
-    "crew": [
-        {
-            "rank": "Sgt",
-            "name": "S.P. Gallagher",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed when Whitley N1440 crashed into the garden of Glenernie on Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "One of six crew members killed in the crash into residential Forres. Full first names not traced in available records.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "H.D. Gaywood",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "Crew member of 19 OTU based at RAF Kinloss. Full first names not traced.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "F.S. Legge",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "Crew member of 19 OTU. Full first names not traced.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "F.W. Lewis",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "Crew member of 19 OTU. Full first names not traced.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "J.F. Painter",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "Crew member of 19 OTU. Full first names not traced.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "R.E. Rolison",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
-            "cwgc_verified": true,
-            "bio": "Crew member of 19 OTU. Full first names not traced.",
-            "decorations": []
-        }
-    ],
-    "latitude": 57.6102,
-    "longitude": -3.6109,
-    "cause_of_loss": "Unknown (possibly engine failure during training flight)",
-    "operation_type": "Training",
-    "memorial_details": "A rectangular brass wall-mounted plaque on a wooden backboard was erected on Tolbooth Street, Forres, on 12 November 1989 by Group Captain R. H. Gould, Station Commander of RAF Kinloss. The plaque is incised and coloured black, listing all six crew members. Its current location may be at or near the Falconer Museum on Tolbooth Street. A separate memorial to 19 OTU as a whole exists nearby.",
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/44614",
-            "summary": "IWM War Memorials Register entry for the Whitley Bomber N1440 air crash memorial. Records the brass wall-mounted plaque erected by the Station Commander of RAF Kinloss in 1989 on Tolbooth Street, Forres.",
-            "key_details": [
-                "IWM memorial reference 44614",
-                "Plaque erected 12 November 1989"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Old Man's Thoughts and Tales (WordPress blog)",
-            "original_url": "https://heavywhalley.wordpress.com/2020/07/14/whitley-crash-forres-an-forres-airfields/",
-            "summary": "Detailed personal research blog post about the Whitley crash in Forres and the wider history of Forres airfields.",
-            "key_details": [
-                "Crash into garden of Glenernie property",
-                "No civilian casualties despite residential area",
-                "19 OTU context provided"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Undiscovered Scotland",
-            "original_url": "https://www.undiscoveredscotland.co.uk/forres/19otu/index.html",
-            "summary": "Guide to the 19 OTU Memorial at Forres, providing broader context for the operational training unit that lost over 100 aircraft during wartime.",
-            "key_details": [
-                "19 OTU lost over 100 aircraft during the war",
-                "Separate 19 OTU memorial exists in Forres"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Visit Forres",
-            "original_url": "https://visitforres.scot/raf-history-kinloss/",
-            "summary": "Tourism and heritage page documenting RAF Kinloss history.",
-            "key_details": [
-                "RAF Kinloss history documented for visitors",
-                "19 OTU established May 1940"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Elgin Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "crinkled.points.savings"
+  "id": "raf-kinloss-area-ni440",
+  "title": "RAF Kinloss area Whitley Memorial",
+  "location_name": "RAF Kinloss area, Moray",
+  "county": "Moray",
+  "country": "United Kingdom",
+  "region_code": "SC-009",
+  "crash_date": "1940-11-07",
+  "aircraft_type": "Whitley",
+  "serial_number": "N1440",
+  "squadron": "19 OTU",
+  "station": "RAF Kinloss",
+  "crew_summary": "6 killed",
+  "memorial_type": "Rectangular brass wall-mounted plaque on wood backboard, erected by Station Commander",
+  "sources": [
+    {
+      "title": "IWM (memorial/44614)",
+      "type": "website",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/44614"
+    },
+    {
+      "title": "19 OTU Roll of Honour",
+      "type": "website",
+      "url": "http://www.griffon.clara.net/19/19otu_roll_of_honour.htm"
+    },
+    {
+      "title": "19 OTU Whitley Losses",
+      "type": "website",
+      "url": "http://www.griffon.clara.net/19/whitley_losses.htm"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "On 7 November 1940, Whitley N1440 of 19 OTU crashed into the garden of a property called Glenernie on Tolbooth Street in Forres during a training flight from RAF Kinloss. All six crew members were killed. Remarkably, despite crashing into the heart of a residential area, there were no civilian casualties. The crash occurred during the early period of 19 OTU's operations; the unit had only recently begun training bomber crews at Kinloss, and the move to the satellite airfield at Forres (RAF Balnageith) would not take place until the following year. The Whitley was the standard heavy bomber trainer in Bomber Command's OTU system during 1940-42, and 19 OTU would lose over 100 aircraft during its wartime existence. Full first names and personal details for the crew have not been traced in available sources.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "S.P. Gallagher",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Whitley N1440 crashed into the garden of Glenernie on Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "One of six crew members killed in the crash into residential Forres. Full first names not traced in available records.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "H.D. Gaywood",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "Crew member of 19 OTU based at RAF Kinloss. Full first names not traced.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "F.S. Legge",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "Crew member of 19 OTU. Full first names not traced.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "F.W. Lewis",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "Crew member of 19 OTU. Full first names not traced.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "J.F. Painter",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "Crew member of 19 OTU. Full first names not traced.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "R.E. Rolison",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Tolbooth Street, Forres.",
+      "cwgc_verified": true,
+      "bio": "Crew member of 19 OTU. Full first names not traced.",
+      "decorations": []
+    }
+  ],
+  "latitude": 57.6102,
+  "longitude": -3.6109,
+  "cause_of_loss": "Unknown (possibly engine failure during training flight)",
+  "operation_type": "Training",
+  "memorial_details": "A rectangular brass wall-mounted plaque on a wooden backboard was erected on Tolbooth Street, Forres, on 12 November 1989 by Group Captain R. H. Gould, Station Commander of RAF Kinloss. The plaque is incised and coloured black, listing all six crew members. Its current location may be at or near the Falconer Museum on Tolbooth Street. A separate memorial to 19 OTU as a whole exists nearby.",
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/44614",
+      "summary": "IWM War Memorials Register entry for the Whitley Bomber N1440 air crash memorial. Records the brass wall-mounted plaque erected by the Station Commander of RAF Kinloss in 1989 on Tolbooth Street, Forres.",
+      "key_details": [
+        "IWM memorial reference 44614",
+        "Plaque erected 12 November 1989"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Old Man's Thoughts and Tales (WordPress blog)",
+      "original_url": "https://heavywhalley.wordpress.com/2020/07/14/whitley-crash-forres-an-forres-airfields/",
+      "summary": "Detailed personal research blog post about the Whitley crash in Forres and the wider history of Forres airfields.",
+      "key_details": [
+        "Crash into garden of Glenernie property",
+        "No civilian casualties despite residential area",
+        "19 OTU context provided"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Undiscovered Scotland",
+      "original_url": "https://www.undiscoveredscotland.co.uk/forres/19otu/index.html",
+      "summary": "Guide to the 19 OTU Memorial at Forres, providing broader context for the operational training unit that lost over 100 aircraft during wartime.",
+      "key_details": [
+        "19 OTU lost over 100 aircraft during the war",
+        "Separate 19 OTU memorial exists in Forres"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Visit Forres",
+      "original_url": "https://visitforres.scot/raf-history-kinloss/",
+      "summary": "Tourism and heritage page documenting RAF Kinloss history.",
+      "key_details": [
+        "RAF Kinloss history documented for visitors",
+        "19 OTU established May 1940"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Elgin Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "crinkled.points.savings",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

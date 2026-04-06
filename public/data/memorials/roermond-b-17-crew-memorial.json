@@ -1,46 +1,54 @@
 {
-    "id": "roermond-b-17-crew-memorial",
-    "title": "Roermond B-17 Crew Memorial",
-    "location_name": "Roermond, Limburg",
-    "county": "Limburg",
-    "country": "Netherlands",
-    "narrative": "A bomber crew jettisoned their bombs to avoid hitting the Dutch town of Roermond. The pilot now has a street named after him in the town — a powerful example of how communities remember the sacrifices made to protect them.",
-    "memorial_type": "Street naming",
-    "data_quality": "Stub",
-    "sources": [
-        {
-            "title": "Charlie Leitheiser hackathon research",
-            "type": "personal_research"
-        }
-    ],
-    "contributor": "Charlie Leitheiser",
-    "last_updated": "2026-03-21",
-    "latitude": 51.19,
-    "longitude": 5.99,
-    "external_narratives": [
-        {
-            "source_site": "US Army (army.mil)",
-            "original_url": "https://www.army.mil/article/270854/afsbn_benelux_takes_part_in_80_year_commemoration_of_downed_wwii_b_17_bomber_crew",
-            "summary": "US Army coverage of the 80th anniversary commemoration of a downed WWII B-17 bomber crew in the Netherlands. While this specific article covers the Eygelshoven crash site rather than Roermond directly, it documents the Dutch tradition of naming streets after fallen USAAF crews and holding annual commemorations.",
-            "key_details": [
-                "Dutch communities commonly name streets after fallen crews",
-                "80-year commemorations still held",
-                "AFSBn-Benelux participates in memorial events"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "The Washington Post",
-            "original_url": "https://www.washingtonpost.com/news/magazine/wp/2018/11/09/feature/a-downed-world-war-ii-plane-a-dutch-village-and-the-art-of-remembering/",
-            "summary": "Feature article on how Dutch villages remember downed WWII bomber crews, including through street naming and annual memorial ceremonies. Illustrates the deep cultural connection between Dutch communities and the Allied airmen who fell over their territory.",
-            "key_details": [
-                "Dutch communities maintain strong tradition of remembering Allied airmen",
-                "Street naming is common form of commemoration in Netherlands"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "what3words": "padding.hurls.liner"
+  "id": "roermond-b-17-crew-memorial",
+  "title": "Roermond B-17 Crew Memorial",
+  "location_name": "Roermond, Limburg",
+  "county": "Limburg",
+  "country": "Netherlands",
+  "narrative": "A bomber crew jettisoned their bombs to avoid hitting the Dutch town of Roermond. The pilot now has a street named after him in the town — a powerful example of how communities remember the sacrifices made to protect them.",
+  "memorial_type": "Street naming",
+  "data_quality": "Stub",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "latitude": 51.19,
+  "longitude": 5.99,
+  "external_narratives": [
+    {
+      "source_site": "US Army (army.mil)",
+      "original_url": "https://www.army.mil/article/270854/afsbn_benelux_takes_part_in_80_year_commemoration_of_downed_wwii_b_17_bomber_crew",
+      "summary": "US Army coverage of the 80th anniversary commemoration of a downed WWII B-17 bomber crew in the Netherlands. While this specific article covers the Eygelshoven crash site rather than Roermond directly, it documents the Dutch tradition of naming streets after fallen USAAF crews and holding annual commemorations.",
+      "key_details": [
+        "Dutch communities commonly name streets after fallen crews",
+        "80-year commemorations still held",
+        "AFSBn-Benelux participates in memorial events"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "The Washington Post",
+      "original_url": "https://www.washingtonpost.com/news/magazine/wp/2018/11/09/feature/a-downed-world-war-ii-plane-a-dutch-village-and-the-art-of-remembering/",
+      "summary": "Feature article on how Dutch villages remember downed WWII bomber crews, including through street naming and annual memorial ceremonies. Illustrates the deep cultural connection between Dutch communities and the Allied airmen who fell over their territory.",
+      "key_details": [
+        "Dutch communities maintain strong tradition of remembering Allied airmen",
+        "Street naming is common form of commemoration in Netherlands"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "what3words": "padding.hurls.liner",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

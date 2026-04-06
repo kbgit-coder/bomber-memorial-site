@@ -1,91 +1,99 @@
 {
-    "id": "sturton-by-stow-lancaster-r-5676",
-    "title": "Sturton by Stow R.5676 Memorial",
-    "location_name": "Sturton by Stow, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-028",
-    "crash_date": "1943-02-12",
-    "aircraft_type": "Lancaster R.5676",
-    "squadron": "1660 HCU",
-    "station": "Swinderby",
-    "crew_summary": "8 killed including pilot Flg Off. Sydney Rhys Jones",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.12388206481441,
-    "longitude": -0.39833470751239203,
-    "maintainer": {
-        "organisation": "Sturton by Stow Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "sturton-by-stow-lancaster-r-5676",
+  "title": "Sturton by Stow R.5676 Memorial",
+  "location_name": "Sturton by Stow, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-028",
+  "crash_date": "1943-02-12",
+  "aircraft_type": "Lancaster R.5676",
+  "squadron": "1660 HCU",
+  "station": "Swinderby",
+  "crew_summary": "8 killed including pilot Flg Off. Sydney Rhys Jones",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.12388206481441,
+  "longitude": -0.39833470751239203,
+  "maintainer": {
+    "organisation": "Sturton by Stow Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/263072/",
+      "summary": "Registry entry for the Lancaster R5676 memorial at Lancaster Farm, Sturton by Stow. The memorial was commissioned by farm owner Jacqueline Gorman and designed by her son John Gorman.",
+      "key_details": "Memorial located on the wall at the entrance to Lancaster Farm on Tillbridge Road. Privately commissioned memorial on the crash site.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/263072/",
-            "summary": "Registry entry for the Lancaster R5676 memorial at Lancaster Farm, Sturton by Stow. The memorial was commissioned by farm owner Jacqueline Gorman and designed by her son John Gorman.",
-            "key_details": "Memorial located on the wall at the entrance to Lancaster Farm on Tillbridge Road. Privately commissioned memorial on the crash site.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Commands",
-            "original_url": "http://www.rafcommands.com/archive/07634.php",
-            "summary": "RAF Commands archive record for Flying Officer Sydney Rhys Jones and the crew of Lancaster R5676 from 1660 HCU. The Lancaster broke up in flight at 1005 hours on 12 February 1943, with the starboard wing failing first.",
-            "key_details": "Aircraft suffered structural failure — starboard wing broke away in flight. Crashed at Oldfield's Farm, 8 miles NW of Lincoln. Crew of eight included Fg Off Jones (age 25), Sgt Raeside (age 26), Fg Off Hoy (age 31), Sgt Westwood (age 22), Sgt Jackson (age 23), Fg Off Krish (age 26), F/Sgt Kennedy (age 20), and Sgt Redfern (age 23).",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/6503157",
-            "summary": "Photograph and description of the memorial to the crew of Lancaster R5676 at Sturton by Stow, showing the stone memorial on the wall of Lancaster Farm.",
-            "key_details": "Memorial is publicly visible on the roadside wall of the farm. The farm itself was renamed 'Lancaster Farm' in honour of the crew.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Gainsborough & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Sturton by Stow Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "flopping.velocity.deny",
-    "photos": [
-        {
-            "filename": "sturton-by-stow-lancaster-r-5676/5cc01f8782609_Lancaster_Farm_1_547x410.jpg",
-            "caption": "5cc01f8782609 Lancaster Farm 1 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "sturton-by-stow-lancaster-r-5676/5cc01f880b736_Lancaster_Farm_2_547x410.jpg",
-            "caption": "5cc01f880b736 Lancaster Farm 2 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "sturton-by-stow-lancaster-r-5676/642e8cf811f7e_Jackie_Gorman_03.04.2023_2_547x410.jpg",
-            "caption": "642e8cf811f7e Jackie Gorman 03.04.2023 2 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "sturton-by-stow-lancaster-r-5676/642e8cf856e68_Jackie_Gorman_03.04.2023_547x410.jpg",
-            "caption": "642e8cf856e68 Jackie Gorman 03.04.2023 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        }
-    ]
+    {
+      "source_site": "RAF Commands",
+      "original_url": "http://www.rafcommands.com/archive/07634.php",
+      "summary": "RAF Commands archive record for Flying Officer Sydney Rhys Jones and the crew of Lancaster R5676 from 1660 HCU. The Lancaster broke up in flight at 1005 hours on 12 February 1943, with the starboard wing failing first.",
+      "key_details": "Aircraft suffered structural failure — starboard wing broke away in flight. Crashed at Oldfield's Farm, 8 miles NW of Lincoln. Crew of eight included Fg Off Jones (age 25), Sgt Raeside (age 26), Fg Off Hoy (age 31), Sgt Westwood (age 22), Sgt Jackson (age 23), Fg Off Krish (age 26), F/Sgt Kennedy (age 20), and Sgt Redfern (age 23).",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6503157",
+      "summary": "Photograph and description of the memorial to the crew of Lancaster R5676 at Sturton by Stow, showing the stone memorial on the wall of Lancaster Farm.",
+      "key_details": "Memorial is publicly visible on the roadside wall of the farm. The farm itself was renamed 'Lancaster Farm' in honour of the crew.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Sturton by Stow Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "flopping.velocity.deny",
+  "photos": [
+    {
+      "filename": "sturton-by-stow-lancaster-r-5676/5cc01f8782609_Lancaster_Farm_1_547x410.jpg",
+      "caption": "5cc01f8782609 Lancaster Farm 1 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "sturton-by-stow-lancaster-r-5676/5cc01f880b736_Lancaster_Farm_2_547x410.jpg",
+      "caption": "5cc01f880b736 Lancaster Farm 2 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "sturton-by-stow-lancaster-r-5676/642e8cf811f7e_Jackie_Gorman_03.04.2023_2_547x410.jpg",
+      "caption": "642e8cf811f7e Jackie Gorman 03.04.2023 2 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "sturton-by-stow-lancaster-r-5676/642e8cf856e68_Jackie_Gorman_03.04.2023_547x410.jpg",
+      "caption": "642e8cf856e68 Jackie Gorman 03.04.2023 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

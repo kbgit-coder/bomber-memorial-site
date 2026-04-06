@@ -1,72 +1,80 @@
 {
-    "id": "cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-",
-    "title": "Cairnsmore of Fleet (7 Memorial",
-    "location_name": "Cairnsmore of Fleet, Dumfries & Galloway",
-    "county": "Dumfries & Galloway",
-    "country": "United Kingdom",
-    "region_code": "SC-006",
-    "crash_date": "WW2",
-    "aircraft_type": "Multiple aircraft (7",
-    "serial_number": "WW2 crashes + 1 post-war commemorated)",
-    "squadron": "Various",
-    "memorial_type": "Rough-hewn stone with copper/bronze plaque (original lead lettering lost to frost); commemorates 7 wartime air crashes",
-    "sources": [
-        {
-            "title": "IWM (memorial/71898)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-22",
-    "data_quality": "Partial",
-    "narrative": "Cairnsmore of Fleet, a 2,331-foot hill in the Galloway Hills, became a graveyard for training aircraft during the Second World War. Seven crashes between 1940 and 1944 killed 25 men from Britain, Canada, Australia, New Zealand, and -- uniquely -- four German Luftwaffe aircrew whose Heinkel was the first to crash on the mountain in August 1940. The predominance of Avro Ansons reflects the aircraft's role as the standard navigation and bombing trainer at OTUs across south-west Scotland, including RAF Dumfries, Wigtown, and West Freugh. The mountain's position athwart the training routes, combined with its height and the region's unpredictable weather, made it a persistent hazard. The inclusion of enemy aircrew on the same memorial as Allied dead is a notable act of reconciliation.",
-    "latitude": 54.9759,
-    "longitude": -4.3426,
-    "memorial_details": "The original memorial, a rough hewn granite stone with lead-lettered inscription, was dedicated on 8 August 1980. Frost damage over the years destroyed much of the original lettering. A copper/bronze plaque was added and the memorial rededicated on 9 August 2007, with additional tributes including aircraft wreckage and a granite memorial block. The memorial stands near the summit cairn of Cairnsmore of Fleet at NX 50111 67050. Access requires a minimum 2-hour walk from any road.",
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/71898",
-            "summary": "IWM records the memorial commemorating seven wartime air crashes and one post-war crash on Cairnsmore of Fleet. The rough-hewn stone memorial was originally dedicated on 8 August 1980 with lead lettering, later replaced by a copper/bronze plaque after frost damage.",
-            "key_details": [
-                "IWM reference: memorial/71898",
-                "Original dedication: 8 August 1980",
-                "Re-dedication with new plaque: 9 August 2007"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/215109",
-            "summary": "War Memorials Online documents the Cairnsmore of Fleet memorial, noting it commemorates airmen from multiple nations including a German Heinkel crew from Kampfgeschwader 4 who crashed on 8 August 1940 while laying mines off Belfast.",
-            "key_details": [
-                "WMO reference: 215109",
-                "First crash: German Heinkel from KG4, 8 August 1940",
-                "German crew lost while mine-laying off Belfast"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/avro-anson-eg485-cairnsmore-of-fleet/",
-            "summary": "Peak District Air Accident Research documents one of the Cairnsmore crashes involving Anson EG485, providing detailed analysis of the multiple crash sites on the mountain and the training routes that made it a persistent hazard.",
-            "key_details": [
-                "Multiple crash sites documented on the mountain",
-                "Training routes from RAF Dumfries, Wigtown, and West Freugh"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Dumfries Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "vibrate.skyrocket.stone"
+  "id": "cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-",
+  "title": "Cairnsmore of Fleet (7 Memorial",
+  "location_name": "Cairnsmore of Fleet, Dumfries & Galloway",
+  "county": "Dumfries & Galloway",
+  "country": "United Kingdom",
+  "region_code": "SC-006",
+  "crash_date": "WW2",
+  "aircraft_type": "Multiple aircraft (7",
+  "serial_number": "WW2 crashes + 1 post-war commemorated)",
+  "squadron": "Various",
+  "memorial_type": "Rough-hewn stone with copper/bronze plaque (original lead lettering lost to frost); commemorates 7 wartime air crashes",
+  "sources": [
+    {
+      "title": "IWM (memorial/71898)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "narrative": "Cairnsmore of Fleet, a 2,331-foot hill in the Galloway Hills, became a graveyard for training aircraft during the Second World War. Seven crashes between 1940 and 1944 killed 25 men from Britain, Canada, Australia, New Zealand, and -- uniquely -- four German Luftwaffe aircrew whose Heinkel was the first to crash on the mountain in August 1940. The predominance of Avro Ansons reflects the aircraft's role as the standard navigation and bombing trainer at OTUs across south-west Scotland, including RAF Dumfries, Wigtown, and West Freugh. The mountain's position athwart the training routes, combined with its height and the region's unpredictable weather, made it a persistent hazard. The inclusion of enemy aircrew on the same memorial as Allied dead is a notable act of reconciliation.",
+  "latitude": 54.9759,
+  "longitude": -4.3426,
+  "memorial_details": "The original memorial, a rough hewn granite stone with lead-lettered inscription, was dedicated on 8 August 1980. Frost damage over the years destroyed much of the original lettering. A copper/bronze plaque was added and the memorial rededicated on 9 August 2007, with additional tributes including aircraft wreckage and a granite memorial block. The memorial stands near the summit cairn of Cairnsmore of Fleet at NX 50111 67050. Access requires a minimum 2-hour walk from any road.",
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/71898",
+      "summary": "IWM records the memorial commemorating seven wartime air crashes and one post-war crash on Cairnsmore of Fleet. The rough-hewn stone memorial was originally dedicated on 8 August 1980 with lead lettering, later replaced by a copper/bronze plaque after frost damage.",
+      "key_details": [
+        "IWM reference: memorial/71898",
+        "Original dedication: 8 August 1980",
+        "Re-dedication with new plaque: 9 August 2007"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/215109",
+      "summary": "War Memorials Online documents the Cairnsmore of Fleet memorial, noting it commemorates airmen from multiple nations including a German Heinkel crew from Kampfgeschwader 4 who crashed on 8 August 1940 while laying mines off Belfast.",
+      "key_details": [
+        "WMO reference: 215109",
+        "First crash: German Heinkel from KG4, 8 August 1940",
+        "German crew lost while mine-laying off Belfast"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/avro-anson-eg485-cairnsmore-of-fleet/",
+      "summary": "Peak District Air Accident Research documents one of the Cairnsmore crashes involving Anson EG485, providing detailed analysis of the multiple crash sites on the mountain and the training routes that made it a persistent hazard.",
+      "key_details": [
+        "Multiple crash sites documented on the mountain",
+        "Training routes from RAF Dumfries, Wigtown, and West Freugh"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Dumfries Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "vibrate.skyrocket.stone",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

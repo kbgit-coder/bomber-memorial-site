@@ -1,221 +1,229 @@
 {
-    "id": "bicker-nd820",
-    "title": "Bicker Lancaster Memorial",
-    "location_name": "Bicker, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-002",
-    "crash_date": "1944-04-10",
-    "aircraft_type": "Lancaster",
-    "serial_number": "ND820",
-    "squadron": "635 Sqdn.",
-    "station": "Downham Market",
-    "crew_summary": "7 killed including pilot Flt Sgt. Joseph Bernard Bannan",
-    "memorial_type": "Memorial plaque",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        },
-        {
-            "title": "Bicker Parish Council - Dave Stubley research",
-            "url": "https://bicker.parish.lincolnshire.gov.uk/downloads/file/72/story-dave-stubley",
-            "type": "website"
-        },
-        {
-            "title": "IWM War Memorials Register",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/59226",
-            "type": "database"
-        },
-        {
-            "title": "CBC News Canada",
-            "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/bicker-bar-lancaster-bomber-crashed-uk-canadian-thomas-ferguson-wilson-1.7380104",
-            "type": "news"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "Lancaster ND820 took off from RAF Downham Market in Norfolk at 10:58 on the morning of 10 April 1944 for a bombing practice flight. The brand-new aircraft had only 6 hours of airtime. Just 22 minutes later, the aircraft was in serious trouble. Over Swineshead, witnesses saw the Lancaster catch fire. The auto-pilot is suspected of having malfunctioned, causing the aircraft to enter a diving turn at 8,000 feet. As the stricken bomber crossed over the village of Bicker, a figure was seen bailing out — this was F/O Thomas Ferguson Wilson, the 26-year-old Canadian navigator from Lucknow, Ontario. Wilson's parachute opened, but he was already dead or dying when he reached the ground. He is buried at Stonefall Cemetery in Harrogate. The Lancaster crashed in flames at Bicker, and the remaining six crew were killed. The fire was so intense that their remains could not be recovered; they are commemorated on the Runnymede Memorial. For decades, the people of Bicker honoured the seven men in an annual ceremony — and Wilson's family in Canada had no idea. It was not until recently that Canadian journalist CBC News connected the family with the Bicker community. The reunion of family and village was deeply emotional.",
-    "crew": [
-        {
-            "rank": "Fl/Sgt",
-            "name": "Joseph Bernard Bannan",
-            "age": 24,
-            "role": "Pilot",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "Killed when Lancaster ND820 crashed in flames at Bicker. Remains unrecovered due to intensity of fire; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true,
-            "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type."
-        },
-        {
-            "rank": "Fl/Sgt",
-            "name": "Douglas James Farrant",
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Fl/Sgt",
-            "name": "Anthony Ivor Hunter",
-            "age": 28,
-            "role": "Navigator",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "W/O",
-            "name": "Roland Thornton Lord",
-            "age": 25,
-            "role": "Air Bomber",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Reuben Horace Malthouse",
-            "age": 23,
-            "role": "Wireless Operator",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "John William Nixon",
-            "age": 19,
-            "role": "Air Gunner",
-            "nationality": "British",
-            "burial_location": "Runnymede Memorial (unrecovered)",
-            "fate": "Killed",
-            "fate_detail": "At 19, the youngest crew member. Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/O",
-            "name": "Thomas Ferguson Wilson",
-            "age": 26,
-            "role": "Navigator",
-            "nationality": "Canadian",
-            "burial_location": "Harrogate (Stonefall) Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Bailed out as the Lancaster went down but was already dead or dying when his parachute brought him to earth. The only crew member whose body was recovered. Buried at Stonefall Cemetery, Harrogate.",
-            "cwgc_verified": true,
-            "bio": "F/O Wilson was 26 years old, from Lucknow, Ontario, Canada. For decades his family had no idea that the village of Bicker held annual commemoration ceremonies in his honour. CBC News recently connected the family with the Bicker community in a deeply emotional reunion.",
-            "hometown": "Lucknow, Ontario, Canada"
-        }
-    ],
-    "cause_of_loss": "Suspected auto-pilot malfunction; aircraft entered diving turn at 8,000 feet and caught fire; brand-new aircraft with only 6 hours airtime",
-    "operation_type": "Training",
-    "memorial_details": "A stone memorial plaque set into a brick cairn supporting a cross was unveiled on 10 April 2004 — the 60th anniversary, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG). Located on Eaudike Road, Bicker. Annual commemoration ceremonies have been held ever since. Condition: good.",
-    "latitude": 53.26158353430527,
-    "longitude": -0.41295830365201025,
-    "maintainer": {
-        "organisation": "Bicker Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "bicker-nd820",
+  "title": "Bicker Lancaster Memorial",
+  "location_name": "Bicker, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-002",
+  "crash_date": "1944-04-10",
+  "aircraft_type": "Lancaster",
+  "serial_number": "ND820",
+  "squadron": "635 Sqdn.",
+  "station": "Downham Market",
+  "crew_summary": "7 killed including pilot Flt Sgt. Joseph Bernard Bannan",
+  "memorial_type": "Memorial plaque",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     },
-    "external_narratives": [
-        {
-            "source_site": "Bicker Parish Council",
-            "original_url": "https://bicker.parish.lincolnshire.gov.uk/downloads/file/72/story-dave-stubley",
-            "summary": "Bicker Parish Council hosts Dave Stubley's detailed research on Lancaster ND820, documenting how the brand-new aircraft (only 6 hours airtime) went into a diving turn at 8,000 feet during a bombing practice flight and crashed in flames. The auto-pilot is suspected of having malfunctioned.",
-            "key_details": [
-                "Aircraft had only 6 hours airtime",
-                "Entered diving turn at 8,000 feet",
-                "Auto-pilot malfunction suspected",
-                "Pilot Farrant had 254 hours total, 15 on type"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/59226",
-            "summary": "IWM records the Lancaster ND820 memorial at Bicker, Lincolnshire, erected on the 60th anniversary of the crash.",
-            "key_details": [
-                "IWM memorial reference 59226"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/261245/",
-            "summary": "War Memorials Online documents the memorial on Eaudike Road, Bicker, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG) and unveiled on 10 April 2004.",
-            "key_details": [
-                "Memorial built over exact impact point",
-                "Erected by Lincolnshire Aircraft Recovery Group",
-                "Unveiled 10 April 2004, 60th anniversary"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "CBC News Canada",
-            "original_url": "https://www.cbc.ca/news/canada/kitchener-waterloo/bicker-bar-lancaster-bomber-crashed-uk-canadian-thomas-ferguson-wilson-1.7380104",
-            "summary": "CBC News reported on the emotional reunion between the Canadian family of F/O Thomas Ferguson Wilson and the Bicker community, who had honoured the seven airmen in annual ceremonies for decades without the family's knowledge. Wilson, 26, from Lucknow, Ontario, bailed out but was dead or dying when he reached the ground.",
-            "key_details": [
-                "Wilson's family in Canada unaware of annual ceremonies for decades",
-                "CBC connected family with Bicker community",
-                "Wilson bailed out but was already dead or dying",
-                "Reunion described as deeply emotional"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Boston & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Bicker Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "ditched.reliving.nightcap",
-    "photos": [
-        {
-            "filename": "bicker-nd820/5d22645618588_LI_Bicker_3_547x410.JPG",
-            "caption": "5d22645618588 LI Bicker 3 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "bicker-nd820/5d226456e0ac6_LI_Bicker_4_547x410.JPG",
-            "caption": "5d226456e0ac6 LI Bicker 4 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "bicker-nd820/5d226457b3ef4_LI_Bicker_5_547x410.JPG",
-            "caption": "5d226457b3ef4 LI Bicker 5 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "bicker-nd820/5d2264584f053_LI_Bicker_6_547x410.JPG",
-            "caption": "5d2264584f053 LI Bicker 6 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "bicker-nd820/5c012853903a0_Bicker_Lancaster_547x410.jpg",
-            "caption": "5c012853903a0 Bicker Lancaster 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        }
-    ]
+    {
+      "title": "Bicker Parish Council - Dave Stubley research",
+      "url": "https://bicker.parish.lincolnshire.gov.uk/downloads/file/72/story-dave-stubley",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/59226",
+      "type": "database"
+    },
+    {
+      "title": "CBC News Canada",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/bicker-bar-lancaster-bomber-crashed-uk-canadian-thomas-ferguson-wilson-1.7380104",
+      "type": "news"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "Lancaster ND820 took off from RAF Downham Market in Norfolk at 10:58 on the morning of 10 April 1944 for a bombing practice flight. The brand-new aircraft had only 6 hours of airtime. Just 22 minutes later, the aircraft was in serious trouble. Over Swineshead, witnesses saw the Lancaster catch fire. The auto-pilot is suspected of having malfunctioned, causing the aircraft to enter a diving turn at 8,000 feet. As the stricken bomber crossed over the village of Bicker, a figure was seen bailing out — this was F/O Thomas Ferguson Wilson, the 26-year-old Canadian navigator from Lucknow, Ontario. Wilson's parachute opened, but he was already dead or dying when he reached the ground. He is buried at Stonefall Cemetery in Harrogate. The Lancaster crashed in flames at Bicker, and the remaining six crew were killed. The fire was so intense that their remains could not be recovered; they are commemorated on the Runnymede Memorial. For decades, the people of Bicker honoured the seven men in an annual ceremony — and Wilson's family in Canada had no idea. It was not until recently that Canadian journalist CBC News connected the family with the Bicker community. The reunion of family and village was deeply emotional.",
+  "crew": [
+    {
+      "rank": "Fl/Sgt",
+      "name": "Joseph Bernard Bannan",
+      "age": 24,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster ND820 crashed in flames at Bicker. Remains unrecovered due to intensity of fire; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true,
+      "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type."
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "Douglas James Farrant",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "Anthony Ivor Hunter",
+      "age": 28,
+      "role": "Navigator",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "W/O",
+      "name": "Roland Thornton Lord",
+      "age": 25,
+      "role": "Air Bomber",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Reuben Horace Malthouse",
+      "age": 23,
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "John William Nixon",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Runnymede Memorial (unrecovered)",
+      "fate": "Killed",
+      "fate_detail": "At 19, the youngest crew member. Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "Thomas Ferguson Wilson",
+      "age": 26,
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "burial_location": "Harrogate (Stonefall) Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Bailed out as the Lancaster went down but was already dead or dying when his parachute brought him to earth. The only crew member whose body was recovered. Buried at Stonefall Cemetery, Harrogate.",
+      "cwgc_verified": true,
+      "bio": "F/O Wilson was 26 years old, from Lucknow, Ontario, Canada. For decades his family had no idea that the village of Bicker held annual commemoration ceremonies in his honour. CBC News recently connected the family with the Bicker community in a deeply emotional reunion.",
+      "hometown": "Lucknow, Ontario, Canada"
+    }
+  ],
+  "cause_of_loss": "Suspected auto-pilot malfunction; aircraft entered diving turn at 8,000 feet and caught fire; brand-new aircraft with only 6 hours airtime",
+  "operation_type": "Training",
+  "memorial_details": "A stone memorial plaque set into a brick cairn supporting a cross was unveiled on 10 April 2004 — the 60th anniversary, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG). Located on Eaudike Road, Bicker. Annual commemoration ceremonies have been held ever since. Condition: good.",
+  "latitude": 53.26158353430527,
+  "longitude": -0.41295830365201025,
+  "maintainer": {
+    "organisation": "Bicker Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Bicker Parish Council",
+      "original_url": "https://bicker.parish.lincolnshire.gov.uk/downloads/file/72/story-dave-stubley",
+      "summary": "Bicker Parish Council hosts Dave Stubley's detailed research on Lancaster ND820, documenting how the brand-new aircraft (only 6 hours airtime) went into a diving turn at 8,000 feet during a bombing practice flight and crashed in flames. The auto-pilot is suspected of having malfunctioned.",
+      "key_details": [
+        "Aircraft had only 6 hours airtime",
+        "Entered diving turn at 8,000 feet",
+        "Auto-pilot malfunction suspected",
+        "Pilot Farrant had 254 hours total, 15 on type"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/59226",
+      "summary": "IWM records the Lancaster ND820 memorial at Bicker, Lincolnshire, erected on the 60th anniversary of the crash.",
+      "key_details": [
+        "IWM memorial reference 59226"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/261245/",
+      "summary": "War Memorials Online documents the memorial on Eaudike Road, Bicker, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG) and unveiled on 10 April 2004.",
+      "key_details": [
+        "Memorial built over exact impact point",
+        "Erected by Lincolnshire Aircraft Recovery Group",
+        "Unveiled 10 April 2004, 60th anniversary"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "CBC News Canada",
+      "original_url": "https://www.cbc.ca/news/canada/kitchener-waterloo/bicker-bar-lancaster-bomber-crashed-uk-canadian-thomas-ferguson-wilson-1.7380104",
+      "summary": "CBC News reported on the emotional reunion between the Canadian family of F/O Thomas Ferguson Wilson and the Bicker community, who had honoured the seven airmen in annual ceremonies for decades without the family's knowledge. Wilson, 26, from Lucknow, Ontario, bailed out but was dead or dying when he reached the ground.",
+      "key_details": [
+        "Wilson's family in Canada unaware of annual ceremonies for decades",
+        "CBC connected family with Bicker community",
+        "Wilson bailed out but was already dead or dying",
+        "Reunion described as deeply emotional"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Boston & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Bicker Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "ditched.reliving.nightcap",
+  "photos": [
+    {
+      "filename": "bicker-nd820/5d22645618588_LI_Bicker_3_547x410.JPG",
+      "caption": "5d22645618588 LI Bicker 3 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "bicker-nd820/5d226456e0ac6_LI_Bicker_4_547x410.JPG",
+      "caption": "5d226456e0ac6 LI Bicker 4 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "bicker-nd820/5d226457b3ef4_LI_Bicker_5_547x410.JPG",
+      "caption": "5d226457b3ef4 LI Bicker 5 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "bicker-nd820/5d2264584f053_LI_Bicker_6_547x410.JPG",
+      "caption": "5d2264584f053 LI Bicker 6 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "bicker-nd820/5c012853903a0_Bicker_Lancaster_547x410.jpg",
+      "caption": "5c012853903a0 Bicker Lancaster 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

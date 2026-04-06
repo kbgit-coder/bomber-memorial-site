@@ -1,80 +1,88 @@
 {
-    "id": "carn-a-choire-mhoir-n1498",
-    "title": "Carn A'Choire Mhoir Whitley Memorial",
-    "location_name": "Carn A'Choire Mhoir, Highlands",
-    "county": "Highlands",
-    "country": "United Kingdom",
-    "region_code": "SC-002",
-    "crash_date": "WW2",
-    "aircraft_type": "Whitley",
-    "serial_number": "N1498",
-    "squadron": "RAF Bomber Command",
-    "crew_summary": "All killed",
-    "memorial_type": "Cairn with plaque at crash site",
-    "sources": [
-        {
-            "title": "IWM (memorial/6049)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 57.40853739141639,
-    "longitude": -5.106088151454865,
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/6049",
-            "summary": "IWM records the cairn memorial at the crash site of Whitley N1498 on Carn a Choire Mhoir, near Tomatin in the Highlands. The memorial commemorates personnel killed when the aircraft of 19 OTU crashed on 6 January 1942.",
-            "key_details": [
-                "IWM reference: memorial/6049",
-                "19 OTU, RAF Kinloss",
-                "Crash date: 6 January 1942"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/armstrong-whitworth-whitley-n1498-carn-a-choire-mhoir/",
-            "summary": "Detailed crash site documentation of Whitley Mk.V N1498 from 19 OTU RAF Kinloss. The aircraft flew into high ground when descending through cloud during an evening training flight. Four crew were killed and three were injured. The pilot ignored the last bearing obtained before the crash.",
-            "key_details": [
-                "4 killed, 3 injured",
-                "Pilot ignored last bearing obtained",
-                "Aircraft descended through cloud into high ground",
-                "OS Grid Ref: NH 843 291"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/263564/",
-            "summary": "War Memorials Online records the Whitley N1498 air crash site memorial on Carn a Choire Mhoir. The rear turret of the aircraft was recovered by helicopter in 1976 and is now at the Midland Air Museum in Coventry.",
-            "key_details": [
-                "WMO reference: 263564",
-                "Rear turret recovered by Sea King helicopter c.1976",
-                "Turret now at Midland Air Museum, Coventry"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Inverness Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "traded.digesting.depravity",
-    "photos": [
-        {
-            "filename": "carn-a-choire-mhoir-n1498/5cd854ee0438b_IMG_6121_547x410.jpg",
-            "caption": "5cd854ee0438b IMG 6121 547x410",
-            "credit": "Alistair Macdonald / War Memorials Online"
-        }
-    ]
+  "id": "carn-a-choire-mhoir-n1498",
+  "title": "Carn A'Choire Mhoir Whitley Memorial",
+  "location_name": "Carn A'Choire Mhoir, Highlands",
+  "county": "Highlands",
+  "country": "United Kingdom",
+  "region_code": "SC-002",
+  "crash_date": "WW2",
+  "aircraft_type": "Whitley",
+  "serial_number": "N1498",
+  "squadron": "RAF Bomber Command",
+  "crew_summary": "All killed",
+  "memorial_type": "Cairn with plaque at crash site",
+  "sources": [
+    {
+      "title": "IWM (memorial/6049)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 57.40853739141639,
+  "longitude": -5.106088151454865,
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/6049",
+      "summary": "IWM records the cairn memorial at the crash site of Whitley N1498 on Carn a Choire Mhoir, near Tomatin in the Highlands. The memorial commemorates personnel killed when the aircraft of 19 OTU crashed on 6 January 1942.",
+      "key_details": [
+        "IWM reference: memorial/6049",
+        "19 OTU, RAF Kinloss",
+        "Crash date: 6 January 1942"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/armstrong-whitworth-whitley-n1498-carn-a-choire-mhoir/",
+      "summary": "Detailed crash site documentation of Whitley Mk.V N1498 from 19 OTU RAF Kinloss. The aircraft flew into high ground when descending through cloud during an evening training flight. Four crew were killed and three were injured. The pilot ignored the last bearing obtained before the crash.",
+      "key_details": [
+        "4 killed, 3 injured",
+        "Pilot ignored last bearing obtained",
+        "Aircraft descended through cloud into high ground",
+        "OS Grid Ref: NH 843 291"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/263564/",
+      "summary": "War Memorials Online records the Whitley N1498 air crash site memorial on Carn a Choire Mhoir. The rear turret of the aircraft was recovered by helicopter in 1976 and is now at the Midland Air Museum in Coventry.",
+      "key_details": [
+        "WMO reference: 263564",
+        "Rear turret recovered by Sea King helicopter c.1976",
+        "Turret now at Midland Air Museum, Coventry"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Inverness Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "traded.digesting.depravity",
+  "photos": [
+    {
+      "filename": "carn-a-choire-mhoir-n1498/5cd854ee0438b_IMG_6121_547x410.jpg",
+      "caption": "5cd854ee0438b IMG 6121 547x410",
+      "credit": "Alistair Macdonald / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

@@ -1,3 +1,14 @@
+export type LocationConfidenceStatus = 'verified' | 'confirmed' | 'approximate' | 'estimated';
+
+export interface LocationConfidence {
+  status: LocationConfidenceStatus;
+  score: 0 | 1 | 2 | 3;
+  sources: string[];
+  verified_by: string | null;
+  verification_date: string | null;
+  community_submissions: number;
+}
+
 export interface CrewMember {
   rank?: string;
   name: string;
@@ -100,6 +111,7 @@ export interface Memorial {
   local_contacts?: LocalContact[];
   external_narratives?: ExternalNarrative[];
   sources?: Source[];
+  location_confidence?: LocationConfidence;
   contributor?: string;
   additional_contributors?: AdditionalContributor[];
   last_updated?: string;

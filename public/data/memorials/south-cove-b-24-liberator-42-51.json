@@ -1,81 +1,89 @@
 {
-    "id": "south-cove-b-24-liberator-42-51",
-    "title": "South Cove 42-51241 Memorial",
-    "location_name": "South Cove, Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-010",
-    "crash_date": "1945-03-31",
-    "aircraft_type": "B-24 Liberator 42-51241",
-    "squadron": "93rd BG",
-    "station": "Hardwick (USAAF)",
-    "crew_summary": "10 killed; pilot 2Lt. Marvin Tucker",
-    "memorial_type": "Church memorial",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.25597991820421,
-    "longitude": 1.0686720848540756,
-    "maintainer": {
-        "organisation": "South Cove Parish Meeting",
-        "maintainer_type": "church",
-        "notes": "Church memorial."
+  "id": "south-cove-b-24-liberator-42-51",
+  "title": "South Cove 42-51241 Memorial",
+  "location_name": "South Cove, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-010",
+  "crash_date": "1945-03-31",
+  "aircraft_type": "B-24 Liberator 42-51241",
+  "squadron": "93rd BG",
+  "station": "Hardwick (USAAF)",
+  "crew_summary": "10 killed; pilot 2Lt. Marvin Tucker",
+  "memorial_type": "Church memorial",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.25597991820421,
+  "longitude": 1.0686720848540756,
+  "maintainer": {
+    "organisation": "South Cove Parish Meeting",
+    "maintainer_type": "church",
+    "notes": "Church memorial."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Geograph Britain and Ireland",
+      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/12",
+      "summary": "Geograph article on East Anglia WWII aircrew crash memorials covering the Suffolk section, including the South Cove B-24 Liberator crash. Documents the memorial within the broader collection of crash memorials across the region.",
+      "key_details": [
+        "Part of wider East Anglia crash memorials collection",
+        "Suffolk section of memorial survey"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Geograph Britain and Ireland",
-            "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/12",
-            "summary": "Geograph article on East Anglia WWII aircrew crash memorials covering the Suffolk section, including the South Cove B-24 Liberator crash. Documents the memorial within the broader collection of crash memorials across the region.",
-            "key_details": [
-                "Part of wider East Anglia crash memorials collection",
-                "Suffolk section of memorial survey"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Wikipedia",
-            "original_url": "https://en.wikipedia.org/wiki/South_Cove,_Suffolk",
-            "summary": "Wikipedia article on South Cove, Suffolk referencing the B-24 Liberator crash of 409th Bombardment Squadron, 93rd Bombardment Group near the church in March 1945. The churchyard war memorial mentions the loss and a hand-written memorial inside the church lists crew names.",
-            "key_details": [
-                "409th Bombardment Squadron, 93rd BG",
-                "Crash near the church",
-                "Hand-written memorial inside church lists crew names",
-                "Churchyard war memorial also references the loss"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "93rd Bomb Group Museum",
-            "original_url": "https://93rd-bg-museum.org/data/m_galb24.htm",
-            "summary": "93rd Bomb Group museum page with B-24 Liberator gallery. The 93rd BG was based at Hardwick and flew Liberators throughout the war, providing unit context for the South Cove crash.",
-            "key_details": [
-                "93rd BG based at Hardwick",
-                "Unit museum preserves records"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Lowestoft Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "South Cove Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "colder.baroness.maximum"
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/South_Cove,_Suffolk",
+      "summary": "Wikipedia article on South Cove, Suffolk referencing the B-24 Liberator crash of 409th Bombardment Squadron, 93rd Bombardment Group near the church in March 1945. The churchyard war memorial mentions the loss and a hand-written memorial inside the church lists crew names.",
+      "key_details": [
+        "409th Bombardment Squadron, 93rd BG",
+        "Crash near the church",
+        "Hand-written memorial inside church lists crew names",
+        "Churchyard war memorial also references the loss"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "93rd Bomb Group Museum",
+      "original_url": "https://93rd-bg-museum.org/data/m_galb24.htm",
+      "summary": "93rd Bomb Group museum page with B-24 Liberator gallery. The 93rd BG was based at Hardwick and flew Liberators throughout the war, providing unit context for the South Cove crash.",
+      "key_details": [
+        "93rd BG based at Hardwick",
+        "Unit museum preserves records"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Lowestoft Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "South Cove Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "colder.baroness.maximum",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

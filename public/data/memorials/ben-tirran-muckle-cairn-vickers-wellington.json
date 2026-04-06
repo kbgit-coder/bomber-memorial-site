@@ -1,135 +1,143 @@
 {
-    "id": "ben-tirran-muckle-cairn-vickers-wellington",
-    "title": "Ben Tirran / Muckle Cairn Wellington Memorial",
-    "location_name": "Ben Tirran / Muckle Cairn, Angus",
-    "county": "Angus",
-    "country": "United Kingdom",
-    "region_code": "SC-008",
-    "crash_date": "1942-08-09",
-    "aircraft_type": "Vickers Wellington Mk.IC",
-    "serial_number": "L7845",
-    "squadron": "20 OTU",
-    "station": "RAF Lossiemouth",
-    "crew_summary": "4 killed; 1 survivor (rear gunner Sgt Thomas Holman)",
-    "memorial_type": "Crash site with wreckage remains; memorial marker",
-    "sources": [
-        {
-            "title": "pressandjournal.co.uk",
-            "type": "website"
-        },
-        {
-            "title": "Aviation Safety Network",
-            "url": "https://aviation-safety.net/wikibase/21589",
-            "type": "database"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On 9 August 1942, Wellington L7845 departed RAF Lossiemouth on an air test. During flight, part of the engine cowling detached and struck one of the propellers, causing severe damage and engine failure. The pilot attempted a forced landing in the remote hills between Ben Tirran and Muckle Cairn in the Angus glens. The landing attempt failed and four of the five crew were killed on impact. The rear gunner, Sgt Thomas Holman, protected in his turret at the tail, survived. Three of the four dead were members of the Royal Canadian Air Force and were buried together in Fettercairn Cemetery; the fourth, a member of the RAF, was returned to his family in Tyne and Wear. In 2012, the nephew and niece of Sgt Observer Joe Wetherson visited the crash site to lay a memorial plaque while bagpipes were played. The propeller of the crashed Wellington is now displayed at Montrose Air Station Heritage Centre.",
-    "crew": [
-        {
-            "rank": "F/Sgt",
-            "name": "Arthur Keene",
-            "role": "Pilot",
-            "nationality": "Canadian",
-            "burial_location": "Fettercairn Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact while attempting a forced landing in the hills between Ben Tirran and Muckle Cairn. Buried at Fettercairn Cemetery.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Joseph Wetherson",
-            "age": 23,
-            "role": "Observer",
-            "nationality": "Canadian",
-            "burial_location": "Fettercairn Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact. In 2012, his nephew and niece visited the crash site and laid a memorial plaque with bagpipes playing.",
-            "cwgc_verified": true,
-            "bio": "Sgt Wetherson was 23 years old at the time of the crash. His family in Canada maintained contact with the crash site and in 2012, relatives made a pilgrimage to lay a memorial plaque."
-        },
-        {
-            "rank": "Sgt",
-            "name": "Oscar Jensen",
-            "role": "Wireless Operator/Air Gunner",
-            "nationality": "Canadian",
-            "burial_location": "Fettercairn Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact. Buried at Fettercairn Cemetery alongside fellow Canadian crew members.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Alfred Kirby",
-            "role": "Observer",
-            "nationality": "Canadian",
-            "burial_location": "Cemetery in Tyne and Wear",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact. His body was returned to his family for burial in Tyne and Wear.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Thomas Holman",
-            "role": "Rear Gunner",
-            "nationality": "British",
-            "fate": "Survived",
-            "fate_detail": "Sole survivor of the crash. Protected by his rear turret position at the tail of the aircraft, which broke away on impact."
-        }
-    ],
-    "latitude": 56.8583,
-    "longitude": -3.0288,
-    "cause_of_loss": "Engine cowling detached in flight, damaging propeller, causing engine failure; crashed during forced landing attempt",
-    "operation_type": "Training",
-    "memorial_details": "A memorial plaque was laid at the crash site in 2012 by family members of Sgt Wetherson. The propeller from the aircraft is preserved and displayed at Montrose Air Station Heritage Centre. Wreckage including undercarriage components remains visible at the hillside site. Access requires a hill walk from Glen Clova.",
-    "external_narratives": [
-        {
-            "source_site": "Press and Journal",
-            "original_url": "https://www.pressandjournal.co.uk/fp/lifestyle/3453269/wreck-hunters-honouring-the-dead-while-finding-traces-of-war-on-scotlands-hills/",
-            "summary": "Press and Journal feature on wreck hunters visiting Scottish crash sites, including the Wellington L7845 wreckage on the hills between Ben Tirran and Muckle Cairn. Substantial wreckage remains visible including engines, wheels, undercarriage, wing sections, and a largely intact geodetic lattice tail section.",
-            "key_details": [
-                "Substantial wreckage still visible on hillside",
-                "Engines, wheels, undercarriage components remain",
-                "Tail section geodetic lattice largely intact",
-                "Access requires hill walk from Glen Clova"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Deeside Hillwalking Club",
-            "original_url": "https://www.deesidehillwalkingclub.co.uk/single-post/bomber-crash-site-and-ben-tirran",
-            "summary": "Hillwalking club account of visiting the Wellington crash site, documenting the extent of remaining wreckage and the remote hill location between Ben Tirran and Muckle Cairn / Tom Titlach in the Angus glens.",
-            "key_details": [
-                "Located near Muckle Cairn / Tom Titlach",
-                "Above Glen Esk in Angus",
-                "Accessible via hill walk"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "The Courier",
-            "original_url": "https://www.thecourier.co.uk/fp/lifestyle/2510360/wreck-hunters-traces-of-war/",
-            "summary": "The Courier's wreck hunters feature documents how the propeller from Wellington L7845 was recovered and is now displayed at Montrose Air Station Heritage Centre, and how a memorial plaque was laid at the site in 2012 by relatives of Sgt Observer Joe Wetherson.",
-            "key_details": [
-                "Propeller displayed at Montrose Air Station Heritage Centre",
-                "Memorial plaque laid 2012 by Wetherson family",
-                "Bagpipes played at plaque dedication ceremony"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Arbroath Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "contracts.stitch.expired"
+  "id": "ben-tirran-muckle-cairn-vickers-wellington",
+  "title": "Ben Tirran / Muckle Cairn Wellington Memorial",
+  "location_name": "Ben Tirran / Muckle Cairn, Angus",
+  "county": "Angus",
+  "country": "United Kingdom",
+  "region_code": "SC-008",
+  "crash_date": "1942-08-09",
+  "aircraft_type": "Vickers Wellington Mk.IC",
+  "serial_number": "L7845",
+  "squadron": "20 OTU",
+  "station": "RAF Lossiemouth",
+  "crew_summary": "4 killed; 1 survivor (rear gunner Sgt Thomas Holman)",
+  "memorial_type": "Crash site with wreckage remains; memorial marker",
+  "sources": [
+    {
+      "title": "pressandjournal.co.uk",
+      "type": "website"
+    },
+    {
+      "title": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/21589",
+      "type": "database"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "On 9 August 1942, Wellington L7845 departed RAF Lossiemouth on an air test. During flight, part of the engine cowling detached and struck one of the propellers, causing severe damage and engine failure. The pilot attempted a forced landing in the remote hills between Ben Tirran and Muckle Cairn in the Angus glens. The landing attempt failed and four of the five crew were killed on impact. The rear gunner, Sgt Thomas Holman, protected in his turret at the tail, survived. Three of the four dead were members of the Royal Canadian Air Force and were buried together in Fettercairn Cemetery; the fourth, a member of the RAF, was returned to his family in Tyne and Wear. In 2012, the nephew and niece of Sgt Observer Joe Wetherson visited the crash site to lay a memorial plaque while bagpipes were played. The propeller of the crashed Wellington is now displayed at Montrose Air Station Heritage Centre.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Arthur Keene",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Fettercairn Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact while attempting a forced landing in the hills between Ben Tirran and Muckle Cairn. Buried at Fettercairn Cemetery.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Wetherson",
+      "age": 23,
+      "role": "Observer",
+      "nationality": "Canadian",
+      "burial_location": "Fettercairn Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact. In 2012, his nephew and niece visited the crash site and laid a memorial plaque with bagpipes playing.",
+      "cwgc_verified": true,
+      "bio": "Sgt Wetherson was 23 years old at the time of the crash. His family in Canada maintained contact with the crash site and in 2012, relatives made a pilgrimage to lay a memorial plaque."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Oscar Jensen",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Fettercairn Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact. Buried at Fettercairn Cemetery alongside fellow Canadian crew members.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alfred Kirby",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "burial_location": "Cemetery in Tyne and Wear",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact. His body was returned to his family for burial in Tyne and Wear.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Holman",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Sole survivor of the crash. Protected by his rear turret position at the tail of the aircraft, which broke away on impact."
+    }
+  ],
+  "latitude": 56.8583,
+  "longitude": -3.0288,
+  "cause_of_loss": "Engine cowling detached in flight, damaging propeller, causing engine failure; crashed during forced landing attempt",
+  "operation_type": "Training",
+  "memorial_details": "A memorial plaque was laid at the crash site in 2012 by family members of Sgt Wetherson. The propeller from the aircraft is preserved and displayed at Montrose Air Station Heritage Centre. Wreckage including undercarriage components remains visible at the hillside site. Access requires a hill walk from Glen Clova.",
+  "external_narratives": [
+    {
+      "source_site": "Press and Journal",
+      "original_url": "https://www.pressandjournal.co.uk/fp/lifestyle/3453269/wreck-hunters-honouring-the-dead-while-finding-traces-of-war-on-scotlands-hills/",
+      "summary": "Press and Journal feature on wreck hunters visiting Scottish crash sites, including the Wellington L7845 wreckage on the hills between Ben Tirran and Muckle Cairn. Substantial wreckage remains visible including engines, wheels, undercarriage, wing sections, and a largely intact geodetic lattice tail section.",
+      "key_details": [
+        "Substantial wreckage still visible on hillside",
+        "Engines, wheels, undercarriage components remain",
+        "Tail section geodetic lattice largely intact",
+        "Access requires hill walk from Glen Clova"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Deeside Hillwalking Club",
+      "original_url": "https://www.deesidehillwalkingclub.co.uk/single-post/bomber-crash-site-and-ben-tirran",
+      "summary": "Hillwalking club account of visiting the Wellington crash site, documenting the extent of remaining wreckage and the remote hill location between Ben Tirran and Muckle Cairn / Tom Titlach in the Angus glens.",
+      "key_details": [
+        "Located near Muckle Cairn / Tom Titlach",
+        "Above Glen Esk in Angus",
+        "Accessible via hill walk"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "The Courier",
+      "original_url": "https://www.thecourier.co.uk/fp/lifestyle/2510360/wreck-hunters-traces-of-war/",
+      "summary": "The Courier's wreck hunters feature documents how the propeller from Wellington L7845 was recovered and is now displayed at Montrose Air Station Heritage Centre, and how a memorial plaque was laid at the site in 2012 by relatives of Sgt Observer Joe Wetherson.",
+      "key_details": [
+        "Propeller displayed at Montrose Air Station Heritage Centre",
+        "Memorial plaque laid 2012 by Wetherson family",
+        "Bagpipes played at plaque dedication ceremony"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Arbroath Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "contracts.stitch.expired",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

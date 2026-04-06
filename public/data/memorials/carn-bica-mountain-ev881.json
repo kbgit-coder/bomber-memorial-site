@@ -1,64 +1,72 @@
 {
-    "id": "carn-bica-mountain-ev881",
-    "title": "Carn Bica Mountain Liberator Memorial",
-    "location_name": "Carn Bica Mountain, Other Wales",
-    "county": "Other Wales",
-    "country": "United Kingdom",
-    "region_code": "WA-007",
-    "crash_date": "1944-09-19",
-    "aircraft_type": "Liberator",
-    "serial_number": "EV881",
-    "squadron": "Bomber/Coastal Command",
-    "crew_summary": "All killed",
-    "memorial_type": "Cairn with metal plaque on mountain",
-    "sources": [
-        {
-            "title": "IWM (memorial/6963)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-22",
-    "data_quality": "Partial",
-    "narrative": "On 19 September 1944, Liberator EV881 of 547 Squadron, RAF Coastal Command, took off from St Eval in Cornwall on a coastal patrol. The squadron's primary role was anti-submarine warfare over the Western Approaches. En route to an exercise area off Anglesey, the Liberator encountered cloud over the Preseli Hills in northern Pembrokeshire. The aircraft flew into Carn Bica at approximately 1,700 feet. Six of the nine-strong crew were killed; three survivors were all badly burned. The crew included both British and Canadian personnel, including Warrant Officer Soroski of the RCAF. This was a rare operational (rather than training) loss in the Welsh mountains, as the aircraft was engaged in Coastal Command duties rather than an OTU exercise. Flight Engineer Raymond Sellors was 21 years old.",
-    "cause_of_loss": "Aircraft flew into hillside in cloud",
-    "operation_type": "Training",
-    "memorial_details": "A cairn with a metal memorial plaque was erected at the crash site on 9 September 1984 by Haverfordwest 592 Branch of the RAFA (Royal Air Force Association) and RAF Brawdy, in cooperation with the Pembrokeshire Aviation Group, which was formed specifically to remember this crew. The plaque lists all nine crew names. The Pembrokeshire Aviation Group has maintained the memorial and organised commemorative walks to the crash site, including the 70th anniversary in 2014 and the 80th anniversary in 2024. The site is accessible via a hill walk in the Preseli Hills, a less demanding terrain than Snowdonia but still requiring some walking.",
-    "latitude": 51.95953763002024,
-    "longitude": -3.547260745909707,
-    "external_narratives": [
-        {
-            "source_site": "Pembrokeshire Herald",
-            "original_url": "https://pembrokeshire-herald.com/98136/80th-anniversary-of-tragic-raf-liberator-crash-in-preseli-hills-to-be-commemorated/",
-            "summary": "The Pembrokeshire Herald reported on the 80th anniversary commemoration of the Liberator EV881 crash in September 2024. The Pembrokeshire Aviation Group organised a memorial walk to the crash site on Carn Bica in the Preseli Hills.",
-            "key_details": [
-                "80th anniversary commemorated September 2024",
-                "Pembrokeshire Aviation Group organised memorial walk"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/175619",
-            "summary": "Aviation Safety Network records the crash of Consolidated Liberator GR Mk VI EV881 of 547 Squadron on 19 September 1944. The aircraft flew into Carn Bica mountain in cloud during a coastal patrol exercise with a Royal Navy submarine off Anglesey.",
-            "key_details": [
-                "Aircraft type: Liberator GR Mk VI",
-                "547 Squadron based at St Eval, Cornwall",
-                "Exercise with Royal Navy submarine off Anglesey",
-                "6 killed, 3 survivors (badly burned)"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Wrexham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
-        }
-    ],
-    "what3words": "bolt.appoints.homelands"
+  "id": "carn-bica-mountain-ev881",
+  "title": "Carn Bica Mountain Liberator Memorial",
+  "location_name": "Carn Bica Mountain, Other Wales",
+  "county": "Other Wales",
+  "country": "United Kingdom",
+  "region_code": "WA-007",
+  "crash_date": "1944-09-19",
+  "aircraft_type": "Liberator",
+  "serial_number": "EV881",
+  "squadron": "Bomber/Coastal Command",
+  "crew_summary": "All killed",
+  "memorial_type": "Cairn with metal plaque on mountain",
+  "sources": [
+    {
+      "title": "IWM (memorial/6963)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "narrative": "On 19 September 1944, Liberator EV881 of 547 Squadron, RAF Coastal Command, took off from St Eval in Cornwall on a coastal patrol. The squadron's primary role was anti-submarine warfare over the Western Approaches. En route to an exercise area off Anglesey, the Liberator encountered cloud over the Preseli Hills in northern Pembrokeshire. The aircraft flew into Carn Bica at approximately 1,700 feet. Six of the nine-strong crew were killed; three survivors were all badly burned. The crew included both British and Canadian personnel, including Warrant Officer Soroski of the RCAF. This was a rare operational (rather than training) loss in the Welsh mountains, as the aircraft was engaged in Coastal Command duties rather than an OTU exercise. Flight Engineer Raymond Sellors was 21 years old.",
+  "cause_of_loss": "Aircraft flew into hillside in cloud",
+  "operation_type": "Training",
+  "memorial_details": "A cairn with a metal memorial plaque was erected at the crash site on 9 September 1984 by Haverfordwest 592 Branch of the RAFA (Royal Air Force Association) and RAF Brawdy, in cooperation with the Pembrokeshire Aviation Group, which was formed specifically to remember this crew. The plaque lists all nine crew names. The Pembrokeshire Aviation Group has maintained the memorial and organised commemorative walks to the crash site, including the 70th anniversary in 2014 and the 80th anniversary in 2024. The site is accessible via a hill walk in the Preseli Hills, a less demanding terrain than Snowdonia but still requiring some walking.",
+  "latitude": 51.95953763002024,
+  "longitude": -3.547260745909707,
+  "external_narratives": [
+    {
+      "source_site": "Pembrokeshire Herald",
+      "original_url": "https://pembrokeshire-herald.com/98136/80th-anniversary-of-tragic-raf-liberator-crash-in-preseli-hills-to-be-commemorated/",
+      "summary": "The Pembrokeshire Herald reported on the 80th anniversary commemoration of the Liberator EV881 crash in September 2024. The Pembrokeshire Aviation Group organised a memorial walk to the crash site on Carn Bica in the Preseli Hills.",
+      "key_details": [
+        "80th anniversary commemorated September 2024",
+        "Pembrokeshire Aviation Group organised memorial walk"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/175619",
+      "summary": "Aviation Safety Network records the crash of Consolidated Liberator GR Mk VI EV881 of 547 Squadron on 19 September 1944. The aircraft flew into Carn Bica mountain in cloud during a coastal patrol exercise with a Royal Navy submarine off Anglesey.",
+      "key_details": [
+        "Aircraft type: Liberator GR Mk VI",
+        "547 Squadron based at St Eval, Cornwall",
+        "Exercise with Royal Navy submarine off Anglesey",
+        "6 killed, 3 survivors (badly burned)"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Wrexham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    }
+  ],
+  "what3words": "bolt.appoints.homelands",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

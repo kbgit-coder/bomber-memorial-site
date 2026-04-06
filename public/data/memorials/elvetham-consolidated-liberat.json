@@ -1,65 +1,73 @@
 {
-    "id": "elvetham-consolidated-liberat",
-    "title": "Elvetham Liberator Memorial",
-    "location_name": "Elvetham, near Hartley Wintney, Hampshire",
-    "county": "Hampshire",
-    "country": "United Kingdom",
-    "region_code": "SE-003",
-    "crash_date": "05/10/1945 (post-war, repatriation flight)",
-    "aircraft_type": "Consolidated Liberator",
-    "squadron": "Czechoslovak Air Force",
-    "crew_summary": "23 killed (5 aircrew, 18 passengers)",
-    "memorial_type": "Graves at Brookwood Cemetery; Czechoslovak section memorial",
-    "sources": [
-        {
-            "title": "Wikipedia (Elvetham air crash)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.13014321582219,
-    "longitude": -1.2187963057258182,
-    "maintainer": {
-        "organisation": "Commonwealth War Graves Commission",
-        "website": "https://www.cwgc.org",
-        "maintainer_type": "cwgc",
-        "notes": "Graves at Brookwood Cemetery maintained by CWGC."
+  "id": "elvetham-consolidated-liberat",
+  "title": "Elvetham Liberator Memorial",
+  "location_name": "Elvetham, near Hartley Wintney, Hampshire",
+  "county": "Hampshire",
+  "country": "United Kingdom",
+  "region_code": "SE-003",
+  "crash_date": "05/10/1945 (post-war, repatriation flight)",
+  "aircraft_type": "Consolidated Liberator",
+  "squadron": "Czechoslovak Air Force",
+  "crew_summary": "23 killed (5 aircrew, 18 passengers)",
+  "memorial_type": "Graves at Brookwood Cemetery; Czechoslovak section memorial",
+  "sources": [
+    {
+      "title": "Wikipedia (Elvetham air crash)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 51.13014321582219,
+  "longitude": -1.2187963057258182,
+  "maintainer": {
+    "organisation": "Commonwealth War Graves Commission",
+    "website": "https://www.cwgc.org",
+    "maintainer_type": "cwgc",
+    "notes": "Graves at Brookwood Cemetery maintained by CWGC."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/Elvetham_air_crash",
+      "summary": "On 5 October 1945, Consolidated Liberator GR.VI KG867 of 311 (Czechoslovak) Squadron crashed at Elvetham, Hampshire, five minutes into a repatriation flight from RAF Blackbushe to Prague. An engine fire and fuel starvation caused the crash, killing all 23 aboard.",
+      "key_details": "All 23 victims were Czechoslovak nationals: 5 crew, 17 official passengers, and 1 stowaway. This was the largest single-loss accident involving Free Czechoslovaks in the RAF. After the crash, repatriation switched from air to surface transport.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Wikipedia",
-            "original_url": "https://en.wikipedia.org/wiki/Elvetham_air_crash",
-            "summary": "On 5 October 1945, Consolidated Liberator GR.VI KG867 of 311 (Czechoslovak) Squadron crashed at Elvetham, Hampshire, five minutes into a repatriation flight from RAF Blackbushe to Prague. An engine fire and fuel starvation caused the crash, killing all 23 aboard.",
-            "key_details": "All 23 victims were Czechoslovak nationals: 5 crew, 17 official passengers, and 1 stowaway. This was the largest single-loss accident involving Free Czechoslovaks in the RAF. After the crash, repatriation switched from air to surface transport.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Free Czechoslovak Air Force Associates",
-            "original_url": "https://fcafa.com/2011/05/04/brookwood/",
-            "summary": "Details of the Czechoslovak section at Brookwood Military Cemetery where five aircrew from the Elvetham crash are buried. Thirteen passengers share a common grave in the Old Roman Catholic Ground of the civilian cemetery.",
-            "key_details": "Burials took place on 11 October 1945. Five aircrew in the Czechoslovak military section; 13 passengers in a communal grave in Long Avenue, Old Roman Catholic Ground.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Find a Grave",
-            "original_url": "https://www.findagrave.com/memorial/175817048/elvetham_air_disaster-5th_october_1945-memorial",
-            "summary": "Memorial entry for the Elvetham Air Disaster on Find a Grave, documenting the memorial at Brookwood Cemetery for the 23 Czechoslovak personnel killed on 5 October 1945.",
-            "key_details": "Memorial located at Brookwood Cemetery, Surrey. Lists all 23 victims.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Southampton Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/hampshire/"
-        }
-    ],
-    "what3words": "shocks.legal.lyricist"
+    {
+      "source_site": "Free Czechoslovak Air Force Associates",
+      "original_url": "https://fcafa.com/2011/05/04/brookwood/",
+      "summary": "Details of the Czechoslovak section at Brookwood Military Cemetery where five aircrew from the Elvetham crash are buried. Thirteen passengers share a common grave in the Old Roman Catholic Ground of the civilian cemetery.",
+      "key_details": "Burials took place on 11 October 1945. Five aircrew in the Czechoslovak military section; 13 passengers in a communal grave in Long Avenue, Old Roman Catholic Ground.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Find a Grave",
+      "original_url": "https://www.findagrave.com/memorial/175817048/elvetham_air_disaster-5th_october_1945-memorial",
+      "summary": "Memorial entry for the Elvetham Air Disaster on Find a Grave, documenting the memorial at Brookwood Cemetery for the 23 Czechoslovak personnel killed on 5 October 1945.",
+      "key_details": "Memorial located at Brookwood Cemetery, Surrey. Lists all 23 victims.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Southampton Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/hampshire/"
+    }
+  ],
+  "what3words": "shocks.legal.lyricist",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

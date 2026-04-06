@@ -1,45 +1,53 @@
 {
-    "id": "hamburg-bombing-memorial",
-    "title": "Hamburg Bombing Memorial",
-    "location_name": "Hamburg",
-    "country": "Germany",
-    "memorial_type": "Memorial",
-    "data_quality": "Stub",
-    "contributor": "Charlie Leitheiser",
-    "last_updated": "2026-03-21",
-    "sources": [
-        {
-            "title": "Charlie Leitheiser hackathon research",
-            "type": "personal_research"
-        }
-    ],
-    "latitude": 53.55,
-    "longitude": 9.99,
-    "external_narratives": [
-        {
-            "source_site": "National WWII Museum",
-            "original_url": "https://www.nationalww2museum.org/war/articles/operation-gomorrah-first-firestorms",
-            "summary": "Article on Operation Gomorrah, the RAF-USAAF bombing campaign against Hamburg beginning 24 July 1943. The raids created firestorms with winds up to 240 km/h and temperatures of 800 degrees Celsius, killing an estimated 34,000 people and destroying 60% of the city's housing.",
-            "key_details": "Operation Gomorrah lasted eight days and seven nights. One million people evacuated Hamburg afterwards. It was the heaviest aerial assault in history at that time.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Wynning History",
-            "original_url": "https://wynninghistory.com/2024/03/07/hamburg-bombing-memorial/",
-            "summary": "Visitor's guide to Hamburg's WW2 firestorm memorial sites, centered on the ruins of St Nikolai Church. The church, once the tallest building in the world (1874-1876), was left as a memorial to the victims of the 1943 bombing raids.",
-            "key_details": "St Nikolai Church ruins preserved as a memorial against war. The church tower and crypt house a museum dedicated to the air war over Europe. Many wartime bunkers also preserved across the city.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Hamburg Gedenkstaetten",
-            "original_url": "https://gedenkstaetten-in-hamburg.de/en/memorials/show/memorial-plaque-for-the-hamburg-firestorm",
-            "summary": "Official Hamburg memorial register entry for the firestorm memorial plaque. Part of the city's broader network of memorials commemorating the devastating air raids of July-August 1943.",
-            "key_details": "Part of a decentralised network of memorials across Hamburg including bunkers, plaques, and rebuilt districts. Hammerbrook district was entirely rebuilt after its destruction.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "what3words": "routine.farm.lights"
+  "id": "hamburg-bombing-memorial",
+  "title": "Hamburg Bombing Memorial",
+  "location_name": "Hamburg",
+  "country": "Germany",
+  "memorial_type": "Memorial",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": 53.55,
+  "longitude": 9.99,
+  "external_narratives": [
+    {
+      "source_site": "National WWII Museum",
+      "original_url": "https://www.nationalww2museum.org/war/articles/operation-gomorrah-first-firestorms",
+      "summary": "Article on Operation Gomorrah, the RAF-USAAF bombing campaign against Hamburg beginning 24 July 1943. The raids created firestorms with winds up to 240 km/h and temperatures of 800 degrees Celsius, killing an estimated 34,000 people and destroying 60% of the city's housing.",
+      "key_details": "Operation Gomorrah lasted eight days and seven nights. One million people evacuated Hamburg afterwards. It was the heaviest aerial assault in history at that time.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Wynning History",
+      "original_url": "https://wynninghistory.com/2024/03/07/hamburg-bombing-memorial/",
+      "summary": "Visitor's guide to Hamburg's WW2 firestorm memorial sites, centered on the ruins of St Nikolai Church. The church, once the tallest building in the world (1874-1876), was left as a memorial to the victims of the 1943 bombing raids.",
+      "key_details": "St Nikolai Church ruins preserved as a memorial against war. The church tower and crypt house a museum dedicated to the air war over Europe. Many wartime bunkers also preserved across the city.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Hamburg Gedenkstaetten",
+      "original_url": "https://gedenkstaetten-in-hamburg.de/en/memorials/show/memorial-plaque-for-the-hamburg-firestorm",
+      "summary": "Official Hamburg memorial register entry for the firestorm memorial plaque. Part of the city's broader network of memorials commemorating the devastating air raids of July-August 1943.",
+      "key_details": "Part of a decentralised network of memorials across Hamburg including bunkers, plaques, and rebuilt districts. Hammerbrook district was entirely rebuilt after its destruction.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "what3words": "routine.farm.lights",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

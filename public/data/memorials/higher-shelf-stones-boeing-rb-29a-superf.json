@@ -1,211 +1,219 @@
 {
-    "id": "higher-shelf-stones-boeing-rb-29a-superf",
-    "title": "Higher Shelf Stones \"Overexposed\" Memorial",
-    "location_name": "Higher Shelf Stones, Bleaklow (B-29 \"Overexposed\"), Peak District (Derbyshire / South Pennines)",
-    "county": "Peak District (Derbyshire / South Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PD-001",
-    "crash_date": "1948-11-03",
-    "aircraft_type": "Boeing RB-29A Superfortress 44-61999 \"Overexposed\"",
-    "squadron": "16th Photographic Reconnaissance Squadron, 91st Reconnaissance Group, USAF",
-    "station": "RAF Scampton",
-    "crew_summary": "13 killed (11 crew + 2 passengers)",
-    "memorial_type": "Memorial plaque erected by servicemen from RAF Finningley, 1988; extensive wreckage remains including engine turbine",
-    "dedication_date": "1988",
-    "sources": [
-        {
-            "title": "Wikipedia (Bleaklow Bomber); peakdistrict.gov.uk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "RB-29A 44-61999 had an extraordinary history before its final flight. In July 1946, the aircraft -- then named \"Over Exposed\" -- was flown by the 509th Composite Group during Operation Crossroads, the nuclear weapons test programme at Bikini Atoll in the Pacific. The aircraft photographed the detonation of atomic devices, including the bomb dropped by B-29 \"Dave's Dream.\" By November 1948, the aircraft was assigned to the 16th Photographic Reconnaissance Squadron at Scampton. On the morning of 3 November, Captain Landon Tanner and his crew of twelve departed Scampton for Burtonwood, the large USAF maintenance depot near Warrington in Lancashire. The area was covered in low cloud and the crew were flying on instruments. A strong headwind, unaccounted for in their calculations, meant the aircraft had not yet cleared the Pennine hills when the crew believed they were approaching Burtonwood. They began their descent. At approximately 11:00, the RB-29A struck the ground 300 metres north-east of the summit of Higher Shelf Stones at 610 metres altitude. The aircraft was engulfed in flames. The RAF Mountain Rescue Service located the wreckage at approximately 16:30 the same day but found no survivors. All thirteen men perished. The crash site remains one of the most substantial aircraft wreck sites in England. Wreckage is scattered across a wide area and includes four Wright R-3350 Duplex-Cyclone engines, wing sections, fuselage panels, undercarriage components, and gun turret remains. The site is a protected war grave.",
-    "crew": [
-        {
-            "rank": "Captain",
-            "name": "Landon P. Tanner",
-            "role": "Pilot",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact when the RB-29A struck Higher Shelf Stones at 610 metres altitude. The RAF Mountain Rescue Service located the wreckage at approximately 16:30 the same day."
-        },
-        {
-            "rank": "Captain",
-            "name": "Harry A. Stroud",
-            "role": "Co-pilot",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Technical Sergeant",
-            "name": "Ralph W. Fields",
-            "role": "Flight Engineer",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Sergeant",
-            "name": "Charles R. Wilbanks",
-            "role": "Navigator",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "As navigator, Wilbanks would have been responsible for the course calculations that failed to account for the strong headwind, placing the aircraft still over the Pennines when the crew believed they had cleared them."
-        },
-        {
-            "rank": "Staff Sergeant",
-            "name": "Gene A. Gartner",
-            "role": "Radio Operator",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Staff Sergeant",
-            "name": "David D. Moore",
-            "role": "Radar Operator",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones. Moore is buried at Arlington National Cemetery, Section 12, directly downhill from the Tomb of the Unknown Soldier.",
-            "burial_location": "Arlington National Cemetery, Section 12",
-            "bio": "David Devere Moore is the only crew member confirmed to be buried at Arlington National Cemetery, directly downhill from the Tomb of the Unknown Soldier."
-        },
-        {
-            "rank": "Technical Sergeant",
-            "name": "Saul R. Banks",
-            "role": "Camera Crew",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones. Banks was part of the 16th Photographic Reconnaissance Squadron's camera crew."
-        },
-        {
-            "rank": "Sergeant",
-            "name": "Donald R. Arbogast",
-            "role": "Camera Crew",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Staff Sergeant",
-            "name": "Robert I. Doyle",
-            "role": "Camera Crew",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Private 1st Class",
-            "name": "William M. Burrows",
-            "role": "Camera Crew",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Corporal",
-            "name": "Clarence M. Franssen",
-            "role": "Passenger",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Corporal",
-            "name": "George Ingram Jr",
-            "role": "Passenger",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact at Higher Shelf Stones."
-        },
-        {
-            "rank": "Captain",
-            "name": "Howard E. Keel",
-            "role": "Acting Photographic Advisor (4201st Motion Picture Unit)",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed on impact. Keel was from the 4201st Motion Picture Unit and was acting as photographic advisor for the reconnaissance squadron.",
-            "bio": "Captain Keel was a member of the 4201st Motion Picture Unit, acting as photographic advisor to the 16th Photographic Reconnaissance Squadron."
-        }
-    ],
-    "latitude": 53.4609,
-    "longitude": -1.8649,
-    "cause_of_loss": "Navigational error -- crew believed they had cleared the hills and began descent prematurely. Strong headwinds had slowed the aircraft, placing it still over the Pennines when the pilots initiated their approach to Burtonwood.",
-    "operation_type": "Training",
-    "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque on stone | | Dedicated | 1988 | | Organised by | Servicemen from RAF Finningley | | Condition | Well-maintained; regularly visited | | Access | Approximately 2 miles (3.2 km) walk from the Snake Pass summit lay-by, initially following the Pennine Way through Devil's Dyke. Remote moorland -- appropriate footwear and navigation skills essential. The site is within open access land but is environmentally sensitive. |",
-    "maintainer": {
-        "organisation": "Peak District National Park Authority",
-        "website": "https://www.peakdistrict.gov.uk",
-        "maintainer_type": "military",
-        "notes": "Memorial plaque erected by servicemen from RAF Finningley in 1988. Located within Peak District National Park."
+  "id": "higher-shelf-stones-boeing-rb-29a-superf",
+  "title": "Higher Shelf Stones \"Overexposed\" Memorial",
+  "location_name": "Higher Shelf Stones, Bleaklow (B-29 \"Overexposed\"), Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-001",
+  "crash_date": "1948-11-03",
+  "aircraft_type": "Boeing RB-29A Superfortress 44-61999 \"Overexposed\"",
+  "squadron": "16th Photographic Reconnaissance Squadron, 91st Reconnaissance Group, USAF",
+  "station": "RAF Scampton",
+  "crew_summary": "13 killed (11 crew + 2 passengers)",
+  "memorial_type": "Memorial plaque erected by servicemen from RAF Finningley, 1988; extensive wreckage remains including engine turbine",
+  "dedication_date": "1988",
+  "sources": [
+    {
+      "title": "Wikipedia (Bleaklow Bomber); peakdistrict.gov.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "RB-29A 44-61999 had an extraordinary history before its final flight. In July 1946, the aircraft -- then named \"Over Exposed\" -- was flown by the 509th Composite Group during Operation Crossroads, the nuclear weapons test programme at Bikini Atoll in the Pacific. The aircraft photographed the detonation of atomic devices, including the bomb dropped by B-29 \"Dave's Dream.\" By November 1948, the aircraft was assigned to the 16th Photographic Reconnaissance Squadron at Scampton. On the morning of 3 November, Captain Landon Tanner and his crew of twelve departed Scampton for Burtonwood, the large USAF maintenance depot near Warrington in Lancashire. The area was covered in low cloud and the crew were flying on instruments. A strong headwind, unaccounted for in their calculations, meant the aircraft had not yet cleared the Pennine hills when the crew believed they were approaching Burtonwood. They began their descent. At approximately 11:00, the RB-29A struck the ground 300 metres north-east of the summit of Higher Shelf Stones at 610 metres altitude. The aircraft was engulfed in flames. The RAF Mountain Rescue Service located the wreckage at approximately 16:30 the same day but found no survivors. All thirteen men perished. The crash site remains one of the most substantial aircraft wreck sites in England. Wreckage is scattered across a wide area and includes four Wright R-3350 Duplex-Cyclone engines, wing sections, fuselage panels, undercarriage components, and gun turret remains. The site is a protected war grave.",
+  "crew": [
+    {
+      "rank": "Captain",
+      "name": "Landon P. Tanner",
+      "role": "Pilot",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact when the RB-29A struck Higher Shelf Stones at 610 metres altitude. The RAF Mountain Rescue Service located the wreckage at approximately 16:30 the same day."
     },
-    "external_narratives": [
-        {
-            "source_site": "Wikipedia",
-            "original_url": "https://en.wikipedia.org/wiki/Bleaklow_Bomber",
-            "summary": "Known as the 'Bleaklow Bomber', the RB-29A 44-61999 was assigned to the 16th Photographic Reconnaissance Squadron, 91st Reconnaissance Group, 311th Air Division in USAF Strategic Air Command. The aircraft had previously participated in Operation Crossroads at Bikini Atoll in 1946, photographing nuclear weapons tests. Much wreckage remains on the moors, making it one of the most visited crash sites in England.",
-            "key_details": [
-                "16th Photographic Reconnaissance Squadron, 91st RG",
-                "Operation Crossroads participant 1946",
-                "One of England's most visited aircraft crash sites"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/peak-district/boeing-rb-29a-44-61999-higher-shelf-stones/",
-            "summary": "Comprehensive crash investigation page documenting the flight from RAF Scampton at about 10:15, the low cloud conditions requiring instrument flight, and the strong headwind that slowed the aircraft, causing it to still be over the Pennines when the crew believed they had cleared them. The RAF Mountain Rescue Service located the wreckage at about 16:30.",
-            "key_details": [
-                "Departure from Scampton at approximately 10:15",
-                "Flight conducted on instruments due to low cloud",
-                "RAF Mountain Rescue located wreckage at 16:30"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Air Crash Sites UK",
-            "original_url": "https://aircrashsites.co.uk/superfortress-44-6199-over-exposed-2/",
-            "summary": "Detailed photographic documentation of the extensive wreckage field including sections of wings, fuselage, gun turrets, and four Wright Duplex-Cyclone engines. The site is described as a protected war grave with visitors encouraged to treat it with respect.",
-            "key_details": [
-                "Photographic record of wreckage field",
-                "Site is a protected war grave"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US War Memorials",
-            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=1863&MemID=2439",
-            "summary": "Listed in the US War Memorials registry as the RB-29A 'Overexposed' Memorial, commemorating the 13 USAF personnel who perished in the 1948 crash on Bleaklow.",
-            "key_details": [
-                "Registered in US War Memorials database"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Key Aero",
-            "original_url": "https://www.key.aero/article/hell-high-ground-what-happened-rb-29a-44-61999-over-exposed",
-            "summary": "In-depth aviation history article examining the circumstances of the crash, the aircraft's remarkable prior history at Bikini Atoll, and the navigational errors that led to the fatal descent into high ground.",
-            "key_details": [
-                "Detailed aviation history analysis of the incident"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Glossop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "flamed.handy.perusing"
+    {
+      "rank": "Captain",
+      "name": "Harry A. Stroud",
+      "role": "Co-pilot",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Technical Sergeant",
+      "name": "Ralph W. Fields",
+      "role": "Flight Engineer",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Charles R. Wilbanks",
+      "role": "Navigator",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "As navigator, Wilbanks would have been responsible for the course calculations that failed to account for the strong headwind, placing the aircraft still over the Pennines when the crew believed they had cleared them."
+    },
+    {
+      "rank": "Staff Sergeant",
+      "name": "Gene A. Gartner",
+      "role": "Radio Operator",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Staff Sergeant",
+      "name": "David D. Moore",
+      "role": "Radar Operator",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones. Moore is buried at Arlington National Cemetery, Section 12, directly downhill from the Tomb of the Unknown Soldier.",
+      "burial_location": "Arlington National Cemetery, Section 12",
+      "bio": "David Devere Moore is the only crew member confirmed to be buried at Arlington National Cemetery, directly downhill from the Tomb of the Unknown Soldier."
+    },
+    {
+      "rank": "Technical Sergeant",
+      "name": "Saul R. Banks",
+      "role": "Camera Crew",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones. Banks was part of the 16th Photographic Reconnaissance Squadron's camera crew."
+    },
+    {
+      "rank": "Sergeant",
+      "name": "Donald R. Arbogast",
+      "role": "Camera Crew",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Staff Sergeant",
+      "name": "Robert I. Doyle",
+      "role": "Camera Crew",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Private 1st Class",
+      "name": "William M. Burrows",
+      "role": "Camera Crew",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Corporal",
+      "name": "Clarence M. Franssen",
+      "role": "Passenger",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Corporal",
+      "name": "George Ingram Jr",
+      "role": "Passenger",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact at Higher Shelf Stones."
+    },
+    {
+      "rank": "Captain",
+      "name": "Howard E. Keel",
+      "role": "Acting Photographic Advisor (4201st Motion Picture Unit)",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed on impact. Keel was from the 4201st Motion Picture Unit and was acting as photographic advisor for the reconnaissance squadron.",
+      "bio": "Captain Keel was a member of the 4201st Motion Picture Unit, acting as photographic advisor to the 16th Photographic Reconnaissance Squadron."
+    }
+  ],
+  "latitude": 53.4609,
+  "longitude": -1.8649,
+  "cause_of_loss": "Navigational error -- crew believed they had cleared the hills and began descent prematurely. Strong headwinds had slowed the aircraft, placing it still over the Pennines when the pilots initiated their approach to Burtonwood.",
+  "operation_type": "Training",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque on stone | | Dedicated | 1988 | | Organised by | Servicemen from RAF Finningley | | Condition | Well-maintained; regularly visited | | Access | Approximately 2 miles (3.2 km) walk from the Snake Pass summit lay-by, initially following the Pennine Way through Devil's Dyke. Remote moorland -- appropriate footwear and navigation skills essential. The site is within open access land but is environmentally sensitive. |",
+  "maintainer": {
+    "organisation": "Peak District National Park Authority",
+    "website": "https://www.peakdistrict.gov.uk",
+    "maintainer_type": "military",
+    "notes": "Memorial plaque erected by servicemen from RAF Finningley in 1988. Located within Peak District National Park."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/Bleaklow_Bomber",
+      "summary": "Known as the 'Bleaklow Bomber', the RB-29A 44-61999 was assigned to the 16th Photographic Reconnaissance Squadron, 91st Reconnaissance Group, 311th Air Division in USAF Strategic Air Command. The aircraft had previously participated in Operation Crossroads at Bikini Atoll in 1946, photographing nuclear weapons tests. Much wreckage remains on the moors, making it one of the most visited crash sites in England.",
+      "key_details": [
+        "16th Photographic Reconnaissance Squadron, 91st RG",
+        "Operation Crossroads participant 1946",
+        "One of England's most visited aircraft crash sites"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/peak-district/boeing-rb-29a-44-61999-higher-shelf-stones/",
+      "summary": "Comprehensive crash investigation page documenting the flight from RAF Scampton at about 10:15, the low cloud conditions requiring instrument flight, and the strong headwind that slowed the aircraft, causing it to still be over the Pennines when the crew believed they had cleared them. The RAF Mountain Rescue Service located the wreckage at about 16:30.",
+      "key_details": [
+        "Departure from Scampton at approximately 10:15",
+        "Flight conducted on instruments due to low cloud",
+        "RAF Mountain Rescue located wreckage at 16:30"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Air Crash Sites UK",
+      "original_url": "https://aircrashsites.co.uk/superfortress-44-6199-over-exposed-2/",
+      "summary": "Detailed photographic documentation of the extensive wreckage field including sections of wings, fuselage, gun turrets, and four Wright Duplex-Cyclone engines. The site is described as a protected war grave with visitors encouraged to treat it with respect.",
+      "key_details": [
+        "Photographic record of wreckage field",
+        "Site is a protected war grave"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=1863&MemID=2439",
+      "summary": "Listed in the US War Memorials registry as the RB-29A 'Overexposed' Memorial, commemorating the 13 USAF personnel who perished in the 1948 crash on Bleaklow.",
+      "key_details": [
+        "Registered in US War Memorials database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Key Aero",
+      "original_url": "https://www.key.aero/article/hell-high-ground-what-happened-rb-29a-44-61999-over-exposed",
+      "summary": "In-depth aviation history article examining the circumstances of the crash, the aircraft's remarkable prior history at Bikini Atoll, and the navigational errors that led to the fatal descent into high ground.",
+      "key_details": [
+        "Detailed aviation history analysis of the incident"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Glossop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "flamed.handy.perusing",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }

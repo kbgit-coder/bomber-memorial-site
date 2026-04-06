@@ -1,60 +1,68 @@
 {
-    "id": "foulsham-mid-air-collision-beaufighter-v-8715-a",
-    "title": "Foulsham (mid-air collision) Eagle\" Memorial",
-    "location_name": "Foulsham (mid-air collision), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-012",
-    "crash_date": "1943-08-31",
-    "aircraft_type": "Beaufighter V.8715 and B-17 42-5376 \"Eager Eagle\"",
-    "squadron": "75 Sqdn Church Fenton / 305th BG Chelveston",
-    "crew_summary": "11 killed; 2 survived",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.58755491677026,
-    "longitude": 0.861953975042166,
-    "maintainer": {
-        "organisation": "Foulsham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "foulsham-mid-air-collision-beaufighter-v-8715-a",
+  "title": "Foulsham (mid-air collision) Eagle\" Memorial",
+  "location_name": "Foulsham (mid-air collision), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-012",
+  "crash_date": "1943-08-31",
+  "aircraft_type": "Beaufighter V.8715 and B-17 42-5376 \"Eager Eagle\"",
+  "squadron": "75 Sqdn Church Fenton / 305th BG Chelveston",
+  "crew_summary": "11 killed; 2 survived",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.58755491677026,
+  "longitude": 0.861953975042166,
+  "maintainer": {
+    "organisation": "Foulsham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "http://www.americanairmuseum.com/aircraft/8122",
+      "summary": "Record for B-17 42-5376 'Eager Eagle' of the 305th Bomb Group, Chelveston. On 31 August 1943, the aircraft collided mid-air with Beaufighter V8715 over Foulsham, Norfolk, while both were flying without navigation lights during a red air-raid alert.",
+      "key_details": "Both aircraft were flying without lights due to a red alert. Collision at approximately 7,000 feet at 23:30 hours. Eight USAAF crew and one RAF passenger killed; two USAAF waist gunners survived. Both Beaufighter crew killed.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum in Britain",
-            "original_url": "http://www.americanairmuseum.com/aircraft/8122",
-            "summary": "Record for B-17 42-5376 'Eager Eagle' of the 305th Bomb Group, Chelveston. On 31 August 1943, the aircraft collided mid-air with Beaufighter V8715 over Foulsham, Norfolk, while both were flying without navigation lights during a red air-raid alert.",
-            "key_details": "Both aircraft were flying without lights due to a red alert. Collision at approximately 7,000 feet at 23:30 hours. Eight USAAF crew and one RAF passenger killed; two USAAF waist gunners survived. Both Beaufighter crew killed.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Heroes of Our Time",
-            "original_url": "https://heroesofourtime.co.uk/eager-eagle.html",
-            "summary": "Detailed account of the Foulsham mid-air collision and the story behind a memorial plaque erected at the crash site. The Beaufighter's steep turn brought it into the path of the B-17, severing a wing and tearing away two engines from the Fortress.",
-            "key_details": "The Beaufighter was split in half by the collision. B-17 pilot Floyd Truesdell and co-pilot Allan McDaniel were among those killed. Bombardier Robert Barrall DSC was one of the most decorated men in the 305th BG.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Reepham & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Foulsham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "abode.repelled.forensic"
+    {
+      "source_site": "Heroes of Our Time",
+      "original_url": "https://heroesofourtime.co.uk/eager-eagle.html",
+      "summary": "Detailed account of the Foulsham mid-air collision and the story behind a memorial plaque erected at the crash site. The Beaufighter's steep turn brought it into the path of the B-17, severing a wing and tearing away two engines from the Fortress.",
+      "key_details": "The Beaufighter was split in half by the collision. B-17 pilot Floyd Truesdell and co-pilot Allan McDaniel were among those killed. Bombardier Robert Barrall DSC was one of the most decorated men in the 305th BG.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Reepham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Foulsham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "abode.repelled.forensic",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [],
+    "verified_by": null,
+    "verification_date": null,
+    "community_submissions": 0
+  }
 }
