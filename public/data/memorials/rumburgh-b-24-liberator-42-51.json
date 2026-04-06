@@ -1,90 +1,95 @@
 {
-  "id": "rumburgh-b-24-liberator-42-51",
-  "title": "Rumburgh Nymph\" Memorial",
-  "location_name": "Rumburgh, Suffolk",
-  "county": "Suffolk",
-  "country": "United Kingdom",
-  "region_code": "SF-009",
-  "crash_date": "1944-06-07",
-  "aircraft_type": "B-24 Liberator 42-51116 \"Nature's Nymph\"",
-  "squadron": "446th BG",
-  "station": "Flixton (USAAF)",
-  "crew_summary": "8 killed; 3 survived; pilot 1Lt. Robert L. Zeller",
-  "memorial_type": "Group memorial",
-  "sources": [
-    {
-      "title": "Geograph Suffolk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.075976980919705,
-  "longitude": 1.2289903577285008,
-  "maintainer": {
-    "organisation": "Rumburgh Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "US War Memorials",
-      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2024&MemID=2663",
-      "summary": "US War Memorials registry entry for the B-24 42-51116 'Nature's Nymph' memorial plaque. Inside the church, below the 446th Bomber Group Association plaque, is a rectangular plaque on wooden backboard commemorating the crew who died in the crash.",
-      "key_details": [
-        "Memorial plaque inside church",
-        "Below 446th Bomber Group Association plaque",
-        "US War Memorials reference MemID 2663"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "rumburgh-b-24-liberator-42-51",
+    "title": "Rumburgh Nymph\" Memorial",
+    "location_name": "Rumburgh, Suffolk",
+    "county": "Suffolk",
+    "country": "United Kingdom",
+    "region_code": "SF-009",
+    "crash_date": "1944-06-07",
+    "aircraft_type": "B-24 Liberator 42-51116 \"Nature's Nymph\"",
+    "squadron": "446th BG",
+    "station": "Flixton (USAAF)",
+    "crew_summary": "8 killed; 3 survived; pilot 1Lt. Robert L. Zeller",
+    "memorial_type": "Group memorial",
+    "sources": [
+        {
+            "title": "Geograph Suffolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.380032,
+    "longitude": 1.447511,
+    "maintainer": {
+        "organisation": "Rumburgh Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "American Air Museum in Britain",
-      "original_url": "https://americanarchive.iwm.org.uk/archive/aircraft/42-51116",
-      "summary": "American Air Museum archive entry for Consolidated B-24H Liberator 42-51116 'Nature's Nymph' of the 705th Bomb Squadron, 446th Bomb Group. Documents the aircraft's assignment and service history.",
-      "key_details": [
-        "B-24H variant",
-        "705th Bomb Squadron, 446th BG(H)",
-        "Based at USAAF Station 273 (Flixton/RAF Bungay)"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "446th Bomb Group Aviation Museum",
-      "original_url": "https://www.aviationmuseum.net/446bg.htm",
-      "summary": "446th Bomb Group museum page providing unit context. The aircraft crashed at Corner Farm, Rumburgh on 7 June 1944 while returning from an aborted mission to Alencon, France, crashing at 11:05.",
-      "key_details": [
-        "Crashed at Corner Farm, Rumburgh",
-        "Returning from aborted mission to Alencon, France",
-        "Crash time 11:05",
-        "Survivors: 2nd Lt Howard L. Saddler (bombardier) and Sgt Reuben E. Cartwright (gunner)"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "US War Memorials",
+            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2024&MemID=2663",
+            "summary": "US War Memorials registry entry for the B-24 42-51116 'Nature's Nymph' memorial plaque. Inside the church, below the 446th Bomber Group Association plaque, is a rectangular plaque on wooden backboard commemorating the crew who died in the crash.",
+            "key_details": [
+                "Memorial plaque inside church",
+                "Below 446th Bomber Group Association plaque",
+                "US War Memorials reference MemID 2663"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "American Air Museum in Britain",
+            "original_url": "https://americanarchive.iwm.org.uk/archive/aircraft/42-51116",
+            "summary": "American Air Museum archive entry for Consolidated B-24H Liberator 42-51116 'Nature's Nymph' of the 705th Bomb Squadron, 446th Bomb Group. Documents the aircraft's assignment and service history.",
+            "key_details": [
+                "B-24H variant",
+                "705th Bomb Squadron, 446th BG(H)",
+                "Based at USAAF Station 273 (Flixton/RAF Bungay)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "446th Bomb Group Aviation Museum",
+            "original_url": "https://www.aviationmuseum.net/446bg.htm",
+            "summary": "446th Bomb Group museum page providing unit context. The aircraft crashed at Corner Farm, Rumburgh on 7 June 1944 while returning from an aborted mission to Alencon, France, crashing at 11:05.",
+            "key_details": [
+                "Crashed at Corner Farm, Rumburgh",
+                "Returning from aborted mission to Alencon, France",
+                "Crash time 11:05",
+                "Survivors: 2nd Lt Howard L. Saddler (bombardier) and Sgt Reuben E. Cartwright (gunner)"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Bungay & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Rumburgh Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "sings.cars.cable",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Teresa Goldson (Parish Council): location ~30 miles from Rumburgh village (Wave 1 CRM response)",
+            "Postcodes.io: Rumburgh Suffolk IP19 near Halesworth at 52.380, 1.448"
+        ],
+        "verified_by": "Teresa Goldson (Rumburgh Parish Council), Holly (PAI geocoding)",
+        "verification_date": "2026-04-06",
+        "verification_notes": "Previous coords (52.076, 1.229) were ~33km south and ~15km west — major error. Teresa Goldson noted PC doesn't recognise the memorial info; possible original data entry error in register. Village IP19 near Halesworth confirmed. Precise memorial location within Rumburgh TBC.",
+        "community_submissions": 1,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Bungay & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Rumburgh Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "sings.cars.cable",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

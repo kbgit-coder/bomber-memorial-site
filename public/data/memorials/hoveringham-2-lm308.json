@@ -1,110 +1,115 @@
 {
-  "id": "hoveringham-2-lm308",
-  "title": "Hoveringham (2) Lancaster Memorial",
-  "location_name": "Hoveringham (2), Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-016",
-  "crash_date": "1945-01-29",
-  "aircraft_type": "Lancaster",
-  "serial_number": "LM308",
-  "squadron": "5 LFS",
-  "station": "Syerston",
-  "crew_summary": "7 killed including WO Richard Barlow Rathbone",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "hoveringham-2-lm308",
+    "title": "Hoveringham (2) Lancaster Memorial",
+    "location_name": "Hoveringham (2), Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-016",
+    "crash_date": "1945-01-29",
+    "aircraft_type": "Lancaster",
+    "serial_number": "LM308",
+    "squadron": "5 LFS",
+    "station": "Syerston",
+    "crew_summary": "7 killed including WO Richard Barlow Rathbone",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - W/O Rathbone, Lancaster LM308",
+            "url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.0134312,
+    "longitude": -0.9589177,
+    "maintainer": {
+        "organisation": "Hoveringham Parish Council",
+        "website": "https://www.hoveringhamparishcouncil.gov.uk",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "Aircrew Remembered - W/O Rathbone, Lancaster LM308",
-      "url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
-      "type": "website"
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
+            "summary": "Detailed page on W/O Richard Barlow Rathbone RCAF (aged 28) and his crew of Lancaster III LM308. The aircraft took off at 00:01 from Syerston on a night cross-country training sortie. After completing the exercise, the crew acknowledged landing instructions from flying control. Two minutes later at 02:16, LM308 crashed at high speed and exploded on impact. Eyewitnesses reported both port engines may have caught fire while airborne.",
+            "key_details": [
+                "Takeoff at 00:01 from Syerston",
+                "Crash at 02:16 after acknowledging landing instructions",
+                "Both port engines possibly on fire",
+                "Five Canadians and two British crew, all killed",
+                "Rathbone aged 28, RCAF"
+            ],
+            "date_retrieved": "2026-03-24",
+            "still_live": true,
+            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 28.01.1945 5 LFS Lancaster III LM308 W/O. Richard B. Rathbone Operation: Night Training\n\nDate: 28th January 1945 (Sunday)\n\nUnit: No. 5 LFS (Lancaster Finishing School). 5 Group\n\nBase: RAF Syerston, Nottinghamshire\n\nLocation: Hoveringham, Nottinghamshire\n\nPilot: W/O II Richard Barlow Rathbone R/168095 RCAF Age 28. Killed\n\nFl/Eng: Sgt. Albert Mercer 2218573 RAFVR Age 23. Killed\n\nNav: Fl/Sgt. Hugh Munro MacKenzie R/203166 RCAF Age 21. Killed\n\nAir/Bmr: Fl/Sgt. John Alexander Emerson R/189328 RCAF Age 30. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. John Henry Reid R/190328 RCAF Age 20. Killed\n\nAir/Gnr: Sgt. Jasper Martin 1595881 RAFVR Age 20. Killed\n\nAir/Gnr: Sgt. Joseph Francis Fitzgibbon R/264756 RCAF Age 20. Killed\n\nTook off at 00:01 hrs from Syerston, Nottinghamshire on a night cross country sortie.\n\nAbove L-R: W/O. Richard Rathbone , Sgt. Albert Mercer , Fl/Sgt. Hugh MacKenzie , Fl/Sgt. John Emerson , Fl/Sgt. John Reid , Sgt. Jasper Martin and Sgt. Joseph Francis Fitzgibbon .\n\nCompleted the operation and on returning to the base acknowledged the landing instructions from flying control. Then 2 minutes later at 02:16hrs LM308 crashed at high speed exploding on impact. Eyewitnesses claim that they saw it on fire in the air.\n\nAbove left: newspaper cutting reporting the death of Joe Fitzgibbon. Right: copy of letter (courtesy of Don Fagan)\n\nThe memorial placed to this crew, also to another crew lost on an earlier date, that of P/O. Guy Dunlop NZ/425241 RNZAF from the same LFS - lost on the 12th January: 1945 Lancaster III JB125.\n\nW/O II Richard Barlow Rathbone. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 8. Born on the 20th September 1916 in Massachusetts, USA. Worked as an office clerk prior to service.Son of Gerrard Jackson Rathbone and Susan Emeline Rathbone, of 48 Connaught Avenue, Hamilton, Ontario, Canada.\n\nSgt. Albert Mercer. Southport Cemetery (Duke Street). Sec. 28. Grave 961. Son of John and Margaret Mercer, of Southport, England. Grave inscription: 'Be Thou Faithful Unto Death, And I Will Give Thee A Crown Of Life'.\n\nFl/Sgt. Hugh Munro MacKenzie. Harrogate Cemetery(Stonefall). Sec. G. Row F. Grave 9. Born on the 30th March 1923 in Scotland. Son of Farquhar MacKenzie, and of Catherine MacKenzie (née Munro), of Toronto, Ontario, Canada. Grave inscription: 'When The Sun Goes Down And In The Morning We Will Remember Him'.\n\nFl/Sgt. John Alexander Emerson. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 10. Born on the 22nd November 1914 at Vancouver. Son of John Eymundson Emerson (died 28th June 1965, age 84) and Jean Beatrice Emerson (née Black - died in 1939), of Vancouver, British Columbia, Canada, husband of Phyllis Emerson. Grave inscription: 'Though Far From Home He Is Ever In Our Hearts. Wife Phyllis, Father And Sisters'.\n\nFl/Sgt. John Henry Reid. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 7. Born in 1923 at Montreal. Son of James Henry and Mary Wilma Reid (née Couture), husband of Glaidus Madelene Reid , of Marysville, New Brunswick, Canada. Grave inscription: 'Greater Love Hath No Man Than This, That A Man Lay Down His Life For His Friends'.\n\nSgt. Jasper Martin. Castleford Cemetery (Whitwood). Sec. N. Cons. Grave 923. Born in 1925 at Castleford. Son of Samuel and Emma Louisa Martin, of Cutsyke, Castleford, England. Grave inscription: ' Sleep On, Dear One You Did Your Best God Thought It Best To Give You Rest'.\n\nSgt. Joseph Francis Fitzgibbon. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 11. Born on the 14th April 1924 at Newfoundland. Worked as a clerk prior to enlisting. Son of Joseph and Pauline (née Kemp) Fitzgibbon of 127 Hamilton Street, St. John's, Newfoundland.\n\nResearched for Donna Johnson - niece of W/O. Richard Rathbone. Also to Lady Nail who did so much to remember this and the other crew lost in the area. For further details our thanks to sources quoted below.\n\nKTY 04-12-2021 Map added\n\n- 5 LFS Lancaster III LM308 W/O. Rathbone, RAF Syerston, Hoveringham, Nottinghamshire Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
+        },
+        {
+            "source_site": "Graham Edwards (Author)",
+            "original_url": "https://graham-edwards.com/2016/03/30/hoveringham-lancasters/",
+            "summary": "Historical account linking the LM308 crash to the earlier JB125 loss at Hoveringham just 17 days prior. Both aircraft were from No. 5 Lancaster Finishing School at RAF Syerston, highlighting the dangerous nature of night training operations in the final months of the war.",
+            "key_details": [
+                "Second crash at same location within 17 days",
+                "Both from 5 LFS Syerston"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61799",
+            "summary": "The IWM registers the twin memorial stones at Hoveringham, with the right stone commemorating the crew of LM308 lost on 29 January 1945. The memorial reference covers both Hoveringham Lancaster crashes.",
+            "key_details": [
+                "IWM memorial reference 61799",
+                "Right stone commemorates LM308 crew"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southwell Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Hoveringham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep",
+            "website": "https://www.hoveringhamparishcouncil.gov.uk"
+        }
+    ],
+    "what3words": "cheese.unlocking.herb",
+    "photos": [
+        {
+            "filename": "hoveringham-2-lm308/5-lancaster-finishing-school-lancaster-iii-lm308-w800.jpg",
+            "caption": "5 lancaster finishing school lancaster iii lm308",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "hoveringham-2-lm308/sgt-joseph-francis-fitzgibbon-newspaper-w800-w800.jpg",
+            "caption": "sgt joseph francis fitzgibbon newspaper",
+            "credit": "Aircrew Remembered"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon.komoot.io — Hoveringham Nottinghamshire at 53.013 -0.959 (same village as Hoveringham-1)",
+            "Current 53.055 -0.976 ~4.7km north — slightly wrong but same village area"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.055, -0.976) ~4.7km north of Hoveringham village. Corrected to village centroid 53.013, -0.959.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.05506116398948,
-  "longitude": -0.9761037381431208,
-  "maintainer": {
-    "organisation": "Hoveringham Parish Council",
-    "website": "https://www.hoveringhamparishcouncil.gov.uk",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Aircrew Remembered",
-      "original_url": "https://aircrewremembered.com/rathbone-richard-barlow.html",
-      "summary": "Detailed page on W/O Richard Barlow Rathbone RCAF (aged 28) and his crew of Lancaster III LM308. The aircraft took off at 00:01 from Syerston on a night cross-country training sortie. After completing the exercise, the crew acknowledged landing instructions from flying control. Two minutes later at 02:16, LM308 crashed at high speed and exploded on impact. Eyewitnesses reported both port engines may have caught fire while airborne.",
-      "key_details": [
-        "Takeoff at 00:01 from Syerston",
-        "Crash at 02:16 after acknowledging landing instructions",
-        "Both port engines possibly on fire",
-        "Five Canadians and two British crew, all killed",
-        "Rathbone aged 28, RCAF"
-      ],
-      "date_retrieved": "2026-03-24",
-      "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 28.01.1945 5 LFS Lancaster III LM308 W/O. Richard B. Rathbone Operation: Night Training\n\nDate: 28th January 1945 (Sunday)\n\nUnit: No. 5 LFS (Lancaster Finishing School). 5 Group\n\nBase: RAF Syerston, Nottinghamshire\n\nLocation: Hoveringham, Nottinghamshire\n\nPilot: W/O II Richard Barlow Rathbone R/168095 RCAF Age 28. Killed\n\nFl/Eng: Sgt. Albert Mercer 2218573 RAFVR Age 23. Killed\n\nNav: Fl/Sgt. Hugh Munro MacKenzie R/203166 RCAF Age 21. Killed\n\nAir/Bmr: Fl/Sgt. John Alexander Emerson R/189328 RCAF Age 30. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. John Henry Reid R/190328 RCAF Age 20. Killed\n\nAir/Gnr: Sgt. Jasper Martin 1595881 RAFVR Age 20. Killed\n\nAir/Gnr: Sgt. Joseph Francis Fitzgibbon R/264756 RCAF Age 20. Killed\n\nTook off at 00:01 hrs from Syerston, Nottinghamshire on a night cross country sortie.\n\nAbove L-R: W/O. Richard Rathbone , Sgt. Albert Mercer , Fl/Sgt. Hugh MacKenzie , Fl/Sgt. John Emerson , Fl/Sgt. John Reid , Sgt. Jasper Martin and Sgt. Joseph Francis Fitzgibbon .\n\nCompleted the operation and on returning to the base acknowledged the landing instructions from flying control. Then 2 minutes later at 02:16hrs LM308 crashed at high speed exploding on impact. Eyewitnesses claim that they saw it on fire in the air.\n\nAbove left: newspaper cutting reporting the death of Joe Fitzgibbon. Right: copy of letter (courtesy of Don Fagan)\n\nThe memorial placed to this crew, also to another crew lost on an earlier date, that of P/O. Guy Dunlop NZ/425241 RNZAF from the same LFS - lost on the 12th January: 1945 Lancaster III JB125.\n\nW/O II Richard Barlow Rathbone. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 8. Born on the 20th September 1916 in Massachusetts, USA. Worked as an office clerk prior to service.Son of Gerrard Jackson Rathbone and Susan Emeline Rathbone, of 48 Connaught Avenue, Hamilton, Ontario, Canada.\n\nSgt. Albert Mercer. Southport Cemetery (Duke Street). Sec. 28. Grave 961. Son of John and Margaret Mercer, of Southport, England. Grave inscription: 'Be Thou Faithful Unto Death, And I Will Give Thee A Crown Of Life'.\n\nFl/Sgt. Hugh Munro MacKenzie. Harrogate Cemetery(Stonefall). Sec. G. Row F. Grave 9. Born on the 30th March 1923 in Scotland. Son of Farquhar MacKenzie, and of Catherine MacKenzie (née Munro), of Toronto, Ontario, Canada. Grave inscription: 'When The Sun Goes Down And In The Morning We Will Remember Him'.\n\nFl/Sgt. John Alexander Emerson. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 10. Born on the 22nd November 1914 at Vancouver. Son of John Eymundson Emerson (died 28th June 1965, age 84) and Jean Beatrice Emerson (née Black - died in 1939), of Vancouver, British Columbia, Canada, husband of Phyllis Emerson. Grave inscription: 'Though Far From Home He Is Ever In Our Hearts. Wife Phyllis, Father And Sisters'.\n\nFl/Sgt. John Henry Reid. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 7. Born in 1923 at Montreal. Son of James Henry and Mary Wilma Reid (née Couture), husband of Glaidus Madelene Reid , of Marysville, New Brunswick, Canada. Grave inscription: 'Greater Love Hath No Man Than This, That A Man Lay Down His Life For His Friends'.\n\nSgt. Jasper Martin. Castleford Cemetery (Whitwood). Sec. N. Cons. Grave 923. Born in 1925 at Castleford. Son of Samuel and Emma Louisa Martin, of Cutsyke, Castleford, England. Grave inscription: ' Sleep On, Dear One You Did Your Best God Thought It Best To Give You Rest'.\n\nSgt. Joseph Francis Fitzgibbon. Harrogate Cemetery (Stonefall) Sec. G. Row F. Grave 11. Born on the 14th April 1924 at Newfoundland. Worked as a clerk prior to enlisting. Son of Joseph and Pauline (née Kemp) Fitzgibbon of 127 Hamilton Street, St. John's, Newfoundland.\n\nResearched for Donna Johnson - niece of W/O. Richard Rathbone. Also to Lady Nail who did so much to remember this and the other crew lost in the area. For further details our thanks to sources quoted below.\n\nKTY 04-12-2021 Map added\n\n- 5 LFS Lancaster III LM308 W/O. Rathbone, RAF Syerston, Hoveringham, Nottinghamshire Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
-    },
-    {
-      "source_site": "Graham Edwards (Author)",
-      "original_url": "https://graham-edwards.com/2016/03/30/hoveringham-lancasters/",
-      "summary": "Historical account linking the LM308 crash to the earlier JB125 loss at Hoveringham just 17 days prior. Both aircraft were from No. 5 Lancaster Finishing School at RAF Syerston, highlighting the dangerous nature of night training operations in the final months of the war.",
-      "key_details": [
-        "Second crash at same location within 17 days",
-        "Both from 5 LFS Syerston"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61799",
-      "summary": "The IWM registers the twin memorial stones at Hoveringham, with the right stone commemorating the crew of LM308 lost on 29 January 1945. The memorial reference covers both Hoveringham Lancaster crashes.",
-      "key_details": [
-        "IWM memorial reference 61799",
-        "Right stone commemorates LM308 crew"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Southwell Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-    },
-    {
-      "org_name": "Hoveringham Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep",
-      "website": "https://www.hoveringhamparishcouncil.gov.uk"
-    }
-  ],
-  "what3words": "cheese.unlocking.herb",
-  "photos": [
-    {
-      "filename": "hoveringham-2-lm308/5-lancaster-finishing-school-lancaster-iii-lm308-w800.jpg",
-      "caption": "5 lancaster finishing school lancaster iii lm308",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "hoveringham-2-lm308/sgt-joseph-francis-fitzgibbon-newspaper-w800-w800.jpg",
-      "caption": "sgt joseph francis fitzgibbon newspaper",
-      "credit": "Aircrew Remembered"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

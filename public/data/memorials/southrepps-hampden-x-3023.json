@@ -1,168 +1,173 @@
 {
-  "id": "southrepps-hampden-x-3023",
-  "title": "Southrepps X.3023 Memorial",
-  "location_name": "Southrepps, Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-021",
-  "crash_date": "1940-11-20",
-  "aircraft_type": "Hampden X.3023",
-  "squadron": "44 Squadron",
-  "station": "Waddington",
-  "crew_summary": "3 killed (1 survived); including Sgt. Jack Leonard Frederick Ottaway",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
+    "id": "southrepps-hampden-x-3023",
+    "title": "Southrepps X.3023 Memorial",
+    "location_name": "Southrepps, Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-021",
+    "crash_date": "1940-11-20",
+    "aircraft_type": "Hampden X.3023",
+    "squadron": "44 Squadron",
+    "station": "Waddington",
+    "crew_summary": "3 killed (1 survived); including Sgt. Jack Leonard Frederick Ottaway",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        },
+        {
+            "title": "44 Squadron Association - Hampden X3023",
+            "type": "website",
+            "url": "https://44sqn.com/newsletters/march-2022/hampden/index.html"
+        },
+        {
+            "title": "CWGC - Jack Leonard Frederick Ottaway",
+            "type": "website",
+            "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2764240/jack-leonard-frederick-ottaway/"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "In the early hours of 20 November 1940, Hampden X3023 of 44 Squadron took off from RAF Waddington in Lincolnshire for a long-range bombing mission against an oil refinery at Lutzkendorf near Leipzig in central Germany. The Hampden was one of Bomber Command's principal medium bombers in the early war years, a narrow-fuselage aircraft that earned the nickname \"the flying suitcase\" for its cramped crew positions. On the return flight, navigational difficulties -- compounded by darkness and poor weather -- led the aircraft far off course over Norfolk. The aircraft had also been hit by machine gun fire over the Dutch coast, causing the starboard engine to fail. At approximately 06:20 hours, the Hampden crashed into woodland in the grounds of Templewood House at Northrepps, a shooting lodge near the Norfolk coast. Three of the four crew members -- pilot Sergeant Jack Ottaway, navigator Pilot Officer Archie Kerr, and wireless operator/air gunner Sergeant Stanley Elliott -- were killed on impact. The fourth crew member, Sergeant Stanley Hird, an air gunner, survived the crash and went on to serve with the RAF for the remainder of the war, eventually being awarded the DFC.",
+    "crew": [
+        {
+            "rank": "Sgt",
+            "name": "Jack Leonard Frederick Ottaway",
+            "age": 25,
+            "role": "Pilot",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact when the Hampden crashed into woodland at Templewood House, Northrepps. Demonstrated exceptional airmanship nursing the crippled aircraft back across the North Sea on one engine.",
+            "burial_location": "Norwich Cemetery, Section 54, Grave 556",
+            "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2764240/jack-leonard-frederick-ottaway/",
+            "cwgc_verified": true,
+            "bio": "From Norwich, married to Barbara with a two-year-old daughter Virginia -- named after her father's favourite brand of tobacco. Despite losing the starboard engine to enemy fire over the Dutch coast, he nursed the aircraft back across the North Sea.",
+            "hometown": "Norwich, Norfolk",
+            "decorations": []
+        },
+        {
+            "rank": "P/O",
+            "name": "Archie Ronald Kerr",
+            "role": "Navigator/Observer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact in the crash at Templewood House. Had previously survived a ditching off Lowestoft earlier in 1940.",
+            "cwgc_verified": true,
+            "bio": "Navigator who had already survived one close call -- a ditching off Lowestoft earlier in the same year. His luck ran out over Norfolk.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Stanley Frederick Elliott",
+            "role": "Wireless Operator/Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact in the crash at Templewood House, Northrepps.",
+            "cwgc_verified": true,
+            "bio": "Wireless operator and air gunner serving with 44 Squadron.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Stanley Hird",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "fate": "Survived",
+            "fate_detail": "Survived the crash at Templewood House and went on to serve with the RAF until the end of the war. Subsequently awarded the Distinguished Flying Cross.",
+            "bio": "Air gunner who survived the crash and continued to serve throughout the war, eventually earning the DFC. His survival from the wreckage of the Hampden was remarkable given the severity of the impact.",
+            "decorations": [
+                "DFC"
+            ]
+        }
+    ],
+    "latitude": 52.8798,
+    "longitude": 1.3493,
+    "cause_of_loss": "Hit by machine gun fire over Dutch coast causing starboard engine failure; navigational error on return; aircraft struck trees in poor visibility",
+    "operation_type": "Operational",
+    "operation_target": "Bombing sortie to oil refinery at Lutzkendorf, near Leipzig",
+    "memorial_details": "| Field | Detail | |-------|--------| | Type | Plaque mounted on tree stump at crash site | | Dedicated | c. 2016 (approximately) | | Organised by | Local historians and Northrepps \"Poppyland\" branch of the Royal British Legion | | Condition | Maintained; annual memorial services held | | Access | Accessible on foot; within woodland at Northrepps | | Notable events | 81st anniversary memorial service held November 2021; Air Commodore Jack Broughton led wreath-laying; RAFA standard bearer present; model Hampdens presented to crew relatives |",
+    "maintainer": {
+        "organisation": "Southrepps Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "44 Squadron Association - Hampden X3023",
-      "type": "website",
-      "url": "https://44sqn.com/newsletters/march-2022/hampden/index.html"
-    },
-    {
-      "title": "CWGC - Jack Leonard Frederick Ottaway",
-      "type": "website",
-      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2764240/jack-leonard-frederick-ottaway/"
+    "external_narratives": [
+        {
+            "source_site": "ITV News Anglia",
+            "original_url": "https://www.itv.com/news/anglia/2015-11-21/memorial-to-bomber-which-crashed-in-norfolk-75-years-ago",
+            "summary": "ITV News coverage of the 75th anniversary memorial dedication at the Southrepps/Northrepps crash site. Jack Ottaway's granddaughters and other family members attended the ceremony to unveil a plaque on the stump of a tree knocked down by the original crash impact.",
+            "key_details": [
+                "75th anniversary ceremony in 2015",
+                "Ottaway's granddaughters attended",
+                "Plaque mounted on tree stump from original impact"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "44 Squadron Association",
+            "original_url": "https://44sqn.com/newsletters/march-2022/hampden/index.html",
+            "summary": "44 Squadron Association newsletter article on the Hampden X3023 crew, providing detailed squadron perspective on the loss. Jack Ottaway was from Norwich, married with a two-year-old daughter Virginia. The aircraft was hit by machine gun fire over the Dutch coast and the starboard engine failed.",
+            "key_details": [
+                "Jack Ottaway was from Norwich",
+                "Married with two-year-old daughter Virginia",
+                "Hit by machine gun fire over Dutch coast",
+                "Starboard engine failed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Southrepps History Hub",
+            "original_url": "https://southreppshistory.org.uk/topics/the-village-at-war/world-war-two/ww2-aircraft-incidents/",
+            "summary": "Local history hub page documenting WWII aircraft incidents around Southrepps village, including the Hampden X3023 crash. Provides community-level historical context and links to other wartime incidents in the area.",
+            "key_details": [
+                "Local history resource for Southrepps wartime incidents",
+                "Community-maintained historical record"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bureau of Aircraft Accidents Archives",
+            "original_url": "https://www.baaa-acro.com/crash/crash-handley-page-hp52-hampden-i-southrepps-3-killed",
+            "summary": "International aviation accident database entry for the Hampden HP.52 crash at Southrepps. Records 3 killed in the incident with aircraft identified as Handley Page HP.52 Hampden I.",
+            "key_details": [
+                "International accident database record",
+                "3 killed confirmed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Southrepps & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Southrepps Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
+    "squadron_motto": "The king's thunderbolts",
+    "what3words": "decide.rave.awesome",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io + Photon — Southrepps Norfolk NR11 at 52.880 1.349",
+            "Current 52.902 1.331 ~2.5km north/2km west of village centre"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "MINOR CORRECTION. Current coords (52.902, 1.331) ~2.5km north of Southrepps village. Updated to 52.880, 1.349.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "In the early hours of 20 November 1940, Hampden X3023 of 44 Squadron took off from RAF Waddington in Lincolnshire for a long-range bombing mission against an oil refinery at Lutzkendorf near Leipzig in central Germany. The Hampden was one of Bomber Command's principal medium bombers in the early war years, a narrow-fuselage aircraft that earned the nickname \"the flying suitcase\" for its cramped crew positions. On the return flight, navigational difficulties -- compounded by darkness and poor weather -- led the aircraft far off course over Norfolk. The aircraft had also been hit by machine gun fire over the Dutch coast, causing the starboard engine to fail. At approximately 06:20 hours, the Hampden crashed into woodland in the grounds of Templewood House at Northrepps, a shooting lodge near the Norfolk coast. Three of the four crew members -- pilot Sergeant Jack Ottaway, navigator Pilot Officer Archie Kerr, and wireless operator/air gunner Sergeant Stanley Elliott -- were killed on impact. The fourth crew member, Sergeant Stanley Hird, an air gunner, survived the crash and went on to serve with the RAF for the remainder of the war, eventually being awarded the DFC.",
-  "crew": [
-    {
-      "rank": "Sgt",
-      "name": "Jack Leonard Frederick Ottaway",
-      "age": 25,
-      "role": "Pilot",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact when the Hampden crashed into woodland at Templewood House, Northrepps. Demonstrated exceptional airmanship nursing the crippled aircraft back across the North Sea on one engine.",
-      "burial_location": "Norwich Cemetery, Section 54, Grave 556",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2764240/jack-leonard-frederick-ottaway/",
-      "cwgc_verified": true,
-      "bio": "From Norwich, married to Barbara with a two-year-old daughter Virginia -- named after her father's favourite brand of tobacco. Despite losing the starboard engine to enemy fire over the Dutch coast, he nursed the aircraft back across the North Sea.",
-      "hometown": "Norwich, Norfolk",
-      "decorations": []
-    },
-    {
-      "rank": "P/O",
-      "name": "Archie Ronald Kerr",
-      "role": "Navigator/Observer",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact in the crash at Templewood House. Had previously survived a ditching off Lowestoft earlier in 1940.",
-      "cwgc_verified": true,
-      "bio": "Navigator who had already survived one close call -- a ditching off Lowestoft earlier in the same year. His luck ran out over Norfolk.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Stanley Frederick Elliott",
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact in the crash at Templewood House, Northrepps.",
-      "cwgc_verified": true,
-      "bio": "Wireless operator and air gunner serving with 44 Squadron.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Stanley Hird",
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Survived",
-      "fate_detail": "Survived the crash at Templewood House and went on to serve with the RAF until the end of the war. Subsequently awarded the Distinguished Flying Cross.",
-      "bio": "Air gunner who survived the crash and continued to serve throughout the war, eventually earning the DFC. His survival from the wreckage of the Hampden was remarkable given the severity of the impact.",
-      "decorations": [
-        "DFC"
-      ]
-    }
-  ],
-  "latitude": 52.9018,
-  "longitude": 1.3306,
-  "cause_of_loss": "Hit by machine gun fire over Dutch coast causing starboard engine failure; navigational error on return; aircraft struck trees in poor visibility",
-  "operation_type": "Operational",
-  "operation_target": "Bombing sortie to oil refinery at Lutzkendorf, near Leipzig",
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Plaque mounted on tree stump at crash site | | Dedicated | c. 2016 (approximately) | | Organised by | Local historians and Northrepps \"Poppyland\" branch of the Royal British Legion | | Condition | Maintained; annual memorial services held | | Access | Accessible on foot; within woodland at Northrepps | | Notable events | 81st anniversary memorial service held November 2021; Air Commodore Jack Broughton led wreath-laying; RAFA standard bearer present; model Hampdens presented to crew relatives |",
-  "maintainer": {
-    "organisation": "Southrepps Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "ITV News Anglia",
-      "original_url": "https://www.itv.com/news/anglia/2015-11-21/memorial-to-bomber-which-crashed-in-norfolk-75-years-ago",
-      "summary": "ITV News coverage of the 75th anniversary memorial dedication at the Southrepps/Northrepps crash site. Jack Ottaway's granddaughters and other family members attended the ceremony to unveil a plaque on the stump of a tree knocked down by the original crash impact.",
-      "key_details": [
-        "75th anniversary ceremony in 2015",
-        "Ottaway's granddaughters attended",
-        "Plaque mounted on tree stump from original impact"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "44 Squadron Association",
-      "original_url": "https://44sqn.com/newsletters/march-2022/hampden/index.html",
-      "summary": "44 Squadron Association newsletter article on the Hampden X3023 crew, providing detailed squadron perspective on the loss. Jack Ottaway was from Norwich, married with a two-year-old daughter Virginia. The aircraft was hit by machine gun fire over the Dutch coast and the starboard engine failed.",
-      "key_details": [
-        "Jack Ottaway was from Norwich",
-        "Married with two-year-old daughter Virginia",
-        "Hit by machine gun fire over Dutch coast",
-        "Starboard engine failed"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Southrepps History Hub",
-      "original_url": "https://southreppshistory.org.uk/topics/the-village-at-war/world-war-two/ww2-aircraft-incidents/",
-      "summary": "Local history hub page documenting WWII aircraft incidents around Southrepps village, including the Hampden X3023 crash. Provides community-level historical context and links to other wartime incidents in the area.",
-      "key_details": [
-        "Local history resource for Southrepps wartime incidents",
-        "Community-maintained historical record"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Bureau of Aircraft Accidents Archives",
-      "original_url": "https://www.baaa-acro.com/crash/crash-handley-page-hp52-hampden-i-southrepps-3-killed",
-      "summary": "International aviation accident database entry for the Hampden HP.52 crash at Southrepps. Records 3 killed in the incident with aircraft identified as Handley Page HP.52 Hampden I.",
-      "key_details": [
-        "International accident database record",
-        "3 killed confirmed"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Southrepps & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Southrepps Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
-  "squadron_motto": "The king's thunderbolts",
-  "what3words": "decide.rave.awesome",
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

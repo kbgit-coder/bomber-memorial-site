@@ -1,176 +1,181 @@
 {
-  "id": "great-whernside-dt578",
-  "title": "Great Whernside Halifax Memorial",
-  "location_name": "Great Whernside, above Kettlewell, Pennines (North)",
-  "county": "Pennines (North)",
-  "country": "United Kingdom",
-  "region_code": "PN-001",
-  "crash_date": "1943-11-23",
-  "aircraft_type": "Halifax",
-  "serial_number": "DT578",
-  "squadron": "1658 Heavy Conversion Unit",
-  "crew_summary": "All killed",
-  "memorial_type": "Crash site cairn",
-  "sources": [
-    {
-      "title": "militaryaircraftcrashsites.blogspot.com",
-      "type": "website"
+    "id": "great-whernside-dt578",
+    "title": "Great Whernside Halifax Memorial",
+    "location_name": "Great Whernside, above Kettlewell, Pennines (North)",
+    "county": "Pennines (North)",
+    "country": "United Kingdom",
+    "region_code": "PN-001",
+    "crash_date": "1943-11-23",
+    "aircraft_type": "Halifax",
+    "serial_number": "DT578",
+    "squadron": "1658 Heavy Conversion Unit",
+    "crew_summary": "All killed",
+    "memorial_type": "Crash site cairn",
+    "sources": [
+        {
+            "title": "militaryaircraftcrashsites.blogspot.com",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the night of 23/24 November 1943, Halifax DT578 from 1658 HCU at Riccall took off on a night cross-country training exercise. The aircraft was one of several Halifax trainers airborne that night in conditions that included severe icing at altitude. The Halifax struck the western slope of Great Whernside at approximately 2,000 feet, killing all seven crew instantly. For many years it was believed that DT578 had collided mid-air with another Halifax from the same unit, JB926, which crashed the same night less than ten miles away near Masham. However, closer examination of the Accident Investigation Branch reports showed that JB926 was actually over St Bees Head on the Cumbrian coast at the time of DT578's crash, and did not come down at Agra Moor near Masham until 01:15 hours. The two crashes were independent incidents, both likely caused by icing. The crew of DT578 were all British, ranging in age from 19 to 30. Navigator Frank Robson was the eldest at 30; the youngest, wireless operator Norman Martin and gunner Kenneth Vincent, were both 19.",
+    "crew": [
+        {
+            "rank": "Sgt",
+            "name": "Stanley Chadwick",
+            "service_number": "1453551 RAFVR",
+            "age": 21,
+            "role": "Pilot",
+            "nationality": "British",
+            "burial_location": "Walney Island Churchyard, Lancashire",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Frank Weldon Robson",
+            "service_number": "1451671 RAFVR",
+            "age": 30,
+            "role": "Navigator",
+            "nationality": "British",
+            "burial_location": "Hull Northern Cemetery, Yorkshire",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Frank James Robinson",
+            "service_number": "538137 RAF",
+            "age": 25,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "burial_location": "Chesterton Churchyard, Staffordshire",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Norman Sebright Martin",
+            "service_number": "1600285 RAF",
+            "age": 19,
+            "role": "Wireless Op/Air Gunner",
+            "nationality": "British",
+            "burial_location": "East Finchley Cemetery, Middlesex",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Donald Paget Aitken",
+            "service_number": "1322354 RAFVR",
+            "age": 21,
+            "role": "Bomb Aimer",
+            "nationality": "British",
+            "burial_location": "Bognor Regis Cemetery, Sussex",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Ernest Stabler",
+            "service_number": "1784108 RAFVR",
+            "age": 20,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Distington Churchyard, Cumbria",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Kenneth Vincent",
+            "service_number": "1819902 RAFVR",
+            "age": 19,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Wednesfield Churchyard, Staffordshire",
+            "fate": "Killed",
+            "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
+            "cwgc_verified": true
+        }
+    ],
+    "cause_of_loss": "Flew into hillside; probable icing conditions",
+    "operation_type": "Training",
+    "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial plaque at crash site on Great Whernside; separate memorial inside chapel at Hagg Dyke | | **Crash site plaque dedicated** | June 2016 | | **Organised by** | Joseph (Ernest Stabler's half-brother) and David Robson, with wider Robson family | | **Condition** | Good | | **Access** | Great Whernside (2,310 ft), Yorkshire Dales; remote hillside location, accessible on foot from Kettlewell |",
+    "latitude": 54.1610297,
+    "longitude": -1.9982687,
+    "maintainer": {
+        "organisation": "Kettlewell with Starbotton Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Yorkshire Aircraft",
+            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/dt578.html",
+            "summary": "Detailed account of Halifax DT578 from 1658 HCU Riccall, which crashed into Great Whernside above Kettlewell on 23 November 1943. The aircraft flew in a flight of six Halifaxes on a stormy night with severe turbulence, gale force winds, and icing conditions.",
+            "key_details": "Aircraft was built by English Electric, Preston. Previously in service with 502 Squadron Coastal Command. Icing conditions reported at 4,000 feet. Not a mid-air collision with JB926 as previously believed; both incidents were independent.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Peak District Air Accident Research",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-dt578-great-whernside/",
+            "summary": "Crash database entry for Halifax DT578 at Great Whernside, North Yorkshire. Records the aircraft as from 1658 HCU RAF Riccall, lost on a night cross-country training exercise in severe weather.",
+            "key_details": "Crash date 23 November 1943. Unit 1658 HCU, RAF Riccall. All seven crew killed.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "aircrashsites.co.uk",
+            "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/halifax-bomber-dt578-great-whernside/",
+            "summary": "Photographic documentation of the DT578 crash site on Great Whernside, including wreckage remains. Memorial plaque placed at the site in June 2016 by Joseph Stabler (half-brother of crew member Ernest Stabler) and the Robson family.",
+            "key_details": "Memorial plaque dedicated June 2016. Organised by Joseph Stabler and David Robson with wider family members. A separate memorial exists inside the chapel at Hagg Dyke.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Airedale & Wharfedale Family History Society",
+            "original_url": "https://awfhs.org/war-memorial/kettlewell-longcliffe-edge-great-whernside-crash-site/",
+            "summary": "Family history society record of the Great Whernside crash site memorial near Kettlewell, documenting the seven crew members and their burial locations across England.",
+            "key_details": "Crash site at approximately 2,310 feet on Great Whernside, Yorkshire Dales. Accessible on foot from Kettlewell.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Skipton Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Kettlewell with Starbotton Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "station": "RAF Riccall",
+    "what3words": "caravans.skippers.grandest",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Great Whernside fell North Yorkshire at 54.1610 -1.9983",
+            "Current 53.759 -1.207 ~43km south near Bradford — wrong hill entirely"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.759, -1.207) ~43km south of Great Whernside near Bradford area. Great Whernside is a peak in the Yorkshire Dales at 54.161, -1.998.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the night of 23/24 November 1943, Halifax DT578 from 1658 HCU at Riccall took off on a night cross-country training exercise. The aircraft was one of several Halifax trainers airborne that night in conditions that included severe icing at altitude. The Halifax struck the western slope of Great Whernside at approximately 2,000 feet, killing all seven crew instantly. For many years it was believed that DT578 had collided mid-air with another Halifax from the same unit, JB926, which crashed the same night less than ten miles away near Masham. However, closer examination of the Accident Investigation Branch reports showed that JB926 was actually over St Bees Head on the Cumbrian coast at the time of DT578's crash, and did not come down at Agra Moor near Masham until 01:15 hours. The two crashes were independent incidents, both likely caused by icing. The crew of DT578 were all British, ranging in age from 19 to 30. Navigator Frank Robson was the eldest at 30; the youngest, wireless operator Norman Martin and gunner Kenneth Vincent, were both 19.",
-  "crew": [
-    {
-      "rank": "Sgt",
-      "name": "Stanley Chadwick",
-      "service_number": "1453551 RAFVR",
-      "age": 21,
-      "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "Walney Island Churchyard, Lancashire",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Frank Weldon Robson",
-      "service_number": "1451671 RAFVR",
-      "age": 30,
-      "role": "Navigator",
-      "nationality": "British",
-      "burial_location": "Hull Northern Cemetery, Yorkshire",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Frank James Robinson",
-      "service_number": "538137 RAF",
-      "age": 25,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "burial_location": "Chesterton Churchyard, Staffordshire",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Norman Sebright Martin",
-      "service_number": "1600285 RAF",
-      "age": 19,
-      "role": "Wireless Op/Air Gunner",
-      "nationality": "British",
-      "burial_location": "East Finchley Cemetery, Middlesex",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Donald Paget Aitken",
-      "service_number": "1322354 RAFVR",
-      "age": 21,
-      "role": "Bomb Aimer",
-      "nationality": "British",
-      "burial_location": "Bognor Regis Cemetery, Sussex",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Ernest Stabler",
-      "service_number": "1784108 RAFVR",
-      "age": 20,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "Distington Churchyard, Cumbria",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Kenneth Vincent",
-      "service_number": "1819902 RAFVR",
-      "age": 19,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "Wednesfield Churchyard, Staffordshire",
-      "fate": "Killed",
-      "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
-      "cwgc_verified": true
-    }
-  ],
-  "cause_of_loss": "Flew into hillside; probable icing conditions",
-  "operation_type": "Training",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial plaque at crash site on Great Whernside; separate memorial inside chapel at Hagg Dyke | | **Crash site plaque dedicated** | June 2016 | | **Organised by** | Joseph (Ernest Stabler's half-brother) and David Robson, with wider Robson family | | **Condition** | Good | | **Access** | Great Whernside (2,310 ft), Yorkshire Dales; remote hillside location, accessible on foot from Kettlewell |",
-  "latitude": 53.75927835272793,
-  "longitude": -1.2072348391153833,
-  "maintainer": {
-    "organisation": "Kettlewell with Starbotton Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Yorkshire Aircraft",
-      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/dt578.html",
-      "summary": "Detailed account of Halifax DT578 from 1658 HCU Riccall, which crashed into Great Whernside above Kettlewell on 23 November 1943. The aircraft flew in a flight of six Halifaxes on a stormy night with severe turbulence, gale force winds, and icing conditions.",
-      "key_details": "Aircraft was built by English Electric, Preston. Previously in service with 502 Squadron Coastal Command. Icing conditions reported at 4,000 feet. Not a mid-air collision with JB926 as previously believed; both incidents were independent.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Peak District Air Accident Research",
-      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-dt578-great-whernside/",
-      "summary": "Crash database entry for Halifax DT578 at Great Whernside, North Yorkshire. Records the aircraft as from 1658 HCU RAF Riccall, lost on a night cross-country training exercise in severe weather.",
-      "key_details": "Crash date 23 November 1943. Unit 1658 HCU, RAF Riccall. All seven crew killed.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "aircrashsites.co.uk",
-      "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/halifax-bomber-dt578-great-whernside/",
-      "summary": "Photographic documentation of the DT578 crash site on Great Whernside, including wreckage remains. Memorial plaque placed at the site in June 2016 by Joseph Stabler (half-brother of crew member Ernest Stabler) and the Robson family.",
-      "key_details": "Memorial plaque dedicated June 2016. Organised by Joseph Stabler and David Robson with wider family members. A separate memorial exists inside the chapel at Hagg Dyke.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Airedale & Wharfedale Family History Society",
-      "original_url": "https://awfhs.org/war-memorial/kettlewell-longcliffe-edge-great-whernside-crash-site/",
-      "summary": "Family history society record of the Great Whernside crash site memorial near Kettlewell, documenting the seven crew members and their burial locations across England.",
-      "key_details": "Crash site at approximately 2,310 feet on Great Whernside, Yorkshire Dales. Accessible on foot from Kettlewell.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Skipton Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    },
-    {
-      "org_name": "Kettlewell with Starbotton Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "station": "RAF Riccall",
-  "what3words": "caravans.skippers.grandest",
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

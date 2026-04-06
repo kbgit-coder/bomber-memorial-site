@@ -1,112 +1,117 @@
 {
-  "id": "tattershall-2-pb422",
-  "title": "Tattershall (2) Lancaster Memorial",
-  "location_name": "Tattershall (2), Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-030",
-  "crash_date": "1945-07-13",
-  "aircraft_type": "Lancaster",
-  "serial_number": "PB422",
-  "squadron": "97 Sqdn.",
-  "station": "Coningsby",
-  "crew_summary": "4 killed including pilot Flg Off. Ronald William Wright",
-  "memorial_type": "Bridge memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "tattershall-2-pb422",
+    "title": "Tattershall (2) Lancaster Memorial",
+    "location_name": "Tattershall (2), Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-030",
+    "crash_date": "1945-07-13",
+    "aircraft_type": "Lancaster",
+    "serial_number": "PB422",
+    "squadron": "97 Sqdn.",
+    "station": "Coningsby",
+    "crew_summary": "4 killed including pilot Flg Off. Ronald William Wright",
+    "memorial_type": "Bridge memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.09,
+    "longitude": -0.215,
+    "maintainer": {
+        "organisation": "Tattershall Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Lincolnshire Heritage Explorer",
+            "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125800",
+            "summary": "Heritage record for the crash site of Lancaster PB422 in the River Bain between Tattershall and Coningsby. The aircraft's port outer engine caught fire during takeoff for a bombing exercise, causing it to stall and crash into trees.",
+            "key_details": "Monument reference MLI125800. Crash occurred on 13 July 1945, two months after VE Day. Four crew killed: Flt Lt R.W. Wright, F/Sgt A.J. Molyneux, Fg Off J.L. Bendix, F/Sgt J. Eastwood.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://aviation-safety.net/wikibase/159251",
+            "summary": "Accident database entry for Avro Lancaster Mk III PB422 of 97 Squadron, recording the crash on Friday 13 July 1945 near Tattershall during a practice bombing exercise from RAF Coningsby.",
+            "key_details": "Aircraft designated OF-P. Port outer engine fire on takeoff caused stall. Aircraft crashed into trees and came to rest in the River Bain.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264833/",
+            "summary": "Registry entry for the combined memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 and Lancaster PB422 of 97 Squadron.",
+            "key_details": "Shared memorial with the W4175 crew. Both were 97 Squadron aircraft that crashed in the Tattershall area during different phases of the war.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Coningsby, Tattershall & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Tattershall Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
+    "squadron_motto": "Achieve your aim",
+    "what3words": "sponge.opened.guesswork",
+    "photos": [
+        {
+            "filename": "tattershall-2-pb422/5d239793adb5a_LI_Tattershall_1_547x410.JPG",
+            "caption": "5d239793adb5a LI Tattershall 1 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "tattershall-2-pb422/5d2397952da76_LI_Tattershall_2_547x410.JPG",
+            "caption": "5d2397952da76 LI Tattershall 2 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "tattershall-2-pb422/5d23979679970_LI_Tattershall_3_547x410.JPG",
+            "caption": "5d23979679970 LI Tattershall 3 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "tattershall-2-pb422/68d68c91a57cb_IMG_5491_547x410.JPG",
+            "caption": "68d68c91a57cb IMG 5491 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "tattershall-2-pb422/68d68c92989be_IMG_5492_547x410.JPG",
+            "caption": "68d68c92989be IMG 5492 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "tattershall-2-pb422/68d68c93717df_IMG_5493_547x410.JPG",
+            "caption": "68d68c93717df IMG 5493 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Tattershall Lincolnshire LN4 area at 53.090 -0.215",
+            "Current 53.088 -0.435 — latitude near-correct but longitude ~19km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords latitude near-correct but longitude -0.435 is ~19km west. Tattershall area at 53.090, -0.215.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.08764931517963,
-  "longitude": -0.4354464272129529,
-  "maintainer": {
-    "organisation": "Tattershall Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Lincolnshire Heritage Explorer",
-      "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125800",
-      "summary": "Heritage record for the crash site of Lancaster PB422 in the River Bain between Tattershall and Coningsby. The aircraft's port outer engine caught fire during takeoff for a bombing exercise, causing it to stall and crash into trees.",
-      "key_details": "Monument reference MLI125800. Crash occurred on 13 July 1945, two months after VE Day. Four crew killed: Flt Lt R.W. Wright, F/Sgt A.J. Molyneux, Fg Off J.L. Bendix, F/Sgt J. Eastwood.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://aviation-safety.net/wikibase/159251",
-      "summary": "Accident database entry for Avro Lancaster Mk III PB422 of 97 Squadron, recording the crash on Friday 13 July 1945 near Tattershall during a practice bombing exercise from RAF Coningsby.",
-      "key_details": "Aircraft designated OF-P. Port outer engine fire on takeoff caused stall. Aircraft crashed into trees and came to rest in the River Bain.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264833/",
-      "summary": "Registry entry for the combined memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 and Lancaster PB422 of 97 Squadron.",
-      "key_details": "Shared memorial with the W4175 crew. Both were 97 Squadron aircraft that crashed in the Tattershall area during different phases of the war.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Coningsby, Tattershall & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Tattershall Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
-  "squadron_motto": "Achieve your aim",
-  "what3words": "sponge.opened.guesswork",
-  "photos": [
-    {
-      "filename": "tattershall-2-pb422/5d239793adb5a_LI_Tattershall_1_547x410.JPG",
-      "caption": "5d239793adb5a LI Tattershall 1 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "tattershall-2-pb422/5d2397952da76_LI_Tattershall_2_547x410.JPG",
-      "caption": "5d2397952da76 LI Tattershall 2 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "tattershall-2-pb422/5d23979679970_LI_Tattershall_3_547x410.JPG",
-      "caption": "5d23979679970 LI Tattershall 3 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "tattershall-2-pb422/68d68c91a57cb_IMG_5491_547x410.JPG",
-      "caption": "68d68c91a57cb IMG 5491 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "tattershall-2-pb422/68d68c92989be_IMG_5492_547x410.JPG",
-      "caption": "68d68c92989be IMG 5492 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "tattershall-2-pb422/68d68c93717df_IMG_5493_547x410.JPG",
-      "caption": "68d68c93717df IMG 5493 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

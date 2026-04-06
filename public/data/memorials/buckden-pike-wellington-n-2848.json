@@ -1,173 +1,178 @@
 {
-  "id": "buckden-pike-wellington-n-2848",
-  "title": "Buckden Pike N.2848 Memorial",
-  "location_name": "Buckden Pike, North Yorkshire",
-  "county": "North Yorkshire",
-  "country": "United Kingdom",
-  "region_code": "NY-001",
-  "crash_date": "1942-01-30",
-  "aircraft_type": "Wellington Mk.IC",
-  "serial_number": "N2848",
-  "squadron": "18 OTU (Polish)",
-  "station": "Bramcote",
-  "crew_summary": "5 Polish airmen killed; 1 survivor (Sgt. Jozef Fusniak — followed fox tracks to safety)",
-  "memorial_type": "Memorial cross on Buckden Pike with bronze fox head at base; incorporates duralumin from Wellington geodetic framework",
-  "dedication_date": "08/08/1973 (built by survivor Jozef Fusniak)",
-  "sources": [
-    {
-      "title": "National Trust",
-      "url": "https://www.nationaltrust.org.uk/upper-wharfedale/trails/buckden-pike-and-the-polish-memorial",
-      "type": "website"
+    "id": "buckden-pike-wellington-n-2848",
+    "title": "Buckden Pike N.2848 Memorial",
+    "location_name": "Buckden Pike, North Yorkshire",
+    "county": "North Yorkshire",
+    "country": "United Kingdom",
+    "region_code": "NY-001",
+    "crash_date": "1942-01-30",
+    "aircraft_type": "Wellington Mk.IC",
+    "serial_number": "N2848",
+    "squadron": "18 OTU (Polish)",
+    "station": "Bramcote",
+    "crew_summary": "5 Polish airmen killed; 1 survivor (Sgt. Jozef Fusniak — followed fox tracks to safety)",
+    "memorial_type": "Memorial cross on Buckden Pike with bronze fox head at base; incorporates duralumin from Wellington geodetic framework",
+    "dedication_date": "08/08/1973 (built by survivor Jozef Fusniak)",
+    "sources": [
+        {
+            "title": "National Trust",
+            "url": "https://www.nationaltrust.org.uk/upper-wharfedale/trails/buckden-pike-and-the-polish-memorial",
+            "type": "website"
+        },
+        {
+            "title": "Peak District Air Accident Research",
+            "url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-n2848-starbotton-fell/",
+            "type": "website"
+        },
+        {
+            "title": "Wikipedia - Buckden Pike",
+            "url": "https://en.wikipedia.org/wiki/Buckden_Pike",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On 30 January 1942, a crew of six Polish airmen from No. 18 Operational Training Unit took off from RAF Bramcote in Warwickshire on a cross-country navigation training flight routed via Carlisle, Newcastle and Hull. The weather deteriorated rapidly into widespread blizzard conditions. As the crew headed northwards for Carlisle they strayed to the east of their intended route. Catching a faint glimpse of a town below — unknowingly Skipton — they looped once around it and continued blindly into the Yorkshire Dales. Flying too low, the Wellington clipped a dry-stone wall on Starbotton Fell at the southern end of Buckden Pike and broke apart, scattering wreckage across the ridge. Four men were killed on impact. The wireless operator, Sergeant Sadowski, survived the crash initially, and fellow survivor Sergeant Fusniak built him a small shelter before setting off for help despite a broken ankle. In the blinding snowstorm, Fusniak noticed the tracks of a fox heading downhill and followed them. The fox's trail led him to the farmsteads at Cray, where he raised the alarm. Sadowski, tragically, died of his injuries before help could reach him. All five dead were buried in the Polish War Graves section of Newark Cemetery, Nottinghamshire.",
+    "crew": [
+        {
+            "rank": "F/Lt",
+            "name": "Czeslaw Kujawa",
+            "role": "Pilot",
+            "nationality": "Polish",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact when the Wellington struck a dry-stone wall on Starbotton Fell. Buried in the Polish War Graves section of Newark Cemetery.",
+            "burial_location": "Newark Cemetery (Polish War Graves)",
+            "cwgc_verified": true,
+            "bio": "Flight Lieutenant Kujawa was an experienced Polish pilot who had escaped occupied Poland to continue fighting with the RAF."
+        },
+        {
+            "rank": "P/O",
+            "name": "Jerzy Polczyk",
+            "role": "2nd Pilot",
+            "nationality": "Polish",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
+            "burial_location": "Newark Cemetery (Polish War Graves)",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "F/O",
+            "name": "Tadeusz Jan Bieganski",
+            "role": "Observer",
+            "nationality": "Polish",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
+            "burial_location": "Newark Cemetery (Polish War Graves)",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jan Sadowski",
+            "role": "Wireless Operator",
+            "nationality": "Polish",
+            "fate": "Died of injuries",
+            "fate_detail": "Survived the initial crash but died of his injuries before help could reach him. Fellow survivor Fusniak built him a shelter before setting off for help. Buried in the Polish War Graves section of Newark Cemetery.",
+            "burial_location": "Newark Cemetery (Polish War Graves)",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jan Andrzej Tokarzewski",
+            "role": "Air Gunner",
+            "nationality": "Polish",
+            "fate": "Killed",
+            "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
+            "burial_location": "Newark Cemetery (Polish War Graves)",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Jozef Fusniak",
+            "role": "Air Gunner",
+            "nationality": "Polish",
+            "fate": "Survived",
+            "fate_detail": "Sole survivor. His rear turret snapped off the fuselage on impact, saving his life. Despite a broken ankle, he followed fox tracks through the blizzard to the village of Cray. After recovering, he returned to flying but was shot down on 22/23 July 1942 with 301 Squadron and captured near the Dutch/German border. He spent the rest of the war as a POW at Stalag Luft Lamsdorf and survived the infamous Lamsdorf death march. In 1973 he returned to build the memorial cross on Buckden Pike. He died in July 2017 in Cambridge aged 95.",
+            "bio": "After the war, Fusniak settled in England. In 1973 he returned to Buckden Pike to build the memorial cross with help from local residents. The bronze fox's head at the base honours the fox whose tracks saved his life. He died in Cambridge in July 2017 at age 95."
+        }
+    ],
+    "latitude": 54.1966,
+    "longitude": -2.0592,
+    "cause_of_loss": "Flew into hillside in blizzard conditions; strayed east of intended route after passing over Skipton",
+    "operation_type": "Training",
+    "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Stone memorial cross with fox's head sculpture on summit of Buckden Pike | | **Dedicated** | 8 August 1973 | | **Organised by** | Jozef Fusniak (sole survivor), with help from local residents; returned from Poland to build the memorial | | **Fox motif** | A carved fox's head was added to the cross in tribute to the fox whose tracks saved Fusniak's life | | **Wreckage** | Most remaining aircraft wreckage was concreted into the base of the memorial during the 1970s | | **Condition** | Good; maintained; popular walking destination | | **Access** | Summit of Buckden Pike (2,303 ft); accessible via National Trust walking trail from Buckden village; approximately 2-hour walk |",
+    "maintainer": {
+        "organisation": "National Trust",
+        "website": "https://www.nationaltrust.org.uk",
+        "maintainer_type": "national-trust",
+        "notes": "Memorial cross on National Trust land. Originally erected by sole survivor Jozef Fusniak in 1973."
     },
-    {
-      "title": "Peak District Air Accident Research",
-      "url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-n2848-starbotton-fell/",
-      "type": "website"
-    },
-    {
-      "title": "Wikipedia - Buckden Pike",
-      "url": "https://en.wikipedia.org/wiki/Buckden_Pike",
-      "type": "website"
+    "external_narratives": [
+        {
+            "source_site": "National Trust",
+            "original_url": "https://www.nationaltrust.org.uk/upper-wharfedale/trails/buckden-pike-and-the-polish-memorial",
+            "summary": "The National Trust maintains a walking trail to the Polish memorial cross on Buckden Pike. The memorial was built by sole survivor Jozef Fusniak in 1973 and incorporates a bronze fox's head at its base, honouring the fox whose tracks led Fusniak to safety through a blizzard.",
+            "key_details": [
+                "National Trust walking trail from Buckden village",
+                "Approximately 2-hour walk to summit at 2,303 ft"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/30083",
+            "summary": "IWM records the memorial to the Polish RAF Air Crew of Wellington N2848 crash site on Buckden Pike, North Yorkshire. The memorial was dedicated on 8 August 1973.",
+            "key_details": [
+                "IWM reference: memorial/30083"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Peak District Air Crashes",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-n2848-starbotton-fell/",
+            "summary": "Detailed crash site analysis documenting Wellington N2848 of 18 OTU from RAF Bramcote. The crew strayed east of their intended route and the aircraft clipped a dry-stone wall on Starbotton Fell. The memorial cross incorporates duralumin fragments from the Wellington's geodetic framework concreted into its base.",
+            "key_details": [
+                "Aircraft clipped dry-stone wall on Starbotton Fell",
+                "Duralumin from geodetic framework incorporated into memorial base"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wikipedia",
+            "original_url": "https://en.wikipedia.org/wiki/Buckden_Pike",
+            "summary": "Wikipedia's entry on Buckden Pike documents the 1942 Wellington crash and the memorial cross erected by survivor Jozef Fusniak. The article notes the fox tracks legend and the memorial's significance as a popular walking destination.",
+            "key_details": [
+                "Memorial is a well-known landmark on Buckden Pike summit"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Skipton Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
+    "squadron_motto": "With courage and faith",
+    "what3words": "pigtails.housework.dumpling",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "OSM node named Buckden Pike Memorial Cross (54.1965934 -2.0592130)",
+            "DBpedia Buckden Pike summit (54.2043 -2.059)"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Holly (PAI)",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On 30 January 1942, a crew of six Polish airmen from No. 18 Operational Training Unit took off from RAF Bramcote in Warwickshire on a cross-country navigation training flight routed via Carlisle, Newcastle and Hull. The weather deteriorated rapidly into widespread blizzard conditions. As the crew headed northwards for Carlisle they strayed to the east of their intended route. Catching a faint glimpse of a town below — unknowingly Skipton — they looped once around it and continued blindly into the Yorkshire Dales. Flying too low, the Wellington clipped a dry-stone wall on Starbotton Fell at the southern end of Buckden Pike and broke apart, scattering wreckage across the ridge. Four men were killed on impact. The wireless operator, Sergeant Sadowski, survived the crash initially, and fellow survivor Sergeant Fusniak built him a small shelter before setting off for help despite a broken ankle. In the blinding snowstorm, Fusniak noticed the tracks of a fox heading downhill and followed them. The fox's trail led him to the farmsteads at Cray, where he raised the alarm. Sadowski, tragically, died of his injuries before help could reach him. All five dead were buried in the Polish War Graves section of Newark Cemetery, Nottinghamshire.",
-  "crew": [
-    {
-      "rank": "F/Lt",
-      "name": "Czeslaw Kujawa",
-      "role": "Pilot",
-      "nationality": "Polish",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact when the Wellington struck a dry-stone wall on Starbotton Fell. Buried in the Polish War Graves section of Newark Cemetery.",
-      "burial_location": "Newark Cemetery (Polish War Graves)",
-      "cwgc_verified": true,
-      "bio": "Flight Lieutenant Kujawa was an experienced Polish pilot who had escaped occupied Poland to continue fighting with the RAF."
-    },
-    {
-      "rank": "P/O",
-      "name": "Jerzy Polczyk",
-      "role": "2nd Pilot",
-      "nationality": "Polish",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
-      "burial_location": "Newark Cemetery (Polish War Graves)",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "F/O",
-      "name": "Tadeusz Jan Bieganski",
-      "role": "Observer",
-      "nationality": "Polish",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
-      "burial_location": "Newark Cemetery (Polish War Graves)",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Jan Sadowski",
-      "role": "Wireless Operator",
-      "nationality": "Polish",
-      "fate": "Died of injuries",
-      "fate_detail": "Survived the initial crash but died of his injuries before help could reach him. Fellow survivor Fusniak built him a shelter before setting off for help. Buried in the Polish War Graves section of Newark Cemetery.",
-      "burial_location": "Newark Cemetery (Polish War Graves)",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Jan Andrzej Tokarzewski",
-      "role": "Air Gunner",
-      "nationality": "Polish",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact. Buried in the Polish War Graves section of Newark Cemetery.",
-      "burial_location": "Newark Cemetery (Polish War Graves)",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Jozef Fusniak",
-      "role": "Air Gunner",
-      "nationality": "Polish",
-      "fate": "Survived",
-      "fate_detail": "Sole survivor. His rear turret snapped off the fuselage on impact, saving his life. Despite a broken ankle, he followed fox tracks through the blizzard to the village of Cray. After recovering, he returned to flying but was shot down on 22/23 July 1942 with 301 Squadron and captured near the Dutch/German border. He spent the rest of the war as a POW at Stalag Luft Lamsdorf and survived the infamous Lamsdorf death march. In 1973 he returned to build the memorial cross on Buckden Pike. He died in July 2017 in Cambridge aged 95.",
-      "bio": "After the war, Fusniak settled in England. In 1973 he returned to Buckden Pike to build the memorial cross with help from local residents. The bronze fox's head at the base honours the fox whose tracks saved his life. He died in Cambridge in July 2017 at age 95."
-    }
-  ],
-  "latitude": 54.1935,
-  "longitude": -2.0848,
-  "cause_of_loss": "Flew into hillside in blizzard conditions; strayed east of intended route after passing over Skipton",
-  "operation_type": "Training",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Stone memorial cross with fox's head sculpture on summit of Buckden Pike | | **Dedicated** | 8 August 1973 | | **Organised by** | Jozef Fusniak (sole survivor), with help from local residents; returned from Poland to build the memorial | | **Fox motif** | A carved fox's head was added to the cross in tribute to the fox whose tracks saved Fusniak's life | | **Wreckage** | Most remaining aircraft wreckage was concreted into the base of the memorial during the 1970s | | **Condition** | Good; maintained; popular walking destination | | **Access** | Summit of Buckden Pike (2,303 ft); accessible via National Trust walking trail from Buckden village; approximately 2-hour walk |",
-  "maintainer": {
-    "organisation": "National Trust",
-    "website": "https://www.nationaltrust.org.uk",
-    "maintainer_type": "national-trust",
-    "notes": "Memorial cross on National Trust land. Originally erected by sole survivor Jozef Fusniak in 1973."
-  },
-  "external_narratives": [
-    {
-      "source_site": "National Trust",
-      "original_url": "https://www.nationaltrust.org.uk/upper-wharfedale/trails/buckden-pike-and-the-polish-memorial",
-      "summary": "The National Trust maintains a walking trail to the Polish memorial cross on Buckden Pike. The memorial was built by sole survivor Jozef Fusniak in 1973 and incorporates a bronze fox's head at its base, honouring the fox whose tracks led Fusniak to safety through a blizzard.",
-      "key_details": [
-        "National Trust walking trail from Buckden village",
-        "Approximately 2-hour walk to summit at 2,303 ft"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/30083",
-      "summary": "IWM records the memorial to the Polish RAF Air Crew of Wellington N2848 crash site on Buckden Pike, North Yorkshire. The memorial was dedicated on 8 August 1973.",
-      "key_details": [
-        "IWM reference: memorial/30083"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Peak District Air Crashes",
-      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-n2848-starbotton-fell/",
-      "summary": "Detailed crash site analysis documenting Wellington N2848 of 18 OTU from RAF Bramcote. The crew strayed east of their intended route and the aircraft clipped a dry-stone wall on Starbotton Fell. The memorial cross incorporates duralumin fragments from the Wellington's geodetic framework concreted into its base.",
-      "key_details": [
-        "Aircraft clipped dry-stone wall on Starbotton Fell",
-        "Duralumin from geodetic framework incorporated into memorial base"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Wikipedia",
-      "original_url": "https://en.wikipedia.org/wiki/Buckden_Pike",
-      "summary": "Wikipedia's entry on Buckden Pike documents the 1942 Wellington crash and the memorial cross erected by survivor Jozef Fusniak. The article notes the fox tracks legend and the memorial's significance as a popular walking destination.",
-      "key_details": [
-        "Memorial is a well-known landmark on Buckden Pike summit"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Skipton Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
-  "squadron_motto": "With courage and faith",
-  "what3words": "pigtails.housework.dumpling",
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

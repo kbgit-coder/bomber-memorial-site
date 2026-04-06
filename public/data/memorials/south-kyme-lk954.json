@@ -1,141 +1,146 @@
 {
-  "id": "south-kyme-lk954",
-  "title": "South Kyme Halifax Memorial",
-  "location_name": "South Kyme, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-025",
-  "crash_date": "1943-11-04",
-  "aircraft_type": "Halifax",
-  "serial_number": "LK954",
-  "squadron": "428 (RCAF) Sqdn.",
-  "station": "Middleton St. George",
-  "crew_summary": "8 killed including pilot Flg Off. Robert George Eaton",
-  "memorial_type": "Memorial plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "south-kyme-lk954",
+    "title": "South Kyme Halifax Memorial",
+    "location_name": "South Kyme, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-025",
+    "crash_date": "1943-11-04",
+    "aircraft_type": "Halifax",
+    "serial_number": "LK954",
+    "squadron": "428 (RCAF) Sqdn.",
+    "station": "Middleton St. George",
+    "crew_summary": "8 killed including pilot Flg Off. Robert George Eaton",
+    "memorial_type": "Memorial plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.0304,
+    "longitude": -0.252,
+    "maintainer": {
+        "organisation": "South Kyme Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "South Kyme Parish Council",
+            "original_url": "https://south-kyme.parish.lincolnshire.gov.uk/news/article/39/memorial-service-at-sk-golf-club-to-remember-halifax-bomber-crew",
+            "summary": "Parish council announcement of memorial service at South Kyme Golf Club to remember the Halifax bomber crew. The crash site is adjacent to what is now the golf club, which built a memorial near the clubhouse.",
+            "key_details": [
+                "Crash site adjacent to South Kyme Golf Club",
+                "Memorial built near golf club clubhouse",
+                "Regular memorial services held"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "WW2 History (ww2history.eu)",
+            "original_url": "https://ww2history.eu/air-force-operations/airplanes-allies-and-axis-lost/halifax/18828-LK9541943-11-04",
+            "summary": "Database entry for Halifax V LK954 NA-E lost on a mission to Dusseldorf on 4 November 1943. The bomb door fell off, removing a large part of the tailplane, and the aircraft crashed due to the resulting structural damage.",
+            "key_details": [
+                "Halifax V variant",
+                "Aircraft code NA-E",
+                "Bomb door fell off removing tailplane section",
+                "Mission target: Dusseldorf"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/92485",
+            "summary": "IWM War Memorials Register entry for Halifax LK954 NA-E memorial. National-level memorial registration for the 428 (Ghost) Squadron RCAF aircraft.",
+            "key_details": [
+                "IWM memorial reference 92485",
+                "428 (Ghost) Squadron RCAF"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums (2019 memorial)",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/100041",
+            "summary": "IWM entry for a newer 2019 memorial to the crew of Halifax LK954, located approximately 1 kilometre northeast of the older memorial. Shows ongoing community commitment to remembrance.",
+            "key_details": [
+                "Second memorial added 2019",
+                "Located 1km NE of original memorial",
+                "IWM reference 100041"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264873/",
+            "summary": "War Memorials Online listing for the crew of 428 (RCAF) Squadron Halifax LK954 NA-E memorial. Notes that P/O A.E. McKenzie was one of the youngest Canadians killed on Bomber Command operations at just 18 years of age.",
+            "key_details": [
+                "P/O A.E. McKenzie was only 18 years old",
+                "One of youngest Canadians killed on Bomber Command ops"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bombercrew.com Forum",
+            "original_url": "https://100548.activeboard.com/t32144141/halifax-bomber-lk954-na-e-of-428-ghost-squadron/?page=1",
+            "summary": "Forum discussion with detailed crew research for Halifax LK954 of 428 Ghost Squadron RCAF. Community researchers have compiled additional biographical details of the Canadian crew members.",
+            "key_details": [
+                "428 (Ghost) Squadron nickname",
+                "Community-sourced crew research"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Sleaford & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "South Kyme Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "pizzas.bordering.tiptoes",
+    "photos": [
+        {
+            "filename": "south-kyme-lk954/5d257344c29b2_LI_South_Kyme_1_547x410.JPG",
+            "caption": "5d257344c29b2 LI South Kyme 1 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "south-kyme-lk954/5d257345c345f_LI_South_Kyme_2_547x410.JPG",
+            "caption": "5d257345c345f LI South Kyme 2 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "south-kyme-lk954/5d257346a4b4f_LI_South_Kyme_3_547x410.JPG",
+            "caption": "5d257346a4b4f LI South Kyme 3 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — South Kyme North Kesteven LN4 at 53.030 -0.252",
+            "Current 53.238 -0.394 ~23km north/10km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.238, -0.394) ~23km north and ~10km west. South Kyme LN4 near Billinghay at 53.030, -0.252.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.23811974001591,
-  "longitude": -0.393895089355592,
-  "maintainer": {
-    "organisation": "South Kyme Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "South Kyme Parish Council",
-      "original_url": "https://south-kyme.parish.lincolnshire.gov.uk/news/article/39/memorial-service-at-sk-golf-club-to-remember-halifax-bomber-crew",
-      "summary": "Parish council announcement of memorial service at South Kyme Golf Club to remember the Halifax bomber crew. The crash site is adjacent to what is now the golf club, which built a memorial near the clubhouse.",
-      "key_details": [
-        "Crash site adjacent to South Kyme Golf Club",
-        "Memorial built near golf club clubhouse",
-        "Regular memorial services held"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "WW2 History (ww2history.eu)",
-      "original_url": "https://ww2history.eu/air-force-operations/airplanes-allies-and-axis-lost/halifax/18828-LK9541943-11-04",
-      "summary": "Database entry for Halifax V LK954 NA-E lost on a mission to Dusseldorf on 4 November 1943. The bomb door fell off, removing a large part of the tailplane, and the aircraft crashed due to the resulting structural damage.",
-      "key_details": [
-        "Halifax V variant",
-        "Aircraft code NA-E",
-        "Bomb door fell off removing tailplane section",
-        "Mission target: Dusseldorf"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Imperial War Museums",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/92485",
-      "summary": "IWM War Memorials Register entry for Halifax LK954 NA-E memorial. National-level memorial registration for the 428 (Ghost) Squadron RCAF aircraft.",
-      "key_details": [
-        "IWM memorial reference 92485",
-        "428 (Ghost) Squadron RCAF"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Imperial War Museums (2019 memorial)",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/100041",
-      "summary": "IWM entry for a newer 2019 memorial to the crew of Halifax LK954, located approximately 1 kilometre northeast of the older memorial. Shows ongoing community commitment to remembrance.",
-      "key_details": [
-        "Second memorial added 2019",
-        "Located 1km NE of original memorial",
-        "IWM reference 100041"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264873/",
-      "summary": "War Memorials Online listing for the crew of 428 (RCAF) Squadron Halifax LK954 NA-E memorial. Notes that P/O A.E. McKenzie was one of the youngest Canadians killed on Bomber Command operations at just 18 years of age.",
-      "key_details": [
-        "P/O A.E. McKenzie was only 18 years old",
-        "One of youngest Canadians killed on Bomber Command ops"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Bombercrew.com Forum",
-      "original_url": "https://100548.activeboard.com/t32144141/halifax-bomber-lk954-na-e-of-428-ghost-squadron/?page=1",
-      "summary": "Forum discussion with detailed crew research for Halifax LK954 of 428 Ghost Squadron RCAF. Community researchers have compiled additional biographical details of the Canadian crew members.",
-      "key_details": [
-        "428 (Ghost) Squadron nickname",
-        "Community-sourced crew research"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Sleaford & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "South Kyme Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "pizzas.bordering.tiptoes",
-  "photos": [
-    {
-      "filename": "south-kyme-lk954/5d257344c29b2_LI_South_Kyme_1_547x410.JPG",
-      "caption": "5d257344c29b2 LI South Kyme 1 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "south-kyme-lk954/5d257345c345f_LI_South_Kyme_2_547x410.JPG",
-      "caption": "5d257345c345f LI South Kyme 2 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "south-kyme-lk954/5d257346a4b4f_LI_South_Kyme_3_547x410.JPG",
-      "caption": "5d257346a4b4f LI South Kyme 3 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

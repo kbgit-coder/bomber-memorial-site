@@ -1,250 +1,256 @@
 {
-  "id": "mundford-mk773",
-  "title": "Mundford Lancaster Memorial",
-  "location_name": "Mundford, Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-016",
-  "crash_date": "1945-03-22",
-  "aircraft_type": "Lancaster",
-  "serial_number": "HK773",
-  "squadron": "15 Squadron",
-  "station": "Mildenhall",
-  "crew_summary": "7 killed including pilot W/O Frederick Newton (RAAF)",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
+    "id": "mundford-mk773",
+    "title": "Mundford Lancaster Memorial",
+    "location_name": "Mundford, Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-016",
+    "crash_date": "1945-03-22",
+    "aircraft_type": "Lancaster",
+    "serial_number": "HK773",
+    "squadron": "15 Squadron",
+    "station": "Mildenhall",
+    "crew_summary": "7 killed including pilot W/O Frederick Newton (RAAF)",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        },
+        {
+            "title": "War Memorials Online - Memorial 193683",
+            "type": "website",
+            "url": "https://www.warmemorialsonline.org.uk/memorial/193683"
+        },
+        {
+            "title": "IWM Memorial 99108",
+            "type": "website",
+            "url": "https://www.iwm.org.uk/memorials/item/memorial/99108"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On 22 March 1945, with the war in Europe entering its final weeks, Lancaster HK773 of 15 Squadron taxied out at RAF Mildenhall in Suffolk for what should have been a routine departure for operations. Moments after becoming airborne at 11:00 hours, a fire erupted in the port outer engine. The pilot, Warrant Officer Newton of the Royal Australian Air Force, found himself in an impossible situation -- his aircraft was too low and too slow to bail the crew out, and too heavily laden with fuel and ordnance to maintain flight on three engines. Newton attempted an emergency crash landing in Thetford Forest, just across the county border in Norfolk near the village of Mundford. The Lancaster struck the trees and ploughed into the forest floor. On impact, the 4,000 lb \"Blockbuster\" high-capacity bomb in the bomb bay detonated, creating an enormous crater and killing all seven crew members instantly. The violence of the explosion was such that fragments of the aircraft are still being found in the surrounding forest today.",
+    "crew": [
+        {
+            "rank": "W/O",
+            "name": "Frederick Newton",
+            "service_number": "RAAF",
+            "age": 24,
+            "role": "Pilot",
+            "nationality": "Australian",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly when the 4,000 lb Blockbuster bomb detonated on impact after he attempted an emergency landing in Thetford Forest.",
+            "cwgc_verified": true,
+            "bio": "Australian pilot serving with the RAAF, aged 24. Attempted to save his crew by crash-landing in the forest after an engine fire on take-off.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Cecil Church",
+            "service_number": "RAFVR",
+            "age": 19,
+            "role": "Navigator",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation. At 19, the youngest crew member.",
+            "cwgc_verified": true,
+            "bio": "Navigator serving with the RAFVR, just 19 years old -- the youngest of the crew.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "George Cope",
+            "service_number": "RAFVR",
+            "age": 21,
+            "role": "Wireless Operator",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation.",
+            "cwgc_verified": true,
+            "bio": "Wireless operator serving with the RAFVR, aged 21.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Martin Matthews",
+            "service_number": "RAFVR",
+            "age": 22,
+            "role": "Bomb Aimer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation.",
+            "cwgc_verified": true,
+            "bio": "Bomb aimer serving with the RAFVR, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Peter Cooley",
+            "service_number": "RAFVR",
+            "age": 20,
+            "role": "Mid-Upper Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation.",
+            "cwgc_verified": true,
+            "bio": "Mid-upper gunner serving with the RAFVR, aged 20.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Tom Jenkins",
+            "service_number": "RAFVR",
+            "age": 36,
+            "role": "Tail Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation. At 36, the oldest crew member by a considerable margin.",
+            "cwgc_verified": true,
+            "bio": "Tail gunner serving with the RAFVR, aged 36 -- the oldest crew member by far, more than twice the age of the youngest.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "William Dee",
+            "service_number": "RAFVR",
+            "age": 20,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash and bomb detonation.",
+            "cwgc_verified": true,
+            "bio": "Flight engineer serving with the RAFVR, aged 20.",
+            "decorations": []
+        }
+    ],
+    "cause_of_loss": "Fire in port outer engine shortly after take-off; pilot attempted emergency crash landing; 4,000 lb \"Blockbuster\" bomb detonated on impact",
+    "operation_type": "Taking off for operations",
+    "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial garden with granite stone, eight crosses, Lancaster imagery, RAF roundel, Australian and UK flags; surrounded by recovered aircraft fragments | | Location | Crash site in Thetford Forest, near Mundford, Norfolk | | Original dedication | 1999 (following 1998 site investigation) | | Updated | March 2020 -- new memorial garden with concrete base, original plaque relocated | | Organised by | Mundford village volunteers, with Forestry Commission cooperation | | Condition | Well-maintained; active site with continuing finds | | Access | Within Thetford Forest; crater still visible | | WMO Reference | 193683 |",
+    "latitude": 52.51289038162398,
+    "longitude": 0.6539901257060002,
+    "maintainer": {
+        "organisation": "Mundford Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "War Memorials Online - Memorial 193683",
-      "type": "website",
-      "url": "https://www.warmemorialsonline.org.uk/memorial/193683"
-    },
-    {
-      "title": "IWM Memorial 99108",
-      "type": "website",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/99108"
+    "external_narratives": [
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/193683",
+            "summary": "WMO entry for the Lancaster HK773 memorial at Mundford. The memorial garden includes a granite stone, eight crosses, Lancaster imagery, and recovered aircraft fragments. Originally dedicated in 1999 following a 1998 site investigation, updated in March 2020.",
+            "key_details": [
+                "WMO reference 193683",
+                "Original dedication 1999",
+                "Updated memorial garden March 2020",
+                "Crater still visible at site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99108",
+            "summary": "IWM War Memorials Register entry for the Avro Lancaster HK773 memorial near Mundford, Norfolk.",
+            "key_details": [
+                "IWM memorial reference 99108",
+                "Serial confirmed as HK773"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/21040/Memorial-Crash-Lancaster.htm",
+            "summary": "International heritage database entry for the Lancaster crash memorial at Mundford.",
+            "key_details": [
+                "Documented on international war heritage database"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Thetford & Brandon Times",
+            "original_url": "https://www.thetfordandbrandontimes.co.uk/news/21847427.memorial-bomber-crew-dedicated/",
+            "summary": "Local press coverage of the memorial dedication for the crew of Lancaster HK773 at Mundford.",
+            "key_details": [
+                "Local press coverage of dedication",
+                "Community-led maintenance effort"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Thetford Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Mundford Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/15.jpg",
+    "squadron_motto": "Aim sure",
+    "what3words": "taps.bottled.meaty",
+    "photos": [
+        {
+            "filename": "mundford-mk773/MundfordForest.Lanc_.1_547x410.JPG",
+            "caption": "MundfordForest.Lanc .1 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/MundfordForest.Lanc_.2_547x410.JPG",
+            "caption": "MundfordForest.Lanc .2 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/MundfordForest.Lanc_.3_547x410.JPG",
+            "caption": "MundfordForest.Lanc .3 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/MundfordForest.Lanc_.4_547x410.JPG",
+            "caption": "MundfordForest.Lanc .4 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/5e73756ecd6ab_The_new_plinth_547x410.jpg",
+            "caption": "5e73756ecd6ab The new plinth 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/5e73756f1f1c6_The_New_plinth_2_547x410.jpg",
+            "caption": "5e73756f1f1c6 The New plinth 2 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/5e73756f5bf13_Close_up_of_new_plinth_547x410.jpg",
+            "caption": "5e73756f5bf13 Close up of new plinth 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        },
+        {
+            "filename": "mundford-mk773/5e737865d1417_Access_to_site_547x410.png",
+            "caption": "5e737865d1417 Access to site 547x410",
+            "credit": "Nick2 / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Mundford Breckland IP26 at 52.513 +0.654",
+            "Photon confirms at 52.509 +0.657",
+            "Current 52.550 0.874 ~18km east of actual village"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.550, 0.874) ~18km east of Mundford. Village in Breckland Norfolk IP26 at 52.513, 0.654.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On 22 March 1945, with the war in Europe entering its final weeks, Lancaster HK773 of 15 Squadron taxied out at RAF Mildenhall in Suffolk for what should have been a routine departure for operations. Moments after becoming airborne at 11:00 hours, a fire erupted in the port outer engine. The pilot, Warrant Officer Newton of the Royal Australian Air Force, found himself in an impossible situation -- his aircraft was too low and too slow to bail the crew out, and too heavily laden with fuel and ordnance to maintain flight on three engines. Newton attempted an emergency crash landing in Thetford Forest, just across the county border in Norfolk near the village of Mundford. The Lancaster struck the trees and ploughed into the forest floor. On impact, the 4,000 lb \"Blockbuster\" high-capacity bomb in the bomb bay detonated, creating an enormous crater and killing all seven crew members instantly. The violence of the explosion was such that fragments of the aircraft are still being found in the surrounding forest today.",
-  "crew": [
-    {
-      "rank": "W/O",
-      "name": "Frederick Newton",
-      "service_number": "RAAF",
-      "age": 24,
-      "role": "Pilot",
-      "nationality": "Australian",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly when the 4,000 lb Blockbuster bomb detonated on impact after he attempted an emergency landing in Thetford Forest.",
-      "cwgc_verified": true,
-      "bio": "Australian pilot serving with the RAAF, aged 24. Attempted to save his crew by crash-landing in the forest after an engine fire on take-off.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Cecil Church",
-      "service_number": "RAFVR",
-      "age": 19,
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation. At 19, the youngest crew member.",
-      "cwgc_verified": true,
-      "bio": "Navigator serving with the RAFVR, just 19 years old -- the youngest of the crew.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "George Cope",
-      "service_number": "RAFVR",
-      "age": 21,
-      "role": "Wireless Operator",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation.",
-      "cwgc_verified": true,
-      "bio": "Wireless operator serving with the RAFVR, aged 21.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Martin Matthews",
-      "service_number": "RAFVR",
-      "age": 22,
-      "role": "Bomb Aimer",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation.",
-      "cwgc_verified": true,
-      "bio": "Bomb aimer serving with the RAFVR, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Peter Cooley",
-      "service_number": "RAFVR",
-      "age": 20,
-      "role": "Mid-Upper Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation.",
-      "cwgc_verified": true,
-      "bio": "Mid-upper gunner serving with the RAFVR, aged 20.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Tom Jenkins",
-      "service_number": "RAFVR",
-      "age": 36,
-      "role": "Tail Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation. At 36, the oldest crew member by a considerable margin.",
-      "cwgc_verified": true,
-      "bio": "Tail gunner serving with the RAFVR, aged 36 -- the oldest crew member by far, more than twice the age of the youngest.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "William Dee",
-      "service_number": "RAFVR",
-      "age": 20,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash and bomb detonation.",
-      "cwgc_verified": true,
-      "bio": "Flight engineer serving with the RAFVR, aged 20.",
-      "decorations": []
-    }
-  ],
-  "cause_of_loss": "Fire in port outer engine shortly after take-off; pilot attempted emergency crash landing; 4,000 lb \"Blockbuster\" bomb detonated on impact",
-  "operation_type": "Taking off for operations",
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial garden with granite stone, eight crosses, Lancaster imagery, RAF roundel, Australian and UK flags; surrounded by recovered aircraft fragments | | Location | Crash site in Thetford Forest, near Mundford, Norfolk | | Original dedication | 1999 (following 1998 site investigation) | | Updated | March 2020 -- new memorial garden with concrete base, original plaque relocated | | Organised by | Mundford village volunteers, with Forestry Commission cooperation | | Condition | Well-maintained; active site with continuing finds | | Access | Within Thetford Forest; crater still visible | | WMO Reference | 193683 |",
-  "latitude": 52.550195786223696,
-  "longitude": 0.8736728358215599,
-  "maintainer": {
-    "organisation": "Mundford Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/193683",
-      "summary": "WMO entry for the Lancaster HK773 memorial at Mundford. The memorial garden includes a granite stone, eight crosses, Lancaster imagery, and recovered aircraft fragments. Originally dedicated in 1999 following a 1998 site investigation, updated in March 2020.",
-      "key_details": [
-        "WMO reference 193683",
-        "Original dedication 1999",
-        "Updated memorial garden March 2020",
-        "Crater still visible at site"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Imperial War Museums",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99108",
-      "summary": "IWM War Memorials Register entry for the Avro Lancaster HK773 memorial near Mundford, Norfolk.",
-      "key_details": [
-        "IWM memorial reference 99108",
-        "Serial confirmed as HK773"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/21040/Memorial-Crash-Lancaster.htm",
-      "summary": "International heritage database entry for the Lancaster crash memorial at Mundford.",
-      "key_details": [
-        "Documented on international war heritage database"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Thetford & Brandon Times",
-      "original_url": "https://www.thetfordandbrandontimes.co.uk/news/21847427.memorial-bomber-crew-dedicated/",
-      "summary": "Local press coverage of the memorial dedication for the crew of Lancaster HK773 at Mundford.",
-      "key_details": [
-        "Local press coverage of dedication",
-        "Community-led maintenance effort"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Thetford Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Mundford Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/15.jpg",
-  "squadron_motto": "Aim sure",
-  "what3words": "taps.bottled.meaty",
-  "photos": [
-    {
-      "filename": "mundford-mk773/MundfordForest.Lanc_.1_547x410.JPG",
-      "caption": "MundfordForest.Lanc .1 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/MundfordForest.Lanc_.2_547x410.JPG",
-      "caption": "MundfordForest.Lanc .2 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/MundfordForest.Lanc_.3_547x410.JPG",
-      "caption": "MundfordForest.Lanc .3 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/MundfordForest.Lanc_.4_547x410.JPG",
-      "caption": "MundfordForest.Lanc .4 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/5e73756ecd6ab_The_new_plinth_547x410.jpg",
-      "caption": "5e73756ecd6ab The new plinth 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/5e73756f1f1c6_The_New_plinth_2_547x410.jpg",
-      "caption": "5e73756f1f1c6 The New plinth 2 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/5e73756f5bf13_Close_up_of_new_plinth_547x410.jpg",
-      "caption": "5e73756f5bf13 Close up of new plinth 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    },
-    {
-      "filename": "mundford-mk773/5e737865d1417_Access_to_site_547x410.png",
-      "caption": "5e737865d1417 Access to site 547x410",
-      "credit": "Nick2 / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

@@ -1,75 +1,81 @@
 {
-  "id": "carleton-rode-1-b-24-44-10513-old-gl",
-  "title": "Carleton Rode (1) Glory\" Memorial",
-  "location_name": "Carleton Rode (1), Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-008",
-  "crash_date": "1944-11-21",
-  "aircraft_type": "B-24 44-10513 \"Old Glory\"",
-  "squadron": "389th BG",
-  "station": "Hethel (USAAF)",
-  "crew_summary": "9 killed including 1Lt. James E. Rhine",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.67980142685177,
-  "longitude": 0.8962840417891424,
-  "maintainer": {
-    "organisation": "Carleton Rode Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "American Air Museum",
-      "original_url": "https://www.americanairmuseum.com/archive/aircraft/44-10513",
-      "summary": "The American Air Museum records B-24J 44-10513 'Old Glory' of the 565th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft was destroyed in a mid-air collision with 42-50452 'Earthquake McGoon' during formation assembly on 21 November 1944, while preparing for a mission to bomb oil plants at Hamburg.",
-      "key_details": [
-        "565th Bomb Squadron, 389th Bomb Group",
-        "Mid-air collision during formation assembly",
-        "Target was oil plants at Hamburg",
-        "Pilot: 1Lt James E. Rhine"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "crew": [
-    {
-      "name": "James Edward Rhine",
-      "rank": "1Lt",
-      "role": "Pilot",
-      "nationality": "American",
-      "fate": "Killed"
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Attleborough Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    "id": "carleton-rode-1-b-24-44-10513-old-gl",
+    "title": "Carleton Rode (1) Glory\" Memorial",
+    "location_name": "Carleton Rode (1), Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-008",
+    "crash_date": "1944-11-21",
+    "aircraft_type": "B-24 44-10513 \"Old Glory\"",
+    "squadron": "389th BG",
+    "station": "Hethel (USAAF)",
+    "crew_summary": "9 killed including 1Lt. James E. Rhine",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.4913,
+    "longitude": 1.1114,
+    "maintainer": {
+        "organisation": "Carleton Rode Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "org_name": "Carleton Rode Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
+    "external_narratives": [
+        {
+            "source_site": "American Air Museum",
+            "original_url": "https://www.americanairmuseum.com/archive/aircraft/44-10513",
+            "summary": "The American Air Museum records B-24J 44-10513 'Old Glory' of the 565th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft was destroyed in a mid-air collision with 42-50452 'Earthquake McGoon' during formation assembly on 21 November 1944, while preparing for a mission to bomb oil plants at Hamburg.",
+            "key_details": [
+                "565th Bomb Squadron, 389th Bomb Group",
+                "Mid-air collision during formation assembly",
+                "Target was oil plants at Hamburg",
+                "Pilot: 1Lt James E. Rhine"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "crew": [
+        {
+            "name": "James Edward Rhine",
+            "rank": "1Lt",
+            "role": "Pilot",
+            "nationality": "American",
+            "fate": "Killed"
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Attleborough Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Carleton Rode Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "limbs.payout.cosmic",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon geocoder — Carleton Rode village NR16 1RL at 52.4913, 1.1114",
+            "OSM Overpass — node 52.4912865 1.1113791 (identical)",
+            "389thbg.com — confirmed 44-10513 Old Glory lost 21-Nov-44 MID collision"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (52.680, 0.896) ~22km too far NW near Swaffham/Litcham. Both geocoders agree Carleton Rode village is at 52.491, 1.111. 44-10513 and 42-50452 collided 21-Nov-44 — both should share similar coords near village. Village centroid used; exact field needs primary sources.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "what3words": "limbs.payout.cosmic",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

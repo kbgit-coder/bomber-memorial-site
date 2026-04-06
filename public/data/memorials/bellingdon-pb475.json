@@ -1,91 +1,96 @@
 {
-  "id": "bellingdon-pb475",
-  "title": "Bellingdon Lancaster Memorial",
-  "location_name": "Bellingdon, Chilterns, Buckinghamshire",
-  "county": "Buckinghamshire",
-  "country": "United Kingdom",
-  "region_code": "SE-002",
-  "crash_date": "WW2",
-  "aircraft_type": "Lancaster",
-  "serial_number": "PB475",
-  "squadron": "Bomber Command",
-  "crew_summary": "Crew killed at Bloomfield Farm",
-  "memorial_type": "Blue circular plaque with central illustration of Lancaster in flight, set into large stone",
-  "sources": [
-    {
-      "title": "IWM (memorial/63847)",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 51.649169570694006,
-  "longitude": -0.7821848704855314,
-  "maintainer": {
-    "organisation": "Chartridge Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63847",
-      "summary": "IWM records the Lancaster PB475 memorial at Bellingdon, Buckinghamshire, noting the stone and plaque memorial dedicated to the crew who died at Bloomfield Farm.",
-      "key_details": [
-        "IWM memorial reference 63847",
-        "Located at Bloomfield Farm, Bellingdon"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "bellingdon-pb475",
+    "title": "Bellingdon Lancaster Memorial",
+    "location_name": "Bellingdon, Chilterns, Buckinghamshire",
+    "county": "Buckinghamshire",
+    "country": "United Kingdom",
+    "region_code": "SE-002",
+    "crash_date": "WW2",
+    "aircraft_type": "Lancaster",
+    "serial_number": "PB475",
+    "squadron": "Bomber Command",
+    "crew_summary": "Crew killed at Bloomfield Farm",
+    "memorial_type": "Blue circular plaque with central illustration of Lancaster in flight, set into large stone",
+    "sources": [
+        {
+            "title": "IWM (memorial/63847)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 51.7369,
+    "longitude": -0.6445,
+    "maintainer": {
+        "organisation": "Chartridge Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://asn.flightsafety.org/wikibase/159300",
-      "summary": "ASN records Lancaster PB475 crashed on 6 March 1945 at 01:00 hours near Bellingdon, Buckinghamshire. The aircraft departed RAF Little Staughton at 17:33 for a bombing raid on Chemnitz. A hung-up target indicator ignited in the bomb bay during the return flight.",
-      "key_details": [
-        "Departed RAF Little Staughton at 17:33",
-        "Target: Chemnitz",
-        "Hung-up target indicator ignited in bomb bay",
-        "Crashed 01:00 on 6 March 1945",
-        "Six of seven crew killed",
-        "Tail gunner Bill Heart survived"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "RAF Halton - Mainpoint Online",
-      "original_url": "http://www.mainpointonline.co.uk/crashed-lancaster/",
-      "summary": "Article documenting the PB475 crash at Bloomfield Farm, noting the aircraft was just 10 minutes from landing when the target indicator ignited. The stone and plaque memorial was dedicated on 13 May 2012.",
-      "key_details": [
-        "Only 10 minutes from landing",
-        "Memorial dedicated 13 May 2012",
-        "Crew included Barnett, Ross Denbigh, Gould, Hemsworth, Ralph, and Torr"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63847",
+            "summary": "IWM records the Lancaster PB475 memorial at Bellingdon, Buckinghamshire, noting the stone and plaque memorial dedicated to the crew who died at Bloomfield Farm.",
+            "key_details": [
+                "IWM memorial reference 63847",
+                "Located at Bloomfield Farm, Bellingdon"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://asn.flightsafety.org/wikibase/159300",
+            "summary": "ASN records Lancaster PB475 crashed on 6 March 1945 at 01:00 hours near Bellingdon, Buckinghamshire. The aircraft departed RAF Little Staughton at 17:33 for a bombing raid on Chemnitz. A hung-up target indicator ignited in the bomb bay during the return flight.",
+            "key_details": [
+                "Departed RAF Little Staughton at 17:33",
+                "Target: Chemnitz",
+                "Hung-up target indicator ignited in bomb bay",
+                "Crashed 01:00 on 6 March 1945",
+                "Six of seven crew killed",
+                "Tail gunner Bill Heart survived"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Halton - Mainpoint Online",
+            "original_url": "http://www.mainpointonline.co.uk/crashed-lancaster/",
+            "summary": "Article documenting the PB475 crash at Bloomfield Farm, noting the aircraft was just 10 minutes from landing when the target indicator ignited. The stone and plaque memorial was dedicated on 13 May 2012.",
+            "key_details": [
+                "Only 10 minutes from landing",
+                "Memorial dedicated 13 May 2012",
+                "Crew included Barnett, Ross Denbigh, Gould, Hemsworth, Ralph, and Torr"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Aylesbury Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/buckinghamshire/"
+        },
+        {
+            "org_name": "Chartridge Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "carbon.flight.cube",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "IWM War Memorials Register ref 63847 — OS Grid SP 93606 05127",
+            "Postcode HP5 2UT centroid — 51.7423, -0.6476 (consistent)"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "SEVERE ERROR. Current coords (51.6492, -0.7822) are 12km SW of actual location — likely data entry error. Crash site memorial at Bloomfield Farm, Bellingdon HP5 2UT. Stone with blue circular plaque featuring Lancaster illustration. Dedicated 13 May 2012 by survivors' families. Aircraft was 582 Squadron, Little Staughton (current record says 'Bomber Command' only — squadron should be updated). Crashed 0100hrs 6 March 1945 returning from Chemnitz. 6 of 7 crew killed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Aylesbury Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/buckinghamshire/"
-    },
-    {
-      "org_name": "Chartridge Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "carbon.flight.cube",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

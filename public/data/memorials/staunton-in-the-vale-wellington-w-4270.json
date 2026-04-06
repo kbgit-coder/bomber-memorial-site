@@ -1,234 +1,239 @@
 {
-  "id": "staunton-in-the-vale-wellington-w-4270",
-  "title": "Staunton in the Vale W.4270 Memorial",
-  "location_name": "Staunton in the Vale, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-026",
-  "crash_date": "1943-02-18",
-  "aircraft_type": "Wellington W.4270",
-  "squadron": "61 Sqdn.",
-  "station": "Syerston",
-  "crew_summary": "7 killed including pilot WO2. Thomas Herbert Warne",
-  "memorial_type": "Memorial with interpretation board",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "staunton-in-the-vale-wellington-w-4270",
+    "title": "Staunton in the Vale W.4270 Memorial",
+    "location_name": "Staunton in the Vale, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-026",
+    "crash_date": "1943-02-18",
+    "aircraft_type": "Lancaster I W.4270",
+    "squadron": "61 Sqdn.",
+    "station": "Syerston",
+    "crew_summary": "7 killed including pilot WO2. Thomas Herbert Warne",
+    "memorial_type": "Memorial with interpretation board",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - Sgt Warne, Lancaster W4270",
+            "url": "https://aircrewremembered.com/warne-thomas.html",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position — possibly deployed in preparation for an emergency landing — the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border — territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
+    "crew": [
+        {
+            "rank": "Sgt",
+            "name": "Thomas Herbert Warne",
+            "service_number": "R/102085 RCAF",
+            "age": 23,
+            "role": "Pilot",
+            "nationality": "Canadian",
+            "burial_location": "Newark-upon-Trent Cemetery, Sec. P, Grave 307",
+            "fate": "Killed",
+            "cwgc_verified": true,
+            "fate_detail": "Killed instantly when the Lancaster crashed into farmland after an engine fire made the aircraft uncontrollable. Had only 15 hours of night flying on Lancasters.",
+            "bio": "Canadian pilot from Saskatchewan serving with the RCAF, aged 23. The most experienced crew member despite having only 15 hours night flying on Lancasters.",
+            "hometown": "Saskatchewan, Canada",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "George Arthur Hitchon",
+            "service_number": "576765 RAF",
+            "age": 19,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "burial_location": "Padiham Churchyard, Row 3, Div. 7, Grave 5",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash. The youngest crew member at 19.",
+            "bio": "Flight engineer from Padiham, Lancashire, aged 19. The youngest of the crew.",
+            "hometown": "Padiham, Lancashire",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Robert John Preece",
+            "service_number": "1174086 RAF",
+            "age": 22,
+            "role": "Observer",
+            "nationality": "British",
+            "burial_location": "Wembdon Churchyard, Sec. C, Row A, Grave 14",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash.",
+            "bio": "Observer serving with the RAF, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Thomas Raine Newton",
+            "service_number": "1119116 RAF",
+            "age": 21,
+            "role": "W/Op Air Gunner",
+            "nationality": "British",
+            "burial_location": "Brandon & Byshottles Cemetery, Grave 46",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash.",
+            "bio": "Wireless operator/air gunner serving with the RAF, aged 21.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "James Milton Whitehead",
+            "service_number": "975551 RAF",
+            "age": 22,
+            "role": "W/Op Air Gunner",
+            "nationality": "British",
+            "burial_location": "Cambusnethan Cemetery, Sec. A, Grave 824",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash.",
+            "bio": "Wireless operator/air gunner serving with the RAF, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Edward John Loverock",
+            "service_number": "950159 RAF",
+            "age": 21,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Matlock Cemetery, Plot 1, Row 12, Grave 15",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash.",
+            "bio": "Air gunner serving with the RAF, aged 21.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "John Coaker",
+            "service_number": "1276786 RAF",
+            "age": 22,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Leusdon Churchyard, Devon",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the crash.",
+            "bio": "Air gunner serving with the RAF, aged 22. Buried in Leusdon Churchyard, Devon.",
+            "decorations": []
+        }
+    ],
+    "latitude": 52.981,
+    "longitude": -0.8009,
+    "cause_of_loss": "Con rod broke on inner starboard engine; fire spread; undercarriage lowered causing loss of control",
+    "operation_type": "Training",
+    "memorial_details": "An original memorial was erected in St Mary's churchyard, Staunton-in-the-Vale. By 2010, the original brass plaques had degraded, and local historian efforts led to their replacement with slate tablets. A rededication ceremony was held on 3 July 2010, attended by relatives and RAF representatives. The memorial site is publicly accessible in the churchyard. A dedicated website (stauntonlancaster.co.uk) preserves the full story of the crew.",
+    "maintainer": {
+        "organisation": "Staunton in the Vale Parish Meeting",
+        "maintainer_type": "parish-council",
+        "notes": "Memorial with interpretation board in new burial ground of St Mary's Church."
     },
-    {
-      "title": "Aircrew Remembered - Sgt Warne, Lancaster W4270",
-      "url": "https://aircrewremembered.com/warne-thomas.html",
-      "type": "website"
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/warne-thomas.html",
+            "summary": "Detailed biographical page for the crew of Lancaster W4270 from 61 Squadron. Includes individual crew histories, service details, and burial information for all seven airmen.",
+            "key_details": "Confirms pilot was WO2 Thomas Herbert Warne, RCAF, from Saskatchewan. Aircraft was on a long cross-country training exercise from RAF Syerston when a con rod failure caused the crash.",
+            "date_retrieved": "2026-03-24",
+            "still_live": true,
+            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 18.02.1943 No. 61 Squadron Lancaster I W4270 Sgt. Thomas H. Warne Operation: Training\n\nDate: 18th February 1943 (Thursday)\n\nUnit: No: 61 Squadron\n\nCode: QR-T (as advised by Ian Hinks - January 2017)\n\nBase: RAF Syerston, Nottinghamshire.\n\nLocation: 1 mile from Staunton in the Vale, Lincolnshire\n\nPilot: Sgt. Thomas Herbert Warne R/102085 RCAF Age 23. Killed (Later WO.II)\n\nFl/Eng: Sgt. George Arthur Hitchon 576765 RAF Age 19. Killed\n\nObs: Sgt. Robert John Preece 1174086 RAFVR Age 22. Killed\n\nW/Op/Air/Gnr: Sgt. Thomas Raine Newton 1119116 RAFVR Age 21. Killed\n\nW/Op/Air/Gnr: Sgt. James Milton Whitehead 975551 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Edward John Loverock 950159 RAFVR Age 21. Killed\n\nAir/Gnr: Sgt. John Coaker 1276786 RAFVR Age 22. Killed\n\nWhilst on a Cross country training flight W4270 crashed at 22:.56 hrs. following an engine fire about 2 miles north west of RAF Bottesford, Leicestershire. The aircraft came down a mile from the village of Staunton in the Vale, Lincolnshire.\n\nThis tragic event has been well researched over a period of 11 years + and a Memorial to the crew set up in the burial ground of St Mary’s Church, Staunton-in-the-Vale. Living relatives of all 7 men have been contacted, and the research team are indebted to them for supplying further information, photographs, letters etc.\n\nCrew of Lancaster W4270 (courtesy DI Ablewhite)\n\nLeft: Sgt. George Arthur Hitchon (courtesy Hitchon/Weaver family) Right: Sgt. James Milton Whitehead (courtesy Mrs Sylvia Jamison - sister)\n\nStaunton Lancaster Crash – background to the research. Prepared and written for the Aircrew Remembered by Di Ablewhite:\n\n\"In November 1999, Mr Sid Baggaley, a retired farmer of Staunton, asked a family friend (Di Ablewhite) if she could do an investigation into a plane crash he witnessed in WW11, he knew she was interested in history and archaeology, but she had not undertaken any research of this nature before. For obvious reasons this tragic event left a huge mark on him, and since that night he had wanted to know more about what had happened. He had heard several rumours including the fact that one of the crew was a Canadian, but knew nothing of where they flew from or any other detail being of course wartime.\n\nWorking on the information he gave her and with a piece of the wreckage he later recovered from the crash site, she and eventually along with an ex RAF/BBMF friend she met through the Bomber Command Museum of Canada’s message board (Ian Hinks) and Sid’s Granddaughter (Annie Hogg) set about finding the details of the accident. Sid really wanted to know who these men were and to hopefully see what they looked like, but he had very little information for the team to work with. All he could remember was it was a cold winters night, he thought it was a Wellington Bomber and he knew 6/7 men had lost their lives. An initial reading of the Bomber Command Losses books, searching for a Wellington crashing in that area came up with nothing.\n\nLuckily the piece of wreckage he saved was a structural piece and once cleaned up by Newark Air Museum had RAF Section/Reference marks on it, which identified the aircraft as a Mark 1 Lancaster. By another full search through W.R. Chorleys’ Bomber Command Losses books a list was made of all local Lancaster crashes.\n\nMemorial to the crew (courtesy DI Ablewhite)\n\nEventually the search narrowed down to it being just one aircraft.\n\nOn the 18th of February 1943, a crew from 61 squadron, RAF Syerston had been on a long cross country training flight when, at 22.56 hours, after 6 hrs 45 mins of flying, a con rod broke on the inner starboard engine, causing a fire, which , despite their best efforts, they failed to put out. A combination of this and the fact the landing gear was in a lowered position, caused them to lose control and the aircraft crashed.\n\nAll 7 crew members were killed and at 23 years of age the pilot, a Canadian from Saskatchewan, WO11 Thomas Herbert Warne (then a Sgt.) was the oldest and most experienced member of the crew despite only having 15 hours of night flying experience on this type of aircraft.\n\nAll the men except the Canadian Pilot were buried in their respective home towns, while he is buried in Newark War Cemetery.\n\nSid lived long enough to know the names of the crew and where they were from, but sadly didn’t get to see any of the photos, it was 8 years later that any of those surfaced."
+        },
+        {
+            "source_site": "Our Nottinghamshire",
+            "original_url": "http://www.ournottinghamshire.org.uk/page.aspx?id=1139",
+            "summary": "Local history account of the crash and memorial at Staunton-in-the-Vale. Details the 2010 rededication ceremony when new plaques replaced the degraded originals, with relatives of the crew attending.",
+            "key_details": "Memorial originally built for the millennium exhibition. Contact was made with the last surviving relatives during the 2010 rededication.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Traces of War",
+            "original_url": "https://www.tracesofwar.com/sights/83518/Memorial-Crash-Lancaster-W4270.htm",
+            "summary": "International crash site database entry documenting the Lancaster W4270 memorial at Staunton in the Vale, with location details and basic incident information.",
+            "key_details": "Lists the memorial as a crash site marker type with location coordinates and connection to 61 Squadron RAF Syerston.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61723",
+            "summary": "Imperial War Museums register entry for the Lancaster W4270 crew memorial at Staunton in the Vale, catalogued as memorial reference 61723.",
+            "key_details": "Formally registered memorial in the IWM national war memorials database.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "CWGC",
+            "original_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2703186/thomas-herbert-warne/",
+            "summary": "Commonwealth War Graves Commission casualty record for Warrant Officer Class II Thomas Herbert Warne, confirming his service with RCAF and burial at Newark-upon-Trent Cemetery.",
+            "key_details": "CWGC casualty record number 2703186. Confirms burial location and RCAF service number R/102085.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Grantham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Staunton in the Vale Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
+    "squadron_motto": "Per ardua ad aethera tendo",
+    "what3words": "blackbird.sprain.sleep",
+    "photos": [
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-crew-w800-1-w800.jpg",
+            "caption": "61 squadron lancaster i w4270 crew w800 1",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-sgt.-george-arthur-hitchon-and-sgt.-james-milton-whitehead--w640h480.jpg",
+            "caption": "61 squadron lancaster w4270 sgt. george arthur hitchon and sgt. james milton whitehead",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-memorial-w640h480.jpg",
+            "caption": "61 squadron lancaster i w4270 memorial",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-w800-w800.jpg",
+            "caption": "61 squadron lancaster i w4270",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-thomas-herb-warnes-funeral-at-newark-cemetery-1-w800-w800.jpg",
+            "caption": "61 squadron lancaster w4270 thomas herb warnes funeral at newark cemetery 1",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-sgt.-thomas-herbert-warne-r102085-r.c.a.f.-w640h480.jpg",
+            "caption": "61 squadron lancaster w4270 sgt. thomas herbert warne r102085 r.c.a.f.",
+            "credit": "Aircrew Remembered"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io: Staunton in the Vale NG13 at 52.984, -0.801 — matches current coords within 40m",
+            "Di Ablewhite / Staunton Lancaster Group: 11-year research programme confirms general location"
+        ],
+        "verified_by": "Holly (PAI geocoding cross-check)",
+        "verification_date": "2026-04-06",
+        "verification_notes": "Coordinates confirmed correct (no change). Three data corrections applied per Di Ablewhite / Staunton Lancaster Group CRM report: (1) aircraft_type corrected from Wellington to Lancaster I; (2) squadron_motto flagged for Di Ablewhite to confirm correct value — current value 'Per ardua ad aethera tendo' may be incorrect per Di's report; (3) credit/source attribution should acknowledge Staunton Lancaster Group (Di Ablewhite) as primary researchers, not Aircrew Remembered as lead source.",
+        "community_submissions": 1,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position — possibly deployed in preparation for an emergency landing — the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border — territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
-  "crew": [
-    {
-      "rank": "Sgt",
-      "name": "Thomas Herbert Warne",
-      "service_number": "R/102085 RCAF",
-      "age": 23,
-      "role": "Pilot",
-      "nationality": "Canadian",
-      "burial_location": "Newark-upon-Trent Cemetery, Sec. P, Grave 307",
-      "fate": "Killed",
-      "cwgc_verified": true,
-      "fate_detail": "Killed instantly when the Lancaster crashed into farmland after an engine fire made the aircraft uncontrollable. Had only 15 hours of night flying on Lancasters.",
-      "bio": "Canadian pilot from Saskatchewan serving with the RCAF, aged 23. The most experienced crew member despite having only 15 hours night flying on Lancasters.",
-      "hometown": "Saskatchewan, Canada",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "George Arthur Hitchon",
-      "service_number": "576765 RAF",
-      "age": 19,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "burial_location": "Padiham Churchyard, Row 3, Div. 7, Grave 5",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash. The youngest crew member at 19.",
-      "bio": "Flight engineer from Padiham, Lancashire, aged 19. The youngest of the crew.",
-      "hometown": "Padiham, Lancashire",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Robert John Preece",
-      "service_number": "1174086 RAF",
-      "age": 22,
-      "role": "Observer",
-      "nationality": "British",
-      "burial_location": "Wembdon Churchyard, Sec. C, Row A, Grave 14",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash.",
-      "bio": "Observer serving with the RAF, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Thomas Raine Newton",
-      "service_number": "1119116 RAF",
-      "age": 21,
-      "role": "W/Op Air Gunner",
-      "nationality": "British",
-      "burial_location": "Brandon & Byshottles Cemetery, Grave 46",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash.",
-      "bio": "Wireless operator/air gunner serving with the RAF, aged 21.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "James Milton Whitehead",
-      "service_number": "975551 RAF",
-      "age": 22,
-      "role": "W/Op Air Gunner",
-      "nationality": "British",
-      "burial_location": "Cambusnethan Cemetery, Sec. A, Grave 824",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash.",
-      "bio": "Wireless operator/air gunner serving with the RAF, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Edward John Loverock",
-      "service_number": "950159 RAF",
-      "age": 21,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "Matlock Cemetery, Plot 1, Row 12, Grave 15",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash.",
-      "bio": "Air gunner serving with the RAF, aged 21.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "John Coaker",
-      "service_number": "1276786 RAF",
-      "age": 22,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "Leusdon Churchyard, Devon",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the crash.",
-      "bio": "Air gunner serving with the RAF, aged 22. Buried in Leusdon Churchyard, Devon.",
-      "decorations": []
-    }
-  ],
-  "latitude": 52.981,
-  "longitude": -0.8009,
-  "cause_of_loss": "Con rod broke on inner starboard engine; fire spread; undercarriage lowered causing loss of control",
-  "operation_type": "Training",
-  "memorial_details": "An original memorial was erected in St Mary's churchyard, Staunton-in-the-Vale. By 2010, the original brass plaques had degraded, and local historian efforts led to their replacement with slate tablets. A rededication ceremony was held on 3 July 2010, attended by relatives and RAF representatives. The memorial site is publicly accessible in the churchyard. A dedicated website (stauntonlancaster.co.uk) preserves the full story of the crew.",
-  "maintainer": {
-    "organisation": "Staunton in the Vale Parish Meeting",
-    "maintainer_type": "parish-council",
-    "notes": "Memorial with interpretation board in new burial ground of St Mary's Church."
-  },
-  "external_narratives": [
-    {
-      "source_site": "Aircrew Remembered",
-      "original_url": "https://aircrewremembered.com/warne-thomas.html",
-      "summary": "Detailed biographical page for the crew of Lancaster W4270 from 61 Squadron. Includes individual crew histories, service details, and burial information for all seven airmen.",
-      "key_details": "Confirms pilot was WO2 Thomas Herbert Warne, RCAF, from Saskatchewan. Aircraft was on a long cross-country training exercise from RAF Syerston when a con rod failure caused the crash.",
-      "date_retrieved": "2026-03-24",
-      "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 18.02.1943 No. 61 Squadron Lancaster I W4270 Sgt. Thomas H. Warne Operation: Training\n\nDate: 18th February 1943 (Thursday)\n\nUnit: No: 61 Squadron\n\nCode: QR-T (as advised by Ian Hinks - January 2017)\n\nBase: RAF Syerston, Nottinghamshire.\n\nLocation: 1 mile from Staunton in the Vale, Lincolnshire\n\nPilot: Sgt. Thomas Herbert Warne R/102085 RCAF Age 23. Killed (Later WO.II)\n\nFl/Eng: Sgt. George Arthur Hitchon 576765 RAF Age 19. Killed\n\nObs: Sgt. Robert John Preece 1174086 RAFVR Age 22. Killed\n\nW/Op/Air/Gnr: Sgt. Thomas Raine Newton 1119116 RAFVR Age 21. Killed\n\nW/Op/Air/Gnr: Sgt. James Milton Whitehead 975551 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Edward John Loverock 950159 RAFVR Age 21. Killed\n\nAir/Gnr: Sgt. John Coaker 1276786 RAFVR Age 22. Killed\n\nWhilst on a Cross country training flight W4270 crashed at 22:.56 hrs. following an engine fire about 2 miles north west of RAF Bottesford, Leicestershire. The aircraft came down a mile from the village of Staunton in the Vale, Lincolnshire.\n\nThis tragic event has been well researched over a period of 11 years + and a Memorial to the crew set up in the burial ground of St Mary’s Church, Staunton-in-the-Vale. Living relatives of all 7 men have been contacted, and the research team are indebted to them for supplying further information, photographs, letters etc.\n\nCrew of Lancaster W4270 (courtesy DI Ablewhite)\n\nLeft: Sgt. George Arthur Hitchon (courtesy Hitchon/Weaver family) Right: Sgt. James Milton Whitehead (courtesy Mrs Sylvia Jamison - sister)\n\nStaunton Lancaster Crash – background to the research. Prepared and written for the Aircrew Remembered by Di Ablewhite:\n\n\"In November 1999, Mr Sid Baggaley, a retired farmer of Staunton, asked a family friend (Di Ablewhite) if she could do an investigation into a plane crash he witnessed in WW11, he knew she was interested in history and archaeology, but she had not undertaken any research of this nature before. For obvious reasons this tragic event left a huge mark on him, and since that night he had wanted to know more about what had happened. He had heard several rumours including the fact that one of the crew was a Canadian, but knew nothing of where they flew from or any other detail being of course wartime.\n\nWorking on the information he gave her and with a piece of the wreckage he later recovered from the crash site, she and eventually along with an ex RAF/BBMF friend she met through the Bomber Command Museum of Canada’s message board (Ian Hinks) and Sid’s Granddaughter (Annie Hogg) set about finding the details of the accident. Sid really wanted to know who these men were and to hopefully see what they looked like, but he had very little information for the team to work with. All he could remember was it was a cold winters night, he thought it was a Wellington Bomber and he knew 6/7 men had lost their lives. An initial reading of the Bomber Command Losses books, searching for a Wellington crashing in that area came up with nothing.\n\nLuckily the piece of wreckage he saved was a structural piece and once cleaned up by Newark Air Museum had RAF Section/Reference marks on it, which identified the aircraft as a Mark 1 Lancaster. By another full search through W.R. Chorleys’ Bomber Command Losses books a list was made of all local Lancaster crashes.\n\nMemorial to the crew (courtesy DI Ablewhite)\n\nEventually the search narrowed down to it being just one aircraft.\n\nOn the 18th of February 1943, a crew from 61 squadron, RAF Syerston had been on a long cross country training flight when, at 22.56 hours, after 6 hrs 45 mins of flying, a con rod broke on the inner starboard engine, causing a fire, which , despite their best efforts, they failed to put out. A combination of this and the fact the landing gear was in a lowered position, caused them to lose control and the aircraft crashed.\n\nAll 7 crew members were killed and at 23 years of age the pilot, a Canadian from Saskatchewan, WO11 Thomas Herbert Warne (then a Sgt.) was the oldest and most experienced member of the crew despite only having 15 hours of night flying experience on this type of aircraft.\n\nAll the men except the Canadian Pilot were buried in their respective home towns, while he is buried in Newark War Cemetery.\n\nSid lived long enough to know the names of the crew and where they were from, but sadly didn’t get to see any of the photos, it was 8 years later that any of those surfaced."
-    },
-    {
-      "source_site": "Our Nottinghamshire",
-      "original_url": "http://www.ournottinghamshire.org.uk/page.aspx?id=1139",
-      "summary": "Local history account of the crash and memorial at Staunton-in-the-Vale. Details the 2010 rededication ceremony when new plaques replaced the degraded originals, with relatives of the crew attending.",
-      "key_details": "Memorial originally built for the millennium exhibition. Contact was made with the last surviving relatives during the 2010 rededication.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Traces of War",
-      "original_url": "https://www.tracesofwar.com/sights/83518/Memorial-Crash-Lancaster-W4270.htm",
-      "summary": "International crash site database entry documenting the Lancaster W4270 memorial at Staunton in the Vale, with location details and basic incident information.",
-      "key_details": "Lists the memorial as a crash site marker type with location coordinates and connection to 61 Squadron RAF Syerston.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/61723",
-      "summary": "Imperial War Museums register entry for the Lancaster W4270 crew memorial at Staunton in the Vale, catalogued as memorial reference 61723.",
-      "key_details": "Formally registered memorial in the IWM national war memorials database.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "CWGC",
-      "original_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2703186/thomas-herbert-warne/",
-      "summary": "Commonwealth War Graves Commission casualty record for Warrant Officer Class II Thomas Herbert Warne, confirming his service with RCAF and burial at Newark-upon-Trent Cemetery.",
-      "key_details": "CWGC casualty record number 2703186. Confirms burial location and RCAF service number R/102085.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Grantham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Staunton in the Vale Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
-  "squadron_motto": "Per ardua ad aethera tendo",
-  "what3words": "blackbird.sprain.sleep",
-  "photos": [
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-crew-w800-1-w800.jpg",
-      "caption": "61 squadron lancaster i w4270 crew w800 1",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-sgt.-george-arthur-hitchon-and-sgt.-james-milton-whitehead--w640h480.jpg",
-      "caption": "61 squadron lancaster w4270 sgt. george arthur hitchon and sgt. james milton whitehead",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-memorial-w640h480.jpg",
-      "caption": "61 squadron lancaster i w4270 memorial",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-i-w4270-w800-w800.jpg",
-      "caption": "61 squadron lancaster i w4270",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-thomas-herb-warnes-funeral-at-newark-cemetery-1-w800-w800.jpg",
-      "caption": "61 squadron lancaster w4270 thomas herb warnes funeral at newark cemetery 1",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "staunton-in-the-vale-wellington-w-4270/61-squadron-lancaster-w4270-sgt.-thomas-herbert-warne-r102085-r.c.a.f.-w640h480.jpg",
-      "caption": "61 squadron lancaster w4270 sgt. thomas herbert warne r102085 r.c.a.f.",
-      "credit": "Aircrew Remembered"
-    }
-  ],
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

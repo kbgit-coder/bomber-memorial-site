@@ -1,91 +1,96 @@
 {
-  "id": "dry-doddington-pb432",
-  "title": "Dry Doddington Lancaster Memorial",
-  "location_name": "Dry Doddington, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-009",
-  "crash_date": "1944-11-26",
-  "aircraft_type": "Lancaster",
-  "serial_number": "PB432",
-  "squadron": "49 Sqdn.",
-  "station": "Fulbeck",
-  "crew_summary": "2 of 7 killed including Sgt. Norman Isaac Langley",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.07267393266296,
-  "longitude": -0.2000071386602407,
-  "maintainer": {
-    "organisation": "Dry Doddington Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "49 Squadron Association",
-      "original_url": "https://www.49squadron.co.uk/memorials/memorial_doddington",
-      "summary": "49 Squadron Association memorial page for Lancaster PB432 EA-O at Dry Doddington Church. The aircraft crashed on 26 November 1944 shortly after take-off from Fulbeck for a mission to Munich, laden with bombs and fuel. Two of seven crew killed: Sgt Langley (W/OP) and Sgt Blake (mid-upper gunner).",
-      "key_details": [
-        "Aircraft coded EA-O 'O-Oboe'",
-        "Crashed shortly after take-off for Munich raid",
-        "Pilot F/O Le Marquand survived with slight injuries",
-        "Memorial in Dry Doddington Church"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "dry-doddington-pb432",
+    "title": "Dry Doddington Lancaster Memorial",
+    "location_name": "Dry Doddington, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-009",
+    "crash_date": "1944-11-26",
+    "aircraft_type": "Lancaster",
+    "serial_number": "PB432",
+    "squadron": "49 Sqdn.",
+    "station": "Fulbeck",
+    "crew_summary": "2 of 7 killed including Sgt. Norman Isaac Langley",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.0107,
+    "longitude": -0.7323,
+    "maintainer": {
+        "organisation": "Dry Doddington Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "49 Squadron Association (PDF)",
-      "original_url": "https://www.49squadron.co.uk/assets/pdf/the_fulbeck_tragedy.pdf",
-      "summary": "Detailed PDF account titled 'The Fulbeck Tragedy' documenting the circumstances of Lancaster PB432's crash. Provides crew details and the sequence of events leading to the failed take-off.",
-      "key_details": [
-        "Detailed crew listing with injuries",
-        "Sgt Wade (F/E) seriously injured",
-        "F/S Ransom (NAV) slightly injured"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/name/1552671",
-      "summary": "Imperial War Museums register entries for the crew of Lancaster PB432 commemorated at Dry Doddington, including Sgt Blake and Sgt Langley.",
-      "key_details": [
-        "IWM casualty register entries for Blake and Langley"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "49 Squadron Association",
+            "original_url": "https://www.49squadron.co.uk/memorials/memorial_doddington",
+            "summary": "49 Squadron Association memorial page for Lancaster PB432 EA-O at Dry Doddington Church. The aircraft crashed on 26 November 1944 shortly after take-off from Fulbeck for a mission to Munich, laden with bombs and fuel. Two of seven crew killed: Sgt Langley (W/OP) and Sgt Blake (mid-upper gunner).",
+            "key_details": [
+                "Aircraft coded EA-O 'O-Oboe'",
+                "Crashed shortly after take-off for Munich raid",
+                "Pilot F/O Le Marquand survived with slight injuries",
+                "Memorial in Dry Doddington Church"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "49 Squadron Association (PDF)",
+            "original_url": "https://www.49squadron.co.uk/assets/pdf/the_fulbeck_tragedy.pdf",
+            "summary": "Detailed PDF account titled 'The Fulbeck Tragedy' documenting the circumstances of Lancaster PB432's crash. Provides crew details and the sequence of events leading to the failed take-off.",
+            "key_details": [
+                "Detailed crew listing with injuries",
+                "Sgt Wade (F/E) seriously injured",
+                "F/S Ransom (NAV) slightly injured"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/name/1552671",
+            "summary": "Imperial War Museums register entries for the crew of Lancaster PB432 commemorated at Dry Doddington, including Sgt Blake and Sgt Langley.",
+            "key_details": [
+                "IWM casualty register entries for Blake and Langley"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Grantham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Dry Doddington Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
+    "squadron_motto": "Cave canem",
+    "what3words": "graphics.overruns.almost",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "Photon OSM — Dry Doddington village at 53.0107 -0.7323",
+            "Postcodes.io — Dry Doddington NG23 at 53.0106 -0.7334"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (53.073, -0.200) — longitude error alone was ~53km east (current -0.200 vs correct -0.733). Both APIs within 11m of each other. One of the most confidently correctable errors. Confidence: confirmed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Grantham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Dry Doddington Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
-  "squadron_motto": "Cave canem",
-  "what3words": "graphics.overruns.almost",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

@@ -1,88 +1,93 @@
 {
-  "id": "honeybourne-area-z2639",
-  "title": "Honeybourne area Whitley Memorial",
-  "location_name": "Honeybourne area, Warwickshire",
-  "county": "Warwickshire",
-  "country": "United Kingdom",
-  "region_code": "WM-002",
-  "crash_date": "1943-06-02",
-  "aircraft_type": "Whitley",
-  "serial_number": "Z2639",
-  "squadron": "24 OTU",
-  "station": "RAF Honeybourne",
-  "crew_summary": "Crew killed",
-  "memorial_type": "Rough hewn stone of remembrance with plaque",
-  "sources": [
-    {
-      "title": "IWM (memorial/36469)",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.15397201134734,
-  "longitude": -1.632673091790108,
-  "maintainer": {
-    "organisation": "Honeybourne Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Traces of War",
-      "original_url": "https://www.tracesofwar.com/sights/8441/Memorial-AW-Whitley-Bomber-Z6639-Broadway.htm",
-      "summary": "Traces of War documents a memorial at Broadway, Worcestershire to a Whitley bomber from 24 OTU that crashed on 2 June 1943 at 14:15 hours during operational training. Five crew members were killed: Flt/Sgt H.G. Hagen (pilot), Sgt R.S. Phillips (navigator), Flt/Sgt D.H. Kelly, Sgt D.A. Marriott, and Sgt G.E. Ekins.",
-      "key_details": [
-        "Crash time recorded as 14:15 hours",
-        "Five crew killed",
-        "Memorial located at Broadway, Worcestershire"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "honeybourne-area-z2639",
+    "title": "Honeybourne area Whitley Memorial",
+    "location_name": "Honeybourne area, Warwickshire",
+    "county": "Warwickshire",
+    "country": "United Kingdom",
+    "region_code": "WM-002",
+    "crash_date": "1943-06-02",
+    "aircraft_type": "Whitley",
+    "serial_number": "Z2639",
+    "squadron": "24 OTU",
+    "station": "RAF Honeybourne",
+    "crew_summary": "Crew killed",
+    "memorial_type": "Rough hewn stone of remembrance with plaque",
+    "sources": [
+        {
+            "title": "IWM (memorial/36469)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.0947326,
+    "longitude": -1.8319572,
+    "maintainer": {
+        "organisation": "Honeybourne Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "Wartime Memories Project",
-      "original_url": "https://www.wartimememoriesproject.com/ww2/airfields/airfield.php?pid=1766",
-      "summary": "The Wartime Memories Project documents RAF Honeybourne as the base for No. 24 OTU during WW2. The unit used Whitley bombers for training and suffered numerous losses in the surrounding countryside, including the Z2639 incident.",
-      "key_details": [
-        "RAF Honeybourne documented as 24 OTU base",
-        "Multiple training losses recorded in area"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Aviation Archaeology",
-      "original_url": "https://www.aviationarchaeology.org.uk/marg/men_of_24otu.htm",
-      "summary": "Comprehensive record of personnel losses from No. 24 Operational Training Unit at Honeybourne, documenting the high attrition rate among training crews flying aging Whitley bombers in the Worcestershire and Warwickshire area.",
-      "key_details": [
-        "Comprehensive personnel loss record for 24 OTU",
-        "High training attrition documented"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "Traces of War",
+            "original_url": "https://www.tracesofwar.com/sights/8441/Memorial-AW-Whitley-Bomber-Z6639-Broadway.htm",
+            "summary": "Traces of War documents a memorial at Broadway, Worcestershire to a Whitley bomber from 24 OTU that crashed on 2 June 1943 at 14:15 hours during operational training. Five crew members were killed: Flt/Sgt H.G. Hagen (pilot), Sgt R.S. Phillips (navigator), Flt/Sgt D.H. Kelly, Sgt D.A. Marriott, and Sgt G.E. Ekins.",
+            "key_details": [
+                "Crash time recorded as 14:15 hours",
+                "Five crew killed",
+                "Memorial located at Broadway, Worcestershire"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wartime Memories Project",
+            "original_url": "https://www.wartimememoriesproject.com/ww2/airfields/airfield.php?pid=1766",
+            "summary": "The Wartime Memories Project documents RAF Honeybourne as the base for No. 24 OTU during WW2. The unit used Whitley bombers for training and suffered numerous losses in the surrounding countryside, including the Z2639 incident.",
+            "key_details": [
+                "RAF Honeybourne documented as 24 OTU base",
+                "Multiple training losses recorded in area"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Archaeology",
+            "original_url": "https://www.aviationarchaeology.org.uk/marg/men_of_24otu.htm",
+            "summary": "Comprehensive record of personnel losses from No. 24 Operational Training Unit at Honeybourne, documenting the high attrition rate among training crews flying aging Whitley bombers in the Worcestershire and Warwickshire area.",
+            "key_details": [
+                "Comprehensive personnel loss record for 24 OTU",
+                "High training attrition documented"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Warwick Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/warwickshire/"
+        },
+        {
+            "org_name": "Honeybourne Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "submerge.nozzle.richer",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon.komoot.io — Honeybourne Worcestershire near Evesham at 52.095 -1.832",
+            "Current 52.154 -1.633 ~17km NE — actually Warwickshire not Worcestershire"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.154, -1.633) ~17km NE near Southam/Leamington in wrong county (Warwickshire). Honeybourne is in Worcestershire near Evesham at 52.095, -1.832.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Warwick Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/warwickshire/"
-    },
-    {
-      "org_name": "Honeybourne Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "submerge.nozzle.richer",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

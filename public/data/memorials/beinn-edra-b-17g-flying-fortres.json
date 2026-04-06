@@ -1,102 +1,106 @@
 {
-  "id": "beinn-edra-b-17g-flying-fortres",
-  "title": "Beinn Edra Fortress Memorial",
-  "location_name": "Beinn Edra, Highlands",
-  "county": "Highlands",
-  "country": "United Kingdom",
-  "region_code": "SC-003",
-  "crash_date": "WW2",
-  "aircraft_type": "B-17G Flying Fortress",
-  "squadron": "USAAF (en route USA to Italy via Iceland)",
-  "crew_summary": "All killed (flew into mountain in heavy cloud)",
-  "memorial_type": "Crash site marker",
-  "sources": [
-    {
-      "title": "Highland HER (MHG30839)",
-      "type": "website"
+    "id": "beinn-edra-b-17g-flying-fortres",
+    "title": "Beinn Edra Fortress Memorial",
+    "location_name": "Beinn Edra, Highlands",
+    "county": "Highlands",
+    "country": "United Kingdom",
+    "region_code": "SC-003",
+    "crash_date": "WW2",
+    "aircraft_type": "B-17G Flying Fortress",
+    "squadron": "USAAF (en route USA to Italy via Iceland)",
+    "crew_summary": "All killed (flew into mountain in heavy cloud)",
+    "memorial_type": "Crash site marker",
+    "sources": [
+        {
+            "title": "Highland HER (MHG30839)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 57.5867,
+    "longitude": -6.257,
+    "external_narratives": [
+        {
+            "source_site": "Peak District Air Crashes",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/boeing-b-17g-44-83325-beinn-edra/",
+            "summary": "B-17G serial 44-83325 crashed into Beinn Edra on the Isle of Skye on 3 March 1945 during a ferry flight from Meeks Field, Iceland to RAF Valley, Anglesey. The brand-new aircraft flew into thick cloud concealing the mountain, killing all nine crew.",
+            "key_details": [
+                "Serial number 44-83325",
+                "Date: 3 March 1945",
+                "Ferry flight from Iceland to RAF Valley",
+                "Brand new aircraft off Long Beach assembly line",
+                "All 9 crew killed",
+                "Impact on precipitous eastern face at 611m"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/106068",
+            "summary": "IWM records the Beinn Edra B-17 Flying Fortress crash memorial, marking the site where all nine USAAF personnel died.",
+            "key_details": [
+                "IWM memorial reference 106068"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wikipedia",
+            "original_url": "https://en.wikipedia.org/wiki/1945_Beinn_Edra_air_disaster",
+            "summary": "Wikipedia article on the 1945 Beinn Edra air disaster documents the ferry route from Bangor, Maine via Iceland, with the aircraft encountering deteriorating weather over the Hebrides. Wreckage remains highly fragmented across the slopes below the summit cliffs.",
+            "key_details": [
+                "Route: Bangor, Maine to Meeks Field, Iceland to RAF Valley",
+                "Weather deteriorated over Hebrides",
+                "Wreckage scattered across slopes below summit"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "West Highland Free Press",
+            "original_url": "https://www.whfp.com/2020/03/03/skye-community-remembers-75th-anniversary-of-wwii-us-air-crash-on-beinn-edra/",
+            "summary": "The Skye community marked the 75th anniversary of the crash in March 2020, remembering the nine young Americans who died on the mountain.",
+            "key_details": [
+                "75th anniversary commemorated in March 2020",
+                "Local Skye community active in remembrance"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Highland Historic Environment Record",
+            "original_url": "https://her.highland.gov.uk/Monument/MHG30839",
+            "summary": "Highland HER record MHG30839 formally documents the aircraft crash site on Beinn Edra as a historic monument.",
+            "key_details": [
+                "HER reference MHG30839",
+                "Formally recorded as historic monument"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Inverness Branch, Legion Scotland",
+            "org_type": "legion_scotland",
+            "role": "Local remembrance and memorial support",
+            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+        }
+    ],
+    "what3words": "yesterday.converter.pins",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "Photon OSM — named entry for Beinn Edra memorial at 57.5867 -6.2570 (Isle of Skye)"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous lon -5.142 placed site on Scottish mainland ~60-70km from actual location. Photon has specific named OSM entry for the Beinn Edra memorial on Isle of Skye at 57.5867 -6.2570. Confidence: confirmed (OSM named node).",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 57.58467449847338,
-  "longitude": -5.141990460956119,
-  "external_narratives": [
-    {
-      "source_site": "Peak District Air Crashes",
-      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/scotland/boeing-b-17g-44-83325-beinn-edra/",
-      "summary": "B-17G serial 44-83325 crashed into Beinn Edra on the Isle of Skye on 3 March 1945 during a ferry flight from Meeks Field, Iceland to RAF Valley, Anglesey. The brand-new aircraft flew into thick cloud concealing the mountain, killing all nine crew.",
-      "key_details": [
-        "Serial number 44-83325",
-        "Date: 3 March 1945",
-        "Ferry flight from Iceland to RAF Valley",
-        "Brand new aircraft off Long Beach assembly line",
-        "All 9 crew killed",
-        "Impact on precipitous eastern face at 611m"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/106068",
-      "summary": "IWM records the Beinn Edra B-17 Flying Fortress crash memorial, marking the site where all nine USAAF personnel died.",
-      "key_details": [
-        "IWM memorial reference 106068"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Wikipedia",
-      "original_url": "https://en.wikipedia.org/wiki/1945_Beinn_Edra_air_disaster",
-      "summary": "Wikipedia article on the 1945 Beinn Edra air disaster documents the ferry route from Bangor, Maine via Iceland, with the aircraft encountering deteriorating weather over the Hebrides. Wreckage remains highly fragmented across the slopes below the summit cliffs.",
-      "key_details": [
-        "Route: Bangor, Maine to Meeks Field, Iceland to RAF Valley",
-        "Weather deteriorated over Hebrides",
-        "Wreckage scattered across slopes below summit"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "West Highland Free Press",
-      "original_url": "https://www.whfp.com/2020/03/03/skye-community-remembers-75th-anniversary-of-wwii-us-air-crash-on-beinn-edra/",
-      "summary": "The Skye community marked the 75th anniversary of the crash in March 2020, remembering the nine young Americans who died on the mountain.",
-      "key_details": [
-        "75th anniversary commemorated in March 2020",
-        "Local Skye community active in remembrance"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Highland Historic Environment Record",
-      "original_url": "https://her.highland.gov.uk/Monument/MHG30839",
-      "summary": "Highland HER record MHG30839 formally documents the aircraft crash site on Beinn Edra as a historic monument.",
-      "key_details": [
-        "HER reference MHG30839",
-        "Formally recorded as historic monument"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Inverness Branch, Legion Scotland",
-      "org_type": "legion_scotland",
-      "role": "Local remembrance and memorial support",
-      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-    }
-  ],
-  "what3words": "yesterday.converter.pins",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

@@ -1,81 +1,87 @@
 {
-  "id": "bunny-church-hj767",
-  "title": "Bunny Church Mosquito Memorial",
-  "location_name": "Bunny Church, Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-010",
-  "crash_date": "1944-06-17",
-  "aircraft_type": "Mosquito",
-  "serial_number": "HJ767",
-  "squadron": "60 OTU",
-  "station": "High Ercall",
-  "crew_summary": "2 killed: Flt Lt. Joseph Kevin De Roeck and navigator",
-  "memorial_type": "Church plaque",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.97745551979885,
-  "longitude": -1.036021996078031,
-  "maintainer": {
-    "organisation": "St Mary the Virgin, Bunny",
-    "website": "https://bunnyparishcouncil.gov.uk",
-    "maintainer_type": "church",
-    "notes": "Church plaque maintained by the parish church. Bunny Parish Council oversees the wider village."
-  },
-  "external_narratives": [
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://aviation-safety.net/wikibase/70031",
-      "summary": "Aviation Safety Network records the crash of de Havilland Mosquito FB.VI HJ767 on 17 June 1944 during a night cross-country training exercise from 60 OTU at RAF High Ercall. The aircraft developed engine trouble and crash-landed into a copse called Bunny Decoy outside the village.",
-      "key_details": [
-        "Mosquito FB Mk VI variant",
-        "Crashed into copse called Bunny Decoy",
-        "Night cross-country training exercise"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "crew": [
-    {
-      "name": "Joseph Kevin De Roeck",
-      "rank": "Flt Lt",
-      "role": "Pilot",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Nottingham Southern Cemetery"
+    "id": "bunny-church-hj767",
+    "title": "Bunny Church Mosquito Memorial",
+    "location_name": "Bunny Church, Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-010",
+    "crash_date": "1944-06-17",
+    "aircraft_type": "Mosquito",
+    "serial_number": "HJ767",
+    "squadron": "60 OTU",
+    "station": "High Ercall",
+    "crew_summary": "2 killed: Flt Lt. Joseph Kevin De Roeck and navigator",
+    "memorial_type": "Church plaque",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.8608,
+    "longitude": -1.1358,
+    "maintainer": {
+        "organisation": "St Mary the Virgin, Bunny",
+        "website": "https://bunnyparishcouncil.gov.uk",
+        "maintainer_type": "church",
+        "notes": "Church plaque maintained by the parish church. Bunny Parish Council oversees the wider village."
     },
-    {
-      "name": "F.W.D. Hearn",
-      "rank": "Sgt",
-      "role": "Navigator/Observer",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Oxford"
+    "external_narratives": [
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://aviation-safety.net/wikibase/70031",
+            "summary": "Aviation Safety Network records the crash of de Havilland Mosquito FB.VI HJ767 on 17 June 1944 during a night cross-country training exercise from 60 OTU at RAF High Ercall. The aircraft developed engine trouble and crash-landed into a copse called Bunny Decoy outside the village.",
+            "key_details": [
+                "Mosquito FB Mk VI variant",
+                "Crashed into copse called Bunny Decoy",
+                "Night cross-country training exercise"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "crew": [
+        {
+            "name": "Joseph Kevin De Roeck",
+            "rank": "Flt Lt",
+            "role": "Pilot",
+            "nationality": "British",
+            "fate": "Killed",
+            "burial_location": "Nottingham Southern Cemetery"
+        },
+        {
+            "name": "F.W.D. Hearn",
+            "rank": "Sgt",
+            "role": "Navigator/Observer",
+            "nationality": "British",
+            "fate": "Killed",
+            "burial_location": "Oxford"
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Ruddington & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        }
+    ],
+    "what3words": "reject.genetics.fidgeted",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "DBpedia Bunny Nottinghamshire (52.8608 -1.1358)",
+            "GeoNames UK (52.8609 -1.1355)",
+            "Overpass API village node (52.8606 -1.1354)"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Holly (PAI)",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Ruddington & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-    }
-  ],
-  "what3words": "reject.genetics.fidgeted",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

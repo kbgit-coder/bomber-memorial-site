@@ -1,288 +1,293 @@
 {
-  "id": "leicester-pa269",
-  "title": "Leicester Lancaster Memorial",
-  "location_name": "Leicester, Leicestershire",
-  "county": "Leicestershire",
-  "country": "United Kingdom",
-  "region_code": "LE-004",
-  "crash_date": "04/02/1946 (post-war)",
-  "aircraft_type": "Lancaster",
-  "serial_number": "PA269",
-  "squadron": "300 (Polish) Sqdn.",
-  "station": "Faldingworth",
-  "crew_summary": "Polish aircrew killed",
-  "memorial_type": "Plaque",
-  "sources": [
-    {
-      "title": "IWM (memorial/55366)",
-      "type": "website"
+    "id": "leicester-pa269",
+    "title": "Leicester Lancaster Memorial",
+    "location_name": "Leicester, Leicestershire",
+    "county": "Leicestershire",
+    "country": "United Kingdom",
+    "region_code": "LE-004",
+    "crash_date": "04/02/1946 (post-war)",
+    "aircraft_type": "Lancaster",
+    "serial_number": "PA269",
+    "squadron": "300 (Polish) Sqdn.",
+    "station": "Faldingworth",
+    "crew_summary": "Polish aircrew killed",
+    "memorial_type": "Plaque",
+    "sources": [
+        {
+            "title": "IWM (memorial/55366)",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.6362,
+    "longitude": -1.1331969,
+    "maintainer": {
+        "organisation": "Leicester City Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55366",
+            "summary": "IWM registers a wall-mounted plaque commemorating the airmen of 300 Polish Bomber Squadron killed when Lancaster PA269 crashed on Long Street, Wigston, Leicester on 4 February 1946. All six crew members were killed.",
+            "key_details": [
+                "IWM memorial reference 55366",
+                "Crash location was Long Street, Wigston",
+                "All six Polish crew killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register (tree memorial)",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55367",
+            "summary": "A second IWM-registered memorial -- a commemorative tree -- also marks the site of the Lancaster PA269 crash in Wigston, providing a living memorial alongside the plaque.",
+            "key_details": [
+                "IWM memorial reference 55367",
+                "Commemorative tree memorial"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Oadby and Wigston Borough Council",
+            "original_url": "https://www.oadby-wigston.gov.uk/news/2026/02/05/80th_anniversary_of_lancaster_bomber_crash_in_wigston",
+            "summary": "In February 2026, Oadby and Wigston Borough Council marked the 80th anniversary of the crash. The Lancaster, on a routine flight from RAF Faldingworth, was believed to have been hit by lightning during a violent thunderstorm. The pilot, Wing Commander Romuald Sulinski KSOVM DSO DFC, avoided Long Street and the nearby school, steering towards a ploughed field. The aircraft crashed at approximately 13:25, missing Long Street Modern School by less than 10 feet.",
+            "key_details": [
+                "80th anniversary marked February 2026",
+                "Pilot was Wg Cdr Sulinski DSO DFC",
+                "Believed struck by lightning",
+                "Missed school by less than 10 feet",
+                "Crew buried at Newark-Upon-Trent Polish war graves"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/267102/",
+            "summary": "War Memorials Online registers the Faldingworth memorial to 300 Squadron Polish Air Force, providing broader context for the Polish squadron's presence in Lincolnshire and their post-war losses.",
+            "key_details": [
+                "Faldingworth 300 Squadron memorial registered"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Leicester Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
+        },
+        {
+            "org_name": "Leicester City Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "zips.moss.calls",
+    "photos": [
+        {
+            "filename": "leicester-pa269/5da496c15c3e3_Capture_547x410.JPG",
+            "caption": "5da496c15c3e3 Capture 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da497be3fe6d_Capture_3_547x410.JPG",
+            "caption": "5da497be3fe6d Capture 3 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49836c5a06_Capture_4_547x410.JPG",
+            "caption": "5da49836c5a06 Capture 4 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4939829970_300_Sqdn_PAF-Faldingworth_2_547x410.jpg",
+            "caption": "5da4939829970 300 Sqdn PAF Faldingworth 2 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4974a3511e_300_Sqdn_PAF-Faldingworth_1_547x410.jpg",
+            "caption": "5da4974a3511e 300 Sqdn PAF Faldingworth 1 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4994f98b86_300_Sqdn_PAF-Faldingworth_3_547x410.jpg",
+            "caption": "5da4994f98b86 300 Sqdn PAF Faldingworth 3 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49f9e83712_Service_1_547x410.JPG",
+            "caption": "5da49f9e83712 Service 1 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49f9ec1366_Service_2_547x410.JPG",
+            "caption": "5da49f9ec1366 Service 2 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49f9f0db6f_Service_3_547x410.JPG",
+            "caption": "5da49f9f0db6f Service 3 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49f9f4e052_Service_4_547x410.JPG",
+            "caption": "5da49f9f4e052 Service 4 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da49f9f8df67_Service_5_547x410.JPG",
+            "caption": "5da49f9f8df67 Service 5 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4b75aeda76_Service_6_547x410.JPG",
+            "caption": "5da4b75aeda76 Service 6 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4b75b3a0ad_Service_7_547x410.JPG",
+            "caption": "5da4b75b3a0ad Service 7 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4b982e4170_September_2007_547x410.jpg",
+            "caption": "5da4b982e4170 September 2007 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4d93567d9e_DSCF0043_547x410.JPG",
+            "caption": "5da4d93567d9e DSCF0043 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4d9364a379_DSCF0044_547x410.JPG",
+            "caption": "5da4d9364a379 DSCF0044 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4d9373c008_DSCF0045_547x410.JPG",
+            "caption": "5da4d9373c008 DSCF0045 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4d93805de5_DSCF0046_547x410.JPG",
+            "caption": "5da4d93805de5 DSCF0046 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4d938e128b_DSCF0047_547x410.JPG",
+            "caption": "5da4d938e128b DSCF0047 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dd9c8ea63_DSCF0061_547x410.JPG",
+            "caption": "5da4dd9c8ea63 DSCF0061 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dd9d68095_DSCF0062_547x410.JPG",
+            "caption": "5da4dd9d68095 DSCF0062 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dd9e4160c_DSCF0069_547x410.JPG",
+            "caption": "5da4dd9e4160c DSCF0069 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dd9f0a729_DSCF0071_547x410.JPG",
+            "caption": "5da4dd9f0a729 DSCF0071 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dd9fcb873_DSCF0074_547x410.JPG",
+            "caption": "5da4dd9fcb873 DSCF0074 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4de4dd8133_DSCF0070_547x410.JPG",
+            "caption": "5da4de4dd8133 DSCF0070 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4de4e98aec_DSCF0066_547x410.JPG",
+            "caption": "5da4de4e98aec DSCF0066 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4e00a61c7f_DSCF0019_547x410.JPG",
+            "caption": "5da4e00a61c7f DSCF0019 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da59f11bca88_DSCF3382_547x410.JPG",
+            "caption": "5da59f11bca88 DSCF3382 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da59f131ecd7_DSCF3377_547x410.JPG",
+            "caption": "5da59f131ecd7 DSCF3377 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da59f1483b74_DSCF3378_547x410.JPG",
+            "caption": "5da59f1483b74 DSCF3378 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da59f15e653d_DSCF3379_547x410.JPG",
+            "caption": "5da59f15e653d DSCF3379 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da59f181212b_DSCF3380_547x410.JPG",
+            "caption": "5da59f181212b DSCF3380 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dabcc54f3_DSCF0048_547x410.JPG",
+            "caption": "5da4dabcc54f3 DSCF0048 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dabd95853_DSCF0049_547x410.JPG",
+            "caption": "5da4dabd95853 DSCF0049 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dabe720c4_DSCF0050_547x410.JPG",
+            "caption": "5da4dabe720c4 DSCF0050 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dabf439e5_DSCF0051_547x410.JPG",
+            "caption": "5da4dabf439e5 DSCF0051 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        },
+        {
+            "filename": "leicester-pa269/5da4dac00feaa_DSCF0052_547x410.JPG",
+            "caption": "5da4dac00feaa DSCF0052 547x410",
+            "credit": "Market Rasen Mail / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon.komoot.io — Leicester city centre at 52.636 -1.133",
+            "Current 52.667 -1.047 ~4km north/east of centre — offset"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.667, -1.047) ~4km northeast of Leicester city centre. Updated to city centroid 52.636, -1.133.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.6667391848926,
-  "longitude": -1.0469233597241214,
-  "maintainer": {
-    "organisation": "Leicester City Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55366",
-      "summary": "IWM registers a wall-mounted plaque commemorating the airmen of 300 Polish Bomber Squadron killed when Lancaster PA269 crashed on Long Street, Wigston, Leicester on 4 February 1946. All six crew members were killed.",
-      "key_details": [
-        "IWM memorial reference 55366",
-        "Crash location was Long Street, Wigston",
-        "All six Polish crew killed"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register (tree memorial)",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/55367",
-      "summary": "A second IWM-registered memorial -- a commemorative tree -- also marks the site of the Lancaster PA269 crash in Wigston, providing a living memorial alongside the plaque.",
-      "key_details": [
-        "IWM memorial reference 55367",
-        "Commemorative tree memorial"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Oadby and Wigston Borough Council",
-      "original_url": "https://www.oadby-wigston.gov.uk/news/2026/02/05/80th_anniversary_of_lancaster_bomber_crash_in_wigston",
-      "summary": "In February 2026, Oadby and Wigston Borough Council marked the 80th anniversary of the crash. The Lancaster, on a routine flight from RAF Faldingworth, was believed to have been hit by lightning during a violent thunderstorm. The pilot, Wing Commander Romuald Sulinski KSOVM DSO DFC, avoided Long Street and the nearby school, steering towards a ploughed field. The aircraft crashed at approximately 13:25, missing Long Street Modern School by less than 10 feet.",
-      "key_details": [
-        "80th anniversary marked February 2026",
-        "Pilot was Wg Cdr Sulinski DSO DFC",
-        "Believed struck by lightning",
-        "Missed school by less than 10 feet",
-        "Crew buried at Newark-Upon-Trent Polish war graves"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/267102/",
-      "summary": "War Memorials Online registers the Faldingworth memorial to 300 Squadron Polish Air Force, providing broader context for the Polish squadron's presence in Lincolnshire and their post-war losses.",
-      "key_details": [
-        "Faldingworth 300 Squadron memorial registered"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Leicester Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/leicestershire-rutland/"
-    },
-    {
-      "org_name": "Leicester City Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "zips.moss.calls",
-  "photos": [
-    {
-      "filename": "leicester-pa269/5da496c15c3e3_Capture_547x410.JPG",
-      "caption": "5da496c15c3e3 Capture 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da497be3fe6d_Capture_3_547x410.JPG",
-      "caption": "5da497be3fe6d Capture 3 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49836c5a06_Capture_4_547x410.JPG",
-      "caption": "5da49836c5a06 Capture 4 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4939829970_300_Sqdn_PAF-Faldingworth_2_547x410.jpg",
-      "caption": "5da4939829970 300 Sqdn PAF Faldingworth 2 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4974a3511e_300_Sqdn_PAF-Faldingworth_1_547x410.jpg",
-      "caption": "5da4974a3511e 300 Sqdn PAF Faldingworth 1 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4994f98b86_300_Sqdn_PAF-Faldingworth_3_547x410.jpg",
-      "caption": "5da4994f98b86 300 Sqdn PAF Faldingworth 3 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49f9e83712_Service_1_547x410.JPG",
-      "caption": "5da49f9e83712 Service 1 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49f9ec1366_Service_2_547x410.JPG",
-      "caption": "5da49f9ec1366 Service 2 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49f9f0db6f_Service_3_547x410.JPG",
-      "caption": "5da49f9f0db6f Service 3 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49f9f4e052_Service_4_547x410.JPG",
-      "caption": "5da49f9f4e052 Service 4 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da49f9f8df67_Service_5_547x410.JPG",
-      "caption": "5da49f9f8df67 Service 5 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4b75aeda76_Service_6_547x410.JPG",
-      "caption": "5da4b75aeda76 Service 6 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4b75b3a0ad_Service_7_547x410.JPG",
-      "caption": "5da4b75b3a0ad Service 7 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4b982e4170_September_2007_547x410.jpg",
-      "caption": "5da4b982e4170 September 2007 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4d93567d9e_DSCF0043_547x410.JPG",
-      "caption": "5da4d93567d9e DSCF0043 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4d9364a379_DSCF0044_547x410.JPG",
-      "caption": "5da4d9364a379 DSCF0044 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4d9373c008_DSCF0045_547x410.JPG",
-      "caption": "5da4d9373c008 DSCF0045 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4d93805de5_DSCF0046_547x410.JPG",
-      "caption": "5da4d93805de5 DSCF0046 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4d938e128b_DSCF0047_547x410.JPG",
-      "caption": "5da4d938e128b DSCF0047 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dd9c8ea63_DSCF0061_547x410.JPG",
-      "caption": "5da4dd9c8ea63 DSCF0061 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dd9d68095_DSCF0062_547x410.JPG",
-      "caption": "5da4dd9d68095 DSCF0062 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dd9e4160c_DSCF0069_547x410.JPG",
-      "caption": "5da4dd9e4160c DSCF0069 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dd9f0a729_DSCF0071_547x410.JPG",
-      "caption": "5da4dd9f0a729 DSCF0071 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dd9fcb873_DSCF0074_547x410.JPG",
-      "caption": "5da4dd9fcb873 DSCF0074 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4de4dd8133_DSCF0070_547x410.JPG",
-      "caption": "5da4de4dd8133 DSCF0070 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4de4e98aec_DSCF0066_547x410.JPG",
-      "caption": "5da4de4e98aec DSCF0066 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4e00a61c7f_DSCF0019_547x410.JPG",
-      "caption": "5da4e00a61c7f DSCF0019 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da59f11bca88_DSCF3382_547x410.JPG",
-      "caption": "5da59f11bca88 DSCF3382 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da59f131ecd7_DSCF3377_547x410.JPG",
-      "caption": "5da59f131ecd7 DSCF3377 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da59f1483b74_DSCF3378_547x410.JPG",
-      "caption": "5da59f1483b74 DSCF3378 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da59f15e653d_DSCF3379_547x410.JPG",
-      "caption": "5da59f15e653d DSCF3379 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da59f181212b_DSCF3380_547x410.JPG",
-      "caption": "5da59f181212b DSCF3380 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dabcc54f3_DSCF0048_547x410.JPG",
-      "caption": "5da4dabcc54f3 DSCF0048 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dabd95853_DSCF0049_547x410.JPG",
-      "caption": "5da4dabd95853 DSCF0049 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dabe720c4_DSCF0050_547x410.JPG",
-      "caption": "5da4dabe720c4 DSCF0050 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dabf439e5_DSCF0051_547x410.JPG",
-      "caption": "5da4dabf439e5 DSCF0051 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    },
-    {
-      "filename": "leicester-pa269/5da4dac00feaa_DSCF0052_547x410.JPG",
-      "caption": "5da4dac00feaa DSCF0052 547x410",
-      "credit": "Market Rasen Mail / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

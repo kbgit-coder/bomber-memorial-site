@@ -1,100 +1,105 @@
 {
-  "id": "low-bradley-hz251",
-  "title": "Low Bradley Mk.XI Memorial",
-  "location_name": "Low Bradley, near Skipton, Pennines (North)",
-  "county": "Pennines (North)",
-  "country": "United Kingdom",
-  "region_code": "PN-003",
-  "crash_date": "1943-09-23",
-  "aircraft_type": "Wellington Mk.XI",
-  "serial_number": "HZ251",
-  "squadron": "6 OTU",
-  "crew_summary": "All killed",
-  "memorial_type": "Stone cairn with tablet inset; wreckage nearby",
-  "sources": [
-    {
-      "title": "peakdistrictaircrashes.co.uk",
-      "type": "website"
+    "id": "low-bradley-hz251",
+    "title": "Low Bradley Mk.XI Memorial",
+    "location_name": "Low Bradley, near Skipton, Pennines (North)",
+    "county": "Pennines (North)",
+    "country": "United Kingdom",
+    "region_code": "PN-003",
+    "crash_date": "1943-09-23",
+    "aircraft_type": "Wellington Mk.XI",
+    "serial_number": "HZ251",
+    "squadron": "6 OTU",
+    "crew_summary": "All killed",
+    "memorial_type": "Stone cairn with tablet inset; wreckage nearby",
+    "sources": [
+        {
+            "title": "peakdistrictaircrashes.co.uk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.931080811694684,
+    "longitude": -1.9938872007624815,
+    "maintainer": {
+        "organisation": "Bradley Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "Peak District Air Accident Research",
+            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-hz251-low-bradley/",
+            "summary": "Detailed account of Wellington HZ251's crash on 23 September 1943. The crew had completed a navigation exercise the previous day, landing at RAF Skipton-on-Swale due to poor weather. On departure for their home base at RAF Silloth, the aircraft took a southern route via the Irish Sea coast. Near Skipton the port wing spar failed, the wing detached, and the aircraft crashed near the Leeds-Liverpool Canal at Bridge 183.",
+            "key_details": [
+                "Port wing spar failure caused crash",
+                "Home station was RAF Silloth, Cumbria",
+                "Landed at Skipton-on-Swale due to weather on 22 Sept",
+                "Crashed near Leeds-Liverpool Canal, Bridge 183",
+                "All seven Polish crew killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "aircrashsites.co.uk",
+            "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-hz251-near-skipton/",
+            "summary": "Documentation of the crash site and memorial near Skipton with photographs. HZ251 was built by Vickers Armstrong at Blackpool and taken on charge by 6 (C)OTU on 19 March 1943.",
+            "key_details": [
+                "Built by Vickers Armstrong, Blackpool",
+                "Taken on charge 19 March 1943",
+                "6 (C)OTU unit"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/18933/Memorial-Wellington-Mk-XI-Bomber-Low-Bradley-2.htm",
+            "summary": "TracesOfWar entry for the Wellington Mk XI bomber memorial at Low Bradley, documenting its location and commemorative purpose for the Polish crew.",
+            "key_details": [
+                "All crew were Polish Air Force",
+                "Memorial documented on international war heritage site"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "yorkshire-aircraft.co.uk",
+            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/hz251.html",
+            "summary": "Yorkshire Aircraft website entry providing technical and historical details of Wellington HZ251 and the circumstances of the crash near Skipton.",
+            "key_details": [
+                "Pilot was F/Sgt Franciszek Ciaston PAF"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Skipton Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        },
+        {
+            "org_name": "Bradley Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "thus.relocated.wades",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Low Bradley village BD20 North Yorkshire near Skipton at 53.931 -1.994",
+            "Current 52.156 -0.530 in Northamptonshire — ~196km south/east. Critical error."
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CRITICAL ERROR. Current coords (52.156, -0.530) are in Northamptonshire — ~196km south of Low Bradley North Yorkshire. Village near Skipton BD20 at 53.931, -1.994.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.15562621846299,
-  "longitude": -0.5297836489445213,
-  "maintainer": {
-    "organisation": "Bradley Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Peak District Air Accident Research",
-      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/vickers-wellington-hz251-low-bradley/",
-      "summary": "Detailed account of Wellington HZ251's crash on 23 September 1943. The crew had completed a navigation exercise the previous day, landing at RAF Skipton-on-Swale due to poor weather. On departure for their home base at RAF Silloth, the aircraft took a southern route via the Irish Sea coast. Near Skipton the port wing spar failed, the wing detached, and the aircraft crashed near the Leeds-Liverpool Canal at Bridge 183.",
-      "key_details": [
-        "Port wing spar failure caused crash",
-        "Home station was RAF Silloth, Cumbria",
-        "Landed at Skipton-on-Swale due to weather on 22 Sept",
-        "Crashed near Leeds-Liverpool Canal, Bridge 183",
-        "All seven Polish crew killed"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "aircrashsites.co.uk",
-      "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/wellington-hz251-near-skipton/",
-      "summary": "Documentation of the crash site and memorial near Skipton with photographs. HZ251 was built by Vickers Armstrong at Blackpool and taken on charge by 6 (C)OTU on 19 March 1943.",
-      "key_details": [
-        "Built by Vickers Armstrong, Blackpool",
-        "Taken on charge 19 March 1943",
-        "6 (C)OTU unit"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/18933/Memorial-Wellington-Mk-XI-Bomber-Low-Bradley-2.htm",
-      "summary": "TracesOfWar entry for the Wellington Mk XI bomber memorial at Low Bradley, documenting its location and commemorative purpose for the Polish crew.",
-      "key_details": [
-        "All crew were Polish Air Force",
-        "Memorial documented on international war heritage site"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "yorkshire-aircraft.co.uk",
-      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/dales/hz251.html",
-      "summary": "Yorkshire Aircraft website entry providing technical and historical details of Wellington HZ251 and the circumstances of the crash near Skipton.",
-      "key_details": [
-        "Pilot was F/Sgt Franciszek Ciaston PAF"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Skipton Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    },
-    {
-      "org_name": "Bradley Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "thus.relocated.wades",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

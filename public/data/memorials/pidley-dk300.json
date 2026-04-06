@@ -1,79 +1,84 @@
 {
-  "id": "pidley-dk300",
-  "title": "Pidley Mosquito Memorial",
-  "location_name": "Pidley, Cambridgeshire",
-  "county": "Cambridgeshire",
-  "country": "United Kingdom",
-  "region_code": "CB-008",
-  "os_grid_reference": "TL 335 778",
-  "crash_date": "1944-07-22",
-  "aircraft_type": "Mosquito",
-  "serial_number": "DK300",
-  "squadron": "1655 MTU",
-  "station": "Warboys",
-  "crew_summary": "2 killed: Flt Lt. John Wilmer and Flg Off. Adam Carter H. McConnell-Jones",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Cambridgeshire",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.1543598180459,
-  "longitude": -0.03264366730917567,
-  "maintainer": {
-    "organisation": "Pidley Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "RAF Pathfinders Archive",
-      "original_url": "https://raf-pathfinders.com/mosquito-squadron-crews-and-related-topics/",
-      "summary": "RAF Pathfinders Archive documenting Mosquito squadron crews and related topics including 1655 Mosquito Training Unit at RAF Warboys. The MTU trained Pathfinder crews for operations, and losses during training were a significant cost of preparing elite navigation and target-marking crews.",
-      "key_details": [
-        "1655 MTU was a Pathfinder training unit",
-        "Based at RAF Warboys",
-        "Trained crews for Pathfinder Force operations"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "pidley-dk300",
+    "title": "Pidley Mosquito Memorial",
+    "location_name": "Pidley, Cambridgeshire",
+    "county": "Cambridgeshire",
+    "country": "United Kingdom",
+    "region_code": "CB-008",
+    "os_grid_reference": "TL 335 778",
+    "crash_date": "1944-07-22",
+    "aircraft_type": "Mosquito",
+    "serial_number": "DK300",
+    "squadron": "1655 MTU",
+    "station": "Warboys",
+    "crew_summary": "2 killed: Flt Lt. John Wilmer and Flg Off. Adam Carter H. McConnell-Jones",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Cambridgeshire",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.38151,
+    "longitude": -0.04274,
+    "maintainer": {
+        "organisation": "Pidley Parish Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "source_site": "RAF Pathfinders Archive - Training Units",
-      "original_url": "https://raf-pathfinders.com/pff-training-units/",
-      "summary": "Overview of Pathfinder Force training units including 1655 MTU at Warboys. The unit moved to Upper Heyford on 12 December 1944 and was renamed 16 OTU on 1 January 1945. Documents the role of Mosquito training in preparing crews for Pathfinder operations.",
-      "key_details": [
-        "1655 MTU moved to Upper Heyford 12 Dec 1944",
-        "Renamed 16 OTU on 1 Jan 1945",
-        "Pathfinder Force training role"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "RAF Pathfinders Archive",
+            "original_url": "https://raf-pathfinders.com/mosquito-squadron-crews-and-related-topics/",
+            "summary": "RAF Pathfinders Archive documenting Mosquito squadron crews and related topics including 1655 Mosquito Training Unit at RAF Warboys. The MTU trained Pathfinder crews for operations, and losses during training were a significant cost of preparing elite navigation and target-marking crews.",
+            "key_details": [
+                "1655 MTU was a Pathfinder training unit",
+                "Based at RAF Warboys",
+                "Trained crews for Pathfinder Force operations"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "RAF Pathfinders Archive - Training Units",
+            "original_url": "https://raf-pathfinders.com/pff-training-units/",
+            "summary": "Overview of Pathfinder Force training units including 1655 MTU at Warboys. The unit moved to Upper Heyford on 12 December 1944 and was renamed 16 OTU on 1 January 1945. Documents the role of Mosquito training in preparing crews for Pathfinder operations.",
+            "key_details": [
+                "1655 MTU moved to Upper Heyford 12 Dec 1944",
+                "Renamed 16 OTU on 1 Jan 1945",
+                "Pathfinder Force training role"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Ramsey & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+        },
+        {
+            "org_name": "Pidley Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "commutes.fingertip.assurance",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Pidley village Huntingdonshire PE28 at 52.382 -0.043",
+            "Current 52.154 -0.033 ~25km south"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.154, -0.033) ~25km south of Pidley. Village PE28 near Somersham at 52.382, -0.043.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Ramsey & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-    },
-    {
-      "org_name": "Pidley Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "commutes.fingertip.assurance",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

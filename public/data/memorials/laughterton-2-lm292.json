@@ -1,129 +1,134 @@
 {
-  "id": "laughterton-2-lm292",
-  "title": "Laughterton (2) Lancaster Memorial",
-  "location_name": "Laughterton (2), Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-014",
-  "crash_date": "1944-08-08",
-  "aircraft_type": "Lancaster",
-  "serial_number": "LM292",
-  "squadron": "103 Sqdn.",
-  "station": "Elsham Wolds",
-  "crew_summary": "2 killed; pilot Flg Off. George Chahoon Brown",
-  "memorial_type": "Stone memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "laughterton-2-lm292",
+    "title": "Laughterton (2) Lancaster Memorial",
+    "location_name": "Laughterton (2), Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-014",
+    "crash_date": "1944-08-08",
+    "aircraft_type": "Lancaster",
+    "serial_number": "LM292",
+    "squadron": "103 Sqdn.",
+    "station": "Elsham Wolds",
+    "crew_summary": "2 killed; pilot Flg Off. George Chahoon Brown",
+    "memorial_type": "Stone memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.27475331864182,
+    "longitude": -0.7449671407874179,
+    "maintainer": {
+        "organisation": "Laughterton Parish Meeting",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264797/",
+            "summary": "War Memorials Online registers the Laughterton Trentside Memorial which commemorates Lancaster LM292 (coded PM-K) of 103 Squadron on the reverse side of the same cairn as the Stirling EH940 memorial. LM292 departed Elsham Wolds at 21:18 for operations over Fontenay on 8 August 1944. On the homeward leg, an engine caught fire and the aircraft became uncontrollable.",
+            "key_details": [
+                "Aircraft coded PM-K",
+                "Departed 21:18 for Ops Fontenay",
+                "Engine fire on return leg",
+                "Shares memorial cairn with EH940"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Geograph",
+            "original_url": "https://www.geograph.org.uk/photo/6502601",
+            "summary": "Photographic record of the Lancaster LM292 crash memorial plaque at Laughterton, showing the inscription on the reverse side of the stone cairn. The pilot Flg Off George Chahoon Brown (aged 20) and flight engineer Sgt John Corless (aged 24) remained aboard to try to control the stricken aircraft while five crew baled out safely.",
+            "key_details": [
+                "Brown aged 20, Corless aged 24",
+                "Five crew baled out successfully",
+                "Brown and Corless stayed to control aircraft"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "IWM War Memorials Register",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20313",
+            "summary": "IWM registers the dual memorial at Laughterton covering both the Stirling EH940 and Lancaster LM292 crashes, unveiled on 16 July 1994 on the village green.",
+            "key_details": [
+                "IWM memorial reference 20313",
+                "Dual memorial unveiled 16 July 1994"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Gainsborough & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Laughterton Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/103.jpg",
+    "squadron_motto": "Noli me tangere",
+    "what3words": "cattle.shortens.padlock",
+    "photos": [
+        {
+            "filename": "laughterton-2-lm292/5e143980d4e59_Laughterton_547x410.jpg",
+            "caption": "5e143980d4e59 Laughterton 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5e14398164c78_Laughterton_a_547x410.jpg",
+            "caption": "5e14398164c78 Laughterton a 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5e143981aa686_Laughterton_b_547x410.jpg",
+            "caption": "5e143981aa686 Laughterton b 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5d225d94b29fa_LI_Laughterton_1_547x410.JPG",
+            "caption": "5d225d94b29fa LI Laughterton 1 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5d225d962e792_LI_Laughterton_2_547x410.JPG",
+            "caption": "5d225d962e792 LI Laughterton 2 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5d225d9706875_LI_Laughterton_3_547x410.JPG",
+            "caption": "5d225d9706875 LI Laughterton 3 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        },
+        {
+            "filename": "laughterton-2-lm292/5d225d97d35a7_LI_Laughterton_4_547x410.JPG",
+            "caption": "5d225d97d35a7 LI Laughterton 4 547x410",
+            "credit": "Charles J Anderson / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io + Photon — Laughterton village West Lindsey Lincolnshire at 53.275 -0.745",
+            "Current 53.267 -0.172 latitude close but longitude ~40km east"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Latitude near-correct (53.267 vs 53.275) but longitude severely wrong: -0.172 vs -0.745 (~40km east). Corrected to Laughterton village.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.267074278742655,
-  "longitude": -0.1718037630975404,
-  "maintainer": {
-    "organisation": "Laughterton Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264797/",
-      "summary": "War Memorials Online registers the Laughterton Trentside Memorial which commemorates Lancaster LM292 (coded PM-K) of 103 Squadron on the reverse side of the same cairn as the Stirling EH940 memorial. LM292 departed Elsham Wolds at 21:18 for operations over Fontenay on 8 August 1944. On the homeward leg, an engine caught fire and the aircraft became uncontrollable.",
-      "key_details": [
-        "Aircraft coded PM-K",
-        "Departed 21:18 for Ops Fontenay",
-        "Engine fire on return leg",
-        "Shares memorial cairn with EH940"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Geograph",
-      "original_url": "https://www.geograph.org.uk/photo/6502601",
-      "summary": "Photographic record of the Lancaster LM292 crash memorial plaque at Laughterton, showing the inscription on the reverse side of the stone cairn. The pilot Flg Off George Chahoon Brown (aged 20) and flight engineer Sgt John Corless (aged 24) remained aboard to try to control the stricken aircraft while five crew baled out safely.",
-      "key_details": [
-        "Brown aged 20, Corless aged 24",
-        "Five crew baled out successfully",
-        "Brown and Corless stayed to control aircraft"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "IWM War Memorials Register",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20313",
-      "summary": "IWM registers the dual memorial at Laughterton covering both the Stirling EH940 and Lancaster LM292 crashes, unveiled on 16 July 1994 on the village green.",
-      "key_details": [
-        "IWM memorial reference 20313",
-        "Dual memorial unveiled 16 July 1994"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Gainsborough & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Laughterton Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/103.jpg",
-  "squadron_motto": "Noli me tangere",
-  "what3words": "cattle.shortens.padlock",
-  "photos": [
-    {
-      "filename": "laughterton-2-lm292/5e143980d4e59_Laughterton_547x410.jpg",
-      "caption": "5e143980d4e59 Laughterton 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5e14398164c78_Laughterton_a_547x410.jpg",
-      "caption": "5e14398164c78 Laughterton a 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5e143981aa686_Laughterton_b_547x410.jpg",
-      "caption": "5e143981aa686 Laughterton b 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5d225d94b29fa_LI_Laughterton_1_547x410.JPG",
-      "caption": "5d225d94b29fa LI Laughterton 1 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5d225d962e792_LI_Laughterton_2_547x410.JPG",
-      "caption": "5d225d962e792 LI Laughterton 2 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5d225d9706875_LI_Laughterton_3_547x410.JPG",
-      "caption": "5d225d9706875 LI Laughterton 3 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    },
-    {
-      "filename": "laughterton-2-lm292/5d225d97d35a7_LI_Laughterton_4_547x410.JPG",
-      "caption": "5d225d97d35a7 LI Laughterton 4 547x410",
-      "credit": "Charles J Anderson / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

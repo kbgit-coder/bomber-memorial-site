@@ -1,288 +1,293 @@
 {
-  "id": "screveton-1-wellington-w-4103",
-  "title": "Screveton (1) W.4103 Memorial",
-  "location_name": "Screveton (1), Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-018",
-  "crash_date": "1944-04-14",
-  "aircraft_type": "Lancaster I W4103",
-  "squadron": "5 LFS",
-  "station": "Syerston",
-  "crew_summary": "11 killed in mid-air collision (9 Lancaster crew + 2 Oxford crew)",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "screveton-1-wellington-w-4103",
+    "title": "Screveton (1) W.4103 Memorial",
+    "location_name": "Screveton (1), Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-018",
+    "crash_date": "1944-04-14",
+    "aircraft_type": "Lancaster I W4103",
+    "squadron": "5 LFS",
+    "station": "Syerston",
+    "crew_summary": "11 killed in mid-air collision (9 Lancaster crew + 2 Oxford crew)",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "Aircrew Remembered - Richardson Henry",
+            "type": "website",
+            "url": "https://aircrewremembered.com/richardson-henry.html"
+        },
+        {
+            "title": "TracesOfWar - Memorial Aircraft Collision Screveton",
+            "type": "website",
+            "url": "https://www.tracesofwar.com/sights/21027/Memorial-Aircraft-Collission-Screveton.htm"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the afternoon of 14 April 1944, the skies above the quiet Nottinghamshire village of Screveton became the scene of the worst single training accident in the area. A Lancaster from 5 Lancaster Finishing School at nearby RAF Syerston and an Airspeed Oxford from 1521 BAT Flight at RAF Wymeswold in Leicestershire collided in mid-air at around 16:30 at an altitude of 1,000 feet. The Lancaster, crewed by nine men including a Canadian pilot instructor and an Australian pupil pilot, disintegrated. The Oxford, carrying two pilots — an instructor and a trainee — was also destroyed. Eyewitnesses reported that both pilots appeared to steer their stricken aircraft away from the village and into open countryside, a selfless act that almost certainly saved civilian lives. All nine Lancaster crew died instantly. Fl/Lt Hawkins in the Oxford survived the initial crash but succumbed to his injuries later that day at RAF Quarrington Hospital in Sleaford. The ages ranged from 19 (two men — engineer Herbert and trainee pilot Stokoe) to 28 (the Canadian instructor Richardson, who held the DFM, and Australian Laidler). The collision highlighted the ever-present danger of the crowded wartime skies over Nottinghamshire, where dozens of training flights operated daily from multiple airfields in close proximity.",
+    "crew": [
+        {
+            "rank": "F/O",
+            "name": "Henry Holmes Richardson",
+            "service_number": "J/17320",
+            "age": 28,
+            "role": "Pilot Instructor",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet over Screveton. As pilot instructor, he was the most experienced crew member.",
+            "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 210",
+            "cwgc_verified": true,
+            "bio": "Canadian pilot instructor serving with the RCAF, aged 28. Held the Distinguished Flying Medal, indicating previous operational experience before being posted to instruct at 5 LFS.",
+            "decorations": [
+                "DFM"
+            ]
+        },
+        {
+            "rank": "P/O",
+            "name": "Patrick William Laidler",
+            "service_number": "AUS/415800",
+            "age": 28,
+            "role": "Pupil Pilot",
+            "nationality": "Australian",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision.",
+            "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 209",
+            "cwgc_verified": true,
+            "bio": "Australian airman serving with the RAAF, aged 28. Was training on Lancasters at the finishing school before being posted to an operational squadron.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Henry Ernest Herbert",
+            "service_number": "1822275",
+            "age": 19,
+            "role": "Flight Engineer",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest crew members at 19.",
+            "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 211",
+            "cwgc_verified": true,
+            "bio": "Young flight engineer serving with the RAFVR, just 19 years old. Buried alongside Richardson and Laidler at Oxford.",
+            "decorations": []
+        },
+        {
+            "rank": "F/O",
+            "name": "Peter William Raymond Holes",
+            "service_number": "140864",
+            "age": 22,
+            "role": "Navigator",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet.",
+            "cwgc_verified": true,
+            "bio": "Navigator serving with the RAFVR, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "F/O",
+            "name": "David Winchester McRuer",
+            "service_number": "151768",
+            "age": 22,
+            "role": "Air Bomber",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision.",
+            "cwgc_verified": true,
+            "bio": "Air bomber serving with the RAFVR, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Glyn Robert Aspinall",
+            "service_number": "1800248",
+            "age": 20,
+            "role": "W/Op Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision.",
+            "cwgc_verified": true,
+            "bio": "Wireless operator/air gunner serving with the RAFVR, known as 'Bob', aged 20.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Frederick William Edwards",
+            "service_number": "1869475",
+            "age": 22,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision.",
+            "cwgc_verified": true,
+            "bio": "Air gunner serving with the RAFVR, aged 22.",
+            "decorations": []
+        },
+        {
+            "rank": "Sgt",
+            "name": "Victor Charles William Arras Gouldstone",
+            "service_number": "1892933",
+            "age": 27,
+            "role": "Air Gunner",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision.",
+            "cwgc_verified": true,
+            "bio": "Air gunner serving with the RAFVR, aged 27.",
+            "decorations": []
+        },
+        {
+            "rank": "AC2",
+            "name": "Sidney Stokoe",
+            "service_number": "1677803",
+            "age": 19,
+            "role": "Pilot Under Training",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest at 19, he had barely begun his pilot training.",
+            "cwgc_verified": true,
+            "bio": "Trainee pilot serving with the RAFVR, just 19 years old. As an Aircraftman 2nd Class, he was the most junior crew member.",
+            "decorations": []
+        },
+        {
+            "rank": "Fl/Lt",
+            "name": "James Addison Hawkins",
+            "service_number": "120119",
+            "age": 22,
+            "role": "Pilot Instructor (Oxford LB415)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Thrown from the Oxford aircraft by the collision and parachuted to the ground. Rushed to RAF Quarrington Hospital in Sleaford but died from his injuries later the same day.",
+            "burial_location": "Burton-on-the-Wolds, Row F, Grave 10",
+            "cwgc_verified": true,
+            "bio": "Pilot instructor from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 22. Was flying the Airspeed Oxford that collided with the Lancaster.",
+            "decorations": []
+        },
+        {
+            "rank": "F/O",
+            "name": "Bryan Hedley Dennis",
+            "service_number": "160921",
+            "age": 21,
+            "role": "Pilot Under Training (Oxford LB415)",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed instantly in the mid-air collision aboard Airspeed Oxford LB415.",
+            "burial_location": "St Albans Cemetery, Sec. L, Row A, Grave 33",
+            "cwgc_verified": true,
+            "bio": "Trainee pilot from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 21.",
+            "decorations": []
+        }
+    ],
+    "latitude": 52.9878,
+    "longitude": -0.9089,
+    "cause_of_loss": "Mid-air collision between the two training aircraft at 1,000 feet",
+    "operation_type": "Training",
+    "memorial_details": "Initial research into the collision was carried out by a man who had witnessed the crash as a schoolboy. A stone memorial was dedicated on 13 November 2005, bearing the names of all eleven men. The memorial is located on public land near Screveton village. It is maintained by local residents.",
+    "maintainer": {
+        "organisation": "Screveton Parish Meeting",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "Aircrew Remembered - Richardson Henry",
-      "type": "website",
-      "url": "https://aircrewremembered.com/richardson-henry.html"
-    },
-    {
-      "title": "TracesOfWar - Memorial Aircraft Collision Screveton",
-      "type": "website",
-      "url": "https://www.tracesofwar.com/sights/21027/Memorial-Aircraft-Collission-Screveton.htm"
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/richardson-henry.html",
+            "summary": "Detailed crew page for 5 LFS Lancaster I W4103 piloted by F/O Richardson DFM. The mid-air collision with Airspeed Oxford LB415 from 1521 BAT Flight occurred at 1,000 feet over Screveton at 16:30 during a daytime dual flying exercise, killing all aboard both aircraft.",
+            "key_details": [
+                "Collision at 1,000 feet altitude",
+                "Oxford aircraft was LB415 from 1521 BAT Flight at RAF Wymeswold",
+                "Both aircraft pilots steered away from village",
+                "Collision occurred 40 minutes into exercise"
+            ],
+            "date_retrieved": "2026-03-24",
+            "still_live": true,
+            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 14.04.1944 No 5 L.F.S. Lancaster I W4103 F/O. Henry H. Richardson DFM Operation: Training.\n\nDate: 14 April 1944 (Friday)\n\nUnit: No.5 Lancaster Finishing School / No.1521 Flight - Beam Approach Training\n\nType: Lancaster I / Oxford I\n\nSerial: W4103 / LB415\n\nBase: RAF Syerston, Nottinghamshire.\n\nLocation: Screveton - One and a half miles South of Syerston Airfield.\n\nPilot Inst: F/O. Henry Holmes Richardson DFM. J/17320 RCAF Age 28. Killed (1)\n\nPupil Pilot: P/O. Patrick William Laidler AUS/415800 RAAF Age 28. Killed\n\nFlt/Eng: Sgt. Henry Ernest Herbert 1822275 RAFVR Age 19. Killed\n\nNav:F/O. Peter William Raymond Holes 140864 RAFVR Age 22. Killed\n\nAir/Bmr: F/O. David Winchester McRuer 151768 RAFVR Age 22. Killed\n\nW/Op/Air/Gnr: Sgt. Glyn Robert (Bob) Aspinall 1800248 RAFVR Age 20. Killed\n\nAir/Gnr: Sgt. Frederick William Edwards 1869475 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Victor Charles William Arras Gouldstone 1892933 RAFVR Age 27. Killed\n\nPilot U/T: AC2. Sidney Stokoe 1677803 RAFVR Age 19. Killed\n\nPilot Inst: Fl/Lt. James Addison Hawkins 120119 RAFVR Age 22. Injured (2)\n\nPilot U/T: F/O. Bryan Hedley Dennis 160921 RAFVR Age 21. Killed\n\nAt 16:30 hours, forty minutes into a daytime dual flying exercise, Lancaster W4103 was involved in a mid-air collision with a beam approach training Airspeed Oxford LB415 from 1521 Flight at Wymeswold (having taken off at 15:35 hrs).\n\nThe two aircraft were seen to collide at an altitude of 1000 feet over the village of Screveton and crashed a short distance apart in a field just south of the airfield at Screveton. There was no chance of escape and the crews of both aircraft were all killed. Several witnesses at the time stated that both pilots tried to steer their damaged aircraft away from the village.\n\nAbove left: P/O. Patrick William Laidler (courtesy Barry Laidler) Right: Memorial plaque (courtesy Richard Flagg)\n\n(2) It seems that during the impact, the pilot of the Oxford was thrown clear and descended by parachute - sadly he succumbed to his injuries later that day at the RAF hospital in Quarrington in Sleaford.\n\nAbove: memorial to crew (courtesy Richard Flagg)\n\nF/O. Henry Holmes Richardson. Oxford Cemetery (Botley). Plot I/2 Grave 210. Son of Henry Robson Richardson and Elizabeth M. Richardson of Winnipeg, Manitoba, Canada.\n\nP/O. Patrick William Laidler. Oxford Cemetery (Botley). Plot I/2 Grave 209. Son of William Mathew and Wilhelmina Gertrude (Nee Young) Laidler, husband of Veeni Edwina Horwill Laidler of 84 Edinboro Street, Mount Hawthorn, Western Australia. Buried at Botley at 12:00 hrs on the 19th April 1944. Prior to enlisting in Perth, Australia employed as a bus driver with Scarborough Bus Service, North Beach. Born on the 26th March 1916.\n\nSgt. Henry Ernest Herbert. Oxford Cemetery (Botley). Plot I/2 Grave 211. Son of Tom Joseph and Margaret Jessie Herbert of Crickhowell, Brecknockshire, Wales.\n\nF/O. Peter William Raymond Holes. Colwyn Bay Cemetery (Bronynant). Sec. B Grave 147. Son of Fred and Emily Holes of Colwyn Bay, Wales.\n\nF/O. David Winchester McRuer. Newark upon Trent Cemetery. Sec. F Grave 310. Son of David Stevenson McRuer and Sophie McRuer of Edinburgh. M.A., Hons. (Edin), Scotland.\n\nP/O. Glyn Robert (Bob) Aspinall. Laxfield Cemetery. Sec.7 Grave 11. Son of Robert Thomas Aspinall and Ruby Anna Aspinall of Ipswich, Suffolk, England.\n\nSgt. Frederick William Edwards. Birmingham Cemetery (Lodge Hill). Plot 47D Grave 40799. Son of Frederick William and Edith Edwards of Sparkhill, Birmingham; husband of Jose Frances Edwards of Sparkhill, Birmingham, England.\n\nSgt. Victor Charles William Arras Gouldstone. Aylesford Cemetery. S.E. Plot Grave 6. Son of Alfred Leonard and Rose Alice Laura Gouldstone, husband of Hilda Florence Verion Gouldstone of Aylesford, Kent, England.\n\nAC2. Sidney Stokoe. Newcastle upon Tyne Cemetery (West Road). Sec. H Grave 229. Son of William and Edith Stokoe of Benwell, Newcastle-on-Tyne, England.\n\nFl/Lt. James Addison Hawkins. Burton-On-The-Wolds Burial Ground. Row F. Grave 10. Son of Reginald Thomas Hawkins and Margaret Thomson Hawkins, of Edinburgh, Scotland.\n\nF/O. Bryan Hedley Dennis. St. Albans Cemetery (Hatfield Road). Sec L. Row A. Grave 33. Son of Mr. and Mrs. Jack Percy Donald Dennis, of St. Albans, England.\n\nResearched by Aircrew Remembered, researcher and RCAF specialist Colin Bamford for relatives of this crew. Additional information added by the webmaster."
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/21027/Memorial-Aircraft-Collission-Screveton.htm",
+            "summary": "International memorial database entry for the Screveton aircraft collision memorial. Documents the stone memorial dedicated on 13 November 2005 commemorating all 11 crew from both aircraft.",
+            "key_details": [
+                "Memorial dedicated 13 November 2005",
+                "Commemorates all 11 men from both aircraft"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Visit Nottinghamshire",
+            "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+            "summary": "Nottinghamshire Aviation Memorials guide including the Screveton collision memorial.",
+            "key_details": [
+                "Part of Nottinghamshire aviation memorials trail",
+                "Dense airfield network created collision risk"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Notts Villages Blog",
+            "original_url": "http://nottsvillages.blogspot.com/2015/07/screveton.html",
+            "summary": "Village history blog documenting the Screveton collision as a significant event in the village's history.",
+            "key_details": [
+                "Memorial research started by childhood witness",
+                "Significant event in village history"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Bingham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+        },
+        {
+            "org_name": "Screveton Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "winks.basics.wage",
+    "photos": [
+        {
+            "filename": "screveton-1-wellington-w-4103/fo-henry-holmes-richardson-dfm-and-grave-w800-w800.jpg",
+            "caption": "fo henry holmes richardson dfm and grave",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "screveton-1-wellington-w-4103/po-patrick-william-laidler-memorial-to-crews-1-w800-w800.jpg",
+            "caption": "po patrick william laidler memorial to crews 1",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "screveton-1-wellington-w-4103/5-lancaster-finishing-school-lancaster-i-w4103-w760.jpg",
+            "caption": "5 lancaster finishing school lancaster i",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "screveton-1-wellington-w-4103/lancaster-i-w4103-oxford-lb415-memorial-w760.jpg",
+            "caption": "lancaster i w4103 oxford lb415 memorial",
+            "credit": "Aircrew Remembered"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Screveton Nottinghamshire NG13 at 52.985 -0.912",
+            "Current 52.988 -0.909 within ~0.5km — essentially correct"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "NO CHANGE. Current coords (52.988, -0.909) within ~0.5km of Screveton NG13 centroid. No material correction needed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the afternoon of 14 April 1944, the skies above the quiet Nottinghamshire village of Screveton became the scene of the worst single training accident in the area. A Lancaster from 5 Lancaster Finishing School at nearby RAF Syerston and an Airspeed Oxford from 1521 BAT Flight at RAF Wymeswold in Leicestershire collided in mid-air at around 16:30 at an altitude of 1,000 feet. The Lancaster, crewed by nine men including a Canadian pilot instructor and an Australian pupil pilot, disintegrated. The Oxford, carrying two pilots — an instructor and a trainee — was also destroyed. Eyewitnesses reported that both pilots appeared to steer their stricken aircraft away from the village and into open countryside, a selfless act that almost certainly saved civilian lives. All nine Lancaster crew died instantly. Fl/Lt Hawkins in the Oxford survived the initial crash but succumbed to his injuries later that day at RAF Quarrington Hospital in Sleaford. The ages ranged from 19 (two men — engineer Herbert and trainee pilot Stokoe) to 28 (the Canadian instructor Richardson, who held the DFM, and Australian Laidler). The collision highlighted the ever-present danger of the crowded wartime skies over Nottinghamshire, where dozens of training flights operated daily from multiple airfields in close proximity.",
-  "crew": [
-    {
-      "rank": "F/O",
-      "name": "Henry Holmes Richardson",
-      "service_number": "J/17320",
-      "age": 28,
-      "role": "Pilot Instructor",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet over Screveton. As pilot instructor, he was the most experienced crew member.",
-      "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 210",
-      "cwgc_verified": true,
-      "bio": "Canadian pilot instructor serving with the RCAF, aged 28. Held the Distinguished Flying Medal, indicating previous operational experience before being posted to instruct at 5 LFS.",
-      "decorations": [
-        "DFM"
-      ]
-    },
-    {
-      "rank": "P/O",
-      "name": "Patrick William Laidler",
-      "service_number": "AUS/415800",
-      "age": 28,
-      "role": "Pupil Pilot",
-      "nationality": "Australian",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision.",
-      "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 209",
-      "cwgc_verified": true,
-      "bio": "Australian airman serving with the RAAF, aged 28. Was training on Lancasters at the finishing school before being posted to an operational squadron.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Henry Ernest Herbert",
-      "service_number": "1822275",
-      "age": 19,
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest crew members at 19.",
-      "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 211",
-      "cwgc_verified": true,
-      "bio": "Young flight engineer serving with the RAFVR, just 19 years old. Buried alongside Richardson and Laidler at Oxford.",
-      "decorations": []
-    },
-    {
-      "rank": "F/O",
-      "name": "Peter William Raymond Holes",
-      "service_number": "140864",
-      "age": 22,
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet.",
-      "cwgc_verified": true,
-      "bio": "Navigator serving with the RAFVR, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "F/O",
-      "name": "David Winchester McRuer",
-      "service_number": "151768",
-      "age": 22,
-      "role": "Air Bomber",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision.",
-      "cwgc_verified": true,
-      "bio": "Air bomber serving with the RAFVR, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Glyn Robert Aspinall",
-      "service_number": "1800248",
-      "age": 20,
-      "role": "W/Op Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision.",
-      "cwgc_verified": true,
-      "bio": "Wireless operator/air gunner serving with the RAFVR, known as 'Bob', aged 20.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Frederick William Edwards",
-      "service_number": "1869475",
-      "age": 22,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision.",
-      "cwgc_verified": true,
-      "bio": "Air gunner serving with the RAFVR, aged 22.",
-      "decorations": []
-    },
-    {
-      "rank": "Sgt",
-      "name": "Victor Charles William Arras Gouldstone",
-      "service_number": "1892933",
-      "age": 27,
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision.",
-      "cwgc_verified": true,
-      "bio": "Air gunner serving with the RAFVR, aged 27.",
-      "decorations": []
-    },
-    {
-      "rank": "AC2",
-      "name": "Sidney Stokoe",
-      "service_number": "1677803",
-      "age": 19,
-      "role": "Pilot Under Training",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest at 19, he had barely begun his pilot training.",
-      "cwgc_verified": true,
-      "bio": "Trainee pilot serving with the RAFVR, just 19 years old. As an Aircraftman 2nd Class, he was the most junior crew member.",
-      "decorations": []
-    },
-    {
-      "rank": "Fl/Lt",
-      "name": "James Addison Hawkins",
-      "service_number": "120119",
-      "age": 22,
-      "role": "Pilot Instructor (Oxford LB415)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Thrown from the Oxford aircraft by the collision and parachuted to the ground. Rushed to RAF Quarrington Hospital in Sleaford but died from his injuries later the same day.",
-      "burial_location": "Burton-on-the-Wolds, Row F, Grave 10",
-      "cwgc_verified": true,
-      "bio": "Pilot instructor from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 22. Was flying the Airspeed Oxford that collided with the Lancaster.",
-      "decorations": []
-    },
-    {
-      "rank": "F/O",
-      "name": "Bryan Hedley Dennis",
-      "service_number": "160921",
-      "age": 21,
-      "role": "Pilot Under Training (Oxford LB415)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed instantly in the mid-air collision aboard Airspeed Oxford LB415.",
-      "burial_location": "St Albans Cemetery, Sec. L, Row A, Grave 33",
-      "cwgc_verified": true,
-      "bio": "Trainee pilot from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 21.",
-      "decorations": []
-    }
-  ],
-  "latitude": 52.9878,
-  "longitude": -0.9089,
-  "cause_of_loss": "Mid-air collision between the two training aircraft at 1,000 feet",
-  "operation_type": "Training",
-  "memorial_details": "Initial research into the collision was carried out by a man who had witnessed the crash as a schoolboy. A stone memorial was dedicated on 13 November 2005, bearing the names of all eleven men. The memorial is located on public land near Screveton village. It is maintained by local residents.",
-  "maintainer": {
-    "organisation": "Screveton Parish Meeting",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "Aircrew Remembered",
-      "original_url": "https://aircrewremembered.com/richardson-henry.html",
-      "summary": "Detailed crew page for 5 LFS Lancaster I W4103 piloted by F/O Richardson DFM. The mid-air collision with Airspeed Oxford LB415 from 1521 BAT Flight occurred at 1,000 feet over Screveton at 16:30 during a daytime dual flying exercise, killing all aboard both aircraft.",
-      "key_details": [
-        "Collision at 1,000 feet altitude",
-        "Oxford aircraft was LB415 from 1521 BAT Flight at RAF Wymeswold",
-        "Both aircraft pilots steered away from village",
-        "Collision occurred 40 minutes into exercise"
-      ],
-      "date_retrieved": "2026-03-24",
-      "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 14.04.1944 No 5 L.F.S. Lancaster I W4103 F/O. Henry H. Richardson DFM Operation: Training.\n\nDate: 14 April 1944 (Friday)\n\nUnit: No.5 Lancaster Finishing School / No.1521 Flight - Beam Approach Training\n\nType: Lancaster I / Oxford I\n\nSerial: W4103 / LB415\n\nBase: RAF Syerston, Nottinghamshire.\n\nLocation: Screveton - One and a half miles South of Syerston Airfield.\n\nPilot Inst: F/O. Henry Holmes Richardson DFM. J/17320 RCAF Age 28. Killed (1)\n\nPupil Pilot: P/O. Patrick William Laidler AUS/415800 RAAF Age 28. Killed\n\nFlt/Eng: Sgt. Henry Ernest Herbert 1822275 RAFVR Age 19. Killed\n\nNav:F/O. Peter William Raymond Holes 140864 RAFVR Age 22. Killed\n\nAir/Bmr: F/O. David Winchester McRuer 151768 RAFVR Age 22. Killed\n\nW/Op/Air/Gnr: Sgt. Glyn Robert (Bob) Aspinall 1800248 RAFVR Age 20. Killed\n\nAir/Gnr: Sgt. Frederick William Edwards 1869475 RAFVR Age 22. Killed\n\nAir/Gnr: Sgt. Victor Charles William Arras Gouldstone 1892933 RAFVR Age 27. Killed\n\nPilot U/T: AC2. Sidney Stokoe 1677803 RAFVR Age 19. Killed\n\nPilot Inst: Fl/Lt. James Addison Hawkins 120119 RAFVR Age 22. Injured (2)\n\nPilot U/T: F/O. Bryan Hedley Dennis 160921 RAFVR Age 21. Killed\n\nAt 16:30 hours, forty minutes into a daytime dual flying exercise, Lancaster W4103 was involved in a mid-air collision with a beam approach training Airspeed Oxford LB415 from 1521 Flight at Wymeswold (having taken off at 15:35 hrs).\n\nThe two aircraft were seen to collide at an altitude of 1000 feet over the village of Screveton and crashed a short distance apart in a field just south of the airfield at Screveton. There was no chance of escape and the crews of both aircraft were all killed. Several witnesses at the time stated that both pilots tried to steer their damaged aircraft away from the village.\n\nAbove left: P/O. Patrick William Laidler (courtesy Barry Laidler) Right: Memorial plaque (courtesy Richard Flagg)\n\n(2) It seems that during the impact, the pilot of the Oxford was thrown clear and descended by parachute - sadly he succumbed to his injuries later that day at the RAF hospital in Quarrington in Sleaford.\n\nAbove: memorial to crew (courtesy Richard Flagg)\n\nF/O. Henry Holmes Richardson. Oxford Cemetery (Botley). Plot I/2 Grave 210. Son of Henry Robson Richardson and Elizabeth M. Richardson of Winnipeg, Manitoba, Canada.\n\nP/O. Patrick William Laidler. Oxford Cemetery (Botley). Plot I/2 Grave 209. Son of William Mathew and Wilhelmina Gertrude (Nee Young) Laidler, husband of Veeni Edwina Horwill Laidler of 84 Edinboro Street, Mount Hawthorn, Western Australia. Buried at Botley at 12:00 hrs on the 19th April 1944. Prior to enlisting in Perth, Australia employed as a bus driver with Scarborough Bus Service, North Beach. Born on the 26th March 1916.\n\nSgt. Henry Ernest Herbert. Oxford Cemetery (Botley). Plot I/2 Grave 211. Son of Tom Joseph and Margaret Jessie Herbert of Crickhowell, Brecknockshire, Wales.\n\nF/O. Peter William Raymond Holes. Colwyn Bay Cemetery (Bronynant). Sec. B Grave 147. Son of Fred and Emily Holes of Colwyn Bay, Wales.\n\nF/O. David Winchester McRuer. Newark upon Trent Cemetery. Sec. F Grave 310. Son of David Stevenson McRuer and Sophie McRuer of Edinburgh. M.A., Hons. (Edin), Scotland.\n\nP/O. Glyn Robert (Bob) Aspinall. Laxfield Cemetery. Sec.7 Grave 11. Son of Robert Thomas Aspinall and Ruby Anna Aspinall of Ipswich, Suffolk, England.\n\nSgt. Frederick William Edwards. Birmingham Cemetery (Lodge Hill). Plot 47D Grave 40799. Son of Frederick William and Edith Edwards of Sparkhill, Birmingham; husband of Jose Frances Edwards of Sparkhill, Birmingham, England.\n\nSgt. Victor Charles William Arras Gouldstone. Aylesford Cemetery. S.E. Plot Grave 6. Son of Alfred Leonard and Rose Alice Laura Gouldstone, husband of Hilda Florence Verion Gouldstone of Aylesford, Kent, England.\n\nAC2. Sidney Stokoe. Newcastle upon Tyne Cemetery (West Road). Sec. H Grave 229. Son of William and Edith Stokoe of Benwell, Newcastle-on-Tyne, England.\n\nFl/Lt. James Addison Hawkins. Burton-On-The-Wolds Burial Ground. Row F. Grave 10. Son of Reginald Thomas Hawkins and Margaret Thomson Hawkins, of Edinburgh, Scotland.\n\nF/O. Bryan Hedley Dennis. St. Albans Cemetery (Hatfield Road). Sec L. Row A. Grave 33. Son of Mr. and Mrs. Jack Percy Donald Dennis, of St. Albans, England.\n\nResearched by Aircrew Remembered, researcher and RCAF specialist Colin Bamford for relatives of this crew. Additional information added by the webmaster."
-    },
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/21027/Memorial-Aircraft-Collission-Screveton.htm",
-      "summary": "International memorial database entry for the Screveton aircraft collision memorial. Documents the stone memorial dedicated on 13 November 2005 commemorating all 11 crew from both aircraft.",
-      "key_details": [
-        "Memorial dedicated 13 November 2005",
-        "Commemorates all 11 men from both aircraft"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Visit Nottinghamshire",
-      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
-      "summary": "Nottinghamshire Aviation Memorials guide including the Screveton collision memorial.",
-      "key_details": [
-        "Part of Nottinghamshire aviation memorials trail",
-        "Dense airfield network created collision risk"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Notts Villages Blog",
-      "original_url": "http://nottsvillages.blogspot.com/2015/07/screveton.html",
-      "summary": "Village history blog documenting the Screveton collision as a significant event in the village's history.",
-      "key_details": [
-        "Memorial research started by childhood witness",
-        "Significant event in village history"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Bingham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-    },
-    {
-      "org_name": "Screveton Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "winks.basics.wage",
-  "photos": [
-    {
-      "filename": "screveton-1-wellington-w-4103/fo-henry-holmes-richardson-dfm-and-grave-w800-w800.jpg",
-      "caption": "fo henry holmes richardson dfm and grave",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "screveton-1-wellington-w-4103/po-patrick-william-laidler-memorial-to-crews-1-w800-w800.jpg",
-      "caption": "po patrick william laidler memorial to crews 1",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "screveton-1-wellington-w-4103/5-lancaster-finishing-school-lancaster-i-w4103-w760.jpg",
-      "caption": "5 lancaster finishing school lancaster i",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "screveton-1-wellington-w-4103/lancaster-i-w4103-oxford-lb415-memorial-w760.jpg",
-      "caption": "lancaster i w4103 oxford lb415 memorial",
-      "credit": "Aircrew Remembered"
-    }
-  ],
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

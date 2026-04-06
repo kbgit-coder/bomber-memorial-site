@@ -1,193 +1,198 @@
 {
-  "id": "cotgrave-place-wellington-w-5365",
-  "title": "Cotgrave Place W.5365 Memorial",
-  "location_name": "Cotgrave Place, Nottinghamshire",
-  "county": "Nottinghamshire",
-  "country": "United Kingdom",
-  "region_code": "NT-012",
-  "crash_date": "1941-02-08",
-  "aircraft_type": "Wellington II",
-  "serial_number": "W5365",
-  "squadron": "12 Squadron",
-  "station": "Tollerton",
-  "crew_summary": "7 killed; 2 survived (Sgt Watkins and F/S H.W. Gill)",
-  "memorial_type": "Memorial plaque with 12 Squadron fox-head badge",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "cotgrave-place-wellington-w-5365",
+    "title": "Cotgrave Place W.5365 Memorial",
+    "location_name": "Cotgrave Place, Nottinghamshire",
+    "county": "Nottinghamshire",
+    "country": "United Kingdom",
+    "region_code": "NT-012",
+    "crash_date": "1941-02-08",
+    "aircraft_type": "Wellington II",
+    "serial_number": "W5365",
+    "squadron": "12 Squadron",
+    "station": "Tollerton",
+    "crew_summary": "7 killed; 2 survived (Sgt Watkins and F/S H.W. Gill)",
+    "memorial_type": "Memorial plaque with 12 Squadron fox-head badge",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        },
+        {
+            "title": "War Memorials Online",
+            "url": "https://www.warmemorialsonline.org.uk/memorial/265188/",
+            "type": "database"
+        },
+        {
+            "title": "IWM War Memorials Register",
+            "url": "https://www.iwm.org.uk/memorials/item/memorial/68056",
+            "type": "database"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "In February 1941, B Flight of 12 (Bomber) Squadron was dispersing from RAF Binbrook in Lincolnshire to nearby RAF Tollerton, south of Nottingham. The Wellington was on a local familiarisation flight. During the flight, the aircraft suffered two separate control incidents, nearly diving into the ground on each occasion. The pilot, Squadron Leader Lawrence, managed to recover each time but was unable to avoid striking an oak tree while attempting to land back at Tollerton. The Wellington crashed near Cotgrave Place manor house. Seven men were killed and two survived. One survivor, F/Sgt H.W. Gill, was saved by being in the rear gunner's turret rather than his usual navigator position.",
+    "crew": [
+        {
+            "rank": "S/Ldr",
+            "name": "Phillip Cutliffe Lawrence",
+            "role": "Pilot",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed when Wellington W5365 struck an oak tree near Tollerton and crashed at Cotgrave Place.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "P/O",
+            "name": "Robert Atkinson",
+            "role": "2nd Pilot",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Cotgrave Place.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Edward Frederick Carter",
+            "role": "Wireless Operator",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Arthur Crooks",
+            "role": "Wireless Operator",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "James John Castleman Batty",
+            "role": "Observer",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Robert Tod Tomlinson",
+            "role": "Wireless Operator",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "fate_detail": "Sgt Tomlinson was awarded the DFM for rescuing the pilot from the burning aircraft.",
+            "cwgc_verified": true,
+            "decorations": [
+                "DFM"
+            ]
+        },
+        {
+            "rank": "Sgt",
+            "name": "Neil Colin Boyle",
+            "role": "Air Gunner",
+            "nationality": "British",
+            "burial_location": "Not confirmed",
+            "fate": "Killed",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Watkins",
+            "role": "Crew",
+            "nationality": "British",
+            "fate": "Survived",
+            "fate_detail": "One of two survivors of the crash."
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "H.W. Gill",
+            "role": "Navigator/Rear Gunner",
+            "nationality": "British",
+            "fate": "Survived",
+            "fate_detail": "Survived because he was positioned in the rear gunner's turret rather than his usual navigator seat. His unusual positioning saved his life."
+        }
+    ],
+    "latitude": 52.912,
+    "longitude": -1.0426,
+    "cause_of_loss": "Control problems during flight; struck oak tree attempting to return to Tollerton",
+    "operation_type": "Local familiarisation flight for squadron dispersal",
+    "memorial_details": "A memorial plaque mounted on a plinth at the first tee of Nottinghamshire Golf and Country Club (formerly Cotgrave Place). Features the 12 Squadron fox-head badge.",
+    "maintainer": {
+        "organisation": "Cotgrave Town Council",
+        "maintainer_type": "parish-council"
     },
-    {
-      "title": "War Memorials Online",
-      "url": "https://www.warmemorialsonline.org.uk/memorial/265188/",
-      "type": "database"
-    },
-    {
-      "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/68056",
-      "type": "database"
+    "external_narratives": [
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/265188/",
+            "summary": "Memorial plaque at first tee of golf club, featuring 12 Squadron fox-head badge.",
+            "key_details": [
+                "Plaque at first tee",
+                "Features 12 Squadron fox-head badge"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Bureau of Aircraft Accidents Archives",
+            "original_url": "https://www.baaa-acro.com/crash/crash-vickers-406-wellington-ii-cotgrave-7-killed",
+            "summary": "Records seven killed, two survived. Wellington II variant.",
+            "key_details": [
+                "Wellington II variant",
+                "Seven killed, two survived"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Visit Nottinghamshire",
+            "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+            "summary": "Part of Nottinghamshire aviation trail.",
+            "key_details": [
+                "Part of Nottinghamshire aviation trail"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
+    "squadron_motto": "Leads the field",
+    "what3words": "pages.loved.above",
+    "photos": [
+        {
+            "filename": "cotgrave-place-wellington-w-5365/5d34780d1536d_Cotgrave_1_547x410.JPG",
+            "caption": "5d34780d1536d Cotgrave 1 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "cotgrave-place-wellington-w-5365/5d34780e2003b_Cotgrave_3_547x410.JPG",
+            "caption": "5d34780e2003b Cotgrave 3 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        },
+        {
+            "filename": "cotgrave-place-wellington-w-5365/5d34780eed8a9_Cotgrave_4_547x410.JPG",
+            "caption": "5d34780eed8a9 Cotgrave 4 547x410",
+            "credit": "Tony Hibberd / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Cotgrave NG12 at 52.9120 -1.0426",
+            "Photon OSM — Cotgrave town at 52.9119 -1.0421"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (52.928, -1.063) ~2.2km NNW of Cotgrave village — in Gamston/West Bridgford area. Both geocoders agree on 52.912 -1.042. Note: 'Cotgrave Place' may refer to a specific farm/estate.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "In February 1941, B Flight of 12 (Bomber) Squadron was dispersing from RAF Binbrook in Lincolnshire to nearby RAF Tollerton, south of Nottingham. The Wellington was on a local familiarisation flight. During the flight, the aircraft suffered two separate control incidents, nearly diving into the ground on each occasion. The pilot, Squadron Leader Lawrence, managed to recover each time but was unable to avoid striking an oak tree while attempting to land back at Tollerton. The Wellington crashed near Cotgrave Place manor house. Seven men were killed and two survived. One survivor, F/Sgt H.W. Gill, was saved by being in the rear gunner's turret rather than his usual navigator position.",
-  "crew": [
-    {
-      "rank": "S/Ldr",
-      "name": "Phillip Cutliffe Lawrence",
-      "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed when Wellington W5365 struck an oak tree near Tollerton and crashed at Cotgrave Place.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "P/O",
-      "name": "Robert Atkinson",
-      "role": "2nd Pilot",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash at Cotgrave Place.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Edward Frederick Carter",
-      "role": "Wireless Operator",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Arthur Crooks",
-      "role": "Wireless Operator",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "James John Castleman Batty",
-      "role": "Observer",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Robert Tod Tomlinson",
-      "role": "Wireless Operator",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "fate_detail": "Sgt Tomlinson was awarded the DFM for rescuing the pilot from the burning aircraft.",
-      "cwgc_verified": true,
-      "decorations": [
-        "DFM"
-      ]
-    },
-    {
-      "rank": "Sgt",
-      "name": "Neil Colin Boyle",
-      "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "Not confirmed",
-      "fate": "Killed",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Watkins",
-      "role": "Crew",
-      "nationality": "British",
-      "fate": "Survived",
-      "fate_detail": "One of two survivors of the crash."
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "H.W. Gill",
-      "role": "Navigator/Rear Gunner",
-      "nationality": "British",
-      "fate": "Survived",
-      "fate_detail": "Survived because he was positioned in the rear gunner's turret rather than his usual navigator seat. His unusual positioning saved his life."
-    }
-  ],
-  "latitude": 52.9277,
-  "longitude": -1.0632,
-  "cause_of_loss": "Control problems during flight; struck oak tree attempting to return to Tollerton",
-  "operation_type": "Local familiarisation flight for squadron dispersal",
-  "memorial_details": "A memorial plaque mounted on a plinth at the first tee of Nottinghamshire Golf and Country Club (formerly Cotgrave Place). Features the 12 Squadron fox-head badge.",
-  "maintainer": {
-    "organisation": "Cotgrave Town Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265188/",
-      "summary": "Memorial plaque at first tee of golf club, featuring 12 Squadron fox-head badge.",
-      "key_details": [
-        "Plaque at first tee",
-        "Features 12 Squadron fox-head badge"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Bureau of Aircraft Accidents Archives",
-      "original_url": "https://www.baaa-acro.com/crash/crash-vickers-406-wellington-ii-cotgrave-7-killed",
-      "summary": "Records seven killed, two survived. Wellington II variant.",
-      "key_details": [
-        "Wellington II variant",
-        "Seven killed, two survived"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Visit Nottinghamshire",
-      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
-      "summary": "Part of Nottinghamshire aviation trail.",
-      "key_details": [
-        "Part of Nottinghamshire aviation trail"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
-  "squadron_motto": "Leads the field",
-  "what3words": "pages.loved.above",
-  "photos": [
-    {
-      "filename": "cotgrave-place-wellington-w-5365/5d34780d1536d_Cotgrave_1_547x410.JPG",
-      "caption": "5d34780d1536d Cotgrave 1 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "cotgrave-place-wellington-w-5365/5d34780e2003b_Cotgrave_3_547x410.JPG",
-      "caption": "5d34780e2003b Cotgrave 3 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    },
-    {
-      "filename": "cotgrave-place-wellington-w-5365/5d34780eed8a9_Cotgrave_4_547x410.JPG",
-      "caption": "5d34780eed8a9 Cotgrave 4 547x410",
-      "credit": "Tony Hibberd / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

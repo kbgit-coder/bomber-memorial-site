@@ -1,163 +1,168 @@
 {
-  "id": "withcall-hk194",
-  "title": "Withcall Mosquito Memorial",
-  "location_name": "Withcall, Lincolnshire",
-  "county": "Lincolnshire",
-  "country": "United Kingdom",
-  "region_code": "LN-040",
-  "crash_date": "1944-09-18",
-  "aircraft_type": "Mosquito",
-  "serial_number": "HK194",
-  "squadron": "307 (Polish) Sqdn.",
-  "station": "Church Fenton",
-  "crew_summary": "2 Polish aircrew killed; pilot Flt Lt. Roman Madej",
-  "memorial_type": "Polish aircrew memorial",
-  "sources": [
-    {
-      "title": "Geograph",
-      "type": "website"
+    "id": "withcall-hk194",
+    "title": "Withcall Mosquito Memorial",
+    "location_name": "Withcall, Lincolnshire",
+    "county": "Lincolnshire",
+    "country": "United Kingdom",
+    "region_code": "LN-040",
+    "crash_date": "1944-09-18",
+    "aircraft_type": "Mosquito",
+    "serial_number": "HK194",
+    "squadron": "307 (Polish) Sqdn.",
+    "station": "Church Fenton",
+    "crew_summary": "2 Polish aircrew killed; pilot Flt Lt. Roman Madej",
+    "memorial_type": "Polish aircrew memorial",
+    "sources": [
+        {
+            "title": "Geograph",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 53.3372789,
+    "longitude": -0.0732965,
+    "maintainer": {
+        "organisation": "Withcall Parish Meeting",
+        "maintainer_type": "parish-council",
+        "notes": "Polish aircrew memorial."
+    },
+    "crew": [
+        {
+            "rank": "Flt Lt",
+            "name": "Stanislaw Roman Madej",
+            "age": 27,
+            "role": "Pilot",
+            "nationality": "Polish",
+            "fate": "Killed"
+        },
+        {
+            "rank": "F/O",
+            "name": "Jozef Stanislaw Gasecki",
+            "age": 25,
+            "role": "Navigator",
+            "nationality": "Polish",
+            "fate": "Killed"
+        }
+    ],
+    "cause_of_loss": "Mid-air collision with another 307 Squadron Mosquito HK228 during return from Operation Market Garden",
+    "operation_type": "Operational",
+    "operation_target": "Returning from Operation Market Garden (Arnhem)",
+    "external_narratives": [
+        {
+            "source_site": "Aircrew Remembered",
+            "original_url": "https://aircrewremembered.com/madej-stanislaw.html",
+            "summary": "Detailed page on Flt Lt Stanislaw Roman Madej and the loss of 307 Squadron Mosquito XII E HK194 EW-L. On 18 September 1944, returning from Operation Market Garden at 400 metres altitude, HK194 was struck from underneath by another 307 Squadron Mosquito HK228 and crashed at Withcall Station at 20:01 hours.",
+            "key_details": [
+                "Pilot Flt Lt Madej was 27 years old, Polish Air Force",
+                "Navigator F/O Gasecki was 25 years old, Polish Air Force",
+                "Aircraft struck from below by Mosquito HK228 of same squadron",
+                "HK228 crew (Flt Lt Griffiths and Flt Lt Lane) survived the collision",
+                "Crash occurred at Withcall Station at 20:01 hrs",
+                "Aircraft was returning from Operation Market Garden support operations"
+            ],
+            "date_retrieved": "2026-03-24",
+            "still_live": true,
+            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 18.09.1944 No 307 Squadron Mosquito XII E HK194 EW-L Fl/Lt. Madej Operation: Market Garden\n\nDate: 18th September 1944 (Monday)\n\nUnit: No. 307 (Polish) Squadron\n\nBase: RAF Church Fenton, North Yorkshire.\n\nLocation: Withcall Station, Withcall, Lincolnshire\n\nPilot: Fl/Lt. Stanisław Roman Madej P-1687 (782029) Polish Air Force Age 27. Killed\n\nNav: F/O. Józef Stanisław Gasecki P-2115 (782033) Polish Air Force Age 25. Killed\n\nWe are please to announce that an unveiling ceremony took place on Saturday the 17th September 2016 at 14:00hrs. The 307 Squadron Project had managed to contact some relatives who also attended.\n\nReturning from Operation Market Garden (1) Mosquito HK228 also from 307 Squadron with the pilot 120469 Fl/Lt. William John Griffiths and his navigator Fl/Lt. George John Lane was hit from underneath by this Mosquito.\n\nFlying at 400 metres HK194 crashed at Withcall Station, Withcall, Lincolnshire at 20:01 hrs. both Polish crew killed. The crew of the other Mosquito managed to continue to Sturgate, also in Lincolnshire, crash landed. The crew managed to get out of the aircraft before it exploded in flames.\n\nAbove L-R: Fl/Lt. Stanisław Roman Madej and F/O. Józef Stanisław Gasecki\n\nLocation of Mosquito crash at Withcall Station\n\nCourse No. 15, 58 OTU. Grangemouth, Scotland: - Front row: Sgt. Corbett, Sgt. Sekkerling, Sgt. Kotlarz, Sgt. Madej , Sgt. Szelestowski, Sgt. Krakowski, Sgt. Polek, Sgt. Kolezynski, Sgt. Elmerycm, Sgt. Grobelny, Sgt. Rutecki, Sgt. Szymanski - Second row: P/O. Hunter, P/O. Loree, P/O. Frith, P/O. Deytrikh, F/O. Gastula, Fl/Lt. Walendowski, P/O. Davies, P/O. Phelan, P/O. Tonge. F/O. Godlewski, P/O. Wigston, P/O. Zakrzewski - Third row: Sgt. Powers, Sgt. Watkin, Sgt. Vance, Sgt. Machan, Sgt. McGready, Sgt. Taggart, Sgt. Oliver, Sgt. Shaw, Sgt. Kippan, Sgt. Moeser, Sgt. Matthewman - Back row: Sgt. Hunt, Sgt. Julian, Sgt. Watson, Sgt. Little, Sgt. Nicoll, Sgt. Kaye, Sgt. Allingham, Sgt. Miller, Sgt. Davies, Sgt. Jowett, Sgt. Rawson, Sgt. Cleaver, Sgt. Burley.\n\nFl/Lt. Stanislaw Roman Madej. Newark-Upon-Trent Cemetery. Sec. K. Grave 326. Born 12 August 1917. Gródek Jagiell, Poland (now Ukraine) Next of kin details not currently available.\n\nF/O. Jozef Stanislaw Gaseki. Newark-Upon-Trent Cemetery. Sec. L. Grave 326. Born 16th February 1919 in Warsaw, Poland. Next of kin details not currently available.\n\nResearched for relatives of the crew with thanks for further information to Robert Gretzyngier, Wojtek Matusiak, Waldemar Wójcik and Józef Zieliński - 'Ku Czci Połeglyçh Lotnikow 1939-1945' Also to the people at the 307 Squadron website for photograph of the new memorial. Jerzy Bogdan Cynk - 'The Polish Airforce At War' Vol's 1 and 2, The Grangemouth Air Cadets and the Grangemouth Spitfire Memorial Trust who provided me with so much information and assistance during my visit. Also thanks to Stations UK for Withcall Station photograph.\n\nKTY - 25.09.2016 Memorial photo added.\n\n- 307 Squadron Mosquito XII E HK194 EW-L Fl/Lt. Madej Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/98175",
+            "summary": "IWM War Memorials Register entry for the 307 Polish Night Fighter Squadron RAF Mosquito crash memorial at Withcall, Lincolnshire. Records the memorial commemorating the two Polish aircrew killed in the mid-air collision on 18 September 1944.",
+            "key_details": [
+                "IWM reference number 98175",
+                "Listed as Polish Night Fighter Squadron memorial"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Polish Air Force Memorial Committee",
+            "original_url": "https://www.polishairforcememorialcommittee.org/news-2023/memorial-to-polish-307-squadron-mosquito-crew",
+            "summary": "Polish Air Force Memorial Committee page about the memorial to the 307 Squadron Mosquito crew at Withcall. The memorial was unveiled on 17 September 2016 and honours the Polish airmen who died returning from Operation Market Garden.",
+            "key_details": [
+                "Memorial unveiled 17 September 2016",
+                "Supported by Polish Air Force Memorial Committee",
+                "Inscription references Operation Market Garden and Arnhem"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Society for Lincolnshire History & Archaeology",
+            "original_url": "https://slha.org.uk/catalogue_item/withcall-crash-memorial-2",
+            "summary": "SLHA catalogue entry for the Withcall crash memorial, providing local historical documentation of the 307 Polish Squadron Mosquito crash site in Lincolnshire.",
+            "key_details": [
+                "Formal Lincolnshire historical society record"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "British Poles",
+            "original_url": "https://www.britishpoles.uk/last-flight-of-raf-mosquito-in-1943-when-2-polish-airmen-got-killed-in-the-crash/",
+            "summary": "British Poles website article on the last flight of the 307 Squadron Mosquito and the two Polish airmen killed. Provides context about Polish aircrew serving in the RAF and their contribution to the Allied war effort.",
+            "key_details": [
+                "Documents the Polish dimension of the memorial",
+                "Context about Polish airmen serving in RAF squadrons"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Louth & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+        },
+        {
+            "org_name": "Withcall Parish Meeting",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "awakening.steady.oldest",
+    "photos": [
+        {
+            "filename": "withcall-hk194/mosquito-hk194-ew-l-memorial-w800-w800.jpg",
+            "caption": "mosquito hk194 ew l memorial",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "withcall-hk194/307-squadron-mosquito-xii-e-hk194-ew-l-crash-area-w760.jpg",
+            "caption": "307 squadron mosquito xii e hk194 ew l crash area",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "withcall-hk194/307-squadron-mosquito-xii-hk-194-1-w800.jpg",
+            "caption": "307 squadron mosquito xii hk 194 1",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "withcall-hk194/course-15-at-58-otu-grangemouth-2-w800-w800.jpg",
+            "caption": "course 15 at 58 otu grangemouth 2",
+            "credit": "Aircrew Remembered"
+        },
+        {
+            "filename": "withcall-hk194/307-squadron-mosquito-xii-e-hk194-ew-l-newark-cemetery-1-w800-1-w800.jpg",
+            "caption": "307 squadron mosquito xii e hk194 ew l newark cemetery 1 w800 1",
+            "credit": "Aircrew Remembered"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Withcall LN11 near Louth Wolds at 53.337 -0.073",
+            "Current 53.197 -0.262 ~17km south/west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.197, -0.262) ~17km southwest. Withcall LN11 near Louth at 53.337, -0.073.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.19712817161076,
-  "longitude": -0.2624241108517652,
-  "maintainer": {
-    "organisation": "Withcall Parish Meeting",
-    "maintainer_type": "parish-council",
-    "notes": "Polish aircrew memorial."
-  },
-  "crew": [
-    {
-      "rank": "Flt Lt",
-      "name": "Stanislaw Roman Madej",
-      "age": 27,
-      "role": "Pilot",
-      "nationality": "Polish",
-      "fate": "Killed"
-    },
-    {
-      "rank": "F/O",
-      "name": "Jozef Stanislaw Gasecki",
-      "age": 25,
-      "role": "Navigator",
-      "nationality": "Polish",
-      "fate": "Killed"
-    }
-  ],
-  "cause_of_loss": "Mid-air collision with another 307 Squadron Mosquito HK228 during return from Operation Market Garden",
-  "operation_type": "Operational",
-  "operation_target": "Returning from Operation Market Garden (Arnhem)",
-  "external_narratives": [
-    {
-      "source_site": "Aircrew Remembered",
-      "original_url": "https://aircrewremembered.com/madej-stanislaw.html",
-      "summary": "Detailed page on Flt Lt Stanislaw Roman Madej and the loss of 307 Squadron Mosquito XII E HK194 EW-L. On 18 September 1944, returning from Operation Market Garden at 400 metres altitude, HK194 was struck from underneath by another 307 Squadron Mosquito HK228 and crashed at Withcall Station at 20:01 hours.",
-      "key_details": [
-        "Pilot Flt Lt Madej was 27 years old, Polish Air Force",
-        "Navigator F/O Gasecki was 25 years old, Polish Air Force",
-        "Aircraft struck from below by Mosquito HK228 of same squadron",
-        "HK228 crew (Flt Lt Griffiths and Flt Lt Lane) survived the collision",
-        "Crash occurred at Withcall Station at 20:01 hrs",
-        "Aircraft was returning from Operation Market Garden support operations"
-      ],
-      "date_retrieved": "2026-03-24",
-      "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 18.09.1944 No 307 Squadron Mosquito XII E HK194 EW-L Fl/Lt. Madej Operation: Market Garden\n\nDate: 18th September 1944 (Monday)\n\nUnit: No. 307 (Polish) Squadron\n\nBase: RAF Church Fenton, North Yorkshire.\n\nLocation: Withcall Station, Withcall, Lincolnshire\n\nPilot: Fl/Lt. Stanisław Roman Madej P-1687 (782029) Polish Air Force Age 27. Killed\n\nNav: F/O. Józef Stanisław Gasecki P-2115 (782033) Polish Air Force Age 25. Killed\n\nWe are please to announce that an unveiling ceremony took place on Saturday the 17th September 2016 at 14:00hrs. The 307 Squadron Project had managed to contact some relatives who also attended.\n\nReturning from Operation Market Garden (1) Mosquito HK228 also from 307 Squadron with the pilot 120469 Fl/Lt. William John Griffiths and his navigator Fl/Lt. George John Lane was hit from underneath by this Mosquito.\n\nFlying at 400 metres HK194 crashed at Withcall Station, Withcall, Lincolnshire at 20:01 hrs. both Polish crew killed. The crew of the other Mosquito managed to continue to Sturgate, also in Lincolnshire, crash landed. The crew managed to get out of the aircraft before it exploded in flames.\n\nAbove L-R: Fl/Lt. Stanisław Roman Madej and F/O. Józef Stanisław Gasecki\n\nLocation of Mosquito crash at Withcall Station\n\nCourse No. 15, 58 OTU. Grangemouth, Scotland: - Front row: Sgt. Corbett, Sgt. Sekkerling, Sgt. Kotlarz, Sgt. Madej , Sgt. Szelestowski, Sgt. Krakowski, Sgt. Polek, Sgt. Kolezynski, Sgt. Elmerycm, Sgt. Grobelny, Sgt. Rutecki, Sgt. Szymanski - Second row: P/O. Hunter, P/O. Loree, P/O. Frith, P/O. Deytrikh, F/O. Gastula, Fl/Lt. Walendowski, P/O. Davies, P/O. Phelan, P/O. Tonge. F/O. Godlewski, P/O. Wigston, P/O. Zakrzewski - Third row: Sgt. Powers, Sgt. Watkin, Sgt. Vance, Sgt. Machan, Sgt. McGready, Sgt. Taggart, Sgt. Oliver, Sgt. Shaw, Sgt. Kippan, Sgt. Moeser, Sgt. Matthewman - Back row: Sgt. Hunt, Sgt. Julian, Sgt. Watson, Sgt. Little, Sgt. Nicoll, Sgt. Kaye, Sgt. Allingham, Sgt. Miller, Sgt. Davies, Sgt. Jowett, Sgt. Rawson, Sgt. Cleaver, Sgt. Burley.\n\nFl/Lt. Stanislaw Roman Madej. Newark-Upon-Trent Cemetery. Sec. K. Grave 326. Born 12 August 1917. Gródek Jagiell, Poland (now Ukraine) Next of kin details not currently available.\n\nF/O. Jozef Stanislaw Gaseki. Newark-Upon-Trent Cemetery. Sec. L. Grave 326. Born 16th February 1919 in Warsaw, Poland. Next of kin details not currently available.\n\nResearched for relatives of the crew with thanks for further information to Robert Gretzyngier, Wojtek Matusiak, Waldemar Wójcik and Józef Zieliński - 'Ku Czci Połeglyçh Lotnikow 1939-1945' Also to the people at the 307 Squadron website for photograph of the new memorial. Jerzy Bogdan Cynk - 'The Polish Airforce At War' Vol's 1 and 2, The Grangemouth Air Cadets and the Grangemouth Spitfire Memorial Trust who provided me with so much information and assistance during my visit. Also thanks to Stations UK for Withcall Station photograph.\n\nKTY - 25.09.2016 Memorial photo added.\n\n- 307 Squadron Mosquito XII E HK194 EW-L Fl/Lt. Madej Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
-    },
-    {
-      "source_site": "Imperial War Museums",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/98175",
-      "summary": "IWM War Memorials Register entry for the 307 Polish Night Fighter Squadron RAF Mosquito crash memorial at Withcall, Lincolnshire. Records the memorial commemorating the two Polish aircrew killed in the mid-air collision on 18 September 1944.",
-      "key_details": [
-        "IWM reference number 98175",
-        "Listed as Polish Night Fighter Squadron memorial"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Polish Air Force Memorial Committee",
-      "original_url": "https://www.polishairforcememorialcommittee.org/news-2023/memorial-to-polish-307-squadron-mosquito-crew",
-      "summary": "Polish Air Force Memorial Committee page about the memorial to the 307 Squadron Mosquito crew at Withcall. The memorial was unveiled on 17 September 2016 and honours the Polish airmen who died returning from Operation Market Garden.",
-      "key_details": [
-        "Memorial unveiled 17 September 2016",
-        "Supported by Polish Air Force Memorial Committee",
-        "Inscription references Operation Market Garden and Arnhem"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Society for Lincolnshire History & Archaeology",
-      "original_url": "https://slha.org.uk/catalogue_item/withcall-crash-memorial-2",
-      "summary": "SLHA catalogue entry for the Withcall crash memorial, providing local historical documentation of the 307 Polish Squadron Mosquito crash site in Lincolnshire.",
-      "key_details": [
-        "Formal Lincolnshire historical society record"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "British Poles",
-      "original_url": "https://www.britishpoles.uk/last-flight-of-raf-mosquito-in-1943-when-2-polish-airmen-got-killed-in-the-crash/",
-      "summary": "British Poles website article on the last flight of the 307 Squadron Mosquito and the two Polish airmen killed. Provides context about Polish aircrew serving in the RAF and their contribution to the Allied war effort.",
-      "key_details": [
-        "Documents the Polish dimension of the memorial",
-        "Context about Polish airmen serving in RAF squadrons"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Louth & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-    },
-    {
-      "org_name": "Withcall Parish Meeting",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "awakening.steady.oldest",
-  "photos": [
-    {
-      "filename": "withcall-hk194/mosquito-hk194-ew-l-memorial-w800-w800.jpg",
-      "caption": "mosquito hk194 ew l memorial",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "withcall-hk194/307-squadron-mosquito-xii-e-hk194-ew-l-crash-area-w760.jpg",
-      "caption": "307 squadron mosquito xii e hk194 ew l crash area",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "withcall-hk194/307-squadron-mosquito-xii-hk-194-1-w800.jpg",
-      "caption": "307 squadron mosquito xii hk 194 1",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "withcall-hk194/course-15-at-58-otu-grangemouth-2-w800-w800.jpg",
-      "caption": "course 15 at 58 otu grangemouth 2",
-      "credit": "Aircrew Remembered"
-    },
-    {
-      "filename": "withcall-hk194/307-squadron-mosquito-xii-e-hk194-ew-l-newark-cemetery-1-w800-1-w800.jpg",
-      "caption": "307 squadron mosquito xii e hk194 ew l newark cemetery 1 w800 1",
-      "credit": "Aircrew Remembered"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

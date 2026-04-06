@@ -1,111 +1,116 @@
 {
-  "id": "reedham-mid-air-collision-b-17-42-37963-and-b-",
-  "title": "Reedham (mid-air collision) 42-31370 Memorial",
-  "location_name": "Reedham (mid-air collision), Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-019",
-  "crash_date": "1944-02-21",
-  "aircraft_type": "B-17 42-37963 and B-17 42-31370",
-  "squadron": "385th BG",
-  "station": "Great Ashfield (USAAF)",
-  "crew_summary": "21 killed combined",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
+    "id": "reedham-mid-air-collision-b-17-42-37963-and-b-",
+    "title": "Reedham (mid-air collision) 42-31370 Memorial",
+    "location_name": "Reedham (mid-air collision), Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-019",
+    "crash_date": "1944-02-21",
+    "aircraft_type": "B-17 42-37963 and B-17 42-31370",
+    "squadron": "385th BG",
+    "station": "Great Ashfield (USAAF)",
+    "crew_summary": "21 killed combined",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 52.5594,
+    "longitude": 1.5684,
+    "maintainer": {
+        "organisation": "Reedham Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "American Air Museum in Britain",
+            "original_url": "https://www.americanairmuseum.com/archive/place/reedham-war-memorial",
+            "summary": "American Air Museum archive entry for the Reedham War Memorial, documenting the mid-air collision of two B-17G Flying Fortresses from the 549th and 550th Bomb Squadrons of the 385th Bomb Group on 21 February 1944.",
+            "key_details": [
+                "549th and 550th Bomb Squadrons involved",
+                "Both crews of ten killed",
+                "Part of 900-plane mission returning from Germany"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "US War Memorials",
+            "original_url": "https://uswarmemorials.org/html/monument_details.php?MemID=2638&SiteID=2001",
+            "summary": "US War Memorials registry entry for the B-17 42-37963 and 42-31370 memorial at Reedham. Documents the memorial stone listing all fallen crew members from the collision.",
+            "key_details": [
+                "Memorial stone lists all 21 crew names",
+                "US War Memorials reference MemID 2638"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Great Yarmouth Mercury",
+            "original_url": "https://www.greatyarmouthmercury.co.uk/news/24102950.reedham-war-memorial-remember-tragic-1944-bomber-crash/",
+            "summary": "Local newspaper coverage of remembrance events at the Reedham War Memorial. The aircraft were returning from a raid on Diepholz in North West Germany and collided in cloud just minutes from landing at Great Ashfield.",
+            "key_details": [
+                "Returning from Diepholz raid",
+                "Collision occurred in cloud",
+                "Aircraft minutes from landing",
+                "Lt Warren J. Pease was pilot of 42-37963"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Channel 4 / Time Team",
+            "original_url": "https://www.channel4.com/programmes/time-team/on-demand/25721-008",
+            "summary": "Time Team Series 6, Episode 8 documented the archaeological excavation of B-17 42-37963 crash site at Reedham Marshes in 1999. The television excavation brought national attention to the crash site.",
+            "key_details": [
+                "Time Team excavated crash site in 1999",
+                "Series 6 Episode 8",
+                "Brought national attention to the memorial"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "American Air Museum in Britain (personnel)",
+            "original_url": "https://www.americanairmuseum.com/archive/person/warren-jay-pease",
+            "summary": "Personnel record for Lieutenant Warren Jay Pease, pilot of B-17G 42-37963 who apparently lost control in cloud and collided with another Fortress in the formation over Reedham Marshes.",
+            "key_details": [
+                "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Acle and District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Reedham Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "crockery.hoot.trap",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io + Photon — Reedham Norfolk NR13 near the Broads at 52.559 1.568",
+            "Current 52.683 1.084 ~14km north/50km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.683, 1.084) ~14km north and ~50km west of Reedham. Village NR13 in Norfolk Broads at 52.559, 1.568.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.682684312427895,
-  "longitude": 1.0836126783453695,
-  "maintainer": {
-    "organisation": "Reedham Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "American Air Museum in Britain",
-      "original_url": "https://www.americanairmuseum.com/archive/place/reedham-war-memorial",
-      "summary": "American Air Museum archive entry for the Reedham War Memorial, documenting the mid-air collision of two B-17G Flying Fortresses from the 549th and 550th Bomb Squadrons of the 385th Bomb Group on 21 February 1944.",
-      "key_details": [
-        "549th and 550th Bomb Squadrons involved",
-        "Both crews of ten killed",
-        "Part of 900-plane mission returning from Germany"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "US War Memorials",
-      "original_url": "https://uswarmemorials.org/html/monument_details.php?MemID=2638&SiteID=2001",
-      "summary": "US War Memorials registry entry for the B-17 42-37963 and 42-31370 memorial at Reedham. Documents the memorial stone listing all fallen crew members from the collision.",
-      "key_details": [
-        "Memorial stone lists all 21 crew names",
-        "US War Memorials reference MemID 2638"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Great Yarmouth Mercury",
-      "original_url": "https://www.greatyarmouthmercury.co.uk/news/24102950.reedham-war-memorial-remember-tragic-1944-bomber-crash/",
-      "summary": "Local newspaper coverage of remembrance events at the Reedham War Memorial. The aircraft were returning from a raid on Diepholz in North West Germany and collided in cloud just minutes from landing at Great Ashfield.",
-      "key_details": [
-        "Returning from Diepholz raid",
-        "Collision occurred in cloud",
-        "Aircraft minutes from landing",
-        "Lt Warren J. Pease was pilot of 42-37963"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Channel 4 / Time Team",
-      "original_url": "https://www.channel4.com/programmes/time-team/on-demand/25721-008",
-      "summary": "Time Team Series 6, Episode 8 documented the archaeological excavation of B-17 42-37963 crash site at Reedham Marshes in 1999. The television excavation brought national attention to the crash site.",
-      "key_details": [
-        "Time Team excavated crash site in 1999",
-        "Series 6 Episode 8",
-        "Brought national attention to the memorial"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "American Air Museum in Britain (personnel)",
-      "original_url": "https://www.americanairmuseum.com/archive/person/warren-jay-pease",
-      "summary": "Personnel record for Lieutenant Warren Jay Pease, pilot of B-17G 42-37963 who apparently lost control in cloud and collided with another Fortress in the formation over Reedham Marshes.",
-      "key_details": [
-        "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Acle and District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Reedham Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "crockery.hoot.trap",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

@@ -1,171 +1,176 @@
 {
-  "id": "bwlchgwyn-near-wrexham-raf-bomber-type-vari",
-  "title": "Bwlchgwyn Whitley LA766 Memorial",
-  "location_name": "Bwlchgwyn (near Wrexham), Wrexham",
-  "county": "Wrexham",
-  "country": "United Kingdom",
-  "region_code": "WA-008",
-  "crash_date": "1943-01-11",
-  "aircraft_type": "Armstrong Whitworth Whitley Mk V",
-  "serial_number": "LA766",
-  "squadron": "81 OTU",
-  "station": "RAF Tilstock",
-  "crew_summary": "8 killed including pilot WO1 David Rozell Roberts RCAF",
-  "memorial_type": "Memorial garden with VE Day 1994 dedication",
-  "sources": [
-    {
-      "title": "History Points",
-      "url": "https://historypoints.org/index.php?page=raf-bomber-crash-site-bwlchgwyn",
-      "type": "website"
-    },
-    {
-      "title": "Aviation Safety Network",
-      "url": "https://asn.flightsafety.org/wikibase/139938",
-      "type": "database"
-    },
-    {
-      "title": "Wrexham History",
-      "url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
-      "type": "website"
+    "id": "bwlchgwyn-near-wrexham-raf-bomber-type-vari",
+    "title": "Bwlchgwyn Whitley LA766 Memorial",
+    "location_name": "Bwlchgwyn (near Wrexham), Wrexham",
+    "county": "Wrexham",
+    "country": "United Kingdom",
+    "region_code": "WA-008",
+    "crash_date": "1943-01-11",
+    "aircraft_type": "Armstrong Whitworth Whitley Mk V",
+    "serial_number": "LA766",
+    "squadron": "81 OTU",
+    "station": "RAF Tilstock",
+    "crew_summary": "8 killed including pilot WO1 David Rozell Roberts RCAF",
+    "memorial_type": "Memorial garden with VE Day 1994 dedication",
+    "sources": [
+        {
+            "title": "History Points",
+            "url": "https://historypoints.org/index.php?page=raf-bomber-crash-site-bwlchgwyn",
+            "type": "website"
+        },
+        {
+            "title": "Aviation Safety Network",
+            "url": "https://asn.flightsafety.org/wikibase/139938",
+            "type": "database"
+        },
+        {
+            "title": "Wrexham History",
+            "url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-23",
+    "data_quality": "Complete",
+    "narrative": "On the night of 11 January 1943, Whitley LA766 took off from RAF Tilstock near Whitchurch in Shropshire on a night navigation exercise. The crew of eight included several trainee navigators, as was typical for 81 OTU flights. The heavy bomber flew into the hillside at Gwernto Bach, between the villages of Bwlchgwyn and Rhydtalog, at about 20:45. All eight men were killed. The youngest, Sergeant David Blackburn Lister, was just 18 years old. There is a local account that one airman — possibly Sergeant Alex Taylor Strachan, aged 19 — was still alive when found but died at the scene before help could arrive. The pilot, Warrant Officer David Rozell Roberts, was Canadian, serving with the RCAF. The crash occurred in relatively low-lying terrain compared to the Snowdonia crashes, emphasising that the hazards of night flying in wartime affected even the more modest hills of North-East Wales.",
+    "crew": [
+        {
+            "rank": "WO1",
+            "name": "David Rozell Roberts",
+            "service_number": "R/80174",
+            "age": 22,
+            "role": "Pilot",
+            "nationality": "Canadian",
+            "fate": "Killed",
+            "fate_detail": "Killed when Whitley LA766 flew into the hillside at Gwernto Bach during a night navigation exercise.",
+            "cwgc_verified": true,
+            "bio": "WO1 Roberts was a 22-year-old Canadian serving with the RCAF."
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "William H. Stewart",
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Gwernto Bach.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "F/Sgt",
+            "name": "Robert Smeaton",
+            "age": 28,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "At 28, one of the older crew members. Killed in the crash.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "P/O",
+            "name": "Ronald James Binham",
+            "age": 20,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Gwernto Bach.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Cyril Edgar Aaron",
+            "age": 20,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Gwernto Bach.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Alex Taylor Strachan",
+            "age": 19,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Local accounts suggest Strachan may have been alive when found at the crash scene but died before help could arrive.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "David Blackburn Lister",
+            "age": 18,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "At just 18, the youngest member of the crew.",
+            "cwgc_verified": true
+        },
+        {
+            "rank": "Sgt",
+            "name": "Michael John Buckle",
+            "age": 20,
+            "nationality": "British",
+            "fate": "Killed",
+            "fate_detail": "Killed in the crash at Gwernto Bach.",
+            "cwgc_verified": true
+        }
+    ],
+    "cause_of_loss": "Aircraft flew into hillside in darkness during navigation exercise",
+    "operation_type": "Training",
+    "memorial_details": "A small memorial garden was created in Bwlchgwyn for VE Day 1994, located at the junction of Glascoed Road and Ruthin Road, adjacent to the village war memorial. The IWM War Memorials Register records the Bwlchgwyn memorial under reference 9044.",
+    "latitude": 53.0647,
+    "longitude": -3.0852,
+    "external_narratives": [
+        {
+            "source_site": "History Points",
+            "original_url": "https://historypoints.org/index.php?page=raf-bomber-crash-site-bwlchgwyn",
+            "summary": "History Points documents the RAF bomber crash site at Bwlchgwyn, recording how Whitley LA766 of 81 OTU crashed on the hillside at Gwernto Bach between Bwlchgwyn and Rhydtalog on the night of 11 January 1943, killing all eight crew.",
+            "key_details": [
+                "Crash location: Gwernto Bach hillside",
+                "81 OTU based at RAF Tilstock"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Aviation Safety Network",
+            "original_url": "https://asn.flightsafety.org/wikibase/139938",
+            "summary": "Aviation Safety Network records the accident of Armstrong Whitworth Whitley Mk V LA766 on 11 January 1943, confirming all eight crew were killed during the night navigational exercise from RAF Tilstock.",
+            "key_details": [
+                "Aircraft type confirmed: Whitley Mk V",
+                "All 8 killed"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wrexham History",
+            "original_url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
+            "summary": "Wrexham History documents the Bwlchgwyn War Memorial which includes reference to the 1943 aircraft crash. The memorial garden was created for VE Day 1994 at the junction of Glascoed Road and Ruthin Road.",
+            "key_details": [
+                "Memorial garden at junction of Glascoed Road and Ruthin Road",
+                "Created for VE Day 1994"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Wrexham Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/81.jpg",
+    "squadron_motto": "Peace Through Strength",
+    "what3words": "hoot.owes.rewriting",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "GeoNames — Bwlchgwyn village at 53.072 -3.100",
+            "DBpedia — village at 53.072 -3.098"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Current coords (53.0647, -3.0852) are ~800m SSE of village centre on high moorland above Bwlchgwyn — plausible position for a crash on the ridge rather than in the village itself. Not clearly wrong. Confidence upgraded from estimated to approximate.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the night of 11 January 1943, Whitley LA766 took off from RAF Tilstock near Whitchurch in Shropshire on a night navigation exercise. The crew of eight included several trainee navigators, as was typical for 81 OTU flights. The heavy bomber flew into the hillside at Gwernto Bach, between the villages of Bwlchgwyn and Rhydtalog, at about 20:45. All eight men were killed. The youngest, Sergeant David Blackburn Lister, was just 18 years old. There is a local account that one airman — possibly Sergeant Alex Taylor Strachan, aged 19 — was still alive when found but died at the scene before help could arrive. The pilot, Warrant Officer David Rozell Roberts, was Canadian, serving with the RCAF. The crash occurred in relatively low-lying terrain compared to the Snowdonia crashes, emphasising that the hazards of night flying in wartime affected even the more modest hills of North-East Wales.",
-  "crew": [
-    {
-      "rank": "WO1",
-      "name": "David Rozell Roberts",
-      "service_number": "R/80174",
-      "age": 22,
-      "role": "Pilot",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed when Whitley LA766 flew into the hillside at Gwernto Bach during a night navigation exercise.",
-      "cwgc_verified": true,
-      "bio": "WO1 Roberts was a 22-year-old Canadian serving with the RCAF."
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "William H. Stewart",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "Robert Smeaton",
-      "age": 28,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "At 28, one of the older crew members. Killed in the crash.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "P/O",
-      "name": "Ronald James Binham",
-      "age": 20,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Cyril Edgar Aaron",
-      "age": 20,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Alex Taylor Strachan",
-      "age": 19,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Local accounts suggest Strachan may have been alive when found at the crash scene but died before help could arrive.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "David Blackburn Lister",
-      "age": 18,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "At just 18, the youngest member of the crew.",
-      "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Michael John Buckle",
-      "age": 20,
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
-    }
-  ],
-  "cause_of_loss": "Aircraft flew into hillside in darkness during navigation exercise",
-  "operation_type": "Training",
-  "memorial_details": "A small memorial garden was created in Bwlchgwyn for VE Day 1994, located at the junction of Glascoed Road and Ruthin Road, adjacent to the village war memorial. The IWM War Memorials Register records the Bwlchgwyn memorial under reference 9044.",
-  "latitude": 53.0647,
-  "longitude": -3.0852,
-  "external_narratives": [
-    {
-      "source_site": "History Points",
-      "original_url": "https://historypoints.org/index.php?page=raf-bomber-crash-site-bwlchgwyn",
-      "summary": "History Points documents the RAF bomber crash site at Bwlchgwyn, recording how Whitley LA766 of 81 OTU crashed on the hillside at Gwernto Bach between Bwlchgwyn and Rhydtalog on the night of 11 January 1943, killing all eight crew.",
-      "key_details": [
-        "Crash location: Gwernto Bach hillside",
-        "81 OTU based at RAF Tilstock"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Aviation Safety Network",
-      "original_url": "https://asn.flightsafety.org/wikibase/139938",
-      "summary": "Aviation Safety Network records the accident of Armstrong Whitworth Whitley Mk V LA766 on 11 January 1943, confirming all eight crew were killed during the night navigational exercise from RAF Tilstock.",
-      "key_details": [
-        "Aircraft type confirmed: Whitley Mk V",
-        "All 8 killed"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Wrexham History",
-      "original_url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
-      "summary": "Wrexham History documents the Bwlchgwyn War Memorial which includes reference to the 1943 aircraft crash. The memorial garden was created for VE Day 1994 at the junction of Glascoed Road and Ruthin Road.",
-      "key_details": [
-        "Memorial garden at junction of Glascoed Road and Ruthin Road",
-        "Created for VE Day 1994"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Wrexham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/81.jpg",
-  "squadron_motto": "Peace Through Strength",
-  "what3words": "hoot.owes.rewriting",
-  "location_confidence": {
-    "status": "confirmed",
-    "score": 2,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

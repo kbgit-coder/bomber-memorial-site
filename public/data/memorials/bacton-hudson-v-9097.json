@@ -1,115 +1,121 @@
 {
-  "id": "bacton-hudson-v-9097",
-  "title": "Bacton V-9097 Memorial",
-  "location_name": "Bacton, Norfolk",
-  "county": "Norfolk",
-  "country": "United Kingdom",
-  "region_code": "NF-001",
-  "crash_date": "1942-01-16",
-  "aircraft_type": "Hudson V-9097",
-  "squadron": "500 Squadron",
-  "station": "Bircham Newton",
-  "crew_summary": "4 killed including Plt Off. John MacGillivray",
-  "memorial_type": "Memorial stone",
-  "sources": [
-    {
-      "title": "Geograph Norfolk",
-      "type": "website"
+    "id": "bacton-hudson-v-9097",
+    "title": "Bacton V-9097 Memorial",
+    "location_name": "Bacton, Norfolk",
+    "county": "Norfolk",
+    "country": "United Kingdom",
+    "region_code": "NF-001",
+    "crash_date": "1942-01-16",
+    "aircraft_type": "Hudson V-9097",
+    "squadron": "500 Squadron",
+    "station": "Bircham Newton",
+    "crew_summary": "4 killed including Plt Off. John MacGillivray",
+    "memorial_type": "Memorial stone",
+    "sources": [
+        {
+            "title": "Geograph Norfolk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-22",
+    "data_quality": "Partial",
+    "crew": [
+        {
+            "rank": "P/O",
+            "name": "John MacGillivray",
+            "role": "Pilot",
+            "fate": "Killed"
+        },
+        {
+            "rank": "Sgt",
+            "name": "Wilfred Albert Sanger",
+            "role": "Navigator",
+            "fate": "Killed"
+        },
+        {
+            "rank": "P/O",
+            "name": "Roger Bourne Wark",
+            "role": "Wireless Operator/Air Gunner",
+            "fate": "Killed"
+        },
+        {
+            "rank": "Sgt",
+            "name": "John Stewart Brownsell",
+            "role": "Wireless Operator/Air Gunner",
+            "fate": "Killed"
+        }
+    ],
+    "latitude": 52.84876,
+    "longitude": 1.46709,
+    "memorial_details": "| Field | Detail | |-------|--------| | Type | Crash site memorial | | Location | Bacton, Norfolk |",
+    "maintainer": {
+        "organisation": "Bacton Parish Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/24581/Memorial-Crash-Lockheed-Hudson.htm",
+            "summary": "TracesOfWar records a memorial at Bacton, Norfolk commemorating four RAF airmen who died when their Lockheed Hudson crashed south of the village on 16 January 1942. The aircraft was carrying four bombs at the time of the crash.",
+            "key_details": [
+                "Memorial at crash site south of Bacton",
+                "Four crew killed",
+                "Aircraft carried four bombs"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Key Aero Forum",
+            "original_url": "https://www.key.aero/forum/historic-aviation/51672-raf-hudson-crash-16-01-42-near-bacton-norfolk",
+            "summary": "Aviation enthusiast forum discussion documenting the RAF Hudson crash near Bacton on 16 January 1942, with contributor research into the crew and circumstances.",
+            "key_details": [
+                "Community research into crash details",
+                "Crash date confirmed as 16 January 1942"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
+            "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
+            "summary": "Geograph's comprehensive listing of East Anglia WW2 aircrew crash memorials includes the Bacton Hudson memorial among the Norfolk sites documented.",
+            "key_details": [
+                "Listed in comprehensive East Anglia WW2 memorial catalogue"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "North Walsham & District Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+        },
+        {
+            "org_name": "Bacton Parish Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/500.jpg",
+    "squadron_motto": "Speed",
+    "what3words": "easily.busy.renewals",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "IWM War Memorials Register ref 108252",
+            "TracesOfWar.com — Memorial Crash Lockheed Hudson, Bacton",
+            "North Norfolk News — rededication 4 Nov 2005"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Current coords (52.8441, 1.4599) are 530m SW of actual location. Memorial is a marble-front brick cairn at Lowlands Farm, Hall Farm Road, Bacton NR12 0JN — private farmland south of village. Rededicated 4 November 2005. IWM ref 108252 + TracesOfWar agree on correct location.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
-  "data_quality": "Partial",
-  "crew": [
-    {
-      "rank": "P/O",
-      "name": "John MacGillivray",
-      "role": "Pilot",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Wilfred Albert Sanger",
-      "role": "Navigator",
-      "fate": "Killed"
-    },
-    {
-      "rank": "P/O",
-      "name": "Roger Bourne Wark",
-      "role": "Wireless Operator/Air Gunner",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "John Stewart Brownsell",
-      "role": "Wireless Operator/Air Gunner",
-      "fate": "Killed"
-    }
-  ],
-  "latitude": 52.8441,
-  "longitude": 1.4599,
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Crash site memorial | | Location | Bacton, Norfolk |",
-  "maintainer": {
-    "organisation": "Bacton Parish Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/24581/Memorial-Crash-Lockheed-Hudson.htm",
-      "summary": "TracesOfWar records a memorial at Bacton, Norfolk commemorating four RAF airmen who died when their Lockheed Hudson crashed south of the village on 16 January 1942. The aircraft was carrying four bombs at the time of the crash.",
-      "key_details": [
-        "Memorial at crash site south of Bacton",
-        "Four crew killed",
-        "Aircraft carried four bombs"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Key Aero Forum",
-      "original_url": "https://www.key.aero/forum/historic-aviation/51672-raf-hudson-crash-16-01-42-near-bacton-norfolk",
-      "summary": "Aviation enthusiast forum discussion documenting the RAF Hudson crash near Bacton on 16 January 1942, with contributor research into the crew and circumstances.",
-      "key_details": [
-        "Community research into crash details",
-        "Crash date confirmed as 16 January 1942"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
-      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
-      "summary": "Geograph's comprehensive listing of East Anglia WW2 aircrew crash memorials includes the Bacton Hudson memorial among the Norfolk sites documented.",
-      "key_details": [
-        "Listed in comprehensive East Anglia WW2 memorial catalogue"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "North Walsham & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-    },
-    {
-      "org_name": "Bacton Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/500.jpg",
-  "squadron_motto": "Speed",
-  "what3words": "easily.busy.renewals",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

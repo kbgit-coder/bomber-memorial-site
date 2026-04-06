@@ -1,54 +1,59 @@
 {
-  "id": "tinian-north-field-memorial",
-  "title": "Tinian North Field Memorial",
-  "location_name": "Tinian, Northern Mariana Islands",
-  "country": "United States",
-  "narrative": "The airfield from which the B-29s Enola Gay and Bockscar departed for the atomic bombing missions. Historical marker at the loading pits where the bombs were loaded.",
-  "memorial_type": "Historical marker",
-  "data_quality": "Stub",
-  "contributor": "Charlie Leitheiser",
-  "last_updated": "2026-03-21",
-  "sources": [
-    {
-      "title": "Charlie Leitheiser hackathon research",
-      "type": "personal_research"
+    "id": "tinian-north-field-memorial",
+    "title": "Tinian North Field Memorial",
+    "location_name": "Tinian, Northern Mariana Islands",
+    "country": "United States",
+    "narrative": "The airfield from which the B-29s Enola Gay and Bockscar departed for the atomic bombing missions. Historical marker at the loading pits where the bombs were loaded.",
+    "memorial_type": "Historical marker",
+    "data_quality": "Stub",
+    "contributor": "Charlie Leitheiser",
+    "last_updated": "2026-03-21",
+    "sources": [
+        {
+            "title": "Charlie Leitheiser hackathon research",
+            "type": "personal_research"
+        }
+    ],
+    "latitude": 15.0715,
+    "longitude": 145.6369,
+    "external_narratives": [
+        {
+            "source_site": "Wikipedia",
+            "original_url": "https://en.wikipedia.org/wiki/North_Field_(Tinian)",
+            "summary": "North Field on Tinian was the world's largest airfield in 1945, with four parallel 8,500-foot runways. It served as the launch point for the atomic bomb missions and hundreds of conventional B-29 bombing raids against Japan.",
+            "key_details": "The airfield and adjacent beaches form the National Historic Landmark District 'Tinian Landing Beaches, Ushi Point Field.' North Field housed the 313th Bombardment Wing and elements of the 509th Composite Group.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Atlas Obscura",
+            "original_url": "https://www.atlasobscura.com/places/atomic-bomb-loading-pits",
+            "summary": "Guide to the preserved atomic bomb loading pits at North Field, Tinian. Two pits were built by Seabees on the northwest side of Runway Able to load the oversized weapons into B-29s. Pit No. 1 loaded 'Little Boy' into Enola Gay; Pit No. 2 loaded 'Fat Man' into Bockscar.",
+            "key_details": "Pits were reopened and sheltered with glazed panels for the 60th anniversary. 'Little Boy' was loaded on 5 August 1945; 'Fat Man' loaded for the 9 August mission to Nagasaki.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "National Park Service",
+            "original_url": "https://www.nps.gov/articles/000/tinian-island-during-the-manhattan-project.htm",
+            "summary": "NPS article on Tinian Island's role in the Manhattan Project, documenting the construction and use of North Field as the base for the 509th Composite Group and the atomic bombing missions.",
+            "key_details": "Tinian was captured by US Marines in July-August 1944. The island was transformed into a massive air base. The NPS manages the site as part of American World War II heritage.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "what3words": "simulations.astonished.disabused",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon OSM — North Field Historic District Tinian CNMI at 15.072 145.637",
+            "Current 15.0 145.63 — rounded approximation ~800m south"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "MINOR CORRECTION. Current coords (15.0, 145.63) rounded approximation ~800m south of North Field Historic District. Updated to 15.072, 145.637.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "latitude": 15.0,
-  "longitude": 145.63,
-  "external_narratives": [
-    {
-      "source_site": "Wikipedia",
-      "original_url": "https://en.wikipedia.org/wiki/North_Field_(Tinian)",
-      "summary": "North Field on Tinian was the world's largest airfield in 1945, with four parallel 8,500-foot runways. It served as the launch point for the atomic bomb missions and hundreds of conventional B-29 bombing raids against Japan.",
-      "key_details": "The airfield and adjacent beaches form the National Historic Landmark District 'Tinian Landing Beaches, Ushi Point Field.' North Field housed the 313th Bombardment Wing and elements of the 509th Composite Group.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Atlas Obscura",
-      "original_url": "https://www.atlasobscura.com/places/atomic-bomb-loading-pits",
-      "summary": "Guide to the preserved atomic bomb loading pits at North Field, Tinian. Two pits were built by Seabees on the northwest side of Runway Able to load the oversized weapons into B-29s. Pit No. 1 loaded 'Little Boy' into Enola Gay; Pit No. 2 loaded 'Fat Man' into Bockscar.",
-      "key_details": "Pits were reopened and sheltered with glazed panels for the 60th anniversary. 'Little Boy' was loaded on 5 August 1945; 'Fat Man' loaded for the 9 August mission to Nagasaki.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "National Park Service",
-      "original_url": "https://www.nps.gov/articles/000/tinian-island-during-the-manhattan-project.htm",
-      "summary": "NPS article on Tinian Island's role in the Manhattan Project, documenting the construction and use of North Field as the base for the 509th Composite Group and the atomic bombing missions.",
-      "key_details": "Tinian was captured by US Marines in July-August 1944. The island was transformed into a massive air base. The NPS manages the site as part of American World War II heritage.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "what3words": "simulations.astonished.disabused",
-  "location_confidence": {
-    "status": "estimated",
-    "score": 0,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

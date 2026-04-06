@@ -1,62 +1,67 @@
 {
-  "id": "garrowby-hill-area-various-bomber-comma",
-  "title": "Garrowby Hill area aircraft Memorial",
-  "location_name": "Garrowby Hill area, Pennines (North)",
-  "county": "Pennines (North)",
-  "country": "United Kingdom",
-  "region_code": "PN-004",
-  "crash_date": "WW2",
-  "aircraft_type": "Various Bomber Command aircraft",
-  "memorial_type": "Memorial markers (referenced in York Stories \"Lost Crews of WW2\")",
-  "sources": [
-    {
-      "title": "yorkstories.co.uk",
-      "type": "website"
-    }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.21359668840336,
-  "longitude": -0.7378627436312528,
-  "maintainer": {
-    "organisation": "Unknown",
-    "maintainer_type": "unknown",
-    "notes": "Memorial markers referenced in York Stories."
-  },
-  "external_narratives": [
-    {
-      "source_site": "York Stories",
-      "original_url": "http://yorkstories.co.uk/yorkshire-memorials/lost-crews-ww2-garrowby-aldborough/",
-      "summary": "Feature on the lost crews of WW2 at Garrowby Hill and other Yorkshire sites. More than 18,000 airmen died flying from Yorkshire airfields during WW2, many on training flights in poor weather. Garrowby Hill was a particularly hazardous landmark.",
-      "key_details": "Garrowby Hill is one of the highest points on the A166 between York and the coast. Multiple bomber crashes occurred in the area due to its elevation and frequent low cloud. Memorial markers at various crash sites.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "id": "garrowby-hill-area-various-bomber-comma",
+    "title": "Garrowby Hill area aircraft Memorial",
+    "location_name": "Garrowby Hill area, Pennines (North)",
+    "county": "Pennines (North)",
+    "country": "United Kingdom",
+    "region_code": "PN-004",
+    "crash_date": "WW2",
+    "aircraft_type": "Various Bomber Command aircraft",
+    "memorial_type": "Memorial markers (referenced in York Stories \"Lost Crews of WW2\")",
+    "sources": [
+        {
+            "title": "yorkstories.co.uk",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 54.0023,
+    "longitude": -0.7491,
+    "maintainer": {
+        "organisation": "Unknown",
+        "maintainer_type": "unknown",
+        "notes": "Memorial markers referenced in York Stories."
     },
-    {
-      "source_site": "York Stories",
-      "original_url": "http://yorkstories.co.uk/yorkshire-memorials/crash-sites-ww2-bombers/",
-      "summary": "Overview of WW2 bomber crash sites in Yorkshire, including the Garrowby Hill area. Documents the concentration of training and operational crashes in the region due to the proximity of RAF bases and the challenging terrain of the Yorkshire Wolds.",
-      "key_details": "Yorkshire was home to numerous Bomber Command stations. The Wolds' elevation combined with frequent poor weather made it a graveyard for aircraft in low visibility.",
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+    "external_narratives": [
+        {
+            "source_site": "York Stories",
+            "original_url": "http://yorkstories.co.uk/yorkshire-memorials/lost-crews-ww2-garrowby-aldborough/",
+            "summary": "Feature on the lost crews of WW2 at Garrowby Hill and other Yorkshire sites. More than 18,000 airmen died flying from Yorkshire airfields during WW2, many on training flights in poor weather. Garrowby Hill was a particularly hazardous landmark.",
+            "key_details": "Garrowby Hill is one of the highest points on the A166 between York and the coast. Multiple bomber crashes occurred in the area due to its elevation and frequent low cloud. Memorial markers at various crash sites.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "York Stories",
+            "original_url": "http://yorkstories.co.uk/yorkshire-memorials/crash-sites-ww2-bombers/",
+            "summary": "Overview of WW2 bomber crash sites in Yorkshire, including the Garrowby Hill area. Documents the concentration of training and operational crashes in the region due to the proximity of RAF bases and the challenging terrain of the Yorkshire Wolds.",
+            "key_details": "Yorkshire was home to numerous Bomber Command stations. The Wolds' elevation combined with frequent poor weather made it a graveyard for aircraft in low visibility.",
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Skipton Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+        }
+    ],
+    "what3words": "seducing.until.gearbox",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon OSM — Garrowby Hill natural peak at 54.0023 -0.7491 East Riding",
+            "Current 53.214 -0.738 in Lincolnshire ~87km south — wrong county"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (53.214, -0.738) in Lincolnshire ~87km south — completely wrong region and county (was labelled Pennines but is East Riding). OSM confirms Garrowby Hill peak at 54.0023 -0.7491 YO42 1SY. County corrected to East Riding of Yorkshire.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Skipton Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-    }
-  ],
-  "what3words": "seducing.until.gearbox",
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }

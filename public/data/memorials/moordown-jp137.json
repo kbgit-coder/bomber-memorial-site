@@ -1,118 +1,123 @@
 {
-  "id": "moordown-jp137",
-  "title": "Moordown Halifax Memorial",
-  "location_name": "Moordown, Bournemouth, Dorset",
-  "county": "Dorset",
-  "country": "United Kingdom",
-  "region_code": "SE-005",
-  "crash_date": "1944-03-21",
-  "aircraft_type": "Halifax",
-  "serial_number": "JP137",
-  "squadron": "No. 3 Overseas Aircraft Dispatch Unit",
-  "station": "Hurn",
-  "crew_summary": "7 aircrew killed; 2 civilians killed; 4 cottages destroyed",
-  "memorial_type": "Dedicated memorial stone",
-  "dedication_date": "10/07/2011",
-  "sources": [
-    {
-      "title": "warmemorialsonline.org.uk (memorial/255340); IWM (memorial/66526); jp137.com",
-      "type": "website"
+    "id": "moordown-jp137",
+    "title": "Moordown Halifax Memorial",
+    "location_name": "Moordown, Bournemouth, Dorset",
+    "county": "Dorset",
+    "country": "United Kingdom",
+    "region_code": "SE-005",
+    "crash_date": "1944-03-21",
+    "aircraft_type": "Halifax",
+    "serial_number": "JP137",
+    "squadron": "No. 3 Overseas Aircraft Dispatch Unit",
+    "station": "Hurn",
+    "crew_summary": "7 aircrew killed; 2 civilians killed; 4 cottages destroyed",
+    "memorial_type": "Dedicated memorial stone",
+    "dedication_date": "10/07/2011",
+    "sources": [
+        {
+            "title": "warmemorialsonline.org.uk (memorial/255340); IWM (memorial/66526); jp137.com",
+            "type": "website"
+        }
+    ],
+    "contributor": "Keith Binley",
+    "last_updated": "2026-03-21",
+    "data_quality": "Partial",
+    "latitude": 50.75389166644557,
+    "longitude": -1.8713726813737561,
+    "maintainer": {
+        "organisation": "Bournemouth, Christchurch and Poole Council",
+        "maintainer_type": "parish-council"
+    },
+    "external_narratives": [
+        {
+            "source_site": "jp137.com",
+            "original_url": "https://www.jp137.com/",
+            "summary": "Dedicated memorial website for Halifax JP137. The aircraft took off from Hurn Aerodrome shortly after 0100 on 21 March 1944 and experienced a serious engine malfunction within the first few minutes of flight. The pilot, 20-year-old Denis Evans, turned to head back following Wimborne Road while flying precariously low. Official reports blamed the pilot, but it is now believed a known Halifax design issue was the primary cause.",
+            "key_details": [
+                "Pilot was 20-year-old Denis Evans",
+                "Known Halifax design fault now believed to be cause",
+                "Official report blamed pilot despite eyewitness accounts of engine failure",
+                "Dedicated memorial website maintained"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Wikipedia",
+            "original_url": "https://en.wikipedia.org/wiki/Moordown_air_disaster",
+            "summary": "Wikipedia article on the Moordown air disaster of 21 March 1944, documenting the crash of Halifax JP137 into the Bournemouth suburb, the loss of seven aircrew and two civilians, and the destruction of four cottages.",
+            "key_details": [
+                "Event has its own Wikipedia article",
+                "Two civilians killed in addition to seven aircrew",
+                "Four cottages destroyed on impact"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "War Memorials Online",
+            "original_url": "https://www.warmemorialsonline.org.uk/memorial/255340",
+            "summary": "War Memorials Online entry for the Moordown Halifax Bomber Crash memorial, unveiled and dedicated on 10 July 2011 in memory of the nine people who lost their lives.",
+            "key_details": [
+                "WMO reference 255340",
+                "Memorial dedicated 10 July 2011"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "Imperial War Museums",
+            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/66526",
+            "summary": "IWM War Memorials Register entry for the Halifax JP137 memorial at Moordown, Bournemouth.",
+            "key_details": [
+                "IWM memorial reference 66526"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        },
+        {
+            "source_site": "TracesOfWar.com",
+            "original_url": "https://www.tracesofwar.com/sights/89576/Memorial-Crash-Halifax-JP-137.htm",
+            "summary": "International heritage database entry for the Halifax JP137 crash memorial at Moordown with photographs and location coordinates.",
+            "key_details": [
+                "Documented on international war heritage database"
+            ],
+            "date_retrieved": "2026-03-23",
+            "still_live": true
+        }
+    ],
+    "local_contacts": [
+        {
+            "org_name": "Dorchester Royal British Legion",
+            "org_type": "british_legion",
+            "role": "Local remembrance and memorial support",
+            "website": "https://counties.britishlegion.org.uk/counties/dorset/"
+        },
+        {
+            "org_name": "Bournemouth, Christchurch and Poole Council",
+            "org_type": "parish_council",
+            "role": "Local authority responsible for memorial upkeep"
+        }
+    ],
+    "what3words": "locker.overdrive.unlocking",
+    "photos": [
+        {
+            "filename": "moordown-jp137/5a2b04efce2c6_Moordown_Halifax_547x410.jpg",
+            "caption": "5a2b04efce2c6 Moordown Halifax 547x410",
+            "credit": "Chris Downer (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+        }
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Moordown suburb of Bournemouth BH9 at 50.754 -1.871",
+            "Current 50.816 -2.391 longitude ~37km too far west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current longitude (−2.391) is ~37km west of Moordown. Moordown is a Bournemouth suburb at 50.754, −1.871.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
     }
-  ],
-  "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 50.815763739186245,
-  "longitude": -2.3911767150141174,
-  "maintainer": {
-    "organisation": "Bournemouth, Christchurch and Poole Council",
-    "maintainer_type": "parish-council"
-  },
-  "external_narratives": [
-    {
-      "source_site": "jp137.com",
-      "original_url": "https://www.jp137.com/",
-      "summary": "Dedicated memorial website for Halifax JP137. The aircraft took off from Hurn Aerodrome shortly after 0100 on 21 March 1944 and experienced a serious engine malfunction within the first few minutes of flight. The pilot, 20-year-old Denis Evans, turned to head back following Wimborne Road while flying precariously low. Official reports blamed the pilot, but it is now believed a known Halifax design issue was the primary cause.",
-      "key_details": [
-        "Pilot was 20-year-old Denis Evans",
-        "Known Halifax design fault now believed to be cause",
-        "Official report blamed pilot despite eyewitness accounts of engine failure",
-        "Dedicated memorial website maintained"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Wikipedia",
-      "original_url": "https://en.wikipedia.org/wiki/Moordown_air_disaster",
-      "summary": "Wikipedia article on the Moordown air disaster of 21 March 1944, documenting the crash of Halifax JP137 into the Bournemouth suburb, the loss of seven aircrew and two civilians, and the destruction of four cottages.",
-      "key_details": [
-        "Event has its own Wikipedia article",
-        "Two civilians killed in addition to seven aircrew",
-        "Four cottages destroyed on impact"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "War Memorials Online",
-      "original_url": "https://www.warmemorialsonline.org.uk/memorial/255340",
-      "summary": "War Memorials Online entry for the Moordown Halifax Bomber Crash memorial, unveiled and dedicated on 10 July 2011 in memory of the nine people who lost their lives.",
-      "key_details": [
-        "WMO reference 255340",
-        "Memorial dedicated 10 July 2011"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Imperial War Museums",
-      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/66526",
-      "summary": "IWM War Memorials Register entry for the Halifax JP137 memorial at Moordown, Bournemouth.",
-      "key_details": [
-        "IWM memorial reference 66526"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "TracesOfWar.com",
-      "original_url": "https://www.tracesofwar.com/sights/89576/Memorial-Crash-Halifax-JP-137.htm",
-      "summary": "International heritage database entry for the Halifax JP137 crash memorial at Moordown with photographs and location coordinates.",
-      "key_details": [
-        "Documented on international war heritage database"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Dorchester Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/dorset/"
-    },
-    {
-      "org_name": "Bournemouth, Christchurch and Poole Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
-    }
-  ],
-  "what3words": "locker.overdrive.unlocking",
-  "photos": [
-    {
-      "filename": "moordown-jp137/5a2b04efce2c6_Moordown_Halifax_547x410.jpg",
-      "caption": "5a2b04efce2c6 Moordown Halifax 547x410",
-      "credit": "Chris Downer (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-    }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [],
-    "verified_by": null,
-    "verification_date": null,
-    "community_submissions": 0
-  }
 }
