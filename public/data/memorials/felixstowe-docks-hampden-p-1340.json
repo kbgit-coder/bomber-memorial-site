@@ -1,142 +1,142 @@
 {
-    "id": "felixstowe-docks-hampden-p-1340",
-    "title": "Felixstowe Docks P.1340 Memorial",
-    "location_name": "Felixstowe Docks, Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-004",
-    "crash_date": "1940-06-04",
-    "aircraft_type": "Hampden P.1340",
-    "squadron": "44 (Rhodesia) Squadron",
-    "station": "Waddington",
-    "crew_summary": "3 killed (struck barrage balloon cable); pilot survived",
-    "memorial_type": "Waterside marker",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the night of 3/4 June 1940, during the desperate early months of the war, Hampden P1340 of 44 (Rhodesia) Squadron took off from RAF Waddington in Lincolnshire for a bombing mission against Emmerich on the German-Dutch border. The Hampden was one of the RAF's frontline medium bombers at this stage of the war, and 44 Squadron was heavily engaged in operations over occupied Europe. Returning from the sortie, the Hampden flew into the barrage balloon defences protecting the port of Harwich and the approaches to the Orwell and Stour estuaries. In the darkness, the pilot had no warning before the aircraft's wing struck a barrage balloon cable. The cable sliced through the aircraft structure, sending the Hampden plunging into the waters near Shotley Point. The pilot, Sergeant Edwin Spencer, was rescued from the water by Petty Officer B. Driver of the Royal Navy. However, the three other crew members -- all aged just twenty years old -- were never recovered. Their bodies remained in the wreckage, which was partially trawled up from the docks area in the 1980s, but no human remains were identified. All three are commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
-    "crew": [
-        {
-            "rank": "Sgt",
-            "name": "Edwin Joseph Spencer",
-            "service_number": "565945",
-            "role": "Pilot",
-            "nationality": "British",
-            "fate": "Survived",
-            "fate_detail": "Rescued from the water by Petty Officer B. Driver of the Royal Navy, who heard Spencer's cries for help and dived into the river to find him clinging to a buoy. Spencer survived the war.",
-            "bio": "Sgt Spencer was the sole survivor. He abandoned the stricken Hampden after it struck the barrage balloon cable and was rescued from the River Orwell by PO Driver RN."
-        },
-        {
-            "rank": "P/O",
-            "name": "Reginald William Roots",
-            "service_number": "36202",
-            "age": 20,
-            "role": "Observer",
-            "nationality": "British",
-            "fate": "MIA",
-            "fate_detail": "Body never recovered from the wreckage in the Orwell estuary. Commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
-            "burial_location": "Runnymede Memorial, Panel 10",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Albert Gross Kendrew",
-            "service_number": "624417 RAFVR",
-            "age": 20,
-            "role": "Air Gunner",
-            "nationality": "British",
-            "fate": "MIA",
-            "fate_detail": "Body never recovered. Wreckage was partially trawled up from the docks area in the 1980s but no human remains were identified. Commemorated on the Runnymede Memorial.",
-            "burial_location": "Runnymede Memorial, Panel 16",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Samuel Patrick Connell",
-            "service_number": "580913",
-            "age": 20,
-            "role": "Air Gunner",
-            "nationality": "British",
-            "fate": "MIA",
-            "fate_detail": "Body never recovered. All three missing crew members were aged just 20. Commemorated on the Runnymede Memorial.",
-            "burial_location": "Runnymede Memorial, Panel 12",
-            "cwgc_verified": true
-        }
-    ],
-    "latitude": 51.9557,
-    "longitude": 1.313,
-    "cause_of_loss": "Collided with barrage balloon cable near Harwich while returning from operations",
-    "operation_type": "Operational",
-    "operation_target": "Bombing sortie to Emmerich, Germany",
-    "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque/marker at crash site; also noted on Felixstowe Town Hall | | Location | Felixstowe area, Suffolk | | Related | Runnymede Memorial (primary commemoration for the three missing crew) |",
-    "maintainer": {
-        "organisation": "Felixstowe Town Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered",
-            "original_url": "https://aircrewremembered.com/spencer-ej.html",
-            "summary": "Page for Sgt Edwin Joseph Spencer and the crew of Hampden P1340, 44 Squadron. Details the 3/4 June 1940 mission to Emmerich and the collision with a barrage balloon cable near Harwich on return.",
-            "key_details": "Pilot Sgt Spencer was rescued from the River Orwell by PO B. Driver RN. Three crew members were never recovered. Their names appear on the Runnymede Memorial.",
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 03/04.06.1940 44 Squadron Hampden I P1340 Sgt. Spencer Operation: Emmerich am Rhein, Germany.\n\nDate: 3rd/4th June 1940\n\nType: Handley Page Hampden I\n\nBase: RAF Waddington, Lincolnshire\n\nLocation: Shotley Point, Orwell Estuary, near Harwich.\n\nPilot: Sgt. Edwin Joseph Spencer 565945 Age? Safe - rescued\n\nObs: Plt Off. Reginald William Roots 36202 RAF Age 20. Missing - believed killed\n\nAir Gnr: Sgt. Albert Gross Kendrew 624417 RAFVR Age 20. Missing - believed killed\n\nAir Gnr: Sgt. Samuel Patrick Connell 580913 RAF Age 20. Missing - believed killed\n\nThis aircraft was tasked for a bombing sortie to Emmerich. En-route to target the aircraft collided with a Barrage Balloon near Harwich.\n\nIt is believed that the pilot, Sgt Spencer abandoned the stricken machine, he owes his life to Petty Officer B. Driver Royal Navy, who heard his cries for help and dived into the river and found Sgt. Spencer clinging to a buoy.\n\nThe Hampden struck the balloon in the Harwich area with the aircraft swinging violently to port. The pilot reported that he was unable to control the aircraft and baled out at approx. 1000 ft.\n\nThe bodies of his three crew were never recovered from the water or from the wreckage which was trawled up from the docks in the 1980's\n\nMemorial commissioned by the Felixstowe Dock and Railway Co dedicated to the three missing airmen at the Felixstowe Dock - commissioned in 1999.\n\nPlt Off. Reginald William Roots. Runnymede Memorial. Panel 10. Son of Claudius William and Florence Irene Roots, of Wellington, Auckland, New Zealand.\n\nAlthough flying as an observer he was a qualified pilot with 316 flying hours logged. This was his 7th operational sortie. Born in England but left and settled in New Zealand at an early age.\n\nSgt. Albert Gross Kendrew. Runnymede Memorial. Panel 16. Son of Arthur Kendrew, and of Bertha Kendrew, of Blackpool, Lancashire, England.\n\nSgt. Samuel Patrick Connell. Runnymede Memorial. Panel 12. Born on the 4th April 1920 in Dublin,Republic of Ireland. Son of John F. and Mary Connell, of Drumcondra, Co. Dublin, Republic of Ireland.\n\nOriginally researched by Aircrew Remembered and dedicated to the families of the crew. Map and updates by Kelvin Youngs - Webmaster (Jun 2018). Thanks to Pamela Flynn, whose husband was nephew to Sgt Connell, for Sgt Connell 's NoK details (May 2022). Other updates by Aircrew Remembered (May 2022).\n\nRS 03.05.2022 - NoK details updated\n\nKTY - 20.06.2018 Map, further information added\n\nRS 03.05.2022 - NoK details updated\n\n- 03/04.06.1940 44 Squadron Hampden I P1340 Sgt. Spencer Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security. Search Tips Advanced Search Home\n\n- Maps Visual Site Map\n\n- FAQ How To Use Site\n\n- About/Donate Helpdesk\n\n- Current Site Health/Issues\n\n- Sponsor/Lay a Wreath\n\n- Doing Your Own Research\n\n- Our support for charities\n\n- Our Research Bibliography\n\n- News Recent Archive Reports\n\n- Not Many People Know That\n\n- Contact/Help Helpdesk\n\n- Doing Your Own Research\n\n- Research Sources\n\n- Your relative's CWGC grave explained\n\n- Sponsor/Lay a Wreath\n\n- Tips for Effective Search\n\n- PersonalHistories Cross Reference Research Lists\n\n- Cross Reference Research Lists All Lists\n\n- Thousands of Personal Histories\n\n- Profiles in Courage\n\n- Thousands of Personal Histories\n\n- Recent Archive Reports\n\n- Profiles in Courage\n\n- 1914 -1918 WW1 Material\n\n- Royal Air Force + RAFVR 1914 -1918 WW1\n\n- Site honouring Czechoslovak RAF\n\n- Holland: LOST Rob Philips Memorial Archive\n\n- Norway, Denmark, Sweden, Finland\n\n- Archiwum Mielnika: Polish Air Force Archive\n\n- USA WASP Flygirls\n\n- USA - Co de Swart Gallery: Baker Crew 95th BG\n\n- USA - Co de Swart Gallery: Geyer Crew 98th BG\n\n- Russia/Soviet Union\n\n- RCAF 409 The Nighthawks\n\n- Hore-Kennard RCAF\n\n- Zenon Bartkowiak PAF\n\n- Charles Dills USAAC\n\n- Gerald Schwartz USAAC\n\n- Ralph Malan Memoirs\n\n- Soviet Women 'Night Witches'\n\n- Full Story of Lancaster Z-Zebra\n\n- First Air Raid Victim\n\n- 1914 -1918 WW1 Material\n\n- Databases Databases Master List\n\n- Consolidated Names: includes 500K+ names from all our databases\n\n- Cross Reference Research Lists\n\n- Research Sources\n\n- MULTI-NATIONAL DATABASES\n\n- Aces and Aviators International WW1 - 3..."
-        },
-        {
-            "source_site": "TracesOfWar.com",
-            "original_url": "https://www.tracesofwar.com/sights/106964/Memorial-Crew-Hampden-I-P1340.htm",
-            "summary": "Memorial listing for the crew of Hampden I P1340 at Felixstowe. Documents the memorial stone donated by the Felixstowe Dock and Railway Company near the crash site on the north side of the River Orwell.",
-            "key_details": "Memorial stone donated by Felixstowe Dock and Railway Company. Located near the Orwell estuary where the aircraft came down.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Woodbridge Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Felixstowe Town Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
-    "squadron_motto": "The king's thunderbolts",
-    "what3words": "cackling.half.nation",
-    "photos": [
-        {
-            "filename": "felixstowe-docks-hampden-p-1340/44-squadron-hampden-i-p1340-w800-w800.jpg",
-            "caption": "44 squadron hampden i p1340",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "felixstowe-docks-hampden-p-1340/44-squadron-hampden-i-p1340-memorial-w800-w800.jpg",
-            "caption": "44 squadron hampden i p1340 memorial",
-            "credit": "Aircrew Remembered"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon — Port of Felixstowe industrial area at 51.9557 1.3130",
-            "Current 51.9397 ~1.8km south of main port facility"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "Minor correction. Current coords (51.9397, 1.317) ~1.8km south of Port of Felixstowe. Corrected to port/docks area at 51.9557 1.3130.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "felixstowe-docks-hampden-p-1340",
+  "title": "Felixstowe Docks P.1340 Memorial",
+  "location_name": "Felixstowe Docks, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-004",
+  "crash_date": "1940-06-04",
+  "aircraft_type": "Hampden P.1340",
+  "squadron": "44 (Rhodesia) Squadron",
+  "station": "Waddington",
+  "crew_summary": "3 killed (struck barrage balloon cable); pilot survived",
+  "memorial_type": "Waterside marker",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "On the night of 3/4 June 1940, during the desperate early months of the war, Hampden P1340 of 44 (Rhodesia) Squadron took off from RAF Waddington in Lincolnshire for a bombing mission against Emmerich on the German-Dutch border. The Hampden was one of the RAF's frontline medium bombers at this stage of the war, and 44 Squadron was heavily engaged in operations over occupied Europe. Returning from the sortie, the Hampden flew into the barrage balloon defences protecting the port of Harwich and the approaches to the Orwell and Stour estuaries. In the darkness, the pilot had no warning before the aircraft's wing struck a barrage balloon cable. The cable sliced through the aircraft structure, sending the Hampden plunging into the waters near Shotley Point. The pilot, Sergeant Edwin Spencer, was rescued from the water by Petty Officer B. Driver of the Royal Navy. However, the three other crew members -- all aged just twenty years old -- were never recovered. Their bodies remained in the wreckage, which was partially trawled up from the docks area in the 1980s, but no human remains were identified. All three are commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Edwin Joseph Spencer",
+      "service_number": "565945",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Rescued from the water by Petty Officer B. Driver of the Royal Navy, who heard Spencer's cries for help and dived into the river to find him clinging to a buoy. Spencer survived the war.",
+      "bio": "Sgt Spencer was the sole survivor. He abandoned the stricken Hampden after it struck the barrage balloon cable and was rescued from the River Orwell by PO Driver RN."
+    },
+    {
+      "rank": "P/O",
+      "name": "Reginald William Roots",
+      "service_number": "36202",
+      "age": 20,
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "MIA",
+      "fate_detail": "Body never recovered from the wreckage in the Orwell estuary. Commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
+      "burial_location": "Runnymede Memorial, Panel 10",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Gross Kendrew",
+      "service_number": "624417 RAFVR",
+      "age": 20,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "MIA",
+      "fate_detail": "Body never recovered. Wreckage was partially trawled up from the docks area in the 1980s but no human remains were identified. Commemorated on the Runnymede Memorial.",
+      "burial_location": "Runnymede Memorial, Panel 16",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Samuel Patrick Connell",
+      "service_number": "580913",
+      "age": 20,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "MIA",
+      "fate_detail": "Body never recovered. All three missing crew members were aged just 20. Commemorated on the Runnymede Memorial.",
+      "burial_location": "Runnymede Memorial, Panel 12",
+      "cwgc_verified": true
+    }
+  ],
+  "latitude": 51.9557,
+  "longitude": 1.313,
+  "cause_of_loss": "Collided with barrage balloon cable near Harwich while returning from operations",
+  "operation_type": "Operational",
+  "operation_target": "Bombing sortie to Emmerich, Germany",
+  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial plaque/marker at crash site; also noted on Felixstowe Town Hall | | Location | Felixstowe area, Suffolk | | Related | Runnymede Memorial (primary commemoration for the three missing crew) |",
+  "maintainer": {
+    "organisation": "Felixstowe Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/spencer-ej.html",
+      "summary": "Page for Sgt Edwin Joseph Spencer and the crew of Hampden P1340, 44 Squadron. Details the 3/4 June 1940 mission to Emmerich and the collision with a barrage balloon cable near Harwich on return.",
+      "key_details": "Pilot Sgt Spencer was rescued from the River Orwell by PO B. Driver RN. Three crew members were never recovered. Their names appear on the Runnymede Memorial.",
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 03/04.06.1940 44 Squadron Hampden I P1340 Sgt. Spencer Operation: Emmerich am Rhein, Germany.\n\nDate: 3rd/4th June 1940\n\nType: Handley Page Hampden I\n\nBase: RAF Waddington, Lincolnshire\n\nLocation: Shotley Point, Orwell Estuary, near Harwich.\n\nPilot: Sgt. Edwin Joseph Spencer 565945 Age? Safe - rescued\n\nObs: Plt Off. Reginald William Roots 36202 RAF Age 20. Missing - believed killed\n\nAir Gnr: Sgt. Albert Gross Kendrew 624417 RAFVR Age 20. Missing - believed killed\n\nAir Gnr: Sgt. Samuel Patrick Connell 580913 RAF Age 20. Missing - believed killed\n\nThis aircraft was tasked for a bombing sortie to Emmerich. En-route to target the aircraft collided with a Barrage Balloon near Harwich.\n\nIt is believed that the pilot, Sgt Spencer abandoned the stricken machine, he owes his life to Petty Officer B. Driver Royal Navy, who heard his cries for help and dived into the river and found Sgt. Spencer clinging to a buoy.\n\nThe Hampden struck the balloon in the Harwich area with the aircraft swinging violently to port. The pilot reported that he was unable to control the aircraft and baled out at approx. 1000 ft.\n\nThe bodies of his three crew were never recovered from the water or from the wreckage which was trawled up from the docks in the 1980's\n\nMemorial commissioned by the Felixstowe Dock and Railway Co dedicated to the three missing airmen at the Felixstowe Dock - commissioned in 1999.\n\nPlt Off. Reginald William Roots. Runnymede Memorial. Panel 10. Son of Claudius William and Florence Irene Roots, of Wellington, Auckland, New Zealand.\n\nAlthough flying as an observer he was a qualified pilot with 316 flying hours logged. This was his 7th operational sortie. Born in England but left and settled in New Zealand at an early age.\n\nSgt. Albert Gross Kendrew. Runnymede Memorial. Panel 16. Son of Arthur Kendrew, and of Bertha Kendrew, of Blackpool, Lancashire, England.\n\nSgt. Samuel Patrick Connell. Runnymede Memorial. Panel 12. Born on the 4th April 1920 in Dublin,Republic of Ireland. Son of John F. and Mary Connell, of Drumcondra, Co. Dublin, Republic of Ireland.\n\nOriginally researched by Aircrew Remembered and dedicated to the families of the crew. Map and updates by Kelvin Youngs - Webmaster (Jun 2018). Thanks to Pamela Flynn, whose husband was nephew to Sgt Connell, for Sgt Connell 's NoK details (May 2022). Other updates by Aircrew Remembered (May 2022).\n\nRS 03.05.2022 - NoK details updated\n\nKTY - 20.06.2018 Map, further information added\n\nRS 03.05.2022 - NoK details updated\n\n- 03/04.06.1940 44 Squadron Hampden I P1340 Sgt. Spencer Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security. Search Tips Advanced Search Home\n\n- Maps Visual Site Map\n\n- FAQ How To Use Site\n\n- About/Donate Helpdesk\n\n- Current Site Health/Issues\n\n- Sponsor/Lay a Wreath\n\n- Doing Your Own Research\n\n- Our support for charities\n\n- Our Research Bibliography\n\n- News Recent Archive Reports\n\n- Not Many People Know That\n\n- Contact/Help Helpdesk\n\n- Doing Your Own Research\n\n- Research Sources\n\n- Your relative's CWGC grave explained\n\n- Sponsor/Lay a Wreath\n\n- Tips for Effective Search\n\n- PersonalHistories Cross Reference Research Lists\n\n- Cross Reference Research Lists All Lists\n\n- Thousands of Personal Histories\n\n- Profiles in Courage\n\n- Thousands of Personal Histories\n\n- Recent Archive Reports\n\n- Profiles in Courage\n\n- 1914 -1918 WW1 Material\n\n- Royal Air Force + RAFVR 1914 -1918 WW1\n\n- Site honouring Czechoslovak RAF\n\n- Holland: LOST Rob Philips Memorial Archive\n\n- Norway, Denmark, Sweden, Finland\n\n- Archiwum Mielnika: Polish Air Force Archive\n\n- USA WASP Flygirls\n\n- USA - Co de Swart Gallery: Baker Crew 95th BG\n\n- USA - Co de Swart Gallery: Geyer Crew 98th BG\n\n- Russia/Soviet Union\n\n- RCAF 409 The Nighthawks\n\n- Hore-Kennard RCAF\n\n- Zenon Bartkowiak PAF\n\n- Charles Dills USAAC\n\n- Gerald Schwartz USAAC\n\n- Ralph Malan Memoirs\n\n- Soviet Women 'Night Witches'\n\n- Full Story of Lancaster Z-Zebra\n\n- First Air Raid Victim\n\n- 1914 -1918 WW1 Material\n\n- Databases Databases Master List\n\n- Consolidated Names: includes 500K+ names from all our databases\n\n- Cross Reference Research Lists\n\n- Research Sources\n\n- MULTI-NATIONAL DATABASES\n\n- Aces and Aviators International WW1 - 3..."
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/106964/Memorial-Crew-Hampden-I-P1340.htm",
+      "summary": "Memorial listing for the crew of Hampden I P1340 at Felixstowe. Documents the memorial stone donated by the Felixstowe Dock and Railway Company near the crash site on the north side of the River Orwell.",
+      "key_details": "Memorial stone donated by Felixstowe Dock and Railway Company. Located near the Orwell estuary where the aircraft came down.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Woodbridge Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Felixstowe Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
+  "squadron_motto": "Fulmina regis iusta",
+  "what3words": "cackling.half.nation",
+  "photos": [
+    {
+      "filename": "felixstowe-docks-hampden-p-1340/44-squadron-hampden-i-p1340-w800-w800.jpg",
+      "caption": "44 squadron hampden i p1340",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "felixstowe-docks-hampden-p-1340/44-squadron-hampden-i-p1340-memorial-w800-w800.jpg",
+      "caption": "44 squadron hampden i p1340 memorial",
+      "credit": "Aircrew Remembered"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Photon — Port of Felixstowe industrial area at 51.9557 1.3130",
+      "Current 51.9397 ~1.8km south of main port facility"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "Minor correction. Current coords (51.9397, 1.317) ~1.8km south of Port of Felixstowe. Corrected to port/docks area at 51.9557 1.3130.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  }
 }
