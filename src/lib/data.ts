@@ -21,7 +21,20 @@ export function getMemorialBySlug(slug: string): Memorial | undefined {
   const filePath = path.join(memorialsDirectory, `${slug}.json`);
   if (!fs.existsSync(filePath)) return undefined;
   const fileContents = fs.readFileSync(filePath, 'utf8');
-  return JSON.parse(fileContents) as Memorial;
+  const memorial = JSON.parse(fileContents) as Memorial;
+  // Strip personal contact details — never expose email/phone publicly
+  if (memorial.maintainer) {
+    delete (memorial.maintainer as Record<string, unknown>).contact_email;
+    delete (memorial.maintainer as Record<string, unknown>).contact_phone;
+  }
+  if (memorial.local_contacts) {
+    memorial.local_contacts = memorial.local_contacts.map((c) => {
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
+      const { contact_email, contact_phone, ...safe } = c;
+      return safe as typeof c;
+    });
+  }
+  return memorial;
 }
 
 export function getAllMemorialSlugs(): string[] {
