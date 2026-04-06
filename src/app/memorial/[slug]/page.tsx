@@ -502,17 +502,6 @@ export default function MemorialPage({ params }: Props) {
             )}
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
               {memorial.maintainer.organisation && <DetailItem label="Organisation" value={memorial.maintainer.organisation} />}
-              {memorial.maintainer.contact_email && (
-                <div>
-                  <div style={labelStyle}>Contact Email</div>
-                  <div style={{ fontWeight: 500, color: "#333" }}>
-                    <a href={`mailto:${memorial.maintainer.contact_email}`} style={{ color: "#2c5f8a" }}>
-                      {memorial.maintainer.contact_email}
-                    </a>
-                  </div>
-                </div>
-              )}
-              {memorial.maintainer.contact_phone && <DetailItem label="Contact Phone" value={memorial.maintainer.contact_phone} />}
               {memorial.maintainer.website && (
                 <div>
                   <div style={labelStyle}>Website</div>
@@ -564,10 +553,6 @@ export default function MemorialPage({ params }: Props) {
                 )}
                 <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem", fontSize: "0.9rem" }}>
                   {contact.contact_name && <span style={{ color: "#333" }}>{contact.contact_name}</span>}
-                  {contact.contact_email && (
-                    <a href={`mailto:${contact.contact_email}`} style={{ color: "#2c5f8a" }}>{contact.contact_email}</a>
-                  )}
-                  {contact.contact_phone && <span style={{ color: "#333" }}>{contact.contact_phone}</span>}
                   {contact.website && (
                     <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>
                       {contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
