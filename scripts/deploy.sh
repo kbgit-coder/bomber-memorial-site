@@ -56,7 +56,7 @@ fi
 : "${CPANEL_API_TOKEN:?CPANEL_API_TOKEN not set}"
 
 CPANEL_BASE_URL="https://${CPANEL_HOST}:${CPANEL_PORT}"
-CPANEL_AUTH="${CPANEL_API_TOKEN_NAME}:${CPANEL_API_TOKEN}"
+# Auth constructed in API helper section below
 
 # --- Deploy targets ----------------------------------------------------------
 STAGING_DIR="/home/kbwellbe/staging.bombermemorial.co.uk"
@@ -155,57 +155,49 @@ cd "$REPO_ROOT"
 success "Created ${TARBALL} ($(du -sh "$TARBALL" | cut -f1))"
 echo ""
 
-# --- cPanel API helper -------------------------------------------------------
-# Rate limit: 3 calls max — minimum 5 seconds between calls
-cpanel_api() {
-  local module="$1"
-  local func="$2"
-  shift 2
-
-  local url="${CPANEL_BASE_URL}/execute/${module}/${func}"
-  local first=1
-
-  for param in "$@"; do
-    if [[ $first -eq 1 ]]; then
-      url="${url}?${param}"
-      first=0
-    else
-      url="${url}&${param}"
-    fi
-  done
-
-  curl -s -k \
-    -H "Authorization: cpanel ${CPANEL_AUTH}" \
-    "$url"
-}
+# --- cPanel API v2 helper ----------------------------------------------------
+# Uses cPanel API v2 (not UAPI) — confirmed working with HollyDomainManager token
+# Rate limit: minimum 5 seconds between calls
+CPANEL_API_V2="${CPANEL_BASE_URL}/json-api/cpanel?cpanel_jsonapi_version=2"
+CPANEL_AUTH_HEADER="cpanel ${CPANEL_USER}:${CPANEL_API_TOKEN}"
 
 check_api_response() {
   local response="$1"
   local label="$2"
-  if echo "$response" | python3 -c "import sys,json; d=json.load(sys.stdin); sys.exit(0 if d.get('status')==1 else 1)" 2>/dev/null; then
+  local result
+  result=$(echo "$response" | python3 -c "
+import sys, json
+try:
+    d = json.load(sys.stdin)
+    r = d.get('cpanelresult', {})
+    if r.get('event', {}).get('result') == 1:
+        print('OK')
+    else:
+        print(r.get('error', 'unknown error'))
+except:
+    print('parse error')
+" 2>/dev/null)
+  if [[ "$result" == "OK" ]]; then
     success "$label"
     return 0
   else
-    error "$label failed. Response: $response"
+    error "$label failed: $result"
     return 1
   fi
 }
 
-# URL-encode helper
 url_encode() {
   python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1]))" "$1"
 }
-
-ENCODED_HOME=$(url_encode "/home/${CPANEL_USER}")
-ENCODED_DEST=$(url_encode "${DOCUMENT_ROOT}")
 
 # --- Step 5: Upload tarball to cPanel ----------------------------------------
 info "Uploading tarball to cPanel (${CPANEL_HOST})..."
 
 UPLOAD_RESPONSE=$(curl -s -k \
-  -H "Authorization: cpanel ${CPANEL_AUTH}" \
-  -F "file=@${REPO_ROOT}/${TARBALL}" \
-  "${CPANEL_BASE_URL}/execute/Fileman/upload_files?dir=${ENCODED_HOME}&overwrite=1")
+  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
+  -F "dir=${DOCUMENT_ROOT}" \
+  -F "file-1=@${REPO_ROOT}/${TARBALL}" \
+  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=uploadfiles")
 
 check_api_response "$UPLOAD_RESPONSE" "Upload complete" || die "Upload failed — aborting."
 
@@ -215,10 +207,12 @@ sleep 5
 # --- Step 6: Extract on server -----------------------------------------------
 info "Extracting tarball to ${DOCUMENT_ROOT}..."
 
-EXTRACT_RESPONSE=$(cpanel_api Fileman extract_file \
-  "path=${ENCODED_HOME}" \
-  "files[]=${TARBALL}" \
-  "dest=${ENCODED_DEST}")
+ENCODED_SOURCE=$(url_encode "${DOCUMENT_ROOT}/${TARBALL}")
+ENCODED_DEST=$(url_encode "${DOCUMENT_ROOT}")
+
+EXTRACT_RESPONSE=$(curl -s -k \
+  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
+  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=fileop&op=extract&sourcefiles=${ENCODED_SOURCE}&destfiles=${ENCODED_DEST}")
 
 check_api_response "$EXTRACT_RESPONSE" "Extraction complete" || die "Extraction failed — aborting."
 
@@ -228,9 +222,11 @@ sleep 5
 # --- Step 7: Remove tarball from server --------------------------------------
 info "Removing tarball from server..."
 
-DELETE_RESPONSE=$(cpanel_api Fileman delete \
-  "path=${ENCODED_HOME}" \
-  "files[]=${TARBALL}")
+ENCODED_TARBALL=$(url_encode "${DOCUMENT_ROOT}/${TARBALL}")
+
+DELETE_RESPONSE=$(curl -s -k \
+  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
+  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=fileop&op=unlink&sourcefiles=${ENCODED_TARBALL}")
 
 check_api_response "$DELETE_RESPONSE" "Server tarball removed" \
   || warn "Could not remove server tarball (non-fatal) — delete it manually."
