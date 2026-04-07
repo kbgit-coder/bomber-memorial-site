@@ -1,0 +1,411 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://bomber-memorial-site/memorial-schema.json",
+  "title": "Bomber Memorial",
+  "description": "Schema for a WW2 Bomber Command memorial site entry",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "location_name",
+    "country",
+    "memorial_type",
+    "sources",
+    "contributor",
+    "last_updated",
+    "data_quality",
+    "latitude",
+    "longitude",
+    "external_narratives",
+    "what3words"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug identifier for the memorial",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "description": "Display title of the memorial",
+      "minLength": 1
+    },
+    "location_name": {
+      "type": "string",
+      "description": "Human-readable location name",
+      "minLength": 1
+    },
+    "county": {
+      "type": "string",
+      "description": "County or regional administrative area (UK memorials)"
+    },
+    "country": {
+      "type": "string",
+      "description": "Country where the memorial is located",
+      "minLength": 1
+    },
+    "region_code": {
+      "type": "string",
+      "description": "Internal region code for grouping (e.g. LN-003)"
+    },
+    "crash_date": {
+      "type": "string",
+      "description": "Date of the crash — ISO 8601 where known, free text for multi-aircraft or uncertain dates (e.g. 'WW2', '1942-1943')"
+    },
+    "aircraft_type": {
+      "type": "string",
+      "description": "Type of aircraft (e.g. Lancaster, Halifax, Wellington)"
+    },
+    "serial_number": {
+      "type": "string",
+      "description": "Aircraft serial number"
+    },
+    "aircraft_code": {
+      "type": "string",
+      "description": "Aircraft squadron code letters"
+    },
+    "squadron": {
+      "type": "string",
+      "description": "Squadron designation"
+    },
+    "squadron_display_name": {
+      "type": "string",
+      "description": "Human-friendly squadron display name (v3 field)"
+    },
+    "squadron_aliases": {
+      "type": "array",
+      "description": "Alternative names or codes for the squadron (v3 field)",
+      "items": {
+        "type": "string"
+      }
+    },
+    "station": {
+      "type": "string",
+      "description": "RAF station or airfield the aircraft operated from"
+    },
+    "crew_summary": {
+      "type": "string",
+      "description": "Brief summary of the crew and their fate"
+    },
+    "memorial_type": {
+      "type": "string",
+      "description": "Type of memorial (e.g. Physical memorial with plaque, Memorial, Joint memorial)"
+    },
+    "memorial_name": {
+      "type": "string",
+      "description": "Formal name of the memorial if different from title"
+    },
+    "memorial_address": {
+      "type": "string",
+      "description": "Street address or location of the memorial"
+    },
+    "memorial_access_notes": {
+      "type": "string",
+      "description": "Notes on how to access or visit the memorial"
+    },
+    "memorial_details": {
+      "type": "string",
+      "description": "Extended narrative about the memorial itself"
+    },
+    "dedication_date": {
+      "type": "string",
+      "description": "Date the memorial was dedicated or unveiled"
+    },
+    "erected_by": {
+      "type": "string",
+      "description": "Organisation or individual who erected the memorial"
+    },
+    "inscription": {
+      "type": "string",
+      "description": "Text of the inscription on the memorial"
+    },
+    "condition": {
+      "type": "string",
+      "description": "Current condition of the memorial"
+    },
+    "os_grid_reference": {
+      "type": "string",
+      "description": "Ordnance Survey grid reference (UK memorials)"
+    },
+    "narrative": {
+      "type": "string",
+      "description": "Extended narrative about the crash or memorial story"
+    },
+    "cause_of_loss": {
+      "type": "string",
+      "description": "Cause of the aircraft loss or crash"
+    },
+    "operation_type": {
+      "type": "string",
+      "description": "Type of operation being flown (e.g. bombing, training)"
+    },
+    "operation_target": {
+      "type": "string",
+      "description": "Target of the operation (v3 enrichment field)"
+    },
+    "sources": {
+      "type": "array",
+      "description": "List of sources used for this memorial entry",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "type"],
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "contributor": {
+      "type": "string",
+      "description": "Name of the person who contributed this entry",
+      "minLength": 1
+    },
+    "additional_contributors": {
+      "type": "array",
+      "description": "Additional contributors beyond the primary contributor",
+      "items": {
+        "type": "object",
+        "required": ["name", "role"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "last_updated": {
+      "type": "string",
+      "description": "Date this entry was last updated",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "data_quality": {
+      "type": "string",
+      "description": "Quality level of the data in this entry",
+      "enum": ["Complete", "Good", "Partial", "Stub"]
+    },
+    "latitude": {
+      "type": "number",
+      "description": "WGS84 latitude",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "description": "WGS84 longitude",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "what3words": {
+      "type": "string",
+      "description": "what3words address for the memorial location",
+      "pattern": "^[a-z]+\\.[a-z]+\\.[a-z]+$"
+    },
+    "maintainer": {
+      "type": "object",
+      "description": "Organisation responsible for maintaining the memorial",
+      "required": ["organisation", "maintainer_type"],
+      "additionalProperties": false,
+      "properties": {
+        "organisation": {
+          "type": "string"
+        },
+        "maintainer_type": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "website": {
+          "type": "string"
+        }
+      }
+    },
+    "local_contacts": {
+      "type": "array",
+      "description": "Local organisations relevant to the memorial",
+      "items": {
+        "type": "object",
+        "required": ["org_name", "org_type", "role"],
+        "additionalProperties": false,
+        "properties": {
+          "org_name": {
+            "type": "string"
+          },
+          "org_type": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "website": {
+            "type": "string"
+          },
+          "phone": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "contact_name": {
+            "type": "string"
+          },
+          "contact_email": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "external_narratives": {
+      "type": "array",
+      "description": "External sources with narrative summaries",
+      "items": {
+        "type": "object",
+        "required": ["source_site", "original_url", "summary"],
+        "additionalProperties": false,
+        "properties": {
+          "source_site": {
+            "type": "string"
+          },
+          "original_url": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
+          "key_details": {
+            "description": "Key details as a list (preferred) or legacy string",
+            "oneOf": [
+              {
+                "type": "array",
+                "items": { "type": "string" }
+              },
+              {
+                "type": "string"
+              }
+            ]
+          },
+          "date_retrieved": {
+            "type": "string"
+          },
+          "still_live": {
+            "type": "boolean"
+          },
+          "full_narrative": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "photos": {
+      "type": "array",
+      "description": "Photos of the memorial",
+      "items": {
+        "type": "object",
+        "required": ["filename", "caption", "credit"],
+        "additionalProperties": false,
+        "properties": {
+          "filename": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
+          },
+          "credit": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "date_taken": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "crew": {
+      "type": "array",
+      "description": "Individual crew members",
+      "items": {
+        "type": "object",
+        "required": ["rank", "name", "fate"],
+        "additionalProperties": false,
+        "properties": {
+          "rank": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "service_number": {
+            "type": "string"
+          },
+          "age": {
+            "type": ["integer", "null"]
+          },
+          "role": {
+            "type": "string"
+          },
+          "nationality": {
+            "type": "string"
+          },
+          "burial_location": {
+            "type": "string"
+          },
+          "fate": {
+            "type": "string"
+          },
+          "cwgc_verified": {
+            "type": "boolean"
+          },
+          "cwgc_url": {
+            "type": "string"
+          },
+          "fate_detail": {
+            "type": "string"
+          },
+          "bio": {
+            "type": "string"
+          },
+          "hometown": {
+            "type": "string"
+          },
+          "decorations": {
+            "description": "Awards and decorations held by this crew member",
+            "oneOf": [
+              { "type": "array", "items": { "type": "string" } },
+              { "type": "string" }
+            ]
+          }
+        }
+      }
+    },
+    "squadron_badge_url": {
+      "type": "string",
+      "description": "URL to the squadron badge image"
+    },
+    "squadron_motto": {
+      "type": "string",
+      "description": "Official motto of the squadron"
+    }
+  }
+}
