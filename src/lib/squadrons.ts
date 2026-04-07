@@ -1,9 +1,13 @@
 import { getAllMemorials } from './data';
 import { Memorial } from './types';
 
+export type SquadronCategory = 'RAF Bomber Command' | 'USAAF Bomb Groups' | 'Training Units' | 'Other Units';
+
 export interface Squadron {
   slug: string;
   name: string;
+  category: SquadronCategory;
+  sort_number: number;
   badge_url?: string;
   motto?: string;
   stations: string[];
@@ -71,6 +75,22 @@ function normalizeSquadronName(raw: string): string {
   return name;
 }
 
+function categorizeSquadron(name: string): { category: SquadronCategory; sort_number: number } {
+  const numMatch = name.match(/^(\d+)/);
+  const num = numMatch ? parseInt(numMatch[1]) : 9999;
+
+  if (/Bomb Group|Bombardment/i.test(name) || /USAAF/i.test(name)) {
+    return { category: 'USAAF Bomb Groups', sort_number: num };
+  }
+  if (/Operational Training Unit|Heavy Conversion Unit|Lancaster Finishing School|Bomber Command$|RAF Bomber Command/i.test(name)) {
+    return { category: 'Training Units', sort_number: num };
+  }
+  if (/Squadron/i.test(name)) {
+    return { category: 'RAF Bomber Command', sort_number: num };
+  }
+  return { category: 'Other Units', sort_number: num };
+}
+
 function squadronSlug(name: string): string {
   return name
     .toLowerCase()
@@ -84,8 +104,15 @@ export function getAllSquadrons(): Squadron[] {
   const memorials = getAllMemorials();
   const grouped: Record<string, Memorial[]> = {};
 
+  // Generic entries that aren't real squadrons
+  const SKIP = new Set(['Various', 'Unknown', 'Bomber Command', 'RAF Bomber Command',
+    'Bomber/Coastal Command', 'OTU', 'Bomber Command (test flight)',
+    'General Bomber Command memorial', 'RAF', 'USAAF', 'RAF Lindholme',
+    'RAF Finningley', 'RAF Pershore', 'RAF Silverstone', 'RAF Longtown',
+    'Based at Elvington', 'Various squadrons based at East Moor']);
+
   for (const m of memorials) {
-    if (!m.squadron || m.squadron === 'Various' || m.squadron === 'Unknown') continue;
+    if (!m.squadron || SKIP.has(m.squadron)) continue;
     // Normalize before grouping — merges "97 Sqdn." and "97 Squadron"
     const canonical = normalizeSquadronName(m.squadron);
     if (!grouped[canonical]) grouped[canonical] = [];
@@ -99,10 +126,13 @@ export function getAllSquadrons(): Squadron[] {
       const aircraftTypes = Array.from(new Set(mems.map(m => m.aircraft_type).filter((s): s is string => !!s)));
       const totalCrew = mems.reduce((sum, m) => sum + (m.crew?.length || 0), 0);
       const assoc = ASSOCIATION_URLS[name];
+      const { category, sort_number } = categorizeSquadron(name);
 
       return {
         slug: squadronSlug(name),
         name,
+        category,
+        sort_number,
         badge_url: mems[0].squadron_badge_url,
         motto: mems[0].squadron_motto,
         stations,
@@ -112,7 +142,18 @@ export function getAllSquadrons(): Squadron[] {
         aircraft_types: aircraftTypes,
       };
     })
-    .sort((a, b) => b.memorials.length - a.memorials.length);
+    .sort((a, b) => {
+      // Sort by category order, then numerically within category
+      const catOrder: Record<SquadronCategory, number> = {
+        'RAF Bomber Command': 1,
+        'USAAF Bomb Groups': 2,
+        'Training Units': 3,
+        'Other Units': 4,
+      };
+      const catDiff = catOrder[a.category] - catOrder[b.category];
+      if (catDiff !== 0) return catDiff;
+      return a.sort_number - b.sort_number;
+    });
 }
 
 export function getSquadronBySlug(slug: string): Squadron | undefined {
