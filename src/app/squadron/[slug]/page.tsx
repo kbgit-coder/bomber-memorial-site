@@ -86,6 +86,11 @@ export default function SquadronPage({ params }: Props) {
             lineHeight: 1.2,
           }}>
             {squadron.name}
+            {squadron.history?.nickname && (
+              <span style={{ fontSize: "1rem", fontWeight: 400, color: "#8b7355", marginLeft: "0.5rem" }}>
+                &ldquo;{squadron.history.nickname}&rdquo;
+              </span>
+            )}
           </h1>
           {squadron.motto && (
             <p style={{

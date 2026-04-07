@@ -1,0 +1,63 @@
+{
+  "canonical_name": "49 Squadron",
+  "display_name": "No. 49 Squadron RAF",
+  "history": {
+    "formed": "15 April 1916 at Swingate Down, Dover",
+    "disbanded": "1 May 1965 at RAF Marham",
+    "group": "5 Group, Bomber Command (WW2)",
+    "station": "RAF Scampton, RAF Fiskerton, RAF Fulbeck, RAF Syerston (WW2)",
+    "nickname": null,
+    "total_sorties": null,
+    "total_operations": null,
+    "tons_dropped": null,
+    "aircraft_lost": null,
+    "killed": null,
+    "pow": null,
+    "aircraft_code": "EA-",
+    "summary": "No. 49 Squadron RAF was formed on 15 April 1916 at Swingate Down, Dover, as a training unit before deploying to France in November 1917 as a day bomber unit flying DH4s and DH9s. Reformed in 1936, the squadron was the first unit to receive the Handley Page Hampden, and in WW2 flew Hampdens, briefly Avro Manchesters, then Avro Lancasters from June 1942 until the end of the war.\n\nThe squadron's defining moment came on 12 August 1940 when Flight Lieutenant Roderick Learoyd attacked the Dortmund-Ems Canal at 150 feet under intense fire, earning the first Victoria Cross awarded in Bomber Command. The squadron participated in major operations including the Le Creusot raid, Peenemünde (losing 4 of 12 Lancasters), the Battle of Berlin, D-Day support, and the final bombing raid of the war on Berchtesgaden on 25 April 1945.\n\nPost-war, the squadron flew Avro Lincolns (including operations against Mau Mau in Kenya) before converting to Vickers Valiants as part of the V-bomber force. In 1957, 49 Squadron dropped Britain's first megaton-range nuclear weapon during Operation Grapple at Christmas Island. The squadron disbanded in 1965 when the Valiant fleet was withdrawn.",
+    "commanding_officers": [
+      { "name": "Wing Commander J G W Gillan AFC DFC", "period": "1940" },
+      { "name": "Wing Commander L C Slee DSO DFC", "honours": "DSO, DFC", "period": "1942 — led Le Creusot raid" },
+      { "name": "Wing Commander A A Adams DFC", "honours": "DFC", "period": "1944" },
+      { "name": "Wing Commander K G Hubbard OBE DFC", "honours": "OBE, DFC, AFC", "period": "1956-57 — Operation Grapple, dropped first British megaton weapon" }
+    ],
+    "notable_personnel": [
+      {
+        "name": "Flight Lieutenant Roderick Learoyd",
+        "rank": "Flight Lieutenant",
+        "distinction": "Victoria Cross",
+        "detail": "Awarded for the attack on the Dortmund-Ems Canal, 12/13 August 1940. Flying a Hampden at 150 feet above the canal under searchlights and intense cannon fire, Learoyd placed his bombs squarely on the target. He returned on one engine with hydraulic damage, circling Scampton until daylight before landing. The first Victoria Cross awarded in Bomber Command."
+      },
+      {
+        "name": "Wing Commander Kenneth Hubbard",
+        "rank": "Wing Commander",
+        "distinction": "OBE, DFC, AFC",
+        "detail": "Captained Valiant XD818 on 15 May 1957 to drop Britain's first megaton-range nuclear weapon off Malden Island during Operation Grapple. All five crew received the Air Force Cross."
+      }
+    ],
+    "books": [
+      { "title": "Beware of the Dog at War", "author": "John Ward", "notes": "2nd edition, hardback. Definitive squadron history. Author deceased; planned 3rd edition delayed." },
+      { "title": "The Withered Garland", "author": "Group Captain Peter Johnson", "notes": "By former 49 Squadron CO. Available via Amazon." },
+      { "title": "The Lost Graves of Peenemünde", "author": "Mike McLeod & Sean Feast", "isbn": "1999812891" },
+      { "title": "Three of a Kind", "author": "Kerry White", "isbn": "978-0-9942814-2-5", "notes": "Features F/L Les Hammond RAAF of 49 Sqn." },
+      { "title": "Bomber Command Losses", "author": "W R Chorley", "notes": "9 volumes. Day-by-day losses by unit, aircraft, crew. Ian Allan Publishing." }
+    ],
+    "videos": [
+      { "url": "https://www.youtube.com/watch?v=aP0ispS_VYY", "title": "Hawker Hind flight — 49 Squadron aircraft type", "source": "49 Squadron Association" }
+    ],
+    "contact_name": "Alan Parr (Secretary)",
+    "facebook_url": "https://www.facebook.com/pages/49Squadron-Association/160956190653672",
+    "source_url": "https://www.49squadron.co.uk",
+    "source_name": "49 Squadron Association"
+  },
+  "honours": {
+    "vc": 1,
+    "egm_gc": 1,
+    "dso": 7,
+    "dfc": 131,
+    "cgm": 2,
+    "dfm": 105
+  },
+  "association_members": 330,
+  "memorials_listed": 58
+}

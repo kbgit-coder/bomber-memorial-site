@@ -1,0 +1,46 @@
+{
+  "canonical_name": "389th Bomb Group",
+  "display_name": "389th Bombardment Group (Heavy)",
+  "history": {
+    "formed": "19 November 1942 at Davis-Monthan Field, Arizona",
+    "disbanded": "1945",
+    "group": "2nd Combat Bombardment Wing, 2nd Air Division, 8th Air Force",
+    "station": "RAF Hethel, Norfolk, England",
+    "nickname": "The Sky Scorpions",
+    "sub_units": ["564th Bomb Squadron", "565th Bomb Squadron", "566th Bomb Squadron", "567th Bomb Squadron"],
+    "total_operations": 320,
+    "aircraft_code": null,
+    "summary": "The 389th Bombardment Group (Heavy) — 'The Sky Scorpions' — was activated on 19 November 1942 at Davis-Monthan Field, Arizona. Under Colonel Jack W. Wood, the group trained on B-17s before transitioning to B-24D Liberators and deployed to England in June 1943, basing at RAF Hethel in Norfolk.\n\nBefore commencing 8th Air Force operations from England, the group was ordered to North Africa to join the 9th Air Force. Their defining mission came on 1 August 1943 — Operation TIDALWAVE, the low-level attack on the Ploesti oil complex in Romania. The 389th BG was assigned the Steaua Romana refinery at Campina as an independent target. Despite a navigation error requiring a 180-degree correction by Colonel Wood, the group executed a textbook attack that knocked the refinery out of production for the remainder of the war. Six aircraft were lost; 1st Lieutenant Lloyd H. Hughes was awarded the Medal of Honor posthumously for pressing home his attack with fuel streaming from his damaged aircraft.\n\nReturning to Hethel in August 1943, the group flew 320 missions with the 8th Air Force through to April 1945, participating in Big Week, the Berlin raids, D-Day tactical support (three missions on 6 June 1944), and Operation VARSITY (Rhine crossing supply drop).",
+    "commanding_officers": [
+      { "name": "Colonel Jack W. Wood", "period": "May 1943 onwards — led Ploesti mission personally in 'THE SCORPION'" }
+    ],
+    "notable_personnel": [
+      {
+        "name": "1st Lieutenant Lloyd H. Hughes",
+        "rank": "1st Lieutenant",
+        "distinction": "Medal of Honor",
+        "detail": "Pilot, 564th Bomb Squadron, aircraft 'Ole Kickapoo' (42-40753). During Operation TIDALWAVE at Ploesti on 1 August 1943, Hughes' B-24 was hit by anti-aircraft fire with fuel streaming from damaged tanks. Despite warnings to abort, he pressed home his bomb run over the Dubbs cracking plant. The aircraft caught fire and crashed attempting a landing in a riverbed. Hughes and 7 crew were killed; 2 survived. Awarded the Medal of Honor posthumously. Age not recorded."
+      },
+      {
+        "name": "Colonel Jack W. Wood",
+        "rank": "Colonel",
+        "distinction": "Group Commander",
+        "detail": "Personally led the group on the Ploesti mission in aircraft 'THE SCORPION' (42-40629). Recognised the navigation error at the IP and executed a 180-degree correction that saved the mission. The 389th BG was the only group to execute its attack plan correctly at Ploesti."
+      }
+    ],
+    "books": [
+      { "title": "Ploesti", "author": "James Dugan & Carroll Stewart", "notes": "Covers the Ploesti raid in particular detail." },
+      { "title": "Black Sunday: Ploesti", "author": "Mike Hill", "notes": "More recent account of the Ploesti raid." }
+    ],
+    "documents": [
+      { "title": "389th BG Squadron Aircraft Assignment History", "url": "https://389thbg.com/uploads/1/4/8/7/148743519/389th_bg_squadron_aircraft_assignment_history.pdf", "description": "Complete register of every B-24 that served with the group — serial numbers, squadron assignments, letter codes, nicknames, loss dates, loss causes, and MACR numbers." }
+    ],
+    "contact_email": "admin@389thbg.com",
+    "facebook_url": "https://www.facebook.com/groups/145562768880528",
+    "source_url": "https://389thbg.com",
+    "source_name": "389th Bomb Group Website"
+  },
+  "honours": {
+    "medal_of_honor": 1
+  }
+}

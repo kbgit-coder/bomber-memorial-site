@@ -1,0 +1,72 @@
+{
+  "canonical_name": "100 Squadron",
+  "display_name": "No. 100 Squadron RAF",
+  "history": {
+    "formed": "23 February 1917 at South Farnborough",
+    "disbanded": "Still active (RAF Leeming, Hawk T1)",
+    "group": "1 Group, Bomber Command (WW2)",
+    "station": "RAF Waltham (Grimsby), then RAF Elsham Wolds from April 1945",
+    "nickname": "The Boneyard",
+    "total_sorties": 4000,
+    "total_operations": 280,
+    "tons_dropped": 18000,
+    "aircraft_lost": 92,
+    "killed": 594,
+    "pow": 19,
+    "aircraft_code": "HW-",
+    "summary": "No. 100 Squadron RAF was formed on 23 February 1917 at South Farnborough as the first night bomber squadron of the Royal Flying Corps, flying FE2b aircraft on the Western Front. The squadron served across eleven eras including WW1 bombing, inter-war training, torpedo operations from Singapore (1934-42), and the V-bomber nuclear deterrent force.\n\nIn WW2, the squadron reformed as a Bomber Command unit on 15 December 1942 at RAF Waltham near Grimsby, flying Lancaster Mk IIIs. In 25 months of operations, 100 Squadron flew approximately 4,000 sorties on 280 raids, dropping 18,000 tons of bombs. 92 aircraft were lost on operations with a further 21 in crashes. 594 aircrew were killed.\n\nThe squadron was distinguished by having four Lancasters that each completed over 100 operations — an extraordinary achievement when only 34 of the 7,000+ Lancasters built ever reached this milestone. 'Able Mabel' (ND458 HW-A) completed 132 operations, 'Phantom of the Ruhr' (EE139 HW-R) reached 121, 'Nan' (ND644 HW-N) flew 115 before being lost over Nuremberg, and 'Take it Easy' (JB603 HW-E) completed 111 before being lost over Hannover.\n\nNotable operations included the Battle of Berlin (308 sorties, 20 Lancasters lost, 115 killed), 'Black Thursday' on 16 December 1943 when fog at Waltham claimed four aircraft and 22 aircrew including the new CO Wing Commander Holford, the Dresden raid of 13/14 February 1945, and Operation Manna — food drops to the starving Dutch population. The squadron's final combat mission was the raid on Berchtesgaden on 25 April 1945. The squadron remains active today at RAF Leeming flying Hawk T1 aircraft.",
+    "commanding_officers": [
+      { "name": "Wing Commander J G W Swain", "period": "December 1942 — reformation" },
+      { "name": "Wing Commander R V McIntyre", "honours": "DFC", "period": "April 1943 — led Bochum raid on 2 engines" },
+      { "name": "Wing Commander Holford", "period": "Late 1943 — killed 'Black Thursday' 16 December 1943" },
+      { "name": "Wing Commander Ian Hamilton", "period": "1944-45 — led Bottrop raid February 1945" }
+    ],
+    "notable_personnel": [
+      {
+        "name": "Flight Sergeant Wadge",
+        "rank": "Flight Sergeant",
+        "distinction": "DFM (immediate)",
+        "detail": "Survived a collision with a night fighter over Stuttgart in February 1944 — the port wing was torn off. Somehow landed the Lancaster at Ford airfield. Awarded an immediate DFM. Tragically killed on a return sortie to Schweinfurt on 25 February 1944."
+      },
+      {
+        "name": "Flight Lieutenant Jack Playford RCAF",
+        "rank": "Flight Lieutenant",
+        "distinction": "Pilot of Able Mabel's 100th operation",
+        "detail": "Flew Lancaster ND458 'Able Mabel' on her 100th operation to Chemnitz on 14/15 February 1945. Able Mabel went on to complete 132 operations — the highest of the squadron's four century Lancasters."
+      },
+      {
+        "name": "Flying Officer Gerald Hood",
+        "rank": "Flying Officer",
+        "distinction": "Navigator — killed by Gestapo",
+        "detail": "Shot down on 13 August 1944 over Bergentheim, Netherlands. Hidden by Dutch family Bote van der Wal. Both were captured and shot by the Gestapo. Two memorials in Bergentheim mark the spot, maintained and decorated with flowers by local Dutch villagers to this day."
+      }
+    ],
+    "books": [
+      { "title": "The Annals of 100 Squadron", "author": "Major Burge", "year": "1919", "notes": "Written winter 1918-19 by the final WW1 CO. Still in print as of 2008." },
+      { "title": "The Hornets Nest", "author": "Arthur White", "year": "1994", "notes": "Major squadron history by veteran navigator and Association Newsletter editor. Researched, written and edited by Arthur White." }
+    ],
+    "committee": [
+      { "name": "Air Cdre Norman Bonnor FRIN FRAeS", "role": "President" },
+      { "name": "Wg Cdr Andy Wright MA BSc", "role": "Chairman (current OC 100 Sqn)" },
+      { "name": "Sqn Ldr Elizabeth Dawson MBA BSc", "role": "Secretary" },
+      { "name": "Mr Mike English", "role": "Treasurer" },
+      { "name": "Mr Greg Harrison", "role": "Association Historian" },
+      { "name": "Mr Damien English", "role": "Website Manager" }
+    ],
+    "source_url": "https://www.100squadronassociation.org.uk",
+    "source_name": "100 Squadron Association"
+  },
+  "honours": {
+    "dso": 2,
+    "cgm": 1,
+    "dfc": 94,
+    "dfm": 85,
+    "polish_vc_equiv": 1
+  },
+  "century_lancasters": [
+    { "serial": "EE139", "code": "HW-R", "name": "Phantom of the Ruhr", "operations": 121 },
+    { "serial": "ND644", "code": "HW-N", "name": "Nan", "operations": 115, "notes": "Lost Nuremberg 16 Mar 1945" },
+    { "serial": "JB603", "code": "HW-E", "name": "Take it Easy", "operations": 111, "notes": "Lost Hannover 5 Jan 1945" },
+    { "serial": "ND458", "code": "HW-A", "name": "Able Mabel", "operations": 132, "notes": "125 bombing + 1 Exodus + 6 Manna" }
+  ]
+}

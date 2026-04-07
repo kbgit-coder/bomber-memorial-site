@@ -10,6 +10,8 @@ export interface SquadronHistory {
   disbanded?: string;
   group?: string;
   station?: string;
+  nickname?: string;
+  sub_units?: string[];
   total_sorties?: number;
   total_operations?: number;
   total_targets?: number;
@@ -23,6 +25,11 @@ export interface SquadronHistory {
   notable_personnel?: { name: string; rank?: string; distinction: string; detail?: string }[];
   books?: { title: string; author: string; year?: string; isbn?: string; notes?: string }[];
   videos?: { url: string; title: string; source?: string }[];
+  documents?: { title: string; url: string; description?: string }[];
+  contact_email?: string;
+  contact_name?: string;
+  facebook_url?: string;
+  committee?: { name: string; role: string }[];
   source_url?: string;
   source_name?: string;
 }
