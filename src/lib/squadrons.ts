@@ -16,16 +16,13 @@ export interface Squadron {
 // Known association URLs from Jack Sparrow heritage raid (7 Apr 2026)
 const ASSOCIATION_URLS: Record<string, { url: string; name: string }> = {
   '578 Squadron': { url: 'https://578squadron.org.uk', name: '578 Squadron Association' },
-  '100 Sqdn.': { url: 'https://100squadronassociation.org.uk', name: '100 Squadron Association' },
-  '101 Sqdn.': { url: 'https://101squadronassociation.org.uk', name: '101 Squadron Association' },
-  '103 Sqdn.': { url: 'https://elshamwolds.org.uk', name: 'Elsham Wolds Association' },
-  '49 Sqdn.': { url: 'https://49squadron.co.uk', name: '49 Squadron Association' },
+  '100 Squadron': { url: 'https://100squadronassociation.org.uk', name: '100 Squadron Association' },
+  '101 Squadron': { url: 'https://101squadronassociation.org.uk', name: '101 Squadron Association' },
+  '103 Squadron': { url: 'https://elshamwolds.org.uk', name: 'Elsham Wolds Association' },
   '49 Squadron': { url: 'https://49squadron.co.uk', name: '49 Squadron Association' },
-  '44 Sqdn.': { url: 'https://44sqn.com', name: '44 Squadron' },
   '44 Squadron': { url: 'https://44sqn.com', name: '44 Squadron' },
   '44 (Rhodesia) Squadron': { url: 'https://44sqn.com', name: '44 Squadron' },
   '61 Squadron': { url: 'https://no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
-  '61 Sqdn.': { url: 'https://no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
   '50 Squadron': { url: 'https://no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
   '158 Squadron': { url: 'https://158squadron.co.uk', name: '158 Squadron' },
   '207 Squadron': { url: 'http://www.207squadron.rafinfo.org.uk', name: '207 Squadron' },
@@ -34,15 +31,45 @@ const ASSOCIATION_URLS: Record<string, { url: string; name: string }> = {
   '12 Sqdn.': { url: 'https://wickenbymuseum.co.uk', name: 'Wickenby Museum' },
   '156 Squadron': { url: 'https://156squadron.com', name: '156 Squadron' },
   '75 (NZ) Squadron': { url: 'https://75nzsquadron.wordpress.com', name: '75(NZ) Squadron' },
-  '460 (RAAF) Sqdn.': { url: 'https://460squadronraaf.com', name: '460 Squadron RAAF' },
   '460 (RAAF) Squadron': { url: 'https://460squadronraaf.com', name: '460 Squadron RAAF' },
   '102 (Ceylon) Squadron': { url: 'https://102ceylonsquadronassociation.org', name: '102 Ceylon Squadron Association' },
   '582 PFF': { url: 'https://raf-pathfinders.com', name: 'RAF Pathfinders Archive' },
-  '385th BG': { url: 'https://385thbga.com', name: '385th Bomb Group Association' },
+  '385th Bomb Group': { url: 'https://385thbga.com', name: '385th Bomb Group Association' },
   '385th Bombardment Group (Heavy), 8th USAAF': { url: 'https://385thbga.com', name: '385th Bomb Group Association' },
-  '93rd BG': { url: 'https://93rd-bg-museum.org', name: '93rd BG Museum' },
-  '389th BG': { url: 'https://389thbg.com', name: '389th Bomb Group' },
+  '93rd Bomb Group': { url: 'https://93rd-bg-museum.org', name: '93rd Bomb Group Museum' },
+  '389th Bomb Group': { url: 'https://389thbg.com', name: '389th Bomb Group' },
 };
+
+// Normalize messy squadron names to canonical display names
+function normalizeSquadronName(raw: string): string {
+  // Skip generic entries
+  if (['Various', 'Unknown', 'RAF', 'USAAF', 'Bomber Command', 'RAF Bomber Command',
+       'Bomber/Coastal Command', 'OTU', 'Bomber Command (test flight)',
+       'General Bomber Command memorial'].includes(raw)) {
+    return raw;
+  }
+
+  // Normalize "Sqdn." / "Sqdn" → "Squadron" (remove trailing period too)
+  let name = raw.replace(/\bSqdn\.?\s*/g, 'Squadron ').replace(/Squadron\s*\./g, 'Squadron').trim();
+
+  // Normalize "BG" → "Bomb Group" for USAAF (with correct ordinal)
+  name = name.replace(/\b(\d+)(?:th|st|nd|rd)\s+BG\b/, (_, num) => {
+    const n = parseInt(num);
+    const suffix = (n % 10 === 1 && n !== 11) ? 'st' : (n % 10 === 2 && n !== 12) ? 'nd' : (n % 10 === 3 && n !== 13) ? 'rd' : 'th';
+    return `${n}${suffix} Bomb Group`;
+  });
+
+  // Normalize HCU
+  name = name.replace(/\b(\d+)\s+HCU\b/, '$1 Heavy Conversion Unit');
+
+  // Normalize OTU
+  name = name.replace(/\b(\d+)\s+OTU\b/, '$1 Operational Training Unit');
+
+  // Normalize LFS
+  name = name.replace(/\b(\d+)\s+LFS\b/, '$1 Lancaster Finishing School');
+
+  return name;
+}
 
 function squadronSlug(name: string): string {
   return name
@@ -59,8 +86,10 @@ export function getAllSquadrons(): Squadron[] {
 
   for (const m of memorials) {
     if (!m.squadron || m.squadron === 'Various' || m.squadron === 'Unknown') continue;
-    if (!grouped[m.squadron]) grouped[m.squadron] = [];
-    grouped[m.squadron].push(m);
+    // Normalize before grouping — merges "97 Sqdn." and "97 Squadron"
+    const canonical = normalizeSquadronName(m.squadron);
+    if (!grouped[canonical]) grouped[canonical] = [];
+    grouped[canonical].push(m);
   }
 
   return Object.entries(grouped)
@@ -96,6 +125,7 @@ export function getSquadronSlugs(): string[] {
 
 export function getSquadronSlugForName(name: string): string | undefined {
   const all = getAllSquadrons();
-  const match = all.find(s => s.name === name);
+  const normalized = normalizeSquadronName(name);
+  const match = all.find(s => s.name === normalized);
   return match?.slug;
 }

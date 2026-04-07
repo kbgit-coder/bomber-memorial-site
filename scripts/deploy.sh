@@ -124,6 +124,17 @@ if [[ -f "$REPO_ROOT/public/robots.txt" ]]; then
   success "Copied robots.txt"
 fi
 
+# Fix directory index pages — Apache serves 403 for directories without index.html
+# Copy section index pages into their directories
+for section_page in "$REPO_ROOT"/out/*.html; do
+  section_name=$(basename "$section_page" .html)
+  section_dir="$REPO_ROOT/out/$section_name"
+  if [[ -d "$section_dir" && ! -f "$section_dir/index.html" ]]; then
+    cp "$section_page" "$section_dir/index.html"
+    success "Copied $section_name.html → $section_name/index.html"
+  fi
+done
+
 if [[ -f "$REPO_ROOT/public/sitemap.xml" ]]; then
   cp "$REPO_ROOT/public/sitemap.xml" "$REPO_ROOT/out/sitemap.xml"
   success "Copied sitemap.xml"
