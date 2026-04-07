@@ -1,4 +1,10 @@
+"use client";
+
 import Link from "next/link";
+
+function trackNav(destination: string) {
+  (window as { posthog?: { capture: (e: string, p?: Record<string, unknown>) => void } }).posthog?.capture("nav_click", { destination });
+}
 
 export default function Header() {
   return (
@@ -43,6 +49,7 @@ export default function Header() {
         >
           <Link
             href="/"
+            onClick={() => trackNav("home")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -57,6 +64,7 @@ export default function Header() {
           </Link>
           <Link
             href="/region/united-kingdom"
+            onClick={() => trackNav("regions")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -71,6 +79,7 @@ export default function Header() {
           </Link>
           <Link
             href="/search"
+            onClick={() => trackNav("search")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -85,6 +94,7 @@ export default function Header() {
           </Link>
           <Link
             href="/about"
+            onClick={() => trackNav("about")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",

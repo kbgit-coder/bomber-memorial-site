@@ -3,6 +3,12 @@
 import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 
+declare global {
+  interface Window {
+    posthog?: { capture: (event: string, properties?: Record<string, unknown>) => void };
+  }
+}
+
 export default function SearchPage() {
   const searchRef = useRef<HTMLDivElement>(null);
 
@@ -24,6 +30,29 @@ export default function SearchPage() {
           showImages: false,
           filters: true,
         });
+
+        // PostHog: track search queries via Pagefind input events
+        const observer = new MutationObserver(() => {
+          const input = searchRef.current?.querySelector<HTMLInputElement>('.pagefind-ui__search-input');
+          if (input && !input.dataset.phTracked) {
+            input.dataset.phTracked = 'true';
+            let debounceTimer: ReturnType<typeof setTimeout>;
+            input.addEventListener('input', () => {
+              clearTimeout(debounceTimer);
+              debounceTimer = setTimeout(() => {
+                const query = input.value.trim();
+                if (!query) return;
+                const resultCount = searchRef.current?.querySelectorAll('.pagefind-ui__result').length ?? 0;
+                if (resultCount === 0) {
+                  window.posthog?.capture('search_no_results', { query });
+                } else {
+                  window.posthog?.capture('search_query', { query, result_count: resultCount });
+                }
+              }, 1500);
+            });
+          }
+        });
+        observer.observe(searchRef.current, { childList: true, subtree: true });
       }
     };
     document.head.appendChild(script);

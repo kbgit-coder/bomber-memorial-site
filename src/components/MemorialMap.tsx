@@ -50,10 +50,18 @@ export default function MemorialMap({
               `</div>`
           );
 
-          new maplibregl.Marker({ color: "#2c5f8a" })
+          const marker = new maplibregl.Marker({ color: "#2c5f8a" })
             .setLngLat([memorial.longitude!, memorial.latitude!])
             .setPopup(popup)
             .addTo(map);
+
+          marker.getElement().addEventListener("click", () => {
+            (window as { posthog?: { capture: (e: string, p?: Record<string, unknown>) => void } }).posthog?.capture("map_marker_click", {
+              memorial_slug: memorial.id,
+              memorial_title: memorial.title,
+              squadron: memorial.squadron,
+            });
+          });
         });
       });
     }).catch(() => {
