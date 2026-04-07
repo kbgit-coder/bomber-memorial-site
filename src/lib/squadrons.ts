@@ -164,10 +164,12 @@ export function getAllSquadrons(): Squadron[] {
       const slug = squadronSlug(name);
       const enrichedPath = path.join(process.cwd(), 'public/data/squadrons', `${slug}.json`);
       let history: SquadronHistory | undefined;
+      let enrichedBadge: string | undefined;
       if (fs.existsSync(enrichedPath)) {
         try {
           const enriched = JSON.parse(fs.readFileSync(enrichedPath, 'utf8'));
           history = enriched.history;
+          if (enriched.badge_url) enrichedBadge = enriched.badge_url;
         } catch { /* ignore malformed files */ }
       }
 
@@ -176,7 +178,7 @@ export function getAllSquadrons(): Squadron[] {
         name,
         category,
         sort_number,
-        badge_url: mems[0].squadron_badge_url,
+        badge_url: enrichedBadge || mems[0].squadron_badge_url,
         motto: mems[0].squadron_motto,
         stations,
         association_url: assoc?.url,
