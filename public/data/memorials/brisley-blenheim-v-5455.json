@@ -1,115 +1,120 @@
 {
-    "id": "brisley-blenheim-v-5455",
-    "title": "Brisley V.5455 Memorial",
-    "location_name": "Brisley, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-005",
-    "crash_date": "1942-06-09",
-    "aircraft_type": "Blenheim V.5455",
-    "squadron": "114 Squadron",
-    "station": "West Raynham",
-    "crew_summary": "3 killed: Plt Off. John Graham and others",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.7556,
-    "longitude": 0.8881,
-    "maintainer": {
-        "organisation": "Brisley Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "Traces of War",
-            "original_url": "https://www.tracesofwar.com/sights/21825/Memorial-Crash-Blenheim-V5455.htm",
-            "summary": "Traces of War documents the memorial at the crash site of Blenheim V5455 in Brisley, Norfolk. The aircraft of 114 Squadron crashed on 9 June 1942 when attempting to return to West Raynham with engine trouble, crashing into the village pond.",
-            "key_details": [
-                "Crashed into Brisley village pond",
-                "Engine trouble on return to West Raynham"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Waymarking",
-            "original_url": "https://www.waymarking.com/waymarks/WMQQTD_Bristol_Blenheim_Iv_V5455_114_Sqn_crash_9_June_1942_Brisley_Norfolk",
-            "summary": "The Waymarking entry records that the crew of Blenheim V5455 had previously participated in Operation Millennium, the first RAF thousand-bomber raid on Cologne. The memorial was placed at the crash site in 2000.",
-            "key_details": [
-                "Crew participated in Operation Millennium (thousand-bomber raid on Cologne)",
-                "Memorial placed in 2000",
-                "Crew: P/O John Graham (21), Sgt Michael Beaufoy (19), Sgt Leslie Harrowell (22)"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Norfolk Heritage Explorer",
-            "original_url": "https://heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
-            "summary": "Norfolk Heritage Explorer's historic environment record documents the Bristol Blenheim crash site at Brisley as a significant heritage site within Norfolk's archaeological database.",
-            "key_details": [
-                "Norfolk HER reference: MNF46398"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "crew": [
-        {
-            "name": "John Graham",
-            "rank": "P/O",
-            "age": 21,
-            "role": "Pilot",
-            "nationality": "British",
-            "fate": "Killed",
-            "burial_location": "St Mary's Churchyard, East Raynham"
-        },
-        {
-            "name": "Michael Beaufoy",
-            "rank": "Sgt",
-            "age": 19,
-            "fate": "Killed"
-        },
-        {
-            "name": "Leslie Harrowell",
-            "rank": "Sgt",
-            "age": 22,
-            "fate": "Killed"
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Litcham Tittishall & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Brisley Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "riskiest.glove.spun",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "DBpedia Brisley (52.755 0.888)",
-            "GeoNames UK (52.756 0.887)",
-            "Geograph TF9521 (52.757 0.893)"
-        ],
-        "verified_by": "Holly (PAI research agent)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "Holly (PAI)",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "brisley-blenheim-v-5455",
+  "title": "Brisley V.5455 Memorial",
+  "location_name": "Brisley, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-005",
+  "crash_date": "1942-06-09",
+  "aircraft_type": "Blenheim V.5455",
+  "squadron": "114 Squadron",
+  "station": "West Raynham",
+  "crew_summary": "3 killed: Plt Off. John Graham and others",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.7556,
+  "longitude": 0.8881,
+  "maintainer": {
+    "organisation": "Brisley Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://www.tracesofwar.com/sights/21825/Memorial-Crash-Blenheim-V5455.htm",
+      "summary": "Traces of War documents the memorial at the crash site of Blenheim V5455 in Brisley, Norfolk. The aircraft of 114 Squadron crashed on 9 June 1942 when attempting to return to West Raynham with engine trouble, crashing into the village pond.",
+      "key_details": [
+        "Crashed into Brisley village pond",
+        "Engine trouble on return to West Raynham"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Waymarking",
+      "original_url": "https://www.waymarking.com/waymarks/WMQQTD_Bristol_Blenheim_Iv_V5455_114_Sqn_crash_9_June_1942_Brisley_Norfolk",
+      "summary": "The Waymarking entry records that the crew of Blenheim V5455 had previously participated in Operation Millennium, the first RAF thousand-bomber raid on Cologne. The memorial was placed at the crash site in 2000.",
+      "key_details": [
+        "Crew participated in Operation Millennium (thousand-bomber raid on Cologne)",
+        "Memorial placed in 2000",
+        "Crew: P/O John Graham (21), Sgt Michael Beaufoy (19), Sgt Leslie Harrowell (22)"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Norfolk Heritage Explorer",
+      "original_url": "https://heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
+      "summary": "Norfolk Heritage Explorer's historic environment record documents the Bristol Blenheim crash site at Brisley as a significant heritage site within Norfolk's archaeological database.",
+      "key_details": [
+        "Norfolk HER reference: MNF46398"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "crew": [
+    {
+      "name": "John Graham",
+      "rank": "P/O",
+      "age": 21,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "St Mary's Churchyard, East Raynham"
+    },
+    {
+      "name": "Michael Beaufoy",
+      "rank": "Sgt",
+      "age": 19,
+      "fate": "Killed"
+    },
+    {
+      "name": "Leslie Harrowell",
+      "rank": "Sgt",
+      "age": 22,
+      "fate": "Killed"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Litcham Tittishall & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Brisley Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "riskiest.glove.spun",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "DBpedia Brisley (52.755 0.888)",
+      "GeoNames UK (52.756 0.887)",
+      "Geograph TF9521 (52.757 0.893)"
+    ],
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "Holly (PAI)",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "114 Squadron RAF",
+  "squadron_aliases": [
+    "114 Squadron",
+    "114 Sqdn."
+  ]
 }

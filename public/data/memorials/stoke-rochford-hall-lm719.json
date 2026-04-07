@@ -1,133 +1,137 @@
 {
-    "id": "stoke-rochford-hall-lm719",
-    "title": "Stoke Rochford Hall Lancaster Memorial",
-    "location_name": "Stoke Rochford Hall, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-027",
-    "crash_date": "1945-04-28",
-    "aircraft_type": "Lancaster",
-    "serial_number": "LM719",
-    "squadron": "1653 HCU",
-    "station": "North Luffenham",
-    "crew_summary": "7 killed including pilot Flt Lt. Norman William Guy",
-    "memorial_type": "Plaque and memorial tree",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.8423,
-    "longitude": -0.638,
-    "maintainer": {
-        "organisation": "Stoke Rochford Parish Meeting",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/254890/",
-            "summary": "Registry entry for the memorial to the crew of Lancaster LM719, located in the grounds of Stoke Rochford Hall. Includes a memorial plaque and tree planted in their honour.",
-            "key_details": "Memorial registered on the national War Memorials Online database. Located in the grounds of Stoke Rochford Hall, Lincolnshire.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Commands",
-            "original_url": "https://www.rafcommands.com/archive/08987.php",
-            "summary": "Crash site record for Lancaster LM719 (H4-M) of 1653 HCU, which departed RAF North Luffenham for a cross-country navigation exercise on 28 April 1945. The aircraft flew into a heavy snowstorm and the pilot lost control, crashing at 0320 hours.",
-            "key_details": "Aircraft code H4-M. Crashed during a NAVEX training exercise in severe weather. The war in Europe was just days from ending when this training accident occurred.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://aviation-safety.net/wikibase/479089",
-            "summary": "Accident database entry for Avro Lancaster B Mk I LM719, recording the crash on Saturday 28 April 1945 near Stoke Rochford Hall during a training exercise from North Luffenham.",
-            "key_details": "Aircraft was from 1653 Heavy Conversion Unit. Loss occurred just 10 days before VE Day.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IBCC Digital Archive",
-            "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/stoke-rochford-hall-lincolnshirememorial-in-grounds-remembers-the-crew-of-a-1653/1751999844852251/",
-            "summary": "International Bomber Command Centre post documenting the memorial at Stoke Rochford Hall, noting the RCAF connection and the poignancy of a training loss so close to the end of the war.",
-            "key_details": "Canadian (RCAF) crew. Memorial includes both a plaque and a memorial tree in the hall grounds.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Grantham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Stoke Rochford Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "snake.owned.unto",
-    "photos": [
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0733e7e9eb2_DSC_0021_547x410.JPG",
-            "caption": "5a0733e7e9eb2 DSC 0021 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0733e86ed39_DSC_0073_547x410.JPG",
-            "caption": "5a0733e86ed39 DSC 0073 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0733e9040d4_DSC_0138_547x410.JPG",
-            "caption": "5a0733e9040d4 DSC 0138 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0735038e22b_DSC_0141_547x410.JPG",
-            "caption": "5a0735038e22b DSC 0141 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0735040ede3_DSC_0175_547x410.JPG",
-            "caption": "5a0735040ede3 DSC 0175 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a07350493a04_DSC_0176_547x410.JPG",
-            "caption": "5a07350493a04 DSC 0176 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a073504e602e_DSC_0180_547x410.JPG",
-            "caption": "5a073504e602e DSC 0180 547x410",
-            "credit": "David Jones / War Memorials Online"
-        },
-        {
-            "filename": "stoke-rochford-hall-lm719/5a0735056fcac_1._Stoke_Rochford_11_Nov_2017_547x410.JPG",
-            "caption": "5a0735056fcac 1. Stoke Rochford 11 Nov 2017 547x410",
-            "credit": "David Jones / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Stoke Rochford Hall NG33 near Grantham at 52.842 -0.638",
-            "Current 53.234 -0.447 ~44km north near Metheringham"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.234, -0.447) ~44km north. Stoke Rochford Hall NG33 near Grantham at 52.842, -0.638.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "stoke-rochford-hall-lm719",
+  "title": "Stoke Rochford Hall Lancaster Memorial",
+  "location_name": "Stoke Rochford Hall, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-027",
+  "crash_date": "1945-04-28",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM719",
+  "squadron": "1653 HCU",
+  "station": "North Luffenham",
+  "crew_summary": "7 killed including pilot Flt Lt. Norman William Guy",
+  "memorial_type": "Plaque and memorial tree",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.8423,
+  "longitude": -0.638,
+  "maintainer": {
+    "organisation": "Stoke Rochford Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/254890/",
+      "summary": "Registry entry for the memorial to the crew of Lancaster LM719, located in the grounds of Stoke Rochford Hall. Includes a memorial plaque and tree planted in their honour.",
+      "key_details": "Memorial registered on the national War Memorials Online database. Located in the grounds of Stoke Rochford Hall, Lincolnshire.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Commands",
+      "original_url": "https://www.rafcommands.com/archive/08987.php",
+      "summary": "Crash site record for Lancaster LM719 (H4-M) of 1653 HCU, which departed RAF North Luffenham for a cross-country navigation exercise on 28 April 1945. The aircraft flew into a heavy snowstorm and the pilot lost control, crashing at 0320 hours.",
+      "key_details": "Aircraft code H4-M. Crashed during a NAVEX training exercise in severe weather. The war in Europe was just days from ending when this training accident occurred.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/479089",
+      "summary": "Accident database entry for Avro Lancaster B Mk I LM719, recording the crash on Saturday 28 April 1945 near Stoke Rochford Hall during a training exercise from North Luffenham.",
+      "key_details": "Aircraft was from 1653 Heavy Conversion Unit. Loss occurred just 10 days before VE Day.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Digital Archive",
+      "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/stoke-rochford-hall-lincolnshirememorial-in-grounds-remembers-the-crew-of-a-1653/1751999844852251/",
+      "summary": "International Bomber Command Centre post documenting the memorial at Stoke Rochford Hall, noting the RCAF connection and the poignancy of a training loss so close to the end of the war.",
+      "key_details": "Canadian (RCAF) crew. Memorial includes both a plaque and a memorial tree in the hall grounds.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Grantham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Stoke Rochford Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "snake.owned.unto",
+  "photos": [
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0733e7e9eb2_DSC_0021_547x410.JPG",
+      "caption": "5a0733e7e9eb2 DSC 0021 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0733e86ed39_DSC_0073_547x410.JPG",
+      "caption": "5a0733e86ed39 DSC 0073 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0733e9040d4_DSC_0138_547x410.JPG",
+      "caption": "5a0733e9040d4 DSC 0138 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0735038e22b_DSC_0141_547x410.JPG",
+      "caption": "5a0735038e22b DSC 0141 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0735040ede3_DSC_0175_547x410.JPG",
+      "caption": "5a0735040ede3 DSC 0175 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a07350493a04_DSC_0176_547x410.JPG",
+      "caption": "5a07350493a04 DSC 0176 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a073504e602e_DSC_0180_547x410.JPG",
+      "caption": "5a073504e602e DSC 0180 547x410",
+      "credit": "David Jones / War Memorials Online"
+    },
+    {
+      "filename": "stoke-rochford-hall-lm719/5a0735056fcac_1._Stoke_Rochford_11_Nov_2017_547x410.JPG",
+      "caption": "5a0735056fcac 1. Stoke Rochford 11 Nov 2017 547x410",
+      "credit": "David Jones / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Stoke Rochford Hall NG33 near Grantham at 52.842 -0.638",
+      "Current 53.234 -0.447 ~44km north near Metheringham"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (53.234, -0.447) ~44km north. Stoke Rochford Hall NG33 near Grantham at 52.842, -0.638.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1653 HCU",
+  "squadron_aliases": [
+    "1653 HCU"
+  ]
 }

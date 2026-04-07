@@ -1,72 +1,76 @@
 {
-    "id": "carleton-rode-2-b-24-42-50452-earthq",
-    "title": "Carleton Rode (2) McGoon\" Memorial",
-    "location_name": "Carleton Rode (2), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-009",
-    "crash_date": "1944-11-21",
-    "aircraft_type": "B-24 42-50452 \"Earthquake McGoon\"",
-    "squadron": "389th BG",
-    "station": "Hethel (USAAF)",
-    "crew_summary": "8 killed (mid-air collision with Old Glory)",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.4913,
-    "longitude": 1.1114,
-    "maintainer": {
-        "organisation": "Carleton Rode Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50452",
-            "summary": "The American Air Museum records B-24J 42-50452 'Earthquake McGoon' of the 566th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft collided with 44-10513 'Old Glory' during formation assembly on 21 November 1944. Pilot Lt Alfred Brooks was the sole survivor from this aircraft, with 17 total killed across both planes.",
-            "key_details": [
-                "566th Bomb Squadron, 389th Bomb Group",
-                "Pilot Lt Alfred Brooks was sole survivor from this aircraft",
-                "17 total killed across both aircraft",
-                "Memorial board at All Saints Church, Carleton Rode"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Attleborough Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Carleton Rode Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "website.teardrop.revives",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon geocoder — Carleton Rode village NR16 1RL at 52.4913, 1.1114",
-            "OSM Overpass — node confirmed",
-            "389thbg.com — confirmed 42-50452 Earthquake McGoon lost 21-Nov-44 MID collision"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Previous coords (52.807, 0.950) ~36km too far NW near Fakenham/Guist. Same mid-air collision as carleton-rode-1 on 21-Nov-44 — both aircraft came down in same general area. Village centroid used at 52.491, 1.111.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "carleton-rode-2-b-24-42-50452-earthq",
+  "title": "Carleton Rode (2) McGoon\" Memorial",
+  "location_name": "Carleton Rode (2), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-009",
+  "crash_date": "1944-11-21",
+  "aircraft_type": "B-24 42-50452 \"Earthquake McGoon\"",
+  "squadron": "389th BG",
+  "station": "Hethel (USAAF)",
+  "crew_summary": "8 killed (mid-air collision with Old Glory)",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.4913,
+  "longitude": 1.1114,
+  "maintainer": {
+    "organisation": "Carleton Rode Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50452",
+      "summary": "The American Air Museum records B-24J 42-50452 'Earthquake McGoon' of the 566th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft collided with 44-10513 'Old Glory' during formation assembly on 21 November 1944. Pilot Lt Alfred Brooks was the sole survivor from this aircraft, with 17 total killed across both planes.",
+      "key_details": [
+        "566th Bomb Squadron, 389th Bomb Group",
+        "Pilot Lt Alfred Brooks was sole survivor from this aircraft",
+        "17 total killed across both aircraft",
+        "Memorial board at All Saints Church, Carleton Rode"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Attleborough Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Carleton Rode Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "website.teardrop.revives",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Photon geocoder — Carleton Rode village NR16 1RL at 52.4913, 1.1114",
+      "OSM Overpass — node confirmed",
+      "389thbg.com — confirmed 42-50452 Earthquake McGoon lost 21-Nov-44 MID collision"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "INACCURATE. Previous coords (52.807, 0.950) ~36km too far NW near Fakenham/Guist. Same mid-air collision as carleton-rode-1 on 21-Nov-44 — both aircraft came down in same general area. Village centroid used at 52.491, 1.111.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "389th Bomb Group USAAF",
+  "squadron_aliases": [
+    "389th BG"
+  ]
 }

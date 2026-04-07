@@ -1,218 +1,222 @@
 {
-    "id": "craiglockhart-view-edinburgh-area-x3707",
-    "title": "CraigLockhart View (Edinburgh area) Wellington Memorial",
-    "location_name": "CraigLockhart View (Edinburgh area), Edinburgh / Lothian",
-    "county": "Edinburgh / Lothian",
-    "country": "United Kingdom",
-    "region_code": "SC-007",
-    "crash_date": "WW2",
-    "aircraft_type": "Vickers Wellington",
-    "serial_number": "X3707",
-    "squadron": "RAF Bomber Command",
-    "crew_summary": "All killed",
-    "memorial_type": "Small concrete cairn with metal plaque detailing names of airmen",
-    "sources": [
-        {
-            "title": "IWM (memorial/97912)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "This crash involved not a routine bomber but a Wellington being used for top-secret radar research. On 14 December 1942, Wellington X3707 took off from RAF Defford in Worcestershire -- home of the Telecommunications Research Establishment, where Britain developed its airborne radar systems -- bound for RAF Turnhouse (now Edinburgh Airport). On board were four RAF crew and one American signals officer, 1st Lt Kaulis of the USAAC, reflecting the close Anglo-American collaboration on radar technology. As the aircraft approached Edinburgh it suffered engine failure. The pilot attempted an emergency landing on the allotments in the Happy Valley area of Craiglockhart, beside the Union Canal. The aircraft struck the Allan Park Bridge (now a footbridge) and burst into flames. All five crew were killed. The secret nature of the mission meant the crash received minimal contemporary publicity. Warrant Officer McFadyen and Flight Sergeant McGregor were both Scottish, buried in Glasgow and Ballingry respectively. The American officer's burial location has not been confirmed.",
-    "crew": [
-        {
-            "rank": "F/O",
-            "name": "Thomas Lennox French",
-            "service_number": "65991 RAFVR",
-            "age": 24,
-            "role": "Pilot",
-            "nationality": "British",
-            "burial_location": "Edinburgh (Corstorphine Hill) Cemetery, Sec B, Joint Grave 558",
-            "fate": "Killed",
-            "fate_detail": "Killed when Wellington X3707 struck Allan Park Bridge and burst into flames while attempting an emergency landing in the Happy Valley area of Craiglockhart.",
-            "bio": "A 24-year-old pilot from the RAFVR, French was flying a top-secret radar research mission from RAF Defford (home of the Telecommunications Research Establishment) to RAF Turnhouse when engine failure forced the emergency landing attempt.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "W/O",
-            "name": "Andrew McFadyen",
-            "service_number": "581109 RAF",
-            "age": 26,
-            "role": "Observer",
-            "nationality": "British",
-            "burial_location": "Glasgow (St Kentigern's) RC Cemetery, Sec 6, Grave 1776",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. McFadyen was Scottish and was buried in Glasgow.",
-            "hometown": "Glasgow, Scotland",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Flt Sgt",
-            "name": "Charles McGregor",
-            "service_number": "638173 RAF",
-            "age": 23,
-            "role": "W/Op Air Gunner",
-            "nationality": "British",
-            "burial_location": "Ballingry Cemetery, Sec K, Grave 390",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. McGregor was Scottish and was buried in Ballingry, Fife.",
-            "hometown": "Ballingry, Fife",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Flt Sgt",
-            "name": "John Robert Harper",
-            "service_number": "1115653 RAFVR",
-            "age": 29,
-            "role": "Radar Operator",
-            "nationality": "British",
-            "burial_location": "Pickering Cemetery, Grave 1570",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. As a radar operator, Harper was working with the secret airborne radar technology being developed at the Telecommunications Research Establishment.",
-            "hometown": "Pickering, Yorkshire",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "1st Lt",
-            "name": "S. Kaulis",
-            "service_number": "USAAC",
-            "age": 26,
-            "role": "Signaller",
-            "nationality": "American",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Kaulis was a USAAC signals officer aboard as part of the close Anglo-American collaboration on radar technology. His burial location has not been confirmed.",
-            "bio": "An American signals officer from the USAAC, Kaulis's presence on the aircraft reflected the close Anglo-American wartime collaboration on radar development."
-        }
-    ],
-    "cause_of_loss": "Engine failure; aircraft struck Allan Park Bridge while descending",
-    "operation_type": "Training",
-    "memorial_details": "A stone memorial cairn with an inscribed and painted metal plate was unveiled on 11 November 2012, on the 70th anniversary of the crash (adjusted to coincide with Remembrance Sunday). The memorial is situated in Craiglockhart Gardens, Edinburgh (EH14 1BS). It commemorates all five crew members. The memorial was organised by local residents and Edinburgh civic groups.",
-    "latitude": 55.9242,
-    "longitude": -3.2381,
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered",
-            "original_url": "https://aircrewremembered.com/french-thomas.html",
-            "summary": "Detailed account of Wellington III X3707 from the Telecommunications Research Establishment at RAF Defford. The aircraft was testing secret radar equipment when a port engine wiring fault and fuel pump defect caused engine failure. The aircraft crashed into a house garden in Craiglockhart View at approximately 11:45 on 14 December 1942.",
-            "key_details": [
-                "TRE aircraft testing secret radar equipment",
-                "Port engine wiring fault near carburettor discovered",
-                "Fuel pump had foreign matter blocking delivery below 1500 RPM",
-                "Crashed into back garden of house in Craiglockhart View"
-            ],
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 14.12.1942 Telecommunications Research Est. Wellington III X3707 F/O. Thomas L. French\n\nOperation: Equipment testing\n\nDate: 14th December 1942 (Monday)\n\nUnit: T.R.E. (Telecommunications Research Establishment)\n\nBase: RAF Defford, Worcestershire.\n\nLocation: Craiglockhart View, Edinburgh, Scotland\n\nPilot: F/O. Thomas Lennox French 65991 RAFVR Age 24. Killed (1)\n\nObs: W/O. Andrew McFadyen 581109 RAF Age 26. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. Charles McGregor 638173 RAF Age 23. Killed\n\nRadar/Op: Fl/Sgt. John Robert Harper 1115653 RAFVR Age 29. Killed\n\nSignaller: 1st Lt. S. Kaulis USAAC Age 26. Killed\n\nTook off at around 10.27 hrs. from R.A.F. Turnhouse, Edinburgh, Scotland in order to test \"special equipment\" along with three other aircraft. The flight proceeded normally for about an hour when owing to a fault with the \"special equipment\" they were instructed to return.\n\nThe pilot acknowledged this and the aircraft turned to the base.\n\nA few minutes after this the aircraft was seen flying at around 1000 ft. in the area of R.A.F. Turnhouse seemingly about to enter a circuit - it was also observed that the undercarriage had not been lowered at this stage.\n\nX3707 then passed straight over the airdrome, crashing just over four miles west, south, west, of the base.\n\nF/O. Thomas Lennox French (courtesy Thomas Lennox French Jnr. via Neil Smith - see credits)\n\nWhen the aircraft crashed it totally burnt out except for the engines which were able to be bench tested later on. The port engine fuel pump was found to have a small piece of foreign matter in it and as a result would not deliver fuel below 1500 r.p.m. As the r.p.m. was increased the pump began to deliver fuel until at 2500 r.p.m. it functioned normally. When the aircraft was in normal flight the fuel pump worked OK but when the rev's' were reduced prior to landing the fuel pump failed and the port engine cut out. As a result the aircraft went into a spin, overshot the aerodrome and headed for playing fields close the Union canal at Meggetland, Edinburgh eventually crashing close by in a back garden of a house in Craiglockhart View at approximately 11.45 hrs. Having an engine failure at such a low altitude with low air speed the aircraft was doomed to crash. F/O. Lennox-French was particularly skilful in managing to crash land without any causing civilian casualties in a built up area.\n\nVarious interesting newspaper clippings (courtesy Neil Smith)\n\nFurther information, courtesy Scotsman News:\n\nWomen were going about their daily household chores, a few men had wandered down to Craiglockhart's \"Happy Valley\" allotments to tend to their ground. All were quite probably counting the days until Christmas and then the dawn of a new year. It would soon be 1943, maybe war would end soon. They heard it before they saw it. The loud drone of a plane's engine - too loud, not quite right, it made them stop what they were doing and raise their heads up to scan the sky.\n\nWhat they witnessed must have made a terrifying sight…. Skimming the trees, a few dozen feet from the ground and heading straight towards the recently built bungalows and neat gardens of Craiglockhart View was the fearsome sight of Bomber Command's most trusted workhorse, the twin-engined Vickers-built Wellington, more than 60ft long with a wingspan of nearly 90ft, designed to be armed with up to four machines guns.\n\nOn board, her five frantic crew were embroiled in a desperate battle. Just over an hour into their secret test flight, the Wellington had experienced a critical and ultimately fatal equipment failure. They surely knew they were in the final, terrifying moments of their lives. But as the neat rows of Craiglockhart View bungalows loomed before their eyes, they would also know that it wasn't only their lives at stake.\n\nAbove left - right: Fl/Sgt. Harper and Fl/Sgt. McGregor\n\n\"Charles McGregor was my Great Uncle, and the youngest of five siblings all of whom served during WWII. He was the only brother not to survive the war. Joined up in 1939, and following training was a member of 75 Squadron flying Wellingtons on a tour of ops in 1940. He was posted to 93 Squadron in December 1940, and became a member of the Fighter Experimental Establishment, which absorbed the members of 93 Squadron before it was reformed as a fighter squadron in 1942."
-        },
-        {
-            "source_site": "The Scotsman",
-            "original_url": "https://www.scotsman.com/arts-and-culture/day-bomber-crash-landed-craiglockhart-1684355",
-            "summary": "Feature article in The Scotsman about the day a bomber crash-landed in Craiglockhart, Edinburgh. Covers the 2012 memorial unveiling and the history of the secret radar testing mission that ended in tragedy.",
-            "key_details": [
-                "Memorial unveiled 11 November 2012",
-                "Timed for 70th anniversary and Remembrance Sunday"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/258514/",
-            "summary": "Memorial record for the Craiglockhart Memorial Cairn commemorating the crew of Wellington X3707. Small concrete cairn with metal plaque in Craiglockhart Gardens, Edinburgh.",
-            "key_details": [
-                "Located in Craiglockhart Gardens, Edinburgh EH14 1BS",
-                "Concrete cairn with inscribed metal plate"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/97912",
-            "summary": "Imperial War Museums register entry for the CraigLockhart View Wellington X3707 memorial in Edinburgh. Records the memorial commemorating the five crew killed including the American signals officer.",
-            "key_details": [
-                "IWM memorial reference 97912",
-                "Five crew including 1st Lt Kaulis USAAC"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Edinburgh City Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "remit.nail.passes",
-    "photos": [
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/thomas-lennox-french-w640h480.jpg",
-            "caption": "thomas lennox french",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/telecommunications-research-establishment-wellington-iii-x3707-newspaper-report-1-w640h480.jpg",
-            "caption": "telecommunications research establishment wellington iii x3707 newspaper report 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/telecommunications-research-establishment-wellington-iii-x3707-newspaper-photo-w640h480.jpg",
-            "caption": "telecommunications research establishment wellington iii x3707 newspaper photo",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/flsgt.-john-robert-harper-1115653-r.a.f.v.r-w640h480.jpg",
-            "caption": "flsgt. john robert harper 1115653 r.a.f.v.r",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/wellington-iii-x3707-1-w640h480.jpg",
-            "caption": "wellington iii x3707 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a16785cc_P1000628_547x410.jpg",
-            "caption": "5b156a16785cc P1000628 547x410",
-            "credit": "David Parmee (WMT RV) / War Memorials Online"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a17c58b2_P1000626_547x410.jpg",
-            "caption": "5b156a17c58b2 P1000626 547x410",
-            "credit": "David Parmee (WMT RV) / War Memorials Online"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a1902a6e_P1000627_547x410.jpg",
-            "caption": "5b156a1902a6e P1000627 547x410",
-            "credit": "David Parmee (WMT RV) / War Memorials Online"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/6123ca69bc1c0_IMG_0958_050647_547x410.jpg",
-            "caption": "6123ca69bc1c0 IMG 0958 050647 547x410",
-            "credit": "David Parmee (WMT RV) / War Memorials Online"
-        },
-        {
-            "filename": "craiglockhart-view-edinburgh-area-x3707/6123ca6a8f84a_IMG_0960_050724_547x410.jpg",
-            "caption": "6123ca6a8f84a IMG 0960 050724 547x410",
-            "credit": "David Parmee (WMT RV) / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon OSM — Craiglockhart View street EH14 1BX at 55.9242 -3.2381",
-            "Postcodes.io — Craiglockhart EH14 at 55.9218 -3.2381",
-            "Photon OSM — Craiglockhart district centroid at 55.9203 -3.2428"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CRITICAL ERROR. Previous coords (53.671, -0.120) near Scunthorpe Lincolnshire — over 250km from Edinburgh. All three API sources converge at 55.921-55.924 -3.238 to -3.243. Street 'Craiglockhart View' EH14 1BX at 55.9242 -3.2381 is the named location in the memorial title. Confidence confirmed.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "craiglockhart-view-edinburgh-area-x3707",
+  "title": "CraigLockhart View (Edinburgh area) Wellington Memorial",
+  "location_name": "CraigLockhart View (Edinburgh area), Edinburgh / Lothian",
+  "county": "Edinburgh / Lothian",
+  "country": "United Kingdom",
+  "region_code": "SC-007",
+  "crash_date": "WW2",
+  "aircraft_type": "Vickers Wellington",
+  "serial_number": "X3707",
+  "squadron": "RAF Bomber Command",
+  "crew_summary": "All killed",
+  "memorial_type": "Small concrete cairn with metal plaque detailing names of airmen",
+  "sources": [
+    {
+      "title": "IWM (memorial/97912)",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "This crash involved not a routine bomber but a Wellington being used for top-secret radar research. On 14 December 1942, Wellington X3707 took off from RAF Defford in Worcestershire -- home of the Telecommunications Research Establishment, where Britain developed its airborne radar systems -- bound for RAF Turnhouse (now Edinburgh Airport). On board were four RAF crew and one American signals officer, 1st Lt Kaulis of the USAAC, reflecting the close Anglo-American collaboration on radar technology. As the aircraft approached Edinburgh it suffered engine failure. The pilot attempted an emergency landing on the allotments in the Happy Valley area of Craiglockhart, beside the Union Canal. The aircraft struck the Allan Park Bridge (now a footbridge) and burst into flames. All five crew were killed. The secret nature of the mission meant the crash received minimal contemporary publicity. Warrant Officer McFadyen and Flight Sergeant McGregor were both Scottish, buried in Glasgow and Ballingry respectively. The American officer's burial location has not been confirmed.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Thomas Lennox French",
+      "service_number": "65991 RAFVR",
+      "age": 24,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Edinburgh (Corstorphine Hill) Cemetery, Sec B, Joint Grave 558",
+      "fate": "Killed",
+      "fate_detail": "Killed when Wellington X3707 struck Allan Park Bridge and burst into flames while attempting an emergency landing in the Happy Valley area of Craiglockhart.",
+      "bio": "A 24-year-old pilot from the RAFVR, French was flying a top-secret radar research mission from RAF Defford (home of the Telecommunications Research Establishment) to RAF Turnhouse when engine failure forced the emergency landing attempt.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "W/O",
+      "name": "Andrew McFadyen",
+      "service_number": "581109 RAF",
+      "age": 26,
+      "role": "Observer",
+      "nationality": "British",
+      "burial_location": "Glasgow (St Kentigern's) RC Cemetery, Sec 6, Grave 1776",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. McFadyen was Scottish and was buried in Glasgow.",
+      "hometown": "Glasgow, Scotland",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Charles McGregor",
+      "service_number": "638173 RAF",
+      "age": 23,
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "burial_location": "Ballingry Cemetery, Sec K, Grave 390",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. McGregor was Scottish and was buried in Ballingry, Fife.",
+      "hometown": "Ballingry, Fife",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "John Robert Harper",
+      "service_number": "1115653 RAFVR",
+      "age": 29,
+      "role": "Radar Operator",
+      "nationality": "British",
+      "burial_location": "Pickering Cemetery, Grave 1570",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. As a radar operator, Harper was working with the secret airborne radar technology being developed at the Telecommunications Research Establishment.",
+      "hometown": "Pickering, Yorkshire",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "1st Lt",
+      "name": "S. Kaulis",
+      "service_number": "USAAC",
+      "age": 26,
+      "role": "Signaller",
+      "nationality": "American",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Kaulis was a USAAC signals officer aboard as part of the close Anglo-American collaboration on radar technology. His burial location has not been confirmed.",
+      "bio": "An American signals officer from the USAAC, Kaulis's presence on the aircraft reflected the close Anglo-American wartime collaboration on radar development."
+    }
+  ],
+  "cause_of_loss": "Engine failure; aircraft struck Allan Park Bridge while descending",
+  "operation_type": "Training",
+  "memorial_details": "A stone memorial cairn with an inscribed and painted metal plate was unveiled on 11 November 2012, on the 70th anniversary of the crash (adjusted to coincide with Remembrance Sunday). The memorial is situated in Craiglockhart Gardens, Edinburgh (EH14 1BS). It commemorates all five crew members. The memorial was organised by local residents and Edinburgh civic groups.",
+  "latitude": 55.9242,
+  "longitude": -3.2381,
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/french-thomas.html",
+      "summary": "Detailed account of Wellington III X3707 from the Telecommunications Research Establishment at RAF Defford. The aircraft was testing secret radar equipment when a port engine wiring fault and fuel pump defect caused engine failure. The aircraft crashed into a house garden in Craiglockhart View at approximately 11:45 on 14 December 1942.",
+      "key_details": [
+        "TRE aircraft testing secret radar equipment",
+        "Port engine wiring fault near carburettor discovered",
+        "Fuel pump had foreign matter blocking delivery below 1500 RPM",
+        "Crashed into back garden of house in Craiglockhart View"
+      ],
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 14.12.1942 Telecommunications Research Est. Wellington III X3707 F/O. Thomas L. French\n\nOperation: Equipment testing\n\nDate: 14th December 1942 (Monday)\n\nUnit: T.R.E. (Telecommunications Research Establishment)\n\nBase: RAF Defford, Worcestershire.\n\nLocation: Craiglockhart View, Edinburgh, Scotland\n\nPilot: F/O. Thomas Lennox French 65991 RAFVR Age 24. Killed (1)\n\nObs: W/O. Andrew McFadyen 581109 RAF Age 26. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. Charles McGregor 638173 RAF Age 23. Killed\n\nRadar/Op: Fl/Sgt. John Robert Harper 1115653 RAFVR Age 29. Killed\n\nSignaller: 1st Lt. S. Kaulis USAAC Age 26. Killed\n\nTook off at around 10.27 hrs. from R.A.F. Turnhouse, Edinburgh, Scotland in order to test \"special equipment\" along with three other aircraft. The flight proceeded normally for about an hour when owing to a fault with the \"special equipment\" they were instructed to return.\n\nThe pilot acknowledged this and the aircraft turned to the base.\n\nA few minutes after this the aircraft was seen flying at around 1000 ft. in the area of R.A.F. Turnhouse seemingly about to enter a circuit - it was also observed that the undercarriage had not been lowered at this stage.\n\nX3707 then passed straight over the airdrome, crashing just over four miles west, south, west, of the base.\n\nF/O. Thomas Lennox French (courtesy Thomas Lennox French Jnr. via Neil Smith - see credits)\n\nWhen the aircraft crashed it totally burnt out except for the engines which were able to be bench tested later on. The port engine fuel pump was found to have a small piece of foreign matter in it and as a result would not deliver fuel below 1500 r.p.m. As the r.p.m. was increased the pump began to deliver fuel until at 2500 r.p.m. it functioned normally. When the aircraft was in normal flight the fuel pump worked OK but when the rev's' were reduced prior to landing the fuel pump failed and the port engine cut out. As a result the aircraft went into a spin, overshot the aerodrome and headed for playing fields close the Union canal at Meggetland, Edinburgh eventually crashing close by in a back garden of a house in Craiglockhart View at approximately 11.45 hrs. Having an engine failure at such a low altitude with low air speed the aircraft was doomed to crash. F/O. Lennox-French was particularly skilful in managing to crash land without any causing civilian casualties in a built up area.\n\nVarious interesting newspaper clippings (courtesy Neil Smith)\n\nFurther information, courtesy Scotsman News:\n\nWomen were going about their daily household chores, a few men had wandered down to Craiglockhart's \"Happy Valley\" allotments to tend to their ground. All were quite probably counting the days until Christmas and then the dawn of a new year. It would soon be 1943, maybe war would end soon. They heard it before they saw it. The loud drone of a plane's engine - too loud, not quite right, it made them stop what they were doing and raise their heads up to scan the sky.\n\nWhat they witnessed must have made a terrifying sight…. Skimming the trees, a few dozen feet from the ground and heading straight towards the recently built bungalows and neat gardens of Craiglockhart View was the fearsome sight of Bomber Command's most trusted workhorse, the twin-engined Vickers-built Wellington, more than 60ft long with a wingspan of nearly 90ft, designed to be armed with up to four machines guns.\n\nOn board, her five frantic crew were embroiled in a desperate battle. Just over an hour into their secret test flight, the Wellington had experienced a critical and ultimately fatal equipment failure. They surely knew they were in the final, terrifying moments of their lives. But as the neat rows of Craiglockhart View bungalows loomed before their eyes, they would also know that it wasn't only their lives at stake.\n\nAbove left - right: Fl/Sgt. Harper and Fl/Sgt. McGregor\n\n\"Charles McGregor was my Great Uncle, and the youngest of five siblings all of whom served during WWII. He was the only brother not to survive the war. Joined up in 1939, and following training was a member of 75 Squadron flying Wellingtons on a tour of ops in 1940. He was posted to 93 Squadron in December 1940, and became a member of the Fighter Experimental Establishment, which absorbed the members of 93 Squadron before it was reformed as a fighter squadron in 1942."
+    },
+    {
+      "source_site": "The Scotsman",
+      "original_url": "https://www.scotsman.com/arts-and-culture/day-bomber-crash-landed-craiglockhart-1684355",
+      "summary": "Feature article in The Scotsman about the day a bomber crash-landed in Craiglockhart, Edinburgh. Covers the 2012 memorial unveiling and the history of the secret radar testing mission that ended in tragedy.",
+      "key_details": [
+        "Memorial unveiled 11 November 2012",
+        "Timed for 70th anniversary and Remembrance Sunday"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/258514/",
+      "summary": "Memorial record for the Craiglockhart Memorial Cairn commemorating the crew of Wellington X3707. Small concrete cairn with metal plaque in Craiglockhart Gardens, Edinburgh.",
+      "key_details": [
+        "Located in Craiglockhart Gardens, Edinburgh EH14 1BS",
+        "Concrete cairn with inscribed metal plate"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/97912",
+      "summary": "Imperial War Museums register entry for the CraigLockhart View Wellington X3707 memorial in Edinburgh. Records the memorial commemorating the five crew killed including the American signals officer.",
+      "key_details": [
+        "IWM memorial reference 97912",
+        "Five crew including 1st Lt Kaulis USAAC"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Edinburgh City Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "remit.nail.passes",
+  "photos": [
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/thomas-lennox-french-w640h480.jpg",
+      "caption": "thomas lennox french",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/telecommunications-research-establishment-wellington-iii-x3707-newspaper-report-1-w640h480.jpg",
+      "caption": "telecommunications research establishment wellington iii x3707 newspaper report 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/telecommunications-research-establishment-wellington-iii-x3707-newspaper-photo-w640h480.jpg",
+      "caption": "telecommunications research establishment wellington iii x3707 newspaper photo",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/flsgt.-john-robert-harper-1115653-r.a.f.v.r-w640h480.jpg",
+      "caption": "flsgt. john robert harper 1115653 r.a.f.v.r",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/wellington-iii-x3707-1-w640h480.jpg",
+      "caption": "wellington iii x3707 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a16785cc_P1000628_547x410.jpg",
+      "caption": "5b156a16785cc P1000628 547x410",
+      "credit": "David Parmee (WMT RV) / War Memorials Online"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a17c58b2_P1000626_547x410.jpg",
+      "caption": "5b156a17c58b2 P1000626 547x410",
+      "credit": "David Parmee (WMT RV) / War Memorials Online"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/5b156a1902a6e_P1000627_547x410.jpg",
+      "caption": "5b156a1902a6e P1000627 547x410",
+      "credit": "David Parmee (WMT RV) / War Memorials Online"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/6123ca69bc1c0_IMG_0958_050647_547x410.jpg",
+      "caption": "6123ca69bc1c0 IMG 0958 050647 547x410",
+      "credit": "David Parmee (WMT RV) / War Memorials Online"
+    },
+    {
+      "filename": "craiglockhart-view-edinburgh-area-x3707/6123ca6a8f84a_IMG_0960_050724_547x410.jpg",
+      "caption": "6123ca6a8f84a IMG 0960 050724 547x410",
+      "credit": "David Parmee (WMT RV) / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [
+      "Photon OSM — Craiglockhart View street EH14 1BX at 55.9242 -3.2381",
+      "Postcodes.io — Craiglockhart EH14 at 55.9218 -3.2381",
+      "Photon OSM — Craiglockhart district centroid at 55.9203 -3.2428"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CRITICAL ERROR. Previous coords (53.671, -0.120) near Scunthorpe Lincolnshire — over 250km from Edinburgh. All three API sources converge at 55.921-55.924 -3.238 to -3.243. Street 'Craiglockhart View' EH14 1BX at 55.9242 -3.2381 is the named location in the memorial title. Confidence confirmed.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF Bomber Command",
+  "squadron_aliases": [
+    "RAF Bomber Command"
+  ]
 }

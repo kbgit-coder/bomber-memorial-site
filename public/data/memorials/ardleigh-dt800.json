@@ -1,97 +1,103 @@
 {
-    "id": "ardleigh-dt800",
-    "title": "Ardleigh II Memorial",
-    "location_name": "Ardleigh, Essex",
-    "county": "Essex",
-    "country": "United Kingdom",
-    "region_code": "EX-001",
-    "crash_date": "1943-02-25",
-    "aircraft_type": "Halifax II",
-    "serial_number": "DT800",
-    "squadron": "102 (Ceylon) Squadron",
-    "station": "Pocklington",
-    "crew_summary": "8 killed including pilot Flt Sgt. Charles Henry Bray",
-    "memorial_type": "Monument",
-    "sources": [
-        {
-            "title": "Geograph Essex",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.923031,
-    "longitude": 0.985018,
-    "maintainer": {
-        "organisation": "Ardleigh Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "102 (Ceylon) Squadron Association",
-            "original_url": "https://102ceylonsquadronassociation.org/dy-g.html",
-            "summary": "On the evening of 25 February 1943, eleven Halifax II bombers of 102 (Ceylon) Squadron took off from RAF Pocklington for a raid on Nuremberg. DT800 (coded DY-P) crashed at Ardleigh at 20:24, about an hour after takeoff, likely due to icing causing loss of control.",
-            "key_details": [
-                "Part of 11-aircraft raid on Nuremberg",
-                "Aircraft coded DY-P",
-                "Crashed at 20:24, one hour after takeoff",
-                "Carrying 1000lb bomb, incendiaries and propaganda leaflets",
-                "Explosion created crater 30 yards diameter, 8ft deep",
-                "1000lb bomb exploded 90 minutes later (possibly delayed-action)"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Wartime Memories Project",
-            "original_url": "https://www.wartimememoriesproject.com/ww2/airfields/airfield.php?pid=1822",
-            "summary": "The Wartime Memories Project documents RAF Pocklington as the base of 102 (Ceylon) Squadron, from which Halifax DT800 departed on its final flight.",
-            "key_details": [
-                "102 Squadron operated from Pocklington",
-                "Squadron flew Halifax II bombers"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Coventry Telegraph",
-            "original_url": "https://www.coventrytelegraph.net/news/coventry-news/wwii-halifax-bomber-crash-coventry-15387821",
-            "summary": "Local press coverage of the memorial unveiling for the crew of Halifax DT800, honouring the eight crew members killed when the bomber crashed at Ardleigh during a Nuremberg raid.",
-            "key_details": [
-                "Memorial unveiled 75 years after crash",
-                "All eight crew killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Wickford & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
-        },
-        {
-            "org_name": "Ardleigh Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "permanent.lyricist.voltages",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Local contact Tim Barrott: map was for far side of Braintree (Wave 1 CRM response)",
-            "Local contact Jill Hamblin: confirms link does not refer to Ardleigh (Wave 1 CRM response)",
-            "OSM/Photon geocode: Millennium Green, Ardleigh CO7 — 51.923, 0.985"
-        ],
-        "verified_by": "Tim Barrott + Jill Hamblin (local contacts), Holly (PAI geocoding)",
-        "verification_date": "2026-04-06",
-        "verification_notes": "Previous coords (51.926, 0.512) were ~30km too far west near Chelmsford. Memorial on Millennium Green, Ardleigh CO7. Two local contacts independently confirmed error; geocoding confirms correct village. Precise pin within Millennium Green TBC — approximate-to-confirmed upgrade when pinpointed.",
-        "community_submissions": 2,
-        "last_reviewed": "2026-04-06"
+  "id": "ardleigh-dt800",
+  "title": "Ardleigh II Memorial",
+  "location_name": "Ardleigh, Essex",
+  "county": "Essex",
+  "country": "United Kingdom",
+  "region_code": "EX-001",
+  "crash_date": "1943-02-25",
+  "aircraft_type": "Halifax II",
+  "serial_number": "DT800",
+  "squadron": "102 (Ceylon) Squadron",
+  "station": "Pocklington",
+  "crew_summary": "8 killed including pilot Flt Sgt. Charles Henry Bray",
+  "memorial_type": "Monument",
+  "sources": [
+    {
+      "title": "Geograph Essex",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 51.923031,
+  "longitude": 0.985018,
+  "maintainer": {
+    "organisation": "Ardleigh Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "102 (Ceylon) Squadron Association",
+      "original_url": "https://102ceylonsquadronassociation.org/dy-g.html",
+      "summary": "On the evening of 25 February 1943, eleven Halifax II bombers of 102 (Ceylon) Squadron took off from RAF Pocklington for a raid on Nuremberg. DT800 (coded DY-P) crashed at Ardleigh at 20:24, about an hour after takeoff, likely due to icing causing loss of control.",
+      "key_details": [
+        "Part of 11-aircraft raid on Nuremberg",
+        "Aircraft coded DY-P",
+        "Crashed at 20:24, one hour after takeoff",
+        "Carrying 1000lb bomb, incendiaries and propaganda leaflets",
+        "Explosion created crater 30 yards diameter, 8ft deep",
+        "1000lb bomb exploded 90 minutes later (possibly delayed-action)"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Wartime Memories Project",
+      "original_url": "https://www.wartimememoriesproject.com/ww2/airfields/airfield.php?pid=1822",
+      "summary": "The Wartime Memories Project documents RAF Pocklington as the base of 102 (Ceylon) Squadron, from which Halifax DT800 departed on its final flight.",
+      "key_details": [
+        "102 Squadron operated from Pocklington",
+        "Squadron flew Halifax II bombers"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Coventry Telegraph",
+      "original_url": "https://www.coventrytelegraph.net/news/coventry-news/wwii-halifax-bomber-crash-coventry-15387821",
+      "summary": "Local press coverage of the memorial unveiling for the crew of Halifax DT800, honouring the eight crew members killed when the bomber crashed at Ardleigh during a Nuremberg raid.",
+      "key_details": [
+        "Memorial unveiled 75 years after crash",
+        "All eight crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Wickford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+    },
+    {
+      "org_name": "Ardleigh Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "permanent.lyricist.voltages",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [
+      "Local contact Tim Barrott: map was for far side of Braintree (Wave 1 CRM response)",
+      "Local contact Jill Hamblin: confirms link does not refer to Ardleigh (Wave 1 CRM response)",
+      "OSM/Photon geocode: Millennium Green, Ardleigh CO7 — 51.923, 0.985"
+    ],
+    "verified_by": "Tim Barrott + Jill Hamblin (local contacts), Holly (PAI geocoding)",
+    "verification_date": "2026-04-06",
+    "verification_notes": "Previous coords (51.926, 0.512) were ~30km too far west near Chelmsford. Memorial on Millennium Green, Ardleigh CO7. Two local contacts independently confirmed error; geocoding confirms correct village. Precise pin within Millennium Green TBC — approximate-to-confirmed upgrade when pinpointed.",
+    "community_submissions": 2,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "102 (Ceylon) Squadron RAF",
+  "squadron_aliases": [
+    "102 (Ceylon) Squadron",
+    "102 Squadron",
+    "102 Sqdn."
+  ]
 }

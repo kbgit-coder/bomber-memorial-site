@@ -1,94 +1,99 @@
 {
-    "id": "colchester-dv177",
-    "title": "Colchester Lancaster Memorial",
-    "location_name": "Colchester, Essex",
-    "county": "Essex",
-    "country": "United Kingdom",
-    "region_code": "EX-002",
-    "crash_date": "1944-04-25",
-    "aircraft_type": "Lancaster",
-    "serial_number": "DV177",
-    "squadron": "626 Squadron",
-    "station": "Wickenby",
-    "crew_summary": "8 killed including pilot Plt Off. Murray L. McPherson",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph Essex",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.8897,
-    "longitude": 0.8993,
-    "maintainer": {
-        "organisation": "Colchester City Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "TracesOfWar",
-            "original_url": "https://www.tracesofwar.com/sights/75179/Memorial-Lancaster-DV177.htm",
-            "summary": "Memorial database entry for Lancaster DV177 at Colchester. The 626 Squadron aircraft from Wickenby crashed on 25 April 1944 at 04:10 after being attacked by a German intruder near Diss, Norfolk, while returning from operations.",
-            "key_details": [
-                "Attacked by German intruder near Diss",
-                "Attempted emergency landing at Boxted (USAAF station)",
-                "Crashed in flames, now Severalls Business Park site"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/69872",
-            "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster UM-K2 (DV177) at Colchester, Essex. Commemorates all eight crew killed.",
-            "key_details": [
-                "IWM memorial reference 69872",
-                "Squadron code UM-K2"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Gazette News (Colchester)",
-            "original_url": "https://www.gazette-news.co.uk/news/20085146.colchester-memorial-raf-airmen-died-war/",
-            "summary": "News report on remembrance service for the crew of Lancaster DV177. Memorial unveiled near the crash location on 25 April 2013. Crew included Canadian and British airmen of 626 Squadron.",
-            "key_details": [
-                "Memorial unveiled 25 April 2013",
-                "Crew included RCAF pilot P/O McPherson and RCAF W/O Cameron",
-                "Annual remembrance services held"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Colchester Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
-        },
-        {
-            "org_name": "Colchester City Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "boots.stones.camp",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Research: Colchester at 51.890 0.899 confirmed",
-            "Current 0.369 longitude is wrong — correct is ~0.899"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Current coords (51.729, 0.369) are in wrong part of Essex — longitude 0.369 vs correct ~0.899. Current latitude also too far south. Corrected to Colchester area at 51.8897, 0.8993.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "colchester-dv177",
+  "title": "Colchester Lancaster Memorial",
+  "location_name": "Colchester, Essex",
+  "county": "Essex",
+  "country": "United Kingdom",
+  "region_code": "EX-002",
+  "crash_date": "1944-04-25",
+  "aircraft_type": "Lancaster",
+  "serial_number": "DV177",
+  "squadron": "626 Squadron",
+  "station": "Wickenby",
+  "crew_summary": "8 killed including pilot Plt Off. Murray L. McPherson",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph Essex",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 51.8897,
+  "longitude": 0.8993,
+  "maintainer": {
+    "organisation": "Colchester City Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "TracesOfWar",
+      "original_url": "https://www.tracesofwar.com/sights/75179/Memorial-Lancaster-DV177.htm",
+      "summary": "Memorial database entry for Lancaster DV177 at Colchester. The 626 Squadron aircraft from Wickenby crashed on 25 April 1944 at 04:10 after being attacked by a German intruder near Diss, Norfolk, while returning from operations.",
+      "key_details": [
+        "Attacked by German intruder near Diss",
+        "Attempted emergency landing at Boxted (USAAF station)",
+        "Crashed in flames, now Severalls Business Park site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/69872",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster UM-K2 (DV177) at Colchester, Essex. Commemorates all eight crew killed.",
+      "key_details": [
+        "IWM memorial reference 69872",
+        "Squadron code UM-K2"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Gazette News (Colchester)",
+      "original_url": "https://www.gazette-news.co.uk/news/20085146.colchester-memorial-raf-airmen-died-war/",
+      "summary": "News report on remembrance service for the crew of Lancaster DV177. Memorial unveiled near the crash location on 25 April 2013. Crew included Canadian and British airmen of 626 Squadron.",
+      "key_details": [
+        "Memorial unveiled 25 April 2013",
+        "Crew included RCAF pilot P/O McPherson and RCAF W/O Cameron",
+        "Annual remembrance services held"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Colchester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+    },
+    {
+      "org_name": "Colchester City Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "boots.stones.camp",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Research: Colchester at 51.890 0.899 confirmed",
+      "Current 0.369 longitude is wrong — correct is ~0.899"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "INACCURATE. Current coords (51.729, 0.369) are in wrong part of Essex — longitude 0.369 vs correct ~0.899. Current latitude also too far south. Corrected to Colchester area at 51.8897, 0.8993.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "626 Squadron RAF",
+  "squadron_aliases": [
+    "626 Squadron",
+    "626 Sqdn."
+  ]
 }

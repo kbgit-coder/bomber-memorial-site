@@ -1,168 +1,172 @@
 {
-    "id": "wellington-he324-crash-site-he324",
-    "title": "Wellington HE324 Crash Site X Memorial",
-    "location_name": "Wellington HE324 Crash Site, IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PN-008",
-    "crash_date": "1943-09-18",
-    "aircraft_type": "Wellington X",
-    "serial_number": "HE324",
-    "squadron": "RAF Silverstone",
-    "crew_summary": "6 killed (training exercise)",
-    "memorial_type": "Memorial marker",
-    "sources": [
-        {
-            "title": "warmemorialsonline.org.uk (memorial/256651)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-22",
-    "data_quality": "Partial",
-    "narrative": "This is one of the earliest crashes in the area and involves Polish airmen — men who had escaped occupied Poland to continue fighting from Britain. 301 Squadron was a Polish bomber squadron operating Wellingtons from Swinderby/Winthorpe. Returning from a night bombing raid on Bremen, the Wellington came down in a barley field at Winkburn. The heroism of the Broadberry family, who risked their lives to pull crew from burning wreckage, adds a powerful civilian dimension to this story.",
-    "cause_of_loss": "Not confirmed — crash-landed in barley field",
-    "operation_type": "Operational",
-    "operation_target": "Returning from bombing raid on Bremen",
-    "latitude": 53.1190161159707,
-    "longitude": -1.8297357592239334,
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/256651",
-            "summary": "War Memorials Online entry for the Wellington X HE324 crash site memorial. The memorial is a vertical square tablet with RAF badge and black lettering, dedicated in September 2013 after research to identify and notify surviving relatives of the six crew members.",
-            "key_details": [
-                "Memorial dedicated September 2013",
-                "Vertical square tablet with RAF badge",
-                "Crash occurred in a field near Horwood, North Devon",
-                "Aircraft was on a training exercise from RAF Silverstone"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/74678",
-            "summary": "IWM War Memorials Register entry for the Wellington HE324 crash memorial. Located half a mile east of Horwood church in North Devon, the stone of remembrance commemorates six airmen who died when the Wellington crashed in flames on 18 September 1943.",
-            "key_details": [
-                "IWM reference number 74678",
-                "Located near Horwood church, North Devon, EX39 4PE",
-                "Aircraft was seen on fire over Lovacott and East Barton before crashing"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/160696",
-            "summary": "Aviation Safety Network database entry for the Wellington HE324 accident on 18 September 1943. Records the aircraft type, date, and circumstances of the fatal training flight crash.",
-            "key_details": [
-                "Formal accident database record",
-                "Six crew from multiple Commonwealth nations killed",
-                "Crew included RAAF, RCAF, and RAFVR personnel"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/pennines/",
-            "summary": "Peak District Air Accident Research catalogues military aircraft crash sites across the Pennines region. While HE324 is listed among their records, the actual crash location was in North Devon rather than the Peak District.",
-            "key_details": [
-                "Cross-referenced in Pennines crash site database"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "crew": [
-        {
-            "name": "Norman 'Norm' Dunn",
-            "rank": "F/Sgt",
-            "age": 25,
-            "role": "Crew",
-            "nationality": "Australian (RAAF)",
-            "fate": "Killed",
-            "burial_location": "Heanton Punchardon, North Devon"
-        },
-        {
-            "name": "Johnnie Donnachie",
-            "rank": "Sgt",
-            "age": 21,
-            "role": "Crew",
-            "nationality": "British (RAFVR)",
-            "fate": "Killed",
-            "burial_location": "Wishaw, Scotland"
-        },
-        {
-            "name": "Hiram Farrer",
-            "rank": "P/O",
-            "age": 26,
-            "role": "Crew",
-            "nationality": "Canadian (RCAF)",
-            "fate": "Killed",
-            "burial_location": "Heanton Punchardon, North Devon"
-        },
-        {
-            "name": "Raymond Dolling",
-            "rank": "Sgt",
-            "age": 21,
-            "role": "Crew",
-            "nationality": "British (RAFVR)",
-            "fate": "Killed",
-            "burial_location": "Llanelli, Wales"
-        },
-        {
-            "name": "James Hallam",
-            "rank": "Sgt",
-            "age": 18,
-            "role": "Crew",
-            "nationality": "British (RAFVR)",
-            "fate": "Killed",
-            "burial_location": "Unknown"
-        },
-        {
-            "name": "Henry 'Arthur' Newnham",
-            "rank": "Sgt",
-            "age": 21,
-            "role": "Crew",
-            "nationality": "Australian (RAAF)",
-            "fate": "Killed",
-            "burial_location": "Unknown"
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Bakewell & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "crypt.firelight.imported",
-    "photos": [
-        {
-            "filename": "wellington-he324-crash-site-he324/5a8ae1b0c2c61_Horwood_Wellington_Crash_547x410.jpg",
-            "caption": "5a8ae1b0c2c61 Horwood Wellington Crash 547x410",
-            "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
-        },
-        {
-            "filename": "wellington-he324-crash-site-he324/6884a62c31088_PXL_20250725_104527394_547x410.jpg",
-            "caption": "6884a62c31088 PXL 20250725 104527394 547x410",
-            "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Reverse geocode: 53.119 -1.830 is Alstonefield Staffordshire — plausible Peak/Pennines border",
-            "County label 'IWM-Registered...(Peak/Pennines)' misleading but coords consistent with area"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "NO CHANGE. Current coords (53.119, -1.830) verified as Alstonefield area Staffordshire — consistent with Peak/Pennines crash territory. County label misleading but coordinates retained.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "wellington-he324-crash-site-he324",
+  "title": "Wellington HE324 Crash Site X Memorial",
+  "location_name": "Wellington HE324 Crash Site, IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
+  "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PN-008",
+  "crash_date": "1943-09-18",
+  "aircraft_type": "Wellington X",
+  "serial_number": "HE324",
+  "squadron": "RAF Silverstone",
+  "crew_summary": "6 killed (training exercise)",
+  "memorial_type": "Memorial marker",
+  "sources": [
+    {
+      "title": "warmemorialsonline.org.uk (memorial/256651)",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-22",
+  "data_quality": "Partial",
+  "narrative": "This is one of the earliest crashes in the area and involves Polish airmen — men who had escaped occupied Poland to continue fighting from Britain. 301 Squadron was a Polish bomber squadron operating Wellingtons from Swinderby/Winthorpe. Returning from a night bombing raid on Bremen, the Wellington came down in a barley field at Winkburn. The heroism of the Broadberry family, who risked their lives to pull crew from burning wreckage, adds a powerful civilian dimension to this story.",
+  "cause_of_loss": "Not confirmed — crash-landed in barley field",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing raid on Bremen",
+  "latitude": 53.1190161159707,
+  "longitude": -1.8297357592239334,
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/256651",
+      "summary": "War Memorials Online entry for the Wellington X HE324 crash site memorial. The memorial is a vertical square tablet with RAF badge and black lettering, dedicated in September 2013 after research to identify and notify surviving relatives of the six crew members.",
+      "key_details": [
+        "Memorial dedicated September 2013",
+        "Vertical square tablet with RAF badge",
+        "Crash occurred in a field near Horwood, North Devon",
+        "Aircraft was on a training exercise from RAF Silverstone"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/74678",
+      "summary": "IWM War Memorials Register entry for the Wellington HE324 crash memorial. Located half a mile east of Horwood church in North Devon, the stone of remembrance commemorates six airmen who died when the Wellington crashed in flames on 18 September 1943.",
+      "key_details": [
+        "IWM reference number 74678",
+        "Located near Horwood church, North Devon, EX39 4PE",
+        "Aircraft was seen on fire over Lovacott and East Barton before crashing"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/160696",
+      "summary": "Aviation Safety Network database entry for the Wellington HE324 accident on 18 September 1943. Records the aircraft type, date, and circumstances of the fatal training flight crash.",
+      "key_details": [
+        "Formal accident database record",
+        "Six crew from multiple Commonwealth nations killed",
+        "Crew included RAAF, RCAF, and RAFVR personnel"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/pennines/",
+      "summary": "Peak District Air Accident Research catalogues military aircraft crash sites across the Pennines region. While HE324 is listed among their records, the actual crash location was in North Devon rather than the Peak District.",
+      "key_details": [
+        "Cross-referenced in Pennines crash site database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "crew": [
+    {
+      "name": "Norman 'Norm' Dunn",
+      "rank": "F/Sgt",
+      "age": 25,
+      "role": "Crew",
+      "nationality": "Australian (RAAF)",
+      "fate": "Killed",
+      "burial_location": "Heanton Punchardon, North Devon"
+    },
+    {
+      "name": "Johnnie Donnachie",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "nationality": "British (RAFVR)",
+      "fate": "Killed",
+      "burial_location": "Wishaw, Scotland"
+    },
+    {
+      "name": "Hiram Farrer",
+      "rank": "P/O",
+      "age": 26,
+      "role": "Crew",
+      "nationality": "Canadian (RCAF)",
+      "fate": "Killed",
+      "burial_location": "Heanton Punchardon, North Devon"
+    },
+    {
+      "name": "Raymond Dolling",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "nationality": "British (RAFVR)",
+      "fate": "Killed",
+      "burial_location": "Llanelli, Wales"
+    },
+    {
+      "name": "James Hallam",
+      "rank": "Sgt",
+      "age": 18,
+      "role": "Crew",
+      "nationality": "British (RAFVR)",
+      "fate": "Killed",
+      "burial_location": "Unknown"
+    },
+    {
+      "name": "Henry 'Arthur' Newnham",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "nationality": "Australian (RAAF)",
+      "fate": "Killed",
+      "burial_location": "Unknown"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Bakewell & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "crypt.firelight.imported",
+  "photos": [
+    {
+      "filename": "wellington-he324-crash-site-he324/5a8ae1b0c2c61_Horwood_Wellington_Crash_547x410.jpg",
+      "caption": "5a8ae1b0c2c61 Horwood Wellington Crash 547x410",
+      "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
+    },
+    {
+      "filename": "wellington-he324-crash-site-he324/6884a62c31088_PXL_20250725_104527394_547x410.jpg",
+      "caption": "6884a62c31088 PXL 20250725 104527394 547x410",
+      "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Reverse geocode: 53.119 -1.830 is Alstonefield Staffordshire — plausible Peak/Pennines border",
+      "County label 'IWM-Registered...(Peak/Pennines)' misleading but coords consistent with area"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "NO CHANGE. Current coords (53.119, -1.830) verified as Alstonefield area Staffordshire — consistent with Peak/Pennines crash territory. County label misleading but coordinates retained.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF Silverstone",
+  "squadron_aliases": [
+    "RAF Silverstone"
+  ]
 }

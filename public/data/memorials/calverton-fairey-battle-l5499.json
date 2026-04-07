@@ -1,122 +1,128 @@
 {
-    "id": "calverton-fairey-battle-l5499",
-    "title": "Calverton Fairey Battle L5499 Memorial",
-    "location_name": "Watchwood Plantation, Calverton, Nottinghamshire",
-    "latitude": 53.0175,
-    "longitude": -1.0529,
-    "county": "Nottinghamshire",
-    "country": "United Kingdom",
-    "os_grid_reference": "SK 6044 5175",
-    "crash_date": "1940-10-13",
-    "aircraft_type": "Fairey Battle Mk.I",
-    "serial_number": "L5499",
-    "aircraft_code": "BH-Y",
-    "squadron": "300 (Ziemi Mazowieckiej) Squadron (Polish)",
-    "station": "RAF Swinderby",
-    "operation_type": "Operational",
-    "operation_target": "Calais harbour",
-    "cause_of_loss": "Lost in fog and blackout conditions returning from France; German intruder kept Swinderby blacked out",
-    "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle — a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. A German intruder kept RAF Swinderby blacked out, forcing homing bombers to wait until fuel was nearly exhausted. F/O Gebicki, an experienced 39-year-old pilot, attempted to land in darkness and crashed at Watchwood Plantation. The memorial — a steel cross with the inscription 'Perished for our and your freedom' — was erected by coal miners building the railway to Calverton Colliery. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
-    "crew": [
-        {
-            "rank": "F/O",
-            "name": "Jan Gebicki",
-            "age": 39,
-            "role": "Pilot",
-            "nationality": "Polish",
-            "fate": "Killed",
-            "burial_location": "Wilford Hill Cemetery, Nottingham",
-            "fate_detail": "Killed when aircraft crashed in fog and darkness. His son Professor Janusz Gebicki flew from Australia in 2019 for memorial service.",
-            "cwgc_verified": true,
-            "bio": "Experienced 39-year-old Polish pilot who escaped occupied Poland."
-        },
-        {
-            "rank": "Sgt",
-            "name": "Edward Morawa",
-            "age": 35,
-            "role": "Observer",
-            "nationality": "Polish",
-            "fate": "Killed",
-            "burial_location": "Wilford Hill Cemetery, Nottingham",
-            "fate_detail": "Killed in the crash. Buried at Wilford Hill Cemetery.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Tadeusz Egierski",
-            "age": 22,
-            "role": "Wireless Operator/Air Gunner",
-            "nationality": "Polish",
-            "fate": "Killed",
-            "burial_location": "Wilford Hill Cemetery, Nottingham",
-            "fate_detail": "At 22, the youngest crew member.",
-            "cwgc_verified": true
-        }
-    ],
-    "memorial_type": "Cross",
-    "inscription": "Perished for our and your freedom",
-    "erected_by": "Coal miners building Calverton Colliery railway",
-    "condition": "Good",
-    "sources": [
-        {
-            "title": "Aviation Safety Network",
-            "url": "https://aviation-safety.net/wikibase/244308",
-            "type": "database"
-        },
-        {
-            "title": "IWM War Memorials Register",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/59015",
-            "type": "database"
-        },
-        {
-            "title": "Geograph",
-            "url": "https://www.geograph.org.uk/article/Aviation-Memorials-in-Nottinghamshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "maintainer": {
-        "organisation": "Calverton Parish Council",
-        "website": "https://www.calvertonparishcouncil.gov.uk",
-        "maintainer_type": "parish-council"
+  "id": "calverton-fairey-battle-l5499",
+  "title": "Calverton Fairey Battle L5499 Memorial",
+  "location_name": "Watchwood Plantation, Calverton, Nottinghamshire",
+  "latitude": 53.0175,
+  "longitude": -1.0529,
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "os_grid_reference": "SK 6044 5175",
+  "crash_date": "1940-10-13",
+  "aircraft_type": "Fairey Battle Mk.I",
+  "serial_number": "L5499",
+  "aircraft_code": "BH-Y",
+  "squadron": "300 (Ziemi Mazowieckiej) Squadron (Polish)",
+  "station": "RAF Swinderby",
+  "operation_type": "Operational",
+  "operation_target": "Calais harbour",
+  "cause_of_loss": "Lost in fog and blackout conditions returning from France; German intruder kept Swinderby blacked out",
+  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle — a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. A German intruder kept RAF Swinderby blacked out, forcing homing bombers to wait until fuel was nearly exhausted. F/O Gebicki, an experienced 39-year-old pilot, attempted to land in darkness and crashed at Watchwood Plantation. The memorial — a steel cross with the inscription 'Perished for our and your freedom' — was erected by coal miners building the railway to Calverton Colliery. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Jan Gebicki",
+      "age": 39,
+      "role": "Pilot",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham",
+      "fate_detail": "Killed when aircraft crashed in fog and darkness. His son Professor Janusz Gebicki flew from Australia in 2019 for memorial service.",
+      "cwgc_verified": true,
+      "bio": "Experienced 39-year-old Polish pilot who escaped occupied Poland."
     },
-    "external_narratives": [
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://aviation-safety.net/wikibase/244308",
-            "summary": "Records crash of Fairey Battle Mk.I L5499/BH-Y of 300 (Mazowiecki) Squadron on 13 October 1940.",
-            "key_details": [
-                "Confirmed serial L5499, code BH-Y",
-                "300 (Mazowiecki) Squadron"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/59015",
-            "summary": "White stone pillar with two plaques and tubular steel cross.",
-            "key_details": [
-                "IWM reference: memorial/59015",
-                "White stone pillar with two plaques and tubular steel cross"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "what3words": "overpaid.renews.body",
-    "location_confidence": {
-        "status": "estimated",
-        "score": 0,
-        "sources": [
-            "Confirmed duplicate of calverton-fairey-battle-l-5499"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "DUPLICATE RECORD. Identical aircraft serial L5499, identical squadron, date, and coordinates as calverton-fairey-battle-l-5499. ID differs only in hyphen formatting. Recommend deduplication — retain one canonical entry.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "rank": "Sgt",
+      "name": "Edward Morawa",
+      "age": 35,
+      "role": "Observer",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham",
+      "fate_detail": "Killed in the crash. Buried at Wilford Hill Cemetery.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Tadeusz Egierski",
+      "age": 22,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "burial_location": "Wilford Hill Cemetery, Nottingham",
+      "fate_detail": "At 22, the youngest crew member.",
+      "cwgc_verified": true
     }
+  ],
+  "memorial_type": "Cross",
+  "inscription": "Perished for our and your freedom",
+  "erected_by": "Coal miners building Calverton Colliery railway",
+  "condition": "Good",
+  "sources": [
+    {
+      "title": "Aviation Safety Network",
+      "url": "https://aviation-safety.net/wikibase/244308",
+      "type": "database"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/59015",
+      "type": "database"
+    },
+    {
+      "title": "Geograph",
+      "url": "https://www.geograph.org.uk/article/Aviation-Memorials-in-Nottinghamshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "maintainer": {
+    "organisation": "Calverton Parish Council",
+    "website": "https://www.calvertonparishcouncil.gov.uk",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/244308",
+      "summary": "Records crash of Fairey Battle Mk.I L5499/BH-Y of 300 (Mazowiecki) Squadron on 13 October 1940.",
+      "key_details": [
+        "Confirmed serial L5499, code BH-Y",
+        "300 (Mazowiecki) Squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/59015",
+      "summary": "White stone pillar with two plaques and tubular steel cross.",
+      "key_details": [
+        "IWM reference: memorial/59015",
+        "White stone pillar with two plaques and tubular steel cross"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "what3words": "overpaid.renews.body",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [
+      "Confirmed duplicate of calverton-fairey-battle-l-5499"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "DUPLICATE RECORD. Identical aircraft serial L5499, identical squadron, date, and coordinates as calverton-fairey-battle-l-5499. ID differs only in hyphen formatting. Recommend deduplication — retain one canonical entry.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "300 (Polish) Squadron RAF",
+  "squadron_aliases": [
+    "300 (Ziemi Mazowieckiej) Squadron (Polish)",
+    "300 Polish Squadron",
+    "300 (Ziemi Mazowieckiej) Squadron"
+  ]
 }

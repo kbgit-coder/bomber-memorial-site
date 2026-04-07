@@ -1,181 +1,186 @@
 {
-    "id": "beetley-bj764",
-    "title": "Beetley Wellington Memorial",
-    "location_name": "Beetley, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-003",
-    "crash_date": "1942-11-09",
-    "aircraft_type": "Wellington",
-    "serial_number": "BJ764",
-    "squadron": "425 Squadron",
-    "station": "Dishforth",
-    "crew_summary": "4 killed; 2 survived as POWs (bailed out over Netherlands)",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        },
-        {
-            "title": "Back to Normandy - BJ764 loss record",
-            "url": "https://backtonormandy.org/the-history/air-force-operations/airplanes-allies-and-axis-lost/wellington/19147-BJ7641942-11-10.html",
-            "type": "database"
-        },
-        {
-            "title": "Warplane.com - Crew records",
-            "url": "https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200001751",
-            "type": "database"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron took off from RAF Dishforth at 17:33 for a bombing mission to Hamburg. Over mainland Europe, the aircraft was attacked by Luftwaffe night-fighter ace Oberleutnant Ludwig Becker near Raard, west of Dokkum in the Netherlands. Two crew members — Sgt Delorme and Sgt Pambrun — bailed out and became prisoners of war. The pilot, Flight Sergeant Foltz, a 26-year-old American from New York City serving with the RCAF, managed to regain control of the damaged aircraft and flew it back across the North Sea. However, approaching Norfolk the aircraft became uncontrollable and crashed near the village of Beetley, killing Foltz and the three remaining crew. A memorial at St Mary Magdalene's Church, Beetley, commemorates the Canadian aircrew who died.",
-    "crew": [
-        {
-            "rank": "F/Sgt",
-            "name": "Raymond Rogers Foltz",
-            "service_number": "R/79246",
-            "role": "Pilot",
-            "nationality": "American (RCAF)",
-            "burial_location": "Dishforth Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Flew the damaged Wellington back from the Netherlands but crashed at Beetley attempting to land. Buried at Dishforth Cemetery.",
-            "cwgc_verified": true,
-            "bio": "Foltz was a 26-year-old American from New York City who had volunteered to serve with the Royal Canadian Air Force. He heroically flew the badly damaged aircraft back across the North Sea after two crew had bailed out.",
-            "hometown": "New York City, USA",
-            "age": 26
-        },
-        {
-            "rank": "F/O",
-            "name": "G.S. Cartwright",
-            "service_number": "RCAF",
-            "role": "Observer",
-            "nationality": "Canadian",
-            "burial_location": "Dishforth Cemetery",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Beetley after the damaged aircraft failed to land safely.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Unknown crew member 3",
-            "role": "Crew",
-            "nationality": "Canadian",
-            "burial_location": "Dishforth Cemetery",
-            "fate": "Killed",
-            "fate_detail": "One of two additional crew killed in the crash at Beetley.",
-            "cwgc_verified": false
-        },
-        {
-            "rank": "Sgt",
-            "name": "Unknown crew member 4",
-            "role": "Crew",
-            "nationality": "Canadian",
-            "burial_location": "Dishforth Cemetery",
-            "fate": "Killed",
-            "fate_detail": "One of two additional crew killed in the crash at Beetley.",
-            "cwgc_verified": false
-        },
-        {
-            "rank": "Sgt",
-            "name": "Joseph Albert Delorme",
-            "service_number": "RCAF",
-            "role": "Crew",
-            "nationality": "Canadian",
-            "fate": "POW",
-            "fate_detail": "Bailed out over the Netherlands after the aircraft was attacked by Oblt Ludwig Becker. Became POW No. 881, held at Stalag Luft Heydekrug for the remainder of the war.",
-            "cwgc_verified": false,
-            "hometown": "St. Adolphe, Manitoba, Canada"
-        },
-        {
-            "rank": "Sgt",
-            "name": "J.R.A. Pambrun",
-            "service_number": "R/119711",
-            "role": "Wireless Operator",
-            "nationality": "Canadian",
-            "fate": "POW",
-            "fate_detail": "Bailed out over the Netherlands with Sgt Delorme. Became a prisoner of war and held at Stalag Luft Heydekrug.",
-            "cwgc_verified": false
-        }
-    ],
-    "latitude": 52.72843,
-    "longitude": 0.92064,
-    "cause_of_loss": "Attacked by Luftwaffe night-fighter ace Oblt Ludwig Becker near Dokkum, Netherlands; two crew bailed out; pilot flew damaged aircraft back but crashed at Beetley",
-    "operation_type": "Operational",
-    "operation_target": "Hamburg",
-    "memorial_details": "A plain, rectangular, white marble tablet mounted on a black backboard with commemoration in black upper case letters is located at St Mary Magdalene's Church, Church Lane, Beetley, Breckland, Norfolk.",
-    "maintainer": {
-        "organisation": "Beetley Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "beetley-bj764",
+  "title": "Beetley Wellington Memorial",
+  "location_name": "Beetley, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-003",
+  "crash_date": "1942-11-09",
+  "aircraft_type": "Wellington",
+  "serial_number": "BJ764",
+  "squadron": "425 Squadron",
+  "station": "Dishforth",
+  "crew_summary": "4 killed; 2 survived as POWs (bailed out over Netherlands)",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101718",
-            "summary": "The IWM records the memorial to the crew of Wellington BJ764 at Beetley, Norfolk, commemorating the Canadian aircrew who died in the crash on 9 November 1942.",
-            "key_details": [
-                "IWM memorial reference 101718"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
-            "original_url": "https://www.geograph.org.uk/photo/6029497",
-            "summary": "Geograph photo record of the memorial at Beetley to the crew of Wellington BJ764 of 425 (Alouette) Squadron RCAF. The French-Canadian squadron was formed at Dishforth in June 1942.",
-            "key_details": [
-                "425 (Alouette) Squadron RCAF",
-                "French-Canadian bomber squadron",
-                "Formed at Dishforth June 1942"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aircrewremembered.com (related 425 Sqn page)",
-            "original_url": "https://aircrewremembered.com/list-of-pages-relating-to-1942.html",
-            "summary": "Aircrewremembered's 1942 index references the Wellington BJ764 loss. Research indicates the aircraft was attacked by Luftwaffe ace Oblt Ludwig Becker near Dokkum in the Netherlands during a Hamburg raid. Two crew bailed out and became POWs; pilot F/Sgt Foltz (aged 26, from New York City) flew the damaged aircraft back to Norfolk but crashed attempting to land at Swanton Morley.",
-            "key_details": [
-                "Attacked by Luftwaffe ace Oblt Ludwig Becker",
-                "Attacked near Dokkum, Netherlands",
-                "On Hamburg raid",
-                "Two crew survived as POWs including Sgt Delorme",
-                "Pilot Foltz aged 26, from New York City",
-                "Attempted emergency landing at Swanton Morley"
-            ],
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "This page contains many names, dates, locations. To help find the one(s) you're interested in, use our Highlighting facility. Highlighting will ONLY find entries within this specific page. Archive Reports 1939 &bull; Archive Reports 1940 &bull; Archive Reports 1941 &bull; Archive Reports 1942 Archive Reports 1943 &bull; Archive Reports 1944 &bull; Archive Reports 1945 If you are new to this site, you may want to start your journey at our homepage . You can also visit our Site Map for a comprehensive view of everything on this site in a single window. It's worth looking at. This current page is one of a number of listing pages which our system creates automatically to help you find relevant material by showing all pages that are linked in some specific way. A list page may show all pages that relate to Polish forces, as an example. Material that does not apply to a specific category that you may find interesting include: Animated Map Showing Allied Bombing in WW2 Staggering Cost in Human Lives in WW2\n\nAt the going down of the sun, and in the morning we will remember them. - Laurence Binyon\n\n- Back to Top Search Tips Advanced Search Home\n\n- Maps Visual Site Map\n\n- FAQ How To Use Site\n\n- About/Donate Helpdesk\n\n- Current Site Health/Issues\n\n- Sponsor/Lay a Wreath\n\n- Doing Your Own Research\n\n- Our support for charities\n\n- Our Research Bibliography\n\n- News Recent Archive Reports\n\n- Not Many People Know That\n\n- Contact/Help Helpdesk\n\n- Doing Your Own Research\n\n- Research Sources\n\n- Your relative's CWGC grave explained\n\n- Sponsor/Lay a Wreath\n\n- Tips for Effective Search\n\n- PersonalHistories Cross Reference Research Lists\n\n- Cross Reference Research Lists All Lists\n\n- Thousands of Personal Histories\n\n- Profiles in Courage\n\n- Thousands of Personal Histories\n\n- Recent Archive Reports\n\n- Profiles in Courage\n\n- 1914 -1918 WW1 Material\n\n- Royal Air Force + RAFVR 1914 -1918 WW1\n\n- Site honouring Czechoslovak RAF\n\n- Holland: LOST Rob Philips Memorial Archive\n\n- Norway, Denmark, Sweden, Finland\n\n- Archiwum Mielnika: Polish Air Force Archive\n\n- USA WASP Flygirls\n\n- USA - Co de Swart Gallery: Baker Crew 95th BG\n\n- USA - Co de Swart Gallery: Geyer Crew 98th BG\n\n- Russia/Soviet Union\n\n- RCAF 409 The Nighthawks\n\n- Hore-Kennard RCAF\n\n- Zenon Bartkowiak PAF\n\n- Charles Dills USAAC\n\n- Gerald Schwartz USAAC\n\n- Ralph Malan Memoirs\n\n- Soviet Women 'Night Witches'\n\n- Full Story of Lancaster Z-Zebra\n\n- First Air Raid Victim\n\n- 1914 -1918 WW1 Material\n\n- Databases Databases Master List\n\n- Consolidated Names: includes 500K+ names from all our databases\n\n- Cross Reference Research Lists\n\n- Research Sources\n\n- MULTI-NATIONAL DATABASES\n\n- Aces and Aviators International WW1 - 3000+\n\n- Vitz Archive: War Crimes Victims of Axis\n\n- NEW! USAAF & Allies Non Combat Incidents and Losses\n\n- ALLIED DATABASES\n\n- Allied Losses and Incidents: all Commands\n\n- Aircrew Deaths & Resting Places Worldwide 1939 - 47 120,000+\n\n- Alamein Allied Air Forces Memorial 3000+\n\n- Allied Non-British Graves in Europe managed by CWGC\n\n- Battle of Britain: Enhanced and Extended\n\n- Glider Pilot Regiment Casualties\n\n- Korean War UN Forces Database\n\n- LOST Rob Philips Memorial Archive Dutch/2TAF Losses\n\n- Malta Memorial Database\n\n- Nordic Allied Database\n\n- Ottawa Allied Air Forces Memorial Database\n\n- Paradie RCAF Archive\n\n- Archiwum: Polish Air Force Archive\n\n- Polish Honour Roll\n\n- RAAF Honour Roll\n\n- RAF Bomber Command: moved to Allied Losses & Incidents\n\n- RAF Fighter Command: moved to Allied Losses & Incidents\n\n- RCAF Notes - 9000+\n\n- Royal Navy Fleet Air Arm\n\n- Runnymede Memorial Database\n\n- Soviet Aces Database 1941 - 1945\n\n- US Aces and Aviators WW2\n\n- US Air Service Victories WW1\n\n- USAAF Allies NonCombat Losses\n\n- USAAF Operations WWll\n\n- US Marine Corps Squadrons WWll\n\n- Vitz Memorial Archive: War Crimes Victims of Axis\n\n- Allied Graves and Memorials in Europe Managed by CWGC Australia RAAF Graves in Europe\n\n- Canada RCAF Graves in Europe\n\n- India RIAF Graves in UK\n\n- Netherlands Graves in Europe\n\n- New Zealand RNZAF Graves in Europe\n\n- Poland PAF Graves in Europe\n\n- South Africa SAAF Graves in Europe\n\n- Aircrew Deaths & Resting Places Worldwide 1939 - 47 120,000+\n\n- Malta Memorial Database\n\n- Runnymede Memorial Database\n\n- Kracker Luftwaffe Archive\n\n- Deutsches Kreuz in Gold\n\n- German Graves in UK\n\n- Luftwaffe Graves Managed by CWGC\n\n- Luftwaffe Victories by Name/Date\n\n- Archives Archiwum: Polish Air Force Archive: Data on 17,000\n\n- Kracker Luftwaffe Archive\n\n- LOST Rob Philips Memorial Archive: Holland\n\n- Paradie Canadian Archive\n\n- Paul McGuiness RAAF Archive WW1 & WW2\n\n- Profiles in Courage\n\n- Vitz Memorial Archive: War Crimes Victims of Axis\n\n- USAAF Combat Operations 1941-45 Worldwide\n\n- 409 RCAF: The Nighthawks\n\n- Detailed Personal Archive RCAF Officer\n\n- Charles Dills Archive\n\n- Gerald Schwartz Archive\n\n- Ralph Malan Memoirs\n\n- RAF Coastal Command Patrol Areas\n\n- US Intelligence Analysis German Anti Aircraft\n\n- Allied Mine Laying Map (Gardening)\n\n- Airborne..."
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Dereham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Beetley Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "mistaking.innovator.resort",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "IWM War Memorials Register ref 101718 — 10-digit OS grid ref",
-            "Geograph photo 6029497 — confirms interior church memorial",
-            "CWGC Beetley St Mary Magdalene Churchyard"
-        ],
-        "verified_by": "Holly (PAI research agent)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "Current coords (52.7238, 0.917) are generic village geocode, 600m SW of actual location. Memorial is a marble tablet INSIDE St Mary Magdalene's Church, Church Lane, Beetley NR20 4AB. IWM ref 101718 gives 10-digit OS grid. Important: this is a church interior memorial, not a field/crash site marker.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "title": "Back to Normandy - BJ764 loss record",
+      "url": "https://backtonormandy.org/the-history/air-force-operations/airplanes-allies-and-axis-lost/wellington/19147-BJ7641942-11-10.html",
+      "type": "database"
+    },
+    {
+      "title": "Warplane.com - Crew records",
+      "url": "https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200001751",
+      "type": "database"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron took off from RAF Dishforth at 17:33 for a bombing mission to Hamburg. Over mainland Europe, the aircraft was attacked by Luftwaffe night-fighter ace Oberleutnant Ludwig Becker near Raard, west of Dokkum in the Netherlands. Two crew members — Sgt Delorme and Sgt Pambrun — bailed out and became prisoners of war. The pilot, Flight Sergeant Foltz, a 26-year-old American from New York City serving with the RCAF, managed to regain control of the damaged aircraft and flew it back across the North Sea. However, approaching Norfolk the aircraft became uncontrollable and crashed near the village of Beetley, killing Foltz and the three remaining crew. A memorial at St Mary Magdalene's Church, Beetley, commemorates the Canadian aircrew who died.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Raymond Rogers Foltz",
+      "service_number": "R/79246",
+      "role": "Pilot",
+      "nationality": "American (RCAF)",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Flew the damaged Wellington back from the Netherlands but crashed at Beetley attempting to land. Buried at Dishforth Cemetery.",
+      "cwgc_verified": true,
+      "bio": "Foltz was a 26-year-old American from New York City who had volunteered to serve with the Royal Canadian Air Force. He heroically flew the badly damaged aircraft back across the North Sea after two crew had bailed out.",
+      "hometown": "New York City, USA",
+      "age": 26
+    },
+    {
+      "rank": "F/O",
+      "name": "G.S. Cartwright",
+      "service_number": "RCAF",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Beetley after the damaged aircraft failed to land safely.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Unknown crew member 3",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "One of two additional crew killed in the crash at Beetley.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Unknown crew member 4",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "burial_location": "Dishforth Cemetery",
+      "fate": "Killed",
+      "fate_detail": "One of two additional crew killed in the crash at Beetley.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Albert Delorme",
+      "service_number": "RCAF",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "Bailed out over the Netherlands after the aircraft was attacked by Oblt Ludwig Becker. Became POW No. 881, held at Stalag Luft Heydekrug for the remainder of the war.",
+      "cwgc_verified": false,
+      "hometown": "St. Adolphe, Manitoba, Canada"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J.R.A. Pambrun",
+      "service_number": "R/119711",
+      "role": "Wireless Operator",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "Bailed out over the Netherlands with Sgt Delorme. Became a prisoner of war and held at Stalag Luft Heydekrug.",
+      "cwgc_verified": false
+    }
+  ],
+  "latitude": 52.72843,
+  "longitude": 0.92064,
+  "cause_of_loss": "Attacked by Luftwaffe night-fighter ace Oblt Ludwig Becker near Dokkum, Netherlands; two crew bailed out; pilot flew damaged aircraft back but crashed at Beetley",
+  "operation_type": "Operational",
+  "operation_target": "Hamburg",
+  "memorial_details": "A plain, rectangular, white marble tablet mounted on a black backboard with commemoration in black upper case letters is located at St Mary Magdalene's Church, Church Lane, Beetley, Breckland, Norfolk.",
+  "maintainer": {
+    "organisation": "Beetley Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101718",
+      "summary": "The IWM records the memorial to the crew of Wellington BJ764 at Beetley, Norfolk, commemorating the Canadian aircrew who died in the crash on 9 November 1942.",
+      "key_details": [
+        "IWM memorial reference 101718"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
+      "original_url": "https://www.geograph.org.uk/photo/6029497",
+      "summary": "Geograph photo record of the memorial at Beetley to the crew of Wellington BJ764 of 425 (Alouette) Squadron RCAF. The French-Canadian squadron was formed at Dishforth in June 1942.",
+      "key_details": [
+        "425 (Alouette) Squadron RCAF",
+        "French-Canadian bomber squadron",
+        "Formed at Dishforth June 1942"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrewremembered.com (related 425 Sqn page)",
+      "original_url": "https://aircrewremembered.com/list-of-pages-relating-to-1942.html",
+      "summary": "Aircrewremembered's 1942 index references the Wellington BJ764 loss. Research indicates the aircraft was attacked by Luftwaffe ace Oblt Ludwig Becker near Dokkum in the Netherlands during a Hamburg raid. Two crew bailed out and became POWs; pilot F/Sgt Foltz (aged 26, from New York City) flew the damaged aircraft back to Norfolk but crashed attempting to land at Swanton Morley.",
+      "key_details": [
+        "Attacked by Luftwaffe ace Oblt Ludwig Becker",
+        "Attacked near Dokkum, Netherlands",
+        "On Hamburg raid",
+        "Two crew survived as POWs including Sgt Delorme",
+        "Pilot Foltz aged 26, from New York City",
+        "Attempted emergency landing at Swanton Morley"
+      ],
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "This page contains many names, dates, locations. To help find the one(s) you're interested in, use our Highlighting facility. Highlighting will ONLY find entries within this specific page. Archive Reports 1939 &bull; Archive Reports 1940 &bull; Archive Reports 1941 &bull; Archive Reports 1942 Archive Reports 1943 &bull; Archive Reports 1944 &bull; Archive Reports 1945 If you are new to this site, you may want to start your journey at our homepage . You can also visit our Site Map for a comprehensive view of everything on this site in a single window. It's worth looking at. This current page is one of a number of listing pages which our system creates automatically to help you find relevant material by showing all pages that are linked in some specific way. A list page may show all pages that relate to Polish forces, as an example. Material that does not apply to a specific category that you may find interesting include: Animated Map Showing Allied Bombing in WW2 Staggering Cost in Human Lives in WW2\n\nAt the going down of the sun, and in the morning we will remember them. - Laurence Binyon\n\n- Back to Top Search Tips Advanced Search Home\n\n- Maps Visual Site Map\n\n- FAQ How To Use Site\n\n- About/Donate Helpdesk\n\n- Current Site Health/Issues\n\n- Sponsor/Lay a Wreath\n\n- Doing Your Own Research\n\n- Our support for charities\n\n- Our Research Bibliography\n\n- News Recent Archive Reports\n\n- Not Many People Know That\n\n- Contact/Help Helpdesk\n\n- Doing Your Own Research\n\n- Research Sources\n\n- Your relative's CWGC grave explained\n\n- Sponsor/Lay a Wreath\n\n- Tips for Effective Search\n\n- PersonalHistories Cross Reference Research Lists\n\n- Cross Reference Research Lists All Lists\n\n- Thousands of Personal Histories\n\n- Profiles in Courage\n\n- Thousands of Personal Histories\n\n- Recent Archive Reports\n\n- Profiles in Courage\n\n- 1914 -1918 WW1 Material\n\n- Royal Air Force + RAFVR 1914 -1918 WW1\n\n- Site honouring Czechoslovak RAF\n\n- Holland: LOST Rob Philips Memorial Archive\n\n- Norway, Denmark, Sweden, Finland\n\n- Archiwum Mielnika: Polish Air Force Archive\n\n- USA WASP Flygirls\n\n- USA - Co de Swart Gallery: Baker Crew 95th BG\n\n- USA - Co de Swart Gallery: Geyer Crew 98th BG\n\n- Russia/Soviet Union\n\n- RCAF 409 The Nighthawks\n\n- Hore-Kennard RCAF\n\n- Zenon Bartkowiak PAF\n\n- Charles Dills USAAC\n\n- Gerald Schwartz USAAC\n\n- Ralph Malan Memoirs\n\n- Soviet Women 'Night Witches'\n\n- Full Story of Lancaster Z-Zebra\n\n- First Air Raid Victim\n\n- 1914 -1918 WW1 Material\n\n- Databases Databases Master List\n\n- Consolidated Names: includes 500K+ names from all our databases\n\n- Cross Reference Research Lists\n\n- Research Sources\n\n- MULTI-NATIONAL DATABASES\n\n- Aces and Aviators International WW1 - 3000+\n\n- Vitz Archive: War Crimes Victims of Axis\n\n- NEW! USAAF & Allies Non Combat Incidents and Losses\n\n- ALLIED DATABASES\n\n- Allied Losses and Incidents: all Commands\n\n- Aircrew Deaths & Resting Places Worldwide 1939 - 47 120,000+\n\n- Alamein Allied Air Forces Memorial 3000+\n\n- Allied Non-British Graves in Europe managed by CWGC\n\n- Battle of Britain: Enhanced and Extended\n\n- Glider Pilot Regiment Casualties\n\n- Korean War UN Forces Database\n\n- LOST Rob Philips Memorial Archive Dutch/2TAF Losses\n\n- Malta Memorial Database\n\n- Nordic Allied Database\n\n- Ottawa Allied Air Forces Memorial Database\n\n- Paradie RCAF Archive\n\n- Archiwum: Polish Air Force Archive\n\n- Polish Honour Roll\n\n- RAAF Honour Roll\n\n- RAF Bomber Command: moved to Allied Losses & Incidents\n\n- RAF Fighter Command: moved to Allied Losses & Incidents\n\n- RCAF Notes - 9000+\n\n- Royal Navy Fleet Air Arm\n\n- Runnymede Memorial Database\n\n- Soviet Aces Database 1941 - 1945\n\n- US Aces and Aviators WW2\n\n- US Air Service Victories WW1\n\n- USAAF Allies NonCombat Losses\n\n- USAAF Operations WWll\n\n- US Marine Corps Squadrons WWll\n\n- Vitz Memorial Archive: War Crimes Victims of Axis\n\n- Allied Graves and Memorials in Europe Managed by CWGC Australia RAAF Graves in Europe\n\n- Canada RCAF Graves in Europe\n\n- India RIAF Graves in UK\n\n- Netherlands Graves in Europe\n\n- New Zealand RNZAF Graves in Europe\n\n- Poland PAF Graves in Europe\n\n- South Africa SAAF Graves in Europe\n\n- Aircrew Deaths & Resting Places Worldwide 1939 - 47 120,000+\n\n- Malta Memorial Database\n\n- Runnymede Memorial Database\n\n- Kracker Luftwaffe Archive\n\n- Deutsches Kreuz in Gold\n\n- German Graves in UK\n\n- Luftwaffe Graves Managed by CWGC\n\n- Luftwaffe Victories by Name/Date\n\n- Archives Archiwum: Polish Air Force Archive: Data on 17,000\n\n- Kracker Luftwaffe Archive\n\n- LOST Rob Philips Memorial Archive: Holland\n\n- Paradie Canadian Archive\n\n- Paul McGuiness RAAF Archive WW1 & WW2\n\n- Profiles in Courage\n\n- Vitz Memorial Archive: War Crimes Victims of Axis\n\n- USAAF Combat Operations 1941-45 Worldwide\n\n- 409 RCAF: The Nighthawks\n\n- Detailed Personal Archive RCAF Officer\n\n- Charles Dills Archive\n\n- Gerald Schwartz Archive\n\n- Ralph Malan Memoirs\n\n- RAF Coastal Command Patrol Areas\n\n- US Intelligence Analysis German Anti Aircraft\n\n- Allied Mine Laying Map (Gardening)\n\n- Airborne..."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Dereham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Beetley Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "mistaking.innovator.resort",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [
+      "IWM War Memorials Register ref 101718 — 10-digit OS grid ref",
+      "Geograph photo 6029497 — confirms interior church memorial",
+      "CWGC Beetley St Mary Magdalene Churchyard"
+    ],
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "Current coords (52.7238, 0.917) are generic village geocode, 600m SW of actual location. Memorial is a marble tablet INSIDE St Mary Magdalene's Church, Church Lane, Beetley NR20 4AB. IWM ref 101718 gives 10-digit OS grid. Important: this is a church interior memorial, not a field/crash site marker.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "425 Squadron RCAF",
+  "squadron_aliases": [
+    "425 Squadron",
+    "425 Sqdn."
+  ]
 }

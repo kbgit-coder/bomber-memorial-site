@@ -124,5 +124,10 @@
     "verification_notes": "INACCURATE. Previous coords (52.202, -0.931) ~27km south ~12km west near Brixworth/Northampton. Two APIs differ slightly in longitude (~1km). Best single estimate 52.4414 -0.8125 (Photon OSM town node). B-17 crash site likely in farmland outside town.",
     "community_submissions": 0,
     "last_reviewed": "2026-04-06"
-  }
+  },
+  "squadron_display_name": "90 Squadron RAF",
+  "squadron_aliases": [
+    "90 Squadron",
+    "90 Sqdn."
+  ]
 }

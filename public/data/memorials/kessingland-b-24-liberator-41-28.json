@@ -1,129 +1,133 @@
 {
-    "id": "kessingland-b-24-liberator-41-28",
-    "title": "Kessingland \"Repulser\" Memorial",
-    "location_name": "Kessingland, Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-007",
-    "crash_date": "1944-04-22",
-    "aircraft_type": "B-24 Liberator 41-28843 \"Repulser\"",
-    "squadron": "715th Squadron",
-    "station": "Seething (USAAF)",
-    "crew_summary": "10 killed; pilot 2Lt. Eugene V. Pulcipher",
-    "memorial_type": "Plaque",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.4197397,
-    "longitude": 1.7122444,
-    "maintainer": {
-        "organisation": "Kessingland Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/41-28843",
-            "summary": "The American Air Museum records B-24H Liberator 41-28843 'Repulser' from the 715th Bomb Squadron. The aircraft was shot down on 22 April 1944 after a successful bombing mission over Germany. ME 410 German fighters followed the formation back to the UK and attacked the Repulser before it could land at Seething. It crashed in fields south of Kessingland, killing all 10 crew.",
-            "key_details": [
-                "Shot down by ME 410 intruders over England",
-                "All 10 crew killed",
-                "Crashed in fields south of Kessingland village"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/230838/",
-            "summary": "War Memorials Online registers the USAAF B-24 Liberator crash memorial at Kessingland. The commemorative stone bearing the names of the 715th Bomber Group crew is set alongside the village war memorial in the grounds of St Edmund's Church.",
-            "key_details": [
-                "Memorial reference 230838",
-                "Located at St Edmund's Church alongside village war memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Lowestoft Journal",
-            "original_url": "https://www.lowestoftjournal.co.uk/news/22919571.bravery-wartime-airmen-honoured/",
-            "summary": "Local newspaper report on the memorial ceremony honouring the bravery of the 10 USAAF airmen killed when their Liberator was shot down over Kessingland. The article identifies the known Night of the Intruders attacks when Luftwaffe fighters followed returning bomber formations back to their English bases.",
-            "key_details": [
-                "Part of the 'Night of the Intruders' attacks",
-                "Local community commemoration"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "East Anglian Daily Times",
-            "original_url": "https://www.eadt.co.uk/news/24291608.night-intruders-memorial-service-kessingland/",
-            "summary": "Coverage of the Night of the Intruders memorial service held at Kessingland, commemorating the attack by German night fighters that followed returning USAAF bombers back to their East Anglian bases, resulting in losses including the Repulser.",
-            "key_details": [
-                "Annual memorial service held at Kessingland"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Lowestoft Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Kessingland Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "gurgled.recruiter.credible",
-    "photos": [
-        {
-            "filename": "kessingland-b-24-liberator-41-28/geograph-4425734-by-Adrian-S-Pye_547x410.jpg",
-            "caption": "geograph 4425734 by Adrian S Pye 547x410",
-            "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-        },
-        {
-            "filename": "kessingland-b-24-liberator-41-28/5a467ea6eb793_20171123_130510_547x410.jpg",
-            "caption": "5a467ea6eb793 20171123 130510 547x410",
-            "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-        },
-        {
-            "filename": "kessingland-b-24-liberator-41-28/5f4511dda7ed1_Kessingland_-_USAAF.1_547x410.JPG",
-            "caption": "5f4511dda7ed1 Kessingland   USAAF.1 547x410",
-            "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-        },
-        {
-            "filename": "kessingland-b-24-liberator-41-28/5f4511ddf0441_Kessingland_-_USAAF.2_547x410.JPG",
-            "caption": "5f4511ddf0441 Kessingland   USAAF.2 547x410",
-            "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-        },
-        {
-            "filename": "kessingland-b-24-liberator-41-28/5fc64a3119c59_20201001_170218_547x410.jpg",
-            "caption": "5fc64a3119c59 20201001 170218 547x410",
-            "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon.komoot.io — Kessingland Suffolk coast at 52.420 1.712",
-            "Current 52.050 1.067 ~42km south/west near Ipswich — wrong"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (52.050, 1.067) ~42km southwest near Ipswich. Kessingland is a coastal village in Suffolk at 52.420, 1.712.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "kessingland-b-24-liberator-41-28",
+  "title": "Kessingland \"Repulser\" Memorial",
+  "location_name": "Kessingland, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-007",
+  "crash_date": "1944-04-22",
+  "aircraft_type": "B-24 Liberator 41-28843 \"Repulser\"",
+  "squadron": "715th Squadron",
+  "station": "Seething (USAAF)",
+  "crew_summary": "10 killed; pilot 2Lt. Eugene V. Pulcipher",
+  "memorial_type": "Plaque",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.4197397,
+  "longitude": 1.7122444,
+  "maintainer": {
+    "organisation": "Kessingland Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/41-28843",
+      "summary": "The American Air Museum records B-24H Liberator 41-28843 'Repulser' from the 715th Bomb Squadron. The aircraft was shot down on 22 April 1944 after a successful bombing mission over Germany. ME 410 German fighters followed the formation back to the UK and attacked the Repulser before it could land at Seething. It crashed in fields south of Kessingland, killing all 10 crew.",
+      "key_details": [
+        "Shot down by ME 410 intruders over England",
+        "All 10 crew killed",
+        "Crashed in fields south of Kessingland village"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/230838/",
+      "summary": "War Memorials Online registers the USAAF B-24 Liberator crash memorial at Kessingland. The commemorative stone bearing the names of the 715th Bomber Group crew is set alongside the village war memorial in the grounds of St Edmund's Church.",
+      "key_details": [
+        "Memorial reference 230838",
+        "Located at St Edmund's Church alongside village war memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Lowestoft Journal",
+      "original_url": "https://www.lowestoftjournal.co.uk/news/22919571.bravery-wartime-airmen-honoured/",
+      "summary": "Local newspaper report on the memorial ceremony honouring the bravery of the 10 USAAF airmen killed when their Liberator was shot down over Kessingland. The article identifies the known Night of the Intruders attacks when Luftwaffe fighters followed returning bomber formations back to their English bases.",
+      "key_details": [
+        "Part of the 'Night of the Intruders' attacks",
+        "Local community commemoration"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "East Anglian Daily Times",
+      "original_url": "https://www.eadt.co.uk/news/24291608.night-intruders-memorial-service-kessingland/",
+      "summary": "Coverage of the Night of the Intruders memorial service held at Kessingland, commemorating the attack by German night fighters that followed returning USAAF bombers back to their East Anglian bases, resulting in losses including the Repulser.",
+      "key_details": [
+        "Annual memorial service held at Kessingland"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Lowestoft Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Kessingland Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "gurgled.recruiter.credible",
+  "photos": [
+    {
+      "filename": "kessingland-b-24-liberator-41-28/geograph-4425734-by-Adrian-S-Pye_547x410.jpg",
+      "caption": "geograph 4425734 by Adrian S Pye 547x410",
+      "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    },
+    {
+      "filename": "kessingland-b-24-liberator-41-28/5a467ea6eb793_20171123_130510_547x410.jpg",
+      "caption": "5a467ea6eb793 20171123 130510 547x410",
+      "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    },
+    {
+      "filename": "kessingland-b-24-liberator-41-28/5f4511dda7ed1_Kessingland_-_USAAF.1_547x410.JPG",
+      "caption": "5f4511dda7ed1 Kessingland   USAAF.1 547x410",
+      "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    },
+    {
+      "filename": "kessingland-b-24-liberator-41-28/5f4511ddf0441_Kessingland_-_USAAF.2_547x410.JPG",
+      "caption": "5f4511ddf0441 Kessingland   USAAF.2 547x410",
+      "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    },
+    {
+      "filename": "kessingland-b-24-liberator-41-28/5fc64a3119c59_20201001_170218_547x410.jpg",
+      "caption": "5fc64a3119c59 20201001 170218 547x410",
+      "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Photon.komoot.io — Kessingland Suffolk coast at 52.420 1.712",
+      "Current 52.050 1.067 ~42km south/west near Ipswich — wrong"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (52.050, 1.067) ~42km southwest near Ipswich. Kessingland is a coastal village in Suffolk at 52.420, 1.712.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "715th Squadron USAAF",
+  "squadron_aliases": [
+    "715th Squadron"
+  ]
 }

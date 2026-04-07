@@ -1,133 +1,137 @@
 {
-    "id": "laughterton-1-eh940",
-    "title": "Laughterton (1) Stirling Memorial",
-    "location_name": "Laughterton (1), Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-013",
-    "crash_date": "1944-06-21",
-    "aircraft_type": "Short Stirling",
-    "serial_number": "EH940",
-    "squadron": "1661 HCU",
-    "station": "Winthorpe",
-    "crew_summary": "5 killed including pilot Flg Off. Frederick Shaw Bradbury",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.27475331864182,
-    "longitude": -0.7449671407874179,
-    "maintainer": {
-        "organisation": "Laughterton Parish Meeting",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264797/",
-            "summary": "War Memorials Online registers the Laughterton Trentside Memorial, a stone cairn surmounted by a propeller blade and reduction gear with plaques on opposing sides. One side commemorates Stirling EH940 from 1661 HCU (pilot's first solo flight) which suffered an in-flight engine fire at 1,800 feet and crashed at Park Farm, Kettlethorpe on 21 June 1944. Five crew were killed and three injured.",
-            "key_details": [
-                "Memorial reference 264797",
-                "Stone cairn with propeller blade",
-                "Pilot's first solo flight",
-                "In-flight engine fire at 1,800 feet",
-                "Crashed at Park Farm, Kettlethorpe"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20313",
-            "summary": "IWM registers the memorial as commemorating both Shorts Stirling EH940 and Avro Lancaster LM292. The memorial plaques on opposing sides were unveiled on 16 July 1994, erected on the village green beside the A1133.",
-            "key_details": [
-                "IWM memorial reference 20313",
-                "Dual memorial covering two crashes",
-                "Unveiled 16 July 1994 on village green"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Traces of War",
-            "original_url": "https://www.tracesofwar.com/sights/136947/Memorial-RAF-Winthorpe-1661-HCU.htm",
-            "summary": "Traces of War documents the broader memorial context for 1661 Heavy Conversion Unit at RAF Winthorpe, which suffered numerous training losses with the notoriously difficult Short Stirling bomber during the conversion training programme.",
-            "key_details": [
-                "1661 HCU training context documented",
-                "Stirling bomber conversion training losses"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Gainsborough & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Laughterton Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "photos.earpiece.last",
-    "photos": [
-        {
-            "filename": "laughterton-1-eh940/5e143980d4e59_Laughterton_547x410.jpg",
-            "caption": "5e143980d4e59 Laughterton 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5e14398164c78_Laughterton_a_547x410.jpg",
-            "caption": "5e14398164c78 Laughterton a 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5e143981aa686_Laughterton_b_547x410.jpg",
-            "caption": "5e143981aa686 Laughterton b 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5d225d94b29fa_LI_Laughterton_1_547x410.JPG",
-            "caption": "5d225d94b29fa LI Laughterton 1 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5d225d962e792_LI_Laughterton_2_547x410.JPG",
-            "caption": "5d225d962e792 LI Laughterton 2 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5d225d9706875_LI_Laughterton_3_547x410.JPG",
-            "caption": "5d225d9706875 LI Laughterton 3 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "laughterton-1-eh940/5d225d97d35a7_LI_Laughterton_4_547x410.JPG",
-            "caption": "5d225d97d35a7 LI Laughterton 4 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io + Photon — Laughterton village West Lindsey Lincolnshire at 53.275 -0.745",
-            "Current 53.143 -0.335 ~14km south/40km east — major error both axes"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "MAJOR CORRECTION. Current coords (53.143, -0.335) both axes wrong — ~14km too far south and ~40km too far east. Laughterton village at 53.275, -0.745.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "laughterton-1-eh940",
+  "title": "Laughterton (1) Stirling Memorial",
+  "location_name": "Laughterton (1), Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-013",
+  "crash_date": "1944-06-21",
+  "aircraft_type": "Short Stirling",
+  "serial_number": "EH940",
+  "squadron": "1661 HCU",
+  "station": "Winthorpe",
+  "crew_summary": "5 killed including pilot Flg Off. Frederick Shaw Bradbury",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.27475331864182,
+  "longitude": -0.7449671407874179,
+  "maintainer": {
+    "organisation": "Laughterton Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264797/",
+      "summary": "War Memorials Online registers the Laughterton Trentside Memorial, a stone cairn surmounted by a propeller blade and reduction gear with plaques on opposing sides. One side commemorates Stirling EH940 from 1661 HCU (pilot's first solo flight) which suffered an in-flight engine fire at 1,800 feet and crashed at Park Farm, Kettlethorpe on 21 June 1944. Five crew were killed and three injured.",
+      "key_details": [
+        "Memorial reference 264797",
+        "Stone cairn with propeller blade",
+        "Pilot's first solo flight",
+        "In-flight engine fire at 1,800 feet",
+        "Crashed at Park Farm, Kettlethorpe"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20313",
+      "summary": "IWM registers the memorial as commemorating both Shorts Stirling EH940 and Avro Lancaster LM292. The memorial plaques on opposing sides were unveiled on 16 July 1994, erected on the village green beside the A1133.",
+      "key_details": [
+        "IWM memorial reference 20313",
+        "Dual memorial covering two crashes",
+        "Unveiled 16 July 1994 on village green"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://www.tracesofwar.com/sights/136947/Memorial-RAF-Winthorpe-1661-HCU.htm",
+      "summary": "Traces of War documents the broader memorial context for 1661 Heavy Conversion Unit at RAF Winthorpe, which suffered numerous training losses with the notoriously difficult Short Stirling bomber during the conversion training programme.",
+      "key_details": [
+        "1661 HCU training context documented",
+        "Stirling bomber conversion training losses"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Laughterton Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "photos.earpiece.last",
+  "photos": [
+    {
+      "filename": "laughterton-1-eh940/5e143980d4e59_Laughterton_547x410.jpg",
+      "caption": "5e143980d4e59 Laughterton 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5e14398164c78_Laughterton_a_547x410.jpg",
+      "caption": "5e14398164c78 Laughterton a 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5e143981aa686_Laughterton_b_547x410.jpg",
+      "caption": "5e143981aa686 Laughterton b 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5d225d94b29fa_LI_Laughterton_1_547x410.JPG",
+      "caption": "5d225d94b29fa LI Laughterton 1 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5d225d962e792_LI_Laughterton_2_547x410.JPG",
+      "caption": "5d225d962e792 LI Laughterton 2 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5d225d9706875_LI_Laughterton_3_547x410.JPG",
+      "caption": "5d225d9706875 LI Laughterton 3 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "laughterton-1-eh940/5d225d97d35a7_LI_Laughterton_4_547x410.JPG",
+      "caption": "5d225d97d35a7 LI Laughterton 4 547x410",
+      "credit": "Charles J Anderson / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io + Photon — Laughterton village West Lindsey Lincolnshire at 53.275 -0.745",
+      "Current 53.143 -0.335 ~14km south/40km east — major error both axes"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "MAJOR CORRECTION. Current coords (53.143, -0.335) both axes wrong — ~14km too far south and ~40km too far east. Laughterton village at 53.275, -0.745.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1661 HCU",
+  "squadron_aliases": [
+    "1661 HCU"
+  ]
 }

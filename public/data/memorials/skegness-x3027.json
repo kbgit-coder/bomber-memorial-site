@@ -1,95 +1,100 @@
 {
-    "id": "skegness-x3027",
-    "title": "Skegness Hampden Memorial",
-    "location_name": "Skegness, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-024",
-    "crash_date": "1940-10-28",
-    "aircraft_type": "Hampden",
-    "serial_number": "X3027",
-    "squadron": "49 Sqdn.",
-    "station": "Scampton",
-    "crew_summary": "4 killed including pilot Flg Off. John Raymond Bufton",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.1427,
-    "longitude": 0.3231,
-    "maintainer": {
-        "organisation": "Skegness Town Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "49 Squadron Association",
-            "original_url": "https://www.49squadron.co.uk/memorials/memorial_skegness",
-            "summary": "49 Squadron Association memorial page for Hampden X3027. The aircraft was shot down by a night fighter (Lt Volker of 1/NJG2) at 00:30 on 28 October 1940 while returning from a Hamburg operation. The pilot managed to force-land in the sea within a mile of Skegness coast, but rescue services could not reach the crew in time.",
-            "key_details": [
-                "Shot down by Lt Volker of 1/NJG2 (night fighter)",
-                "Ditched within one mile of Skegness coast",
-                "Rescue services unable to reach crew",
-                "P/O Ballas-Anderson's body never recovered",
-                "Propeller blade recovered and displayed in Skegness Lifeboat Station"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph Britain and Ireland",
-            "original_url": "https://www.geograph.org.uk/photo/6411847",
-            "summary": "Photographic record of the memorial to the crew of Hampden X3027 near Skegness. Provides visual documentation of the memorial stone.",
-            "key_details": [
-                "Photographic documentation by Adrian S Pye"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "49 Squadron Association (personnel)",
-            "original_url": "https://www.49squadron.co.uk/personnel_index/detail/Bufton_J",
-            "summary": "Personnel record for F/O John Raymond Bufton, pilot of Hampden X3027. Provides service details within the 49 Squadron personnel index.",
-            "key_details": [
-                "Individual personnel record for pilot F/O Bufton"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Skegness Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Skegness Town Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
-    "squadron_motto": "Cave canem",
-    "what3words": "shoulders.fists.stores",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Skegness Lincolnshire PE25 at 53.143 +0.323",
-            "Current 53.142 -0.382 — latitude correct but longitude wrong sign (~57km west)"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Longitude sign error: current -0.382 places site near Bardney. Skegness coast PE25 at 53.143, +0.323 (east of meridian).",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "skegness-x3027",
+  "title": "Skegness Hampden Memorial",
+  "location_name": "Skegness, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-024",
+  "crash_date": "1940-10-28",
+  "aircraft_type": "Hampden",
+  "serial_number": "X3027",
+  "squadron": "49 Sqdn.",
+  "station": "Scampton",
+  "crew_summary": "4 killed including pilot Flg Off. John Raymond Bufton",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.1427,
+  "longitude": 0.3231,
+  "maintainer": {
+    "organisation": "Skegness Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "49 Squadron Association",
+      "original_url": "https://www.49squadron.co.uk/memorials/memorial_skegness",
+      "summary": "49 Squadron Association memorial page for Hampden X3027. The aircraft was shot down by a night fighter (Lt Volker of 1/NJG2) at 00:30 on 28 October 1940 while returning from a Hamburg operation. The pilot managed to force-land in the sea within a mile of Skegness coast, but rescue services could not reach the crew in time.",
+      "key_details": [
+        "Shot down by Lt Volker of 1/NJG2 (night fighter)",
+        "Ditched within one mile of Skegness coast",
+        "Rescue services unable to reach crew",
+        "P/O Ballas-Anderson's body never recovered",
+        "Propeller blade recovered and displayed in Skegness Lifeboat Station"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph Britain and Ireland",
+      "original_url": "https://www.geograph.org.uk/photo/6411847",
+      "summary": "Photographic record of the memorial to the crew of Hampden X3027 near Skegness. Provides visual documentation of the memorial stone.",
+      "key_details": [
+        "Photographic documentation by Adrian S Pye"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "49 Squadron Association (personnel)",
+      "original_url": "https://www.49squadron.co.uk/personnel_index/detail/Bufton_J",
+      "summary": "Personnel record for F/O John Raymond Bufton, pilot of Hampden X3027. Provides service details within the 49 Squadron personnel index.",
+      "key_details": [
+        "Individual personnel record for pilot F/O Bufton"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Skegness Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Skegness Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
+  "squadron_motto": "Cave canem",
+  "what3words": "shoulders.fists.stores",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Skegness Lincolnshire PE25 at 53.143 +0.323",
+      "Current 53.142 -0.382 — latitude correct but longitude wrong sign (~57km west)"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Longitude sign error: current -0.382 places site near Bardney. Skegness coast PE25 at 53.143, +0.323 (east of meridian).",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "49 Squadron RAF",
+  "squadron_aliases": [
+    "49 Sqdn.",
+    "49 Squadron"
+  ]
 }

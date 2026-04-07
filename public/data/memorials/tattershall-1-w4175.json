@@ -1,221 +1,226 @@
 {
-    "id": "tattershall-1-w4175",
-    "title": "Tattershall (1) Lancaster Memorial",
-    "location_name": "Tattershall (1), Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-029",
-    "crash_date": "1943-03-30",
-    "aircraft_type": "Lancaster",
-    "serial_number": "W4175",
-    "squadron": "97 Sqdn.",
-    "station": "Woodhall Spa",
-    "crew_summary": "7 killed including pilot Fg Off. D.W. Francis",
-    "memorial_type": "Bridge memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        },
-        {
-            "title": "War Memorials Online - Memorial 264833",
-            "type": "website",
-            "url": "https://www.warmemorialsonline.org.uk/memorial/264833/"
-        },
-        {
-            "title": "Aviation Safety Network - W4175",
-            "type": "website",
-            "url": "https://asn.flightsafety.org/wikibase/318434"
-        },
-        {
-            "title": "IBCC - Norton P",
-            "type": "website",
-            "url": "https://losses.internationalbcc.co.uk/loss/117425"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "Lancaster W4175 (OF-U) had survived the long and dangerous round trip to Berlin -- one of the most heavily defended targets in Germany. The crew must have felt relief as they crossed the English coast and made for their home airfield. But tragedy struck at the last moment. While circling RAF Woodhall Spa preparing to land at 04:45 on 30 March 1943, the aircraft crashed onto the Tattershall and Coningsby Gas Works, killing all seven crew instantly. The cruel irony of surviving a Berlin raid only to die within sight of home was a fate that befell more Bomber Command crews than the popular narrative acknowledges. Many losses occurred during landing, in circuit, or on approach -- exhausted crews flying damaged aircraft in poor visibility after hours of operational stress.",
-    "crew": [
-        {
-            "rank": "Fg Off",
-            "name": "D.W. Francis",
-            "role": "Pilot",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly when the Lancaster crashed onto the Tattershall and Coningsby Gas Works at 04:45 while circling to land.",
-            "burial_location": "Coningsby Cemetery",
-            "cwgc_verified": true,
-            "bio": "Pilot of Lancaster OF-U, 97 (Straits Settlements) Squadron. Had successfully completed the dangerous round trip to Berlin before the fatal crash on approach.",
-            "decorations": []
-        },
-        {
-            "rank": "Fg Off",
-            "name": "Peter Hilary Norton",
-            "role": "Navigator",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works.",
-            "burial_location": "Coningsby Cemetery",
-            "cwgc_verified": true,
-            "bio": "Navigator serving with 97 Squadron. Buried alongside his pilot at Coningsby Cemetery.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "James Alexander Peel",
-            "service_number": "1042200",
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works.",
-            "burial_location": "Knockbreda Cemetery, Northern Ireland",
-            "cwgc_verified": true,
-            "bio": "Flight engineer serving with the RAFVR. Originally from Northern Ireland.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "William Standring",
-            "role": "Wireless Operator",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works.",
-            "cwgc_verified": true,
-            "bio": "Wireless operator serving with 97 Squadron.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "Ralph Frank",
-            "role": "Air Gunner",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works.",
-            "burial_location": "Nottingham (Wilford Hill) Jewish Cemetery",
-            "cwgc_verified": true,
-            "bio": "Air gunner born 1917. Buried in the Jewish Cemetery at Wilford Hill, Nottingham.",
-            "decorations": []
-        },
-        {
-            "rank": "Fl/Sgt",
-            "name": "Frederick Richard Birtwistle",
-            "role": "Air Gunner",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works.",
-            "cwgc_verified": true,
-            "bio": "Air gunner serving with 97 Squadron.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "William Henry Whiting",
-            "role": "Bomb Aimer",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed instantly in the crash on the gas works. Previously missing from some crew lists.",
-            "cwgc_verified": true,
-            "bio": "Bomb aimer serving with 97 Squadron. The seventh crew member, sometimes omitted from partial records.",
-            "decorations": []
-        }
-    ],
-    "cause_of_loss": "Crashed while circling the airfield on return from Berlin at 04:45 hours",
-    "operation_type": "Operational",
-    "operation_target": "Returning from bombing raid on Berlin",
-    "memorial_details": "A memorial plaque to the crew is located on the nearby Butt's Bridge. It was erected by the Royal British Legion Coningsby, Tattershall and District Branch. The plaque commemorates crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron. The plaque is publicly accessible on the bridge.",
-    "latitude": 53.104,
-    "longitude": -0.191,
-    "maintainer": {
-        "organisation": "Tattershall Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "tattershall-1-w4175",
+  "title": "Tattershall (1) Lancaster Memorial",
+  "location_name": "Tattershall (1), Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-029",
+  "crash_date": "1943-03-30",
+  "aircraft_type": "Lancaster",
+  "serial_number": "W4175",
+  "squadron": "97 Sqdn.",
+  "station": "Woodhall Spa",
+  "crew_summary": "7 killed including pilot Fg Off. D.W. Francis",
+  "memorial_type": "Bridge memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     },
-    "external_narratives": [
-        {
-            "source_site": "Lincolnshire Heritage Explorer",
-            "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125799",
-            "summary": "Heritage record for the crash site of Lancaster W4175 at the Tattershall and Coningsby Gas Works. Documents the aircraft crashing while circling RAF Woodhall Spa after returning from a Berlin raid on 30 March 1943.",
-            "key_details": "Monument reference MLI125799. The heritage record notes the crash occurred on the gas works site. All seven crew killed.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/318434",
-            "summary": "Accident database entry for Avro Lancaster Mk I W4175 of 97 Squadron, recording the crash on 30 March 1943 at Tattershall while returning from operations.",
-            "key_details": "Aircraft designated OF-U. Based at RAF Woodhall Spa. Crashed on the gas works during circuit.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/264833/",
-            "summary": "Registry entry for the memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron.",
-            "key_details": "Combined memorial on Butt's Bridge commemorates crews of two separate 97 Squadron crashes at Tattershall. Erected by the Royal British Legion Coningsby, Tattershall and District Branch.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Coningsby, Tattershall & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Tattershall Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
-    "squadron_motto": "Achieve your aim",
-    "what3words": "wanderers.expropriate.spiders",
-    "photos": [
-        {
-            "filename": "tattershall-1-w4175/5d239793adb5a_LI_Tattershall_1_547x410.JPG",
-            "caption": "5d239793adb5a LI Tattershall 1 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "tattershall-1-w4175/5d2397952da76_LI_Tattershall_2_547x410.JPG",
-            "caption": "5d2397952da76 LI Tattershall 2 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "tattershall-1-w4175/5d23979679970_LI_Tattershall_3_547x410.JPG",
-            "caption": "5d23979679970 LI Tattershall 3 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "tattershall-1-w4175/68d68c91a57cb_IMG_5491_547x410.JPG",
-            "caption": "68d68c91a57cb IMG 5491 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "tattershall-1-w4175/68d68c92989be_IMG_5492_547x410.JPG",
-            "caption": "68d68c92989be IMG 5492 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "tattershall-1-w4175/68d68c93717df_IMG_5493_547x410.JPG",
-            "caption": "68d68c93717df IMG 5493 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Tattershall Lincolnshire LN4 at 53.104 -0.191",
-            "Current 53.199 -0.305 ~11km north/11km west"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.199, -0.305) ~11km north and ~11km west. Tattershall LN4 at 53.104, -0.191.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "title": "War Memorials Online - Memorial 264833",
+      "type": "website",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/264833/"
+    },
+    {
+      "title": "Aviation Safety Network - W4175",
+      "type": "website",
+      "url": "https://asn.flightsafety.org/wikibase/318434"
+    },
+    {
+      "title": "IBCC - Norton P",
+      "type": "website",
+      "url": "https://losses.internationalbcc.co.uk/loss/117425"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "Lancaster W4175 (OF-U) had survived the long and dangerous round trip to Berlin -- one of the most heavily defended targets in Germany. The crew must have felt relief as they crossed the English coast and made for their home airfield. But tragedy struck at the last moment. While circling RAF Woodhall Spa preparing to land at 04:45 on 30 March 1943, the aircraft crashed onto the Tattershall and Coningsby Gas Works, killing all seven crew instantly. The cruel irony of surviving a Berlin raid only to die within sight of home was a fate that befell more Bomber Command crews than the popular narrative acknowledges. Many losses occurred during landing, in circuit, or on approach -- exhausted crews flying damaged aircraft in poor visibility after hours of operational stress.",
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "D.W. Francis",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly when the Lancaster crashed onto the Tattershall and Coningsby Gas Works at 04:45 while circling to land.",
+      "burial_location": "Coningsby Cemetery",
+      "cwgc_verified": true,
+      "bio": "Pilot of Lancaster OF-U, 97 (Straits Settlements) Squadron. Had successfully completed the dangerous round trip to Berlin before the fatal crash on approach.",
+      "decorations": []
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Peter Hilary Norton",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works.",
+      "burial_location": "Coningsby Cemetery",
+      "cwgc_verified": true,
+      "bio": "Navigator serving with 97 Squadron. Buried alongside his pilot at Coningsby Cemetery.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Alexander Peel",
+      "service_number": "1042200",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works.",
+      "burial_location": "Knockbreda Cemetery, Northern Ireland",
+      "cwgc_verified": true,
+      "bio": "Flight engineer serving with the RAFVR. Originally from Northern Ireland.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Standring",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works.",
+      "cwgc_verified": true,
+      "bio": "Wireless operator serving with 97 Squadron.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ralph Frank",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works.",
+      "burial_location": "Nottingham (Wilford Hill) Jewish Cemetery",
+      "cwgc_verified": true,
+      "bio": "Air gunner born 1917. Buried in the Jewish Cemetery at Wilford Hill, Nottingham.",
+      "decorations": []
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "Frederick Richard Birtwistle",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works.",
+      "cwgc_verified": true,
+      "bio": "Air gunner serving with 97 Squadron.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Henry Whiting",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed instantly in the crash on the gas works. Previously missing from some crew lists.",
+      "cwgc_verified": true,
+      "bio": "Bomb aimer serving with 97 Squadron. The seventh crew member, sometimes omitted from partial records.",
+      "decorations": []
+    }
+  ],
+  "cause_of_loss": "Crashed while circling the airfield on return from Berlin at 04:45 hours",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing raid on Berlin",
+  "memorial_details": "A memorial plaque to the crew is located on the nearby Butt's Bridge. It was erected by the Royal British Legion Coningsby, Tattershall and District Branch. The plaque commemorates crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron. The plaque is publicly accessible on the bridge.",
+  "latitude": 53.104,
+  "longitude": -0.191,
+  "maintainer": {
+    "organisation": "Tattershall Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Lincolnshire Heritage Explorer",
+      "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125799",
+      "summary": "Heritage record for the crash site of Lancaster W4175 at the Tattershall and Coningsby Gas Works. Documents the aircraft crashing while circling RAF Woodhall Spa after returning from a Berlin raid on 30 March 1943.",
+      "key_details": "Monument reference MLI125799. The heritage record notes the crash occurred on the gas works site. All seven crew killed.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/318434",
+      "summary": "Accident database entry for Avro Lancaster Mk I W4175 of 97 Squadron, recording the crash on 30 March 1943 at Tattershall while returning from operations.",
+      "key_details": "Aircraft designated OF-U. Based at RAF Woodhall Spa. Crashed on the gas works during circuit.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/264833/",
+      "summary": "Registry entry for the memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron.",
+      "key_details": "Combined memorial on Butt's Bridge commemorates crews of two separate 97 Squadron crashes at Tattershall. Erected by the Royal British Legion Coningsby, Tattershall and District Branch.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Coningsby, Tattershall & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Tattershall Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
+  "squadron_motto": "Achieve your aim",
+  "what3words": "wanderers.expropriate.spiders",
+  "photos": [
+    {
+      "filename": "tattershall-1-w4175/5d239793adb5a_LI_Tattershall_1_547x410.JPG",
+      "caption": "5d239793adb5a LI Tattershall 1 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "tattershall-1-w4175/5d2397952da76_LI_Tattershall_2_547x410.JPG",
+      "caption": "5d2397952da76 LI Tattershall 2 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "tattershall-1-w4175/5d23979679970_LI_Tattershall_3_547x410.JPG",
+      "caption": "5d23979679970 LI Tattershall 3 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "tattershall-1-w4175/68d68c91a57cb_IMG_5491_547x410.JPG",
+      "caption": "68d68c91a57cb IMG 5491 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "tattershall-1-w4175/68d68c92989be_IMG_5492_547x410.JPG",
+      "caption": "68d68c92989be IMG 5492 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "tattershall-1-w4175/68d68c93717df_IMG_5493_547x410.JPG",
+      "caption": "68d68c93717df IMG 5493 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Tattershall Lincolnshire LN4 at 53.104 -0.191",
+      "Current 53.199 -0.305 ~11km north/11km west"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (53.199, -0.305) ~11km north and ~11km west. Tattershall LN4 at 53.104, -0.191.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "97 Squadron RAF",
+  "squadron_aliases": [
+    "97 Sqdn.",
+    "97 Squadron"
+  ]
 }

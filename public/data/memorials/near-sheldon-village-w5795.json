@@ -1,190 +1,194 @@
 {
-    "id": "near-sheldon-village-w5795",
-    "title": "Near Sheldon village Wellington Memorial",
-    "location_name": "Near Sheldon village, Peak District (Derbyshire / South Pennines)",
-    "county": "Peak District (Derbyshire / South Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PD-003",
-    "crash_date": "1942-07-12",
-    "aircraft_type": "Wellington",
-    "serial_number": "W5795",
-    "squadron": "Bomber Command (test flight)",
-    "crew_summary": "4 servicemen + 1 civilian test observer killed",
-    "memorial_type": "Village memorial (Lancaster Bomber flypast conducted at 80th anniversary 2022)",
-    "dedication_date": "Modern",
-    "sources": [
-        {
-            "title": "Derbyshire Times; rolandmillward.com",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "This was no ordinary training accident. Wellington Mk.VI W5795 was a specialised high-altitude variant with a pressurised cabin, being tested from the Aeroplane and Armament Experimental Establishment at Boscombe Down, Wiltshire. The crew was flying at 35,000 feet — an extraordinary altitude for a Wellington — testing whether it was possible to fly above the ceiling of German fighters. During the flight, a propeller sheared off and tore through the pressurised cabin, causing catastrophic decompression and structural failure. The aircraft crashed into farmland in Stanley parish near Ilkeston. All five aboard were killed, including civilian test observer Clifford Abbott, aged 23. The presence of a DFM holder (Flight Sergeant Arthur Smith) and a Squadron Leader among the dead speaks to the calibre of men involved in this classified test programme. The Wellington VI was one of the rarest marks produced, with only around 64 built, designed specifically for high-altitude operations.",
-    "crew": [
-        {
-            "rank": "S/Ldr",
-            "name": "Cyril L.F. Colmore",
-            "service_number": "37651 RAF",
-            "age": 29,
-            "role": "Pilot",
-            "nationality": "British",
-            "burial_location": "—",
-            "fate": "Killed",
-            "cwgc_verified": true,
-            "fate_detail": "Killed when the pressurised cabin was breached at 32,500 feet after a propeller blade sheared off, causing catastrophic decompression.",
-            "bio": "Squadron Leader and pilot, aged 29. Led the classified high-altitude pressurisation test programme from A&AEE Boscombe Down.",
-            "decorations": []
-        },
-        {
-            "rank": "P/O",
-            "name": "Kenneth Radford",
-            "service_number": "123492 RAFVR",
-            "age": 27,
-            "role": "Pilot",
-            "nationality": "British",
-            "burial_location": "—",
-            "fate": "Killed",
-            "cwgc_verified": true,
-            "fate_detail": "Killed in the catastrophic decompression and subsequent crash.",
-            "bio": "Pilot Officer serving with the RAFVR as second pilot, aged 27.",
-            "decorations": []
-        },
-        {
-            "rank": "Fl/Sgt",
-            "name": "Ronald P. Gillott",
-            "service_number": "650284 RAF",
-            "age": 22,
-            "role": "Crew",
-            "nationality": "British",
-            "burial_location": "—",
-            "fate": "Killed",
-            "cwgc_verified": true,
-            "fate_detail": "Killed in the crash. The aircraft disintegrated, with wreckage spread between Dale Abbey and Ockbrook.",
-            "bio": "Flight Sergeant serving with the RAF, aged 22.",
-            "decorations": []
-        },
-        {
-            "rank": "Fl/Sgt",
-            "name": "Arthur J. Smith DFM",
-            "service_number": "755349 RAF",
-            "age": 23,
-            "role": "Crew",
-            "nationality": "British",
-            "burial_location": "—",
-            "fate": "Killed",
-            "cwgc_verified": true,
-            "fate_detail": "Killed in the crash. His Distinguished Flying Medal indicates previous operational experience.",
-            "bio": "Flight Sergeant serving with the RAF, aged 23. Holder of the Distinguished Flying Medal, indicating exceptional operational service before his posting to the test programme.",
-            "decorations": [
-                "DFM"
-            ]
-        },
-        {
-            "rank": "Mr",
-            "name": "Clifford V. Abbott",
-            "service_number": "— (civilian)",
-            "age": 23,
-            "role": "Civilian Test Observer",
-            "nationality": "British",
-            "burial_location": "—",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. A civilian technical observer monitoring the pressurisation test.",
-            "bio": "Civilian test observer aged 23, attached to the experimental programme at Boscombe Down. One of the rare civilian casualties among these memorial records.",
-            "decorations": []
-        }
-    ],
-    "cause_of_loss": "Propeller sheared off at 35,000ft, tore through pressurised cabin",
-    "operation_type": "Training",
-    "memorial_details": "A polished grey granite tablet featuring the Royal Air Force badge was unveiled on 11 July 2004 in St Andrew's Churchyard, Stanley. The War Memorials Trust contributed towards the memorial costs. The inscription reads: \"In Memory of The Crew of Wellington Mk VI W5795 Who Tragically Lost Their Lives On 12th July 1942 In A Crash In the Quarry Farm Area Of This Parish.\" Publicly accessible in the churchyard.",
-    "latitude": 53.17301352158918,
-    "longitude": -1.824359179371043,
-    "maintainer": {
-        "organisation": "Sheldon Parish Meeting",
-        "maintainer_type": "parish-council",
-        "notes": "Village memorial; Lancaster Bomber flypast conducted at 80th anniversary 2022."
-    },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/70206",
-            "summary": "WMO entry for the crew of Wellington Mk VI W5795 memorial in St Andrew's Churchyard, Stanley. Documents the polished grey granite tablet and the RAF badge design.",
-            "key_details": [
-                "WMO memorial reference 70206",
-                "Memorial in St Andrew's Churchyard, Stanley"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Trust",
-            "original_url": "https://www.warmemorials.org/search-grants/?gID=151",
-            "summary": "War Memorials Trust grant record showing their financial contribution towards the Stanley Wellington Bomber W5795 memorial, unveiled 11 July 2004.",
-            "key_details": [
-                "War Memorials Trust grant contributed to costs",
-                "Unveiled 11 July 2004"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Midlands Air Crash Research",
-            "original_url": "http://macr.moonfruit.com/wellington-w5795/4530120426",
-            "summary": "MACR technical account of the Wellington W5795 crash. The aircraft was an experimental high-altitude variant with pressurised cabin being tested from A&AEE Boscombe Down. At 32,500 feet a propeller blade section sheared off, penetrating the cabin and causing decompression. Debris fell between Dale Abbey and Ockbrook.",
-            "key_details": [
-                "Cruising altitude was 32,500 ft at time of failure",
-                "Wreckage spread between Dale Abbey and Ockbrook",
-                "A&AEE Boscombe Down test programme",
-                "Only approximately 64 Wellington Mk VI built"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://aviation-safety.net/wikibase/167908",
-            "summary": "Aviation Safety Network accident record for Wellington Mk IV W5795 on 12 July 1942, confirming the loss during a pressurisation test flight from Boscombe Down.",
-            "key_details": [
-                "ASN wikibase reference 167908",
-                "Classified as Mk IV in some records"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Bakewell & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        },
-        {
-            "org_name": "Sheldon Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "smarting.connects.dices",
-    "photos": [
-        {
-            "filename": "near-sheldon-village-w5795/5af6a04593912_DSC00361_547x410.JPG",
-            "caption": "5af6a04593912 DSC00361 547x410",
-            "credit": "Mike Coyle / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Sheldon village Derbyshire at 53.216 -1.740 — current coords 5.5km SW",
-            "Offset consistent with 'near Sheldon' description — crash site not village centre"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "NO CHANGE. Current coords (53.173, -1.824) are ~5.5km southwest of Sheldon village. Offset consistent with 'near Sheldon' description — may represent actual crash/memorial location on moorland.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "near-sheldon-village-w5795",
+  "title": "Near Sheldon village Wellington Memorial",
+  "location_name": "Near Sheldon village, Peak District (Derbyshire / South Pennines)",
+  "county": "Peak District (Derbyshire / South Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PD-003",
+  "crash_date": "1942-07-12",
+  "aircraft_type": "Wellington",
+  "serial_number": "W5795",
+  "squadron": "Bomber Command (test flight)",
+  "crew_summary": "4 servicemen + 1 civilian test observer killed",
+  "memorial_type": "Village memorial (Lancaster Bomber flypast conducted at 80th anniversary 2022)",
+  "dedication_date": "Modern",
+  "sources": [
+    {
+      "title": "Derbyshire Times; rolandmillward.com",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Complete",
+  "narrative": "This was no ordinary training accident. Wellington Mk.VI W5795 was a specialised high-altitude variant with a pressurised cabin, being tested from the Aeroplane and Armament Experimental Establishment at Boscombe Down, Wiltshire. The crew was flying at 35,000 feet — an extraordinary altitude for a Wellington — testing whether it was possible to fly above the ceiling of German fighters. During the flight, a propeller sheared off and tore through the pressurised cabin, causing catastrophic decompression and structural failure. The aircraft crashed into farmland in Stanley parish near Ilkeston. All five aboard were killed, including civilian test observer Clifford Abbott, aged 23. The presence of a DFM holder (Flight Sergeant Arthur Smith) and a Squadron Leader among the dead speaks to the calibre of men involved in this classified test programme. The Wellington VI was one of the rarest marks produced, with only around 64 built, designed specifically for high-altitude operations.",
+  "crew": [
+    {
+      "rank": "S/Ldr",
+      "name": "Cyril L.F. Colmore",
+      "service_number": "37651 RAF",
+      "age": 29,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "—",
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed when the pressurised cabin was breached at 32,500 feet after a propeller blade sheared off, causing catastrophic decompression.",
+      "bio": "Squadron Leader and pilot, aged 29. Led the classified high-altitude pressurisation test programme from A&AEE Boscombe Down.",
+      "decorations": []
+    },
+    {
+      "rank": "P/O",
+      "name": "Kenneth Radford",
+      "service_number": "123492 RAFVR",
+      "age": 27,
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "—",
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed in the catastrophic decompression and subsequent crash.",
+      "bio": "Pilot Officer serving with the RAFVR as second pilot, aged 27.",
+      "decorations": []
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "Ronald P. Gillott",
+      "service_number": "650284 RAF",
+      "age": 22,
+      "role": "Crew",
+      "nationality": "British",
+      "burial_location": "—",
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed in the crash. The aircraft disintegrated, with wreckage spread between Dale Abbey and Ockbrook.",
+      "bio": "Flight Sergeant serving with the RAF, aged 22.",
+      "decorations": []
+    },
+    {
+      "rank": "Fl/Sgt",
+      "name": "Arthur J. Smith DFM",
+      "service_number": "755349 RAF",
+      "age": 23,
+      "role": "Crew",
+      "nationality": "British",
+      "burial_location": "—",
+      "fate": "Killed",
+      "cwgc_verified": true,
+      "fate_detail": "Killed in the crash. His Distinguished Flying Medal indicates previous operational experience.",
+      "bio": "Flight Sergeant serving with the RAF, aged 23. Holder of the Distinguished Flying Medal, indicating exceptional operational service before his posting to the test programme.",
+      "decorations": [
+        "DFM"
+      ]
+    },
+    {
+      "rank": "Mr",
+      "name": "Clifford V. Abbott",
+      "service_number": "— (civilian)",
+      "age": 23,
+      "role": "Civilian Test Observer",
+      "nationality": "British",
+      "burial_location": "—",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. A civilian technical observer monitoring the pressurisation test.",
+      "bio": "Civilian test observer aged 23, attached to the experimental programme at Boscombe Down. One of the rare civilian casualties among these memorial records.",
+      "decorations": []
+    }
+  ],
+  "cause_of_loss": "Propeller sheared off at 35,000ft, tore through pressurised cabin",
+  "operation_type": "Training",
+  "memorial_details": "A polished grey granite tablet featuring the Royal Air Force badge was unveiled on 11 July 2004 in St Andrew's Churchyard, Stanley. The War Memorials Trust contributed towards the memorial costs. The inscription reads: \"In Memory of The Crew of Wellington Mk VI W5795 Who Tragically Lost Their Lives On 12th July 1942 In A Crash In the Quarry Farm Area Of This Parish.\" Publicly accessible in the churchyard.",
+  "latitude": 53.17301352158918,
+  "longitude": -1.824359179371043,
+  "maintainer": {
+    "organisation": "Sheldon Parish Meeting",
+    "maintainer_type": "parish-council",
+    "notes": "Village memorial; Lancaster Bomber flypast conducted at 80th anniversary 2022."
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/70206",
+      "summary": "WMO entry for the crew of Wellington Mk VI W5795 memorial in St Andrew's Churchyard, Stanley. Documents the polished grey granite tablet and the RAF badge design.",
+      "key_details": [
+        "WMO memorial reference 70206",
+        "Memorial in St Andrew's Churchyard, Stanley"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Trust",
+      "original_url": "https://www.warmemorials.org/search-grants/?gID=151",
+      "summary": "War Memorials Trust grant record showing their financial contribution towards the Stanley Wellington Bomber W5795 memorial, unveiled 11 July 2004.",
+      "key_details": [
+        "War Memorials Trust grant contributed to costs",
+        "Unveiled 11 July 2004"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Midlands Air Crash Research",
+      "original_url": "http://macr.moonfruit.com/wellington-w5795/4530120426",
+      "summary": "MACR technical account of the Wellington W5795 crash. The aircraft was an experimental high-altitude variant with pressurised cabin being tested from A&AEE Boscombe Down. At 32,500 feet a propeller blade section sheared off, penetrating the cabin and causing decompression. Debris fell between Dale Abbey and Ockbrook.",
+      "key_details": [
+        "Cruising altitude was 32,500 ft at time of failure",
+        "Wreckage spread between Dale Abbey and Ockbrook",
+        "A&AEE Boscombe Down test programme",
+        "Only approximately 64 Wellington Mk VI built"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/167908",
+      "summary": "Aviation Safety Network accident record for Wellington Mk IV W5795 on 12 July 1942, confirming the loss during a pressurisation test flight from Boscombe Down.",
+      "key_details": [
+        "ASN wikibase reference 167908",
+        "Classified as Mk IV in some records"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Bakewell & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    },
+    {
+      "org_name": "Sheldon Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "smarting.connects.dices",
+  "photos": [
+    {
+      "filename": "near-sheldon-village-w5795/5af6a04593912_DSC00361_547x410.JPG",
+      "caption": "5af6a04593912 DSC00361 547x410",
+      "credit": "Mike Coyle / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Sheldon village Derbyshire at 53.216 -1.740 — current coords 5.5km SW",
+      "Offset consistent with 'near Sheldon' description — crash site not village centre"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "NO CHANGE. Current coords (53.173, -1.824) are ~5.5km southwest of Sheldon village. Offset consistent with 'near Sheldon' description — may represent actual crash/memorial location on moorland.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "Bomber Command (test flight)",
+  "squadron_aliases": [
+    "Bomber Command (test flight)"
+  ]
 }

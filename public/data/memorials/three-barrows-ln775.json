@@ -1,70 +1,74 @@
 {
-    "id": "three-barrows-ln775",
-    "title": "Three Barrows Mk.X Memorial",
-    "location_name": "Three Barrows, Dartmoor, Devon (Dartmoor)",
-    "county": "Devon (Dartmoor)",
-    "country": "United Kingdom",
-    "region_code": "SW-002",
-    "crash_date": "1944-03-01",
-    "aircraft_type": "Wellington Mk.X",
-    "serial_number": "LN775",
-    "squadron": "Bomber Command",
-    "crew_summary": "4 killed",
-    "memorial_type": "Crash site marker",
-    "sources": [
-        {
-            "title": "Legendary Dartmoor",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 50.4476371,
-    "longitude": -3.8983431,
-    "maintainer": {
-        "organisation": "Dartmoor National Park Authority",
-        "website": "https://www.dartmoor.gov.uk",
-        "maintainer_type": "military"
-    },
-    "external_narratives": [
-        {
-            "source_site": "Legendary Dartmoor",
-            "original_url": "https://www.legendarydartmoor.co.uk/2016/03/19/three_barrows/",
-            "summary": "Detailed account of the Wellington LN775 crash at Three Barrows on Dartmoor. The aircraft departed the Overseas Aircraft Dispatch Unit at RAF Hurn, Dorset, on 1 March 1944 for transfer to Mediterranean Air Command en route to Rabat Sale, Morocco, but drifted 25 miles off its briefed route.",
-            "key_details": "Aircraft flew into the hillside in cloud on a westerly track and burned out. Four crew killed. Wreckage was not located for three days after the crash. Small pieces of melted aluminium and heat-discharged cartridge cases remain at the site.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Dartefacts",
-            "original_url": "http://dartefacts.co.uk/dartefact/three-barrows-aircrash-mk10-wellington-bomber/",
-            "summary": "Dartmoor artefacts database entry for the Wellington Mk.X crash site at Three Barrows, recording the location of the crash scar and remaining debris near the central barrow of Three Barrows.",
-            "key_details": "Crash scar visible within sight of the central barrow. Heat-discharged 0.303 cartridge cases still found at the site decades later.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Exeter Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/devon/"
-        }
-    ],
-    "what3words": "envoy.bottled.grudge",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon OSM node 330102418 — Three Barrows Bronze Age barrows Dartmoor at 50.448 -3.898",
-            "Current 50.787 -3.441 ~38km north/east — wrong area of Dartmoor"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (50.787, -3.441) ~38km north/east. Three Barrows is a Bronze Age barrow cluster on southern Dartmoor at 50.448, -3.898.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "three-barrows-ln775",
+  "title": "Three Barrows Mk.X Memorial",
+  "location_name": "Three Barrows, Dartmoor, Devon (Dartmoor)",
+  "county": "Devon (Dartmoor)",
+  "country": "United Kingdom",
+  "region_code": "SW-002",
+  "crash_date": "1944-03-01",
+  "aircraft_type": "Wellington Mk.X",
+  "serial_number": "LN775",
+  "squadron": "Bomber Command",
+  "crew_summary": "4 killed",
+  "memorial_type": "Crash site marker",
+  "sources": [
+    {
+      "title": "Legendary Dartmoor",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 50.4476371,
+  "longitude": -3.8983431,
+  "maintainer": {
+    "organisation": "Dartmoor National Park Authority",
+    "website": "https://www.dartmoor.gov.uk",
+    "maintainer_type": "military"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Legendary Dartmoor",
+      "original_url": "https://www.legendarydartmoor.co.uk/2016/03/19/three_barrows/",
+      "summary": "Detailed account of the Wellington LN775 crash at Three Barrows on Dartmoor. The aircraft departed the Overseas Aircraft Dispatch Unit at RAF Hurn, Dorset, on 1 March 1944 for transfer to Mediterranean Air Command en route to Rabat Sale, Morocco, but drifted 25 miles off its briefed route.",
+      "key_details": "Aircraft flew into the hillside in cloud on a westerly track and burned out. Four crew killed. Wreckage was not located for three days after the crash. Small pieces of melted aluminium and heat-discharged cartridge cases remain at the site.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Dartefacts",
+      "original_url": "http://dartefacts.co.uk/dartefact/three-barrows-aircrash-mk10-wellington-bomber/",
+      "summary": "Dartmoor artefacts database entry for the Wellington Mk.X crash site at Three Barrows, recording the location of the crash scar and remaining debris near the central barrow of Three Barrows.",
+      "key_details": "Crash scar visible within sight of the central barrow. Heat-discharged 0.303 cartridge cases still found at the site decades later.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Exeter Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/devon/"
+    }
+  ],
+  "what3words": "envoy.bottled.grudge",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [
+      "Photon OSM node 330102418 — Three Barrows Bronze Age barrows Dartmoor at 50.448 -3.898",
+      "Current 50.787 -3.441 ~38km north/east — wrong area of Dartmoor"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (50.787, -3.441) ~38km north/east. Three Barrows is a Bronze Age barrow cluster on southern Dartmoor at 50.448, -3.898.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "Bomber Command",
+  "squadron_aliases": [
+    "Bomber Command"
+  ]
 }

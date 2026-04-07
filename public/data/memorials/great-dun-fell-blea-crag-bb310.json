@@ -1,82 +1,86 @@
 {
-    "id": "great-dun-fell-blea-crag-bb310",
-    "title": "Great Dun Fell (Blea Crag) Halifax Memorial",
-    "location_name": "Great Dun Fell (Blea Crag), Pennines (North)",
-    "county": "Pennines (North)",
-    "country": "United Kingdom",
-    "region_code": "PN-002",
-    "crash_date": "1944-04-12",
-    "aircraft_type": "Halifax",
-    "serial_number": "BB310",
-    "squadron": "RAF Longtown",
-    "crew_summary": "All killed (8th hour of training flight)",
-    "memorial_type": "Stone cairn with plaque",
-    "sources": [
-        {
-            "title": "militaryaircraftcrashsites.blogspot.com; peakdistrictaircrashes.co.uk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 54.6841,
-    "longitude": -2.4516,
-    "maintainer": {
-        "organisation": "Dufton Parish Meeting",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "Military Aircraft Crash Sites",
-            "original_url": "https://militaryaircraftcrashsites.blogspot.com/2014/04/handley-page-halifax-bb310.html",
-            "summary": "Detailed account of Halifax BB310's crash into Blea Crag on Great Dun Fell on 12 April 1944. The aircraft was from 1674 HCU at RAF Longtown and had been airborne for eight and a half hours on a cross-country night navigation exercise when it struck the fell.",
-            "key_details": "BB310 was originally a Coastal Command aircraft with 502 Squadron. Built by LAPG as a Mk.II Series 1 between November 1942 and January 1943. Low cloud covering the north-west coast contributed to the crew overflying their base. The impact created a visible crater in the scree rocks.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-bb310-great-dun-fell/",
-            "summary": "Crash record for Halifax BB310, 1674 HCU, at Great Dun Fell, Cumbria on 12 April 1944. The crew consisted of five student pilots and four instructors, all killed when the aircraft was at insufficient height to clear the high ground.",
-            "key_details": "Unit 1674 HCU provided crews for Coastal Command. Crew included both student pilots and instructors. Aircraft exploded on impact.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "aircrashsites.co.uk",
-            "original_url": "https://aircrashsites.co.uk/uw/",
-            "summary": "Halifax BB310 crash site documentation with photographs of remaining wreckage on Great Dun Fell. The stone cairn with plaque marks the site in the remote North Pennines.",
-            "key_details": "Stone cairn with plaque at the crash site. Remote hillside location accessible on foot.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Skipton Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
-        },
-        {
-            "org_name": "Dufton Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "cashiers.sleep.vast",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon OSM — Great Dun Fell peak at 54.6841 -2.4516 (North Pennines Milburn)",
-            "Current 52.173 -1.299 in Northamptonshire ~280km south — critical error"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CRITICAL ERROR. Previous coords (52.173, -1.299) in Northamptonshire near Daventry — ~280km south of actual fell. Great Dun Fell is highest point in North Pennines confirmed by OSM at 54.6841 -2.4516. Confidence confirmed.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "great-dun-fell-blea-crag-bb310",
+  "title": "Great Dun Fell (Blea Crag) Halifax Memorial",
+  "location_name": "Great Dun Fell (Blea Crag), Pennines (North)",
+  "county": "Pennines (North)",
+  "country": "United Kingdom",
+  "region_code": "PN-002",
+  "crash_date": "1944-04-12",
+  "aircraft_type": "Halifax",
+  "serial_number": "BB310",
+  "squadron": "RAF Longtown",
+  "crew_summary": "All killed (8th hour of training flight)",
+  "memorial_type": "Stone cairn with plaque",
+  "sources": [
+    {
+      "title": "militaryaircraftcrashsites.blogspot.com; peakdistrictaircrashes.co.uk",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 54.6841,
+  "longitude": -2.4516,
+  "maintainer": {
+    "organisation": "Dufton Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Military Aircraft Crash Sites",
+      "original_url": "https://militaryaircraftcrashsites.blogspot.com/2014/04/handley-page-halifax-bb310.html",
+      "summary": "Detailed account of Halifax BB310's crash into Blea Crag on Great Dun Fell on 12 April 1944. The aircraft was from 1674 HCU at RAF Longtown and had been airborne for eight and a half hours on a cross-country night navigation exercise when it struck the fell.",
+      "key_details": "BB310 was originally a Coastal Command aircraft with 502 Squadron. Built by LAPG as a Mk.II Series 1 between November 1942 and January 1943. Low cloud covering the north-west coast contributed to the crew overflying their base. The impact created a visible crater in the scree rocks.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/pennines/handley-page-halifax-bb310-great-dun-fell/",
+      "summary": "Crash record for Halifax BB310, 1674 HCU, at Great Dun Fell, Cumbria on 12 April 1944. The crew consisted of five student pilots and four instructors, all killed when the aircraft was at insufficient height to clear the high ground.",
+      "key_details": "Unit 1674 HCU provided crews for Coastal Command. Crew included both student pilots and instructors. Aircraft exploded on impact.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "aircrashsites.co.uk",
+      "original_url": "https://aircrashsites.co.uk/uw/",
+      "summary": "Halifax BB310 crash site documentation with photographs of remaining wreckage on Great Dun Fell. The stone cairn with plaque marks the site in the remote North Pennines.",
+      "key_details": "Stone cairn with plaque at the crash site. Remote hillside location accessible on foot.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Skipton Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Dufton Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "cashiers.sleep.vast",
+  "location_confidence": {
+    "status": "confirmed",
+    "score": 2,
+    "sources": [
+      "Photon OSM — Great Dun Fell peak at 54.6841 -2.4516 (North Pennines Milburn)",
+      "Current 52.173 -1.299 in Northamptonshire ~280km south — critical error"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CRITICAL ERROR. Previous coords (52.173, -1.299) in Northamptonshire near Daventry — ~280km south of actual fell. Great Dun Fell is highest point in North Pennines confirmed by OSM at 54.6841 -2.4516. Confidence confirmed.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF Longtown",
+  "squadron_aliases": [
+    "RAF Longtown"
+  ]
 }

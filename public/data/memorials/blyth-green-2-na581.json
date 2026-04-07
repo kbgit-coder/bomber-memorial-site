@@ -1,93 +1,98 @@
 {
-    "id": "blyth-green-2-na581",
-    "title": "Blyth Green (2) Halifax Memorial",
-    "location_name": "Blyth Green (2), Nottinghamshire",
-    "county": "Nottinghamshire",
-    "country": "United Kingdom",
-    "region_code": "NT-009",
-    "crash_date": "1944-08-02",
-    "aircraft_type": "Halifax",
-    "serial_number": "NA581",
-    "squadron": "425 Squadron",
-    "station": "Tolthorpe",
-    "crew_summary": "8 killed including Flt Lt. George Douglas Stark",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.1902622,
-    "longitude": -0.9140349,
-    "maintainer": {
-        "organisation": "Blyth Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "425 Alouette Squadron Blog",
-            "original_url": "https://425alouette.wordpress.com/category/425-alouette/",
-            "summary": "RCAF 425 (Alouette) Squadron records document Halifax NA581 as lost on 2 August 1944 during a daytime test flight from RAF Tolthorpe, when it suffered engine problems and crashed near Blyth village.",
-            "key_details": [
-                "Daytime test flight",
-                "Engine problems caused crash",
-                "425 (Alouette) Squadron RCAF"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Archaeology (Midlands Crashes)",
-            "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
-            "summary": "Aviation Archaeology lists Halifax NA581 in its 1944 military crash records, confirming the crash near Blyth on 2 August 1944 with crew casualties including Canadian airmen P/O Pigeon and P/O Pitkin.",
-            "key_details": [
-                "P/O John Jerome Pigeon from Stratford, Ontario killed",
-                "P/O Edmund Francis Pitkin from Toronto killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
-            "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
-            "summary": "The Nottinghamshire Aviation Memorials guide includes the Blyth village green memorial, erected 14 September 1997, which commemorates crews of both Wellington HE818 and Halifax NA581.",
-            "key_details": [
-                "Memorial erected 14 September 1997",
-                "Shared memorial covers both HE818 and NA581 crews"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Worksop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-        },
-        {
-            "org_name": "Blyth Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "drop.presides.cheaply",
-    "location_confidence": {
-        "status": "estimated",
-        "score": 0,
-        "sources": [
-            "OSM node 3213929783 Wellington bomber crash memorial (53.1902622 -0.9140349)",
-            "UNCERTAIN. Previous coords (53.172176 -0.909788) in Laxton/Moorhouse area. OSM has Wellington crash memorial 2km north at 53.190 -0.914 but labelled as Wellington not Halifax. Possible coordinates swap with blyth-green-1-he818 — see that entry. Corrected to nearest OSM memorial node as best estimate but confidence is low. Physical verification required."
-        ],
-        "verified_by": "Holly (PAI research agent)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "blyth-green-2-na581",
+  "title": "Blyth Green (2) Halifax Memorial",
+  "location_name": "Blyth Green (2), Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-009",
+  "crash_date": "1944-08-02",
+  "aircraft_type": "Halifax",
+  "serial_number": "NA581",
+  "squadron": "425 Squadron",
+  "station": "Tolthorpe",
+  "crew_summary": "8 killed including Flt Lt. George Douglas Stark",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.1902622,
+  "longitude": -0.9140349,
+  "maintainer": {
+    "organisation": "Blyth Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "425 Alouette Squadron Blog",
+      "original_url": "https://425alouette.wordpress.com/category/425-alouette/",
+      "summary": "RCAF 425 (Alouette) Squadron records document Halifax NA581 as lost on 2 August 1944 during a daytime test flight from RAF Tolthorpe, when it suffered engine problems and crashed near Blyth village.",
+      "key_details": [
+        "Daytime test flight",
+        "Engine problems caused crash",
+        "425 (Alouette) Squadron RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Archaeology (Midlands Crashes)",
+      "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
+      "summary": "Aviation Archaeology lists Halifax NA581 in its 1944 military crash records, confirming the crash near Blyth on 2 August 1944 with crew casualties including Canadian airmen P/O Pigeon and P/O Pitkin.",
+      "key_details": [
+        "P/O John Jerome Pigeon from Stratford, Ontario killed",
+        "P/O Edmund Francis Pitkin from Toronto killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
+      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+      "summary": "The Nottinghamshire Aviation Memorials guide includes the Blyth village green memorial, erected 14 September 1997, which commemorates crews of both Wellington HE818 and Halifax NA581.",
+      "key_details": [
+        "Memorial erected 14 September 1997",
+        "Shared memorial covers both HE818 and NA581 crews"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Worksop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Blyth Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "drop.presides.cheaply",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [
+      "OSM node 3213929783 Wellington bomber crash memorial (53.1902622 -0.9140349)",
+      "UNCERTAIN. Previous coords (53.172176 -0.909788) in Laxton/Moorhouse area. OSM has Wellington crash memorial 2km north at 53.190 -0.914 but labelled as Wellington not Halifax. Possible coordinates swap with blyth-green-1-he818 — see that entry. Corrected to nearest OSM memorial node as best estimate but confidence is low. Physical verification required."
+    ],
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "425 Squadron RCAF",
+  "squadron_aliases": [
+    "425 Squadron",
+    "425 Sqdn."
+  ]
 }

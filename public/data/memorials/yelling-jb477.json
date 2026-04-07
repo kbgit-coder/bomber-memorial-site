@@ -1,186 +1,191 @@
 {
-    "id": "yelling-jb477",
-    "title": "Yelling Lancaster Memorial",
-    "location_name": "Yelling, Cambridgeshire",
-    "county": "Cambridgeshire",
-    "country": "United Kingdom",
-    "region_code": "CB-010",
-    "os_grid_reference": "TL2563",
-    "crash_date": "1943-12-17",
-    "aircraft_type": "Lancaster",
-    "serial_number": "JB477",
-    "squadron": "405 Squadron",
-    "station": "Gransden Lodge",
-    "crew_summary": "6 killed; 1 rear gunner survived; pilot Flg Off. B.A. McLennan",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Cambridgeshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.2488,
-    "longitude": -0.1589,
-    "maintainer": {
-        "organisation": "Yelling Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "cause_of_loss": "Ran out of fuel returning from Berlin due to bad weather and strong headwinds",
-    "operation_type": "Operational",
-    "operation_target": "Bombing mission to Berlin (Black Thursday)",
-    "crew": [
-        {
-            "rank": "F/O",
-            "name": "B.A. McLennan",
-            "role": "Pilot",
-            "nationality": "Canadian (RCAF)",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "G.R. Schneider",
-            "role": "Crew",
-            "nationality": "Canadian (RCAF)",
-            "fate": "Killed"
-        },
-        {
-            "rank": "F/O",
-            "name": "W.F. Sheppard",
-            "role": "Crew",
-            "nationality": "Canadian (RCAF)",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "M.F.V. Roobroek",
-            "role": "Crew",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "L.H. Cornwell",
-            "role": "Crew",
-            "fate": "Killed"
-        },
-        {
-            "rank": "Sgt",
-            "name": "E. Halliwell",
-            "role": "Crew",
-            "fate": "Killed"
-        },
-        {
-            "rank": "W/O",
-            "name": "S.C.H. Nutting DFM",
-            "role": "Rear Gunner",
-            "fate": "Survived"
-        }
-    ],
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/8410",
-            "summary": "IWM War Memorials Register entry for the Lancaster JB477 memorial at Yelling. Commemorates the crew of 405 Squadron RCAF Lancaster that crashed on 17 December 1943 returning from a Berlin bombing raid after running out of fuel.",
-            "key_details": [
-                "IWM reference number 8410",
-                "405 Squadron Royal Canadian Air Force memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/165215/",
-            "summary": "War Memorials Online entry for the crash site of Lancaster Bomber JB477 at Yelling, Cambridgeshire. Records the memorial stone erected at the crash site near OS Grid Reference TL 260 620.",
-            "key_details": [
-                "Memorial stone at crash site",
-                "OS Grid Reference TL 260 620"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Pathfinders Archive",
-            "original_url": "https://raf-pathfinders.com/black-thursday-405-squadron/405-squadron-the-mclennan-crew-and-black-thursday/",
-            "summary": "Detailed account of the McLennan crew and 'Black Thursday' on 17 December 1943. Lancaster JB477 LQ-O of 405 (Vancouver) Squadron, part of the Pathfinder Force, ran out of fuel returning from Berlin in bad weather. The rear gunner W/O Nutting DFM survived on what was his 45th operation.",
-            "key_details": [
-                "Part of 'Black Thursday' — multiple 405 Squadron losses on same night",
-                "Two other 405 Sqn Lancasters (JB481 LQ-R and JB369 LQ-D) also crashed with fatalities",
-                "W/O Nutting was on his 45th raid when he survived",
-                "405 Squadron was part of the Pathfinder Force",
-                "Aircraft designation was LQ-O"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Fred Vogels WW2 Database",
-            "original_url": "https://ww2.fredvogels.com/the-history/air-force-operations/airplanes-allies-and-axis-lost/lancaster/19676-JB4771943-12-17.html",
-            "summary": "WW2 aviation database entry recording the loss of Avro Lancaster III JB477 LQ-O on 17 December 1943 during a mission to Berlin. Provides technical and operational details of the loss.",
-            "key_details": [
-                "Confirms aircraft as Lancaster III",
-                "Mission target was Berlin",
-                "Lost due to fuel exhaustion in adverse weather"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Trails",
-            "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-31-southern-cambridgeshire-part-2/",
-            "summary": "Aviation Trails Southern Cambridgeshire trail includes the JB477 crash site at Yelling as part of a wider tour of WW2 aviation heritage in the region, providing visitor access information and historical context about RAF Gransden Lodge operations.",
-            "key_details": [
-                "Part of Southern Cambridgeshire aviation heritage trail",
-                "Provides visitor access guidance"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "St Neots Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-        },
-        {
-            "org_name": "Yelling Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "jingles.steadier.factoring",
-    "photos": [
-        {
-            "filename": "yelling-jb477/DSCN1125_0_547x410.JPG",
-            "caption": "DSCN1125 0 547x410",
-            "credit": "Susan Crosland / War Memorials Online"
-        },
-        {
-            "filename": "yelling-jb477/DSCN1126_0_547x410.JPG",
-            "caption": "DSCN1126 0 547x410",
-            "credit": "Susan Crosland / War Memorials Online"
-        },
-        {
-            "filename": "yelling-jb477/DSCN1126_547x410.JPG",
-            "caption": "DSCN1126 547x410",
-            "credit": "Susan Crosland / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Yelling Cambridgeshire PE19 near St Neots at 52.249 -0.159",
-            "Current 52.225 0.241 ~25km east of actual village"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (52.225, 0.241) ~25km east. Yelling PE19 near St Neots at 52.249, -0.159.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "yelling-jb477",
+  "title": "Yelling Lancaster Memorial",
+  "location_name": "Yelling, Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-010",
+  "os_grid_reference": "TL2563",
+  "crash_date": "1943-12-17",
+  "aircraft_type": "Lancaster",
+  "serial_number": "JB477",
+  "squadron": "405 Squadron",
+  "station": "Gransden Lodge",
+  "crew_summary": "6 killed; 1 rear gunner survived; pilot Flg Off. B.A. McLennan",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.2488,
+  "longitude": -0.1589,
+  "maintainer": {
+    "organisation": "Yelling Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "cause_of_loss": "Ran out of fuel returning from Berlin due to bad weather and strong headwinds",
+  "operation_type": "Operational",
+  "operation_target": "Bombing mission to Berlin (Black Thursday)",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "B.A. McLennan",
+      "role": "Pilot",
+      "nationality": "Canadian (RCAF)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "G.R. Schneider",
+      "role": "Crew",
+      "nationality": "Canadian (RCAF)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "W.F. Sheppard",
+      "role": "Crew",
+      "nationality": "Canadian (RCAF)",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "M.F.V. Roobroek",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "L.H. Cornwell",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "E. Halliwell",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "W/O",
+      "name": "S.C.H. Nutting DFM",
+      "role": "Rear Gunner",
+      "fate": "Survived"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/8410",
+      "summary": "IWM War Memorials Register entry for the Lancaster JB477 memorial at Yelling. Commemorates the crew of 405 Squadron RCAF Lancaster that crashed on 17 December 1943 returning from a Berlin bombing raid after running out of fuel.",
+      "key_details": [
+        "IWM reference number 8410",
+        "405 Squadron Royal Canadian Air Force memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/165215/",
+      "summary": "War Memorials Online entry for the crash site of Lancaster Bomber JB477 at Yelling, Cambridgeshire. Records the memorial stone erected at the crash site near OS Grid Reference TL 260 620.",
+      "key_details": [
+        "Memorial stone at crash site",
+        "OS Grid Reference TL 260 620"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF Pathfinders Archive",
+      "original_url": "https://raf-pathfinders.com/black-thursday-405-squadron/405-squadron-the-mclennan-crew-and-black-thursday/",
+      "summary": "Detailed account of the McLennan crew and 'Black Thursday' on 17 December 1943. Lancaster JB477 LQ-O of 405 (Vancouver) Squadron, part of the Pathfinder Force, ran out of fuel returning from Berlin in bad weather. The rear gunner W/O Nutting DFM survived on what was his 45th operation.",
+      "key_details": [
+        "Part of 'Black Thursday' — multiple 405 Squadron losses on same night",
+        "Two other 405 Sqn Lancasters (JB481 LQ-R and JB369 LQ-D) also crashed with fatalities",
+        "W/O Nutting was on his 45th raid when he survived",
+        "405 Squadron was part of the Pathfinder Force",
+        "Aircraft designation was LQ-O"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Fred Vogels WW2 Database",
+      "original_url": "https://ww2.fredvogels.com/the-history/air-force-operations/airplanes-allies-and-axis-lost/lancaster/19676-JB4771943-12-17.html",
+      "summary": "WW2 aviation database entry recording the loss of Avro Lancaster III JB477 LQ-O on 17 December 1943 during a mission to Berlin. Provides technical and operational details of the loss.",
+      "key_details": [
+        "Confirms aircraft as Lancaster III",
+        "Mission target was Berlin",
+        "Lost due to fuel exhaustion in adverse weather"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-31-southern-cambridgeshire-part-2/",
+      "summary": "Aviation Trails Southern Cambridgeshire trail includes the JB477 crash site at Yelling as part of a wider tour of WW2 aviation heritage in the region, providing visitor access information and historical context about RAF Gransden Lodge operations.",
+      "key_details": [
+        "Part of Southern Cambridgeshire aviation heritage trail",
+        "Provides visitor access guidance"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "St Neots Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Yelling Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "jingles.steadier.factoring",
+  "photos": [
+    {
+      "filename": "yelling-jb477/DSCN1125_0_547x410.JPG",
+      "caption": "DSCN1125 0 547x410",
+      "credit": "Susan Crosland / War Memorials Online"
+    },
+    {
+      "filename": "yelling-jb477/DSCN1126_0_547x410.JPG",
+      "caption": "DSCN1126 0 547x410",
+      "credit": "Susan Crosland / War Memorials Online"
+    },
+    {
+      "filename": "yelling-jb477/DSCN1126_547x410.JPG",
+      "caption": "DSCN1126 547x410",
+      "credit": "Susan Crosland / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Yelling Cambridgeshire PE19 near St Neots at 52.249 -0.159",
+      "Current 52.225 0.241 ~25km east of actual village"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (52.225, 0.241) ~25km east. Yelling PE19 near St Neots at 52.249, -0.159.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "405 Squadron RCAF",
+  "squadron_aliases": [
+    "405 Squadron",
+    "405 Sqdn."
+  ]
 }

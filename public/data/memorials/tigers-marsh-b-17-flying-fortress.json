@@ -1,76 +1,80 @@
 {
-    "id": "tigers-marsh-b-17-flying-fortress",
-    "title": "Tigers Marsh Fortress Memorial",
-    "location_name": "Tigers Marsh, Dartmoor, Devon (Dartmoor)",
-    "county": "Devon (Dartmoor)",
-    "country": "United Kingdom",
-    "region_code": "SW-004",
-    "crash_date": "1943-12-25",
-    "aircraft_type": "B-17 Flying Fortress",
-    "squadron": "USAAF (meteorological reconnaissance)",
-    "crew_summary": "5 killed",
-    "memorial_type": "Crash site marker",
-    "sources": [
-        {
-            "title": "Legendary Dartmoor",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 50.732362318217824,
-    "longitude": -3.5545530965271244,
-    "maintainer": {
-        "organisation": "Dartmoor National Park Authority",
-        "website": "https://www.dartmoor.gov.uk",
-        "maintainer_type": "military"
-    },
-    "external_narratives": [
-        {
-            "source_site": "Dartefacts",
-            "original_url": "https://dartefacts.co.uk/dartefact/tigers-marsh-aircrash-b17-flying-fortress/",
-            "summary": "Dartmoor artefacts database entry for the B-17 Flying Fortress crash at Tiger's Marsh on Christmas Day 1943. The aircraft (serial 42-37869) had landed at RAF St Eval in Cornwall after a meteorological reconnaissance sortie and was departing for its base at Cheddington, Hertfordshire.",
-            "key_details": "Serial 42-37869. Pilot attempted to maintain visual contact with the ground on a north-easterly track but entered cloud hanging over the valley. The aircraft struck the hillside, bounced up the slope, and caught fire. The impact area is permanently blackened — the grass has never grown back.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/97818",
-            "summary": "Accident database entry for Boeing B-17G Flying Fortress 42-37869, recording the crash on 25 December 1943 at Tiger's Marsh, Dartmoor, during a transit flight from RAF St Eval.",
-            "key_details": "Five crew killed, three survived with injuries. Survivors included crew members who were rescued from the remote moorland location. Crash occurred on Christmas Day 1943.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Something About Dartmoor",
-            "original_url": "https://somethingaboutdartmoor.com/2022/05/01/something-about-dartmoor-at-the-going-down-of-the-sun/",
-            "summary": "Narrative account of Dartmoor's WW2 crash sites including the B-17 at Tiger's Marsh. Describes the memorial stone and the lasting physical scar on the landscape where the aircraft burned.",
-            "key_details": "Crew included Ernest H Patterson, Raymond A Coates, Richard T Nearly, Sherwood R Renner, Samuel L Craig, Mario A Panitti, Albeny T Blanchard, and Basil Brown (RAF liaison). Memorial stone marks the crash site.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Exeter Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/devon/"
-        }
-    ],
-    "what3words": "scary.bonds.think",
-    "location_confidence": {
-        "status": "estimated",
-        "score": 0,
-        "sources": [
-            "No OSM result for Tigers Marsh — current coords on Dartmoor are plausible"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "NO CHANGE. Tigers Marsh location not in OSM. Current coords (50.732, -3.555) are plausible for Dartmoor. Flagged for manual verification.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "tigers-marsh-b-17-flying-fortress",
+  "title": "Tigers Marsh Fortress Memorial",
+  "location_name": "Tigers Marsh, Dartmoor, Devon (Dartmoor)",
+  "county": "Devon (Dartmoor)",
+  "country": "United Kingdom",
+  "region_code": "SW-004",
+  "crash_date": "1943-12-25",
+  "aircraft_type": "B-17 Flying Fortress",
+  "squadron": "USAAF (meteorological reconnaissance)",
+  "crew_summary": "5 killed",
+  "memorial_type": "Crash site marker",
+  "sources": [
+    {
+      "title": "Legendary Dartmoor",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 50.732362318217824,
+  "longitude": -3.5545530965271244,
+  "maintainer": {
+    "organisation": "Dartmoor National Park Authority",
+    "website": "https://www.dartmoor.gov.uk",
+    "maintainer_type": "military"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Dartefacts",
+      "original_url": "https://dartefacts.co.uk/dartefact/tigers-marsh-aircrash-b17-flying-fortress/",
+      "summary": "Dartmoor artefacts database entry for the B-17 Flying Fortress crash at Tiger's Marsh on Christmas Day 1943. The aircraft (serial 42-37869) had landed at RAF St Eval in Cornwall after a meteorological reconnaissance sortie and was departing for its base at Cheddington, Hertfordshire.",
+      "key_details": "Serial 42-37869. Pilot attempted to maintain visual contact with the ground on a north-easterly track but entered cloud hanging over the valley. The aircraft struck the hillside, bounced up the slope, and caught fire. The impact area is permanently blackened — the grass has never grown back.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/97818",
+      "summary": "Accident database entry for Boeing B-17G Flying Fortress 42-37869, recording the crash on 25 December 1943 at Tiger's Marsh, Dartmoor, during a transit flight from RAF St Eval.",
+      "key_details": "Five crew killed, three survived with injuries. Survivors included crew members who were rescued from the remote moorland location. Crash occurred on Christmas Day 1943.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Something About Dartmoor",
+      "original_url": "https://somethingaboutdartmoor.com/2022/05/01/something-about-dartmoor-at-the-going-down-of-the-sun/",
+      "summary": "Narrative account of Dartmoor's WW2 crash sites including the B-17 at Tiger's Marsh. Describes the memorial stone and the lasting physical scar on the landscape where the aircraft burned.",
+      "key_details": "Crew included Ernest H Patterson, Raymond A Coates, Richard T Nearly, Sherwood R Renner, Samuel L Craig, Mario A Panitti, Albeny T Blanchard, and Basil Brown (RAF liaison). Memorial stone marks the crash site.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Exeter Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/devon/"
+    }
+  ],
+  "what3words": "scary.bonds.think",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [
+      "No OSM result for Tigers Marsh — current coords on Dartmoor are plausible"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "NO CHANGE. Tigers Marsh location not in OSM. Current coords (50.732, -3.555) are plausible for Dartmoor. Flagged for manual verification.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "USAAF (meteorological reconnaissance)",
+  "squadron_aliases": [
+    "USAAF (meteorological reconnaissance)"
+  ]
 }

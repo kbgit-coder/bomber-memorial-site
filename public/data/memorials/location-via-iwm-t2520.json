@@ -1,70 +1,72 @@
 {
-    "id": "location-via-iwm-t2520",
-    "title": "(Location via IWM) Wellington Memorial",
-    "location_name": "(Location via IWM), IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PN-006",
-    "aircraft_type": "Wellington",
-    "serial_number": "T2520",
-    "memorial_type": "Cairn with large wooden Latin cross and smaller wooden cross with metal plaque; refreshed annually on anniversary",
-    "sources": [
-        {
-            "title": "IWM (memorial/65500)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.36529463368664,
-    "longitude": -0.7010829870978885,
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65500",
-            "summary": "IWM War Memorials Register entry for Wellington T2520 crash memorial. The cairn marks the site where all six crew were killed on return from a bombing mission to Bordeaux on 9-10 December 1940.",
-            "key_details": [
-                "All six crew killed",
-                "Returning from Bordeaux bombing mission",
-                "Crashed 9-10 December 1940",
-                "Cairn with wooden cross and metal plaque"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/1842984",
-            "summary": "Photographic record of the memorial at the Wellington T2520 crash site, showing the cairn structure with crosses and commemorative plaque in its landscape setting.",
-            "key_details": [
-                "Memorial photographed and documented on Geograph",
-                "Cairn visible at crash location"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Glossop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "student.feuds.denim",
-    "location_confidence": {
-        "status": "estimated",
-        "score": 0,
-        "sources": [
-            "API check: 52.365 -0.701 is Northamptonshire (Pytchley) not Peak/Pennines",
-            "Correct Peak/Pennines coords unknown — needs IWM source verification"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "FLAG FOR MANUAL REVIEW. Current coords (52.365, -0.701) in Northamptonshire near Kettering — not Peak/Pennines. Correct location unknown. Status downgraded to estimated.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "location-via-iwm-t2520",
+  "title": "(Location via IWM) Wellington Memorial",
+  "location_name": "(Location via IWM), IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
+  "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
+  "country": "United Kingdom",
+  "region_code": "PN-006",
+  "aircraft_type": "Wellington",
+  "serial_number": "T2520",
+  "memorial_type": "Cairn with large wooden Latin cross and smaller wooden cross with metal plaque; refreshed annually on anniversary",
+  "sources": [
+    {
+      "title": "IWM (memorial/65500)",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.36529463368664,
+  "longitude": -0.7010829870978885,
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65500",
+      "summary": "IWM War Memorials Register entry for Wellington T2520 crash memorial. The cairn marks the site where all six crew were killed on return from a bombing mission to Bordeaux on 9-10 December 1940.",
+      "key_details": [
+        "All six crew killed",
+        "Returning from Bordeaux bombing mission",
+        "Crashed 9-10 December 1940",
+        "Cairn with wooden cross and metal plaque"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/1842984",
+      "summary": "Photographic record of the memorial at the Wellington T2520 crash site, showing the cairn structure with crosses and commemorative plaque in its landscape setting.",
+      "key_details": [
+        "Memorial photographed and documented on Geograph",
+        "Cairn visible at crash location"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Glossop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "student.feuds.denim",
+  "location_confidence": {
+    "status": "estimated",
+    "score": 0,
+    "sources": [
+      "API check: 52.365 -0.701 is Northamptonshire (Pytchley) not Peak/Pennines",
+      "Correct Peak/Pennines coords unknown — needs IWM source verification"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "FLAG FOR MANUAL REVIEW. Current coords (52.365, -0.701) in Northamptonshire near Kettering — not Peak/Pennines. Correct location unknown. Status downgraded to estimated.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": []
 }

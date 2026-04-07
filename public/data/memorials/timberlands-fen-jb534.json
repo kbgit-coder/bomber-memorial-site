@@ -1,85 +1,90 @@
 {
-    "id": "timberlands-fen-jb534",
-    "title": "Timberlands Fen Lancaster Memorial",
-    "location_name": "Timberlands Fen, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-031",
-    "crash_date": "1944-02-15",
-    "aircraft_type": "Lancaster",
-    "serial_number": "JB534",
-    "squadron": "106 Sqdn.",
-    "station": "Metheringham",
-    "crew_summary": "6 killed; pilot Plt Off. Reginald William Dickerson",
-    "memorial_type": "Memorial plaque",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.1202777,
-    "longitude": -0.2727767,
-    "maintainer": {
-        "organisation": "Timberland Parish Council",
-        "maintainer_type": "parish-council"
-    },
-    "external_narratives": [
-        {
-            "source_site": "CWGC",
-            "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-reginald-william-dickerson-no-106-squadron-royal-air-force/",
-            "summary": "Commonwealth War Graves Commission story page for Pilot Officer Reginald William Dickerson of 106 Squadron. Details his final flight on Lancaster JB534 (ZN-K) to Berlin on 15/16 February 1944, where the aircraft crashed at Timberland Fen while avoiding another Lancaster in the circuit.",
-            "key_details": "Dickerson was age 21. Aircraft departed at 1720 hours for Berlin. On return, while circling Metheringham waiting for landing permission, it banked hard to avoid a mid-air collision, stalled and crashed at 01:10. Five crew killed on impact; wireless operator Sgt Walter Hills died of injuries later that day. Two crew survived with injuries.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/84235",
-            "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster JB534 at Timberlands Fen, catalogued as memorial reference 84235.",
-            "key_details": "Formally registered in the IWM national war memorials database. Memorial plaque at the crash site in Timberland Fen, Lincolnshire.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/6503586",
-            "summary": "Photograph and description of the memorial plaque to the crew of Lancaster JB534 at Timberlands Fen, showing the memorial in its fenland setting near Metheringham.",
-            "key_details": "Memorial plaque is publicly accessible in the fen landscape. Crew included P/O Dickerson (pilot, age 21), Sgt Boffey (flight engineer, age 20), Fg Off Lewis (navigator, age 25), F/Sgt Pauley (bomb aimer, age 30), Sgt Hills (wireless operator, age 21).",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Woodhall Spa & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Timberland Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/106.jpg",
-    "squadron_motto": "Pro libertate",
-    "what3words": "awaiting.elects.flopping",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon OSM — Timberland Fen North Kesteven LN4 at 53.120 -0.273",
-            "Current 53.317 -0.386 ~22km north/12km west"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.317, -0.386) ~22km north and ~12km west. Timberland Fen LN4 at 53.120, -0.273.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "timberlands-fen-jb534",
+  "title": "Timberlands Fen Lancaster Memorial",
+  "location_name": "Timberlands Fen, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-031",
+  "crash_date": "1944-02-15",
+  "aircraft_type": "Lancaster",
+  "serial_number": "JB534",
+  "squadron": "106 Sqdn.",
+  "station": "Metheringham",
+  "crew_summary": "6 killed; pilot Plt Off. Reginald William Dickerson",
+  "memorial_type": "Memorial plaque",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.1202777,
+  "longitude": -0.2727767,
+  "maintainer": {
+    "organisation": "Timberland Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-reginald-william-dickerson-no-106-squadron-royal-air-force/",
+      "summary": "Commonwealth War Graves Commission story page for Pilot Officer Reginald William Dickerson of 106 Squadron. Details his final flight on Lancaster JB534 (ZN-K) to Berlin on 15/16 February 1944, where the aircraft crashed at Timberland Fen while avoiding another Lancaster in the circuit.",
+      "key_details": "Dickerson was age 21. Aircraft departed at 1720 hours for Berlin. On return, while circling Metheringham waiting for landing permission, it banked hard to avoid a mid-air collision, stalled and crashed at 01:10. Five crew killed on impact; wireless operator Sgt Walter Hills died of injuries later that day. Two crew survived with injuries.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/84235",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster JB534 at Timberlands Fen, catalogued as memorial reference 84235.",
+      "key_details": "Formally registered in the IWM national war memorials database. Memorial plaque at the crash site in Timberland Fen, Lincolnshire.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6503586",
+      "summary": "Photograph and description of the memorial plaque to the crew of Lancaster JB534 at Timberlands Fen, showing the memorial in its fenland setting near Metheringham.",
+      "key_details": "Memorial plaque is publicly accessible in the fen landscape. Crew included P/O Dickerson (pilot, age 21), Sgt Boffey (flight engineer, age 20), Fg Off Lewis (navigator, age 25), F/Sgt Pauley (bomb aimer, age 30), Sgt Hills (wireless operator, age 21).",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Woodhall Spa & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Timberland Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/106.jpg",
+  "squadron_motto": "Pro libertate",
+  "what3words": "awaiting.elects.flopping",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Photon OSM — Timberland Fen North Kesteven LN4 at 53.120 -0.273",
+      "Current 53.317 -0.386 ~22km north/12km west"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "CORRECTION. Current coords (53.317, -0.386) ~22km north and ~12km west. Timberland Fen LN4 at 53.120, -0.273.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "106 Squadron RAF",
+  "squadron_aliases": [
+    "106 Sqdn.",
+    "106 Squadron"
+  ]
 }
