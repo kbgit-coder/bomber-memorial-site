@@ -3,6 +3,7 @@ import {
   getAllMemorialSlugs,
   getMemorialBySlug,
 } from "@/lib/data";
+import { getSquadronSlugForName } from "@/lib/squadrons";
 import CrewTable from "@/components/CrewTable";
 import StubCTA from "@/components/StubCTA";
 import MemorialMap from "@/components/MemorialMap";
@@ -242,28 +243,46 @@ export default function MemorialPage({ params }: Props) {
         <section style={{ marginBottom: "2.5rem" }}>
           <h2 style={sectionHeading}>Aircraft &amp; Operation Details</h2>
           <div style={detailGrid}>
-            {memorial.squadron_badge_url && (
-              <div style={{ display: "flex", flexDirection: "column", alignItems: "center", minWidth: 100, padding: "0.5rem" }}>
-                <Image
-                  src={memorial.squadron_badge_url}
-                  alt={`${memorial.squadron || 'Squadron'} badge`}
-                  width={80}
-                  height={80}
-                  style={{ objectFit: "contain" }}
-                  unoptimized
-                />
-                {memorial.squadron_motto && (
-                  <span style={{ fontSize: "0.7rem", color: "#8b7355", fontStyle: "italic", marginTop: "0.4rem", textAlign: "center" }}>
-                    {memorial.squadron_motto}
-                  </span>
-                )}
-              </div>
-            )}
+            {memorial.squadron_badge_url && (() => {
+              const sqSlug = memorial.squadron ? getSquadronSlugForName(memorial.squadron) : undefined;
+              const badge = (
+                <div style={{ display: "flex", flexDirection: "column", alignItems: "center", minWidth: 100, padding: "0.5rem" }}>
+                  <Image
+                    src={memorial.squadron_badge_url}
+                    alt={`${memorial.squadron || 'Squadron'} badge`}
+                    width={80}
+                    height={80}
+                    style={{ objectFit: "contain" }}
+                    unoptimized
+                  />
+                  {memorial.squadron_motto && (
+                    <span style={{ fontSize: "0.7rem", color: "#8b7355", fontStyle: "italic", marginTop: "0.4rem", textAlign: "center" }}>
+                      {memorial.squadron_motto}
+                    </span>
+                  )}
+                </div>
+              );
+              return sqSlug ? (
+                <Link href={`/squadron/${sqSlug}`} title={`View all ${memorial.squadron} memorials`} style={{ textDecoration: "none" }}>
+                  {badge}
+                </Link>
+              ) : badge;
+            })()}
             <div style={{ flex: 1, display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
               {memorial.aircraft_type && <DetailItem label="Aircraft Type" value={memorial.aircraft_type} />}
               {memorial.serial_number && <DetailItem label="Serial Number" value={memorial.serial_number} />}
               {memorial.aircraft_code && <DetailItem label="Aircraft Code" value={memorial.aircraft_code} />}
-              {memorial.squadron && <DetailItem label="Squadron" value={memorial.squadron} />}
+              {memorial.squadron && (() => {
+                const sqSlug = getSquadronSlugForName(memorial.squadron);
+                return sqSlug ? (
+                  <div>
+                    <div style={{ fontSize: "0.7rem", color: "#8b7355", textTransform: "uppercase", letterSpacing: "0.05em", marginBottom: "0.2rem" }}>Squadron</div>
+                    <Link href={`/squadron/${sqSlug}`} style={{ color: "#2c5f8a", fontWeight: 500 }}>{memorial.squadron}</Link>
+                  </div>
+                ) : (
+                  <DetailItem label="Squadron" value={memorial.squadron} />
+                );
+              })()}
               {memorial.station && <DetailItem label="Station" value={memorial.station} />}
               {memorial.crash_date && <DetailItem label="Date of Loss" value={memorial.crash_date} />}
               {memorial.operation_type && <DetailItem label="Operation Type" value={memorial.operation_type} />}

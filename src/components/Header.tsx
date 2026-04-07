@@ -78,6 +78,21 @@ export default function Header() {
             Regions
           </Link>
           <Link
+            href="/squadron"
+            onClick={() => trackNav("squadrons")}
+            style={{
+              color: "#c9b98a",
+              fontFamily: "'Helvetica Neue', Arial, sans-serif",
+              fontSize: "0.875rem",
+              textTransform: "uppercase",
+              letterSpacing: "0.1em",
+              textDecoration: "none",
+              opacity: 0.85,
+            }}
+          >
+            Squadrons
+          </Link>
+          <Link
             href="/search"
             onClick={() => trackNav("search")}
             style={{
