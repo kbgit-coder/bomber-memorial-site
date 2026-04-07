@@ -161,17 +161,32 @@ export default function MemorialPage({ params }: Props) {
                     unoptimized
                   />
                 </div>
-                {(photo.caption || photo.credit || photo.source) && (
-                  <figcaption style={{ fontSize: "0.8rem", color: "#666", marginTop: "0.5rem", fontStyle: "italic" }}>
-                    {photo.caption}
-                    {(photo.source || photo.credit) && (
-                      <span style={{ color: "#999" }}>
-                        {photo.source && <> — Source: {photo.source}</>}
-                        {photo.credit && <>, Credit: {photo.credit}</>}
-                      </span>
-                    )}
-                  </figcaption>
-                )}
+                {(() => {
+                  // Only show caption if it's meaningful (not a filename derivative)
+                  const isJunkCaption = photo.caption && (
+                    /[_]/.test(photo.caption) ||
+                    /w\d{3,4}/.test(photo.caption) ||
+                    /\d{3,4}x\d{3,4}/.test(photo.caption) ||
+                    /\.(jpg|jpeg|png)/i.test(photo.caption) ||
+                    /^[a-f0-9]{10,}/.test(photo.caption)
+                  );
+                  const caption = isJunkCaption ? null : photo.caption;
+                  const hasContent = caption || photo.credit || photo.source || photo.date_taken;
+                  if (!hasContent) return null;
+                  return (
+                    <figcaption style={{ fontSize: "0.8rem", color: "#666", marginTop: "0.5rem", fontStyle: "italic" }}>
+                      {caption && <span>{caption}</span>}
+                      {(photo.credit || photo.source || photo.date_taken) && (
+                        <span style={{ color: "#999" }}>
+                          {caption && " — "}
+                          {photo.credit && <>Credit: {photo.credit}</>}
+                          {photo.source && !photo.credit && <>Source: {photo.source}</>}
+                          {photo.date_taken && <> ({photo.date_taken})</>}
+                        </span>
+                      )}
+                    </figcaption>
+                  );
+                })()}
               </figure>
             ))}
           </div>
