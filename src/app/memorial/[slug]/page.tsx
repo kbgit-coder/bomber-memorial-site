@@ -70,7 +70,7 @@ export default function MemorialPage({ params }: Props) {
     : (memorial.external_narratives || []).filter(n => n.full_narrative);
 
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
+    <div data-pagefind-body="" style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
         <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
@@ -90,7 +90,19 @@ export default function MemorialPage({ params }: Props) {
       </nav>
 
       {/* Title */}
-      <h1 style={h1Style}>{memorial.title}</h1>
+      <h1 data-pagefind-meta="title" style={h1Style}>{memorial.title}</h1>
+
+
+      {/* Pagefind filter metadata — hidden spans for faceted search */}
+      {memorial.squadron && (
+        <span data-pagefind-filter="squadron" style={{display:'none'}}>{memorial.squadron}</span>
+      )}
+      {memorial.county && (
+        <span data-pagefind-filter="county" style={{display:'none'}}>{memorial.county}</span>
+      )}
+      {memorial.aircraft_type && (
+        <span data-pagefind-filter="aircraft" style={{display:'none'}}>{memorial.aircraft_type}</span>
+      )}
 
       {/* Memorial name (e.g. "The Black Swan Memorial") */}
       {memorial.memorial_name && (
@@ -117,7 +129,7 @@ export default function MemorialPage({ params }: Props) {
           backgroundColor: badge.bg,
           color: badge.text,
         }}>
-          {memorial.data_quality || "Stub"} Record
+          <span data-pagefind-filter="quality">{memorial.data_quality || "Stub"}</span> Record
         </span>
       </div>
 
@@ -714,3 +726,4 @@ const typeBadgeStyle: React.CSSProperties = {
   backgroundColor: "#eee8dd",
   color: "#8b7355",
 };
+

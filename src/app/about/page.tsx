@@ -12,7 +12,7 @@ export default function AboutPage() {
   const stats = getMemorialStats();
 
   return (
-    <div style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
+    <div data-pagefind-ignore style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
         <Link href="/" style={{ color: "#2c5f8a" }}>

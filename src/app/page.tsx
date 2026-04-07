@@ -62,7 +62,7 @@ export default function HomePage() {
     .map(m => toFeaturedMemorial(m!));
 
   return (
-    <div>
+    <div data-pagefind-ignore>
       {/* Hero Section */}
       <section
         style={{
