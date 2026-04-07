@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.05735963843582,
-    "longitude": 1.1750673760867099,
+    "latitude": 52.1451,
+    "longitude": 0.8365,
     "maintainer": {
         "organisation": "Thorpe Morieux Parish Meeting",
         "maintainer_type": "parish-council"
@@ -65,5 +65,18 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "tulip.pill.dads"
+    "what3words": "abruptly.animates.plotted",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Thorpe Morieux Suffolk IP30 at 52.145 0.837 (same village as site 1)",
+            "Current 52.057 1.175 ~9.7km south/38km east"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.057, 1.175) ~10km south and ~38km east. Both Thorpe Morieux B-17 sites at same village: 52.145, 0.837.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

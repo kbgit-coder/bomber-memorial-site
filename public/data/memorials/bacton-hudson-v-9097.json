@@ -46,8 +46,8 @@
             "fate": "Killed"
         }
     ],
-    "latitude": 52.8441,
-    "longitude": 1.4599,
+    "latitude": 52.84876,
+    "longitude": 1.46709,
     "memorial_details": "| Field | Detail | |-------|--------| | Type | Crash site memorial | | Location | Bacton, Norfolk |",
     "maintainer": {
         "organisation": "Bacton Parish Council",
@@ -103,5 +103,19 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/500.jpg",
     "squadron_motto": "Speed",
-    "what3words": "easily.busy.renewals"
+    "what3words": "mimic.tickets.lends",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "IWM War Memorials Register ref 108252",
+            "TracesOfWar.com — Memorial Crash Lockheed Hudson, Bacton",
+            "North Norfolk News — rededication 4 Nov 2005"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Current coords (52.8441, 1.4599) are 530m SW of actual location. Memorial is a marble-front brick cairn at Lowlands Farm, Hall Farm Road, Bacton NR12 0JN — private farmland south of village. Rededicated 4 November 2005. IWM ref 108252 + TracesOfWar agree on correct location.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

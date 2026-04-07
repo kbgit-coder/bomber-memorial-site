@@ -79,8 +79,8 @@
             "fate_detail": "Sole survivor of the crash. Protected by his rear turret position at the tail of the aircraft, which broke away on impact."
         }
     ],
-    "latitude": 56.8583,
-    "longitude": -3.0288,
+    "latitude": 56.8766,
+    "longitude": -3.0189,
     "cause_of_loss": "Engine cowling detached in flight, damaging propeller, causing engine failure; crashed during forced landing attempt",
     "operation_type": "Training",
     "memorial_details": "A memorial plaque was laid at the crash site in 2012 by family members of Sgt Wetherson. The propeller from the aircraft is preserved and displayed at Montrose Air Station Heritage Centre. Wreckage including undercarriage components remains visible at the hillside site. Access requires a hill walk from Glen Clova.",
@@ -131,5 +131,18 @@
             "website": "https://www.legionscotland.org.uk/branches-and-clubs"
         }
     ],
-    "what3words": "contracts.stitch.expired"
+    "what3words": "insurance.repeating.tuck",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Geograph (four photos of Wellington wreckage in grid NO3876 by Elliott Simpson)",
+            "DBpedia + Photon confirmed Ben Tirran summit at 56.8587 -3.0292 (not crash site)"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Holly (PAI)",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

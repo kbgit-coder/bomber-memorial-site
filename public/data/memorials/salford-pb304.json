@@ -116,8 +116,8 @@
     "operation_type": "Operational",
     "operation_target": "Attacking enemy positions at Cahagnes, Normandy",
     "memorial_details": "On the 50th anniversary of the crash in 1994, a Memorial Stone of Remembrance was dedicated at Agecroft Cemetery, Langley Road, Salford. The stone records the names of all seven crew members. The crash site itself -- the Regatta Street area by the River Irwell -- has been substantially redeveloped. A book, \"The Salford Lancaster\" by Joe Bamford (published 1996), provides the definitive account.",
-    "latitude": 53.888742724815316,
-    "longitude": -2.4744926592848024,
+    "latitude": 53.480646923251534,
+    "longitude": -2.2949984721049868,
     "maintainer": {
         "organisation": "Salford City Council",
         "maintainer_type": "parish-council"
@@ -196,5 +196,18 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/106.jpg",
     "squadron_motto": "Pro libertate",
-    "what3words": "exchanges.impresses.rust"
+    "what3words": "remark.gravel.ripe",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Salford Greater Manchester M at 53.481 -2.295",
+            "Current 53.889 -2.474 ~46km north near Clitheroe — wrong county"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.889, -2.474) ~46km north near Clitheroe/Lancashire. Salford Greater Manchester at 53.481, -2.295.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

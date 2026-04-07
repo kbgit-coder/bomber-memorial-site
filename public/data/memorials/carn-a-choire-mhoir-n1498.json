@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 57.40853739141639,
-    "longitude": -5.106088151454865,
+    "latitude": 57.33675,
+    "longitude": -3.925388,
     "external_narratives": [
         {
             "source_site": "IWM War Memorials Register",
@@ -69,12 +69,25 @@
             "website": "https://www.legionscotland.org.uk/branches-and-clubs"
         }
     ],
-    "what3words": "traded.digesting.depravity",
+    "what3words": "spirits.ballroom.estimated",
     "photos": [
         {
             "filename": "carn-a-choire-mhoir-n1498/5cd854ee0438b_IMG_6121_547x410.jpg",
             "caption": "5cd854ee0438b IMG 6121 547x410",
             "credit": "Alistair Macdonald / War Memorials Online"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "GeoNames — Carn a Choire Mhoir at 57.33675 -3.925 (627m hill, Monadhliath)",
+            "Research: hill near Tomatin should be in Monadhliath range NH640-650 area"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CRITICAL ERROR. Previous coords (57.408537, -5.106088) are in Wester Ross near Beinn Eighe/Torridon — ~80km west of Tomatin. Carn a Choire Mhoir is in the Monadhliath range at ~NH645285. GeoNames confirms 57.33675, -3.925. Confidence approximate.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

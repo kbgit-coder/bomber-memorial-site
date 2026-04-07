@@ -94,8 +94,8 @@
             "cwgc_verified": true
         }
     ],
-    "latitude": 51.8716,
-    "longitude": -3.363,
+    "latitude": 51.8387,
+    "longitude": -3.7159,
     "cause_of_loss": "Pilot descended from 10,000 ft in heavy cloud to fix position; Wellington struck summit of Waun Rydd",
     "operation_type": "Training",
     "memorial_details": "The highest-situated war memorial in the UK, at approximately 2,500 feet. Built in 1980 by Tredegar Comprehensive School. Accessible via 2-3 hour walk from Talybont-on-Usk or via Blaen-y-Glyn waterfalls trail (~8 km loop).",
@@ -142,5 +142,17 @@
             "still_live": true
         }
     ],
-    "what3words": "fatter.unionists.stroke"
+    "what3words": "prepped.nuns.bundles",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon OSM — Carreg Goch natural peak Powys at 51.8387 -3.7159"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (51.8716, -3.3630) ~30km too far east near Brecon town. OSM has unambiguous natural/peak node for Carreg Goch in Powys at 51.8387 -3.7159 (SA9 1GJ). The actual crash wreckage may be offset from summit. Both R1465 and MF509 Wellingtons crashed on Carreg Goch.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

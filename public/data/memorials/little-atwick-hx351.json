@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.774203360130464,
-    "longitude": -1.2418600948329128,
+    "latitude": 53.939855178772326,
+    "longitude": -0.18787810708275837,
     "maintainer": {
         "organisation": "Atwick Parish Council",
         "maintainer_type": "parish-council"
@@ -89,7 +89,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/158.jpg",
     "squadron_motto": "Strength in unity",
-    "what3words": "valued.pretty.arrow",
+    "what3words": "torch.rectangular.rugs",
     "photos": [
         {
             "filename": "little-atwick-hx351/5b201920ccfba_DSC03204_547x410.JPG",
@@ -156,5 +156,18 @@
             "caption": "69750280c2ed5 IMG 8321 547x410",
             "credit": "nobody aka Ian S / War Memorials Online"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Atwick/Little Atwick East Yorkshire coast at 53.940 -0.188",
+            "Current 53.774 -1.242 ~12km south and ~110km west inland — wrong"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "MAJOR CORRECTION. Current coords (53.774, -1.242) ~12km south and ~110km west inland. Little Atwick is near Hornsea on the East Yorkshire coast at 53.940, -0.188.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

@@ -112,8 +112,8 @@
     "cause_of_loss": "Possible lightning strike during thunderstorm; aircraft entered steep dive from cloud",
     "operation_type": "Training",
     "memorial_details": "The Mayfield Heritage Group led a campaign to establish a permanent memorial at the crash site. In May 2011, a memorial was unveiled at Mayfield Parish Church, adjacent to the field where the Wellington crashed 67 years earlier. The memorial records the names of all six crew members and the circumstances of the crash. The church and memorial are publicly accessible in the centre of Mayfield village.",
-    "latitude": 52.769332602125,
-    "longitude": -1.966525834754961,
+    "latitude": 52.87515585146495,
+    "longitude": -1.8015355204457495,
     "maintainer": {
         "organisation": "Marchington Parish Council",
         "maintainer_type": "parish-council"
@@ -182,7 +182,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/28.jpg",
     "squadron_motto": "Peace Through Strength",
-    "what3words": "sounds.variation.goggle",
+    "what3words": "grinning.empty.photocopy",
     "photos": [
         {
             "filename": "marchington-wellington-mk-x/28-otu-wellington-2-w800-w800.jpg",
@@ -204,5 +204,18 @@
             "caption": "28 otu wellington lp397 mayfield heritage group2 1",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Marchington East Staffordshire ST14 at 52.875 -1.802",
+            "Current 52.769 -1.967 ~11km south/16km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.769, -1.967) ~11km south and ~16km west of Marchington. Village ST14 at 52.875, -1.802.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

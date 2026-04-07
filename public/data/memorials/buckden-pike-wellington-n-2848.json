@@ -96,8 +96,8 @@
             "bio": "After the war, Fusniak settled in England. In 1973 he returned to Buckden Pike to build the memorial cross with help from local residents. The bronze fox's head at the base honours the fox whose tracks saved his life. He died in Cambridge in July 2017 at age 95."
         }
     ],
-    "latitude": 54.1935,
-    "longitude": -2.0848,
+    "latitude": 54.1966,
+    "longitude": -2.0592,
     "cause_of_loss": "Flew into hillside in blizzard conditions; strayed east of intended route after passing over Skipton",
     "operation_type": "Training",
     "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Stone memorial cross with fox's head sculpture on summit of Buckden Pike | | **Dedicated** | 8 August 1973 | | **Organised by** | Jozef Fusniak (sole survivor), with help from local residents; returned from Poland to build the memorial | | **Fox motif** | A carved fox's head was added to the cross in tribute to the fox whose tracks saved Fusniak's life | | **Wreckage** | Most remaining aircraft wreckage was concreted into the base of the memorial during the 1970s | | **Condition** | Good; maintained; popular walking destination | | **Access** | Summit of Buckden Pike (2,303 ft); accessible via National Trust walking trail from Buckden village; approximately 2-hour walk |",
@@ -161,5 +161,18 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
     "squadron_motto": "With courage and faith",
-    "what3words": "pigtails.housework.dumpling"
+    "what3words": "courage.drawn.snipped",
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "OSM node named Buckden Pike Memorial Cross (54.1965934 -2.0592130)",
+            "DBpedia Buckden Pike summit (54.2043 -2.059)"
+        ],
+        "verified_by": "Holly (PAI research agent)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "Holly (PAI)",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

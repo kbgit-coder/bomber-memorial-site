@@ -77,8 +77,8 @@
     "operation_type": "Operational",
     "operation_target": "Operational -- returning from bombing raid on Lorient, France",
     "memorial_details": "The stone memorial on Hameldown Tor was commissioned by Lady Marjorie Cecilia Wilson, mother of the pilot. The north face is dated 21.3.41 and bears the incised initials of all four crew members beneath a cross. The memorial was extensively restored in 1991 by the Torbay and District Aircrew Association. A Remembrance Day ceremony is held at the site periodically. The memorial is accessible via the Two Moors Way footpath across Dartmoor, though it requires a moorland walk of approximately 2 miles from the nearest road.",
-    "latitude": 50.792522434824214,
-    "longitude": -3.3620585693280076,
+    "latitude": 50.6031,
+    "longitude": -3.8302,
     "maintainer": {
         "organisation": "Dartmoor National Park Authority",
         "website": "https://www.dartmoor.gov.uk",
@@ -150,7 +150,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
     "squadron_motto": "Cave canem",
-    "what3words": "shuffle.coveted.flexibly",
+    "what3words": "originate.decency.backup",
     "photos": [
         {
             "filename": "hameldown-x3054/P8078629a_547x410.jpg",
@@ -167,5 +167,18 @@
             "caption": "P8078631a 547x410",
             "credit": "John G Francis / War Memorials Online"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "Photon.komoot.io — Hameldown Tor/Ridge OSM natural peak at 50.6031 -3.8302 Dartmoor",
+            "Current 50.793 -3.362 ~24km east — wrong Dartmoor ridge"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (50.793, -3.362) ~24km east of Hameldown Ridge on Dartmoor. OSM has named natural peak at 50.603, -3.830. Confidence upgraded to confirmed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

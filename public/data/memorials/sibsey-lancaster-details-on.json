@@ -18,8 +18,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.079095756047714,
-    "longitude": -0.3682049961325308,
+    "latitude": 53.038,
+    "longitude": 0.0167,
     "maintainer": {
         "organisation": "Sibsey Lancaster Memorial Trust",
         "maintainer_type": "local-history-group",
@@ -85,5 +85,18 @@
             "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
         }
     ],
-    "what3words": "processes.wimp.wanted"
+    "what3words": "wanderers.expropriate.spiders",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Sibsey PE22 near Boston at 53.038 +0.017",
+            "Current 53.079 -0.368 — latitude close but longitude ~30km west (wrong sign area)"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current longitude (-0.368) places site ~30km west near Lincoln. Sibsey PE22 east of meridian at 53.038, +0.017.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

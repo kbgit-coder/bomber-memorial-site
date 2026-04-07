@@ -25,8 +25,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.04148685619974,
-    "longitude": -0.8633210646916355,
+    "latitude": 53.038748,
+    "longitude": -0.931611,
     "maintainer": {
         "organisation": "Bleasby Parish Council",
         "website": "https://www.bleasbycommunity.uk",
@@ -86,7 +86,7 @@
             "website": "https://www.bleasbycommunity.uk"
         }
     ],
-    "what3words": "husband.lifeguard.transmitted",
+    "what3words": "highs.towels.firepower",
     "photos": [
         {
             "filename": "bleasby-5-wellington-r-1014/the-bleasby-aircrews-memorial-2-w800-w800.jpg",
@@ -113,5 +113,18 @@
             "caption": "bleasby aircrews memorial wellingtons r1014 and r1212 1",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "Geograph photo 6412685 — R.1014 panel on Hazelford Lock memorial stone",
+            "Geograph photo 6412691 — corroborating angle of same stone"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (53.041, -0.863) were ~7km off. Corrected to Hazelford Lock (OS SK 71734 49586). Geograph photos 6412685 and 6412691 directly confirm R.1014 panel on the memorial stone. Confidence: confirmed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

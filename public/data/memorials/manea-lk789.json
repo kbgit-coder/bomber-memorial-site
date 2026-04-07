@@ -22,8 +22,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.30329634844416,
-    "longitude": -0.01841718094694561,
+    "latitude": 52.482132298748525,
+    "longitude": 0.1755334614330451,
     "maintainer": {
         "organisation": "Manea Parish Council",
         "maintainer_type": "parish-council"
@@ -91,7 +91,7 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "dividing.triangles.scatter",
+    "what3words": "weeps.cheaper.crumples",
     "photos": [
         {
             "filename": "manea-lk789/76-squadron-halifax-iii-lk789-mp-l-crew-w760.jpg",
@@ -123,5 +123,18 @@
             "caption": "church window",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Manea Fenland Cambridgeshire PE15 at 52.482 +0.176",
+            "Current 52.303 -0.018 ~18km south and longitude wrong sign (west not east)"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.303, -0.018) ~18km south and longitude wrong (negative/west vs east). Manea is east of the meridian in the Fens at 52.482, +0.176.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

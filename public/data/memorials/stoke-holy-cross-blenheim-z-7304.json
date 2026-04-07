@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.67719092801924,
-    "longitude": 0.9522137402302457,
+    "latitude": 52.5662,
+    "longitude": 1.2959,
     "maintainer": {
         "organisation": "Stoke Holy Cross Parish Council",
         "maintainer_type": "parish-council"
@@ -68,7 +68,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
     "squadron_motto": "With courage and faith",
-    "what3words": "sued.dozens.boats",
+    "what3words": "downward.soups.rots",
     "photos": [
         {
             "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-w800-w800.jpg",
@@ -95,5 +95,18 @@
             "caption": "18 squadron blenheim iv z7304 mr kenneth tagg",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Stoke Holy Cross Norfolk NR14 south of Norwich at 52.566 1.296",
+            "Current 52.677 0.952 ~13km north/38km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.677, 0.952) ~13km north and ~38km west. Stoke Holy Cross NR14 at 52.566, 1.296.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

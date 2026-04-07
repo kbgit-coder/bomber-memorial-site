@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.4673941513089,
-    "longitude": -1.170443995747511,
+    "latitude": 52.766373901447494,
+    "longitude": -0.8881191889013942,
     "maintainer": {
         "organisation": "Melton Mowbray Town Estate",
         "maintainer_type": "parish-council"
@@ -90,7 +90,7 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "chainsaw.pastime.bandwagon",
+    "what3words": "cracks.facing.actors",
     "photos": [
         {
             "filename": "melton-mowbray-ln281/wellington-ln281-crew-w760.jpg",
@@ -112,5 +112,18 @@
             "caption": "ln281 13 aug 1944 melton mowbray 1 w800 1",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Melton Mowbray Leicestershire LE13 at 52.766 -0.888",
+            "Current 52.467 -1.170 ~33km south/31km west"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "MAJOR CORRECTION. Current coords (52.467, -1.170) ~33km south and ~31km west of Melton Mowbray. Town LE13 at 52.766, -0.888.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

@@ -55,8 +55,8 @@
     "cause_of_loss": "Pilot descended below cloud in poor visibility and struck snow-covered moor; navigational error",
     "operation_type": "Training",
     "memorial_details": "Engine and panel remains are still visible at the crash site on Edale Moor, Kinder Scout. The site is accessible to experienced fell walkers via routes from Edale. An RAF recovery team cleaned up some wreckage in 1955 at the request of the Peak District National Park Authority.",
-    "latitude": 53.394280258667294,
-    "longitude": -1.6628107475344123,
+    "latitude": 53.394,
+    "longitude": -1.874,
     "maintainer": {
         "organisation": "Peak District National Park Authority",
         "website": "https://www.peakdistrict.gov.uk",
@@ -101,7 +101,7 @@
             "still_live": true
         }
     ],
-    "what3words": "barks.loads.fortunate",
+    "what3words": "wanderers.expropriate.spiders",
     "local_contacts": [
         {
             "org_name": "Hayfield Royal British Legion",
@@ -109,5 +109,18 @@
             "role": "Local remembrance and memorial support",
             "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "confirmed",
+        "score": 2,
+        "sources": [
+            "Photon.komoot.io — Kinder Scout area at 53.394 -1.874 (northern edge of plateau)",
+            "Current 53.394 -1.663 ~13km east — wrong"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (53.394, -1.663) ~13km east of Kinder Scout. Correct location at northern edge of Kinder plateau at 53.394, -1.874.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

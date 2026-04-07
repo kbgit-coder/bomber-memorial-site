@@ -129,8 +129,8 @@
       "decorations": []
     }
   ],
-  "latitude": 52.9504,
-  "longitude": 1.0904,
+  "latitude": 52.9496,
+  "longitude": 1.0902,
   "cause_of_loss": "Aircraft flew into 200ft Type 54 CHEL (Chain Home Extra Low) radar mast on Bard Hill in poor visibility; misunderstood W/T messages may have contributed",
   "operation_type": "Operational",
   "operation_target": "Bombing operation to Leuna/Merseburg synthetic oil plant",
@@ -203,7 +203,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
   "squadron_motto": "Per purum tonantes",
-  "what3words": "plantings.distanced.walking",
+  "what3words": "sprawls.elevates.windmills",
   "photos": [
     {
       "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-qr-d-1-w800-w800.jpg",
@@ -240,5 +240,18 @@
       "caption": "61sqn edward j boakes headstone 2",
       "credit": "Aircrew Remembered"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Postcodes.io — Salthouse Norfolk NR25 at 52.950 1.090",
+      "Current 52.9504 1.0904 — essentially identical (minor rounding)"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "MINOR CORRECTION. Current coords (52.950, 1.090) match Salthouse NR25 to 4dp. Precision update only.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  }
 }

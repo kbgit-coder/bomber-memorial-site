@@ -21,8 +21,8 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
-  "latitude": 52.20173912891476,
-  "longitude": -0.9306148057911237,
+  "latitude": 52.4414,
+  "longitude": -0.8125,
   "maintainer": {
     "organisation": "Desborough Town Council",
     "maintainer_type": "parish-council"
@@ -79,7 +79,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
   "squadron_motto": "Celer",
-  "what3words": "gravitate.arts.dramatic",
+  "what3words": "coil.sprayer.stumps",
   "photos": [
     {
       "filename": "desborough-an534/5d33786d05040_Stoke_Albany_1_547x410.JPG",
@@ -111,5 +111,18 @@
       "caption": "62659885c8465 P1070485 547x410",
       "credit": "Tony Hibberd / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Photon OSM — Desborough town NN14 at 52.4414 -0.8125",
+      "Postcodes.io — Desborough NN14 at 52.4419 -0.8213"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "INACCURATE. Previous coords (52.202, -0.931) ~27km south ~12km west near Brixworth/Northampton. Two APIs differ slightly in longitude (~1km). Best single estimate 52.4414 -0.8125 (Photon OSM town node). B-17 crash site likely in farmland outside town.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  }
 }

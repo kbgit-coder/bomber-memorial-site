@@ -22,8 +22,8 @@
     "last_updated": "2026-03-22",
     "data_quality": "Partial",
     "narrative": "The parish of Clenchwarton, situated in the flat marshland near King's Lynn on Norfolk's western edge, witnessed an extraordinary concentration of wartime aircraft crashes. Its position beneath the approach paths to several Norfolk bomber stations -- including nearby RAF Marham and the Fens airfields -- made it tragically vulnerable to aircraft in distress. The most significant RAF Bomber Command incidents were the loss of Short Stirling W7473 from 218 Squadron on 23 April 1942, which crashed into Ingrams Field, and Halifax HR832 from 405 (Vancouver) Squadron RCAF on 16 June 1943, which came down at Clifton Farm. The Halifax was from the Canadian Pathfinder squadron based at Gransden Lodge in Cambridgeshire, far from its home base, indicating the aircraft was likely in serious trouble and seeking any available landing ground. In total, six separate aircraft crashes occurred within the parish boundaries during the war years, killing nineteen aircrew. The variety of aircraft types -- Stirling, Halifax, Mosquito, Hurricane, and Oxford -- reflects the diversity of operations passing over this corner of Norfolk. It was not until the year 2000 that the parish formally recognised this grim toll with a dedicated memorial.",
-    "latitude": 52.7546,
-    "longitude": 0.341,
+    "latitude": 52.7572,
+    "longitude": 0.3549,
     "memorial_details": "| Field | Detail | |-------|--------| | Type | Board/plaque/tablet memorial | | Location | Clenchwarton Memorial Hall, Norfolk | | Dedicated | 23 April 2000 (unveiled on 58th anniversary of the Stirling crash) | | Organised by | Local community with Air Crew Association support | | Inscription | \"A MEMORIAL TO THE AIRCREW WHO DIED WHEN THEIR AIRCRAFT CRASHED IN THE PARISH OF CLENCHWARTON... MAY THEY REST IN PEACE\" | | Names recorded | 19 | | IWM Reference | WMR-64994 | | Access | Inside Clenchwarton Memorial Hall |",
     "maintainer": {
         "organisation": "Clenchwarton Parish Council",
@@ -84,7 +84,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/218.jpg",
     "squadron_motto": "In time",
-    "what3words": "cages.march.limbs",
+    "what3words": "flat.export.pillow",
     "photos": [
         {
             "filename": "clenchwarton-multi-crash-memorial-hr832-mosquito-dd717-blenheim-z-7278/405-squadron-halifax-ii-hr832-w640h480.jpg",
@@ -96,5 +96,18 @@
             "caption": "hr832 graves003aweb",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Research geocoder — Clenchwarton village PE34 at 52.7572 0.3549",
+            "Current coords (52.7546, 0.341) ~870m west of village centre"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (52.7546, 0.341) ~870m west of Clenchwarton village. Corrected to village centre at 52.7572, 0.3549.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

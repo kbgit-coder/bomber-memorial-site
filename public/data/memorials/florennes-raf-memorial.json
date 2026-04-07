@@ -33,5 +33,18 @@
             "still_live": true
         }
     ],
-    "what3words": "scavenger.clamping.bluntest"
+    "what3words": "scavenger.clamping.bluntest",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon — Florennes city centre Belgium at 50.2514 4.6030",
+            "Current 50.24 4.65 consistent with Florennes airbase area (SE of town)"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "PLAUSIBLE. Current coords (50.24, 4.65) ~4km SE of Florennes town centre — consistent with the airbase location. Confidence upgraded from estimated to approximate.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

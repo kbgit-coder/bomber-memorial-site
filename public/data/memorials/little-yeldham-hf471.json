@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 51.6997372648629,
-    "longitude": 0.587451491671461,
+    "latitude": 52.02571,
+    "longitude": 0.591859,
     "maintainer": {
         "organisation": "Little Yeldham Parish Council",
         "maintainer_type": "parish-council"
@@ -64,5 +64,18 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "culling.puddings.impaled"
+    "what3words": "commands.alert.poets",
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Local contact Adrian Corder-Birch: map nowhere near Little Yeldham (Wave 1 CRM response)",
+            "Postcodes.io — Little Yeldham Essex CO9 at 52.026, 0.592"
+        ],
+        "verified_by": "Adrian Corder-Birch (local historian), Holly (PAI geocoding)",
+        "verification_date": "2026-04-06",
+        "verification_notes": "IMPORTANT NOTE: Adrian Corder-Birch advises this is a BURIAL SITE (church memorial), not a crash site. Sgt Ronald Victor Smith is buried here — his family lived in Little Yeldham. The Wellington HF471 crash site itself is elsewhere. Previous coords (51.700, 0.587) were ~36km south near Romford — major error. Corrected to Little Yeldham Essex. Precise church location TBC.",
+        "community_submissions": 1,
+        "last_reviewed": "2026-04-06"
+    }
 }

@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 50.92033066227456,
-    "longitude": -0.23960522570607007,
+    "latitude": 50.9122,
+    "longitude": -0.6638,
     "maintainer": {
         "organisation": "Upwaltham Parish Meeting",
         "maintainer_type": "parish-council"
@@ -76,7 +76,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/617.jpg",
     "squadron_motto": "Apres moi le deluge",
-    "what3words": "silly.refills.debate",
+    "what3words": "rewrites.lace.rocked",
     "photos": [
         {
             "filename": "upwaltham-dv382/pulford-from-iwm-w760.jpg",
@@ -108,5 +108,18 @@
             "caption": "riches john paul from special forces roll of honour 2",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Postcodes.io — Upwaltham Sussex GU28 near Petworth at 50.912 -0.664",
+            "Current 50.920 -0.240 ~28km east of actual village"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (50.920, -0.240) ~28km east. Upwaltham GU28 near Petworth at 50.912, -0.664.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

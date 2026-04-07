@@ -1,86 +1,99 @@
 {
-    "id": "cheviot-hills-memorial-multiple-aircraft-co",
-    "title": "Cheviot Hills Memorial commemorated Memorial",
-    "location_name": "Cheviot Hills Memorial, Northumberland",
-    "county": "Northumberland",
-    "country": "United Kingdom",
-    "region_code": "NE-001",
-    "crash_date": "WW2",
-    "aircraft_type": "Multiple aircraft commemorated",
-    "squadron": "Various",
-    "memorial_type": "Cheviot Memorial - commemorates all lives lost in aircraft crashes across the Cheviot Hills during WW2",
-    "sources": [
-        {
-            "title": "Northumberland National Park",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 55.37488662236883,
-    "longitude": -1.9020991199504746,
-    "maintainer": {
-        "organisation": "Northumberland National Park Authority",
-        "website": "https://www.northumberlandnationalpark.org.uk",
-        "maintainer_type": "military",
-        "notes": "Memorial commemorates all lives lost in aircraft crashes across the Cheviot Hills during WW2."
+  "id": "cheviot-hills-memorial-multiple-aircraft-co",
+  "title": "Cheviot Hills Memorial commemorated Memorial",
+  "location_name": "Cheviot Hills Memorial, Northumberland",
+  "county": "Northumberland",
+  "country": "United Kingdom",
+  "region_code": "NE-001",
+  "crash_date": "WW2",
+  "aircraft_type": "Multiple aircraft commemorated",
+  "squadron": "Various",
+  "memorial_type": "Cheviot Memorial - commemorates all lives lost in aircraft crashes across the Cheviot Hills during WW2",
+  "sources": [
+    {
+      "title": "Northumberland National Park",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 55.478,
+  "longitude": -2.148,
+  "maintainer": {
+    "organisation": "Northumberland National Park Authority",
+    "website": "https://www.northumberlandnationalpark.org.uk",
+    "maintainer_type": "military",
+    "notes": "Memorial commemorates all lives lost in aircraft crashes across the Cheviot Hills during WW2."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Northumberland National Park",
+      "original_url": "https://www.northumberlandnationalpark.org.uk/places-to-visit/the-cheviots/the-cheviot-memorial/",
+      "summary": "Official National Park page for the Cheviot Airmen Memorial. Commemorates 58 airmen killed in 19 separate crashes in the Cheviot Hills during WW2. Originally dedicated by the Duke of Gloucester on 19 May 1995; upgraded granite memorial rededicated on 6 September 2018 for RAF centenary.",
+      "key_details": [
+        "58 airmen killed in 19 crashes",
+        "Original memorial 19 May 1995 by Duke of Gloucester",
+        "Granite replacement 6 September 2018 for RAF 100",
+        "Located in College Valley opposite Cuddystone Hall"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "Northumberland National Park",
-            "original_url": "https://www.northumberlandnationalpark.org.uk/places-to-visit/the-cheviots/the-cheviot-memorial/",
-            "summary": "Official National Park page for the Cheviot Airmen Memorial. Commemorates 58 airmen killed in 19 separate crashes in the Cheviot Hills during WW2. Originally dedicated by the Duke of Gloucester on 19 May 1995; upgraded granite memorial rededicated on 6 September 2018 for RAF centenary.",
-            "key_details": [
-                "58 airmen killed in 19 crashes",
-                "Original memorial 19 May 1995 by Duke of Gloucester",
-                "Granite replacement 6 September 2018 for RAF 100",
-                "Located in College Valley opposite Cuddystone Hall"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/34297",
-            "summary": "Imperial War Museums register entry for the Allied Airmen memorial in the Cheviot Hills, Northumberland. Documents the collective memorial to all airmen lost in the hills during WW2.",
-            "key_details": [
-                "IWM memorial reference 34297"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Key Aero",
-            "original_url": "https://www.key.aero/article/cheviot-hills-airmen-remembered",
-            "summary": "Feature article on the Cheviot Hills airmen memorial and the history of wartime crashes in the area. Cloud cover over the hills was a major contributing factor to the 19 crashes between 1939 and 1946.",
-            "key_details": [
-                "16 different aircraft types involved",
-                "Cloud cover identified as major crash cause",
-                "Crashes spanned 1939-1946"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Hethpool House",
-            "original_url": "https://www.hethpoolhouse.co.uk/wartime-plane-crashes",
-            "summary": "Local guide to WW2 plane crash sites in the Cheviot Hills near Hethpool. Documents multiple crash locations accessible from the College Valley area.",
-            "key_details": [
-                "Walking routes to crash sites from Hethpool",
-                "Multiple crash locations mapped"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/34297",
+      "summary": "Imperial War Museums register entry for the Allied Airmen memorial in the Cheviot Hills, Northumberland. Documents the collective memorial to all airmen lost in the hills during WW2.",
+      "key_details": [
+        "IWM memorial reference 34297"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Key Aero",
+      "original_url": "https://www.key.aero/article/cheviot-hills-airmen-remembered",
+      "summary": "Feature article on the Cheviot Hills airmen memorial and the history of wartime crashes in the area. Cloud cover over the hills was a major contributing factor to the 19 crashes between 1939 and 1946.",
+      "key_details": [
+        "16 different aircraft types involved",
+        "Cloud cover identified as major crash cause",
+        "Crashes spanned 1939-1946"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Hethpool House",
+      "original_url": "https://www.hethpoolhouse.co.uk/wartime-plane-crashes",
+      "summary": "Local guide to WW2 plane crash sites in the Cheviot Hills near Hethpool. Documents multiple crash locations accessible from the College Valley area.",
+      "key_details": [
+        "Walking routes to crash sites from Hethpool",
+        "Multiple crash locations mapped"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Alnwick Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northumbria"
+    }
+  ],
+  "what3words": "directionally.rightmost.stony",
+  "location_confidence": {
+    "status": "approximate",
+    "score": 1,
+    "sources": [
+      "Research: Cheviot summit plateau at ~55.478 -2.148",
+      "Current coords 55.375 -1.902 fall on coastal plain near Alnwick — not in hills"
     ],
-    "local_contacts": [
-        {
-            "org_name": "Alnwick Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/northumberland/"
-        }
-    ],
-    "what3words": "devours.intensely.drives"
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "verification_notes": "INACCURATE. Current coords (55.375, -1.902) fall at longitude of coastal plain near Alnwick, not in the Cheviot Hills. Summit area at ~55.478, -2.148 is a better approximation for a general Cheviot memorial. Confidence approximate — memorial may be at a specific col or hill not yet identified.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  }
 }

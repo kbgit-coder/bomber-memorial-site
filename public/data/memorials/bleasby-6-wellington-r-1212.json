@@ -25,8 +25,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.13910975923593,
-    "longitude": -0.9394226628886118,
+    "latitude": 52.9996,
+    "longitude": -0.9032,
     "maintainer": {
         "organisation": "Bleasby Parish Council",
         "website": "https://www.bleasbycommunity.uk",
@@ -85,7 +85,7 @@
             "website": "https://www.bleasbycommunity.uk"
         }
     ],
-    "what3words": "pillows.occupiers.crumple",
+    "what3words": "torso.rise.across",
     "photos": [
         {
             "filename": "bleasby-6-wellington-r-1212/bleasby-aircrews-memorial-june-2018-w800-w800.jpg",
@@ -122,5 +122,18 @@
             "caption": "bleasby aircrews memorial syerston w4258 plaque",
             "credit": "Aircrew Remembered"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Research — Flintham Woods / Kennel Wood area identified as distinct crash site",
+            "304 Sqdn ORB cross-reference — separate crash from R.1014"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "INACCURATE. Previous coords (53.139, -0.939) ~15km off. R.1212 crash identified as separate incident at Flintham Woods / Kennel Wood area (SK 747 476, approx 52.9996, -0.9032) — distinct from R.1014 at Hazelford Lock. Confidence approximate — area identified but exact field unconfirmed.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }

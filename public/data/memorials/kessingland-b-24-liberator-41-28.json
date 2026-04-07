@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.050019071587954,
-    "longitude": 1.0672512551933167,
+    "latitude": 52.4197397,
+    "longitude": 1.7122444,
     "maintainer": {
         "organisation": "Kessingland Parish Council",
         "maintainer_type": "parish-council"
@@ -85,7 +85,7 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "science.speedily.interest",
+    "what3words": "gurgled.recruiter.credible",
     "photos": [
         {
             "filename": "kessingland-b-24-liberator-41-28/geograph-4425734-by-Adrian-S-Pye_547x410.jpg",
@@ -112,5 +112,18 @@
             "caption": "5fc64a3119c59 20201001 170218 547x410",
             "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
         }
-    ]
+    ],
+    "location_confidence": {
+        "status": "approximate",
+        "score": 1,
+        "sources": [
+            "Photon.komoot.io — Kessingland Suffolk coast at 52.420 1.712",
+            "Current 52.050 1.067 ~42km south/west near Ipswich — wrong"
+        ],
+        "verified_by": "Holly (PAI)",
+        "verification_date": "2026-04-05",
+        "verification_notes": "CORRECTION. Current coords (52.050, 1.067) ~42km southwest near Ipswich. Kessingland is a coastal village in Suffolk at 52.420, 1.712.",
+        "community_submissions": 0,
+        "last_reviewed": "2026-04-06"
+    }
 }
