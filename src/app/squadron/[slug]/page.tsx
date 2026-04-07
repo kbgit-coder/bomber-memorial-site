@@ -112,6 +112,11 @@ export default function SquadronPage({ params }: Props) {
               <span>Crew recorded: <strong style={{ color: "#1a2332" }}>{squadron.total_crew}</strong></span>
             )}
           </div>
+          {squadron.history?.sub_units && squadron.history.sub_units.length > 0 && (
+            <div style={{ fontSize: "0.85rem", color: "#666", marginTop: "0.5rem" }}>
+              Squadrons: <strong style={{ color: "#1a2332" }}>{squadron.history.sub_units.join(" · ")}</strong>
+            </div>
+          )}
         </div>
       </div>
 
