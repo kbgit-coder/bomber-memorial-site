@@ -1,115 +1,115 @@
 {
-    "id": "desborough-an534",
-    "title": "Desborough Fortress Memorial",
-    "location_name": "Desborough, Northamptonshire",
-    "county": "Northamptonshire",
-    "country": "United Kingdom",
-    "region_code": "NH-002",
-    "crash_date": "1941-07-28",
-    "aircraft_type": "B-17 Fortress",
-    "serial_number": "AN534",
-    "squadron": "90 Squadron",
-    "station": "Polebrook",
-    "crew_summary": "7 killed including Flt Sgt. Hubert Charles Gerard Brook",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.20173912891476,
-    "longitude": -0.9306148057911237,
-    "maintainer": {
-        "organisation": "Desborough Town Council",
-        "maintainer_type": "parish-council"
+  "id": "desborough-an534",
+  "title": "Desborough Fortress Memorial",
+  "location_name": "Desborough, Northamptonshire",
+  "county": "Northamptonshire",
+  "country": "United Kingdom",
+  "region_code": "NH-002",
+  "crash_date": "1941-07-28",
+  "aircraft_type": "B-17 Fortress",
+  "serial_number": "AN534",
+  "squadron": "90 Squadron",
+  "station": "Polebrook",
+  "crew_summary": "7 killed including Flt Sgt. Hubert Charles Gerard Brook",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.20173912891476,
+  "longitude": -0.9306148057911237,
+  "maintainer": {
+    "organisation": "Desborough Town Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265171/",
+      "summary": "Memorial record for the crew of Boeing Fortress Mk.I AN534 WP-E of 90 Squadron. The aircraft suffered catastrophic structural failure during a high-altitude test flight on 28 July 1941, with the starboard wing breaking off in severe turbulence.",
+      "key_details": [
+        "Fortress Mk.I (ex-USAAC B-17C, s/n 40-2053)",
+        "Starboard wing structural failure in severe turbulence",
+        "Departed Polebrook at 17:00 for high altitude test",
+        "Crashed 4 miles west of Corby near Stoke Albany"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
     },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/265171/",
-            "summary": "Memorial record for the crew of Boeing Fortress Mk.I AN534 WP-E of 90 Squadron. The aircraft suffered catastrophic structural failure during a high-altitude test flight on 28 July 1941, with the starboard wing breaking off in severe turbulence.",
-            "key_details": [
-                "Fortress Mk.I (ex-USAAC B-17C, s/n 40-2053)",
-                "Starboard wing structural failure in severe turbulence",
-                "Departed Polebrook at 17:00 for high altitude test",
-                "Crashed 4 miles west of Corby near Stoke Albany"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Commands Archive",
-            "original_url": "http://www.rafcommands.com/archive/00651.php",
-            "summary": "RAF Commands forum discussion with historical details of Flying Fortress AN534 from 90 Squadron. Documents the aircraft's history as one of the early RAF-operated B-17s based at Polebrook.",
-            "key_details": [
-                "One of earliest RAF B-17 operations",
-                "90 Squadron at Polebrook"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "B-17 Bomber Flying Fortress",
-            "original_url": "https://b17flyingfortress.de/en/royal-air-force/no-90-squadron/",
-            "summary": "Reference entry on 90 Squadron's operation of Boeing Fortress aircraft. Documents the squadron's use of early B-17C models received under Lend-Lease, including AN534.",
-            "key_details": [
-                "90 Squadron Fortress operations documented",
-                "Early Lend-Lease B-17C aircraft"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Desborough & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
-        },
-        {
-            "org_name": "Desborough Town Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
-    "squadron_motto": "Caelestiibus idem",
-    "what3words": "gravitate.arts.dramatic",
-    "photos": [
-        {
-            "filename": "desborough-an534/5d33786d05040_Stoke_Albany_1_547x410.JPG",
-            "caption": "5d33786d05040 Stoke Albany 1 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "desborough-an534/5d33786e8de83_Stoke_Albany_2_547x410.JPG",
-            "caption": "5d33786e8de83 Stoke Albany 2 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "desborough-an534/5d33786fd58a6_Stoke_Albany_3_547x410.JPG",
-            "caption": "5d33786fd58a6 Stoke Albany 3 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "desborough-an534/5d33787121bde_Stoke_Albany_4_547x410.JPG",
-            "caption": "5d33787121bde Stoke Albany 4 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "desborough-an534/5d33787259c67_Stoke_Albany_5_547x410.JPG",
-            "caption": "5d33787259c67 Stoke Albany 5 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        },
-        {
-            "filename": "desborough-an534/62659885c8465_P1070485_547x410.JPG",
-            "caption": "62659885c8465 P1070485 547x410",
-            "credit": "Tony Hibberd / War Memorials Online"
-        }
-    ]
+    {
+      "source_site": "RAF Commands Archive",
+      "original_url": "http://www.rafcommands.com/archive/00651.php",
+      "summary": "RAF Commands forum discussion with historical details of Flying Fortress AN534 from 90 Squadron. Documents the aircraft's history as one of the early RAF-operated B-17s based at Polebrook.",
+      "key_details": [
+        "One of earliest RAF B-17 operations",
+        "90 Squadron at Polebrook"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "B-17 Bomber Flying Fortress",
+      "original_url": "https://b17flyingfortress.de/en/royal-air-force/no-90-squadron/",
+      "summary": "Reference entry on 90 Squadron's operation of Boeing Fortress aircraft. Documents the squadron's use of early B-17C models received under Lend-Lease, including AN534.",
+      "key_details": [
+        "90 Squadron Fortress operations documented",
+        "Early Lend-Lease B-17C aircraft"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Desborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Desborough Town Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
+  "squadron_motto": "Celer",
+  "what3words": "gravitate.arts.dramatic",
+  "photos": [
+    {
+      "filename": "desborough-an534/5d33786d05040_Stoke_Albany_1_547x410.JPG",
+      "caption": "5d33786d05040 Stoke Albany 1 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "desborough-an534/5d33786e8de83_Stoke_Albany_2_547x410.JPG",
+      "caption": "5d33786e8de83 Stoke Albany 2 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "desborough-an534/5d33786fd58a6_Stoke_Albany_3_547x410.JPG",
+      "caption": "5d33786fd58a6 Stoke Albany 3 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "desborough-an534/5d33787121bde_Stoke_Albany_4_547x410.JPG",
+      "caption": "5d33787121bde Stoke Albany 4 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "desborough-an534/5d33787259c67_Stoke_Albany_5_547x410.JPG",
+      "caption": "5d33787259c67 Stoke Albany 5 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    },
+    {
+      "filename": "desborough-an534/62659885c8465_P1070485_547x410.JPG",
+      "caption": "62659885c8465 P1070485 547x410",
+      "credit": "Tony Hibberd / War Memorials Online"
+    }
+  ]
 }
