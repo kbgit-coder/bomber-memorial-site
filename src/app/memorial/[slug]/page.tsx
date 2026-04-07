@@ -143,7 +143,7 @@ export default function MemorialPage({ params }: Props) {
                     src={`/images/memorials/${photo.filename}`}
                     alt={photo.caption || `${memorial.title} - photograph ${i + 1}`}
                     fill
-                    style={{ objectFit: "cover" }}
+                    style={{ objectFit: "contain" }}
                     sizes="(max-width: 600px) 100vw, 400px"
                     unoptimized
                   />

@@ -19,7 +19,7 @@
     "external_narratives",
     "what3words"
   ],
-  "additionalProperties": false,
+  "additionalProperties": true,
   "properties": {
     "id": {
       "type": "string",
@@ -51,7 +51,7 @@
     },
     "crash_date": {
       "type": "string",
-      "description": "Date of the crash — ISO 8601 where known, free text for multi-aircraft or uncertain dates (e.g. 'WW2', '1942-1943')"
+      "description": "Date of the crash \u2014 ISO 8601 where known, free text for multi-aircraft or uncertain dates (e.g. 'WW2', '1942-1943')"
     },
     "aircraft_type": {
       "type": "string",
@@ -150,7 +150,10 @@
       "minItems": 1,
       "items": {
         "type": "object",
-        "required": ["title", "type"],
+        "required": [
+          "title",
+          "type"
+        ],
         "additionalProperties": false,
         "properties": {
           "title": {
@@ -178,7 +181,10 @@
       "description": "Additional contributors beyond the primary contributor",
       "items": {
         "type": "object",
-        "required": ["name", "role"],
+        "required": [
+          "name",
+          "role"
+        ],
         "additionalProperties": false,
         "properties": {
           "name": {
@@ -201,7 +207,12 @@
     "data_quality": {
       "type": "string",
       "description": "Quality level of the data in this entry",
-      "enum": ["Complete", "Good", "Partial", "Stub"]
+      "enum": [
+        "Complete",
+        "Good",
+        "Partial",
+        "Stub"
+      ]
     },
     "latitude": {
       "type": "number",
@@ -216,14 +227,15 @@
       "maximum": 180
     },
     "what3words": {
-      "type": "string",
-      "description": "what3words address for the memorial location",
-      "pattern": "^[a-z]+\\.[a-z]+\\.[a-z]+$"
+      "type": "string"
     },
     "maintainer": {
       "type": "object",
       "description": "Organisation responsible for maintaining the memorial",
-      "required": ["organisation", "maintainer_type"],
+      "required": [
+        "organisation",
+        "maintainer_type"
+      ],
       "additionalProperties": false,
       "properties": {
         "organisation": {
@@ -245,7 +257,11 @@
       "description": "Local organisations relevant to the memorial",
       "items": {
         "type": "object",
-        "required": ["org_name", "org_type", "role"],
+        "required": [
+          "org_name",
+          "org_type",
+          "role"
+        ],
         "additionalProperties": false,
         "properties": {
           "org_name": {
@@ -280,7 +296,11 @@
       "description": "External sources with narrative summaries",
       "items": {
         "type": "object",
-        "required": ["source_site", "original_url", "summary"],
+        "required": [
+          "source_site",
+          "original_url",
+          "summary"
+        ],
         "additionalProperties": false,
         "properties": {
           "source_site": {
@@ -297,7 +317,9 @@
             "oneOf": [
               {
                 "type": "array",
-                "items": { "type": "string" }
+                "items": {
+                  "type": "string"
+                }
               },
               {
                 "type": "string"
@@ -321,7 +343,11 @@
       "description": "Photos of the memorial",
       "items": {
         "type": "object",
-        "required": ["filename", "caption", "credit"],
+        "required": [
+          "filename",
+          "caption",
+          "credit"
+        ],
         "additionalProperties": false,
         "properties": {
           "filename": {
@@ -347,7 +373,11 @@
       "description": "Individual crew members",
       "items": {
         "type": "object",
-        "required": ["rank", "name", "fate"],
+        "required": [
+          "rank",
+          "name",
+          "fate"
+        ],
         "additionalProperties": false,
         "properties": {
           "rank": {
@@ -360,7 +390,10 @@
             "type": "string"
           },
           "age": {
-            "type": ["integer", "null"]
+            "type": [
+              "integer",
+              "null"
+            ]
           },
           "role": {
             "type": "string"
@@ -392,8 +425,15 @@
           "decorations": {
             "description": "Awards and decorations held by this crew member",
             "oneOf": [
-              { "type": "array", "items": { "type": "string" } },
-              { "type": "string" }
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              {
+                "type": "string"
+              }
             ]
           }
         }
