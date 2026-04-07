@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from "react";
 import { Memorial } from "@/lib/types";
+import "maplibre-gl/dist/maplibre-gl.css";
 
 interface MemorialMapProps {
   memorials: Memorial[];
@@ -15,7 +16,7 @@ export default function MemorialMap({
   zoom = 6,
 }: MemorialMapProps) {
   const mapRef = useRef<HTMLDivElement>(null);
-  const mapInstanceRef = useRef<unknown>(null);
+  const mapInstanceRef = useRef<maplibregl.Map | null>(null);
 
   const markersData = memorials.filter(
     (m) => m.latitude != null && m.longitude != null
@@ -24,39 +25,36 @@ export default function MemorialMap({
   useEffect(() => {
     if (!mapRef.current || mapInstanceRef.current) return;
 
-    import("leaflet").then((L) => {
+    import("maplibre-gl").then((maplibregl) => {
       if (!mapRef.current) return;
 
-      // Fix default icon paths
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      delete (L.Icon.Default.prototype as any)._getIconUrl;
-      L.Icon.Default.mergeOptions({
-        iconRetinaUrl:
-          "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
-        iconUrl:
-          "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
-        shadowUrl:
-          "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+      const map = new maplibregl.Map({
+        container: mapRef.current,
+        style: "https://tiles.openfreemap.org/styles/liberty",
+        center: [center[1], center[0]], // MapLibre uses [lng, lat] not [lat, lng]
+        zoom: zoom,
       });
 
-      const map = L.map(mapRef.current).setView(center, zoom);
       mapInstanceRef.current = map;
 
-      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        attribution:
-          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      }).addTo(map);
+      map.addControl(new maplibregl.NavigationControl(), "top-right");
 
-      markersData.forEach((memorial) => {
-        const marker = L.marker([memorial.latitude!, memorial.longitude!]).addTo(map);
-        marker.bindPopup(
-          `<div style="font-family: Georgia, serif;">` +
-            `<strong><a href="/memorial/${memorial.id}" style="color: #2c5f8a;">${memorial.title}</a></strong>` +
-            (memorial.location_name
-              ? `<div style="font-size: 0.85rem; color: #666;">${memorial.location_name}</div>`
-              : "") +
-            `</div>`
-        );
+      map.on("load", () => {
+        markersData.forEach((memorial) => {
+          const popup = new maplibregl.Popup({ offset: 25 }).setHTML(
+            `<div style="font-family: Georgia, serif;">` +
+              `<strong><a href="/memorial/${memorial.id}" style="color: #2c5f8a;">${memorial.title}</a></strong>` +
+              (memorial.location_name
+                ? `<div style="font-size: 0.85rem; color: #666;">${memorial.location_name}</div>`
+                : "") +
+              `</div>`
+          );
+
+          new maplibregl.Marker({ color: "#2c5f8a" })
+            .setLngLat([memorial.longitude!, memorial.latitude!])
+            .setPopup(popup)
+            .addTo(map);
+        });
       });
     }).catch(() => {
       if (mapRef.current) {
@@ -67,8 +65,7 @@ export default function MemorialMap({
 
     return () => {
       if (mapInstanceRef.current) {
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        (mapInstanceRef.current as any).remove();
+        mapInstanceRef.current.remove();
         mapInstanceRef.current = null;
       }
     };
