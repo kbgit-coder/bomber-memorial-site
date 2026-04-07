@@ -1,7 +1,31 @@
+import fs from 'fs';
+import path from 'path';
 import { getAllMemorials } from './data';
 import { Memorial } from './types';
 
 export type SquadronCategory = 'RAF Bomber Command' | 'USAAF Bomb Groups' | 'Training Units' | 'Other Units';
+
+export interface SquadronHistory {
+  formed?: string;
+  disbanded?: string;
+  group?: string;
+  station?: string;
+  total_sorties?: number;
+  total_operations?: number;
+  total_targets?: number;
+  tons_dropped?: number;
+  aircraft_lost?: number;
+  killed?: number;
+  pow?: number;
+  commanding_officers?: { name: string; honours?: string; period?: string }[];
+  aircraft_code?: string;
+  summary?: string;
+  notable_personnel?: { name: string; rank?: string; distinction: string; detail?: string }[];
+  books?: { title: string; author: string; year?: string; isbn?: string; notes?: string }[];
+  videos?: { url: string; title: string; source?: string }[];
+  source_url?: string;
+  source_name?: string;
+}
 
 export interface Squadron {
   slug: string;
@@ -15,6 +39,7 @@ export interface Squadron {
   memorials: Memorial[];
   total_crew: number;
   aircraft_types: string[];
+  history?: SquadronHistory;
 }
 
 // Known association URLs from Jack Sparrow heritage raid (7 Apr 2026)
@@ -128,8 +153,19 @@ export function getAllSquadrons(): Squadron[] {
       const assoc = ASSOCIATION_URLS[name];
       const { category, sort_number } = categorizeSquadron(name);
 
+      // Load enriched data if available
+      const slug = squadronSlug(name);
+      const enrichedPath = path.join(process.cwd(), 'public/data/squadrons', `${slug}.json`);
+      let history: SquadronHistory | undefined;
+      if (fs.existsSync(enrichedPath)) {
+        try {
+          const enriched = JSON.parse(fs.readFileSync(enrichedPath, 'utf8'));
+          history = enriched.history;
+        } catch { /* ignore malformed files */ }
+      }
+
       return {
-        slug: squadronSlug(name),
+        slug,
         name,
         category,
         sort_number,
@@ -140,6 +176,7 @@ export function getAllSquadrons(): Squadron[] {
         memorials: mems.sort((a, b) => a.title.localeCompare(b.title)),
         total_crew: totalCrew,
         aircraft_types: aircraftTypes,
+        history,
       };
     })
     .sort((a, b) => {

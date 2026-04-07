@@ -1,0 +1,71 @@
+{
+  "canonical_name": "578 Squadron",
+  "display_name": "No. 578 Squadron RAF",
+  "history": {
+    "formed": "Late 1943, from 51 Squadron at Snaith",
+    "disbanded": "15 March 1945",
+    "group": "4 Group, Bomber Command",
+    "station": "RAF Burn, North Yorkshire",
+    "total_sorties": 2722,
+    "total_operations": 161,
+    "total_targets": 107,
+    "tons_dropped": 9676,
+    "aircraft_lost": 46,
+    "killed": 219,
+    "pow": 60,
+    "aircraft_code": "LK-",
+    "summary": "578 Squadron was formed at the end of 1943, spawned from 51 Squadron at Snaith. Designated 578 Squadron and based at RAF Burn, 3 miles south of Selby, North Yorkshire, the squadron flew Halifax B Mk III bombers on operations from January 1944 until standing down on 15 March 1945. In fourteen months of operations, the squadron flew 2,722 sorties in 161 operations against 107 enemy targets, dropping 9,676 tons of bombs. 46 aircraft failed to return or crashed, and 219 airmen were killed, with at least 60 taken prisoner of war.",
+    "commanding_officers": [
+      { "name": "Wing Commander D S S Wilkerson DSO DFC", "honours": "DSO, DFC, Silver Star (USA, posthumous)", "period": "January–August 1944" },
+      { "name": "Wing Commander A G T James OBE", "honours": "OBE", "period": "August 1944–February 1945" },
+      { "name": "Wing Commander E L Hancock", "period": "February–March 1945" }
+    ],
+    "notable_personnel": [
+      {
+        "name": "Flying Officer Cyril Joe Barton",
+        "rank": "Flying Officer",
+        "distinction": "Victoria Cross",
+        "detail": "Only Halifax bomber pilot awarded the VC. On 30 March 1944, during a raid on Nuremberg, Barton's aircraft was attacked by Ju 88 and Me 210 fighters. His navigator, bomb aimer, and wireless operator bailed out in confusion. Barton pressed home the attack alone, flew 4.5 hours home on 3 engines, and crashed near Ryhope, Sunderland to avoid houses. Three crew survived; Barton did not. Age 22."
+      },
+      {
+        "name": "Wing Commander D S S Wilkerson",
+        "rank": "Wing Commander",
+        "distinction": "DSO, DFC, Silver Star (USA)",
+        "detail": "Founder and first CO of 578 Squadron. Led the squadron's first operation to Berlin on 20 January 1944. Killed 16 September 1944 in a Baltimore aircraft crash at RAF Rednal, Shropshire. Described by his crews as 'a prince among men' and 'the finest officer I had the privilege of serving under.' Age 27."
+      }
+    ],
+    "books": [
+      { "title": "Based at Burn Mk II", "author": "Hugh Cawdron", "year": "2001", "isbn": "095253171", "notes": "512pp, 68 photos, 24 drawings, 10 maps. Definitive work covering all 161 operations. Out of print." },
+      { "title": "Cyril Joe Barton V.C.", "author": "W.W. Lowther", "year": "1994", "isbn": "0-905108-39-6", "notes": "Out of print." },
+      { "title": "A History of 578 Squadron RAF", "author": "Charles Adams DFM", "year": "1983", "notes": "5 volumes, based on squadron records. Digitised online at 578squadron.org.uk." },
+      { "title": "The Pendulum and the Scythe", "author": "Ken Marshall", "year": "2016", "isbn": "978-1911255017", "notes": "No.4 Group history including Barton VC." }
+    ],
+    "videos": [
+      { "url": "https://www.youtube.com/watch?v=zKh8mkyrDuw", "title": "578 Squadron Burn — Veteran Interview Project", "source": "Emily Horton (granddaughter of F/Lt Geoffrey Sanders DFC)" },
+      { "url": "https://www.youtube.com/watch?v=A1xx7IcQRj8", "title": "Act of Remembrance at Balkholme", "source": "Ian Parker" },
+      { "url": "https://www.youtube.com/watch?v=3ajur8uyNNk", "title": "BBMF Lancaster flypast at Balkholme", "source": "Ian Parker" }
+    ],
+    "source_url": "https://578squadron.org.uk",
+    "source_name": "578 Squadron Burn Association"
+  },
+  "honours": {
+    "vc": 1,
+    "dso": 2,
+    "dfc": 144,
+    "dfm": 79,
+    "silver_star": 1
+  },
+  "roll_of_honour_count": 219,
+  "nationalities": {
+    "UK": 186,
+    "Canadian": 21,
+    "Australian": 9,
+    "New Zealand": 2,
+    "Polish": 1
+  },
+  "archives": {
+    "location": "Yorkshire Air Museum, Elvington",
+    "description": "23 volumes collected by Des Hollis. Digitised at Borthwick Institute for Archives, York University.",
+    "volumes": 23
+  }
+}
