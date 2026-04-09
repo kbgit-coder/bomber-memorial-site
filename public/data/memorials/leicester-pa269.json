@@ -8,7 +8,7 @@
   "crash_date": "04/02/1946 (post-war)",
   "aircraft_type": "Lancaster",
   "serial_number": "PA269",
-  "squadron": "300 (Polish) Sqdn.",
+  "squadron": "300 (Masovia) Squadron PAF",
   "station": "Faldingworth",
   "crew_summary": "Polish aircrew killed",
   "memorial_type": "Plaque",
@@ -279,14 +279,8 @@
   ],
   "location_confidence": {
     "status": "approximate",
-    "score": 1,
-    "sources": [
-      "Photon.komoot.io — Leicester city centre at 52.636 -1.133",
-      "Current 52.667 -1.047 ~4km north/east of centre — offset"
-    ],
     "verified_by": "Holly (PAI)",
     "verification_date": "2026-04-05",
-    "verification_notes": "CORRECTION. Current coords (52.667, -1.047) ~4km northeast of Leicester city centre. Updated to city centroid 52.636, -1.133.",
     "community_submissions": 0,
     "last_reviewed": "2026-04-06"
   },

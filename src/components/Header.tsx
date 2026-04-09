@@ -58,6 +58,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Home
@@ -73,6 +76,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Regions
@@ -88,6 +94,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Squadrons
@@ -103,6 +112,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Search
@@ -118,6 +130,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             About

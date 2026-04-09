@@ -28,6 +28,9 @@ RewriteRule ^(.*)$ $1.html [L]
     Header always unset X-Powered-By
 </IfModule>
 
+# Custom 404 page
+ErrorDocument 404 /404.html
+
 # Prevent directory listing
 Options -Indexes
 

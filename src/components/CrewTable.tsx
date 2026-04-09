@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { CrewMember } from "@/lib/types";
 
 interface CrewTableProps {
@@ -49,18 +50,35 @@ export default function CrewTable({ crew }: CrewTableProps) {
               >
                 <td style={tdStyle}>{member.rank || "\u2014"}</td>
                 <td style={{ ...tdStyle, fontWeight: 600 }}>
-                  {member.name}
-                  {member.service_number && member.service_number !== "\u2014" && (
-                    <div
-                      style={{
-                        fontSize: "0.75rem",
-                        color: "#999",
-                        fontWeight: 400,
-                      }}
-                    >
-                      {member.service_number}
+                  <div style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+                    {member.photo && (
+                      <div style={{
+                        width: 48,
+                        height: 48,
+                        borderRadius: "50%",
+                        overflow: "hidden",
+                        flexShrink: 0,
+                        border: "2px solid #e0dcd5",
+                        position: "relative",
+                      }}>
+                        <Image
+                          src={`/images/memorials/${member.photo}`}
+                          alt={`${member.name} portrait`}
+                          fill
+                          style={{ objectFit: "cover" }}
+                          unoptimized
+                        />
+                      </div>
+                    )}
+                    <div>
+                      {member.name}
+                      {member.service_number && member.service_number !== "\u2014" && (
+                        <div style={{ fontSize: "0.75rem", color: "#999", fontWeight: 400 }}>
+                          {member.service_number}
+                        </div>
+                      )}
                     </div>
-                  )}
+                  </div>
                 </td>
                 <td style={tdStyle}>{member.role || "\u2014"}</td>
                 <td style={tdStyle}>{member.age || "\u2014"}</td>

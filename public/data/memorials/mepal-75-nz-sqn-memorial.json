@@ -1,0 +1,90 @@
+{
+  "id": "mepal-75-nz-sqn-memorial",
+  "title": "Mepal — 75 (NZ) Squadron Memorial Garden",
+  "location_name": "Mepal, Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "latitude": 52.382,
+  "longitude": 0.014,
+  "memorial_type": "Memorial Garden — rose garden with octagonal base and circular memorial stone",
+  "memorial_address": "Corner of Laurel Close and High Street, Mepal, East Cambridgeshire CB6 2BN",
+  "squadron": "75 (NZ) Squadron RAF",
+  "squadron_display_name": "75 (NZ) Squadron RAF",
+  "squadron_aliases": [
+    "75 (NZ) Squadron",
+    "75 NZ Squadron",
+    "75 Squadron RNZAF"
+  ],
+  "station": "RAF Mepal",
+  "dedication_date": "1978-08-26",
+  "erected_by": "Former members of 75 New Zealand Squadron RAF",
+  "inscription": "This Plinth was donated by former members of 75 NEW ZEALAND SQUADRON R.A.F. stationed at Mepal between 1943 and 1945 IN REMEMBRANCE OF THOSE WHO FAILED TO RETURN",
+  "narrative": "75 (New Zealand) Squadron was the RNZAF's primary heavy bomber unit within Bomber Command, flying Stirlings and then Lancasters from RAF Mepal in Cambridgeshire from 1943 to 1945. The squadron drew heavily from New Zealand manpower and also flew with Australian, British, and Canadian crew. The human cost was severe: over 200 aircrew were killed from RAF Mepal operations. The memorial garden at the corner of Laurel Close and High Street in Mepal village was donated by former members of the squadron and dedicated on 26 August 1978 by the Rector of Mepal, with 350 veterans in attendance — a remarkable gathering thirty-three years after the war. The rose garden centres on an octagonal base with a circular memorial stone. The garden is maintained and accessible year-round in the village centre.",
+  "memorial_details": "Rose garden with lawn area in village centre at corner of Laurel Close and High Street, Mepal. Octagonal base with circular memorial stone donated by former members of 75 NZ Squadron. Dedicated 26 August 1978 by Revd John Bidder, Rector of Mepal, with 350 veterans present. Accessible and maintained. IWM War Memorials Register reference: IWM 46526.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register — 75 (NZ) Squadron RAF Memorial Garden",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/46526",
+      "type": "database"
+    },
+    {
+      "title": "Parks and Gardens — 75 NZ Squadron Mepal",
+      "url": "https://www.parksandgardens.org/places/75-nz-squadron-raf-memorial-garden",
+      "type": "website"
+    },
+    {
+      "title": "75 NZ Squadron Association",
+      "url": "https://75nzsquadron.wordpress.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Holly (PAI) — Squadron Deep Dive research",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "photos": [],
+  "what3words": "",
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/46526",
+      "summary": "IWM register entry for the 75 (NZ) Squadron Memorial Garden at Mepal. Records the rose garden with octagonal base and circular memorial stone, donated by former squadron members and dedicated 26 August 1978 with 350 veterans present.",
+      "key_details": [
+        "IWM reference 46526",
+        "Dedicated 26 August 1978 by Revd John Bidder, Rector of Mepal",
+        "350 veterans attended dedication",
+        "Rose garden with octagonal base and circular memorial stone"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    },
+    {
+      "source_site": "Parks and Gardens",
+      "original_url": "https://www.parksandgardens.org/places/75-nz-squadron-raf-memorial-garden",
+      "summary": "Parks and Gardens database entry for the 75 NZ Squadron Memorial Garden at Mepal, recording the garden's layout and significance as a New Zealand Squadron commemoration site.",
+      "key_details": [
+        "Corner of Laurel Close and High Street, Mepal CB6 2BN",
+        "Accessible and maintained year-round"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    },
+    {
+      "source_site": "75 NZ Squadron Association",
+      "original_url": "https://75nzsquadron.wordpress.com",
+      "summary": "75 NZ Squadron Association website covering the squadron's history at RAF Mepal and maintaining the connection to the memorial garden.",
+      "key_details": [
+        "Squadron stationed at RAF Mepal 1943–1945",
+        "Primary RNZAF heavy bomber unit in Bomber Command"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-09",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-09"
+  }
+}

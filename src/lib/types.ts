@@ -13,6 +13,7 @@ export interface CrewMember {
   bio?: string;
   hometown?: string;
   decorations?: string;
+  photo?: string;
 }
 
 export interface Source {
@@ -64,6 +65,21 @@ export interface AdditionalContributor {
   date?: string;
 }
 
+export interface LocationConfidence {
+  status: 'confirmed' | 'approximate' | 'estimated';
+  score?: number;
+  sources?: string[];
+  verified_by?: string;
+  verification_date?: string;
+  verification_notes?: string;
+  community_submissions?: number;
+  last_reviewed?: string;
+  // Legacy field names (kept for compatibility)
+  level?: 'verified' | 'approximate' | 'estimated';
+  method?: string;
+  notes?: string;
+}
+
 export interface Memorial {
   id: string;
   title: string;
@@ -104,4 +120,5 @@ export interface Memorial {
   additional_contributors?: AdditionalContributor[];
   last_updated?: string;
   data_quality?: 'Complete' | 'Partial' | 'Stub';
+  location_confidence?: LocationConfidence;
 }

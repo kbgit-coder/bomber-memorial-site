@@ -48,24 +48,31 @@ export default function AboutPage() {
 
       <div style={{ lineHeight: 1.8, fontSize: "1.05rem" }}>
         <p style={{ marginBottom: "1.5rem" }}>
-          The Bomber Command Memorial Register is a digital archive dedicated to
-          recording and honouring the memorials, crash sites, and aircrew of RAF
-          Bomber Command during the Second World War, 1939&ndash;1945.
+          The Bomber Command Memorial Register records the memorials, crash
+          sites, and aircrew of RAF Bomber Command during the Second World
+          War, 1939&ndash;1945. But it is about more than locations and
+          facts. It is about unearthing the local stories that inspired each
+          memorial &mdash; the crash itself, the community that witnessed it,
+          and the connection between village and crew that endures to this day.
         </p>
 
         <p style={{ marginBottom: "1.5rem" }}>
-          Bomber Command suffered one of the highest casualty rates of any branch
-          of service during the war. Of the 125,000 aircrew who served, 55,573
-          were killed &mdash; a loss rate of 44.4%. Many were very young men,
-          drawn from across the Commonwealth and Allied nations, who gave their
-          lives in the skies over occupied Europe.
+          Bomber Command suffered one of the highest casualty rates of any
+          branch of service during the war. Of the 125,000 aircrew who served,
+          55,573 were killed &mdash; a loss rate of 44.4%. Many were very young
+          men, drawn from across the Commonwealth and Allied nations, who gave
+          their lives in the skies over occupied Europe.
         </p>
 
         <p style={{ marginBottom: "1.5rem" }}>
-          Across the United Kingdom and beyond, communities have erected
-          memorials to remember the crews who fell near their homes. Some are
-          grand stone monuments; others are simple plaques on a village wall.
-          Each one tells a story of courage, sacrifice, and remembrance.
+          When Bomber Command&rsquo;s institutional commemoration arrived sixty
+          years late, the work of remembrance had long since fallen to civic
+          society: parishes, local historians, schoolchildren, and the families
+          of the dead. Across the United Kingdom, communities erected memorials
+          to remember the crews who fell near their homes. Some are grand stone
+          monuments; others are simple plaques on a village wall. Each one
+          carries a local story of courage, loss, and remembrance that deserves
+          to be told.
         </p>
 
         <h2
@@ -84,19 +91,19 @@ export default function AboutPage() {
 
         <p style={{ marginBottom: "1.5rem" }}>
           This register aims to document every known memorial to Bomber Command
-          aircrew, wherever they may be found. For each memorial we record its
-          location, the crew it commemorates, the aircraft involved, and the
-          circumstances of the loss. We believe that every crew member deserves
-          to be remembered by name.
+          aircrew and, for each one, to unearth the human story behind it: the
+          crew who were lost, the circumstances of the crash, and the local
+          people who chose to remember. We believe that every crew member
+          deserves to be remembered by name, and every community that built a
+          memorial deserves to have that act of remembrance recorded.
         </p>
 
         <p style={{ marginBottom: "1.5rem" }}>
           The register currently contains{" "}
-          <strong>{stats.totalMemorials} memorials</strong> across{" "}
-          <strong>{stats.countries} countries</strong>. Many entries are partial
-          &mdash; we know a memorial exists, but the full story remains to be
-          told. We welcome contributions from researchers, local historians,
-          families, and anyone with information to share.
+          <strong>{stats.totalMemorials} memorials</strong>. Many entries are
+          partial &mdash; we know a memorial exists, but the full story remains
+          to be told. We welcome contributions from researchers, local
+          historians, families, and anyone with information to share.
         </p>
 
         <h2
@@ -114,17 +121,23 @@ export default function AboutPage() {
         </h2>
 
         <p style={{ marginBottom: "1.5rem" }}>
-          This project was founded by <strong>Keith Binley</strong>, who has
-          spent years researching and photographing Bomber Command memorials
-          across the United Kingdom. The international data has been contributed
-          by <strong>Charlie Leitheiser</strong>, who has documented memorials
-          across Europe, North America, and the Asia-Pacific.
+          This project was founded by <strong>Keith Binley</strong>, inspired
+          by the memorial to Halifax MZ519 near his home in Farnsfield,
+          Nottinghamshire. Sitting with the farmer who had campaigned for its
+          erection &mdash; a man who, as a boy in 1944, witnessed the crew
+          laid out in a field after the crash &mdash; Keith realised that
+          these local stories were in danger of being lost as the eyewitness
+          generation passes. The connection between the seven young men of 578
+          Squadron and the village that continues to remember and commemorate
+          them became the inspiration for this register.
         </p>
 
         <p style={{ marginBottom: "1.5rem" }}>
           We are grateful to the many local historians, parish councils,
-          aviation archaeologists, and families who have shared their knowledge
-          and photographs.
+          squadron associations, aviation archaeologists, and families who
+          have shared their knowledge and photographs. Every memorial in this
+          register exists because someone in a community decided that these
+          crews should not be forgotten.
         </p>
 
         <h2

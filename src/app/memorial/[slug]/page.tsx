@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import {
   getAllMemorialSlugs,
   getMemorialBySlug,
+  getNearbyMemorials,
 } from "@/lib/data";
 import { getSquadronSlugForName } from "@/lib/squadrons";
 import CrewTable from "@/components/CrewTable";
@@ -62,6 +63,24 @@ export default function MemorialPage({ params }: Props) {
     Stub: { bg: "#5a3a1e", text: "#d4a88c" },
   };
   const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Partial"];
+
+  // Nearby memorials (only when we have coordinates)
+  const nearbyMemorials =
+    memorial.latitude != null && memorial.longitude != null
+      ? getNearbyMemorials(memorial.latitude, memorial.longitude, params.slug)
+      : [];
+
+  // Location confidence badge config
+  const lc = memorial.location_confidence;
+  // Support both 'status' (actual data) and 'level' (legacy spec field)
+  const lcStatus = lc?.status ?? lc?.level;
+  const lcBadge = lcStatus === 'confirmed' || lcStatus === 'verified'
+    ? { bg: '#1a4a1a', text: '#7ecb7e', label: 'Verified Location' }
+    : lcStatus === 'approximate'
+    ? { bg: '#4a3800', text: '#d4b84a', label: 'Approximate Location' }
+    : lcStatus === 'estimated'
+    ? { bg: '#4a1a1a', text: '#d47e7e', label: 'Estimated Location' }
+    : null;
 
   // Only show full_narrative when we haven't extracted crew data into the crew array yet
   // Once crew is structured, the raw narrative is redundant and messy
@@ -136,7 +155,7 @@ export default function MemorialPage({ params }: Props) {
 
       {/* Photos */}
       {memorial.photos && memorial.photos.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
+        <section style={{ marginBottom: "2.5rem" }} aria-label="Photograph gallery">
           <h2 style={sectionHeading}>Photographs</h2>
           <div style={{
             display: "grid",
@@ -196,7 +215,24 @@ export default function MemorialPage({ params }: Props) {
       {/* Location Map */}
       {memorial.latitude != null && memorial.longitude != null && (
         <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Location</h2>
+          <h2 style={{ ...sectionHeading, display: "flex", alignItems: "center", gap: "0.75rem", flexWrap: "wrap" }}>
+            Location
+            {lcBadge && (
+              <span aria-label={`Location confidence: ${lcBadge.label}`} style={{
+                fontSize: "0.7rem",
+                padding: "0.2rem 0.65rem",
+                borderRadius: 10,
+                fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                textTransform: "uppercase",
+                letterSpacing: "0.05em",
+                backgroundColor: lcBadge.bg,
+                color: lcBadge.text,
+                fontWeight: 600,
+              }}>
+                {lcBadge.label}
+              </span>
+            )}
+          </h2>
           {memorial.memorial_address && (
             <p style={{ color: "#333", fontSize: "0.95rem", marginBottom: "0.5rem" }}>
               {memorial.memorial_address}
@@ -222,11 +258,13 @@ export default function MemorialPage({ params }: Props) {
               {memorial.memorial_access_notes}
             </p>
           )}
-          <MemorialMap
-            memorials={[memorial]}
-            center={[memorial.latitude, memorial.longitude]}
-            zoom={13}
-          />
+          <div aria-label={`Map showing location of ${memorial.title}`} role="region">
+            <MemorialMap
+              memorials={[memorial]}
+              center={[memorial.latitude, memorial.longitude]}
+              zoom={13}
+            />
+          </div>
           {memorial.what3words && (
             <p style={{ marginTop: "0.75rem", fontSize: "0.9rem" }}>
               <span style={{ color: "#999" }}>what3words: </span>
@@ -240,6 +278,51 @@ export default function MemorialPage({ params }: Props) {
               </a>
             </p>
           )}
+        </section>
+      )}
+
+      {/* Nearby Memorials */}
+      {nearbyMemorials.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Nearby Memorials</h2>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: "1rem" }}>
+            {nearbyMemorials.map((nearby) => (
+              <Link
+                key={nearby.id}
+                href={`/memorial/${nearby.id}`}
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <article style={{
+                  backgroundColor: "#ffffff",
+                  border: "1px solid #e0dcd5",
+                  borderRadius: 8,
+                  padding: "1rem 1.25rem",
+                  transition: "box-shadow 0.2s ease, border-color 0.2s ease",
+                  cursor: "pointer",
+                  height: "100%",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "0.35rem",
+                }} className="memorial-card">
+                  <div style={{
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    color: "#1a2332",
+                    fontSize: "0.95rem",
+                    fontWeight: 600,
+                    lineHeight: 1.3,
+                  }}>
+                    {nearby.title}
+                  </div>
+                  <div style={{ fontSize: "0.8rem", color: "#8b7355", fontWeight: 500 }}>
+                    {nearby.distanceMiles.toFixed(1)} miles away
+                  </div>
+                  {nearby.county && (
+                    <div style={{ fontSize: "0.8rem", color: "#666" }}>{nearby.county}</div>
+                  )}
+                </article>
+              </Link>
+            ))}
+          </div>
         </section>
       )}
 
@@ -309,14 +392,53 @@ export default function MemorialPage({ params }: Props) {
       )}
 
       {/* Crew Table */}
-      {memorial.crew && memorial.crew.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>
-            Crew ({memorial.crew.length} {memorial.crew.length === 1 ? "member" : "members"})
-          </h2>
-          <CrewTable crew={memorial.crew} />
-        </section>
-      )}
+      {memorial.crew && memorial.crew.length > 0 && (() => {
+        const crewKeywords = ["crew", "aircrew", "airmen", "group photo", "team photo", "crew of"];
+        const groupCrewPhotos = (memorial.photos || []).filter((p) => {
+          const caption = (p.caption || "").toLowerCase();
+          return crewKeywords.some((kw) => caption.includes(kw));
+        });
+        return (
+          <section style={{ marginBottom: "2.5rem" }} aria-label="Crew members">
+            <h2 style={sectionHeading}>
+              Crew ({memorial.crew.length} {memorial.crew.length === 1 ? "member" : "members"})
+            </h2>
+            {groupCrewPhotos.length > 0 && (
+              <div style={{ marginBottom: "1.5rem" }}>
+                {groupCrewPhotos.map((photo, i) => (
+                  <figure key={i} style={{ margin: "0 0 1rem 0" }}>
+                    <div style={{
+                      borderRadius: 8,
+                      overflow: "hidden",
+                      border: "1px solid #e0dcd5",
+                      borderLeft: "3px solid #8b7355",
+                      position: "relative",
+                      aspectRatio: "16/9",
+                      maxHeight: 360,
+                    }}>
+                      <Image
+                        src={`/images/memorials/${photo.filename}`}
+                        alt={photo.caption || `${memorial.title} crew photograph`}
+                        fill
+                        style={{ objectFit: "contain" }}
+                        sizes="(max-width: 900px) 100vw, 860px"
+                        unoptimized
+                      />
+                    </div>
+                    {photo.caption && (
+                      <figcaption style={{ fontSize: "0.85rem", color: "#666", marginTop: "0.5rem", fontStyle: "italic" }}>
+                        {photo.caption}
+                        {photo.credit && <span style={{ color: "#999" }}> — Credit: {photo.credit}</span>}
+                      </figcaption>
+                    )}
+                  </figure>
+                ))}
+              </div>
+            )}
+            <CrewTable crew={memorial.crew} />
+          </section>
+        );
+      })()}
 
       {/* Crew Summary (when no detailed crew array) */}
       {memorial.crew_summary && (!memorial.crew || memorial.crew.length === 0) && (

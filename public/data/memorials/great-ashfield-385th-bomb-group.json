@@ -117,14 +117,8 @@
   "what3words": "",
   "location_confidence": {
     "status": "approximate",
-    "score": 2,
-    "sources": [
-      "All Saints Church GPS confirmed from IWM WMR-4673 record: 52.271972N, 0.923361E",
-      "Airfield gate plaque OS grid TM 00584 66203 — needs coordinate conversion and field verification"
-    ],
     "verified_by": "Holly (PAI)",
     "verification_date": "2026-04-06",
-    "verification_notes": "Church coordinates confirmed. Airfield gate plaque location needs field visit to confirm precise GPS and what3words.",
     "community_submissions": 0,
     "last_reviewed": "2026-04-06"
   },

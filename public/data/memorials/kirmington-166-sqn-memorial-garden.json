@@ -1,0 +1,76 @@
+{
+  "id": "kirmington-166-sqn-memorial-garden",
+  "title": "Kirmington — 166 Squadron Memorial Garden",
+  "location_name": "Kirmington, North Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "latitude": 53.587294,
+  "longitude": -0.331991,
+  "memorial_type": "Memorial Garden",
+  "memorial_address": "Main Street, Kirmington, North Lincolnshire DN39 6YW",
+  "squadron": "166 Squadron RAF",
+  "squadron_display_name": "166 Squadron RAF",
+  "squadron_aliases": [
+    "166 Squadron",
+    "166 Sqdn."
+  ],
+  "station": "RAF Kirmington",
+  "dedication_date": "1988-09-03",
+  "erected_by": "166 Squadron Association members",
+  "inscription": "YE THAT LIVE ON MID ENGLAND'S PASTURES GREEN / THINK ON US AND WHAT MIGHT HAVE BEEN / THIS MEMORIAL IS DEDICATED TO ALL THE MEN AND WOMEN WHO SERVED WITH 166 SQUADRON / AT ROYAL AIR FORCE KIRMINGTON 1943-1945 / OF WHOM 921 GAVE THEIR LIVES THAT WE MIGHT BE FREE",
+  "crew_summary": "921 aircrew killed serving with 166 Squadron at RAF Kirmington 1943-1945",
+  "narrative": "166 Squadron flew Lancaster bombers from RAF Kirmington in North Lincolnshire from January 1943 to the end of the war. In that time, the squadron flew 5,061 sorties, lost 178 aircraft, and saw 921 of its airmen killed — one of the heaviest toll figures in Bomber Command. The Memorial Garden in the centre of Kirmington village was established by the 166 Squadron Association and dedicated in September 1988. It stands as the primary commemorative site for one of the most active and costly Lancaster squadrons of the strategic bombing campaign. The stone of remembrance, mounted with a Lancaster propeller blade on a plinth, and surrounded by three flagpoles and memorial benches, provides a tangible focus for remembrance in the community that lived beside the airfield. A black marble tablet marks the 70th anniversary of Operation Manna — the food-drop mission to occupied Holland in April-May 1945 — in which 166 Squadron participated.",
+  "memorial_details": "Stone of Remembrance with a Lancaster propeller blade mounted on a plinth. Three flagpoles. Black marble tablet commemorating the 70th anniversary of Operation Manna. Two memorial benches. Primary squadron memorial for 166 Squadron RAF. Located in the village centre, accessible year-round. IWM War Memorials Register reference: IWM 51736.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register — 166 Squadron Memorial Garden",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/51736",
+      "type": "database"
+    },
+    {
+      "title": "RAF 166 Squadron Association",
+      "url": "https://www.raf166squadron.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Holly (PAI) — Squadron Deep Dive research",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "photos": [],
+  "what3words": "",
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/51736",
+      "summary": "IWM register entry for the 166 Squadron Memorial Garden at Kirmington. Records the stone of remembrance with Lancaster propeller blade, three flagpoles, black marble Operation Manna tablet, and two memorial benches. Dedicated 3 September 1988.",
+      "key_details": [
+        "IWM reference 51736",
+        "921 aircrew commemorated",
+        "Dedicated 3 September 1988 by 166 Squadron Association",
+        "Primary squadron memorial at village centre"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    },
+    {
+      "source_site": "RAF 166 Squadron Association",
+      "original_url": "https://www.raf166squadron.com",
+      "summary": "166 Squadron Association website documenting the unit's history at RAF Kirmington 1943-1945: 5,061 sorties flown, 178 aircraft lost, 921 aircrew killed. Association maintains connection to the Kirmington memorial.",
+      "key_details": [
+        "5,061 sorties flown by 166 Squadron",
+        "178 aircraft lost",
+        "921 aircrew killed",
+        "Association active and maintaining memorial connection"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-09",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-09"
+  }
+}

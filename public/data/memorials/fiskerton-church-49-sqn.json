@@ -1,0 +1,69 @@
+{
+  "id": "fiskerton-church-49-sqn",
+  "title": "Fiskerton — St Clement's Church, 49 Squadron Memorial",
+  "location_name": "Fiskerton, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "latitude": 53.218,
+  "longitude": -0.414,
+  "memorial_type": "Church memorial",
+  "memorial_address": "St Clement's Church, Fiskerton, Lincolnshire LN3",
+  "squadron": "49 Squadron RAF",
+  "squadron_display_name": "49 Squadron RAF",
+  "squadron_aliases": [
+    "49 Squadron",
+    "49 Sqdn."
+  ],
+  "station": "RAF Fiskerton",
+  "narrative": "The parish church of St Clement at Fiskerton in Lincolnshire is the village church closest to the former RAF Fiskerton airfield, from which 49 Squadron flew Lancaster bombers during World War Two. The church holds a 49 Squadron memorial and is the site of the annual Remembrance Sunday service held by the 49 Squadron Association, complementing the service at the former airfield site. The use of the parish church as a site of remembrance reflects the deep integration of the wartime air station into village life — the men of 49 Squadron were not remote figures but part of the community, using the village church, its pub, and its streets during their time at Fiskerton.",
+  "memorial_details": "49 Squadron memorial inside St Clement's Church, Fiskerton. Annual Remembrance Sunday service held here by the 49 Squadron Association, alongside service at the former airfield site. Church is publicly accessible.",
+  "sources": [
+    {
+      "title": "49 Squadron Association Memorials",
+      "url": "https://www.49squadron.co.uk/memorials",
+      "type": "website"
+    },
+    {
+      "title": "Fiskerton Parish Council",
+      "url": "https://fiskerton.parish.lincolnshire.gov.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Holly (PAI) — Squadron Deep Dive research",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "photos": [],
+  "what3words": "",
+  "external_narratives": [
+    {
+      "source_site": "49 Squadron Association",
+      "original_url": "https://www.49squadron.co.uk/memorials",
+      "summary": "49 Squadron Association memorials page documenting the annual Remembrance Sunday service at St Clement's Church, Fiskerton, held alongside the service at the former RAF Fiskerton airfield site.",
+      "key_details": [
+        "Annual Remembrance Sunday service at St Clement's Church",
+        "49 Squadron Association returns each year",
+        "Companion service at former airfield memorial"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    },
+    {
+      "source_site": "Fiskerton Parish Council",
+      "original_url": "https://fiskerton.parish.lincolnshire.gov.uk",
+      "summary": "Fiskerton Parish Council website covering the village of Fiskerton and its connection to the former RAF Fiskerton airfield and 49 Squadron heritage.",
+      "key_details": [
+        "St Clement's Church, Fiskerton LN3",
+        "Village church adjacent to former RAF Fiskerton airfield site"
+      ],
+      "date_retrieved": "2026-04-07",
+      "still_live": true
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-09",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-09"
+  }
+}

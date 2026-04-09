@@ -127,6 +127,45 @@ export function getWeekLabel(): string {
   return `Week ${weekNumber}, ${now.getFullYear()}`;
 }
 
+/**
+ * Haversine distance in kilometres between two lat/lng points.
+ */
+function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLng = ((lng2 - lng1) * Math.PI) / 180;
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos((lat1 * Math.PI) / 180) *
+      Math.cos((lat2 * Math.PI) / 180) *
+      Math.sin(dLng / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
+
+export function getNearbyMemorials(
+  lat: number,
+  lng: number,
+  excludeSlug: string,
+  limit = 5,
+  maxDistanceKm = 50
+): Array<Memorial & { distanceMiles: number }> {
+  const all = getAllMemorials();
+  return all
+    .filter(
+      (m) =>
+        m.id !== excludeSlug &&
+        m.latitude != null &&
+        m.longitude != null
+    )
+    .map((m) => ({
+      ...m,
+      distanceMiles: haversineKm(lat, lng, m.latitude!, m.longitude!) * 0.621371,
+    }))
+    .filter((m) => m.distanceMiles <= maxDistanceKm * 0.621371)
+    .sort((a, b) => a.distanceMiles - b.distanceMiles)
+    .slice(0, limit);
+}
+
 export function getMemorialStats() {
   const all = getAllMemorials();
   const withCrew = all.filter((m) => m.crew && m.crew.length > 0);

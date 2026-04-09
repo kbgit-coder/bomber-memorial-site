@@ -82,15 +82,8 @@
   "what3words": "permanent.lyricist.voltages",
   "location_confidence": {
     "status": "confirmed",
-    "score": 2,
-    "sources": [
-      "Local contact Tim Barrott: map was for far side of Braintree (Wave 1 CRM response)",
-      "Local contact Jill Hamblin: confirms link does not refer to Ardleigh (Wave 1 CRM response)",
-      "OSM/Photon geocode: Millennium Green, Ardleigh CO7 — 51.923, 0.985"
-    ],
     "verified_by": "Tim Barrott + Jill Hamblin (local contacts), Holly (PAI geocoding)",
     "verification_date": "2026-04-06",
-    "verification_notes": "Previous coords (51.926, 0.512) were ~30km too far west near Chelmsford. Memorial on Millennium Green, Ardleigh CO7. Two local contacts independently confirmed error; geocoding confirms correct village. Precise pin within Millennium Green TBC — approximate-to-confirmed upgrade when pinpointed.",
     "community_submissions": 2,
     "last_reviewed": "2026-04-06"
   },
