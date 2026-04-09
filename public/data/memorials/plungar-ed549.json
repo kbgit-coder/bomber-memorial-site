@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.8971,
   "longitude": -0.8592,
@@ -48,7 +48,7 @@
         "Aircraft was returning from mine-laying operation over France"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "War Memorials Online",
@@ -164,5 +164,44 @@
   "squadron_aliases": [
     "100 Sqdn.",
     "100 Squadron"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "G. R. Avey",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. D. Cumberbatch",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Ds. Davies",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "B. T. Hallett",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. R. Landry",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. Robinson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. H. Spence",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Avro Lancaster ED549\nType: Stone of remembrance\nDescription: Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\nInscription: IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / (Names) / (Name) / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM\nLocation: Opposite Grange Farm on the Grantham Canal Plungar Melton Leicestershire NG13 0JJ England\nGrid Ref: SK 76582 34275\nCoordinates: 52.900471341632,-0.862924895393\nPhotos: https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg",
+  "narrative": "IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / (Names) / (Name) / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM"
 }

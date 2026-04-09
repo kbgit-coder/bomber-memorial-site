@@ -6,7 +6,7 @@ interface CrewTableProps {
 }
 
 export default function CrewTable({ crew }: CrewTableProps) {
-  const hasBios = crew.some((m) => m.bio || m.hometown);
+  const hasBios = crew.some((m) => m.bio || m.hometown || m.fate_detail);
 
   return (
     <div>
@@ -174,7 +174,7 @@ export default function CrewTable({ crew }: CrewTableProps) {
           </h3>
           <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
             {crew
-              .filter((m) => m.bio || m.hometown)
+              .filter((m) => m.bio || m.hometown || m.fate_detail)
               .map((member, index) => (
                 <div
                   key={index}
@@ -225,9 +225,24 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       From {member.hometown}
                     </p>
                   )}
-                  <p style={{ fontSize: "0.9rem", color: "#444", lineHeight: 1.7, margin: 0 }}>
-                    {member.bio}
-                  </p>
+                  {member.fate_detail && (
+                    <p style={{
+                      fontSize: "0.9rem",
+                      color: "#555",
+                      lineHeight: 1.7,
+                      margin: member.bio ? "0 0 0.4rem" : 0,
+                      fontStyle: "italic",
+                      borderLeft: "2px solid #c9b98a",
+                      paddingLeft: "0.75rem",
+                    }}>
+                      {member.fate_detail}
+                    </p>
+                  )}
+                  {member.bio && (
+                    <p style={{ fontSize: "0.9rem", color: "#444", lineHeight: 1.7, margin: 0 }}>
+                      {member.bio}
+                    </p>
+                  )}
                 </div>
               ))}
           </div>

@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.025,
   "longitude": -0.6033,
@@ -70,7 +70,7 @@
         "International documentation of the memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -106,5 +106,39 @@
   "squadron_display_name": "460 Squadron RAAF",
   "squadron_aliases": [
     "460 (RAAF) Sqdn."
-  ]
+  ],
+  "crew": [
+    {
+      "name": "G. M. Dockery",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. J. Downing",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. A. G. Miller",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "F. A. C. Nesbit-bell",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. L. Pope",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. G. Robinson",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Avro Lancaster PB812 - tablet\nType: Board / Plaque / Tablet\nDescription: A grey slate plaque attached to the wall, commemorating a WW2 Lancaster loss. Inscribed Bomber Command, and Royal Australian Air Force badges appear in the top corners. The inscription and names, in a single column, are inscribed and picked out in white.\nInscription: IN MEMORY OF THE VALOUR AND SACRIFICE/ OF THE LAST CREW OF/ AVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF/ WHICH CRASHED NEAR THE OLD/ CAYTHORPE RAILWAY STATION AT 15:50/ ON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD/ (Names)/ LEST WE FORGET/ PLAQUE DEDICATION 10TH SEPTEMBER 2016\nLocation: On the wall adjacent to the 5 Infantry brigade memorial St Vincent's Church Church Lane Caythorpe South Kesteven Lincolnshire NG32 3DU England\nGrid Ref: SK 93890 48570\nCoordinates: 53.026193209292,-0.601552270736\nPhotos: https://media.iwm.org.uk/ciim5/memorials/74/792/large_lancaster_pb812_plaque.jpg; https://media.iwm.org.uk/ciim5/memorials/74/793/large_caythorpe___lancaster_pb812.jpg",
+  "narrative": "IN MEMORY OF THE VALOUR AND SACRIFICE/ OF THE LAST CREW OF/ AVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF/ WHICH CRASHED NEAR THE OLD/ CAYTHORPE RAILWAY STATION AT 15:50/ ON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD/ (Names)/ LEST WE FORGET/ PLAQUE DEDICATION 10TH SEPTEMBER 2016"
 }

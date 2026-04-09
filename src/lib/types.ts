@@ -80,6 +80,20 @@ export interface LocationConfidence {
   notes?: string;
 }
 
+export interface RemembranceEvent {
+  name: string;
+  date?: string;
+  description?: string;
+}
+
+export interface Remembrance {
+  annual_service?: boolean;
+  service_date?: string;
+  service_description?: string;
+  last_known_event?: string;
+  events?: RemembranceEvent[];
+}
+
 export interface Memorial {
   id: string;
   title: string;
@@ -90,6 +104,7 @@ export interface Memorial {
   country?: string;
   region_code?: string;
   what3words?: string;
+  os_grid_reference?: string;
   crash_date?: string;
   aircraft_type?: string;
   serial_number?: string;
@@ -108,6 +123,7 @@ export interface Memorial {
   memorial_name?: string;
   memorial_address?: string;
   memorial_access_notes?: string;
+  memorial_details?: string;
   erected_by?: string;
   dedication_date?: string;
   condition?: string;
@@ -118,6 +134,8 @@ export interface Memorial {
   sources?: Source[];
   contributor?: string;
   additional_contributors?: AdditionalContributor[];
+  community_connection?: string;
+  remembrance?: Remembrance;
   last_updated?: string;
   data_quality?: 'Complete' | 'Partial' | 'Stub';
   location_confidence?: LocationConfidence;

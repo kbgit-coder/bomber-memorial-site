@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "On the night of 22 October 1944, Halifax LL505 departed RAF Topcliffe on a routine night navigation training exercise. The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
   "crew": [
@@ -120,11 +120,16 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Pyche was flying as a supernumerary to add logbook hours, not as part of the regular crew.",
       "cwgc_verified": true
+    },
+    {
+      "name": "D. Riddoch",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Pilot descended below cloud base to obtain visual fix; aircraft failed to clear ridge by a few feet",
   "operation_type": "Training",
-  "memorial_details": "A stone memorial cairn stands on the fellside of Great Carrs, accessible via a hill walk from Wrynose Pass or the Wetherlam approach. Substantial wreckage remains visible at the crash site, including undercarriage components. The site is a popular objective for fell walkers and aviation historians. A wooden cross was placed at the site earlier, and the memorial cairn was added subsequently. The crash site is now permanently protected as part of the Lake District UNESCO World Heritage Site (designated 2017).",
+  "memorial_details": "Name: Handley Page Halifax LL505\nType: Trophy / Relic\nDescription: A rough cairn made of local stones and wreckage of the aircraft undercarriage topped by a wooden cross with a small metal plaque with a badge on the cross.\nInscription: Metal Plaque-HALIFAX BOMBER/LL 505-‘S’ FOR SUGAR/RCAF/OCTOBER 22, 1944 Slate Plaque-In Memory of/8 Crew Members of Halifaz LL505/From No. 1659 HCU Topcliffe/who lost their lives on this site/on 22nd October 1944/[names]/RIP\nLocation: 1 1/2 miles SW of Wrynose Pass Mountain summit South of the Three Shire Stone on Wrynose Pass between Cockley Beck & Little Langdale South Lakeland Cumbria LA20 6EG England\nGrid Ref: NY 27226 00833\nCoordinates: 54.397748134172,-3.122407739920\nPhotos: https://media.iwm.org.uk/ciim5/memorials/42/892/halifax_ll505_setting.jpg; https://media.iwm.org.uk/ciim5/memorials/42/893/halifax_ll505_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/42/894/halifax_ll505_cross_inscription.jpg",
   "latitude": 54.3988,
   "longitude": -3.1248,
   "maintainer": {
@@ -156,7 +161,7 @@
       "summary": "TracesOfWar entry for the Halifax LL505 'S for Sugar' crash site. Substantial wreckage remains visible including undercarriage components. Two Rolls-Royce Merlin engines were recovered by RAF helicopter; one is on display at the Ruskin Museum, Coniston.",
       "key_details": "Six of seven Canadians are buried at Blacon Cemetery, Chester. The sole British crew member (Sgt Ferguson) is buried at New Monkland Cemetery, Lanarkshire. Site is within the Lake District UNESCO World Heritage Site.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Yorkshire Aircraft",

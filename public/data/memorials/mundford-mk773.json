@@ -29,7 +29,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "On 22 March 1945, with the war in Europe entering its final weeks, Lancaster HK773 of 15 Squadron taxied out at RAF Mildenhall in Suffolk for what should have been a routine departure for operations. Moments after becoming airborne at 11:00 hours, a fire erupted in the port outer engine. The pilot, Warrant Officer Newton of the Royal Australian Air Force, found himself in an impossible situation -- his aircraft was too low and too slow to bail the crew out, and too heavily laden with fuel and ordnance to maintain flight on three engines. Newton attempted an emergency crash landing in Thetford Forest, just across the county border in Norfolk near the village of Mundford. The Lancaster struck the trees and ploughed into the forest floor. On impact, the 4,000 lb \"Blockbuster\" high-capacity bomb in the bomb bay detonated, creating an enormous crater and killing all seven crew members instantly. The violence of the explosion was such that fragments of the aircraft are still being found in the surrounding forest today.",
   "crew": [
@@ -123,11 +123,16 @@
       "cwgc_verified": true,
       "bio": "Flight engineer serving with the RAFVR, aged 20.",
       "decorations": []
+    },
+    {
+      "name": "R. Norris",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Fire in port outer engine shortly after take-off; pilot attempted emergency crash landing; 4,000 lb \"Blockbuster\" bomb detonated on impact",
   "operation_type": "Taking off for operations",
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Memorial garden with granite stone, eight crosses, Lancaster imagery, RAF roundel, Australian and UK flags; surrounded by recovered aircraft fragments | | Location | Crash site in Thetford Forest, near Mundford, Norfolk | | Original dedication | 1999 (following 1998 site investigation) | | Updated | March 2020 -- new memorial garden with concrete base, original plaque relocated | | Organised by | Mundford village volunteers, with Forestry Commission cooperation | | Condition | Well-maintained; active site with continuing finds | | Access | Within Thetford Forest; crater still visible | | WMO Reference | 193683 |",
+  "memorial_details": "Name: Avro Lancaster HK773\nType: Board / Plaque / Tablet\nDescription: Brass plaque with incised inscription in capital lettering below the badge of the RAF.\nInscription: IN MEMORY OF THE CREW OF/ LANCASTER BOMBER HK 773 LS-W/ OF XV SQUADRON WHO LOST THEIR/ LIVES WHEN THE AIRCRAFT CRASHED/ IN THE NEARBY FOREST AT 11:00 AM/ ON 22 MARCH 1945 HAVING TAKEN/ OF FROM RAF MILDENHALL/ (Names)/ ALSO/ (Name)/ KILLED JUNE 1ST 1944/ A MEMBER OF A SISTEER CREW.\nLocation: St Leonard's Church Mundford Breckland Norfolk IP26 5DZ England\nGrid Ref: TL 80049 93803\nCoordinates: 52.512372417477,0.651836480344\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/380/large_12_0.jpg; https://media.iwm.org.uk/ciim5/memorials/174/221/99108.jpg",
   "latitude": 52.51289038162398,
   "longitude": 0.6539901257060002,
   "maintainer": {
@@ -167,7 +172,7 @@
         "Documented on international war heritage database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Thetford & Brandon Times",
@@ -192,6 +197,12 @@
       "org_name": "Mundford Parish Council",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Memorial contact — Rod Billen (local resident, referred by parish council)",
+      "email": "info@mundfordparishcouncil.gov.uk",
+      "org_name": "Mundford Parish Council",
+      "org_type": "Parish Council"
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/15.jpg",

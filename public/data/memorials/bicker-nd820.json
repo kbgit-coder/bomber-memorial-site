@@ -34,7 +34,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "Lancaster ND820 took off from RAF Downham Market in Norfolk at 10:58 on the morning of 10 April 1944 for a bombing practice flight. The brand-new aircraft had only 6 hours of airtime. Just 22 minutes later, the aircraft was in serious trouble. Over Swineshead, witnesses saw the Lancaster catch fire. The auto-pilot is suspected of having malfunctioned, causing the aircraft to enter a diving turn at 8,000 feet. As the stricken bomber crossed over the village of Bicker, a figure was seen bailing out — this was F/O Thomas Ferguson Wilson, the 26-year-old Canadian navigator from Lucknow, Ontario. Wilson's parachute opened, but he was already dead or dying when he reached the ground. He is buried at Stonefall Cemetery in Harrogate. The Lancaster crashed in flames at Bicker, and the remaining six crew were killed. The fire was so intense that their remains could not be recovered; they are commemorated on the Runnymede Memorial. For decades, the people of Bicker honoured the seven men in an annual ceremony — and Wilson's family in Canada had no idea. It was not until recently that Canadian journalist CBC News connected the family with the Bicker community. The reunion of family and village was deeply emotional.",
   "crew": [
@@ -116,11 +116,16 @@
       "cwgc_verified": true,
       "bio": "F/O Wilson was 26 years old, from Lucknow, Ontario, Canada. For decades his family had no idea that the village of Bicker held annual commemoration ceremonies in his honour. CBC News recently connected the family with the Bicker community in a deeply emotional reunion.",
       "hometown": "Lucknow, Ontario, Canada"
+    },
+    {
+      "name": "J. B. Barran",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Suspected auto-pilot malfunction; aircraft entered diving turn at 8,000 feet and caught fire; brand-new aircraft with only 6 hours airtime",
   "operation_type": "Training",
-  "memorial_details": "A stone memorial plaque set into a brick cairn supporting a cross was unveiled on 10 April 2004 — the 60th anniversary, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG). Located on Eaudike Road, Bicker. Annual commemoration ceremonies have been held ever since. Condition: good.",
+  "memorial_details": "Name: Avro Lancaster ND820\nType: Pillar / Column\nDescription: Rectangular brick pillar surmounted by a white cross, set on slabs and surrounded by posts and chain links . Dedicatory plaque placed on Face 1 with a smaller plaque above it depicting the squadron badge.\nInscription: +/ To the Glory of God/ and in honoured memory of/ (Names)/ Who lost their lives when Avro Lancaster (ND820) 635 Squadron/ crashed here while on a flight from RAF Downham Market/ Monday 10th April 1944/ Who now lie at rest in the surrounding fields./ Their names are commemorated on the/ Runnymede Memorial to the Missing./ Also in memory of crew member/ (Name) Buried in Stonefall Cemetery, Harrogate./ This memorial was commissioned by the/ Lincolnshire Aircraft Recovery Group.\nLocation: Eaudike Road Bicker Boston Lincolnshire PE20 3AB England\nGrid Ref: TF 22614 36800\nCoordinates: 52.914639676605,-0.177945389835\nPhotos: https://media.iwm.org.uk/ciim5/memorials/47/905/large_59226.jpg; https://media.iwm.org.uk/ciim5/memorials/128/32/large_nd820_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/128/33/large_nd820_memorial_plaques.jpg; https://media.iwm.org.uk/ciim5/memorials/128/34/large_nd820_memorial_plaque_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/128/35/large_nd820_memorial_in_context.jpg",
   "latitude": 52.911049,
   "longitude": -0.178319,
   "maintainer": {
@@ -174,7 +179,7 @@
         "Reunion described as deeply emotional"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -188,6 +193,12 @@
       "org_name": "Bicker Parish Council",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Memorial liaison — Dave Stubley (referred by parish clerk)",
+      "email": "bickerpc@gmail.com",
+      "org_name": "Bicker Parish Council",
+      "org_type": "Parish Council"
     }
   ],
   "what3words": "juggler.event.though",
@@ -229,5 +240,14 @@
   "squadron_aliases": [
     "635 Sqdn.",
     "635 Squadron"
-  ]
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial event",
+        "date": "April 2026",
+        "description": "Memorial event held at Bicker (reported by parish council, exact date TBC)"
+      }
+    ]
+  }
 }

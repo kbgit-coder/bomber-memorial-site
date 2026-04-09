@@ -16,7 +16,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 54.0747,
   "longitude": -1.1149,
@@ -125,5 +125,25 @@
   "squadron_display_name": "Various squadrons based at East Moor",
   "squadron_aliases": [
     "Various squadrons based at East Moor"
-  ]
+  ],
+  "memorial_details": "Name: 415 429 and 432 Squadrons RCAF Eastmoor Airfield\nType: Sundial\nDescription: Sandstone Base on which is mounted a Westmoreland slate base, plinth and sundial. Inscription on the base and column. Badge of the RCAF on front face and 429 Squadron on the rear face. Badged of 415 Squadron on left side.and 432 Squadron on right.\nInscription: BASE, FRONT FACE: THIS MEMORIAL IS DEDICATED TO ALL WHO SERVED AT EASTMOOR/ IN WORLD WAR II. MANY OF WHOM GAVE THEIR LIVES AND IN/ GRATITUDE TO THE PEOPLE OF YORKSHIRE WHO WELCOMED THEM. BASE, REAR FACE: ERECTED BY THEIR FAMILIES AND FORMER COLLEAGUES/ DEDICATED THIS 2ND DAY OF JUNE 1990 FORTUNAE NIHIL/ NOV 1942 - AUG 1943 BASE, RIGHT FACE: SAEVITER AD LUCEM/ SEP 1943 - MAY 1945 BASE, LEFT FACE: AD METUM/ JULY 1944 - MAY 1945 Base of Gnomen: RAF EASTMOOR 54, 04'N 01.05'W\nLocation: Junction of roads from Stillington to York. The sundial occupies a small garden which has been created out of the former village pound. Sutton On The Forest Hambleton North Yorkshire YO61 1EQ England\nGrid Ref: SE 58878 64762\nCoordinates: 54.075430675230,-1.101644018433\nPhotos: https://media.iwm.org.uk/ciim5/memorials/45/340/large_29901_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/171/953/large_29901.jpg; https://media.iwm.org.uk/ciim5/memorials/45/341/large_29901_dial.jpg",
+  "narrative": "BASE, FRONT FACE: THIS MEMORIAL IS DEDICATED TO ALL WHO SERVED AT EASTMOOR/ IN WORLD WAR II. MANY OF WHOM GAVE THEIR LIVES AND IN/ GRATITUDE TO THE PEOPLE OF YORKSHIRE WHO WELCOMED THEM. BASE, REAR FACE: ERECTED BY THEIR FAMILIES AND FORMER COLLEAGUES/ DEDICATED THIS 2ND DAY OF JUNE 1990 FORTUNAE NIHIL/ NOV 1942 - AUG 1943 BASE, RIGHT FACE: SAEVITER AD LUCEM/ SEP 1943 - MAY 1945 BASE, LEFT FACE: AD METUM/ JULY 1944 - MAY 1945 Base of Gnomen: RAF EASTMOOR 54, 04'N 01.05'W\nSquadrons: 429 Squadron, 415 Squadron, 432 Squadron",
+  "additional_contributors": [
+    {
+      "name": "Anthony Prowde",
+      "role": "Local organiser — memorial service photos (2025), RCAF connections, Helperby Brafferton memorial information",
+      "date": "2026-04-09"
+    }
+  ],
+  "remembrance": {
+    "service_description": "Annual memorial service at East Moor cairn. Representatives of the Royal Canadian Air Force attend, including officers from 415 Squadron. Programme includes visits to Commonwealth War Graves near Harrogate and guided tours.",
+    "annual_service": true,
+    "events": [
+      {
+        "name": "Annual Memorial Service",
+        "date": "10 May 2025",
+        "description": "Three Canadian officers from 415 Squadron attended. Photos provided by Anthony Prowde."
+      }
+    ]
+  }
 }

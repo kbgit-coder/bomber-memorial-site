@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.27475331864182,
   "longitude": -0.7449671407874179,
@@ -63,7 +63,7 @@
         "Stirling bomber conversion training losses"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -77,6 +77,12 @@
       "org_name": "Laughterton Parish Meeting",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Local research on EH940 and LM292 crashes",
+      "email": "via chris.smith@kettlethorpe-pc.gov.uk",
+      "org_name": "Laughterton Historic Society",
+      "org_type": "History Society"
     }
   ],
   "what3words": "photos.earpiece.last",
@@ -127,5 +133,51 @@
   "squadron_display_name": "1661 HCU",
   "squadron_aliases": [
     "1661 HCU"
+  ],
+  "crew": [
+    {
+      "name": "F. S. Bradbury",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. C. Brown",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. R. Clayton",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. Corless",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. A. Micallef",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. H. Miller",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. W. Rankin",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Short Stirling EH940 and Avro Lancaster LM292\nType: Stone of remembrance\nDescription: Flat-topped pyramid base of rough hewn stone, mounted in a grassed area, surmounted by single propeller blade and reduction gear. A dedicatory plaque is placed on face 1 in relation to EH940 and on face 3 for LM292.\nInscription: Face 1 plaque: IN MEMORY OF/ (5 names)/ CREW OF SHORT STIRLING EH940 BASED AT RAF WINTHORPE/ KILLED IN ACTION AT KETTLETHORPE/ 21st JUNE 1944/ Face 2 tablet: IN MEMORY OF/ (2 names)/ CREW OF LANCASTER LM 292 FROM 103 SQUADRON/ RAF ELSHAM WOLD/ KILLED IN ACTION NEAR FENTON/ 8th AUGUST 1944/ ON SUN TIPPED WINGS THEY LOVED TO FLY,/ INTO THE WIDE UNMEASURED SKY\nLocation: Memorial located at the roadside on a triangular Village Green Main Road (A1133) Laughterton West Lindsey Lincolnshire LN1 2LA England\nGrid Ref: SK 83775 76033\nCoordinates: 53.274651360851,-0.745246410370\nPhotos: https://media.iwm.org.uk/ciim5/memorials/130/31/large_shorts_stirling_eh940_and_avro_lancaster_lm292_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/130/33/large_shorts_stirling_eh940_and_avro_lancaster_lm292_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/130/32/large_face_1_tablet_short_stirling_eh940.jpg; https://media.iwm.org.uk/ciim5/memorials/175/359/large_laugherton_memorial_face_3.jpg",
+  "narrative": "Face 1 plaque: IN MEMORY OF/ (5 names)/ CREW OF SHORT STIRLING EH940 BASED AT RAF WINTHORPE/ KILLED IN ACTION AT KETTLETHORPE/ 21st JUNE 1944/ Face 2 tablet: IN MEMORY OF/ (2 names)/ CREW OF LANCASTER LM 292 FROM 103 SQUADRON/ RAF ELSHAM WOLD/ KILLED IN ACTION NEAR FENTON/ 8th AUGUST 1944/ ON SUN TIPPED WINGS THEY LOVED TO FLY,/ INTO THE WIDE UNMEASURED SKY",
+  "additional_contributors": [
+    {
+      "name": "Paul Lawrence (Laughterton Historic Society)",
+      "role": "Local historian — PowerPoint presentation covering Stirling EH940 and Lancaster LM292 (requested April 2026)",
+      "date": "2026-04-09"
+    }
   ]
 }

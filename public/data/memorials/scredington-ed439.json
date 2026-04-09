@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.9512,
   "longitude": -0.3734,
@@ -75,7 +75,7 @@
         "Australian casualties recorded in VWMA"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -105,5 +105,54 @@
   "squadron_aliases": [
     "83 Sqdn.",
     "83 Squadron"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "T.j Bond",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "H.w Cheshire",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "M.k Cummings",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "H.w Luker",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. Roughley",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "F.n Sloss",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R.a Taylor",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "F.w Wilcox",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "N. Woodcock",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Avro Lancaster ED439\nType: Stone of remembrance\nDescription: Stone of remembrance made of white marble, carved with pathfinder eagle at the top.\nInscription: ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/(Names)/LEST WE FORGET\nLocation: Chancel Wall St. Andrew's Church Church Lane Scredington North Kesteven Lincolnshire NG34 OAG England\nGrid Ref: TF 09594 40398\nCoordinates: 52.949780949880,-0.370271106754\nPhotos: https://media.iwm.org.uk/ciim5/memorials/12/158/large_67597a___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/159/large_67597b___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/160/large_67597c___christine_pywell.jpg",
+  "narrative": "ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/(Names)/LEST WE FORGET"
 }

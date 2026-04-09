@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "This crash involved not a routine bomber but a Wellington being used for top-secret radar research. On 14 December 1942, Wellington X3707 took off from RAF Defford in Worcestershire -- home of the Telecommunications Research Establishment, where Britain developed its airborne radar systems -- bound for RAF Turnhouse (now Edinburgh Airport). On board were four RAF crew and one American signals officer, 1st Lt Kaulis of the USAAC, reflecting the close Anglo-American collaboration on radar technology. As the aircraft approached Edinburgh it suffered engine failure. The pilot attempted an emergency landing on the allotments in the Happy Valley area of Craiglockhart, beside the Union Canal. The aircraft struck the Allan Park Bridge (now a footbridge) and burst into flames. All five crew were killed. The secret nature of the mission meant the crash received minimal contemporary publicity. Warrant Officer McFadyen and Flight Sergeant McGregor were both Scottish, buried in Glasgow and Ballingry respectively. The American officer's burial location has not been confirmed.",
   "crew": [
@@ -84,11 +84,16 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Kaulis was a USAAC signals officer aboard as part of the close Anglo-American collaboration on radar technology. His burial location has not been confirmed.",
       "bio": "An American signals officer from the USAAC, Kaulis's presence on the aircraft reflected the close Anglo-American wartime collaboration on radar development."
+    },
+    {
+      "name": "Thomas French.l",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Engine failure; aircraft struck Allan Park Bridge while descending",
   "operation_type": "Training",
-  "memorial_details": "A stone memorial cairn with an inscribed and painted metal plate was unveiled on 11 November 2012, on the 70th anniversary of the crash (adjusted to coincide with Remembrance Sunday). The memorial is situated in Craiglockhart Gardens, Edinburgh (EH14 1BS). It commemorates all five crew members. The memorial was organised by local residents and Edinburgh civic groups.",
+  "memorial_details": "Name: Vickers Wellington X3707\nType: Cairn\nDescription: A small concrete cairn with a metal plaque sat at the top. Concrete bricks make up the outer facade of the cairn; the centre of the cairn is solid concrete. This plaque details the names of the airmen who perished in the plane crash.\nInscription: PLAQUE : In Memory of / (NAMES) / Who tragically lost their lives when their aircraft, Vickers Wellington X3707, crashed at Craiglockhart View on14th December 1942.\nLocation: The memorial is situated adjacent to the bicycle lane. CraigLockhart Gardens Edinburgh City Of Edinburgh Lothian EH14 1BS Scotland\nGrid Ref: NT 22596 70726\nCoordinates: 55.923364324035,-3.240197926201\nPhotos: https://media.iwm.org.uk/ciim5/memorials/120/737/large_craiglockheart_vickers_wellington_0.jpg; https://media.iwm.org.uk/ciim5/memorials/120/738/large_craiglockheart_vickers_wellington2.jpg",
   "latitude": 55.9242,
   "longitude": -3.2381,
   "external_narratives": [
@@ -115,7 +120,7 @@
         "Timed for 70th anniversary and Remembrance Sunday"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "War Memorials Online",

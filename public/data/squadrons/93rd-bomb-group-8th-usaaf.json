@@ -1,0 +1,74 @@
+{
+  "id": "93rd-bomb-group-8th-usaaf",
+  "name": "93rd Bombardment Group (Heavy)",
+  "display_name": "93rd Bomb Group",
+  "aliases": ["93rd BG", "Ted's Travelling Circus"],
+  "type": "USAAF",
+  "air_force": "8th United States Army Air Force",
+  "wing": "20th Combat Bombardment Wing",
+  "division": "Second Air Division",
+  "sub_squadrons": [
+    "328th Bombardment Squadron (Heavy)",
+    "329th Bombardment Squadron (Heavy)",
+    "330th Bombardment Squadron (Heavy)",
+    "409th Bombardment Squadron (Heavy)"
+  ],
+  "aircraft_type": "Consolidated B-24 Liberator",
+  "primary_station": "RAF Hardwick, Norfolk (Station 104)",
+  "station_period": "December 1942 – May 1945",
+  "total_missions": 391,
+  "first_mission": "9 October 1942",
+  "last_mission": "25 April 1945",
+  "combat_stats": {
+    "killed_in_action": 670,
+    "aircraft_missing_in_action": 100,
+    "operational_losses": 40
+  },
+  "decorations": [
+    "Distinguished Unit Citation — North Africa (17 Dec 1942 – 20 Feb 1943)",
+    "Distinguished Unit Citation — Ploesti, Romania (1 Aug 1943)",
+    "Two Medals of Honor: Lt Col Addison E Baker, Maj John L Jerstad (both Ploesti)"
+  ],
+  "campaigns": [
+    "Antisubmarine (American Theater)", "Air Combat EAME", "Egypt-Libya",
+    "Air Offensive Europe", "Anti-Submarine ETO", "Ploesti", "Tunisia",
+    "Naples-Foggia", "Sicily", "Normandy", "Northern France", "Rhineland",
+    "Ardennes-Alsace", "Central Europe"
+  ],
+  "notable_facts": [
+    "First VIII Bomber Command B-24 Liberator group to bomb targets in occupied Europe",
+    "Known as 'Ted's Travelling Circus' after Col Edward 'Ted' Timberlake Jr",
+    "Detached to North Africa for operations including the low-level Ploesti raid"
+  ],
+  "association": {
+    "name": "93rd Bomb Group Association",
+    "website": "https://www.93bg.com",
+    "legal_name": "93rd Bombardment Group Association",
+    "ein": "11-3762053",
+    "status": "501(c)(3) nonprofit",
+    "newsletter": "Ball of Fire Quarterly",
+    "facebook": "https://www.facebook.com/groups/93rdBG/",
+    "next_reunion": "San Diego, CA — November 2026"
+  },
+  "museum": {
+    "name": "93rd Bomb Group Memorial Museum",
+    "website": "https://www.93rd-bg-museum.org/",
+    "location": "Hardwick Airfield, Station 104, Norfolk",
+    "twitter": "@93rdbg",
+    "description": "Housed in original wartime Nissen huts. Displays nose art, aircraft artefacts, bomber jacket, crew photographs."
+  },
+  "memorial": {
+    "location": "Hardwick Airfield, Norfolk",
+    "dedicated": "25 May 1987",
+    "inscription_summary": "Dedicated to 93rd BG, its four squadrons and attached units. Lists 391 missions, two Medals of Honor, two Presidential Unit Citations, and 14 campaign streamers."
+  },
+  "source_url": "https://www.93bg.com",
+  "source_museum_url": "https://www.93rd-bg-museum.org/",
+  "associated_memorials": [
+    "henham-park-multiple-incidents-b-24-42-110033-arizo",
+    "south-cove-b-24-liberator-42-51"
+  ],
+  "memorial_count": 2,
+  "date_compiled": "2026-04-09",
+  "last_updated": "2026-04-09"
+}

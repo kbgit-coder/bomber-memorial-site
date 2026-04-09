@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.3490531,
   "longitude": 1.5997968,
@@ -50,7 +50,7 @@
         "Total death toll approximately 36"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Traces of War",
@@ -61,7 +61,7 @@
         "Located on private estate, limited public access"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "US War Memorials",
@@ -71,6 +71,19 @@
         "Registered in US War Memorials database"
       ],
       "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "93rd Bomb Group Association",
+      "original_url": "https://www.93bg.com",
+      "summary": "93rd Bomb Group Association — official association website with group history, Roll of Honor, crew photos, and memorial information",
+      "key_details": [
+        "93rd BG based at RAF Hardwick (Station 104), Norfolk",
+        "328th, 329th, 330th, 409th Bombardment Squadrons",
+        "391 missions flown, 670 KIA, 100 aircraft MIA",
+        "First B-24 group in 8th Air Force to bomb occupied Europe"
+      ],
+      "date_retrieved": "2026-04-09",
       "still_live": true
     }
   ],
@@ -98,5 +111,7 @@
   "squadron_display_name": "93rd Bomb Group USAAF",
   "squadron_aliases": [
     "93rd BG"
-  ]
+  ],
+  "memorial_details": "Name: Consolidated B-24 Liberators 42-110033 and 41-28590\nType: Board / Plaque / Tablet\nDescription: Two black marble plaques, one horizontal and one upright. Upright stone has irregular shape with smooth front and is set on a base of slate chippings, surrounded by wooden fence. Upright: Commemorative inscription in white lettering below badge of USAAF 8th Air Force with silhouette of Liberator below. Coat of Arms of 6th Earl of Stradbroke alongside detail of memorial erection. Horizontal: Details of those who died.\nInscription: [Upright plaque]: OVER THIS AREA ON 29TH MARCH 1944 TWO FULLY ARMED LIBERATOR/ BOMBERS FROM THE 93RD BOMB GROUP BASED AT HARDWICK/ COLLIDED AND CRASHED ON THE HENHAM PARK ESTATE./ 17 AIRMEN FROM THE LIBERATORS DIED IN THE CRASH./ IN THE SUBSEQUENT MASSIVE EXPLOSION OF BOMBS/ 19 USAAF PERSONNEL FROM RESCUE, MEDICAL AND FIRE FIGHTING UNITS FROM HOLTON AIRFIELD DIED./ THIS MEMORIAL HONOURS THOSE WHO GAVE THEIR LIVES/IN THE CAUSE OF FREEDOM AND MARKS THE ENDURING REGARD IN WHICH THE US 8TH AIR FORCE IS HELD IN EAST ANGLIA./ ERECTED BY THE 8TH EARL OF STRADBROKE 1994/ TO MARK THE 50TH ANNIVERSARY OF THE TRAGEDY. [Horizontal plaque]: ROLL OF HONOUR OF THOSE WHO DIED/B24 J42-110033/2ND LT R L McFETRICK · 2ND LT H CASSEL JR · 2ND LT W H LOWRY/ A BOMBARDIER KNOWN UNTO GOD · S. SGT C J MEAD · S. SGT C E WHITE / SGT O J WATSON · SGT W R BLOOM // B24 H41-28590/ 2ND LT C D MAKINSTER · 2ND LT R M TRASK · 2ND LT R J POE / 2ND LT E J MORRIS · S. SGT H B LARSON · S. SGT T O BYRD / SGT W J FRANKE · SGT S REINIAS · SGT S T CLOVIS // STATION 365 HOLTON. 19 U.S.A.A.F. PERSONNEL DIED / CAPT S B MORRILL · CPL B CALA · SGT · TREMBLAY // THE REMAINDER KNOWN UNTO GOD\nLocation: Approximate grid location only. Memorial on private estate and only accessible on open days Henham Park Estate Near Beccles Waveney Suffolk NR34 8AN England\nGrid Ref: TM 44868 78313\nCoordinates: 52.348160926399,1.593913182574\nPhotos: https://media.iwm.org.uk/ciim5/memorials/174/236/large_dsc01420.jpg; https://media.iwm.org.uk/ciim5/memorials/174/235/large_dsc01422a.jpg; https://media.iwm.org.uk/ciim5/memorials/174/238/20621a_dsc01422a.jpg; https://media.iwm.org.uk/ciim5/memorials/174/237/20621b_dsc01422a.jpg",
+  "narrative": "[Upright plaque]: OVER THIS AREA ON 29TH MARCH 1944 TWO FULLY ARMED LIBERATOR/ BOMBERS FROM THE 93RD BOMB GROUP BASED AT HARDWICK/ COLLIDED AND CRASHED ON THE HENHAM PARK ESTATE./ 17 AIRMEN FROM THE LIBERATORS DIED IN THE CRASH./ IN THE SUBSEQUENT MASSIVE EXPLOSION OF BOMBS/ 19 USAAF PERSONNEL FROM RESCUE, MEDICAL AND FIRE FIGHTING UNITS FROM HOLTON AIRFIELD DIED./ THIS MEMORIAL HONOURS THOSE WHO GAVE THEIR LIVES/IN THE CAUSE OF FREEDOM AND MARKS THE ENDURING REGARD IN WHICH THE US 8TH AIR FORCE IS HELD IN EAST ANGLIA./ ERECTED BY THE 8TH EARL OF STRADBROKE 1994/ TO MARK THE 50TH ANNIVERSARY OF THE TRAGEDY. [Horizontal plaque]: ROLL OF HONOUR OF THOSE WHO DIED/B24 J42-110033/2ND LT R L McFETRICK · 2ND LT H CASSEL JR · 2ND LT W H LOWRY/ A BOMBARDIER KNOWN UNTO GOD · S. SGT C J MEAD · S. SGT C E WHITE / SGT O J WATSON · SGT W R BLOOM // B24 H41-28590/ 2ND LT C D MAKINSTER · 2ND LT R M TRASK · 2ND LT R J POE / 2ND LT E J MORRIS · S. SGT H B LARSON · S. SGT T O BYRD / SGT W J FRANKE · SGT S REINIAS · SGT S T CLOVIS // STATION 365 HOLTON. 19 U.S.A.A.F. PERSONNEL DIED / CAPT S B MORRILL · CPL B CALA · SGT · TREMBLAY // THE REMAINDER KNOWN UNTO GOD"
 }

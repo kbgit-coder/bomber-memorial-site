@@ -26,7 +26,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "On the night of 12 August 1942, Stirling N3756 of 15 Squadron took part in a bombing raid on Mainz in western Germany. The large four-engine Stirling, coded LS-C, sustained serious damage from anti-aircraft fire (flak) and enemy fighter attacks during the mission. With engines failing and crew members injured, the pilot, Flight Sergeant McCausland of the Royal Canadian Air Force, turned for home. Crossing the English coast, McCausland made for RAF Wattisham in Suffolk, the nearest suitable airfield. Despite his best efforts, the damaged Stirling could not hold a stable approach. The crew made two aborted attempts to land at Wattisham before the aircraft's remaining engines gave out. On the third and final approach, the Stirling crashed into a pond near Potash Farm at Brettenham. Six of the crew, including McCausland, were killed. The sole survivor was Flight Sergeant William Ernest Egri, who had been awarded the Distinguished Flying Medal for his bravery during previous operations. The memorial at the crash site near Francis House, Brettenham, commemorates the crew of these \"young airmen\" who died after a successful mission but could not make it home.",
   "crew": [
@@ -102,6 +102,11 @@
         "DFM"
       ],
       "cwgc_verified": false
+    },
+    {
+      "name": "E. Egri",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "latitude": 52.1491,
@@ -109,7 +114,7 @@
   "cause_of_loss": "Aircraft damaged by flak and enemy fighter fire over target; engine trouble; attempted two approaches to Wattisham Airfield but crashed into a pond on third attempt",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on Mainz, Germany",
-  "memorial_details": "An aluminium plaque mounted on oak posts at the edge of the crash crater near Francis House, Brettenham, Babergh, Suffolk IP7 7NZ. IWM reference WMR-13247.",
+  "memorial_details": "Name: Short Stirling N3756\nType: Other structure\nDescription: Aluminium Plaque on oak posts on edge of crater caused by crash\nInscription: THIS FENCE HAS BEEN ERECTED / IN REMEMBRANCE OF THE / BRAVE CREW OF YOUNG AIRMEN / WHO WERE KILLED AFTER A / SUCCESSFUL BOMBING RAID ON / MAINZ, 12TH AUGUST 1942 / THEY WERE OF 15 SQUADRON BASED AT / WYTON, CAMBRIDGESHIRE. THEY WERE FLYING / STIRLING BOMBER LS-C. N3756 / CREW / (6 NAMES) / (1 *NAME) / *SOLE SURVIVOR / THE AIRCRAFT WAS DAMAGED BY FLAK AND ENEMY FIGHTER FIRE. / AFTER MAKING TWO ATTEMPTS TO LAND AT WATTISHAM / AIRFIELD, DUE TO ENGINE TROUBLE AND INJURIES TO SOME OF / THE CREW, THE AIRCRAFT FINALLY CRASH LANDED IN THIS POND / WHILST MAKING ONE FINAL ATTEMPT TO REACH WATTISHAM. / LET US REMEMBER THEM. / P.RYAN - GWENT / J.B.HAMMOND - SUFFOLK / 1993\nLocation: Francis House Brettenham Babergh Suffolk IP7 7NZ England\nGrid Ref: TL 97563 54245\nCoordinates: 52.151133150674,0.886355138844\nPhotos: https://media.iwm.org.uk/ciim5/memorials/66/944/large_img_2585a.jpg; https://media.iwm.org.uk/ciim5/memorials/66/945/large_img_2587a.jpg",
   "maintainer": {
     "organisation": "Brettenham Parish Council",
     "maintainer_type": "parish-council"

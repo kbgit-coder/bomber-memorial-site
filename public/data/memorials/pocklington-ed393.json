@@ -19,13 +19,13 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-22",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "narrative": "On the evening of 29 March 1943, the crew of Halifax JB848 were detailed for a major operation against Berlin. The aircraft began its takeoff run from Pocklington airfield but during the climb-out the pilot lost control. The Halifax stalled, turned onto its back and crashed in a catastrophic explosion near Thirsk's Mill and Pocklington School at West Green, just outside the airfield boundary. All crew were killed instantly in the resulting fireball. The crash site remained undisturbed for over 70 years until 2014, when excavation work for a new doctors' surgery uncovered a Rolls-Royce Merlin engine and various aircraft parts. The discovery prompted local residents to recover, clean and restore the engine, which was subsequently installed as a memorial to the crew.",
   "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
   "operation_type": "Operational",
   "operation_target": "Operational -- bombing Berlin",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Recovered Merlin engine mounted as memorial; also polished grey marble column with bronze plaque and squadron badges | | **Dedicated** | 2014 (engine memorial); earlier column memorial at airfield | | **Organised by** | Local community; Pocklington History Group | | **Condition** | Good | | **Access** | Pocklington; airfield memorial column at main entrance to former RAF Pocklington |",
+  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ (names)/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg",
   "latitude": 53.9311,
   "longitude": -0.7778,
   "maintainer": {
@@ -107,5 +107,65 @@
   "squadron_aliases": [
     "50 Squadron",
     "50 Sqdn."
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Gertrude Bird",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Stanley Chapman",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "John Ralph Conlon",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "C. B. Corbett",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Percy Paulucy Hopkinson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Reginald Walter Laws",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Allan Douglas Spiers",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Joseph Watson Thompson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "T. A. Wyllie",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "remembrance": {
+    "annual_service": true,
+    "service_date": "First Sunday in June",
+    "service_description": "The crew of this aircraft are remembered at the annual No. 50 & No. 61 Squadrons Association memorial service at Skellingthorpe, near their wartime base. The 2026 service takes place on 7 June — Birchwood memorial at 11:30, village memorial at 14:00.",
+    "last_known_event": "2026",
+    "events": [
+      {
+        "name": "2026 Memorial Service at Skellingthorpe",
+        "date": "7 June 2026",
+        "description": "Annual service at Birchwood memorial (11:30) and village memorial (14:00). AGM Saturday 6 June at 17:00."
+      }
+    ]
+  }
 }

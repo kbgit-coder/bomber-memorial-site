@@ -4,16 +4,14 @@ set -euo pipefail
 # =============================================================================
 # Bomber Memorial Site — Deploy Script
 # Usage: ./scripts/deploy.sh staging|production
-# =============================================================================
 #
+# Deploys via FTP (lftp mirror) using domain-scoped FTP accounts.
 # Requires a .env.deploy file in the repo root (gitignored) with:
-#   CPANEL_HOST=django.ukhosted.net
-#   CPANEL_PORT=2083
-#   CPANEL_USER=kbwellbe
-#   CPANEL_API_TOKEN_NAME=HollyDomainManager
-#   CPANEL_API_TOKEN=<token>
-#
-# Or export those variables in your shell before running.
+#   FTP_HOST=django.ukhosted.net
+#   FTP_PROD_USER=<user@domain>
+#   FTP_PROD_PASS=<password>
+#   FTP_STAGING_USER=<user@staging.domain>
+#   FTP_STAGING_PASS=<password>
 # =============================================================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -38,6 +36,9 @@ if [[ "$TARGET" != "staging" && "$TARGET" != "production" ]]; then
   die "Usage: $0 staging|production"
 fi
 
+# --- Check lftp --------------------------------------------------------------
+command -v lftp >/dev/null 2>&1 || die "lftp not installed — run: apt-get install -y lftp"
+
 # --- Load credentials --------------------------------------------------------
 ENV_FILE="$REPO_ROOT/.env.deploy"
 if [[ -f "$ENV_FILE" ]]; then
@@ -48,46 +49,23 @@ if [[ -f "$ENV_FILE" ]]; then
   set +a
 fi
 
-# Validate required env vars are set
-: "${CPANEL_HOST:?CPANEL_HOST not set — add to .env.deploy or environment}"
-: "${CPANEL_PORT:?CPANEL_PORT not set}"
-: "${CPANEL_USER:?CPANEL_USER not set}"
-: "${CPANEL_API_TOKEN_NAME:?CPANEL_API_TOKEN_NAME not set}"
-: "${CPANEL_API_TOKEN:?CPANEL_API_TOKEN not set}"
-
-CPANEL_BASE_URL="https://${CPANEL_HOST}:${CPANEL_PORT}"
-# Auth constructed in API helper section below
-
-# --- Deploy targets ----------------------------------------------------------
-STAGING_DIR="/home/kbwellbe/staging.bombermemorial.co.uk"
-PRODUCTION_DIR="/home/kbwellbe/public_html/bombermemorial.co.uk"
+: "${FTP_HOST:?FTP_HOST not set — add to .env.deploy}"
+: "${FTP_USER:?FTP_USER not set}"
+: "${FTP_PASS:?FTP_PASS not set}"
 
 if [[ "$TARGET" == "staging" ]]; then
-  DOCUMENT_ROOT="$STAGING_DIR"
+  FTP_PATH="${FTP_STAGING_PATH:-staging.bombermemorial.co.uk/}"
   SITE_URL="https://staging.bombermemorial.co.uk"
 else
-  DOCUMENT_ROOT="$PRODUCTION_DIR"
+  FTP_PATH="${FTP_PROD_PATH:-public_html/bombermemorial.co.uk/}"
   SITE_URL="https://bombermemorial.co.uk"
 fi
 
-TARBALL="bomber-memorial-deploy.tar.gz"
-
-info "Target:        $TARGET"
-info "Document root: $DOCUMENT_ROOT"
-info "Site URL:      $SITE_URL"
+info "Target:   $TARGET"
+info "FTP user: $FTP_USER"
+info "FTP path: $FTP_PATH"
+info "Site URL: $SITE_URL"
 echo ""
-
-# --- Production confirmation -------------------------------------------------
-if [[ "$TARGET" == "production" ]]; then
-  warn "You are about to deploy to PRODUCTION."
-  warn "This will update $SITE_URL for all visitors."
-  echo ""
-  read -r -p "Type 'yes' to confirm: " CONFIRM
-  if [[ "$CONFIRM" != "yes" ]]; then
-    die "Deployment cancelled."
-  fi
-  echo ""
-fi
 
 # --- Step 1: Validate memorials ----------------------------------------------
 VALIDATOR="$REPO_ROOT/scripts/validate-memorials.js"
@@ -125,7 +103,6 @@ if [[ -f "$REPO_ROOT/public/robots.txt" ]]; then
 fi
 
 # Fix directory index pages — Apache serves 403 for directories without index.html
-# Copy section index pages into their directories
 for section_page in "$REPO_ROOT"/out/*.html; do
   section_name=$(basename "$section_page" .html)
   section_dir="$REPO_ROOT/out/$section_name"
@@ -140,7 +117,7 @@ if [[ -f "$REPO_ROOT/public/sitemap.xml" ]]; then
   success "Copied sitemap.xml"
 fi
 
-# Staging: inject .htpasswd protection (user: keith, pass: bmr-staging-2026)
+# Staging: inject .htpasswd protection
 if [[ "$TARGET" == "staging" ]]; then
   info "Adding .htpasswd protection for staging..."
   cat >> "$REPO_ROOT/out/.htaccess" << 'HTPASSWD'
@@ -156,100 +133,27 @@ fi
 
 echo ""
 
-# --- Step 4: Create tarball --------------------------------------------------
-# Tar the contents of out/ directly so they extract into the document root
-# (not into an out/ subdirectory on the server)
-info "Creating tarball..."
-cd "$REPO_ROOT/out"
-tar czf "$REPO_ROOT/$TARBALL" .
-cd "$REPO_ROOT"
-success "Created ${TARBALL} ($(du -sh "$TARBALL" | cut -f1))"
+# --- Step 4: FTP mirror to server -------------------------------------------
+info "Deploying via FTP mirror to $TARGET..."
+info "This uploads only changed files (differential sync)."
 echo ""
 
-# --- cPanel API v2 helper ----------------------------------------------------
-# Uses cPanel API v2 (not UAPI) — confirmed working with HollyDomainManager token
-# Rate limit: minimum 5 seconds between calls
-CPANEL_API_V2="${CPANEL_BASE_URL}/json-api/cpanel?cpanel_jsonapi_version=2"
-CPANEL_AUTH_HEADER="cpanel ${CPANEL_USER}:${CPANEL_API_TOKEN}"
+lftp -c "
+  set ssl:verify-certificate no;
+  set net:max-retries 3;
+  set net:reconnect-interval-base 5;
+  open -u '$FTP_USER','$FTP_PASS' ftp://$FTP_HOST;
+  mirror --reverse --delete --verbose --parallel=4 --exclude .htpasswd $REPO_ROOT/out/ $FTP_PATH;
+  quit;
+"
 
-check_api_response() {
-  local response="$1"
-  local label="$2"
-  local result
-  result=$(echo "$response" | python3 -c "
-import sys, json
-try:
-    d = json.load(sys.stdin)
-    r = d.get('cpanelresult', {})
-    if r.get('event', {}).get('result') == 1:
-        print('OK')
-    else:
-        print(r.get('error', 'unknown error'))
-except:
-    print('parse error')
-" 2>/dev/null)
-  if [[ "$result" == "OK" ]]; then
-    success "$label"
-    return 0
-  else
-    error "$label failed: $result"
-    return 1
-  fi
-}
-
-url_encode() {
-  python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1]))" "$1"
-}
-
-# --- Step 5: Upload tarball to cPanel ----------------------------------------
-info "Uploading tarball to cPanel (${CPANEL_HOST})..."
-
-UPLOAD_RESPONSE=$(curl -s -k \
-  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
-  -F "dir=${DOCUMENT_ROOT}" \
-  -F "file-1=@${REPO_ROOT}/${TARBALL}" \
-  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=uploadfiles")
-
-check_api_response "$UPLOAD_RESPONSE" "Upload complete" || die "Upload failed — aborting."
-
-info "Waiting 5 seconds (cPanel rate limit)..."
-sleep 5
-
-# --- Step 6: Extract on server -----------------------------------------------
-info "Extracting tarball to ${DOCUMENT_ROOT}..."
-
-ENCODED_SOURCE=$(url_encode "${DOCUMENT_ROOT}/${TARBALL}")
-ENCODED_DEST=$(url_encode "${DOCUMENT_ROOT}")
-
-EXTRACT_RESPONSE=$(curl -s -k \
-  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
-  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=fileop&op=extract&sourcefiles=${ENCODED_SOURCE}&destfiles=${ENCODED_DEST}")
-
-check_api_response "$EXTRACT_RESPONSE" "Extraction complete" || die "Extraction failed — aborting."
-
-info "Waiting 5 seconds (cPanel rate limit)..."
-sleep 5
-
-# --- Step 7: Remove tarball from server --------------------------------------
-info "Removing tarball from server..."
-
-ENCODED_TARBALL=$(url_encode "${DOCUMENT_ROOT}/${TARBALL}")
-
-DELETE_RESPONSE=$(curl -s -k \
-  -H "Authorization: ${CPANEL_AUTH_HEADER}" \
-  "${CPANEL_API_V2}&cpanel_jsonapi_module=Fileman&cpanel_jsonapi_func=fileop&op=unlink&sourcefiles=${ENCODED_TARBALL}")
-
-check_api_response "$DELETE_RESPONSE" "Server tarball removed" \
-  || warn "Could not remove server tarball (non-fatal) — delete it manually."
-
-# --- Clean up local tarball --------------------------------------------------
-rm -f "$REPO_ROOT/$TARBALL"
-success "Local tarball removed."
+success "FTP deploy complete."
 echo ""
 
-# --- Step 8: Production git tag ----------------------------------------------
+# --- Step 5: Production git tag ----------------------------------------------
 if [[ "$TARGET" == "production" ]]; then
   info "Production deploy succeeded."
+  echo ""
   read -r -p "Create a git release tag? Enter version (e.g. v1.2.0) or press Enter to skip: " VERSION
 
   if [[ -n "$VERSION" ]]; then

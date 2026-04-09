@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.129,
   "longitude": -0.4017,
@@ -38,7 +38,7 @@
         "All 7 Lancaster crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Aviation Safety Network (Hurricane)",
@@ -50,7 +50,7 @@
         "1690 Bomber Defence Training Flight"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -102,5 +102,49 @@
   "squadron_aliases": [
     "463 Sqdn.",
     "463 Squadron"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "David Charles",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "William Elcome",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Reginald Neale",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Norman Orchard",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Sidney Parlato",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Bernard Patch",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Harold Rollins",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Harold Shaw",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Avro Lancaster LM130 and Hurricane PZ740\nType: Other memorial\nDescription: A wooden cross with attached dedicatory laminated label, the left arm of the cross has the silhouette of a Lancaster and the right a Hurricane; also a wooden board mounted on a metal shaft with a dedicatory plaque. Both are placed within a black propeller shaped kerbing filled with black stones, the tips of the propeller shape and their stones are painted yellow.\nInscription: Wooden board plaque: In Loving Memory/ 11th March 1945./ The Families of (Names)/ hold these men and their sacrifice in our hearts./ Lest We Forget/ Lancaster LM130 & Hurricane PZ740/ 23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT/ RECOVERY GROUP/ (Lancaster depiction)/ In Memory Of The Crew Of Avro Lancaster LM130 JO-N/ And/ The Pilot Of Hawker Hurricane PZ740\nLocation: On a footpath from Blankney Stepping Our car park Blankney East Lindsey Lincolnshire LN4 3BB England\nGrid Ref: TF 07645 59607\nCoordinates: 53.122779157496,-0.392861309449\nPhotos: https://media.iwm.org.uk/ciim5/memorials/95/130/large_lancaster_lm130_and_hurricane_pz740_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/95/131/large_lancaster_lm130_and_hurricane_pz740_detail.jpg; https://media.iwm.org.uk/ciim5/memorials/95/132/large_lancaster_lm130_and_hurricane_pz740_plaque_detail.jpg; https://media.iwm.org.uk/ciim5/memorials/95/133/large_lancaster_lm130_and_hurricane_pz740_cross.jpg; https://media.iwm.org.uk/ciim5/memorials/95/134/large_cross_and_laminated_label.jpg",
+  "narrative": "Wooden board plaque: In Loving Memory/ 11th March 1945./ The Families of (Names)/ hold these men and their sacrifice in our hearts./ Lest We Forget/ Lancaster LM130 & Hurricane PZ740/ 23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT/ RECOVERY GROUP/ (Lancaster depiction)/ In Memory Of The Crew Of Avro Lancaster LM130 JO-N/ And/ The Pilot Of Hawker Hurricane PZ740"
 }

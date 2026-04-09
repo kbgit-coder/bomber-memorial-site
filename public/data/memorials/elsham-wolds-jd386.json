@@ -145,7 +145,7 @@
       "date": "2026-04-01"
     }
   ],
-  "last_updated": "2026-04-01",
+  "last_updated": "2026-04-09",
   "data_quality": "Good",
   "latitude": 53.6108,
   "longitude": -0.4078,
@@ -189,6 +189,12 @@
       "org_name": "Elsham Parish Council",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Forwarded enquiry to Elsham Wolds Memorial contact (April 2026)",
+      "email": "clerk@elshamparishcouncil.gov.uk",
+      "org_name": "Elsham Parish Council",
+      "org_type": "Parish Council"
     }
   ],
   "what3words": "sketching.covenants.townhouse",

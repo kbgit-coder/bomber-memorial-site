@@ -247,9 +247,9 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "memorial_details": "Farnsfield residents Jack Wright and Frank Reynolds campaigned in the early 1990s to establish a permanent memorial. A stone memorial was dedicated on 6 July 1994 (50th anniversary) by Air Marshal Sir John Curtis, himself a former 578 Squadron pilot. Seven Nottinghamshire oaks (one per crew member) and two Canadian redwoods (for Godin) were planted. Parfitt Road on the village outskirts bears a second memorial plaque. The crew's names are read at every Remembrance Sunday service. The Farnsfield Memorial Trust maintains the site. A Nottinghamshire County Council walking trail includes the memorial.",
+  "memorial_details": "Name: Handley Page Halifax MZ519\nType: Stone of remembrance\nDescription: BRICK BASE SURMOUNTED BY STONE PLINTH AND TAPERING STONE OF REMEMBRANCE. INCISED INSCRIPTION ON THE 6 O'CLOCK FACE OF THE STONE AND PLINTH SQUADRON CREST CARVED IN RELIEF AT THE TOP OF THE STONE OF REMEMBRANCE. 300 TREES WERE PLANTED IN THE AREA AND THE LAND WAS ENCLOSED BY A FENCE The commemorative plaque with biographical details of the crew, is in the parish church.\nInscription: THIS STONE PAYS TRIBUTE/ TO THE CREW OF HALIFAX/ BOMBER MZ519 LK-U OF/ 678 SQUADRON WHO DIED/ HERE ON 6TH JULY 1944/ RETURNING FROM/ OPERATIONS/ (NAMES)/ 'LEST WE FORGET'/ ERECTED BY FRIENDS, RELATIVES/ AND VILLAGERS OF FARNSFIELD/ TO COMMEMORATE THE 50TH/ ANNIVERSARY\nLocation: At the base of Riddings Hill Riddings Hill Lane Farnsfield Newark And Sherwood Nottinghamshire NG22 8GN England\nGrid Ref: SK 64371 55411\nCoordinates: 53.092038488438,-1.040227244076\nPhotos: https://media.iwm.org.uk/ciim5/memorials/78/269/large_wm_reference_32217_03.jpg; https://media.iwm.org.uk/ciim5/memorials/175/216/large_32217.jpg; https://media.iwm.org.uk/ciim5/memorials/78/270/large_wm_reference_32217_04_0.jpg; https://media.iwm.org.uk/ciim5/memorials/78/271/large_wm_reference_32217_05.jpg; https://media.iwm.org.uk/ciim5/memorials/78/272/large_wm_reference_32217_01_0.jpg",
   "maintainer": {
     "organisation": "Farnsfield Parish Council",
     "website": "https://www.farnsfield-pc.gov.uk",
@@ -332,5 +332,11 @@
   "squadron_aliases": [
     "578 Squadron",
     "578 Sqdn."
-  ]
+  ],
+  "community_connection": "The crash at Riddings Farm left a deep mark on Farnsfield. The bodies of the seven crew members were recovered and laid out in the small paddock in front of the farmhouse — an image that stayed with the farmer and his family for the rest of their lives. Seven Nottinghamshire oaks were planted in a crescent to mark the spot, and two Canadian redwoods were added in memory of Pilot Officer Norman Godin, the 19-year-old Canadian bomb aimer who died far from home. In the early 1990s, two Farnsfield locals — Frank Reynolds Jr and Jack Wright — had the idea of a more permanent memorial to mark the approaching 50th anniversary of the crash. They formed a committee, raised funds from the village, and in 1994 Air Marshal Sir John Curtis, himself a former 578 Squadron pilot, unveiled the stone of remembrance. Since then, the area behind the original trees has been developed into a small copse through donations from villagers and others, maintained by the Farnsfield Memorial Trust. A commemorative plaque with photographs of the seven crew members is displayed in the parish church.",
+  "remembrance": {
+    "annual_service": true,
+    "service_date": "11 November",
+    "service_description": "At the annual Remembrance Day service in Farnsfield, in addition to a roll call of villagers who died in the Two World Wars, a special mention is made of the names of the Halifax MZ519 crew."
+  }
 }

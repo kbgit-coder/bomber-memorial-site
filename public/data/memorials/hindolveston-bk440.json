@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.8230822,
   "longitude": 1.020159,
@@ -60,7 +60,7 @@
         "Parish council maintains remembrance page"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -87,5 +87,39 @@
   "squadron_display_name": "16 OTU",
   "squadron_aliases": [
     "16 OTU"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "E. W. Brown",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "N. Doherty",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. W. Ellis",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. E. Martin",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. Merridew",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "S. Wilson",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Vickers Wellington BK440\nType: Stone of remembrance\nDescription: Large piece of pre-cast cement (origin unknown) with a light-metal plaque fixed to a sloping face on the right-hand side. The plaque features a side elevation of a Wellington bomber and names of the crew printed in black, upper and lower-case letters. A concrete flower pot is placed on the top (horizontal) face at the left-hand side of the memorial. This memorial is located within the railings of the village WW1 memorial cross (ref: 1318).\nInscription: IN MEMORY OF THOSE WHO LOST THEIR LIVES ON 11TH DECEMBER 1943/ WHEN WELLINGTON BK440 CRASHED NEAR PARK FARM, HINDOLVESTON./ (names)\nLocation: At the junction of the Street and Melton Road The Street Hindolveston North Norfolk Norfolk NR20 5DD England\nGrid Ref: TG 03799 29396\nCoordinates: 52.823545681967,1.023318592982\nPhotos: https://media.iwm.org.uk/ciim5/memorials/138/165/large_nf_hindolveston_2.jpg; https://media.iwm.org.uk/ciim5/memorials/138/166/large_nf_hindolveston_3.jpg; https://media.iwm.org.uk/ciim5/memorials/138/167/large_nf_hindolveston_1.jpg",
+  "narrative": "IN MEMORY OF THOSE WHO LOST THEIR LIVES ON 11TH DECEMBER 1943/ WHEN WELLINGTON BK440 CRASHED NEAR PARK FARM, HINDOLVESTON./ (names)"
 }

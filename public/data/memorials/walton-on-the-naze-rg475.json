@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 51.8484,
   "longitude": 1.2726,
@@ -50,7 +50,7 @@
       "summary": "Official RCAF Association heritage page for 432 (Leaside) Squadron, documenting the unit's wartime history operating from East Moor as part of 6 Group (RCAF) Bomber Command.",
       "key_details": "432 Squadron was part of the all-Canadian 6 Group, Bomber Command. Operated Halifax aircraft from RAF East Moor, Yorkshire. The squadron suffered significant losses in the final months of the war.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -95,5 +95,49 @@
   "squadron_aliases": [
     "432 Squadron",
     "432 Sqdn."
-  ]
+  ],
+  "crew": [
+    {
+      "name": "J. G. Clothier",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "D. M. Cooke",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. R. Harris",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "C. M. Hay",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "E. A. Hayes",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "M. B. Neilson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. M. Orser",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. D. Ringrose",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Handley Page Halifax RG475 and local men and women who served in the Royal Air Force\nType: Pillar / Column\nDescription: A rectangular concrete pillar on three-stepped base, with an RAF badge at the top, airscrew blades from a Halifax bomber on three sides and an inscribed plaque on the fourth side.\nInscription: THIS MEMORIAL WAS ERECTED IN 1979 BY THE FRINTON AND WALTON ROYAL AIR FORCES ASSOCIATION TO COMMEMORATE THE 60TH ANNIVERSARY OF THE/ FORMATION OF THE ROYAL AIR FORCE AND THE 30th OF THE BRANCH./ THE AIRSCREW BLADES WERE RECOVERED IN 1979 BY THE OFFICERS AND CADETS OF 308 SQUADRON OF COLCHESTER AND CLACTON AIR TRANING CORPS FROM THE SITE WHERE A/ HALIFAX BOMBER OF 432 SQUADRON, ROYAL CANADIAN AIR FORCE, CRASHED AT THE NAZE ON THE NIGHT OF MARCH 5/6 1945 WHILST RETURNING FROM AN OPERATIONAL/ MISSION, KILLING ALL MEMBERS OF THE CREW./ THE MEMORIAL IS DEDICATED TO ALL LOCAL MEN AND WOMEN WHO HAVE SERVED IN THE ROYAL AIR FORCE AND TO THE MEMORY OF THE HALIFAX CREW/ (Names)/ SEVEN OF THE ABOVE ARE BURIED AT BROOKWOOD, SURREY AND ONE AT MONMOUTH, S WALES\nLocation: Garden of Remembrance Corner of High Street and Church Road Walton On The Naze Tendring Essex CO14 8BN England\nGrid Ref: TM 25163 21681\nCoordinates: 51.848286369510,1.267736191972\nPhotos: https://media.iwm.org.uk/ciim5/memorials/86/477/large_raf_mem_.jpg; https://media.iwm.org.uk/ciim5/memorials/86/494/large_raf_mem_1.jpg",
+  "narrative": "THIS MEMORIAL WAS ERECTED IN 1979 BY THE FRINTON AND WALTON ROYAL AIR FORCES ASSOCIATION TO COMMEMORATE THE 60TH ANNIVERSARY OF THE/ FORMATION OF THE ROYAL AIR FORCE AND THE 30th OF THE BRANCH./ THE AIRSCREW BLADES WERE RECOVERED IN 1979 BY THE OFFICERS AND CADETS OF 308 SQUADRON OF COLCHESTER AND CLACTON AIR TRANING CORPS FROM THE SITE WHERE A/ HALIFAX BOMBER OF 432 SQUADRON, ROYAL CANADIAN AIR FORCE, CRASHED AT THE NAZE ON THE NIGHT OF MARCH 5/6 1945 WHILST RETURNING FROM AN OPERATIONAL/ MISSION, KILLING ALL MEMBERS OF THE CREW./ THE MEMORIAL IS DEDICATED TO ALL LOCAL MEN AND WOMEN WHO HAVE SERVED IN THE ROYAL AIR FORCE AND TO THE MEMORY OF THE HALIFAX CREW/ (Names)/ SEVEN OF THE ABOVE ARE BURIED AT BROOKWOOD, SURREY AND ONE AT MONMOUTH, S WALES"
 }

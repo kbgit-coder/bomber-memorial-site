@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.13357673310234,
   "longitude": -0.05762544248204891,
@@ -37,7 +37,7 @@
         "Registered crash site in county heritage record"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Airshows Present",
@@ -141,5 +141,59 @@
   "squadron_aliases": [
     "97 Sqdn.",
     "97 Squadron"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "R. C. W. G. Baker",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. Dawson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. Dunae",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "D. O. Ellis",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "H. T. Gilbert",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "P. Horton",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. B. Jardine",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. P. Olive",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. W. Paige",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. J. Phillips",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Revesby WW2 and Lancaster ND415\nType: Board / Plaque / Tablet\nDescription: Wooden panel dedicated to the men of the parish who gave their lives in WW2. Also a memorial to the crew of Avro Lancaster III ND415 of 97 Squadron. Badges of the Army, Royal Navy and Royal Air Force are attached to the panel on three sides of the names.\nInscription: IN PROUD MEMORY OF THE MEN/ FROM THIS PARISH WHO MADE/ THE SUPREME SACRIFICE DURING/ THE WORLD WAR. 1939-1945/ (Names)/ ALSO OF/ (Names)/ WHO WERE KILLED ON OPERATIONAL DUTIES/ WHEN THEIR AEROPLANE CRASHED IN THIS PARISH.\nLocation: On the north wall of the nave. St Lawrence Church Blackey Lane Revesby East Lindsey Lincolnshire PE22 7NA England\nGrid Ref: TF 29838 61416\nCoordinates: 53.134094313190,-0.060681624717\nPhotos: https://media.iwm.org.uk/ciim5/memorials/5/333/large_ukniwm_43199_ccharles_anderson_2.jpg; https://media.iwm.org.uk/ciim5/memorials/74/328/large_revesby_ww2_lancaster_board_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/74/327/large_1939_1945_lancaster_crew_of_nd415.jpg; https://media.iwm.org.uk/ciim5/memorials/74/326/large_1939_1945_lancaster_crew_of_nd415_text.jpg; https://media.iwm.org.uk/ciim5/memorials/74/325/large_1939_1945_lancaster_crew_of_nd415_a.jpg",
+  "narrative": "IN PROUD MEMORY OF THE MEN/ FROM THIS PARISH WHO MADE/ THE SUPREME SACRIFICE DURING/ THE WORLD WAR. 1939-1945/ (Names)/ ALSO OF/ (Names)/ WHO WERE KILLED ON OPERATIONAL DUTIES/ WHEN THEIR AEROPLANE CRASHED IN THIS PARISH."
 }

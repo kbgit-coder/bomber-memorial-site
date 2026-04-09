@@ -15,7 +15,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.36529463368664,
   "longitude": -0.7010829870978885,
@@ -62,5 +62,34 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "crew": [
+    {
+      "name": "R. (sgt.) Brown",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Hilton Daniel (sgt.) Ellis",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "S.g (sgt.) Howard",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "D. (sgt.) Mills",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. (p/o) Tindall",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Wellington Bomber T2520\nType: Cairn\nDescription: Cairn comprising various sized boulders, leading up to a peak. At top centre a large wooden Latin cross.. At the base a smaller wooden cross with metal plaque, date inscribed thereon.\nInscription: 10th December 1940 (inscribed on upper cross.)\nLocation: Cefn Yr Ystrad Off Trefil Rd 3 Km From Trefil Blaenau Gwent Gwent NP22 4EW Wales\nGrid Ref: SO120 128\nCoordinates: 51.806892448710,-3.277746232593\nPhotos: https://media.iwm.org.uk/ciim5/memorials/106/616/large_65500a.jpg; https://media.iwm.org.uk/ciim5/memorials/106/617/large_65500b.jpg; https://media.iwm.org.uk/ciim5/memorials/106/618/large_65500c_1.jpg",
+  "narrative": "10th December 1940 (inscribed on upper cross.)"
 }

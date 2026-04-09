@@ -173,7 +173,7 @@ test.describe("2. Memorial Pages", () => {
     ...RANDOM_MEMORIAL_SLUGS,
   ];
 
-  const EMAIL_PATTERN = /[a-zA-Z0-9._%+-]+@(?!bombermemorial\.co\.uk)[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
+  const EMAIL_PATTERN = /[a-zA-Z0-9._%+-]+@(?!(?:staging\.)?bombermemorial\.co\.uk)[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
 
   for (const slug of PII_MEMORIALS) {
     test(`HARD GATE: Memorial "${slug}" contains no personal email addresses`, async ({
@@ -274,6 +274,60 @@ test.describe("3. Squadron Pages", () => {
       `Wikipedia URL ${href} returned ${resp.status()}`
     ).toBe(200);
     await apiContext.dispose();
+  });
+});
+
+// ---------------------------------------------------------------------------
+// 3b. Workstream 1 — Hidden Data Now Rendered
+// ---------------------------------------------------------------------------
+
+test.describe("3b. Workstream 1 — Storytelling Upgrade", () => {
+  test("fate_detail renders on Staunton memorial crew section", async ({
+    page,
+  }) => {
+    await page.goto("/memorial/staunton-in-the-vale-wellington-w-4270");
+    const body = page.locator("body");
+    // Thomas Warne's fate_detail mentions night flying hours
+    await expect(body).toContainText("15 hours of night flying");
+  });
+
+  test("fate_detail renders on Farnsfield memorial crew section", async ({
+    page,
+  }) => {
+    await page.goto("/memorial/farnsfield-halifax-mz519");
+    const body = page.locator("body");
+    // Parfitt's fate_detail about steering away from the village
+    await expect(body).toContainText(/steered.*away|burning aircraft/i);
+  });
+
+  test("The Memorial section renders community connection on Farnsfield page", async ({
+    page,
+  }) => {
+    await page.goto("/memorial/farnsfield-halifax-mz519");
+    const body = page.locator("body");
+    await expect(body).toContainText("The Memorial");
+    // Should show community connection narrative from structured fields
+    await expect(body).toContainText("Farnsfield Memorial Trust");
+    await expect(body).toContainText("6 July 1994");
+  });
+
+  test("external narratives are NOT suppressed when crew array exists", async ({
+    page,
+  }) => {
+    // Staunton has both crew array (7 members) and external narratives with full_narrative
+    await page.goto("/memorial/staunton-in-the-vale-wellington-w-4270");
+    const body = page.locator("body");
+    // The "Detailed Record" section should be visible even though crew is structured
+    await expect(body).toContainText("Detailed Record");
+  });
+
+  test("OS grid reference renders on Barton VC memorial", async ({
+    page,
+  }) => {
+    await page.goto("/memorial/ryhope-sunderland-barton-vc");
+    const body = page.locator("body");
+    await expect(body).toContainText("OS Grid Ref");
+    await expect(body).toContainText("NZ 41238 52906");
   });
 });
 

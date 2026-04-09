@@ -29,7 +29,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "On the night of 15 January 1945, Lancaster LM720 of 61 Squadron departed RAF Skellingthorpe in Lincolnshire as part of a major bombing operation against the Leuna synthetic oil plant near Merseburg, one of Bomber Command's priority targets in the final months of the war. The oil campaign was proving devastatingly effective at crippling Germany's war machine, but the heavily-defended Merseburg complex remained one of the most dangerous targets in the Reich. On the return flight, the Lancaster's crew encountered deteriorating weather conditions over the Norfolk coast. Poor visibility and misunderstood wireless telegraphy messages conspired to lead the aircraft dangerously low over the coast near Salthouse. At 01:21 hours, Lancaster LM720 struck one of the 200-foot steel masts of the Type 54 Chain Home Extra Low radar station on Bard Hill, just south of Salthouse village. Six of the seven crew members were killed instantly. Flight Sergeant Boakes, although pulled from the wreckage alive and badly injured, died shortly afterwards in hospital. The twisted remains of the radar mast stood for many years as a silent memorial to the crew, with poppy wreaths fastened to the steel by local people. A more formal memorial was later placed inside St Nicholas' Church in the village.",
   "crew": [
@@ -134,7 +134,7 @@
   "cause_of_loss": "Aircraft flew into 200ft Type 54 CHEL (Chain Home Extra Low) radar mast on Bard Hill in poor visibility; misunderstood W/T messages may have contributed",
   "operation_type": "Operational",
   "operation_target": "Bombing operation to Leuna/Merseburg synthetic oil plant",
-  "memorial_details": "| Field | Detail | |-------|--------| | Type | Wall-hung paper scroll on black backboard inside St Nicholas' Church, Salthouse; also poppy wreaths on radar mast remains | | Dedicated | 1995 (church memorial, for the 50th anniversary) | | Organised by | Adrian S. Pye (private enthusiast) | | Condition | Church memorial unverified condition; radar mast remnants still present on hill | | Access | St Nicholas' Church, Salthouse, Norfolk; Bard Hill accessible on foot | | IWM Reference | WMR-56361 |",
+  "memorial_details": "Name: Avro Lancaster LM720\nType: Other memorial\nDescription: Wall-hung paper scroll mounted on black backboard. Hand-drawn side elevation of Lancaster at top with handwritten dedication and names below. 61 Squadron crest and drawing of Home-Chain radar tower at bottom left.\nInscription: LANCASTER MK III LM720, 61 SQUADRON/SKELLINGTHORPE/ DEDICATED TO THE MEMORY OF THE CREW/ OF THE ABOVE AIRCRAFT WHO DIED/ WHEN IT CRASHED INTO BARD HILL CHEL/ RADAR PYLON RETURNING FROM A RAID / ON MERSEBURG, ON 15TH JANUARY 1945. (Names)\nLocation: St Nicholas' Church Grouts Lane Salthouse North Norfolk Norfolk NR25 7XQ England\nGrid Ref: TG 07621 43682\nCoordinates: 52.950323851180,1.089064678768\nPhotos: https://media.iwm.org.uk/ciim5/memorials/132/279/large_nf_salthouse_2.jpg; https://media.iwm.org.uk/ciim5/memorials/132/280/large_nf_salthouse_3.jpg; https://media.iwm.org.uk/ciim5/memorials/132/281/large_nf_salthouse_4.jpg",
   "maintainer": {
     "organisation": "Salthouse Parish Meeting",
     "maintainer_type": "parish-council"
@@ -252,5 +252,18 @@
   "squadron_aliases": [
     "61 Squadron",
     "61 Sqdn."
-  ]
+  ],
+  "remembrance": {
+    "annual_service": true,
+    "service_date": "First Sunday in June",
+    "service_description": "The crew of this aircraft are remembered at the annual No. 50 & No. 61 Squadrons Association memorial service at Skellingthorpe, near their wartime base. The 2026 service takes place on 7 June — Birchwood memorial at 11:30, village memorial at 14:00.",
+    "last_known_event": "2026",
+    "events": [
+      {
+        "name": "2026 Memorial Service at Skellingthorpe",
+        "date": "7 June 2026",
+        "description": "Annual service at Birchwood memorial (11:30) and village memorial (14:00). AGM Saturday 6 June at 17:00."
+      }
+    ]
+  }
 }

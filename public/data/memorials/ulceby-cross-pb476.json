@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.2393,
   "longitude": 0.1143,
@@ -42,7 +42,7 @@
       "summary": "International war sites database entry for the Lancaster PB476 memorial at Ulceby Cross. Records the location of the memorial stone and the crew details.",
       "key_details": "Memorial is catalogued in the international Traces of War database. Crew: Fg Off Ansdell (Pilot), Fg Off Heath (Air Bomber), Fg Off Hunter (Navigator), Sgt Mellor (Air Gunner), Sgt Parry (Wireless Operator), Sgt Shafer (Flight Engineer), Sgt Walker (Air Gunner).",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -58,7 +58,7 @@
       "summary": "Lincolnshire County Council heritage record for the memorial to Lancaster PB476 at Ulceby Cross. Notes the memorial was unveiled in 1995 on land near the crash site.",
       "key_details": "Monument reference MLI125556. Memorial unveiled 1995. The Lancaster dived almost vertically into the ground with such force that the engines were found buried 10 feet deep.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -88,5 +88,49 @@
   "squadron_aliases": [
     "12 Sqdn.",
     "12 Squadron"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "N.a Ansdell",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A.g Heath",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. Hunter",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. Mellor",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R.o Parry",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R.f.d Schafer",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A.r Walker",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Unknown",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Crew Of Lancaster PB476, 12 Squadron RAF\nType: Stone of remembrance\nDescription: Small granite stone of remembrance with squadron badge at top\nInscription: In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE\nLocation: Unclassified road off the A16 at junction of road to Brinkhill and Harrington Ulceby Cross East Lindsey Lincolnshire LN13 0EY England\nGrid Ref: TF 40629 73344\nCoordinates: 53.238317227385,0.105819746192\nPhotos: https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg",
+  "narrative": "In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE"
 }

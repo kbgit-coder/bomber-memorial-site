@@ -20,7 +20,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.482132298748525,
   "longitude": 0.1755334614330451,
@@ -63,7 +63,7 @@
         "Local community involvement in memorial upkeep"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Bureau of Aircraft Accidents Archives",
@@ -135,5 +135,51 @@
   "squadron_aliases": [
     "76 Squadron",
     "76 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "John Anderson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "John R Bathe",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "James G Davenport",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Douglas R Dibbins",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Norris M Harrison",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Gerald J Head",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Kenneth C Oswald",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Handley Page Halifax LK789\nType: Board / Plaque / Tablet\nDescription: White plastic plaque surmounting an angled brick plinth. The plaque is incised with a dedication in black lettering and in the top left corner is the crest of 76 Squadron.\nInscription: This plaque is a memorial to the crew of/ RAF Halifax LK789/ of 76 Squadron Holme-on-Spalding Moor/ which crashed near Colony Farm Menea/ on the 25th April 1944 with the loss of six crewmen./ (Names)\nLocation: Station Road Manea Fenland Cambridgeshire PE15 0JL England\nGrid Ref: TL 47964 89699\nCoordinates: 52.485151448978,0.177611891502\nPhotos: https://media.iwm.org.uk/ciim5/memorials/121/7/large_ca_manea_1_0.jpg; https://media.iwm.org.uk/ciim5/memorials/170/863/large_97988.jpg; https://media.iwm.org.uk/ciim5/memorials/173/242/large_20200625_manea_6.jpg; https://media.iwm.org.uk/ciim5/memorials/173/243/large_20200625_manea_2.jpg; https://media.iwm.org.uk/ciim5/memorials/173/244/large_20200625_manea_12.jpg",
+  "narrative": "This plaque is a memorial to the crew of/ RAF Halifax LK789/ of 76 Squadron Holme-on-Spalding Moor/ which crashed near Colony Farm Menea/ on the 25th April 1944 with the loss of six crewmen./ (Names)",
+  "additional_contributors": [
+    {
+      "name": "Martin Hindry (Manea Village Archive)",
+      "role": "Local historian — 2023 write-up, plaque photographs, no copyright restrictions",
+      "date": "2026-04-09"
+    }
   ]
 }

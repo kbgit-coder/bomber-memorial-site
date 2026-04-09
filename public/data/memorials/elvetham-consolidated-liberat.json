@@ -17,7 +17,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 51.3014,
   "longitude": -0.8796,
@@ -72,5 +72,6 @@
   "squadron_display_name": "Czechoslovak Air Force",
   "squadron_aliases": [
     "Czechoslovak Air Force"
-  ]
+  ],
+  "narrative": "{\"aircraft_serial\": \"KG867\", \"aircraft_type\": \"Consolidated Liberator GR.VI\", \"date\": \"5 October 1945\", \"fatalities\": \"23\", \"location\": \"Elvetham, Hampshire, England 51\\u00b018\\u20323.40\\u2033N 0\\u00b053\\u20326.97\\u2033W\\ufeff / \\ufeff51.3009444\\u00b0N 0.8852694\\u00b0W\\ufeff / 51.3009444; -0.8852694\", \"operator\": \"RAF Transport Command\", \"summary\": \"Fuel leak leading to engine fire\", \"title\": \"Elvetham air crash\"}"
 }

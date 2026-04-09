@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 57.33675,
   "longitude": -3.925388,
@@ -87,5 +87,29 @@
   "squadron_display_name": "RAF Bomber Command",
   "squadron_aliases": [
     "RAF Bomber Command"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "John Graham Castling",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Cecil S George",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Cyril W Green",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "John G Irvine",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: AW Whitley N1498\nType: Cairn\nDescription: Cairn erected near crash site with plaque attached.\nInscription: MEMORIAL: This plaque is in memory of/ those personnel killed when/ Whitley Mk V Aircraft/ operating with 19 OTU RAF Kinloss/ crashed here on 6th January 1942/ (names)\nLocation: Carn a' choire Mhoir approx 3 miles east of Tomatin Inverness Highlands and Islands IV13 7XY Scotland\nGrid Ref: NH 843 291\nCoordinates: 57.337694541450,-3.923759185315\nPhotos: https://media.iwm.org.uk/ciim5/memorials/46/470/large_6049.jpg; https://media.iwm.org.uk/ciim5/memorials/46/471/large_6049_2.jpg",
+  "narrative": "MEMORIAL: This plaque is in memory of/ those personnel killed when/ Whitley Mk V Aircraft/ operating with 19 OTU RAF Kinloss/ crashed here on 6th January 1942/ (names)"
 }

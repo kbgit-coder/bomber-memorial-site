@@ -20,7 +20,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 50.75389166644557,
   "longitude": -1.8713726813737561,
@@ -83,7 +83,7 @@
         "Documented on international war heritage database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -117,5 +117,44 @@
   "squadron_display_name": "No. 3 Overseas Aircraft Dispatch Unit",
   "squadron_aliases": [
     "No. 3 Overseas Aircraft Dispatch Unit"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "George A Alexander",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Stanley A Appleton",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Denis R Evans",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Stanley F Gent",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Kenneth Green",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Reginald R Mcgregor",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Henry W Roberts",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Handley Page Halifax JP137\nType: Stone of remembrance\nDescription: Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.\nInscription: MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ (Names)/ 'LEST WE FORGET'/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.\nLocation: Wimborne Road Moordown Bournemouth Dorset BH9 2BU England\nGrid Ref: SZ 09055 95223\nCoordinates: 50.756537502895,-1.872981603635\nPhotos: https://media.iwm.org.uk/ciim5/memorials/10/203/moordown_halifax_memorial_croger_shore.jpg; https://media.iwm.org.uk/ciim5/memorials/40/446/large_66526_mark_newton__3_march_2016.jpg",
+  "narrative": "MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ (Names)/ 'LEST WE FORGET'/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH."
 }

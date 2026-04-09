@@ -58,8 +58,8 @@ const ASSOCIATION_URLS: Record<string, { url: string; name: string }> = {
   '49 Squadron': { url: 'https://49squadron.co.uk', name: '49 Squadron Association' },
   '44 Squadron': { url: 'https://44sqn.com', name: '44 Squadron' },
   '44 (Rhodesia) Squadron': { url: 'https://44sqn.com', name: '44 Squadron' },
-  '61 Squadron': { url: 'https://no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
-  '50 Squadron': { url: 'https://no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
+  '61 Squadron': { url: 'http://www.no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
+  '50 Squadron': { url: 'http://www.no-50-and-no-61-squadrons-association.co.uk', name: '50 & 61 Squadrons Association' },
   '158 Squadron': { url: 'https://158squadron.co.uk', name: '158 Squadron' },
   '207 Squadron': { url: 'http://www.207squadron.rafinfo.org.uk', name: '207 Squadron' },
   '617 (Dambuster) Squadron': { url: 'https://617squadronassociation.org', name: '617 Squadron Association' },
@@ -152,7 +152,12 @@ export function getAllSquadrons(): Squadron[] {
   }
 
   return Object.entries(grouped)
-    .filter(([, mems]) => mems.length >= 2)
+    .filter(([name, mems]) => {
+      // Always include squadrons with enriched data files, even if only 1 memorial
+      const enrichedPath = path.join(process.cwd(), 'public/data/squadrons', `${squadronSlug(name)}.json`);
+      if (fs.existsSync(enrichedPath)) return true;
+      return mems.length >= 2;
+    })
     .map(([name, mems]) => {
       const stations = Array.from(new Set(mems.map(m => m.station).filter((s): s is string => !!s)));
       const aircraftTypes = Array.from(new Set(mems.map(m => m.aircraft_type).filter((s): s is string => !!s)));

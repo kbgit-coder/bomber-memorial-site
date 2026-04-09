@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.27475331864182,
   "longitude": -0.7449671407874179,
@@ -76,6 +76,12 @@
       "org_name": "Laughterton Parish Meeting",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Local research on EH940 and LM292 crashes",
+      "email": "via chris.smith@kettlethorpe-pc.gov.uk",
+      "org_name": "Laughterton Historic Society",
+      "org_type": "History Society"
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/103.jpg",
@@ -129,5 +135,12 @@
   "squadron_aliases": [
     "103 Sqdn.",
     "103 Squadron"
+  ],
+  "additional_contributors": [
+    {
+      "name": "Paul Lawrence (Laughterton Historic Society)",
+      "role": "Local historian — PowerPoint presentation covering Stirling EH940 and Lancaster LM292 (requested April 2026)",
+      "date": "2026-04-09"
+    }
   ]
 }

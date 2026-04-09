@@ -34,9 +34,9 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "On 27 April 1944, Halifax LL356 of the highly secretive 138 (Special Duties) Squadron crashed at Kirkley, a suburb of Lowestoft on the Suffolk coast. No. 138 Squadron was one of RAF's clandestine units, based at Tempsford in Bedfordshire, tasked with dropping agents, supplies, and equipment to resistance movements across occupied Europe. Their operations were hazardous and rarely publicised. The circumstances of this crash -- with the aircraft coming down on the Suffolk coast, far from its Bedfordshire base -- suggest the Halifax may have been returning from or departing for a special operations mission. The pilot, Flight Sergeant George Herbert Williamson of the Royal Australian Air Force, and all six other crew members were killed.",
+  "narrative": "On 27 April 1944, Halifax LL356 of the highly secretive 138 (Special Duties) Squadron was lost over the North Sea while on operations. A memorial to the crew stands at Kirkley, a suburb of Lowestoft on the Suffolk coast. No. 138 Squadron was one of RAF's clandestine units, based at Tempsford in Bedfordshire, tasked with dropping agents, supplies, and equipment to resistance movements across occupied Europe. Their operations were hazardous and rarely publicised. The aircraft had departed RAF Tempsford at 23:10 on 27 April 1944 to drop supplies to the Belgian resistance. The crash site is believed to be in the North Sea, possibly near the Dutch Islands. The pilot, Flight Sergeant George Herbert Williamson of the Royal Australian Air Force, and all six other crew members were killed.",
   "crew": [
     {
       "rank": "F/Sgt",
@@ -275,12 +275,20 @@
     "verified_by": "Holly (PAI)",
     "verification_date": "2026-04-05",
     "community_submissions": 0,
-    "last_reviewed": "2026-04-06"
+    "last_reviewed": "2026-04-09",
+    "notes": "Memorial location at Kirkley Bowls Club is correct. Crash site was in the North Sea (confirmed by Bob Collis, April 2026). Map pin shows memorial, not crash site."
   },
   "squadron_display_name": "138 (SD) Squadron RAF",
   "squadron_aliases": [
     "138 (SD) Squadron",
     "138 Squadron",
     "138 Sqdn."
+  ],
+  "additional_contributors": [
+    {
+      "name": "Bob Collis",
+      "role": "Aviation researcher — corrected crash location (North Sea, not Kirkley)",
+      "date": "2026-04-09"
+    }
   ]
 }

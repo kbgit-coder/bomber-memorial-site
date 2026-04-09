@@ -20,7 +20,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.2488,
   "longitude": -0.1589,
@@ -125,7 +125,7 @@
         "Lost due to fuel exhaustion in adverse weather"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Aviation Trails",
@@ -181,5 +181,7 @@
   "squadron_aliases": [
     "405 Squadron",
     "405 Sqdn."
-  ]
+  ],
+  "memorial_details": "Name: Avro Lancaster JB477\nType: Stone of remembrance\nDescription: A Simple Headstone shaped Stone of Remembrance\nInscription: BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them.\nLocation: In a Field- the Crash Site Yelling Huntingdon Cambridgeshire England\nGrid Ref: TL 260 620\nCoordinates: 52.241773205064,-0.156039731958\nPhotos: https://media.iwm.org.uk/ciim5/memorials/64/813/large_8410.jpg; https://media.iwm.org.uk/ciim5/memorials/170/800/8410a.jpg; https://media.iwm.org.uk/ciim5/memorials/170/801/large_8410b.jpg; https://media.iwm.org.uk/ciim5/memorials/170/802/large_8410c.jpg",
+  "narrative": "BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them."
 }

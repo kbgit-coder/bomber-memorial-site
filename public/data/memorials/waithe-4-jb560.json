@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.4871,
   "longitude": -0.0654,
@@ -105,5 +105,15 @@
   "squadron_aliases": [
     "100 Sqdn.",
     "100 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "David William HOLFORD",
+      "rank": "Wing Commander",
+      "role": "Pilot",
+      "service_number": "41704",
+      "burial_location": "Grave 14750. at Cambridge City Cemetery, United Kingdom",
+      "fate": "Killed"
+    }
   ]
 }

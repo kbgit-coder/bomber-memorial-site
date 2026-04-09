@@ -82,12 +82,8 @@ export default function MemorialPage({ params }: Props) {
     ? { bg: '#4a1a1a', text: '#d47e7e', label: 'Estimated Location' }
     : null;
 
-  // Only show full_narrative when we haven't extracted crew data into the crew array yet
-  // Once crew is structured, the raw narrative is redundant and messy
-  const hasStructuredCrew = memorial.crew && memorial.crew.length > 0;
-  const fullNarratives = hasStructuredCrew
-    ? []
-    : (memorial.external_narratives || []).filter(n => n.full_narrative);
+  // Show full_narrative for all records — enriched records should show MORE, not less
+  const fullNarratives = (memorial.external_narratives || []).filter(n => n.full_narrative);
 
   return (
     <div data-pagefind-body="" style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
@@ -265,19 +261,29 @@ export default function MemorialPage({ params }: Props) {
               zoom={13}
             />
           </div>
-          {memorial.what3words && (
-            <p style={{ marginTop: "0.75rem", fontSize: "0.9rem" }}>
-              <span style={{ color: "#999" }}>what3words: </span>
-              <a
-                href={`https://what3words.com/${memorial.what3words}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: "#2c5f8a", fontWeight: 500 }}
-              >
-                {"///"}{memorial.what3words}
-              </a>
-            </p>
-          )}
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem 2rem", marginTop: "0.75rem" }}>
+            {memorial.what3words && (
+              <p style={{ fontSize: "0.9rem", margin: 0 }}>
+                <span style={{ color: "#999" }}>what3words: </span>
+                <a
+                  href={`https://what3words.com/${memorial.what3words}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: "#2c5f8a", fontWeight: 500 }}
+                >
+                  {"///"}{memorial.what3words}
+                </a>
+              </p>
+            )}
+            {memorial.os_grid_reference && (
+              <p style={{ fontSize: "0.9rem", margin: 0 }}>
+                <span style={{ color: "#999" }}>OS Grid Ref: </span>
+                <span style={{ fontWeight: 500, color: "#333", fontFamily: "'Helvetica Neue', Arial, sans-serif" }}>
+                  {memorial.os_grid_reference}
+                </span>
+              </p>
+            )}
+          </div>
         </section>
       )}
 
@@ -326,15 +332,139 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* Narrative */}
+      {/* What Happened */}
       {memorial.narrative && (
         <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Narrative</h2>
+          <h2 style={sectionHeading}>What Happened</h2>
           <div style={narrativeBox}>
             {memorial.narrative}
           </div>
         </section>
       )}
+
+      {/* Community Connection — moved up for human story flow */}
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={sectionHeading}>Community Connection</h2>
+        {memorial.community_connection ? (
+          <div style={narrativeBox}>
+            {memorial.community_connection}
+          </div>
+        ) : (
+          <div style={{
+            backgroundColor: "#f8f6f2",
+            border: "1px solid #e0dcd5",
+            borderRadius: 8,
+            padding: "1.25rem 1.5rem",
+            textAlign: "center",
+          }}>
+            <p style={{ fontSize: "0.95rem", color: "#555", marginBottom: "0.75rem", lineHeight: 1.6 }}>
+              Every memorial has a story — why it was built, who campaigned for it, and what it means to the local community.
+              If you know the story behind this memorial, we would love to hear it.
+            </p>
+            <a
+              href={`mailto:admin@bombermemorial.co.uk?subject=Community%20story%3A%20${encodeURIComponent(memorial.title)}&body=Memorial%3A%20${encodeURIComponent(memorial.title)}%0APage%3A%20https%3A%2F%2Fbombermemorial.co.uk%2Fmemorial%2F${params.slug}%0A%0APlease%20tell%20us%20the%20story%20behind%20this%20memorial%20%E2%80%94%20why%20it%20was%20built%2C%20who%20was%20involved%2C%20and%20what%20it%20means%20to%20the%20local%20community%3A%0A%0A`}
+              style={{
+                display: "inline-block",
+                padding: "0.5rem 1.25rem",
+                backgroundColor: "#1a2332",
+                color: "#c9b98a",
+                borderRadius: 6,
+                fontSize: "0.85rem",
+                fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                textDecoration: "none",
+              }}
+            >
+              Share this memorial&apos;s story
+            </a>
+          </div>
+        )}
+      </section>
+
+      {/* Remembrance — moved up for human story flow */}
+      {(() => {
+        const r = memorial.remembrance;
+        const hasRemembranceData = r && (r.annual_service || r.service_description || (r.events && r.events.length > 0));
+
+        return (
+          <section style={{ marginBottom: "2.5rem" }}>
+            <h2 style={sectionHeading}>Remembrance</h2>
+            {hasRemembranceData ? (
+              <div style={cardBox}>
+                {r!.service_description && (
+                  <p style={{ fontSize: "0.95rem", color: "#333", lineHeight: 1.7, marginBottom: "0.75rem" }}>
+                    {r!.service_description}
+                  </p>
+                )}
+                {r!.annual_service && r!.service_date && !r!.service_description && (
+                  <p style={{ fontSize: "0.95rem", color: "#333", lineHeight: 1.7, marginBottom: "0.75rem" }}>
+                    An annual commemorative service is held on {r!.service_date}.
+                  </p>
+                )}
+                {r!.events && r!.events.length > 0 && (
+                  <div style={{ marginTop: "0.75rem" }}>
+                    {r!.events.map((event, i) => (
+                      <div key={i} style={{
+                        padding: "0.75rem 1rem",
+                        backgroundColor: "#f8f6f2",
+                        borderLeft: "3px solid #c9b98a",
+                        borderRadius: "0 6px 6px 0",
+                        marginBottom: "0.5rem",
+                      }}>
+                        <div style={{ fontWeight: 600, color: "#1a2332", fontSize: "0.95rem" }}>
+                          {event.name}
+                          {event.date && (
+                            <span style={{ fontWeight: 400, color: "#666", marginLeft: "0.5rem", fontSize: "0.85rem" }}>
+                              ({event.date})
+                            </span>
+                          )}
+                        </div>
+                        {event.description && (
+                          <p style={{ fontSize: "0.9rem", color: "#555", marginTop: "0.25rem", lineHeight: 1.6, marginBottom: 0 }}>
+                            {event.description}
+                          </p>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                )}
+                {r!.last_known_event && (
+                  <p style={{ fontSize: "0.8rem", color: "#999", marginTop: "0.5rem", marginBottom: 0 }}>
+                    Last known event: {r!.last_known_event}
+                  </p>
+                )}
+              </div>
+            ) : (
+              <div style={{
+                backgroundColor: "#f8f6f2",
+                border: "1px solid #e0dcd5",
+                borderRadius: 8,
+                padding: "1.25rem 1.5rem",
+                textAlign: "center",
+              }}>
+                <p style={{ fontSize: "0.95rem", color: "#555", marginBottom: "0.75rem", lineHeight: 1.6 }}>
+                  Do you know of any commemorative events or annual services held at this memorial?
+                  We would love to hear from local communities who remember.
+                </p>
+                <a
+                  href={`mailto:admin@bombermemorial.co.uk?subject=Remembrance%20information%3A%20${encodeURIComponent(memorial.title)}&body=Memorial%3A%20${encodeURIComponent(memorial.title)}%0APage%3A%20https%3A%2F%2Fbombermemorial.co.uk%2Fmemorial%2F${params.slug}%0A%0APlease%20tell%20us%20about%20any%20commemorative%20events%20or%20annual%20services%20held%20at%20this%20memorial%3A%0A%0A`}
+                  style={{
+                    display: "inline-block",
+                    padding: "0.5rem 1.25rem",
+                    backgroundColor: "#1a2332",
+                    color: "#c9b98a",
+                    borderRadius: 6,
+                    fontSize: "0.85rem",
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    textDecoration: "none",
+                  }}
+                >
+                  Share remembrance information
+                </a>
+              </div>
+            )}
+          </section>
+        );
+      })()}
 
       {/* Aircraft Details */}
       {(memorial.aircraft_type || memorial.serial_number || memorial.squadron || memorial.station) && (
@@ -393,10 +523,15 @@ export default function MemorialPage({ params }: Props) {
 
       {/* Crew Table */}
       {memorial.crew && memorial.crew.length > 0 && (() => {
-        const crewKeywords = ["crew", "aircrew", "airmen", "group photo", "team photo", "crew of"];
+        // Only show photos that are actual crew/personnel shots — not memorial plaques,
+        // graves, or landscapes that happen to mention "crew" in the caption.
+        const crewKeywords = ["crew", "aircrew", "airmen", "group photo", "team photo", "crew of", "crew member", "portrait"];
+        const notCrewPhoto = ["memorial", "plaque", "names", "grave", "cemetery", "bench", "inscription", "stone", "cross", "site", "view", "distance", "setting", "detail"];
         const groupCrewPhotos = (memorial.photos || []).filter((p) => {
           const caption = (p.caption || "").toLowerCase();
-          return crewKeywords.some((kw) => caption.includes(kw));
+          const hasCrew = crewKeywords.some((kw) => caption.includes(kw));
+          const isMemorialShot = notCrewPhoto.some((kw) => caption.includes(kw));
+          return hasCrew && !isMemorialShot;
         });
         return (
           <section style={{ marginBottom: "2.5rem" }} aria-label="Crew members">
@@ -558,18 +693,71 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* Memorial Details */}
-      {(memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition) && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Memorial Details</h2>
-          <div style={{ ...cardBox, display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
-            {memorial.memorial_type && <DetailItem label="Type" value={memorial.memorial_type} />}
-            {memorial.erected_by && <DetailItem label="Erected By" value={memorial.erected_by} />}
-            {memorial.dedication_date && <DetailItem label="Dedication Date" value={memorial.dedication_date} />}
-            {memorial.condition && <DetailItem label="Condition" value={memorial.condition} />}
-          </div>
-        </section>
-      )}
+      {/* The Memorial — community connection */}
+      {(() => {
+        // Build a community connection narrative from structured fields
+        const parts: string[] = [];
+        const hasStructuredInfo = memorial.memorial_type || memorial.erected_by || memorial.dedication_date;
+
+        // Format date like "6 July 1994" from "1994-07-06" or pass through as-is
+        const formatDate = (d: string) => {
+          const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+          if (!m) return d;
+          const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+          return `${parseInt(m[3])} ${months[parseInt(m[2])-1]} ${m[1]}`;
+        };
+        const dedDate = memorial.dedication_date ? formatDate(memorial.dedication_date) : "";
+
+        if (hasStructuredInfo) {
+          const typeStr = memorial.memorial_type ? memorial.memorial_type.toLowerCase() : "memorial";
+          if (memorial.erected_by && dedDate) {
+            parts.push(`This ${typeStr} was erected by ${memorial.erected_by} and dedicated on ${dedDate}.`);
+          } else if (memorial.erected_by) {
+            parts.push(`This ${typeStr} was erected by ${memorial.erected_by}.`);
+          } else if (dedDate) {
+            parts.push(`This ${typeStr} was dedicated on ${dedDate}.`);
+          }
+        }
+
+        if (memorial.maintainer?.notes) {
+          parts.push(memorial.maintainer.notes);
+        } else if (memorial.maintainer?.organisation && memorial.maintainer.organisation !== memorial.erected_by) {
+          parts.push(`It is maintained by ${memorial.maintainer.organisation}.`);
+        }
+
+        if (memorial.condition && memorial.condition.toLowerCase() !== "unknown") {
+          parts.push(`The memorial is in ${memorial.condition.toLowerCase()} condition.`);
+        }
+
+        const connectionText = parts.join(" ");
+        const showSection = connectionText || memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition;
+
+        if (!showSection) return null;
+
+        return (
+          <section style={{ marginBottom: "2.5rem" }}>
+            <h2 style={sectionHeading}>The Memorial</h2>
+            {connectionText && (
+              <p style={{
+                fontSize: "0.95rem",
+                color: "#444",
+                lineHeight: 1.8,
+                marginBottom: "1.5rem",
+              }}>
+                {connectionText}
+              </p>
+            )}
+            {(memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition) && (
+              <div style={{ ...cardBox, display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
+                {memorial.memorial_type && <DetailItem label="Type" value={memorial.memorial_type} />}
+                {memorial.erected_by && <DetailItem label="Erected By" value={memorial.erected_by} />}
+                {memorial.dedication_date && <DetailItem label="Dedication Date" value={dedDate || memorial.dedication_date} />}
+                {memorial.condition && <DetailItem label="Condition" value={memorial.condition} />}
+              </div>
+            )}
+          </section>
+        );
+      })()}
 
       {/* Memorial Care */}
       {memorial.maintainer && (

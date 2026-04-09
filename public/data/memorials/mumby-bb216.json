@@ -19,7 +19,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 53.246166869648356,
   "longitude": 0.2739981095048998,
@@ -74,7 +74,7 @@
         "Documented on international heritage database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "Mumby Parish Council",
@@ -123,5 +123,29 @@
   "squadron_display_name": "405 Squadron RCAF",
   "squadron_aliases": [
     "405 (Vancouver) Sqdn."
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Louis D Dawdy",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "C. Gordon Eagles",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Norman Mackenzie",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Harold Stone",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Name: Handley Page Halifax BB216\nType: Stone of remembrance\nDescription: Polished granite stone on a plinth, fixed onto a two stepped concrete base. Two wooden slatted planters either side and a vase in front.\nInscription: Stone: (405 Squadron RCAF badge)/ Just before Midnight/ on 1st September 1942/ HALIFAX II BB216 (LQ-D)/ of 405 Squadron RCAF/ from Topcliffe/ crashed near this spot/ following a disastrous engine fire/ This memorial is placed here to/ commemorate the crew members who died/ (names) Plinth: IN GRATEFUL REMEMBRANCE Planter plagues: (405 Squadron RCAF badge)/ THEY WILL/ NEVER GROW/ OLD Vase: RAOB\nLocation: Crash site on bend of road Langham Road Mumby East Lindsey Lincolnshire LN13 9SJ England\nGrid Ref: TF 52690 73962\nCoordinates: 53.240729010299,0.286613744184\nPhotos: https://media.iwm.org.uk/ciim5/memorials/78/486/large_halifax_bb216_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/78/487/large_halifax_bb216_memorial_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/78/488/large_halifax_bb216_memorial_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/78/489/large_halifax_bb216_memorial_planter_lh.jpg; https://media.iwm.org.uk/ciim5/memorials/78/490/large_halifax_bb216_memorial_planter_rh.jpg",
+  "narrative": "Stone: (405 Squadron RCAF badge)/ Just before Midnight/ on 1st September 1942/ HALIFAX II BB216 (LQ-D)/ of 405 Squadron RCAF/ from Topcliffe/ crashed near this spot/ following a disastrous engine fire/ This memorial is placed here to/ commemorate the crew members who died/ (names) Plinth: IN GRATEFUL REMEMBRANCE Planter plagues: (405 Squadron RCAF badge)/ THEY WILL/ NEVER GROW/ OLD Vase: RAOB"
 }

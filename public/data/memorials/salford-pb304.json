@@ -30,7 +30,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Complete",
   "narrative": "On the morning of 30 July 1944, Lancaster PB304 (ZN-S) was part of a force attacking German positions at Cahagnes in the Normandy battle zone, supporting the Allied breakout following D-Day. Radio communication between aircraft was garbled and difficult, possibly due to German interference broadcasting over the master bomber's frequency. During the return to base, the aircraft developed severe difficulties. Witnesses in Prestwich, on the northern edges of Manchester, saw the Lancaster flying low and in obvious distress, engulfed in flames. The aircraft twice passed over a playing field -- leading local witnesses to believe that pilot Flight Lieutenant Lines was attempting a crash landing to avoid populated areas. The Lancaster came down on the banks of the River Irwell near Regatta Street, Salford, resulting in a massive explosion as its full bomb load and fuel reserves ignited on impact with a 30-second delay. Seven crew members were killed along with two civilians -- Lucy Bamford and George Morris. Over 100 people were injured and many houses were damaged, with one completely demolished. The crew included Sgt Mohand Singh, one of many Indian airmen who served with the RAF during the war.",
   "crew": [
@@ -110,12 +110,17 @@
       "cwgc_verified": true,
       "bio": "Indian rear gunner, representative of the significant contribution made by Indian airmen to RAF Bomber Command during WW2.",
       "decorations": []
+    },
+    {
+      "name": "John Steele",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Returned from aborted Normandy operation with full bomb payload; battle damage or mechanical failure; garbled communications possibly due to German interference",
   "operation_type": "Operational",
   "operation_target": "Attacking enemy positions at Cahagnes, Normandy",
-  "memorial_details": "On the 50th anniversary of the crash in 1994, a Memorial Stone of Remembrance was dedicated at Agecroft Cemetery, Langley Road, Salford. The stone records the names of all seven crew members. The crash site itself -- the Regatta Street area by the River Irwell -- has been substantially redeveloped. A book, \"The Salford Lancaster\" by Joe Bamford (published 1996), provides the definitive account.",
+  "memorial_details": "Name: Avro Lancaster PB304\nType: Board / Plaque / Tablet\nDescription: Upright limestone tablet with black inscription. RAF Crest and motto at top centre.\nInscription: IN MEMORY OF / A ROYAL AIR FORCE CREW / (NAMES) / WHO LOST THEIR LIVES WHEN LANCASTER PB304 CRASHED / NEAR REGATTA STREET ON JULY 30TH 1944.\nLocation: Agecroft Cemetery Langely Road Agecroft Salford Greater Manchester M6 6JP England\nGrid Ref: SD 80616 01509\nCoordinates: 53.509907671791,-2.293739185114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/43/683/large_15977.jpg",
   "latitude": 53.480646923251534,
   "longitude": -2.2949984721049868,
   "maintainer": {
@@ -178,7 +183,7 @@
         "Regular memorial ceremonies held"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [

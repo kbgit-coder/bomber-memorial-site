@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.7706,
   "longitude": 1.1641,
@@ -74,6 +74,12 @@
       "org_name": "Cawston Parish Council",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Correct parish council for Cawston, Norwich — previous contact was Cawston, Warwickshire (wrong parish)",
+      "email": "TBC — need to find correct Norfolk Cawston PC email",
+      "org_name": "Cawston Parish Council (Norfolk)",
+      "org_type": "Parish Council"
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
@@ -90,5 +96,15 @@
   "squadron_aliases": [
     "61 Squadron",
     "61 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "John Edward HILL",
+      "rank": "Sergeant",
+      "role": "Wireless Operator",
+      "service_number": "935567",
+      "burial_location": "Grave 707. at Crowle Cemetery, United Kingdom",
+      "fate": "Killed"
+    }
   ]
 }

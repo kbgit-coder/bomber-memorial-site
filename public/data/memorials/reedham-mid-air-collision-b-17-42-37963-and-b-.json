@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "latitude": 52.5594,
   "longitude": 1.5684,
@@ -37,7 +37,7 @@
         "Part of 900-plane mission returning from Germany"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     },
     {
       "source_site": "US War Memorials",
@@ -83,7 +83,7 @@
         "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false
     }
   ],
   "local_contacts": [
@@ -110,5 +110,12 @@
   "squadron_display_name": "385th Bomb Group USAAF",
   "squadron_aliases": [
     "385th BG"
+  ],
+  "additional_contributors": [
+    {
+      "name": "Mary Blanche",
+      "role": "Local contributor — memorial information and photographs",
+      "date": "2026-04-09"
+    }
   ]
 }
