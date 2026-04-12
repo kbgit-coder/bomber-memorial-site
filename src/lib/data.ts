@@ -180,6 +180,56 @@ export function getMemorialStats() {
   };
 }
 
+// Cross-linked memorials: same incident, separate memorial pages
+const CROSS_LINKS: Record<string, { slug: string; reason: string }[]> = {
+  'cloot-drove-nd981-and-lancaster-me625-mid-air-collision-': [
+    { slug: 'crowland-mid-air-collision-me265-lancaster-nd981', reason: 'Same mid-air collision, 23 June 1944 — two Lancasters collided over the Fens' },
+  ],
+  'crowland-mid-air-collision-me265-lancaster-nd981': [
+    { slug: 'cloot-drove-nd981-and-lancaster-me625-mid-air-collision-', reason: 'Same mid-air collision, 23 June 1944 — two Lancasters collided over the Fens' },
+  ],
+  'bleasby-3-lancaster-r-5698': [
+    { slug: 'bleasby-4-jb132', reason: 'Mid-air collision at Bleasby, 1 September 1943' },
+  ],
+  'bleasby-4-jb132': [
+    { slug: 'bleasby-3-lancaster-r-5698', reason: 'Mid-air collision at Bleasby, 1 September 1943' },
+  ],
+  'brocklesby-me442': [
+    { slug: 'east-stockwith-me323', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+    { slug: 'ulceby-cross-pb476', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+  ],
+  'east-stockwith-me323': [
+    { slug: 'brocklesby-me442', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+    { slug: 'ulceby-cross-pb476', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+  ],
+  'ulceby-cross-pb476': [
+    { slug: 'brocklesby-me442', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+    { slug: 'east-stockwith-me323', reason: 'Same night, 4 March 1945 — Lincolnshire' },
+  ],
+  'hatcliffe-top-jb596': [
+    { slug: 'waithe-lancaster-mid-air-collision', reason: 'Same night, 17 December 1943 — returning from Berlin' },
+  ],
+  'waithe-lancaster-mid-air-collision': [
+    { slug: 'hatcliffe-top-jb596', reason: 'Same night, 17 December 1943 — returning from Berlin' },
+  ],
+};
+
+export function getRelatedMemorials(slug: string) {
+  const links = CROSS_LINKS[slug] || [];
+  return links.map(link => {
+    const memorial = getMemorialBySlug(link.slug);
+    return memorial ? { ...link, title: memorial.title, aircraft_type: memorial.aircraft_type } : null;
+  }).filter(Boolean) as { slug: string; reason: string; title: string; aircraft_type?: string }[];
+}
+
+export function getQualityDashboardData() {
+  // Dynamic import to avoid circular dependency
+  // eslint-disable-next-line @typescript-eslint/no-require-imports
+  const { scoreMemorial } = require('./quality');
+  const all = getAllMemorials();
+  return all.map((m: Memorial) => scoreMemorial(m));
+}
+
 export function getInsightsData() {
   const all = getAllMemorials();
 

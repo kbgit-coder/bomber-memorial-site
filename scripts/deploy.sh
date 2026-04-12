@@ -128,6 +128,20 @@ else
 fi
 echo ""
 
+# --- Step 2c: Crew UID Database Sync -----------------------------------------
+CREW_DB="$REPO_ROOT/scripts/populate-crew-db.py"
+if [[ -f "$CREW_DB" ]]; then
+  info "Syncing crew UID database..."
+  if python3 "$CREW_DB" 2>&1 | tail -1 | grep -q "Complete"; then
+    success "Crew UID database synced."
+  else
+    warn "Crew DB sync had issues — check output. Non-blocking."
+  fi
+else
+  warn "populate-crew-db.py not found — skipping crew DB sync."
+fi
+echo ""
+
 # --- Step 3: Prepare out/ directory ------------------------------------------
 info "Copying static assets into out/..."
 

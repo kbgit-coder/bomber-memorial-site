@@ -3,6 +3,7 @@ import {
   getAllMemorialSlugs,
   getMemorialBySlug,
   getNearbyMemorials,
+  getRelatedMemorials,
 } from "@/lib/data";
 import { getSquadronSlugForName } from "@/lib/squadrons";
 import CrewTable from "@/components/CrewTable";
@@ -86,6 +87,9 @@ export default function MemorialPage({ params }: Props) {
     Stub: { bg: "#5a3a1e", text: "#d4a88c" },
   };
   const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Partial"];
+
+  // Related memorials (same incident, different page)
+  const relatedMemorials = getRelatedMemorials(params.slug);
 
   // Nearby memorials (only when we have coordinates)
   const nearbyMemorials =
@@ -1009,6 +1013,44 @@ export default function MemorialPage({ params }: Props) {
                 )}
                 {narrative.key_details && <p style={{ fontSize: "0.9rem", color: "#666", fontStyle: "italic" }}>{narrative.key_details}</p>}
               </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Related Memorials (same incident) */}
+      {relatedMemorials.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Related Memorial{relatedMemorials.length > 1 ? 's' : ''}</h2>
+          <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+            {relatedMemorials.map((related) => (
+              <Link
+                key={related.slug}
+                href={`/memorial/${related.slug}`}
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <div style={{
+                  backgroundColor: "#f8f6f2",
+                  borderLeft: "4px solid #2c5f8a",
+                  borderRadius: "0 8px 8px 0",
+                  padding: "1rem 1.25rem",
+                  transition: "box-shadow 0.2s ease",
+                  cursor: "pointer",
+                }}>
+                  <div style={{
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    color: "#1a2332",
+                    fontSize: "0.95rem",
+                    fontWeight: 600,
+                    marginBottom: "0.25rem",
+                  }}>
+                    {related.title}
+                  </div>
+                  <div style={{ fontSize: "0.85rem", color: "#666", lineHeight: 1.5 }}>
+                    {related.reason}
+                  </div>
+                </div>
+              </Link>
             ))}
           </div>
         </section>
