@@ -150,12 +150,19 @@
       "bio": "From Manor, Texas.",
       "hometown": "Manor, Texas, USA",
       "decorations": []
+    },
+    {
+      "name": "Krieghauser",
+      "rank": "First Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "American"
     }
   ],
   "cause_of_loss": "Heavily damaged by enemy fighters over Denmark; engines failing; pilot aborted landing approach to avoid children playing in park",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing mission over Aalborg, Denmark",
-  "memorial_details": "Name: B-17 &quot;Mi Amigo&quot; 42-31322 - 305th Bomb Group USAAF\nType: Stone of remembrance\nDescription: Rough stone of remembrance with two attached plaques- the upper being the dedication plaque, the lower for the names. Lettering in low relief. Ten associated American Oak trees. In 2019 the memorial was supplemented by a new flagpole and an additional American Oak.\nInscription: ERECTED BY/ SHEFFIELD R.A.F. ASSOCIATION/ IN MEMORY OF/ THE TEN CREW OF U.S.A.A.F. BOMBER/ WHICH CRASHED IN THIS PARK/ 22-2-1944/ PER ARDUA AD ASTRA\nLocation: 77 Endcliffe Park Rustlings Road Sheffield Sheffield South Yorkshire S11 7AB England\nGrid Ref: SK 32729 85768\nCoordinates: 53.367773675892,-1.509582544048\nPhotos: https://media.iwm.org.uk/ciim5/memorials/174/248/27509_raf_association_r.jpg; https://media.iwm.org.uk/ciim5/memorials/164/454/large_27509_raf_association_sheffield_branch_august_2023_2.jpg; https://media.iwm.org.uk/ciim5/memorials/70/768/large_img_6501_0.jpg; https://media.iwm.org.uk/ciim5/memorials/70/769/large_img_6505.jpg; https://media.iwm.org.uk/ciim5/memorials/78/78/large_mamemorial150919.jpg",
+  "memorial_details": "Name: B-17 &quot;Mi Amigo&quot; 42-31322 - 305th Bomb Group USAAF\nType: Stone of remembrance\nDescription: Rough stone of remembrance with two attached plaques- the upper being the dedication plaque, the lower for the names. Lettering in low relief. Ten associated American Oak trees. In 2019 the memorial was supplemented by a new flagpole and an additional American Oak.\nInscription: ERECTED BY/ SHEFFIELD R.A.F. ASSOCIATION/ IN MEMORY OF/ THE TEN CREW OF U.S.A.A.F. BOMBER/ WHICH CRASHED IN THIS PARK/ 22-2-1944/ PER ARDUA AD ASTRA\nLocation: 77 Endcliffe Park Rustlings Road Sheffield Sheffield South Yorkshire S11 7AB England\nGrid Ref: SK 32729 85768\nCoordinates: 53.367773675892,-1.509582544048\nPhotos: https://media.iwm.org.uk/ciim5/memorials/174/248/27509_raf_association_r.jpg; https://media.iwm.org.uk/ciim5/memorials/164/454/large_27509_raf_association_sheffield_branch_august_2023_2.jpg; https://media.iwm.org.uk/ciim5/memorials/70/768/large_img_6501_0.jpg; https://media.iwm.org.uk/ciim5/memorials/70/769/large_img_6505.jpg; https://media.iwm.org.uk/ciim5/memorials/78/78/large_mamemorial150919.jpg\n\nMemorial Display: A display commemorating the B-17 'Mi Amigo' 42-31322 of the 305th Bomb Group USAAF.",
   "latitude": 53.3686,
   "longitude": -1.5045,
   "maintainer": {
@@ -174,7 +181,8 @@
         "One of Britain's most well-known WWII crash memorials"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the captivating history of Sheffield's \"Mi Amigo\" Memorial on Wikipedia."
     },
     {
       "source_site": "American Air Museum in Britain",
@@ -185,7 +193,8 @@
         "Crew personnel records linked"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the detailed service history and crew records of the American Air Museum's B-17G \"Mi Amigo\" from the 305th Bomb Group."
     },
     {
       "source_site": "Imperial War Museums",
@@ -196,7 +205,8 @@
         "Registered as 305th Bomb Group memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Sheffield's \"Mi Amigo\" Memorial honoring the fallen USAAF bomber crew from the 305th Bomb Group."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -206,7 +216,8 @@
         "Listed in international TracesOfWar database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the international memorial database entry for the Sheffield \"Mi Amigo\" crash memorial at TracesOfWar.com."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -218,7 +229,8 @@
         "Aircraft pursued by enemy fighters"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Sheffield \"Mi Amigo\" Memorial: Detailed narrative of its final flight at aircrashsites.co.uk."
     },
     {
       "source_site": "Key Aero",
@@ -229,7 +241,8 @@
         "Ongoing annual commemorations"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Witness USAF flypast honoring Sheffield's 80th anniversary B-17 crash memorial service."
     }
   ],
   "local_contacts": [
@@ -256,5 +269,11 @@
   "squadron_display_name": "364th Bomb Squadron USAAF",
   "squadron_aliases": [
     "364th Bomber Squadron, 305th Bomb Group"
-  ]
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "This memorial image was created and shared by the RAF Association, Sheffield Branch (WMR-27509). It showcases a significant piece of WWII history, highlighting the connection between the local community in Sheffield and the war effort through their association with the RAF.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

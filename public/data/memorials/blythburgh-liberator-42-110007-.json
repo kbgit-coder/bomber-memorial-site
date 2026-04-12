@@ -40,7 +40,8 @@
         "Premature detonation before planned bailout near RAF Manston"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Operation Aphrodite mission and subsequent tragedy, including aircraft specifications and village impact."
     },
     {
       "source_site": "American Air Museum",
@@ -51,7 +52,8 @@
         "Target was suspected V-3 site at Mimoyecques"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of PB4Y-1 Liberator aircraft 42-110007, its use in Operation Aphrodite, and its connection to the Blythburgh memorial."
     },
     {
       "source_site": "The History Reader",
@@ -65,7 +67,8 @@
         "Kennedy had already completed 25 combat missions"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Aphrodite mission tragedy near Blythburgh, Suffolk."
     },
     {
       "source_site": "Warfare History Network",
@@ -77,7 +80,8 @@
         "Both Army (B-17) and Navy (PB4Y-1) variants used"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Operation Aphrodite Mission Details and Memorial Overview"
     }
   ],
   "local_contacts": [
@@ -104,5 +108,9 @@
   "squadron_display_name": "USN Special Air Unit",
   "squadron_aliases": [
     "USN Special Air Unit"
-  ]
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative": "On 12 August 1944, Lieutenant Joseph P. Kennedy Jr. and Lieutenant Wilford \"Bud\" Willy took off from Fersfield as part of a secret Operation Aphrodite mission, piloting a Navy PB4Y-1 Liberator packed with explosives and intended to be guided remotely onto its target after the crew bailed out. The aircraft detonated prematurely over Suffolk before the two men could escape, killing both instantly. The explosion scattered wreckage across the area near Blythburgh. There were no survivors. Kennedy, the elder brother of future U.S. President John F. Kennedy, was among the two men lost that day.",
+  "narrative_source": "generated-claude-sonnet"
 }

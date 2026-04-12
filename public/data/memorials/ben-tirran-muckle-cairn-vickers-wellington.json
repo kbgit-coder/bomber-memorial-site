@@ -96,7 +96,8 @@
         "Access requires hill walk from Glen Clova"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Exploration of Wellington L7845 wreckage, showcasing remaining components and site visit insights."
     },
     {
       "source_site": "Deeside Hillwalking Club",
@@ -108,7 +109,8 @@
         "Accessible via hill walk"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Visit account detailing Wellington bomber crash site exploration, including wreckage remnants and scenic hill location in Angus glens."
     },
     {
       "source_site": "The Courier",
@@ -120,7 +122,8 @@
         "Bagpipes played at plaque dedication ceremony"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Wellington Bomber Propeller Recovery and Memorial Plaque Unveiling at Montrose Air Station."
     }
   ],
   "local_contacts": [
@@ -142,5 +145,7 @@
   "squadron_display_name": "20 OTU",
   "squadron_aliases": [
     "20 OTU"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

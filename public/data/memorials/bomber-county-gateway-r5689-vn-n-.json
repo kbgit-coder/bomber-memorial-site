@@ -41,7 +41,8 @@
         "R5689 described as most photographed Lancaster of the war"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed sculpture description, historical context, and photographs of 'On Freedom's Wings', a Lancaster Mk1 replica commemorating R5689 VN-N."
     },
     {
       "source_site": "RAF Official",
@@ -52,7 +53,8 @@
         "Located near Norton Disney, close to RAF Swinderby"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed tribute to Bomber Command personnel, featuring sculpture descriptions and location information."
     }
   ],
   "local_contacts": [
@@ -74,5 +76,9 @@
   "squadron_display_name": "General Bomber Command memorial",
   "squadron_aliases": [
     "General Bomber Command memorial"
-  ]
+  ],
+  "narrative": "Lancaster R5689 (VN-N) was lost on 18 September 1942, one of the countless aircraft that failed to return during Bomber Command's sustained campaign over occupied Europe. Five crew members were killed. No survivors are recorded. The aircraft is commemorated by a full-sized steel replica Lancaster, titled *On Freedom's Wings*, installed at the Bomber County Gateway near Lincoln — a county that served as the operational heartland of Bomber Command throughout the war. The memorial stands as a permanent tribute to the crews of R5689 and the wider force whose sacrifice went formally unrecognised for decades.",
+  "crash_category": "general-memorial",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

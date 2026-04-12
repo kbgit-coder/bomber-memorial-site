@@ -3,7 +3,7 @@
   "title": "Normandy Bomber Crew Memorial",
   "location_name": "Normandy",
   "country": "France",
-  "narrative": "Multiple bomber crash sites across the Normandy region, many associated with D-Day operations and the subsequent campaign.",
+  "narrative": "",
   "memorial_type": "Multiple memorials",
   "data_quality": "Stub",
   "contributor": "Charlie Leitheiser",
@@ -28,7 +28,8 @@
         "Includes Bomber Command casualties"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The names of fallen heroes at the newly unveiled British Normandy Memorial."
     },
     {
       "source_site": "Normandy War Guide",
@@ -39,7 +40,8 @@
         "50% casualty rate among French bomber crews noted"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial of Normandy Bomber Crews: Honoring Fallen French Airmen."
     },
     {
       "source_site": "CWGC",
@@ -50,7 +52,8 @@
         "Bomber Command graves across the region"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore CWGC's comprehensive guide to Normandy D-Day memorials, featuring cemeteries for Bomber Command aircrew burials."
     }
   ],
   "what3words": "info.desks.flags",
@@ -62,5 +65,25 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Normandy Campaign (June - August 1944)",
+        "date": "1944-06-00 - 1944-08-31",
+        "description": "The Allies took around 225,000 casualties during this campaign. Total Commonwealth casualties are estimated at around 22,000 killed or missing."
+      },
+      {
+        "name": "D-Day 82: Official Ceremony",
+        "date": "6 June 2026",
+        "description": "Register for free tickets to attend the ceremony"
+      }
+    ],
+    "annual_service": true,
+    "service_date": "6 June"
+  },
+  "memorial_details": "Memorial Dedication (1988-06-06): Dedication of the memorial to French bomber crews who participated in the destruction of Nazi Germany on D-Day, 6th June 1944. It is noted that half of these airmen perished.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
 }

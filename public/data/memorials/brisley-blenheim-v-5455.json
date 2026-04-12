@@ -36,7 +36,8 @@
         "Engine trouble on return to West Raynham"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of Blenheim V5455 crash site memorial in Brisley, Norfolk."
     },
     {
       "source_site": "Waymarking",
@@ -48,7 +49,8 @@
         "Crew: P/O John Graham (21), Sgt Michael Beaufoy (19), Sgt Leslie Harrowell (22)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Crew's Operation Millennium participation and crash site memorial details, including 2000 installation."
     },
     {
       "source_site": "Norfolk Heritage Explorer",
@@ -58,7 +60,8 @@
         "Norfolk HER reference: MNF46398"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed historical record of Bristol Blenheim crash site at Brisley, including context, discovery, and significance as a World War II heritage site."
     }
   ],
   "crew": [
@@ -75,13 +78,15 @@
       "name": "Michael Beaufoy",
       "rank": "Sgt",
       "age": 19,
-      "fate": "Killed"
+      "fate": "Killed",
+      "role": "Unknown (not specified in text)"
     },
     {
       "name": "Leslie Harrowell",
       "rank": "Sgt",
       "age": 22,
-      "fate": "Killed"
+      "fate": "Killed",
+      "role": "Unknown (not specified in text)"
     }
   ],
   "local_contacts": [
@@ -109,5 +114,13 @@
   "squadron_aliases": [
     "114 Squadron",
     "114 Sqdn."
-  ]
+  ],
+  "narrative": "The Bristol Blenheim crashed into a village pond on June 9, 1942 when attempting to return to West Raynham due to engine trouble. The three crew members were killed: Pilot Officer John Graham (aged 21), Sergeant Michael Beaufoy (aged 19), and Sergeant Leslie Harrowell (aged 22).",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "memorial_details": "A memorial was placed at the site in 2000 to honor these young airmen.\n\nMemorial placement (2000): Memorial placed on site in 2000",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

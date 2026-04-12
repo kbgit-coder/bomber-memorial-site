@@ -39,7 +39,8 @@
         "Trained crews for Pathfinder Force operations"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore RAF Pathfinders Archive's documentation of Mosquito squadron crews, including 1655 Mosquito Training Unit at RAF Warboys and their role in Pathfinder operations."
     },
     {
       "source_site": "RAF Pathfinders Archive - Training Units",
@@ -51,7 +52,8 @@
         "Pathfinder Force training role"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore RAF Pathfinders Archive's detailed account of Pathfinder Force training units' history at Pidley Mosquito Memorial."
     }
   ],
   "local_contacts": [
@@ -78,5 +80,17 @@
   "squadron_display_name": "1655 MTU",
   "squadron_aliases": [
     "1655 MTU"
-  ]
+  ],
+  "narrative": "Mosquito DK300, operated by 1655 Mosquito Training Unit from RAF Warboys, was on a training flight on 22 July 1944 when it crashed near Pidley, Cambridgeshire. Flight Lieutenant John Wilmer and Flying Officer Adam Carter H. McConnell-Jones were both killed. Engine Fitter James Henry of 1409 Met Flight was also recorded among those lost at the site. No survivors are noted from the crash.",
+  "crew": [
+    {
+      "name": "James Henry",
+      "rank": "Engine Fitter",
+      "fate": "Killed/unknown",
+      "role": "crew member (1409 Met Flight)"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

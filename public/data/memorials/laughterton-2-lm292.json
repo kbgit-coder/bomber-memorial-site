@@ -39,7 +39,8 @@
         "Shares memorial cairn with EH940"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed history and information about Laughterton Trentside Memorial honoring Lancaster aircraft at War Memorials Online."
     },
     {
       "source_site": "Geograph",
@@ -51,7 +52,8 @@
         "Brown and Corless stayed to control aircraft"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Photographic record of Lancaster LM292 crash memorial plaque at Laughterton."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -62,7 +64,8 @@
         "Dual memorial unveiled 16 July 1994"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The unveiling of the Laughterton Memorial in Lancaster, honoring Stirling EH940 and Lancaster LM292 crash victims from IWM War Memorials Register."
     }
   ],
   "local_contacts": [
@@ -142,5 +145,13 @@
       "role": "Local historian — PowerPoint presentation covering Stirling EH940 and Lancaster LM292 (requested April 2026)",
       "date": "2026-04-09"
     }
-  ]
+  ],
+  "narrative": "Whilst flying at 1800ft, the aircraft suffered an in-flight engine fire. The aircraft dived and banked before it crashed at Park Farm, Kettlethorpe at 1738. Five of the crew were killed, three were injured.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "memorial_details": "The memorial was unveiled on the 16th July 1994 by the side of the A1133 and a unclassified road, erected by the local community.\n\nMemorial Display: A display featuring Short Stirling EH940 and Avro Lancaster LM292 aircraft from World War II.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

@@ -34,23 +34,23 @@
   "crew": [
     {
       "rank": "F/O",
-      "name": "B.A. McLennan",
+      "name": "P/O Burns Alexander McLennan",
       "role": "Pilot",
-      "nationality": "Canadian (RCAF)",
+      "nationality": "Canadian",
       "fate": "Killed"
     },
     {
       "rank": "Sgt",
-      "name": "G.R. Schneider",
+      "name": "Gordon Raymond Schneider",
       "role": "Crew",
-      "nationality": "Canadian (RCAF)",
+      "nationality": "Canadian",
       "fate": "Killed"
     },
     {
       "rank": "F/O",
-      "name": "W.F. Sheppard",
+      "name": "Walter Fitzgerald Sheppard",
       "role": "Crew",
-      "nationality": "Canadian (RCAF)",
+      "nationality": "Canadian",
       "fate": "Killed"
     },
     {
@@ -61,21 +61,42 @@
     },
     {
       "rank": "Sgt",
-      "name": "L.H. Cornwell",
+      "name": "Herbert Leonard Cornwell",
       "role": "Crew",
-      "fate": "Killed"
+      "fate": "Killed",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
-      "name": "E. Halliwell",
+      "name": "Eric Halliwell",
       "role": "Crew",
-      "fate": "Killed"
+      "fate": "Killed",
+      "nationality": "British"
     },
     {
       "rank": "W/O",
       "name": "S.C.H. Nutting DFM",
       "role": "Rear Gunner",
       "fate": "Survived"
+    },
+    {
+      "name": "Paulton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Maurice Francis Victor Roobroeck",
+      "rank": null,
+      "fate": "Killed",
+      "role": null,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Clair Nutting",
+      "rank": null,
+      "fate": "Survived",
+      "role": null,
+      "nationality": "Canadian"
     }
   ],
   "external_narratives": [
@@ -88,7 +109,8 @@
         "405 Squadron Royal Canadian Air Force memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore IWM War Memorials Register entry for Lancaster JB477 memorial at Yelling, honoring fallen crew members of 405 Squadron RCAF in tragic crash on Dec 17, 1943."
     },
     {
       "source_site": "War Memorials Online",
@@ -99,7 +121,8 @@
         "OS Grid Reference TL 260 620"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Lancaster Bomber JB477 Memorial Stone at Yelling, Cambridgeshire."
     },
     {
       "source_site": "RAF Pathfinders Archive",
@@ -113,7 +136,8 @@
         "Aircraft designation was LQ-O"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of McLennan crew's 'Black Thursday' mission on Lancaster JB477 LQ-O during WWII."
     },
     {
       "source_site": "Fred Vogels WW2 Database",
@@ -125,7 +149,8 @@
         "Lost due to fuel exhaustion in adverse weather"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore WWII aviation history: Discover Avro Lancaster III JB477 LQ-O's tragic loss in Berlin mission on 17 Dec 1943."
     },
     {
       "source_site": "Aviation Trails",
@@ -136,7 +161,8 @@
         "Provides visitor access guidance"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore WWII aviation heritage with visitor info on Yelling Lancaster Memorial's crash site."
     }
   ],
   "local_contacts": [
@@ -182,6 +208,19 @@
     "405 Squadron",
     "405 Sqdn."
   ],
-  "memorial_details": "Name: Avro Lancaster JB477\nType: Stone of remembrance\nDescription: A Simple Headstone shaped Stone of Remembrance\nInscription: BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them.\nLocation: In a Field- the Crash Site Yelling Huntingdon Cambridgeshire England\nGrid Ref: TL 260 620\nCoordinates: 52.241773205064,-0.156039731958\nPhotos: https://media.iwm.org.uk/ciim5/memorials/64/813/large_8410.jpg; https://media.iwm.org.uk/ciim5/memorials/170/800/8410a.jpg; https://media.iwm.org.uk/ciim5/memorials/170/801/large_8410b.jpg; https://media.iwm.org.uk/ciim5/memorials/170/802/large_8410c.jpg",
-  "narrative": "BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them."
+  "memorial_details": "Name: Avro Lancaster JB477\nType: Stone of remembrance\nDescription: A Simple Headstone shaped Stone of Remembrance\nInscription: BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them.\nLocation: In a Field- the Crash Site Yelling Huntingdon Cambridgeshire England\nGrid Ref: TL 260 620\nCoordinates: 52.241773205064,-0.156039731958\nPhotos: https://media.iwm.org.uk/ciim5/memorials/64/813/large_8410.jpg; https://media.iwm.org.uk/ciim5/memorials/170/800/8410a.jpg; https://media.iwm.org.uk/ciim5/memorials/170/801/large_8410b.jpg; https://media.iwm.org.uk/ciim5/memorials/170/802/large_8410c.jpg\n\nThe memorial is a stone of remembrance made of granite with incised lettering.\n\nMemorial Display: Display of Avro Lancaster JB477 at the Imperial War Museum\n\nMemorial Dedication (December 1943): Crash of Lancaster Bomber JB477 and loss of its crew",
+  "narrative": "Flying Officer McLennan's crew departed Gransden Lodge aboard Lancaster JB477 on a bombing mission to Berlin, part of the operation later known as \"Black Thursday.\" Strong headwinds and severe weather on the return leg consumed the aircraft's fuel before it could reach safety. The Lancaster came down near Yelling, Cambridgeshire, on 17 December 1943. Six crew members were killed, among them Sergeant Gordon Raymond Schneider, Flying Officer Walter Fitzgerald Sheppard, and Sergeant Eric Halliwell. The sole survivor was rear gunner Warrant Officer S.C.H. Nutting, who held the Distinguished Flying Medal.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Visit to RAF Bourn",
+        "date": null,
+        "description": "A visit to the current small airfield on the former RAF Bourn, which was built in 1940/41 and served as a bomber station during WW2. It was initially a satellite for nearby RAF Oakington but later became a bomber station under Air Commodore Donald Bennetts' 8 Group operating the Pathfinder Force (PFF). The airfield accommodated 1,805 males and 276 females and had three A style concrete runways. By the end of the war, Bourn squadrons would lose 135 aircraft in total."
+      }
+    ]
+  },
+  "community_connection": "The Avro Lancaster JB477 memorial was created and shared by Clive Regis and Richard E. The Yelling villagers' involvement in maintaining the site highlights a strong community connection to this World War II memorial.",
+  "crash_category": "weather",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

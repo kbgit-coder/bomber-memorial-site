@@ -99,7 +99,7 @@
   "longitude": -3.5576,
   "cause_of_loss": "Unknown (possibly engine failure during training flight)",
   "operation_type": "Training",
-  "memorial_details": "Name: AW Whitley NI440\nType: Board / Plaque / Tablet\nDescription: Rectangular brass wall mounted brass plaque on a wood backboard , the longer axis horizontal . The dedication and names are incised and coloured black.\nInscription: THIS PLAQUE WAS ERECTED BY THE STATION COMMANDER/ ROYAL AIR FORCE KINLOSS/ GP. CAPT. R.H. GOULD MA. RAF./ ON 12TH NOVEMVER (SIC) 1989 IN MEMORY OF THE CREW OF WHITLEY BOMBER/ N1440 OF NO. 19 OTU BASED AT ROYAL AIR FORCE KINLOSS/ WHO DIED WHEN THEIR AIRCRAFT CRASHED IN THE GARDEN OF/ GLENERNIE TOLBOOTH STREET FORRES ON 7TH NOVEMBER 1940/ WITH NO LOSS OF CIVILIAN LIFE/ CREW/ (names)\nLocation: it is unclear in which building along Tolbooth Street the memorial is located . unknown (possibly Falconer Museum ) Tolbooth Street (B9010) Forres Moray Grampian IV36 1AE Scotland\nGrid Ref: NJ 03787 58867\nCoordinates: 57.609503979249,-3.611910412930\nPhotos: https://media.iwm.org.uk/ciim5/memorials/80/589/large_44614_james_bissett_25_november_2019.jpg",
+  "memorial_details": "Name: AW Whitley NI440\nType: Board / Plaque / Tablet\nDescription: Rectangular brass wall mounted brass plaque on a wood backboard , the longer axis horizontal . The dedication and names are incised and coloured black.\nInscription: THIS PLAQUE WAS ERECTED BY THE STATION COMMANDER/ ROYAL AIR FORCE KINLOSS/ GP. CAPT. R.H. GOULD MA. RAF./ ON 12TH NOVEMVER (SIC) 1989 IN MEMORY OF THE CREW OF WHITLEY BOMBER/ N1440 OF NO. 19 OTU BASED AT ROYAL AIR FORCE KINLOSS/ WHO DIED WHEN THEIR AIRCRAFT CRASHED IN THE GARDEN OF/ GLENERNIE TOLBOOTH STREET FORRES ON 7TH NOVEMBER 1940/ WITH NO LOSS OF CIVILIAN LIFE/ CREW/ (names)\nLocation: it is unclear in which building along Tolbooth Street the memorial is located . unknown (possibly Falconer Museum ) Tolbooth Street (B9010) Forres Moray Grampian IV36 1AE Scotland\nGrid Ref: NJ 03787 58867\nCoordinates: 57.609503979249,-3.611910412930\nPhotos: https://media.iwm.org.uk/ciim5/memorials/80/589/large_44614_james_bissett_25_november_2019.jpg\n\nThe AW Whitley NI440 memorial is a board/plaque/tablet located in Forres, Moray, Scotland.",
   "external_narratives": [
     {
       "source_site": "Imperial War Museums",
@@ -110,7 +110,8 @@
         "Plaque erected 12 November 1989"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the IWM War Memorials Register entry for Whitley Bomber N1440 air crash memorial at RAF Kinloss area."
     },
     {
       "source_site": "Old Man's Thoughts and Tales (WordPress blog)",
@@ -122,7 +123,8 @@
         "19 OTU context provided"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed personal research on RAF Kinloss area Whitley Memorial and surrounding Forres airfields' history."
     },
     {
       "source_site": "Undiscovered Scotland",
@@ -133,7 +135,8 @@
         "Separate 19 OTU memorial exists in Forres"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore RAF Kinloss area Whitley Memorial's history and its connection to WWII aircraft losses."
     },
     {
       "source_site": "Visit Forres",
@@ -144,7 +147,8 @@
         "19 OTU established May 1940"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore RAF Kinloss history through detailed documentation on the Whitley Memorial site."
     }
   ],
   "local_contacts": [
@@ -166,5 +170,17 @@
   "squadron_display_name": "19 OTU",
   "squadron_aliases": [
     "19 OTU"
-  ]
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Unclear Annual Service",
+        "date": "Undetermined",
+        "description": "An annual service or commemoration is implied but not explicitly described in the text."
+      }
+    ]
+  },
+  "community_connection": "The memorial was photographed and shared by James Bissett on 25 November 2019.",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

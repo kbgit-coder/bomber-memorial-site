@@ -38,7 +38,8 @@
         "All 7 Lancaster crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of mid-air collision involving Lancaster LM130 and Hurricane PZ740, including crew information and exercise context."
     },
     {
       "source_site": "Aviation Safety Network (Hurricane)",
@@ -50,7 +51,8 @@
         "1690 Bomber Defence Training Flight"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of mid-air collision involving Hurricane PZ740 and Lancaster LM130, including crew information and circumstances leading to the tragic event."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -62,7 +64,8 @@
         "Eight total killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed Register Entry: This includes full crew details, aircraft histories, and precise Blankney location information for the World War II mid-air collision memorial."
     },
     {
       "source_site": "Flickr (Memorial Photos)",
@@ -74,7 +77,8 @@
         "Crash site was 'The Asholt Field' at Blankney village"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Photographic documentation of Blankney Fen Lancaster Memorial, showcasing a wooden cross with silhouettes."
     }
   ],
   "local_contacts": [
@@ -125,9 +129,12 @@
       "rank": "—"
     },
     {
-      "name": "Sidney Parlato",
+      "name": "Sidney Frederick Parlato",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Flying Officer",
+      "role": "Pilot",
+      "nationality": "New Zealander",
+      "burial_location": "Cambridge City Cemetery Grave 15368"
     },
     {
       "name": "Bernard Patch",
@@ -146,5 +153,9 @@
     }
   ],
   "memorial_details": "Name: Avro Lancaster LM130 and Hurricane PZ740\nType: Other memorial\nDescription: A wooden cross with attached dedicatory laminated label, the left arm of the cross has the silhouette of a Lancaster and the right a Hurricane; also a wooden board mounted on a metal shaft with a dedicatory plaque. Both are placed within a black propeller shaped kerbing filled with black stones, the tips of the propeller shape and their stones are painted yellow.\nInscription: Wooden board plaque: In Loving Memory/ 11th March 1945./ The Families of (Names)/ hold these men and their sacrifice in our hearts./ Lest We Forget/ Lancaster LM130 & Hurricane PZ740/ 23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT/ RECOVERY GROUP/ (Lancaster depiction)/ In Memory Of The Crew Of Avro Lancaster LM130 JO-N/ And/ The Pilot Of Hawker Hurricane PZ740\nLocation: On a footpath from Blankney Stepping Our car park Blankney East Lindsey Lincolnshire LN4 3BB England\nGrid Ref: TF 07645 59607\nCoordinates: 53.122779157496,-0.392861309449\nPhotos: https://media.iwm.org.uk/ciim5/memorials/95/130/large_lancaster_lm130_and_hurricane_pz740_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/95/131/large_lancaster_lm130_and_hurricane_pz740_detail.jpg; https://media.iwm.org.uk/ciim5/memorials/95/132/large_lancaster_lm130_and_hurricane_pz740_plaque_detail.jpg; https://media.iwm.org.uk/ciim5/memorials/95/133/large_lancaster_lm130_and_hurricane_pz740_cross.jpg; https://media.iwm.org.uk/ciim5/memorials/95/134/large_cross_and_laminated_label.jpg",
-  "narrative": "Wooden board plaque: In Loving Memory/ 11th March 1945./ The Families of (Names)/ hold these men and their sacrifice in our hearts./ Lest We Forget/ Lancaster LM130 & Hurricane PZ740/ 23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT/ RECOVERY GROUP/ (Lancaster depiction)/ In Memory Of The Crew Of Avro Lancaster LM130 JO-N/ And/ The Pilot Of Hawker Hurricane PZ740"
+  "narrative": "On March 11, 1945, Lancaster bomber LM130 of 463 Squadron, based in Lincolnshire, was involved in a tragic mid-air collision near Blankney. The exact circumstances of the accident remain unclear, but it resulted in a catastrophic loss of life. This incident marks a somber reminder of the risks faced by aircrews during World War II, underscoring the sacrifice made by these brave individuals in service to their country.",
+  "inscription": "Wooden board plaque: In Loving Memory\n11th March 1945.\nThe Families of (Names)\nhold these men and their sacrifice in our hearts.\nLest We Forget\nLancaster LM130 & Hurricane PZ740\n23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT\nRECOVERY GROUP\n(Lancaster depiction)\nIn Memory Of The Crew Of Avro Lancaster LM130 JO-N\nAnd\nThe Pilot Of Hawker Hurricane PZ740",
+  "community_connection": "The Avro Lancaster LM130 and Hurricane PZ740 memorial was created and shared by Colin Murray.",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4
 }

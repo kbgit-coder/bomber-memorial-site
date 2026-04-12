@@ -18,8 +18,8 @@
   "dedication_date": "1992-05-08",
   "inscription": "511 men of 207 Squadron killed October 1943 to October 1945 from RAF Spilsby. 104 have no known grave. Nationalities: Great Britain, Canada, Australia, New Zealand, United States, Netherlands, Eire. Also 12 ground staff.",
   "crew_summary": "511 aircrew killed with 207 Squadron from RAF Spilsby, October 1943–October 1945; 104 with no known grave",
-  "narrative": "207 Squadron flew Lancasters from RAF Spilsby in Lincolnshire from October 1943. In just over two years of operations, 511 aircrew were killed — 104 of them with no known grave, their names commemorated on the Runnymede Memorial. The squadron drew crew from across the Commonwealth and Allied nations: Great Britain, Canada, Australia, New Zealand, the United States, the Netherlands, and Eire. The church of All Saints at Great Steeping, the village nearest RAF Spilsby, was chosen to house the memorial plaque dedicated on VE Day anniversary, 8 May 1992. The church also contains a 44 Squadron memorial tablet — both squadrons shared RAF Spilsby from September 1944 to July 1945, making All Saints a dual point of remembrance for two of Bomber Command's Lancaster squadrons. The church is publicly accessible throughout the year.",
-  "memorial_details": "Memorial plaque inside All Saints Church, Great Steeping. Records 511 aircrew killed with 207 Squadron from RAF Spilsby, October 1943 to October 1945, of whom 104 have no known grave. Also commemorates 12 ground staff. The church also contains a 44 Squadron memorial tablet — both squadrons shared RAF Spilsby Sep 1944–Jul 1945. IWM War Memorials Register reference: IWM 55134.",
+  "narrative": "207 Squadron flew Lancasters from RAF Spilsby in Lincolnshire from October 1943. In just over two years of operations, 511 aircrew were killed — 104 of them with no known grave, their names commemorated on the Runnymede Memorial. The squadron drew crew from across the Commonwealth and Allied nations: Great Britain, Canada, Australia, New Zealand, the United States, the Netherlands, and Eire. The church also contains a 44 Squadron memorial tablet — both squadrons shared RAF Spilsby from September 1944 to July 1945, making All Saints a dual point of remembrance for two of Bomber Command's Lancaster squadrons. The church is publicly accessible throughout the year.",
+  "memorial_details": "Memorial plaque inside All Saints Church, Great Steeping. Records 511 aircrew killed with 207 Squadron from RAF Spilsby, October 1943 to October 1945, of whom 104 have no known grave. Also commemorates 12 ground staff. The church also contains a 44 Squadron memorial tablet — both squadrons shared RAF Spilsby Sep 1944–Jul 1945. IWM War Memorials Register reference: IWM 55134.\n\nThe church of All Saints at Great Steeping, the village nearest RAF Spilsby, was chosen to house the memorial plaque dedicated on VE Day anniversary, 8 May 1992.",
   "sources": [
     {
       "title": "IWM War Memorials Register — 207 Sqdn Roll of Honour",
@@ -55,7 +55,8 @@
         "Church also contains 44 Squadron memorial tablet"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records and history of the 207 Squadron memorial plaque at All Saints Church in Great Steeping."
     },
     {
       "source_site": "TracesOfWar",
@@ -66,7 +67,8 @@
         "207 Squadron operated Lancasters from RAF Spilsby"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": false
+      "still_live": false,
+      "link_description": "The poignant history of 207 Squadron Memorial Plaque at All Saints Church in Great Steeping on TracesOfWar."
     },
     {
       "source_site": "207 Squadron RAF Info",
@@ -77,7 +79,8 @@
         "44 Squadron also commemorated in same church — both shared RAF Spilsby Sep 1944–Jul 1945"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the rich history of 207 Squadron at Great Stepping Church Memorial."
     }
   ],
   "location_confidence": {
@@ -86,5 +89,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

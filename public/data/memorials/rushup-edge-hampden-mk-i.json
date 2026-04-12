@@ -39,7 +39,8 @@
         "Inquiry found pilot and navigator responsible"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore in-depth investigation details of Hampden X3154's tragic RAF crash at Rushup Edge in 1940."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -52,7 +53,8 @@
         "Site on upland pasture near road"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Details of the crew at Rushup Edge Mk.I Memorial crash site."
     },
     {
       "source_site": "Remember the Fallen",
@@ -63,7 +65,8 @@
         "Individual casualty record maintained"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Memorial: Rushup Edge Mk.I Memorial - Honor Fallen Pilot Officer Michael Hubbard's Legacy on Remember the Fallen."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -74,7 +77,8 @@
         "Night cross-country exercise"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore aviation safety history: Discover details of the Hampden X3154 crash at Rushup Edge Mk.I Memorial on 21 December 1940."
     }
   ],
   "local_contacts": [
@@ -96,5 +100,37 @@
   "squadron_display_name": "RAF Finningley",
   "squadron_aliases": [
     "RAF Finningley"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Michael Hubbard",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 20,
+      "nationality": "British",
+      "burial_location": "Knighton (St Mary Magdalene) Churchyard, Leicestershire, England."
+    },
+    {
+      "name": "Kenneth Walsingham Boyd Perkins",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Navigator",
+      "age": 24,
+      "nationality": "British"
+    },
+    {
+      "name": "David William Smith",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator/ Air gunner",
+      "burial_location": "Manchester Southern Cemetery (War graves section)",
+      "age": 19,
+      "nationality": "British"
+    }
+  ],
+  "narrative": "The aircraft struck the southern side of Rushup Edge in the Peak District, likely due to the hazardous conditions of low-level night flying in this terrain. All three men aboard were killed: Pilot Officer Michael Hubbard, aged 20, Sergeant Kenneth Walsingham Boyd Perkins, aged 24, and Sergeant David William Smith, aged just 19. There were no survivors.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

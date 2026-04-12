@@ -38,7 +38,8 @@
         "All six Polish crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "A wall-mounted plaque honoring fallen airmen at Leicester's Lancaster Memorial."
     },
     {
       "source_site": "IWM War Memorials Register (tree memorial)",
@@ -49,7 +50,8 @@
         "Commemorative tree memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "A poignant tree memorial honoring the Lancaster PA269 crash victims at Leicester's Wigston."
     },
     {
       "source_site": "Oadby and Wigston Borough Council",
@@ -63,7 +65,8 @@
         "Crew buried at Newark-Upon-Trent Polish war graves"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Leicester Lancaster Memorial's history and significance at Oadby and Wigston Borough Council's 80th anniversary event in February 2026."
     },
     {
       "source_site": "War Memorials Online",
@@ -73,7 +76,8 @@
         "Faldingworth 300 Squadron memorial registered"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Faldingworth Memorial honoring 300 Squadron Polish Air Force on War Memorials Online."
     }
   ],
   "local_contacts": [
@@ -321,5 +325,33 @@
     }
   ],
   "memorial_details": "Name: Polish aircrew - Avro Lancaster PA269\nType: Board / Plaque / Tablet\nDescription: Wall mounted rectangular reflective steel plaque commemorating the airmen of 300 Polish Bomber Squadron killed in a crash on 4th February 1946. Polish Air Force crest at top left, 300 Squadron crest at top centre and Royal Air Force crest at top right of plaque: all crests have identifying names immediately beneath them. Dedication is below the crests, and names are set out in two columns of three names each below the dedication. All crests and lettering are in the same mid-blue colour. Note: This memorial is in a school building - there is also a beech tree in the school grounds planted to commemorate the same incident (see memorial reference 55367).\nInscription: THIS PLAQUE HAS BEEN ERECTED IN MEMORY OF THE AIRMEN OF/ 300 POLISH SQUADRON WHO, WHILST FLYING LANCASTER BOMBER A1 PA 269/ OVER LEICESTER ON 4th FEBRUARY 1946 CRASHED ON THIS SCHOOL SITE/ KILLING THE FOLLOWING CREW MEMBERS/ (Names)\nLocation: All Saints Church of England Primary School Long Street Wigston Magna Oadby And Wigston Leicestershire LE18 2AH England\nGrid Ref: SP 60505 98957\nCoordinates: 52.585222450937,-1.108995200000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/59/405/55366_plaque.jpg; https://media.iwm.org.uk/ciim5/memorials/59/406/55366_ready_for_unveiling.jpg",
-  "narrative": "THIS PLAQUE HAS BEEN ERECTED IN MEMORY OF THE AIRMEN OF/ 300 POLISH SQUADRON WHO, WHILST FLYING LANCASTER BOMBER A1 PA 269/ OVER LEICESTER ON 4th FEBRUARY 1946 CRASHED ON THIS SCHOOL SITE/ KILLING THE FOLLOWING CREW MEMBERS/ (Names)"
+  "narrative": "Lancaster PA269, crewed by six Polish airmen of 300 (Masovia) Squadron PAF from Faldingworth, was on a routine flight when it crashed at Wigston, Leicester, on 4 February 1946. The aircraft is believed to have been struck by lightning during a violent thunderstorm. With the bomber ablaze, the crew steered it away from the streets and houses below, directing it toward a ploughed field behind Long Street Modern School — missing the building by less than ten feet. All six crew members were killed: W. Brzezinski, W. Jedrzejczyk, F. Mikula, C. Sulgut, R. Sulinski, and M. Szwandt. Their actions prevented casualties among the 80 children sheltering inside the school at the moment of impact. Some residents suffered minor injuries, but there were no deaths on the ground.",
+  "inscription": "THIS PLAQUE HAS BEEN ERECTED IN MEMORY OF THE AIRMEN OF\n300 POLISH SQUADRON WHO, WHILST FLYING LANCASTER BOMBER A1 PA 269\nOVER LEICESTER ON 4th FEBRUARY 1946 CRASHED ON THIS SCHOOL SITE\nKILLING THE FOLLOWING CREW MEMBERS\n(Names)",
+  "remembrance": {
+    "events": [
+      {
+        "name": "300 Polish Bomber Squadron: Lancaster PA269 crash - tree",
+        "date": null,
+        "description": "A memorial avenue/tree or grove commemorating the non-combat deaths of the 300 Polish Bomber Squadron, specifically the crash of Lancaster PA269 into a tree."
+      },
+      {
+        "name": "Sounding of the Last Post",
+        "date": "18 August",
+        "description": "A ceremonial bugle call traditionally sounded at sunset to honor those who died during World War I and II."
+      },
+      {
+        "name": "Service",
+        "date": "18 August",
+        "description": "Multiple services held on this date, possibly including the Sounding of the Last Post and other ceremonial activities."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "18 August"
+  },
+  "memorial_name": "300 Polish Bomber Squadron: Lancaster PA269 crash - tree",
+  "memorial_description": "Beech tree planted in school grounds on the site where a Lancaster PA269 being flown by members of 300 Polish Bomber Squadron crashed in 1946. Note: There is also a plaque inside the school commemorating this incident which bears the names of the six airmen who were killed - see memorial reference 55366.",
+  "community_connection": "",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

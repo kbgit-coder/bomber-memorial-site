@@ -43,7 +43,8 @@
         "Bombs did not explode but caused anxious moments during ensuing fire"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore US War Memorials' entry for Wrangle's 42-95103 memorial plaque at Lincolnshire."
     },
     {
       "source_site": "American Air Museum",
@@ -55,7 +56,8 @@
         "Operated B-24 Liberators in the 8th Air Force"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore American Air Museum's archive for 579th Bomb Squadron's history and WWII aircraft details."
     },
     {
       "source_site": "American Battle Monuments Commission",
@@ -66,7 +68,8 @@
         "Part of 392nd Bomb Group (Heavy)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records of American soldiers interred at the Wrangle 42-95103 Memorial from the American Battle Monuments Commission database."
     },
     {
       "source_site": "Find a Grave",
@@ -77,7 +80,8 @@
         "Formal burial record available"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Find a Grave memorial for WWII navigator William J. Hession, who tragically died in Wrangle Common crash on July 13, 1944."
     },
     {
       "source_site": "Find a Grave",
@@ -88,7 +92,8 @@
         "Formal burial record available"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Find a Grave memorial for T/Sgt Harold C. Wilkinson, radio operator of B-24J 42-95103, who tragically died in Wrangle Common crash on July 13, 1944."
     }
   ],
   "local_contacts": [
@@ -115,5 +120,145 @@
   "squadron_display_name": "579th Bomb Squadron USAAF",
   "squadron_aliases": [
     "579th Bomb Sqdn."
-  ]
+  ],
+  "narrative": "On 13 July 1944, B-24J Liberator 42-95103 of the 579th Bomb Squadron took off from Wendling to assemble in formation for a mission to Saarbrücken, Germany. During assembly, the aircraft encountered severe icing conditions, causing it to spin out of control and crash at Wrangle Common, Lincolnshire. Eight crew members were killed, including pilot 1st Lt. Norman J. Hunt and navigator William J. Hession, who was 26 years old. One crew member survived. Those lost included co-pilot Peter B. Roetzel, engineer Walter L. McKinzie Jr., radio operator Harold C. Wilkinson, and gunners Mark Osment, Daniel L. McEwan, and Leonard A. Jackson.",
+  "community_connection": "The text does not explicitly provide a community connection story, but it mentions the process of managing and updating a war memorial through the platform, suggesting a digital community effort to honor and remember fallen soldiers.",
+  "crew": [
+    {
+      "name": "William J. Hession",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Navigator",
+      "nationality": "American",
+      "age": 26,
+      "burial_location": "Jefferson Barracks National Cemetery Lemay Township , St. Louis County , Missouri , USA"
+    },
+    {
+      "name": "Norman J. Hunt",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Mark Osment",
+      "rank": "Osment",
+      "fate": "Unknown",
+      "role": "Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Hunt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gunner Mark Osment",
+      "rank": "Mark",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter B. Roetzel",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Co-Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Walter L. McKinzie Jr.",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Engineer",
+      "nationality": "American"
+    },
+    {
+      "name": "Harold C. Wilkinson",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Radio Op.",
+      "nationality": "American",
+      "age": null,
+      "burial_location": "Jefferson Barracks National Cemetery Lemay Township , St. Louis County , Missouri , USA"
+    },
+    {
+      "name": "Daniel L. McEwan",
+      "rank": "Daniel",
+      "fate": "Unknown",
+      "role": "Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Leonard A. Jackson",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Roy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Baker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Freeman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chauncey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roland Carlstrand  Radio Op",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gordon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rosten",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pete",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mark Osment\nGunner\nRadio",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mark Osment\nGunner\nRead",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hunts",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William E. Carrington",
+      "rank": "S/Sgt.",
+      "fate": "Killed",
+      "role": "Gunner",
+      "nationality": "American"
+    }
+  ],
+  "memorial_details": "The plaque is inscribed with the 8th Air Force insignia, the B-24 aircraft insignia, and the 579th Bomb Squadron insignia.",
+  "crash_category": "weather",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

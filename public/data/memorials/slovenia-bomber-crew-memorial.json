@@ -3,7 +3,7 @@
   "title": "Slovenia Bomber Crew Memorial",
   "location_name": "Slovenia",
   "country": "Slovenia",
-  "narrative": "Memorial to Allied bomber crews who crashed or were shot down over Slovenian territory during WW2.",
+  "narrative": "»I Was Told That This Was a Very Mountainous Country and That It Was Difficult to Find a Way in Such Cases.« | GOV.SI »I Was Told That This Was a Very Mountainous Country and That It Was Difficult to Find a Way in Such Cases.« Archives of the Republic of Slovenia During WW2, there were a number of air formations operating in the Slovenian airspace, especially those of the 15th US Air Force. Increase in Allied aircraft activity led to an increase in a number of planes that crashed or were shot down. When discussing the issue of wounded pilots and their rescue, less attention was given to the issue of the actual burials and subsequent reburials of the pilots who had died. Preserved among the records of the archival fond of the Federal Committee for the Organization of the Transfer of the Fallen Soldiers for Slovenia are tens of letters of inquiry, reports on graves of the deceased pilots, and letters on possible reburials. This month’s archivalia offers a look at the mysterious case of the search for the pilot Martin F. O'Callaghan. Memphis, Maribor, Beograd, February 22, 1946, May 30, 1946, December 5, 1946 SI AS 281, Federalni odbor za organizacijo prenosa padlih borcev za Slovenijo, technical unit 8, folder Grobovi zavezniških vojakov in pilotov Transcript of the letter written by the mother of the shot down American pilot Martin F. O'Callaghan, February 22, 1946. | Author Arhiv Republike Slovenije Transcript of the report of the Maribor Internal Affairs Department, May 30, 1946, p. 1. Transcript of the report of the Maribor Internal Affairs Department, May 30, 1946, p.2. Original letter of the American Graves Registration Service in Belgrade, December 5, 1946. Searching For the American P-38 Fighter Pilot Martin F. O'Callaghan On April 6, 2022, the President of the Republic of Slovenia Borut Pahor and the USA Ambassador to Slovenia Jamie Lindler Harpootlian commemorated Slovenian-American Friendship Day, which this year coincided with the 30th anniversary of estab",
   "memorial_type": "Memorial",
   "data_quality": "Stub",
   "contributor": "Charlie Leitheiser",
@@ -27,7 +27,8 @@
         "Crash sites still being discovered"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical documentation on WWII bomber crew fate in Slovenia's government article."
     },
     {
       "source_site": "SIR Journal",
@@ -38,7 +39,8 @@
         "Multiple crash site memorials across Slovenia"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore academic analysis of Allied airmen's sacrifices and memorial tributes in Slovenia."
     },
     {
       "source_site": "US War Memorials",
@@ -50,7 +52,8 @@
         "Memorial unveiled at Andraz nad Polzelo cemetery 2014"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Memorial of the B-17 'Dark Eyes' crash site in Slovenia, honoring fallen crew from the 96th BS, 2nd BG, and 15th Air Force."
     },
     {
       "source_site": "US War Memorials",
@@ -62,7 +65,8 @@
         "Memorial with brass plate in town park"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "B-17 'Je Reviens' Memorial: Honor WWII Crew's Rescue in Slovenia."
     }
   ],
   "what3words": "scarcer.securing.vagueness",
@@ -74,5 +78,89 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "community_connection": "The memorial was inaugurated on April 8, 1917, with the keynote speech delivered by US Senator and Vietnam Veteran Pilot, John McCain. The marker was dedicated on March 11, 2017, with Ambassador Hartley giving the keynote speech.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Search for Pilot Martin F. OCallaghan",
+        "date": "April 6, 2022",
+        "description": "The President of the Republic of Slovenia Borut Pahor and the USA Ambassador to Slovenia Jamie Lindler Harpoo participated in a commemoration event for Pilot Martin F. OCallaghan."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "William Jones",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Martin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Herman Lavine",
+      "rank": "Herman",
+      "fate": "Unknown",
+      "role": "pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Arthur",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Louis Boehm",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Micheal",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Virgil Lazar",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Oscar Rome",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Right Waist Gunner",
+      "age": 23,
+      "nationality": "American"
+    },
+    {
+      "name": "Kenneth Cook",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Milan Vujinovic",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Unknown",
+      "rank": "unknown",
+      "fate": "Killed",
+      "role": "co-pilot/crew member",
+      "nationality": "American"
+    },
+    {
+      "name": "Edward F. Logan",
+      "rank": "1LT",
+      "fate": "Survived",
+      "role": "Pilot",
+      "nationality": "American"
+    }
+  ],
+  "memorial_details": "Inauguration of B-17 Dark Eyes Memorial (April 8, 1917): The memorial was inaugurated to commemorate the service and sacrifice of ten brave Americans from the crew of B-17F Dark Eyes (41-24405). The keynote was made by US Senator and Vietnam Veteran Pilot, John McCain.\n\nDedication of B-17 Je Reviens (44-6437) Crash Site Memorial (March 11, 2017): The memorial was dedicated to commemorate the crash of B-17G Je Reviens (44-6437) on March 9, 1945. The ceremony included a keynote speech by Ambassador Hartley from the US Embassy Slovenia.\n\nEvery time I visited my grandparents in Massachusetts, my family would cross a bridge dedicated to my great uncle, Oscar Rome.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

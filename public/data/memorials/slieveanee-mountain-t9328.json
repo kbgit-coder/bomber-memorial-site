@@ -34,7 +34,8 @@
         "F/L Francis Scott, P/O Ronald Davies from Dorset, F/O Tony Tisdall from Hendon"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed archive page about Lockheed Hudson crash site and its five crew fatalities in Co. Antrim on October 16, 1940."
     },
     {
       "source_site": "Culture Northern Ireland",
@@ -44,7 +45,8 @@
         "Part of broader wartime aviation incidents in Northern Ireland"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore wartime air crashes, focusing on the Hudson T9328 incident at Slieveanee Mountain and its relation to other military aviation accidents in Northern Ireland."
     },
     {
       "source_site": "Northern Ireland World",
@@ -56,7 +58,8 @@
         "Crash site above Cargan, Co. Antrim"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "News coverage of unveiling Memorial plaque on Slieveanee Mountain Hudson Memorial."
     }
   ],
   "local_contacts": [
@@ -79,5 +82,69 @@
   "squadron_aliases": [
     "224 Squadron",
     "224 Sqdn."
-  ]
+  ],
+  "narrative": "Lockheed Hudson T9328 crash at Slieveanee Mountain, Co. Antrim - WartimeNI On 16th October 1940, Lockheed Hudson T9328 crashed at Slieveanee Mountain, Cargan, Co. Over the years, local aviation groups have removed much of the wreckage. At the time, the British plane was with R.A.F. 224 Squadron, based nearby at , Co. All 5 crew members died at the scene as a result of the incident. Aged 24 years old. From Dorsetshire. Aged 24 years old. From Derbyshire. Aged 21 years old. From Hendon, Middlesex. The graves of Flight Lieutenant St. Catherine’s Church of Ireland , Killead, Co. Pilot Officer Ronald John Davies died on 16th October when Lockheed Hudson T9328 of R.A.F. 224 Squadron came down on Slieveanee Mountain. Flight Lieutenant Francis Colin Scott died on 16th October when Lockheed Hudson T9328 of R.A.F. 224 Squadron came down on Slieveanee Mountain. Flying Officer Anthony Beresford Tisdall died on 16th October when Lockheed Hudson T9328 of R.A.F. 224 Squadron came down on Slieveanee Mountain. Designer, developer, DJ, and writer from Belfast, Northern Ireland.",
+  "community_connection": "",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Unknown",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Wireless Operator"
+    },
+    {
+      "name": "Unknown",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Flight Rigger"
+    },
+    {
+      "name": "Francis Colin Scott",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "age": 27,
+      "nationality": "British",
+      "burial_location": "St. Catherines Church of Ireland, Killead, Co. Antrim"
+    },
+    {
+      "name": "Anthony Beresford Tisdall",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "unknown",
+      "age": 21,
+      "nationality": "British",
+      "burial_location": "St. Catherines Church of Ireland, Killead, Co. Antrim"
+    },
+    {
+      "name": "Ronald John Davies",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 24,
+      "nationality": "British",
+      "burial_location": "St. Catherines Church of Ireland, Killead, Co. Antrim"
+    },
+    {
+      "name": "Alfred Ballantyne Nayler",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Arthur Frederick Thomas",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Rigger / Air Gunner",
+      "age": 24,
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "In 2015, members of Glenravel Historical Society unveiled a memorial plaque at the crash site to mark the 75th anniversary.\n\nIn 2015, members of Glenravel Historical Society unveiled a memorial plaque at the crash site to mark the 75th anniversary.\n\nMemorial Plaque Unveiling (2015): Glenravel Historical Society unveiled a memorial plaque at the crash site to mark the 75th anniversary.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 5
 }

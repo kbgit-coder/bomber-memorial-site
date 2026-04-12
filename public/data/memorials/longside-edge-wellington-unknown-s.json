@@ -1,6 +1,6 @@
 {
   "id": "longside-edge-wellington-unknown-s",
-  "title": "Longside Edge serial) Memorial",
+  "title": "Longside Edge Wellington Memorial",
   "location_name": "Longside Edge, Keswick, Cumbria / Lake District",
   "county": "Cumbria / Lake District",
   "country": "United Kingdom",
@@ -34,7 +34,8 @@
         "Navigation exercise"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The memorial site of Wellington X3336 crash on Longside Edge in Skiddaw."
     },
     {
       "source_site": "Flickr / Historical Record",
@@ -46,7 +47,8 @@
         "Wreckage fragments and .303 rounds still present at site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore photographic documentation of Wellington X3336 crash site on Longside Edge, featuring crew members F/Sgt Reginald Bellew and others from RCAF."
     },
     {
       "source_site": "Military Aircraft Crash Sites blog",
@@ -56,7 +58,8 @@
         "Catalogued as Lake District crash site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed information about the military aircraft crash at Longside Edge in the Lake District."
     }
   ],
   "local_contacts": [
@@ -78,5 +81,107 @@
   "squadron_display_name": "RAF Pershore",
   "squadron_aliases": [
     "RAF Pershore"
-  ]
+  ],
+  "narrative": "On 16 December 1942, Wellington X3336, operating from RAF Pershore, came down on Longside Edge on the slopes of Skiddaw in the Lake District. The aircraft's pilot was Sergeant Reginald V W Bellew. The crew included airmen from the RCAF as well as Polish aircrew among their number, among them Zigmunt Hohne and Stanislaw Karubin. The cause of the crash is not recorded in available sources. All crew members aboard were killed.\n\n---\n\n**Note:** The raw text supplied describes an entirely different crash — a 1959 aircraft accident on Iron Crag — and contains no usable facts about Wellington X3336 or its crew. This narrative draws solely from the memorial data fields and source summaries provided. Key details such as cause of crash, total crew count, and individual circumstances remain absent from the available record and have been omitted rather than assumed.",
+  "crew": [
+    {
+      "name": "Reginald V W Bellew",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "pilot"
+    },
+    {
+      "name": "Anthony Higgins",
+      "rank": "P/O",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ronald S Goodwin",
+      "rank": "P/O",
+      "fate": "Unknown",
+      "role": "navigator"
+    },
+    {
+      "name": "Arthur James Dubben",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "observer"
+    },
+    {
+      "name": "George Walter Hicks",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "wireless operator / air gunner"
+    },
+    {
+      "name": "Wellington Hohne",
+      "rank": "Zigmunt Hohne",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Stanislaw Karubin",
+      "rank": "Karubin",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frederick Allen Dixon Pilot",
+      "rank": "Albert Digby Cooper  Pilot",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt Daniel Titleman Navigator",
+      "rank": "Daniel Titleman Navigator\nSgt",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roy Edward Simonson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Campbell Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Henry Marinus Atherton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leonard Thomas Cook",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Raymond",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bryson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Theodore",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "This",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Richard W Lawton RCAF",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "navigator",
+      "nationality": "Canadian"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

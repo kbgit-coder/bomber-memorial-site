@@ -129,7 +129,8 @@
         "Memorial consists of aluminium plaque on oak posts at edge of crash crater"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Official War Memorial Register Entry with Location Details and Crew Tribute"
     },
     {
       "source_site": "Geograph",
@@ -139,7 +140,8 @@
         "Memorial near pond/crash crater at Francis House"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Photographic documentation and historical context of the WW2 aircraft crash site memorial at Brettenham, featuring plaque details and surrounding landscape."
     }
   ],
   "local_contacts": [
@@ -169,5 +171,7 @@
   "squadron_aliases": [
     "15 Squadron",
     "15 Sqdn."
-  ]
+  ],
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 5
 }

@@ -23,10 +23,10 @@
   "operation_target": "Nuremberg, Germany — Nuremberg Raid 30/31 March 1944",
   "heritage_listing": "Grade II listed",
   "dedication_date": "1985-11-10",
-  "inscription": "To the memory of Pilot Officer Cyril Joe Barton V.C. (168669) R.A.F.V.R. / No.578 Squadron who died on the 31st March 1944, after crash-landing his crippled Halifax bomber south-west of Hollycarrside, thus avoiding Ryhope. / He displayed unsurpassed courage and devotion to duty, then sacrificed his life to save others and was posthumously awarded the Victoria Cross.",
+  "inscription": "To the memory of Pilot Officer Cyril Joe Barton V.C. (168669) R.A.F.V.R.\nNo.578 Squadron who died on the 31st March 1944, after crash-landing his crippled Halifax bomber south-west of Hollycarrside, thus avoiding Ryhope.\nHe displayed unsurpassed courage and devotion to duty, then sacrificed his life to save others and was posthumously awarded the Victoria Cross.",
   "crew_summary": "P/O Cyril Joe Barton VC killed; 3 survivors. Barton continued to Nuremberg alone after 3 crew bailed out over Germany, then crash-landed at Ryhope to avoid houses.",
-  "narrative": "The Nuremberg Raid of 30/31 March 1944 was the costliest single night for Bomber Command in the entire war. Among the aircraft that flew that night was Halifax LK797 LK-E of 578 Squadron, piloted by Pilot Officer Cyril Joe Barton. Over Germany, the aircraft came under fighter attack and the intercom was disabled. Three of the seven crew, believing the aircraft was being abandoned, bailed out over enemy territory. Barton pressed on to the target alone — with only four crew, no navigator's communications, and a damaged aircraft — bombed Nuremberg, and turned for home. Crossing the North Sea in the dark, the fuel ran out. Barton held the Halifax steady as it lost height over County Durham. Seeing Ryhope below him, he crash-landed the aircraft to avoid the houses and the colliery. Three of the remaining crew survived. Barton died from his injuries. He was 22 years old. He was posthumously awarded the Victoria Cross — the only Bomber Command VC awarded for the Nuremberg Raid. The village green war memorial, originally 1924 (World War I), had WWII plaques added in 1950. In 1985, on the 41st anniversary of Barton's death, a dedicated VC plaque was unveiled attended by over 1,000 villagers and two of the surviving crew.",
-  "memorial_details": "Doric cross on an octagonal granite plinth with bronze plaques. The main war memorial dates from 1924 (WWI dead). WWII plaques were added in 1950. The dedicated Barton VC plaque was added on 10 November 1985. Over 1,000 villagers attended the 1985 unveiling, together with two crewmates who survived the crash. The memorial is Grade II listed. IWM War Memorials Register reference: IWM 72719.",
+  "narrative": "The Nuremberg Raid of 30/31 March 1944 was the costliest single night for Bomber Command in the entire war. Among the aircraft that flew that night was Halifax LK797 LK-E of 578 Squadron, piloted by Pilot Officer Cyril Joe Barton. Over Germany, the aircraft came under fighter attack and the intercom was disabled. Three of the seven crew, believing the aircraft was being abandoned, bailed out over enemy territory. Barton pressed on to the target alone — with only four crew, no navigator's communications, and a damaged aircraft — bombed Nuremberg, and turned for home. Crossing the North Sea in the dark, the fuel ran out. Barton held the Halifax steady as it lost height over County Durham. Seeing Ryhope below him, he crash-landed the aircraft to avoid the houses and the colliery. Three of the remaining crew survived. Barton died from his injuries. He was 22 years old. He was posthumously awarded the Victoria Cross — the only Bomber Command VC awarded for the Nuremberg Raid. The village green war memorial, originally 1924 (World War I), had WWII plaques added in 1950.",
+  "memorial_details": "Doric cross on an octagonal granite plinth with bronze plaques. The main war memorial dates from 1924 (WWI dead). WWII plaques were added in 1950. The dedicated Barton VC plaque was added on 10 November 1985. Over 1,000 villagers attended the 1985 unveiling, together with two crewmates who survived the crash. The memorial is Grade II listed. IWM War Memorials Register reference: IWM 72719.\n\nIn 1985, on the 41st anniversary of Barton's death, a dedicated VC plaque was unveiled attended by over 1,000 villagers and two of the surviving crew.",
   "sources": [
     {
       "title": "IWM War Memorials Register — Ryhope Barton VC",
@@ -74,7 +74,8 @@
         "Crash-landed at Ryhope to avoid houses and colliery; died of injuries"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed biography and operational record of WWII hero Cyril Joe Barton VC from Ryhope, Sunderland."
     },
     {
       "source_site": "Wikipedia",
@@ -86,7 +87,8 @@
         "Three crew survived the Ryhope crash-landing"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The life and legacy of WWII hero Cyril Joe Barton VC at Ryhope Memorial."
     }
   ],
   "location_confidence": {
@@ -95,5 +97,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

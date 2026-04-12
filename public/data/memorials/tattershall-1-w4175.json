@@ -40,7 +40,7 @@
   "crew": [
     {
       "rank": "Fg Off",
-      "name": "D.W. Francis",
+      "name": "Gordon Charles Wardlaw Francis",
       "role": "Pilot",
       "nationality": "British",
       "fate": "Killed",
@@ -124,7 +124,7 @@
   "cause_of_loss": "Crashed while circling the airfield on return from Berlin at 04:45 hours",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on Berlin",
-  "memorial_details": "A memorial plaque to the crew is located on the nearby Butt's Bridge. It was erected by the Royal British Legion Coningsby, Tattershall and District Branch. The plaque commemorates crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron. The plaque is publicly accessible on the bridge.",
+  "memorial_details": "A memorial plaque to the crew is located on the nearby Butt's Bridge. It was erected by the Royal British Legion Coningsby, Tattershall and District Branch. The plaque commemorates crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron. The plaque is publicly accessible on the bridge.\n\nThe text describes a memorial plaque dedicated to the crews of 97 Squadron Lancaster’s W4175 OF-U and PB422 OF-P, located at Butt's Bridge on the A153 Tattershall LN4 4RA in England.\n\nThe plaque is attached to a building or structure, made of metal and timber materials with inscribed lettering.",
   "latitude": 53.104,
   "longitude": -0.191,
   "maintainer": {
@@ -138,7 +138,8 @@
       "summary": "Heritage record for the crash site of Lancaster W4175 at the Tattershall and Coningsby Gas Works. Documents the aircraft crashing while circling RAF Woodhall Spa after returning from a Berlin raid on 30 March 1943.",
       "key_details": "Monument reference MLI125799. The heritage record notes the crash occurred on the gas works site. All seven crew killed.",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore Lancaster Memorial: Discover history of WWII aircraft crash site near Tattershall and Coningsby Gas Works."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -146,7 +147,8 @@
       "summary": "Accident database entry for Avro Lancaster Mk I W4175 of 97 Squadron, recording the crash on 30 March 1943 at Tattershall while returning from operations.",
       "key_details": "Aircraft designated OF-U. Based at RAF Woodhall Spa. Crashed on the gas works during circuit.",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore detailed accident report of Lancaster Mk I W4175 crash in Tattershall on 30th March 1943."
     },
     {
       "source_site": "War Memorials Online",
@@ -154,7 +156,8 @@
       "summary": "Registry entry for the memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 (OF-U) and Lancaster PB422 (OF-P) of 97 Squadron.",
       "key_details": "Combined memorial on Butt's Bridge commemorates crews of two separate 97 Squadron crashes at Tattershall. Erected by the Royal British Legion Coningsby, Tattershall and District Branch.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant registry entry honoring Lancaster aircraft crews in Tattershall's memorial plaque at Butt's Bridge on War Memorials Online."
     }
   ],
   "local_contacts": [
@@ -216,5 +219,8 @@
   "squadron_aliases": [
     "97 Sqdn.",
     "97 Squadron"
-  ]
+  ],
+  "community_connection": "",
+  "crash_category": "operational-return",
+  "narrative_quality_score": 5
 }

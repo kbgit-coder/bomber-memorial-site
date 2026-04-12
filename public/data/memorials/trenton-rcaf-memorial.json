@@ -22,7 +22,8 @@
       "summary": "Veterans Affairs Canada page for the National Air Force Museum of Canada at CFB Trenton, Ontario. The museum is dedicated to the memory of Canadian airmen and airwomen who gave their lives in peace and war.",
       "key_details": "The Airpark contains approximately 11,000 Ad Astra Stones and 35 monuments honouring past and current RCAF members. The museum opened on 1 April 1984, the 60th anniversary of the RCAF's founding.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the RCAF Memorial's tribute to fallen Canadian airmen at Veterans Affairs Canada page."
     },
     {
       "source_site": "Wikipedia",
@@ -30,7 +31,8 @@
       "summary": "The National Air Force Museum of Canada, formerly the RCAF Memorial Museum, is an aviation museum on the west side of CFB Trenton preserving the heritage of Canadian military aviation. Houses aircraft, artefacts, and the memorial Airpark.",
       "key_details": "Located at 8 Wing Trenton, the largest air force base in Canada. British Commonwealth Air Training Plan Memorial Gates at the base entrance were dedicated by Princess Elizabeth in October 1951.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Canadian military aviation history at the National Air Force Museum of Canada."
     },
     {
       "source_site": "Government of Canada",
@@ -38,7 +40,8 @@
       "summary": "Government of Canada article about the ornate BCATP Memorial Gates at 8 Wing Trenton, which have commemorated the British Commonwealth Air Training Plan for over 67 years. Thousands of aircrew received their wings on the parade square behind these gates.",
       "key_details": "Gates stand on old Highway 2 in front of 8 Wing headquarters. Dedicated by Princess Elizabeth (future Queen Elizabeth II) in October 1951. Commemorate the BCATP which trained over 130,000 aircrew during WW2.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore ornate memorial gates honoring British Commonwealth Air Training Plan legacy at RCAF Memorial in Trenton."
     }
   ],
   "what3words": "prosecution.diggers.annual",
@@ -50,5 +53,30 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "narrative": "",
+  "community_connection": "The function of the Museum is to perpetuate the heritage of Canadian Military aviation and it is dedicated to the memory of the airmen and airwomen who gave their lives in both peace and war. of silver plaques to representatives of the Royal Air Force, Royal Australian Air Force, Royal New Zealand Air Force and the United States Air Force.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Museum opening",
+        "date": "1984-04-01",
+        "description": "A small museum was opened at CFB Trenton and granted exclusive use of the title RCAF Memorial Museum."
+      },
+      {
+        "name": "Fundraising program launch",
+        "date": "1993-07-01",
+        "description": "A fundraising program was launched to build a larger facility."
+      },
+      {
+        "name": "Museum expansion",
+        "date": "1996",
+        "description": "An extension was added to the museum, providing an additional 7,200 square feet of space."
+      }
+    ]
+  },
+  "memorial_details": "An \"AD ASTRA\" Commemorative Stone program has also been established.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
 }

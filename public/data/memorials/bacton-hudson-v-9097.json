@@ -64,7 +64,8 @@
         "Aircraft carried four bombs"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of RAF Lockheed Hudson crash, including victim identities and circumstances."
     },
     {
       "source_site": "Key Aero Forum",
@@ -75,7 +76,8 @@
         "Crash date confirmed as 16 January 1942"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed forum discussion on RAF Hudson crash near Bacton, 1942, including crew information and circumstances."
     },
     {
       "source_site": "Geograph - East Anglia WW2 Aircrew Crash Memorials",
@@ -85,7 +87,8 @@
         "Listed in comprehensive East Anglia WW2 memorial catalogue"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records of Bacton Hudson crash memorial, including images and historical context."
     }
   ],
   "local_contacts": [
@@ -115,5 +118,9 @@
   "squadron_aliases": [
     "500 Squadron",
     "500 Sqdn."
-  ]
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative": "Hudson V-9097, operating from Bircham Newton with 500 Squadron, came down near Bacton, Norfolk, on 16 January 1942. The aircraft was crewed by four men: Pilot Officer John MacGillivray at the controls, Sergeant Wilfred Albert Sanger as navigator, Pilot Officer Roger Bourne Wark, and Sergeant John Stewart Brownsell, both serving as wireless operators and air gunners. The cause of the crash is not recorded in surviving accounts. All four men were killed; there were no survivors. The full names of Wilfred Albert Sanger and Roger Bourne Wark appear in memorial records, preserving their identities where other details have been lost to time.",
+  "narrative_source": "generated-claude-sonnet"
 }

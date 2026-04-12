@@ -39,7 +39,8 @@
         "Damaged Barwick House and Chaucer House"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Mosquito KB364 crash, its impact on Bawdeswell village, and subsequent tributes."
     },
     {
       "source_site": "Aviation Trails",
@@ -53,7 +54,8 @@
         "Icing of controls suspected cause"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of 608 Squadron's Mosquito crash, including crew profiles and iced control theory."
     },
     {
       "source_site": "Aviation Trails (Blog Post)",
@@ -65,7 +67,8 @@
         "Aircraft fragment made into memorial plaque in church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Crash anniversary commemoration with crew burial locations and memorial plaque details."
     },
     {
       "source_site": "Geograph",
@@ -75,7 +78,8 @@
         "Aircraft coded 6T-P"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed geographical images and historical context of Bawdeswell Mosquito Memorial, commemorating a WW2 aircraft."
     }
   ],
   "local_contacts": [
@@ -105,5 +109,30 @@
   "squadron_aliases": [
     "608 Squadron",
     "608 Sqdn."
-  ]
+  ],
+  "narrative": "Flying from Downham Market, Mosquito KB364 of 608 Squadron was on operations when it came down at Bawdeswell, Norfolk, on 6 November 1944. The aircraft is believed to have been brought down by iced controls, though the exact circumstances were never fully established. Pilot Officer James McLean, aged 26, and Sergeant Mervyn Lambert Tansley, aged 21, were both killed in the crash. Neither man survived. The loss of two young airmen left a lasting mark on the village of Bawdeswell, which has since commemorated them with a memorial plaque.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Mervyn Lambert Tansley",
+      "rank": "Mervyn Tansley",
+      "fate": "Unknown",
+      "role": "Unknown (presumably navigator or wireless operator based on rank and context)",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "James McLean",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 26,
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

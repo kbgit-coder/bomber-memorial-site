@@ -55,7 +55,8 @@
         "Rose garden with octagonal base and circular memorial stone"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The serene 75 (NZ) Squadron Memorial Garden at Mepal: Explore the beautifully landscaped rose garden with an octagonal base and commemorative memorial stone."
     },
     {
       "source_site": "Parks and Gardens",
@@ -66,7 +67,8 @@
         "Accessible and maintained year-round"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the 75 (NZ) Squadron Memorial Garden at Mepal in this Parks and Gardens database entry."
     },
     {
       "source_site": "75 NZ Squadron Association",
@@ -77,7 +79,8 @@
         "Primary RNZAF heavy bomber unit in Bomber Command"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore 75 NZ Squadron's historical background and connect with their Memorial Garden online."
     }
   ],
   "location_confidence": {
@@ -86,5 +89,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

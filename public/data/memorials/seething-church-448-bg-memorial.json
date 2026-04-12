@@ -16,8 +16,8 @@
   ],
   "station": "Seething Airfield (Station 146)",
   "crew_summary": "499 aircrew killed with 448th Bomb Group, 8th USAAF, flying B-24 Liberators from Seething Airfield",
-  "narrative": "The parish church of St Margaret and St Remigius at Seething provided a second memorial site for the American airmen of the 448th Bomb Group who flew and died from the adjacent airfield during World War Two. A free-standing black marble tablet in the churchyard commemorates the 499 men who did not return. The presence of an American bomber group memorial in a Norfolk churchyard speaks to the deep bond that formed between the USAAF personnel and the local communities who hosted them from 1943. Many of the men would have attended services at this church during their time at Seething, making its churchyard a natural and fitting location for permanent remembrance.",
-  "memorial_details": "Free-standing black marble tablet in the churchyard of St Margaret and St Remigius Church, Seething. Commemorates 499 aircrew killed with the 448th Bomb Group, 8th USAAF, flying from Seething Airfield (Station 146). A companion memorial to the airfield tablet (IWM 20232). IWM War Memorials Register reference: IWM 20233.",
+  "narrative": "The parish church of St Margaret and St Remigius at Seething provided a second memorial site for the American airmen of the 448th Bomb Group who flew and died from the adjacent airfield during World War Two. The presence of an American bomber group memorial in a Norfolk churchyard speaks to the deep bond that formed between the USAAF personnel and the local communities who hosted them from 1943. Many of the men would have attended services at this church during their time at Seething, making its churchyard a natural and fitting location for permanent remembrance.",
+  "memorial_details": "Free-standing black marble tablet in the churchyard of St Margaret and St Remigius Church, Seething. Commemorates 499 aircrew killed with the 448th Bomb Group, 8th USAAF, flying from Seething Airfield (Station 146). A companion memorial to the airfield tablet (IWM 20232). IWM War Memorials Register reference: IWM 20233.\n\nA free-standing black marble tablet in the churchyard commemorates the 499 men who did not return.",
   "sources": [
     {
       "title": "IWM War Memorials Register — 448th BG Church",
@@ -43,7 +43,8 @@
         "Companion to airfield memorial IWM 20232"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Memorial: Seething's 448th Bomb Group tribute at St Margaret & St Remigius Church on IWM War Memorials Register."
     }
   ],
   "location_confidence": {
@@ -52,5 +53,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

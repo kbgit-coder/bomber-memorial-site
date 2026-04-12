@@ -39,7 +39,8 @@
         "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Memorial: Explore Chippenham Stirling Bomber BK784 Crash Site Memorial."
     },
     {
       "source_site": "Roll of Honour",
@@ -49,7 +50,8 @@
         "All seven crew listed on local roll of honour"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Roll of Honour's Memorial page for Chippenham Stirling BK784 crew tragedy on May 23, 1944."
     }
   ],
   "local_contacts": [
@@ -115,8 +117,68 @@
       "name": "J. Whyte",
       "fate": "Killed",
       "rank": "—"
+    },
+    {
+      "name": "Gerard Prideaux Tharp",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sidney Howard Jordan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Henry Bowden",
+      "rank": "unknown",
+      "fate": "Killed",
+      "role": "Private",
+      "age": 24,
+      "nationality": "British",
+      "burial_location": "LONDON CEMETERY AND EXTENSION, LONGUEVAL, Somme, France"
+    },
+    {
+      "name": "Ernest Clayden [Listed as Ernest CLAYDON]",
+      "rank": "Private",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British",
+      "burial_location": "Savy British Cemetery F.672"
+    },
+    {
+      "name": "John Robert Taylor (Served under the surname Taylor)",
+      "rank": "Private",
+      "fate": "Died of wounds",
+      "role": "unknown",
+      "age": 20,
+      "nationality": "British",
+      "burial_location": "LA CLYTTE MILITARY CEMETERY, West-Vlaanderen, Belgium. Plot I. Row E. Grave 10."
     }
   ],
-  "memorial_details": "Name: Short Stirling BK784\nType: Board / Plaque / Tablet\nDescription: Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.\nInscription: + IN MEMORY OF / (7 NAMES) / CREW OF STIRLING BOMBER / BK 784 / CRASHED HERE 23.5.1944 / LEST WE FORGET\nLocation: Approx. co-ordinates and postcode memorial stands on private farmland, Stirling bomber aircraft memorial off Badlingham Road Chippenham East Cambridgeshire Cambridgeshire CB7 5QQ England\nGrid Ref: TL 67088 70229\nCoordinates: 52.304759168978,0.449275969114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg",
-  "narrative": "+ IN MEMORY OF / (7 NAMES) / CREW OF STIRLING BOMBER / BK 784 / CRASHED HERE 23.5.1944 / LEST WE FORGET"
+  "memorial_details": "Name: Short Stirling BK784\nType: Board / Plaque / Tablet\nDescription: Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.\nInscription: + IN MEMORY OF / (7 NAMES) / CREW OF STIRLING BOMBER / BK 784 / CRASHED HERE 23.5.1944 / LEST WE FORGET\nLocation: Approx. co-ordinates and postcode memorial stands on private farmland, Stirling bomber aircraft memorial off Badlingham Road Chippenham East Cambridgeshire Cambridgeshire CB7 5QQ England\nGrid Ref: TL 67088 70229\nCoordinates: 52.304759168978,0.449275969114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg\n\nThe memorial was erected 'to the memory of the men of this Parish who gave their lives in the Great War 1914-1919'.\n\nChippenham War Memorial: World War 1 and 2 memorial with 21 names for WW1 and 5 names for WW2. Located in the Churchyard of St Margaret's Church, Chippenham.",
+  "narrative": "On 23 May 1944, Stirling BK784 of 90 Squadron, based at Tuddenham, came down at Chippenham, Cambridgeshire. All seven crew members aboard were killed, including the pilot, Flight Sergeant J. Whyte, alongside R. Aston, H. Eggbeer, P. Mccrory, B. Pearce, L. Sharpen, and W. Walley. Also killed in the crash was James Henry Bowden, a 24-year-old British Private, whose family were from Chippenham. The fates of two further individuals associated with the aircraft, Gerard Prideaux Tharp and Sidney Howard Jordan, remain unknown. The crash claimed at least eight lives in total.",
+  "inscription": "+ IN MEMORY OF\n(7 NAMES)\nCREW OF STIRLING BOMBER\nBK 784\nCRASHED HERE 23.5.1944\nLEST WE FORGET",
+  "community_connection": "The detailed information about each man, including their birthplace, enlistment location, and burial location, highlights the personal connections to the community.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Bowden Memorial",
+        "date": null,
+        "description": "James Henry Bowden, Private 13835, 9th Battalion, Suffolk Regiment. Killed in action on 16th September 1916. Age 24."
+      },
+      {
+        "name": "Clayden Memorial",
+        "date": null,
+        "description": "Ernest Clayden (listed as Ernest CLAYDON), Private 26412, 2nd Battalion, The Bedfordshire Regiment. Killed in action at Savy on the 21st March 1918."
+      },
+      {
+        "name": "Cole Memorial",
+        "date": null,
+        "description": "John Robert Cole (served under surname Taylor), Private 12758, 2nd Battalion, Suffolk Regiment. Died of wounds on 11th April 1915. Aged 20."
+      }
+    ]
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

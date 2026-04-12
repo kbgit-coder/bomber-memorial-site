@@ -34,7 +34,8 @@
       "summary": "On 5 October 1945, Consolidated Liberator GR.VI KG867 of 311 (Czechoslovak) Squadron crashed at Elvetham, Hampshire, five minutes into a repatriation flight from RAF Blackbushe to Prague. An engine fire and fuel starvation caused the crash, killing all 23 aboard.",
       "key_details": "All 23 victims were Czechoslovak nationals: 5 crew, 17 official passengers, and 1 stowaway. This was the largest single-loss accident involving Free Czechoslovaks in the RAF. After the crash, repatriation switched from air to surface transport.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The historical account of a WWII Liberator plane crash site in Elvetham, Hampshire."
     },
     {
       "source_site": "Free Czechoslovak Air Force Associates",
@@ -42,7 +43,8 @@
       "summary": "Details of the Czechoslovak section at Brookwood Military Cemetery where five aircrew from the Elvetham crash are buried. Thirteen passengers share a common grave in the Old Roman Catholic Ground of the civilian cemetery.",
       "key_details": "Burials took place on 11 October 1945. Five aircrew in the Czechoslovak military section; 13 passengers in a communal grave in Long Avenue, Old Roman Catholic Ground.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore details about the Czechoslovak section and graves of Elvetham Liberator Memorial aircrew at Brookwood Military Cemetery."
     },
     {
       "source_site": "Find a Grave",
@@ -50,7 +52,8 @@
       "summary": "Memorial entry for the Elvetham Air Disaster on Find a Grave, documenting the memorial at Brookwood Cemetery for the 23 Czechoslovak personnel killed on 5 October 1945.",
       "key_details": "Memorial located at Brookwood Cemetery, Surrey. Lists all 23 victims.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Elvetham Liberator Memorial: Commemoration of 23 Czechoslovak victims in a poignant Find a Grave tribute at Brookwood Cemetery from 5th October 1945."
     }
   ],
   "local_contacts": [
@@ -73,5 +76,76 @@
   "squadron_aliases": [
     "Czechoslovak Air Force"
   ],
-  "narrative": "{\"aircraft_serial\": \"KG867\", \"aircraft_type\": \"Consolidated Liberator GR.VI\", \"date\": \"5 October 1945\", \"fatalities\": \"23\", \"location\": \"Elvetham, Hampshire, England 51\\u00b018\\u20323.40\\u2033N 0\\u00b053\\u20326.97\\u2033W\\ufeff / \\ufeff51.3009444\\u00b0N 0.8852694\\u00b0W\\ufeff / 51.3009444; -0.8852694\", \"operator\": \"RAF Transport Command\", \"summary\": \"Fuel leak leading to engine fire\", \"title\": \"Elvetham air crash\"}"
+  "narrative": "Carrying eighteen passengers homeward to Czechoslovakia in the weeks after the war's end, the Consolidated Liberator was on a repatriation flight when it crashed near Elvetham, Hampshire, on 5 October 1945. Piloted by Pilot Officer František Buliš of the Czechoslovak Air Force, the aircraft came down with devastating consequences. All twenty-three people on board were killed — five aircrew, among them Flight Lieutenant Václav Haňka, and eighteen passengers. There were no survivors. The victims were interred at Brookwood Military Cemetery, where the Elvetham Liberator Memorial stands as a lasting tribute to those lost on what should have been a journey home.",
+  "community_connection": "The memorial was sponsored and updated successfully on Find a Grave, with photos added by whispyblink.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Elvetham Air Disaster Memorial",
+        "date": "5th October 1945",
+        "description": "Commemoration of the Elvetham Air Disaster which occurred on this date in 1945."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Franti",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jaroslav Mal",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Anton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jaroslava",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Zden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Zde",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jaroslav Kudl",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flight Sergeant Zdenak Sedlack",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "František Buliš",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "pilot",
+      "nationality": "Czechoslovakia",
+      "burial_location": "Brookwood Commonwealth War Graves Cemetery, Surrey"
+    },
+    {
+      "name": "Václav Haňka",
+      "rank": "F/Lt.",
+      "fate": "Killed",
+      "role": "not explicitly stated",
+      "nationality": "Czechoslovakia",
+      "burial_location": "St Phillips Churchyard, Penn Fields, Staffs"
+    }
+  ],
+  "crash_category": "ferry-transport",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

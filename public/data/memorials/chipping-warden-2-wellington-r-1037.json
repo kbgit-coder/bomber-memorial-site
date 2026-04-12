@@ -36,7 +36,8 @@
         "12 OTU based at Chipping Warden from July 1941"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "RAF Bomber Command's Wellington R.1037 crash details from Chipping Warden, including fatalities and survivors in October 1941."
     },
     {
       "source_site": "Wikipedia - RAF Chipping Warden",
@@ -48,7 +49,8 @@
         "Active as OTU until June 1945"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "RAF Chipping Warden's history: WWII airfield training base for Avro Ansons and Vickers Wellingtons from 1941-45."
     }
   ],
   "local_contacts": [
@@ -77,5 +79,423 @@
   "squadron_display_name": "12 OTU",
   "squadron_aliases": [
     "12 OTU"
-  ]
+  ],
+  "narrative": "Wellington R.1037 was on a training sortie from RAF Chipping Warden, Northamptonshire, operated by 12 Operational Training Unit, which prepared aircrew for frontline bomber service. On 20 October 1941, the aircraft came down near the station itself. Those aboard included crew members Brumby, Newton, Jenner, Brathwaite, and Crompton, among others. Two of the crew were killed; three survived. The cause of the crash is not recorded in the available sources.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Addition/Amendment for P/O Barnett",
+        "date": "Not specified",
+        "description": "P/O Barnett was the younger brother of Wing Commander Denis Barnett (later Air Chief Marshal), who commanded 40 Squadron between 4 June and 23 December 1940."
+      },
+      {
+        "name": "Amendment for OTU/013 crew matrix and summary",
+        "date": "Not specified",
+        "description": "Crew matrix amended to include Sgt A E Hall, Sgt A C Catton, Sgt F Graham, LAC G H James. Summary amended to include details of a Blenheim incident at Carnedd Llewellyn, Snowdonia on an unspecified date."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Brumby",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Newton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jenner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brathwaite",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Crompton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rowe",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Denman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Anderson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Parry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Miller",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Paterson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rockel",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gilmour",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Topp",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fitch",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mackley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Henderson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dunbar",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Zietkiewicz",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ball",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Coe",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ian George Medwin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kilburn",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Greenbank",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lumsdaine",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hickman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bion",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Keane",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lyons",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Foltz",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Burke",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Taffs",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "F Graham",
+      "rank": null,
+      "fate": "Unknown",
+      "nationality": "British",
+      "burial_location": "in cemetery"
+    },
+    {
+      "name": "Leng",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ferguson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Duffill",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bakewell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shirley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Howson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mason",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Drayton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lennox",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hoey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sharp",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tvrdeich",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gavin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robinson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cooksley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Belcher",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Noble",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hatchard",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Page",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Watson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Woodward",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harrington",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Elkins",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Post",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Breslau",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chester",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Widdowson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Semark",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bilke",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Baxter",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clark",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gilmore",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tate",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Spearin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Smith",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Smallwood",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Hawarth Heath",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Muggeridge",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Macadam",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kennedy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Last",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rickard",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "A E Hall",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "nationality": "British",
+      "burial_location": "in cemetery"
+    },
+    {
+      "name": "A C Catton",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "nationality": "British",
+      "burial_location": "in cemetery"
+    },
+    {
+      "name": "G H James",
+      "rank": "Leading Aircraftman",
+      "fate": "Killed",
+      "nationality": "British",
+      "burial_location": "in cemetery"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

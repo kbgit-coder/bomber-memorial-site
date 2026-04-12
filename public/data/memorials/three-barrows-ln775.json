@@ -34,7 +34,8 @@
       "summary": "Detailed account of the Wellington LN775 crash at Three Barrows on Dartmoor. The aircraft departed the Overseas Aircraft Dispatch Unit at RAF Hurn, Dorset, on 1 March 1944 for transfer to Mediterranean Air Command en route to Rabat Sale, Morocco, but drifted 25 miles off its briefed route.",
       "key_details": "Aircraft flew into the hillside in cloud on a westerly track and burned out. Four crew killed. Wreckage was not located for three days after the crash. Small pieces of melted aluminium and heat-discharged cartridge cases remain at the site.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Wellington LN775 crash at Three Barrows Mk.X Memorial on Dartmoor."
     },
     {
       "source_site": "Dartefacts",
@@ -42,7 +43,8 @@
       "summary": "Dartmoor artefacts database entry for the Wellington Mk.X crash site at Three Barrows, recording the location of the crash scar and remaining debris near the central barrow of Three Barrows.",
       "key_details": "Crash scar visible within sight of the central barrow. Heat-discharged 0.303 cartridge cases still found at the site decades later.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Wellington Mk.X crash site's location and remnants at Three Barrows in Dartmoor artefacts database."
     }
   ],
   "local_contacts": [
@@ -64,5 +66,9 @@
   "squadron_display_name": "Bomber Command",
   "squadron_aliases": [
     "Bomber Command"
-  ]
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative": "Wellington LN775, a Mk.X bomber assigned to Bomber Command, was on a flight over southwest England on 1 March 1944 when it came down on the high moorland at Three Barrows, Dartmoor, Devon. The precise cause of the crash is not recorded in available sources, though the exposed terrain and unpredictable weather conditions of Dartmoor presented serious hazards to low-flying aircraft. All four crew members aboard were killed. Fragments of the aircraft remain at the site today, preserved in the moorland landscape as a quiet testament to those lost.",
+  "narrative_source": "generated-claude-sonnet"
 }

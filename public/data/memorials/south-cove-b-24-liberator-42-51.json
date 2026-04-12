@@ -37,7 +37,8 @@
         "Suffolk section of memorial survey"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed documentation and imagery of WWII aircrew crash memorials in East Anglia, focusing on the poignant South Cove B-24 Liberator crash site."
     },
     {
       "source_site": "Wikipedia",
@@ -50,7 +51,8 @@
         "Churchyard war memorial also references the loss"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical details about South Cove's Memorial and its connection to WWII B-24 Liberator crash site on Wikipedia."
     },
     {
       "source_site": "93rd Bomb Group Museum",
@@ -61,7 +63,8 @@
         "Unit museum preserves records"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the 93rd Bomb Group Museum's B-24 Liberator collection and learn about their wartime history tied to the South Cove crash."
     },
     {
       "source_site": "93rd Bomb Group Association",
@@ -74,7 +77,8 @@
         "First B-24 group in 8th Air Force to bomb occupied Europe"
       ],
       "date_retrieved": "2026-04-09",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the 93rd Bomb Group Association's official site for historical insights, Roll of Honor, crew photos, and Memorial details at South Cove."
     }
   ],
   "local_contacts": [
@@ -101,5 +105,36 @@
   "squadron_display_name": "93rd Bomb Group USAAF",
   "squadron_aliases": [
     "93rd BG"
-  ]
+  ],
+  "narrative": "On 31 March 1945, B-24 Liberator 42-51241, assigned to the 93rd Bombardment Group at Hardwick, came down at South Cove, Suffolk. The aircraft, piloted by 2nd Lieutenant Marvin Tucker, crashed with the loss of all ten men aboard. Among those killed was 2nd Lieutenant Max E. Dailey, aged 21. The cause of the crash is not recorded in available sources. All ten crew members perished, leaving no survivors.",
+  "community_connection": "The 93rd Bomb Group Association maintains a Folded Wings Roll of Honor to remember and honor fallen members like him. The association also operates museums and memorials dedicated to preserving the legacy of the 93rd Bomb Group.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "93rd Bomb Group Reunion",
+        "date": "November 5th-9th, 2026",
+        "description": "Annual reunion event for the 93rd Bomb Group Association"
+      },
+      {
+        "name": "Remembrance of 2Lt. Max E. Dailey",
+        "date": "August 1, 1943",
+        "description": "Commemoration of 2Lt. Max E. Dailey who was lost during Operation Tidal Wave on August 1, 1943"
+      }
+    ],
+    "annual_service": true,
+    "service_date": "November 5th-9th, 2026"
+  },
+  "crew": [
+    {
+      "name": "Max E. Dailey",
+      "rank": "2nd Lieutenant",
+      "fate": "Killed",
+      "role": "unknown (likely pilot or crew member)",
+      "age": 21,
+      "nationality": "American"
+    }
+  ],
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

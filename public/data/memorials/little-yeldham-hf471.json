@@ -37,7 +37,8 @@
         "Gale commissioned 6 April 1944, days before crash"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The memorial honoring Sgt Ronald Victor Smith's tragic loss in a training flight crash."
     },
     {
       "source_site": "Aviation Archaeology (Midlands)",
@@ -48,7 +49,8 @@
         "30 OTU based at RAF Hixon, Staffordshire"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Details about the 1944 Wellington HF471 aircraft loss site at Little Yeldham Wellington Memorial."
     }
   ],
   "local_contacts": [
@@ -75,5 +77,102 @@
   "squadron_display_name": "30 OTU",
   "squadron_aliases": [
     "30 OTU"
-  ]
+  ],
+  "narrative": "On 11th April 1944 the crew of this 30 Operational Training Unit aircraft took off from Hixon airfield to undertake a night cross-country training flight. The course of the flight took them over the Goole area and at 21.00hrs the aircraft flying through cloud when it dived into ground. The aircraft crashed into a field near Sand Hall Farm, around a mile south-east of Goole and unfortunately all on board were killed. This webpage is very basic but as learn more about the incident and crew I will develop it. Pilot - P/O Charles Henry George Gale RAFVR (174617), aged 31, of Herringfleet. Buried Herringfleet Churchyard, Suffolk. Navigator - P/O Francis George Newell RAFVR (168745), aged 34, of Sands, High Wycombe. Buried High Wycombe Cemetery, Buckinghamshire.",
+  "crew": [
+    {
+      "name": "Charles Henry George Gale",
+      "rank": "P/O",
+      "fate": "Kia",
+      "role": "Pilot",
+      "age": 31,
+      "burial_location": "Herringfleet Churchyard, Suffolk"
+    },
+    {
+      "name": "Francis George Newell",
+      "rank": "P/O",
+      "fate": "Kia",
+      "role": "Navigator",
+      "age": 34,
+      "burial_location": "High Wycombe Cemetery, Buckinghamshire"
+    },
+    {
+      "name": "Robert Charles Smith",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Bomb Aimer",
+      "age": 20,
+      "burial_location": "Nottingham Northern Cemetery (E18/4)"
+    },
+    {
+      "name": "Sydney Philip",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 21,
+      "burial_location": "New Pitsligo Churchyard, Aberdeenshire"
+    },
+    {
+      "name": "Armel Gordon O'Connor",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Air Gunner",
+      "age": 19,
+      "burial_location": "Guildford Cemetery, Surrey"
+    },
+    {
+      "name": "W/O E R Lumsdaine",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Sgt S Withingham",
+      "rank": "Pupil pilot",
+      "fate": "Survived",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown",
+      "fate": "Unknown",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "F/Sgt G B Hollings RAAF",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Australian"
+    }
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial Service",
+        "date": null,
+        "description": "A service held by Howden Youth Centre members as part of a Duke of Edinburgh Award project in May 1999 to confirm the crash location. Assisted by historians Ken Reast, Albert Pritchard and Eric Barton."
+      },
+      {
+        "name": "Beaufighter T3088 of 63 OTU",
+        "date": "02/01/1944",
+        "description": "Starboard tyre burst on take off from Honiley; undercarriage retracted to stop. Pupil pilot Sgt S Withingham was unhurt."
+      },
+      {
+        "name": "Oxford LW820 of 18 PAFU",
+        "date": "03/01/1944",
+        "description": "Flew into a radio mast at night at Hillmorton. Pilot F/Sgt G B Hollings RAAF was killed."
+      },
+      {
+        "name": "Mosquito LR259 of 464 Squadron",
+        "date": "06/01/1944",
+        "description": "Hit the ground and a hangar while beating up Chipping Warden airfield. The pilot, F/Sgt K R Russell RAAF and navigator, W/O E R Lumsdaine were both killed."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

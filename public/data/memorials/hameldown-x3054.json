@@ -22,7 +22,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "On the night of 21 March 1941, six Hampden bombers of 49 Squadron lifted from RAF Scampton and set course for the German naval base at Lorient in occupied France. On return, X3054 experienced a radio malfunction that rendered it unable to receive signals. Without functioning radio aids, the pilot -- 25-year-old Pilot Officer Robert Wilson -- became disoriented regarding his position relative to the English coast. Flying in deteriorating visibility, the Hampden struck the western slope of Hameldown Tor at approximately 1,400 feet and burst into flames. Sergeants Brames, Ellis, and Lyon appear to have died on impact, but Wilson -- strapped into the pilot's seat -- survived initially, only to die the following day. Wilson and Ellis lie side by side in Exeter's Higher Cemetery; the two air gunners were buried in their home towns. All four were 25 or under. The Hampden was one of the earlier Bomber Command types, a cramped twin-engine aircraft with a crew of four, already being superseded by the heavier Halifax and Lancaster by 1941.",
+  "narrative": "Hampden X3054 of 49 Squadron departed RAF Scampton on a bombing raid against the German naval base at Lorient in occupied France. Returning in total cloud cover at 2,000 feet, the aircraft's radio was unable to receive, leaving Pilot Officer Wilson uncertain of his position relative to the coast. Intending to break cloud over the sea before crossing inland, he was further north than he believed and struck Hamel Down on Dartmoor at approximately 1,400 feet; the aircraft caught fire. Sergeants Ellis, Brames, and Lyon appear to have died on impact; Wilson, strapped into the pilot's seat, survived until the following day. All four crew members were killed — Wilson aged 25, Ellis aged 23, Lyon aged 23, and Brames aged 22. Wilson and Ellis are buried side by side at Exeter Higher Cemetery.",
   "crew": [
     {
       "rank": "P/O",
@@ -72,12 +72,17 @@
       "fate_detail": "Killed on impact at Hameldown Tor. Buried in his home area at Prescot Cemetery in Lancashire.",
       "hometown": "Prescot, Lancashire",
       "cwgc_verified": true
+    },
+    {
+      "name": "Lyons",
+      "rank": null,
+      "fate": "Unknown"
     }
   ],
   "cause_of_loss": "Radio unable to receive; pilot disoriented regarding coastal position; flew into high ground in poor visibility",
   "operation_type": "Operational",
   "operation_target": "Operational -- returning from bombing raid on Lorient, France",
-  "memorial_details": "Name: 49 Squadron RAF\nType: Stone of remembrance\nDescription: Stone of Remembrance of tapering unworked granite. The initials of the crew are incised on the north face, below an incised cross. A dedicatory tablet is mounted on the South face. The tablet has incised white lettering and the RAF badge top centre.\nInscription: South face: PER ARDUA AD ASTRA / ON 22ND MARCH 1941 / A ROYAL AIR FORCE BOMBER / 49 SQDN SCAMPTON / CRASHED RETURNING FROM / OPERATIONS OVER FRANCE / THE 4 CREW WERE LOST / THIS MEMORIAL BEARS / THEIR INITIALS AND SQUADRON / NUMBER - COMMEMORATING / THEIR SELFLESS COURAGE/ AND THAT OF FELLOW AIRMEN / WHO PERISHED ON DARTMOOR / 1939 - 1945 / THEIR SACRIFICE HELPED US / TO MAINTAIN FREEDOM. / THE AIRCREW ASSOCIATION 1991. // North face: + / R. A. F. / S. 49. / R. D. W. / C. J. L. / R. B. / R. L. A. E. / 21. 3. 41\nLocation: Dartmoor Hameldown Tor The Mariner's Path Manaton, Widecombe in the Moor Teignbridge Devon TQ13 9XE England\nGrid Ref: SX 71280 80694\nCoordinates: 50.611707011896,-3.820645809174\nPhotos: https://media.iwm.org.uk/ciim5/memorials/68/493/large_img_0924iwm.jpg; https://media.iwm.org.uk/ciim5/memorials/68/494/large_img_0927iwm.jpg",
+  "memorial_details": "Name: 49 Squadron RAF\nType: Stone of remembrance\nDescription: Stone of Remembrance of tapering unworked granite. The initials of the crew are incised on the north face, below an incised cross. A dedicatory tablet is mounted on the South face. The tablet has incised white lettering and the RAF badge top centre.\nInscription: South face: PER ARDUA AD ASTRA / ON 22ND MARCH 1941 / A ROYAL AIR FORCE BOMBER / 49 SQDN SCAMPTON / CRASHED RETURNING FROM / OPERATIONS OVER FRANCE / THE 4 CREW WERE LOST / THIS MEMORIAL BEARS / THEIR INITIALS AND SQUADRON / NUMBER - COMMEMORATING / THEIR SELFLESS COURAGE/ AND THAT OF FELLOW AIRMEN / WHO PERISHED ON DARTMOOR / 1939 - 1945 / THEIR SACRIFICE HELPED US / TO MAINTAIN FREEDOM. / THE AIRCREW ASSOCIATION 1991. // North face: + / R. A. F. / S. 49. / R. D. W. / C. J. L. / R. B. / R. L. A. E. / 21. 3. 41\nLocation: Dartmoor Hameldown Tor The Mariner's Path Manaton, Widecombe in the Moor Teignbridge Devon TQ13 9XE England\nGrid Ref: SX 71280 80694\nCoordinates: 50.611707011896,-3.820645809174\nPhotos: https://media.iwm.org.uk/ciim5/memorials/68/493/large_img_0924iwm.jpg; https://media.iwm.org.uk/ciim5/memorials/68/494/large_img_0927iwm.jpg\n\nThe memorial was commissioned by Lady Marjorie Cecilia Wilson, the mother of the pilot (Robert Wilson).\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nAn explanatory plaque was added to the rear of the stone in 1991.\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nPlaque Addition (1991): Addition of an explanatory plaque to the rear of the stone.",
   "latitude": 50.6031,
   "longitude": -3.8302,
   "maintainer": {
@@ -96,7 +101,8 @@
         "Departure time recorded as 18:20"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "History of 49 Squadron's Hampdens in Hameldown Tor memorial page."
     },
     {
       "source_site": "Dartmoor Explorations",
@@ -117,7 +123,8 @@
         "Registered memorial reference number 98287"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The 'Hameldown Hampden Memorial', listed for '49 Sqn RAF Crash Site'."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -127,7 +134,8 @@
         "IWM memorial reference 25874"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore 49 Squadron RAF Memorial at Hameldown Hampden, as documented by IWM War Memorials Register."
     },
     {
       "source_site": "CWGC",
@@ -138,7 +146,8 @@
         "73 Commonwealth war burials at this cemetery"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The confirmed burial sites of Pilot Officer Wilson and Sergeant Ellis at Exeter Higher Cemetery through the CWGC's comprehensive records."
     }
   ],
   "local_contacts": [
@@ -180,5 +189,14 @@
   "squadron_aliases": [
     "49 Squadron",
     "49 Sqdn."
-  ]
+  ],
+  "community_connection": "The 49 Squadron RAF memorial was created and shared by Judith Hewlett.",
+  "remembrance": {
+    "events": [],
+    "annual_service": true,
+    "service_date": "21st March"
+  },
+  "crash_category": "weather",
+  "narrative_quality_score": 5,
+  "narrative_source": "generated-claude-sonnet"
 }

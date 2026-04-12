@@ -27,7 +27,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "The Cheviot Hills claimed 58 airmen's lives in 19 separate crashes during WW2. On 15 January 1942, Wellington Z1078 of 150 Squadron departed RAF Snaith to attack Hamburg as part of a 14-aircraft force. Navigation aids failed on the return, causing the aircraft to drift far north. Lost and low on fuel, the Wellington struck The Cheviot at 1,500 feet in low snow clouds. Observer Sgt Irving was killed on impact. Local farmer John Dagg heard the crash and found three unconscious crew members and two more sheltering nearby. Despite Dagg's heroic rescue, pilot Sgt Hunt and wireless operator Sgt Maple died the following day. Three crew survived with injuries.",
+  "narrative": "Wellington Z1078 departed RAF Snaith as one of fourteen aircraft tasked with bombing Hamburg on the night of 15 January 1942. The aircraft caught fire immediately; Sergeant Thomas Walter Irving Sgt was killed on impact. Three survivors — Pilot Officer Bertram Alexander Macdonald, Sergeant Laurence Warren Hunt, and Sergeant Frederick George Maple — were found unconscious near the burning wreckage by local farmer John Dagg, who climbed the hill guided by the smell of burning and exploding ammunition. Sergeants Charles Frederick Glover and William Henry Allworth were discovered sheltering behind a rock; Dagg and two shepherds brought all five down through a blizzard.",
   "crew": [
     {
       "rank": "Sgt",
@@ -60,11 +60,12 @@
       "nationality": "British",
       "fate": "Survived injured",
       "fate_detail": "Survived the crash with injuries.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "age": null
     },
     {
       "rank": "Sgt",
-      "name": "Thomas Walter Irving",
+      "name": "Thomas Walter Irving Sgt",
       "service_number": "405378",
       "age": 23,
       "role": "Observer",
@@ -94,7 +95,8 @@
       "nationality": "British",
       "fate": "Survived injured",
       "fate_detail": "Survived the crash with injuries. One of three survivors rescued by local farmer John Dagg.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "age": null
     }
   ],
   "memorial_details": "The Cheviot Airmen Memorial stands in the College Valley, opposite Cuddystone Hall. Originally unveiled 19 May 1995 by HRH The Duke of Gloucester. Rededicated 6 September 2018 after a 25,000-pound restoration as part of RAF 100 centenary celebrations.",
@@ -118,7 +120,8 @@
         "Navigation aids failed on return"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed investigation records on 150 Squadron's role in RAF Snaith's attack on Hamburg."
     },
     {
       "source_site": "NELSAM / WtdWhd",
@@ -129,7 +132,8 @@
         "Three crew killed, three survived"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed crash site information and John Dagg's heroic rescue account at this memorial link."
     },
     {
       "source_site": "Northumberland National Park",
@@ -139,7 +143,8 @@
         "Walking route passes crash site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore memorial honoring life lost in tragic car accident at Cheviot Hills."
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/150.jpg",
@@ -156,5 +161,8 @@
   "squadron_aliases": [
     "150 Squadron",
     "150 Sqdn."
-  ]
+  ],
+  "crash_category": "weather",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

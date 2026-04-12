@@ -15,7 +15,7 @@
     "49 Sqdn."
   ],
   "station": "RAF Fiskerton",
-  "narrative": "The parish church of St Clement at Fiskerton in Lincolnshire is the village church closest to the former RAF Fiskerton airfield, from which 49 Squadron flew Lancaster bombers during World War Two. The church holds a 49 Squadron memorial and is the site of the annual Remembrance Sunday service held by the 49 Squadron Association, complementing the service at the former airfield site. The use of the parish church as a site of remembrance reflects the deep integration of the wartime air station into village life — the men of 49 Squadron were not remote figures but part of the community, using the village church, its pub, and its streets during their time at Fiskerton.",
+  "narrative": "The parish church of St Clement at Fiskerton in Lincolnshire is the village church closest to the former RAF Fiskerton airfield, from which 49 Squadron flew Lancaster bombers during World War Two. The use of the parish church as a site of remembrance reflects the deep integration of the wartime air station into village life — the men of 49 Squadron were not remote figures but part of the community, using the village church, its pub, and its streets during their time at Fiskerton.",
   "memorial_details": "49 Squadron memorial inside St Clement's Church, Fiskerton. Annual Remembrance Sunday service held here by the 49 Squadron Association, alongside service at the former airfield site. Church is publicly accessible.",
   "sources": [
     {
@@ -45,7 +45,8 @@
         "Companion service at former airfield memorial"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed accounts of the annual Remembrance Sunday services at St Clement's Church and RAF Fiskerton airfield sites on 49 Squadron Association's memorials page."
     },
     {
       "source_site": "Fiskerton Parish Council",
@@ -56,7 +57,8 @@
         "Village church adjacent to former RAF Fiskerton airfield site"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Fiskerton's history at St Clement's Church and 49 Squadron Memorial on the Parish Council website."
     }
   ],
   "location_confidence": {
@@ -65,5 +67,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

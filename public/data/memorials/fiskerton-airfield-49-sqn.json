@@ -15,7 +15,7 @@
     "49 Sqdn."
   ],
   "station": "RAF Fiskerton",
-  "narrative": "RAF Fiskerton in Lincolnshire was a Bomber Command Lancaster base, home to 49 Squadron during the height of the strategic bombing campaign. The airfield site — now largely returned to agricultural use — retains a memorial on its former ground. The 49 Squadron Association returns to this site annually for Remembrance Sunday services, alongside a companion service at St Clement's Church in the village of Fiskerton. The annual return of veterans and their families to the former operational base reflects the deep bond between the squadron community and the Lincolnshire landscape over which they flew.",
+  "narrative": "RAF Fiskerton in Lincolnshire was a Bomber Command Lancaster base, home to 49 Squadron during the height of the strategic bombing campaign. The airfield site — now largely returned to agricultural use — retains a memorial on its former ground. The annual return of veterans and their families to the former operational base reflects the deep bond between the squadron community and the Lincolnshire landscape over which they flew.",
   "memorial_details": "Memorial on the former RAF Fiskerton airfield site. 49 Squadron Association holds annual Remembrance Sunday services here and at St Clement's Church, Fiskerton. The airfield site is now largely agricultural land.",
   "sources": [
     {
@@ -45,7 +45,8 @@
         "Companion service at St Clement's Church, Fiskerton"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The moving annual Remembrance Sunday memorial services at Fiskerton Airfield and St Clement's Church on this 49 Squadron Association page."
     },
     {
       "source_site": "Fiskerton Parish Council",
@@ -56,7 +57,8 @@
         "Parish Council maintains information on the airfield heritage"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the historical significance of 49 Squadron at Fiskerton Airfield through detailed documentation by Fiskerton Parish Council."
     }
   ],
   "location_confidence": {
@@ -65,5 +67,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

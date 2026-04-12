@@ -51,7 +51,8 @@
         "Access may be restricted during school hours"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Memorial: Discover the 44 Squadron Book of Remembrance honoring 498 fallen aircrew at Welton's William Farr School."
     },
     {
       "source_site": "44 (Rhodesia) Squadron Association",
@@ -63,7 +64,8 @@
         "Association active and maintaining memorial connections"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the 44 (Rhodesia) Squadron Association website for detailed history and memorials related to the squadron and William Farr School."
     }
   ],
   "location_confidence": {
@@ -72,5 +74,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

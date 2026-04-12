@@ -41,7 +41,8 @@
         "1000lb bomb exploded 90 minutes later (possibly delayed-action)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of the tragic crash, including aircraft specifications, timeline, probable cause, and tribute to the fallen crew members."
     },
     {
       "source_site": "Wartime Memories Project",
@@ -52,7 +53,8 @@
         "Squadron flew Halifax II bombers"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed accounts of 102 (Ceylon) Squadron's operations from RAF Pocklington, including Halifax DT800's final flight."
     },
     {
       "source_site": "Coventry Telegraph",
@@ -63,7 +65,8 @@
         "All eight crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Unveiling ceremony and tributes to the eight crew members of Halifax DT800, commemorated at Ardleigh II Memorial."
     }
   ],
   "local_contacts": [
@@ -92,5 +95,103 @@
     "102 (Ceylon) Squadron",
     "102 Squadron",
     "102 Sqdn."
-  ]
+  ],
+  "narrative": "Halifax II DT800, operating with 102 (Ceylon) Squadron from RAF Pocklington, came down at Ardleigh, Essex on 25 February 1943. Eight of those aboard were killed, among them the pilot, Flight Sergeant Charles Henry Bray. Also lost were Pilot Officer DWF Harper, Navigator; Flight Sergeant WJ McGrath, Flight Engineer; Sergeant FW Dorrington, Wireless Operator; Sergeant J King, Air Gunner; and Sergeant MCC Squiers, Air Gunner.",
+  "community_connection": "In May 2015, a Memorial to the crew of DY- G 'George' JB848 was dedicated. The memorial serves as a tribute to the fallen crew members and a testament to the enduring community connection to their story.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Operations",
+        "date": "11th February 1943",
+        "description": "Operations conducted at RAF Pocklington."
+      },
+      {
+        "name": "Aircraft Lost",
+        "date": "8th December 1942",
+        "description": "Two Halifax aircraft were lost at RAF Pocklington."
+      },
+      {
+        "name": "Move",
+        "date": "15th Sep 1941",
+        "description": "102 Squadron moved to RAF Pocklington from RAF Topcliffe."
+      },
+      {
+        "name": "Moved",
+        "date": "9th Sep 1942",
+        "description": "102 Squadron was moved from RAF Pocklington."
+      },
+      {
+        "name": "Aircraft Exploded",
+        "date": "12th May 1943",
+        "description": "A Halifax exploded at RAF Pocklington."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Peter William Brown",
+      "rank": "Brown\nPeter William",
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Henry James",
+      "rank": "James\nWilliam Henry",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mountney",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Wilton Walsh",
+      "rank": "Walsh\nJohn Wilton",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harold Wigley",
+      "rank": "Wigley\nHarold",
+      "fate": "Unknown"
+    },
+    {
+      "name": "J King",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner"
+    },
+    {
+      "name": "FW Dorrington",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator"
+    },
+    {
+      "name": "DWF Harper",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "WJ McGrath",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer"
+    },
+    {
+      "name": "MCC Squiers",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner"
+    },
+    {
+      "name": "WP Comrie",
+      "rank": "2nd Class Warrant Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    }
+  ],
+  "memorial_details": "Memorial Dedication (May 2015): A memorial to the crew of DY- G 'George' JB848 was dedicated.\n\nThis memorial was established by the Barmby-on-the-Moor community following the tragic crash of the Handley Page Halifax II on March 29, 1943.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

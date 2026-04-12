@@ -39,7 +39,8 @@
         "All seven Polish crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of Wellington HZ251's crash on 23 September 1943 at Low Bradley Mk.XI Memorial."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -62,7 +63,8 @@
         "Memorial documented on international war heritage site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "The poignant story of the Low Bradley Mk.XI Memorial dedicated to the brave Polish crew."
     },
     {
       "source_site": "yorkshire-aircraft.co.uk",
@@ -72,7 +74,8 @@
         "Pilot was F/Sgt Franciszek Ciaston PAF"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history and technical specs of Low Bradley Mk.XI Memorial on Yorkshire Aircraft website."
     }
   ],
   "local_contacts": [
@@ -99,5 +102,81 @@
   "squadron_display_name": "6 OTU",
   "squadron_aliases": [
     "6 OTU"
-  ]
+  ],
+  "narrative": "On 22nd September 1943 the crew of a 6 (C)O.T.U. Wellington undertook a training flight, while based at Silloth near Carlisle the flight took them over the Pennine hills. Poor weather over the Pennines saw the aircraft land safely at Skipton on Swale airfield. The Skipton on Swale station orb mentions a 6 (C)O.T.U. making a landing there because of the weather and also because it had a problem with the wireless equipment, this orb recorded the aircraft as being Wellington HE426 and the pilot as being Sgt Ciaston. The crew and aircraft remained overnight at Skipton on Swale. The events surrounding this landing are slightly confusing. An AIB report detailing why Wellington HZ251 would crash on 23rd September 1943 states that HZ251 had also landed at Skipton on Swale on account of poor weather the previous day. The Skipton on Swale orb is very specific in identifying just one Wellington as being just HE426 (HZ251 is not mentioned). The AIB report states that during the morning of 23rd Sep",
+  "crew": [
+    {
+      "name": "Franciszek Ciaston",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "PAF Pilot",
+      "nationality": "Polish",
+      "age": 27
+    },
+    {
+      "name": "Wladyslaw Ostrowski",
+      "rank": "Sergeant",
+      "fate": "Unknown",
+      "role": "Co-pilot",
+      "nationality": "Polish",
+      "age": 27
+    },
+    {
+      "name": "Abram Kawenoki",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Boleslaw Rychel",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "Polish",
+      "age": 21
+    },
+    {
+      "name": "Boleslaw J. Swieca",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "Polish",
+      "age": 28
+    },
+    {
+      "name": "Jan Czyzewski",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "nationality": "Polish",
+      "age": 23
+    },
+    {
+      "name": "HE426 Crew",
+      "rank": "Unknown",
+      "fate": "Stranded",
+      "role": "Crew Members"
+    },
+    {
+      "name": "A Kawenocki",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 22,
+      "nationality": "Polish"
+    }
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Overnight stay at Skipton on Swale",
+        "date": "22nd September 1943",
+        "description": "The crew of the Wellington remained overnight at Skipton on Swale after the unplanned landing."
+      }
+    ]
+  },
+  "memorial_details": "Unveiling of Memorial (Not specified in text): A memorial unveiling event for the crew of Wellington HZ251, including Flt Lt Wolnik, who died in a crash near Skipton on September 23rd, 1943. The event was attended by Josephine Stebbing, Flt Lt Wolnik's widow.",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

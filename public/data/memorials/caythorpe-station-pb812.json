@@ -38,7 +38,8 @@
         "Bomb aimer Arnold Kloeden absent due to illness, survived"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the poignant story of Lancaster PB812 AR-Y, its six crew members, and their tragic fate on this IBCC feature."
     },
     {
       "source_site": "War Memorials Online",
@@ -50,7 +51,8 @@
         "Two plaques: church and crash site on Love Lane"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant memorial for Lancaster PB812 crew at Caythorpe Station, unveiled in 2016."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -60,7 +62,8 @@
         "IWM memorial reference 84934"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The memorial plaque honoring Lancaster PB812's crew at Caythorpe Station in Lincolnshire."
     },
     {
       "source_site": "TracesOfWar",
@@ -70,7 +73,8 @@
         "International documentation of the memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore detailed documentation of the tragic Lancaster PB812 crash memorial at Caythorpe Station in this comprehensive TracesOfWar entry."
     }
   ],
   "local_contacts": [
@@ -126,7 +130,9 @@
     {
       "name": "F. A. C. Nesbit-bell",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null,
+      "role": "Flight Engineer",
+      "nationality": "British"
     },
     {
       "name": "R. L. Pope",
@@ -137,8 +143,23 @@
       "name": "A. G. Robinson",
       "fate": "Killed",
       "rank": "—"
+    },
+    {
+      "name": "Arnold Kloeden",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Bomb Aimer",
+      "nationality": "Australian"
     }
   ],
-  "memorial_details": "Name: Avro Lancaster PB812 - tablet\nType: Board / Plaque / Tablet\nDescription: A grey slate plaque attached to the wall, commemorating a WW2 Lancaster loss. Inscribed Bomber Command, and Royal Australian Air Force badges appear in the top corners. The inscription and names, in a single column, are inscribed and picked out in white.\nInscription: IN MEMORY OF THE VALOUR AND SACRIFICE/ OF THE LAST CREW OF/ AVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF/ WHICH CRASHED NEAR THE OLD/ CAYTHORPE RAILWAY STATION AT 15:50/ ON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD/ (Names)/ LEST WE FORGET/ PLAQUE DEDICATION 10TH SEPTEMBER 2016\nLocation: On the wall adjacent to the 5 Infantry brigade memorial St Vincent's Church Church Lane Caythorpe South Kesteven Lincolnshire NG32 3DU England\nGrid Ref: SK 93890 48570\nCoordinates: 53.026193209292,-0.601552270736\nPhotos: https://media.iwm.org.uk/ciim5/memorials/74/792/large_lancaster_pb812_plaque.jpg; https://media.iwm.org.uk/ciim5/memorials/74/793/large_caythorpe___lancaster_pb812.jpg",
-  "narrative": "IN MEMORY OF THE VALOUR AND SACRIFICE/ OF THE LAST CREW OF/ AVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF/ WHICH CRASHED NEAR THE OLD/ CAYTHORPE RAILWAY STATION AT 15:50/ ON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD/ (Names)/ LEST WE FORGET/ PLAQUE DEDICATION 10TH SEPTEMBER 2016"
+  "memorial_details": "Name: Avro Lancaster PB812 - tablet\nType: Board / Plaque / Tablet\nDescription: A grey slate plaque attached to the wall, commemorating a WW2 Lancaster loss. Inscribed Bomber Command, and Royal Australian Air Force badges appear in the top corners. The inscription and names, in a single column, are inscribed and picked out in white.\nInscription: IN MEMORY OF THE VALOUR AND SACRIFICE/ OF THE LAST CREW OF/ AVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF/ WHICH CRASHED NEAR THE OLD/ CAYTHORPE RAILWAY STATION AT 15:50/ ON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD/ (Names)/ LEST WE FORGET/ PLAQUE DEDICATION 10TH SEPTEMBER 2016\nLocation: On the wall adjacent to the 5 Infantry brigade memorial St Vincent's Church Church Lane Caythorpe South Kesteven Lincolnshire NG32 3DU England\nGrid Ref: SK 93890 48570\nCoordinates: 53.026193209292,-0.601552270736\nPhotos: https://media.iwm.org.uk/ciim5/memorials/74/792/large_lancaster_pb812_plaque.jpg; https://media.iwm.org.uk/ciim5/memorials/74/793/large_caythorpe___lancaster_pb812.jpg\n\nMemorial Installation (September 2016): Made and installed\n\nA memorial to the crew stands at Caythorpe Station, unveiled in 2016.",
+  "narrative": "On 10 February 1945, Lancaster PB812 AR-Y of 460 Squadron RAAF, based at RAF Binbrook, crashed at Caythorpe near Grantham, Lincolnshire. The aircraft was crewed by men who had largely travelled together from Australia on the same troopship, first forming up in August 1944 at RAF Hixon before converting to the Lancaster at No. 1656 Heavy Conversion Unit, RAF Lindholme, in December 1944. Pilot Officer Richard Albert George Miller and five of his crewmates — G. Dockery, J. Downing, F. Nesbit-Bell, R. Pope, and A. Robinson — were killed. Flight Engineer Nesbit-Bell, a Briton from Bristol who had originally trained as a pilot in Canada before remustering to his new trade, was among the dead. The fate of bomb aimer Arnold Kloeden is unrecorded.",
+  "inscription": "IN MEMORY OF THE VALOUR AND SACRIFICE\nOF THE LAST CREW OF\nAVRO LANCASTER PB 812, AR-Y 460 SQUADRON RAAF\nWHICH CRASHED NEAR THE OLD\nCAYTHORPE RAILWAY STATION AT 15:50\nON 10 FEBRUARY 1945 WITH THE LOSS OF ALL ON BOARD\n(Names)\nLEST WE FORGET\nPLAQUE DEDICATION 10TH SEPTEMBER 2016",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "On the IBCC Ribbons Of Remembrance are a series of Stones which are dedicated to the memory of a crew from 460 Sqn RAAF who were based at RAF Binbrook.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

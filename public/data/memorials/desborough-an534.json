@@ -39,7 +39,8 @@
         "Crashed 4 miles west of Corby near Stoke Albany"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed memorial records for Boeing Fortress Mk.I AN534 crew from 90 Squadron."
     },
     {
       "source_site": "RAF Commands Archive",
@@ -50,7 +51,8 @@
         "90 Squadron at Polebrook"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history of Desborough Fortress Memorial on RAF Commands Archive forum."
     },
     {
       "source_site": "B-17 Bomber Flying Fortress",
@@ -61,7 +63,8 @@
         "Early Lend-Lease B-17C aircraft"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Desborough Fortress Memorial and learn about 90 Squadron's operations with B-17C Flying Fortresses from WWII."
     }
   ],
   "local_contacts": [
@@ -123,5 +126,17 @@
   "squadron_aliases": [
     "90 Squadron",
     "90 Sqdn."
-  ]
+  ],
+  "narrative": "90 Squadron | RAF Unit | B-17 Bomber Flying Fortress – The Queen Of The Skies B-17 Flying Fortresses, which were in service of Royal Air Force No.",
+  "crew": [
+    {
+      "name": "David Romans",
+      "rank": "Flying Officer",
+      "fate": "Unknown",
+      "role": "Unknown (likely pilot or key crew member)",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 3
 }

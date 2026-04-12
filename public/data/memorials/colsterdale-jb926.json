@@ -39,7 +39,8 @@
         "CO allowed exercise despite gale warnings"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of Halifax JB926 crash at Slipstone Crags during WWII night exercise."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -51,7 +52,8 @@
         "Part of broader Pennines crash sites database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed Halifax JB926 crash investigation report on Colsterdale Memorial in Peak District Air Accident Research."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -61,7 +63,8 @@
         "IWM memorial reference 29880"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Colsterdale Halifax Memorial's detailed history on the IWM War Memorials Register."
     },
     {
       "source_site": "RAF Commands Archive",
@@ -72,7 +75,8 @@
         "Night cross-country training exercise"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed discussion on Colsterdale Halifax Memorial's RB926 crash history and 1658 HCU training incident."
     }
   ],
   "local_contacts": [
@@ -100,6 +104,165 @@
   "squadron_aliases": [
     "1658 HCU"
   ],
-  "memorial_details": "Name: Handley Page Halifax JB926\nType: Stone of remembrance\nDescription: SMALL ROUGH-HEWN STONE OF REMEMBRANCE WITH CARVED LETTERING ON ONE SIDE OF STONE CIRCLE.\nInscription: 1658 HCU/ IN MEMORY OF/ THE CREW/ OF HALIFAX/ BOMBER J.B.926/ 24TH NOV 1943/ LEST WE FORGET.\nLocation: 5 Miles west of Masham near the western edge of Slipstone Cracs 200 yards from western wall of plantation 100 yards from face of cracs. Colsterdale Harrogate North Yorkshire England\nGrid Ref: SE 14024 82050\nCoordinates: 54.233969324485,-1.786337327469",
-  "narrative": "1658 HCU/ IN MEMORY OF/ THE CREW/ OF HALIFAX/ BOMBER J.B.926/ 24TH NOV 1943/ LEST WE FORGET."
+  "memorial_details": "Name: Handley Page Halifax JB926\nType: Stone of remembrance\nDescription: SMALL ROUGH-HEWN STONE OF REMEMBRANCE WITH CARVED LETTERING ON ONE SIDE OF STONE CIRCLE.\nInscription: 1658 HCU/ IN MEMORY OF/ THE CREW/ OF HALIFAX/ BOMBER J.B.926/ 24TH NOV 1943/ LEST WE FORGET.\nLocation: 5 Miles west of Masham near the western edge of Slipstone Cracs 200 yards from western wall of plantation 100 yards from face of cracs. Colsterdale Harrogate North Yorkshire England\nGrid Ref: SE 14024 82050\nCoordinates: 54.233969324485,-1.786337327469\n\nThe Handley Page Halifax JB926 war memorial is a small, rough-hewn stone of remembrance located 5 miles west of Masham near the western edge of Slipstone Cracs, 200 yards from the western wall of a plantation and 100 yards from the face of cracs in Colsterdale, Harrogate, North Yorkshire, England.",
+  "narrative": "On the night of 23rd / 24th November 1943 the crews of six Halifax aircraft belonging to 1658 Heavy Conversion Unit were tasked with flying night cross country training exercises. The weather on this night was forecast to be extremely bad but for some reason the Commanding Officer of the Riccall-based training unit allowed the exercise to continue and these six aircraft were the only six aircraft in the whole of the Yorkshire based Heavy Conversion Units to carry out training flights on this night. Of these six aircraft, two returned early with icing problems; one of which (Halifax DT541) crashed near Riccall, another aircraft crashed into the side of the substantial peak of Great Whernside in the Pennines. Only two of the six crews completed the exercise, though one of these is thought to have suffered had engine problems caused by the effects of icing. At 23.05hrs on 23rd November 1943 the crew of Halifax JB926 took off from their base at Riccall near Selby, Yorkshire for the exercis",
+  "inscription": "1658 HCU\nIN MEMORY OF\nTHE CREW\nOF HALIFAX\nBOMBER J.B.926\n24TH NOV 1943\nLEST WE FORGET.",
+  "crew": [
+    {
+      "name": "Richard Ernest Charles Bacon",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 22
+    },
+    {
+      "name": "Henry McCarth",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "George Heathcote Manley",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "age": 22
+    },
+    {
+      "name": "James Titterington",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "age": 23
+    },
+    {
+      "name": "John James MacGillivray",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "RCAF Bomb Aimer",
+      "age": 23,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Alexander John Winton",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 20
+    },
+    {
+      "name": "Henry McCarthy",
+      "rank": "F/O",
+      "fate": "Kia",
+      "role": "Navigator"
+    },
+    {
+      "name": "Basil Frank Taylor",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Wireless Operator / Air Gunner",
+      "age": 21
+    },
+    {
+      "name": "T R MCMEEKAN",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "R F WALKER",
+      "rank": "Flight Officer",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "J J O'BRIEN",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "F COSFORD",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "T C ASHLEY",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "A J ALLAN",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "D L H WOOSTER",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "D C RAVINE",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "M W BONNER",
+      "rank": "Flight Officer",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "N J HART",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "J H TOWNSEND",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "P C PARROTT",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "F D READ",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "A E GILVERSON",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "Canadian"
+    }
+  ],
+  "community_connection": "",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

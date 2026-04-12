@@ -39,7 +39,8 @@
         "Memorial cairn dedicated 16 September 1998"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Brigstock Lancaster Memorial, honoring F/Sgt C.E. Ryall, Sgt T.G. Higgins, and Sgt G.C. O'Neill."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -49,24 +50,51 @@
         "IWM reference: memorial/37442"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed record of Brigstock's Lancaster Memorial, honoring three 207 Squadron crew members lost in a 1943 crash. Includes operational history and memorial photographs."
     }
   ],
   "crew": [
     {
-      "name": "C.E. Ryall",
+      "name": "Cecil Ryall",
       "rank": "F/Sgt",
-      "fate": "Killed"
+      "fate": "Killed",
+      "role": "Wireless Operator/Air Gunner (WO/AG)",
+      "nationality": "Australian"
     },
     {
-      "name": "T.G. Higgins",
+      "name": "Thomas Higgins",
       "rank": "Sgt",
-      "fate": "Killed"
+      "fate": "Killed",
+      "role": "Rear Gunner (R/G)",
+      "nationality": "British"
     },
     {
-      "name": "G.C. O'Neill",
+      "name": "George O'Neill",
       "rank": "Sgt",
-      "fate": "Killed"
+      "fate": "Killed",
+      "role": "Mid Upper Gunner (MUG)",
+      "nationality": "British"
+    },
+    {
+      "name": "Frank Lees",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jim Shimield",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Baker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thomas Gedling",
+      "rank": null,
+      "fate": "Unknown"
     }
   ],
   "local_contacts": [
@@ -97,6 +125,13 @@
     "207 Squadron",
     "207 Sqdn."
   ],
-  "memorial_details": "Name: Avro Lancaster DV361\nType: Cairn\nDescription: Cairn with rectangular stone fixed to front. Metal inscription plaque fixed to top. Stone bears simple cross carved on front. Lancaster bomber top centre of inscription plaque flanked by RAF Badge on left and Squadron Badge on right. To the left of the memorial stone is a large coloured display board giving full details of the aircraft crash.\nInscription: Plaque: IN MEMORY OF/ (Names)/ Who lost their lives when Lancaster DV 361 of 207 Squadron/ crashed nearby on 22nd December 1943/ WE WILL REMEMBER THEM/ Small metal tag below plaque: DEDICATED 16-09-98\nLocation: At entrance to Lyveden Airfield Harley Way Lyveden East Northamptonshire Northamptonshire NN14 3JD England\nGrid Ref: SP 96378 85876\nCoordinates: 52.462331000000,-0.582878890000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg; https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg; https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg; https://media.iwm.org.uk/ciim5/memorials/175/62/large_37442a.jpg",
-  "narrative": "Plaque: IN MEMORY OF/ (Names)/ Who lost their lives when Lancaster DV 361 of 207 Squadron/ crashed nearby on 22nd December 1943/ WE WILL REMEMBER THEM/ Small metal tag below plaque: DEDICATED 16-09-98"
+  "memorial_details": "Name: Avro Lancaster DV361\nType: Cairn\nDescription: Cairn with rectangular stone fixed to front. Metal inscription plaque fixed to top. Stone bears simple cross carved on front. Lancaster bomber top centre of inscription plaque flanked by RAF Badge on left and Squadron Badge on right. To the left of the memorial stone is a large coloured display board giving full details of the aircraft crash.\nInscription: Plaque: IN MEMORY OF/ (Names)/ Who lost their lives when Lancaster DV 361 of 207 Squadron/ crashed nearby on 22nd December 1943/ WE WILL REMEMBER THEM/ Small metal tag below plaque: DEDICATED 16-09-98\nLocation: At entrance to Lyveden Airfield Harley Way Lyveden East Northamptonshire Northamptonshire NN14 3JD England\nGrid Ref: SP 96378 85876\nCoordinates: 52.462331000000,-0.582878890000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg; https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg; https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg; https://media.iwm.org.uk/ciim5/memorials/175/62/large_37442a.jpg\n\nMemorial Display: The memorial displays the Avro Lancaster DV361, a type of bomber used during World War II.\n\nMemorial Unveiling (1998-09-16): Unveiled by Sqn Ldr John Mitchell DFC, who was Signals Leader on 207 Sqn at RAF Spilsby at the time of the crash. A fly past was performed by the BBMF Lancaster, Hurricane and a Spitfire.",
+  "narrative": "On a cross-country test flight from RAF Spilsby, Lancaster DV361 of 207 Squadron developed an engine fire that the crew could not extinguish, forcing them to bail out over Northamptonshire. The aircraft came down near Brigstock, on the Duke of Gloucester's estate. Three crew members did not survive: F/Sgt Cecil Ryall, an Australian Wireless Operator/Air Gunner; Sgt Thomas Higgins, Rear Gunner; and Sgt George O'Neill, Mid Upper Gunner. Those who successfully bailed out did not long outlive their crewmates — they were subsequently killed in action. The three men are commemorated by a memorial close to the crash site, unveiled in September 1998.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "The memorial likely commemorates a specific Lancaster bomber or its crew members, contributing to the broader community connection with WW2 history. The memorial commemorating them was erected close to the crash site on the Duke of Gloucester's estate with permission from the Duke and through community effort. It was unveiled on September 16th, 1998 by Sqn Ldr John Mitchell DFC, who was Signals Leader on 207 Sqn at RAF Spilsby during the crash.",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

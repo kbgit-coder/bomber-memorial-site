@@ -21,11 +21,11 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Partial",
-  "narrative": "On the evening of 29 March 1943, the crew of Halifax JB848 were detailed for a major operation against Berlin. The aircraft began its takeoff run from Pocklington airfield but during the climb-out the pilot lost control. The Halifax stalled, turned onto its back and crashed in a catastrophic explosion near Thirsk's Mill and Pocklington School at West Green, just outside the airfield boundary. All crew were killed instantly in the resulting fireball. The crash site remained undisturbed for over 70 years until 2014, when excavation work for a new doctors' surgery uncovered a Rolls-Royce Merlin engine and various aircraft parts. The discovery prompted local residents to recover, clean and restore the engine, which was subsequently installed as a memorial to the crew.",
+  "narrative": "Lancaster ED393 of 50 Squadron departed Skellingthorpe on the night of 26 November 1943, bound for Berlin. Diverted to Melbourne airfield near Pocklington due to thick fog, the aircraft subsequently crashed when Pilot Officer Joseph Watson Thompson lost control on takeoff — the Lancaster stalled, inverted, and came down at Pocklington in the East Riding of Yorkshire. Thompson, holder of the Distinguished Flying Medal and aged just 20, was among five crew members killed; two further crew survived with injuries, and two civilians on the ground also lost their lives. The dead included Navigator Flight Sergeant Stanley Chapman, aged 22, Bomb Aimer Flight Sergeant John Ralph Conlon, aged 21, and Flight Engineer Sergeant Reginald Walter Laws, aged 20.",
   "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
   "operation_type": "Operational",
   "operation_target": "Operational -- bombing Berlin",
-  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ (names)/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg",
+  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ (names)/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg\n\nWar Memorial Unveiling: Unveiling of the Pocklington War Memorial",
   "latitude": 53.9311,
   "longitude": -0.7778,
   "maintainer": {
@@ -42,7 +42,8 @@
         "Dedicated by crash witness HH 'Charlie' Ross"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant story of Lancaster Bomber ED393's crew and their memorial at Pocklington."
     },
     {
       "source_site": "Yorkshire Aircraft (yorkshire-aircraft.co.uk)",
@@ -55,7 +56,8 @@
         "Crashed during landing circuit"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history of Lancaster ED393 VN-K crash at Canal Head due to fog conditions."
     },
     {
       "source_site": "No. 50 & No. 61 Squadrons Association",
@@ -66,7 +68,8 @@
         "Part of 50 Squadron's Berlin operations November 1943"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Memorial: Discover Detailed Context on ED393 VN-K's Berlin Operation and Diversion at Lancaster Link."
     },
     {
       "source_site": "Pocklington History Group",
@@ -77,7 +80,8 @@
         "Multiple wartime crashes documented around Pocklington"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local history group's research on wartime aircraft crashes in Pocklington, focusing on the Canal Head incident and its community impact."
     }
   ],
   "local_contacts": [
@@ -115,14 +119,20 @@
       "rank": "—"
     },
     {
-      "name": "Stanley Chapman",
+      "name": "F/Sgt Stanley Chapman",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "F/Sgt",
+      "role": "Navigator",
+      "age": 22,
+      "burial_location": "Gap Road Cemetery, Wimbledon, Surrey"
     },
     {
-      "name": "John Ralph Conlon",
+      "name": "F/Sgt John Ralph Conlon",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "F/Sgt",
+      "role": "Bomb Aimer",
+      "age": 21,
+      "burial_location": "Heworth Churchyard, Durham"
     },
     {
       "name": "C. B. Corbett",
@@ -135,24 +145,60 @@
       "rank": "—"
     },
     {
-      "name": "Reginald Walter Laws",
+      "name": "Sgt Reginald Walter Laws",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sgt",
+      "role": "Flight Engineer",
+      "age": 20,
+      "burial_location": "Tottenham Cemetery, Middlesex"
     },
     {
-      "name": "Allan Douglas Spiers",
+      "name": "Sgt Allan Douglas Spiers",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sgt",
+      "role": "Air Gunner",
+      "age": 29,
+      "burial_location": "Harrogate Stonefall Cemetery, North Yorkshire"
     },
     {
-      "name": "Joseph Watson Thompson",
+      "name": "Trevor A Wyllie",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sgt",
+      "role": "Air Gunner"
     },
     {
-      "name": "T. A. Wyllie",
-      "fate": "Killed",
-      "rank": "—"
+      "name": "P/O Joseph Watson Thompson DFM",
+      "rank": "P/O",
+      "fate": "Kia",
+      "role": "Pilot",
+      "age": 20,
+      "burial_location": "Greenford Park Cemetery, Middlesex"
+    },
+    {
+      "name": "Flight Sergeant Joh Ralph",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Stanley Chapamn",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Michael Tayleure Percy Stewart",
+      "rank": "Percy Stewart\nMichael Tayleure",
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Boulton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt C R Corbe",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Wireless Operator"
     }
   ],
   "remembrance": {
@@ -165,7 +211,36 @@
         "name": "2026 Memorial Service at Skellingthorpe",
         "date": "7 June 2026",
         "description": "Annual service at Birchwood memorial (11:30) and village memorial (14:00). AGM Saturday 6 June at 17:00."
+      },
+      {
+        "name": "Memorial Service",
+        "date": "2026-06-07",
+        "description": "Service at Birchwood memorial at 11.30, followed by service at the village memorial at 14.00"
+      },
+      {
+        "name": "AGM",
+        "date": "2026-06-06",
+        "description": "Annual General Meeting at Skellingthorpe Community Centre, followed by refreshments and a bite to eat at a local hostelry"
+      },
+      {
+        "name": "D-Day memories",
+        "date": null,
+        "description": "Recollections of D-Day"
+      },
+      {
+        "name": "That Fateful Night",
+        "date": null,
+        "description": "Refers to a significant event during World War II, but the exact nature is not specified in the text"
+      },
+      {
+        "name": "VE day",
+        "date": null,
+        "description": "Victory in Europe Day commemoration"
       }
     ]
-  }
+  },
+  "community_connection": "This memorial serves as a tangible link to the war, fostering a sense of community connection through remembrance. This story highlights the community's collective experience of fear and resilience during wartime.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

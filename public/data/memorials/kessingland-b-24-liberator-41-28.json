@@ -37,7 +37,8 @@
         "Crashed in fields south of Kessingland village"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the American Air Museum's detailed record of B-24H Liberator 'Repulser', commemorating its heroic role and tragic end during WWII."
     },
     {
       "source_site": "War Memorials Online",
@@ -48,7 +49,8 @@
         "Located at St Edmund's Church alongside village war memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial: Kessingland \"Repulser\" Memorial on War Memorials Online, honoring USAAF B-24 Liberator crash and 715th Bomber Group crew."
     },
     {
       "source_site": "Lowestoft Journal",
@@ -59,7 +61,8 @@
         "Local community commemoration"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Witness the solemn memorial ceremony honoring brave USAAF airmen at Kessingland's \"Repulser\" Memorial."
     },
     {
       "source_site": "East Anglian Daily Times",
@@ -69,7 +72,8 @@
         "Annual memorial service held at Kessingland"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Attend memorial service honoring Kessingland's \"Repulser\" victims of WWII air raid."
     }
   ],
   "local_contacts": [
@@ -123,5 +127,33 @@
   "squadron_display_name": "715th Squadron USAAF",
   "squadron_aliases": [
     "715th Squadron"
-  ]
+  ],
+  "narrative": "The crew of B-24 Liberator *Repulser* departed from Seething on 22 April 1944, flying with the 715th Squadron on a wartime mission over England. The aircraft came down at Kessingland, Suffolk, before it could return to base. All ten men aboard were killed, including the pilot, 2nd Lieutenant Eugene V. Pulcipher. No survivors are recorded. A memorial at Kessingland now marks the site where the crew of *Repulser* was lost.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "American Aircraft Crew memorial",
+        "date": "23 Nov 2017",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "USAF Bomber Crew.1",
+        "date": "24 Aug 2020",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "USAF Bomber Crew.2",
+        "date": "24 Aug 2020",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "Liberator Memorial",
+        "date": "01 Oct 2020",
+        "description": "Photograph taken of the memorial"
+      }
+    ]
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 1,
+  "narrative_source": "generated-claude-sonnet"
 }

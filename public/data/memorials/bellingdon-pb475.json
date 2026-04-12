@@ -36,7 +36,8 @@
         "Located at Bloomfield Farm, Bellingdon"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed Register Entry: This includes the Lancaster PB475's memorial at Bellingdon, Buckinghamshire, featuring stone and plaque, honoring the crew who perished at Bloomfield Farm."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -51,7 +52,8 @@
         "Tail gunner Bill Heart survived"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed crash report including flight path, time, and cause; crew information and aircraft specifications."
     },
     {
       "source_site": "RAF Halton - Mainpoint Online",
@@ -63,7 +65,8 @@
         "Crew included Barnett, Ross Denbigh, Gould, Hemsworth, Ralph, and Torr"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed account of PB475 crash, including memorial dedication on 13 May 2012 at Bellingdon Lancaster Memorial."
     }
   ],
   "local_contacts": [
@@ -93,36 +96,68 @@
   ],
   "crew": [
     {
-      "name": "Ross Barnett",
+      "name": "Ross Frederick Barnett",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Flight Sergeant",
+      "role": "Navigator",
+      "nationality": "Australian",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/417794"
     },
     {
       "name": "Arnold Denbigh",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Oxford (Botley) Cemetery"
     },
     {
-      "name": "John Gould",
+      "name": "John Charles Gould",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Flying Officer",
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Oxford (Botley) Cemetery"
     },
     {
-      "name": "Ellis Hemsworth",
+      "name": "Ellis Wilby Hemsworth",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Warrant Officer",
+      "role": "Wireless Operator",
+      "nationality": "Australian",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/423730"
     },
     {
-      "name": "Gerald Ralph",
+      "name": "Gerald John Price Ralph",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sergeant",
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "burial_location": "Oxford (Botley) Cemetery"
     },
     {
       "name": "Glen Torr",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Warrant Officer",
+      "role": "Bomb Aimer",
+      "nationality": "Australian",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/417533"
+    },
+    {
+      "name": "G Hart",
+      "rank": "Sergeant",
+      "fate": "Survived",
+      "role": "Rear Gunner",
+      "nationality": "British"
     }
   ],
   "memorial_details": "Name: Avro Lancaster PB475\nType: Board / Plaque / Tablet\nDescription: Small blue circular plaque with central illustration of a Lancaster in flight, set into a large stone. White coloured inscription, names, drawing and border edgings.\nInscription: Six young airmen / died at this spot on / 6 March 1945. / Participants in, and victims of the / human preoccupation with war. / Great lives cut short / Royal Air Force / (3 Names) / Royal Australian Air Force / (3 Names) / We remember them.\nLocation: Lancaster Bomber PB475 Crash site Bloomfield Farm Bellingdon Chiltern Buckinghamshire HP5 2UT England\nGrid Ref: SP 93606 05127\nCoordinates: 51.737045746334,-0.645810828216\nPhotos: https://media.iwm.org.uk/ciim5/memorials/95/827/large_63847b.jpg; https://media.iwm.org.uk/ciim5/memorials/95/828/large_63847a.jpg; https://media.iwm.org.uk/ciim5/memorials/95/829/large_63847c.jpg; https://media.iwm.org.uk/ciim5/memorials/95/830/large_63847d.jpg",
-  "narrative": "Six young airmen / died at this spot on / 6 March 1945. / Participants in, and victims of the / human preoccupation with war. / Great lives cut short / Royal Air Force / (3 Names) / Royal Australian Air Force / (3 Names) / We remember them."
+  "narrative": "On March 6, 1945, a Lancaster bomber from Bomber Command, registered as PB475, tragically crashed near Bellingdon in the Chilterns, Buckinghamshire. This aircraft, part of a larger mission during World War II, was lost along with its six-member crew. The crew consisted of three members from the Royal Air Force and three from the Royal Australian Air Force. Their lives were senselessly cut short in this tragic event, a stark reminder of the human cost of war.",
+  "inscription": "Six young airmen\ndied at this spot on\n6 March 1945.\nParticipants in, and victims of the\nhuman preoccupation with war.\nGreat lives cut short\nRoyal Air Force\n(3 Names)\nRoyal Australian Air Force\n(3 Names)\nWe remember them.",
+  "community_connection": "The image of the Avro Lancaster PB475 memorial was created and shared by Matthew Robins. The specific details about the community connection or the purpose of this particular memorial are not explicitly stated in the provided text.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

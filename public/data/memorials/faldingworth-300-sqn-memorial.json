@@ -18,7 +18,7 @@
   ],
   "station": "RAF Faldingworth",
   "dedication_date": "2004-05-08",
-  "inscription": "300 SQN POLISH AIR FORCE / 1944-1947 / 1667 HCU RAF 1943 / TO THOSE WHO WHEN TYRANNY THREATENED / FLEW FROM THIS RUNWAY / SOME NEVER TO RETURN",
+  "inscription": "300 SQN POLISH AIR FORCE\n1944-1947\n1667 HCU RAF 1943\nTO THOSE WHO WHEN TYRANNY THREATENED\nFLEW FROM THIS RUNWAY\nSOME NEVER TO RETURN",
   "narrative": "RAF Faldingworth in Lincolnshire was home to 300 (Masovia) Squadron of the Polish Air Force, which flew Lancasters from this station between 1944 and 1947. Before 300 Squadron's arrival, the station hosted 1667 Heavy Conversion Unit in 1943, preparing crews for the Lancaster. The memorial at the former airfield is unique in British aviation heritage: it is built from actual rubble excavated from the original runway and embedded with parts from Lancaster aircraft flown by 300 Squadron. Three stone columns rise from the rubble base — their form deliberately echoing the three towers of Lincoln Cathedral, the navigational landmark that guided Bomber Command crews home across the Lincolnshire plain. The memorial also honours 1667 HCU. It was dedicated on the 59th anniversary of VE Day, 8 May 2004. The Polish Air Force fought throughout the war with exceptional determination, having lost their homeland and flown to Britain to continue the fight.",
   "memorial_details": "Composite memorial built from actual excavated runway rubble at the east side junction of the former main runway and perimeter road. Three stone columns (representing Lincoln Cathedral towers) rise from the base, with embedded parts from Lancaster aircraft flown by 300 Squadron. Also honours 1667 HCU RAF 1943. Dedicated 8 May 2004. IWM War Memorials Register reference: IWM 54271.",
   "sources": [
@@ -47,7 +47,8 @@
         "Dedicated 8 May 2004 (VE Day 59th anniversary)"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The unique 300 Polish Squadron Memorial at Faldingworth: a composite structure of runway rubble and Lancaster aircraft remnants in three stone columns."
     }
   ],
   "location_confidence": {
@@ -56,5 +57,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

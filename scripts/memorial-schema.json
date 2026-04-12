@@ -334,6 +334,9 @@
           },
           "full_narrative": {
             "type": "string"
+          },
+          "link_description": {
+            "type": "string"
           }
         }
       }
@@ -381,7 +384,7 @@
         "additionalProperties": false,
         "properties": {
           "rank": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "name": {
             "type": "string"
@@ -396,7 +399,7 @@
             ]
           },
           "role": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "nationality": {
             "type": "string"
@@ -420,6 +423,12 @@
             "type": "string"
           },
           "hometown": {
+            "type": "string"
+          },
+          "cwgc_record": {
+            "type": "string"
+          },
+          "biography": {
             "type": "string"
           },
           "decorations": {

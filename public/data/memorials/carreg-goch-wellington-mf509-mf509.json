@@ -32,7 +32,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "On the night of 20 November 1944, Wellington MF509 from 22 OTU at Wellesbourne Mountford was on a cross-country navigation exercise when the starboard Hercules XVI engine developed problems. The wireless operator requested permission to descend below the cloud base. But the aircraft had entered shower clouds that deposited heavy layers of ice on the wings, and with insufficient power from the port engine alone, the Wellington lost height and crashed into the south-west slopes of Carreg Goch. All six crew — known as 'the Alouettes' — were killed. All six were buried at Chester (Blacon) Cemetery. In 2013, Phyllis Allison, sister of bomb aimer William, visited the site — an extraordinary journey nearly 70 years after her brother's death.",
+  "narrative": "The wireless operator requested permission to descend below the cloud base. But the aircraft had entered shower clouds that deposited heavy layers of ice on the wings, and with insufficient power from the port engine alone, the Wellington lost height and crashed into the south-west slopes of Carreg Goch. All six crew — known as 'the Alouettes' — were killed. All six were buried at Chester (Blacon) Cemetery. In 2013, Phyllis Allison, sister of bomb aimer William, visited the site — an extraordinary journey nearly 70 years after her brother's death.",
   "crew": [
     {
       "rank": "Sgt",
@@ -98,6 +98,26 @@
       "fate": "Killed",
       "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.",
       "cwgc_verified": true
+    },
+    {
+      "name": "Nezan",
+      "rank": "P/O",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Duncan McKenzie Roy",
+      "rank": "Pilot Officer",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fred Knowles",
+      "rank": "Sergeant",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Alexander Angus Cameron",
+      "rank": "Sergeant",
+      "fate": "Unknown"
     }
   ],
   "cause_of_loss": "Starboard Hercules XVI engine failure; heavy icing in shower clouds; insufficient power from port engine",
@@ -115,7 +135,8 @@
         "Starboard Hercules XVI engine failure"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Carreg Goch memorial site dedicated to the all-Canadian crew from Wellington's Air Training Unit \"the Alouettes,\" who experienced starboard Hercules XVI engine failure."
     },
     {
       "source_site": "Ystradgynlais History",
@@ -126,7 +147,8 @@
         "Phyllis Allison visited 2013"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore McGill University's historical link to Carreg Goch Memorial at Wellington MF509."
     },
     {
       "source_site": "Wandering Welsh Girl",
@@ -137,7 +159,8 @@
         "Considerable wreckage still visible"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore an 8km loop memorial walk revealing significant wreckage at Carreg Goch (Wellington MF509)."
     }
   ],
   "what3words": "prepped.nuns.bundles",
@@ -151,5 +174,7 @@
   "squadron_display_name": "22 OTU",
   "squadron_aliases": [
     "22 OTU"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

@@ -40,7 +40,8 @@
         "Two passengers were wireless technicians"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed blog post about Lancaster ED439 crash at Scredington, including fatal details from 18 June 1943 incident near Highgate Farm."
     },
     {
       "source_site": "Australian War Memorial",
@@ -52,7 +53,8 @@
         "Demonstrates Commonwealth dimension of the loss"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Australian War Memorial's poignant collection of Lancaster Mk I fragments, honoring PO Max Keiran Cummings RAAF and preserving history."
     },
     {
       "source_site": "Imperial War Museums",
@@ -64,7 +66,8 @@
         "Stone of remembrance"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the poignant \"Crew of RAF Lancaster ED439 OL-N\" memorial's stone of remembrance at Scredington in this IWM War Memorials Register entry."
     },
     {
       "source_site": "Virtual War Memorial Australia",
@@ -75,7 +78,8 @@
         "Australian casualties recorded in VWMA"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the memorial dedicated to Australian pilot PO Cummings at Scredington Lancaster Memorial on Virtual War Memorial Australia."
     }
   ],
   "local_contacts": [
@@ -113,14 +117,17 @@
       "rank": "—"
     },
     {
-      "name": "H.w Cheshire",
+      "name": "Harry William Cheshire",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "M.k Cummings",
+      "name": "Max Keiran Cummings",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Pilot Officer",
+      "role": "Pilot",
+      "age": 30,
+      "nationality": "Australian"
     },
     {
       "name": "H.w Luker",
@@ -128,31 +135,59 @@
       "rank": "—"
     },
     {
-      "name": "J. Roughley",
+      "name": "John Roughley",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "F.n Sloss",
+      "name": "Francis Neville Sloss",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "R.a Taylor",
+      "name": "Robert Allan Taylor",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "F.w Wilcox",
+      "name": "Francis William Wilcox",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "N. Woodcock",
+      "name": "Norman Woodcock",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     }
   ],
-  "memorial_details": "Name: Avro Lancaster ED439\nType: Stone of remembrance\nDescription: Stone of remembrance made of white marble, carved with pathfinder eagle at the top.\nInscription: ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/(Names)/LEST WE FORGET\nLocation: Chancel Wall St. Andrew's Church Church Lane Scredington North Kesteven Lincolnshire NG34 OAG England\nGrid Ref: TF 09594 40398\nCoordinates: 52.949780949880,-0.370271106754\nPhotos: https://media.iwm.org.uk/ciim5/memorials/12/158/large_67597a___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/159/large_67597b___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/160/large_67597c___christine_pywell.jpg",
-  "narrative": "ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/(Names)/LEST WE FORGET"
+  "memorial_details": "Name: Avro Lancaster ED439\nType: Stone of remembrance\nDescription: Stone of remembrance made of white marble, carved with pathfinder eagle at the top.\nInscription: ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/(Names)/LEST WE FORGET\nLocation: Chancel Wall St. Andrew's Church Church Lane Scredington North Kesteven Lincolnshire NG34 OAG England\nGrid Ref: TF 09594 40398\nCoordinates: 52.949780949880,-0.370271106754\nPhotos: https://media.iwm.org.uk/ciim5/memorials/12/158/large_67597a___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/159/large_67597b___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/160/large_67597c___christine_pywell.jpg\n\nMemorial Display: The Avro Lancaster ED439 memorial displays the aircraft's details and history.",
+  "narrative": "On 18 June 1943, Pilot Officer Cummings took off from RAF Wyton at the controls of Lancaster ED439, carrying seven crew members and two passengers on a daytime bombing target exercise. The aircraft, assigned to 83 Squadron's Pathfinder Force, failed to complete the training detail, diving through heavy cloud before crashing near Highgate Farm, Scredington, Lincolnshire. All nine on board were killed. Cummings was 30 years old and had served with the Royal Australian Air Force; his son, Peter Harrold Cummings, had been born just three months earlier, on 12 March 1943. The crew — T.J. Bond, Harry William Cheshire, H.W. Luker, John Roughley, Francis Neville Sloss, Robert Allan Taylor, Francis William Wilcox, and Norman Woodcock — are commemorated at a stone of remembrance at Scredington.",
+  "inscription": "ROYAL AIR FORCE\nNO 83 (PATHFINDER) SQN\nTO THE MEMORY OF THOSE\nAIRMEN KILLED IN AIRCRAFT NO ED439 OL-N\nCRASHED DURING A TRAINING FLIGHT\nAT HIGHGATE FARM SCREDINGTON\n18th JUNE 1943\n(Names)\nLEST WE FORGET",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Crash near Scredington, United Kingdom",
+        "date": "pre 1943",
+        "description": "Fragments of Avro Lancaster Mk I ED439 found at a crash site. Associated with Pilot Officer Max Keiran Cummings."
+      },
+      {
+        "name": "Training in Australia",
+        "date": "1942",
+        "description": "Pilot Officer Max Keiran Cummings trained with No. 467 Squadron, RAF and later met and married Kathleen Harrold."
+      },
+      {
+        "name": "Four missions over Germany",
+        "date": "May 1943",
+        "description": "Pilot Officer Max Keiran Cummings flew four bombing missions over Germany with No. 467 Squadron, RAF."
+      },
+      {
+        "name": "Posting to No. 83 Squadron RAF",
+        "date": "June 1943",
+        "description": "Pilot Officer Max Keiran Cummings was posted to No. 83 Squadron RAF, part of the No. 8 Group Pathfinder Force based at RAF Wyton."
+      }
+    ]
+  },
+  "crash_category": "ferry-transport",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

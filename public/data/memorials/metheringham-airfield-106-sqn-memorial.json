@@ -17,10 +17,10 @@
   ],
   "station": "RAF Metheringham",
   "dedication_date": "1992-07-08",
-  "inscription": "DEDICATED TO THE AIRMEN AND AIRWOMEN WHO SERVED ON AND WITH 106 SQUADRON IN WORLD WAR TWO 1939-1945 / 995 GAVE THEIR LIVES / LEST WE FORGET",
+  "inscription": "DEDICATED TO THE AIRMEN AND AIRWOMEN WHO SERVED ON AND WITH 106 SQUADRON IN WORLD WAR TWO 1939-1945\n995 GAVE THEIR LIVES\nLEST WE FORGET",
   "crew_summary": "995 aircrew killed serving with 106 Squadron across World War Two",
-  "narrative": "106 Squadron flew Manchesters and Lancasters from RAF Metheringham in Lincolnshire, and before that from Coningsby and other stations. The squadron's war record was exceptional in scale and cost: 995 personnel killed across the conflict, with 59 Lancasters lost from Metheringham alone. Among the squadron's famous connections: Wing Commander Guy Gibson commanded 106 Squadron before forming 617 Squadron (Dambusters), and Sergeant Norman Cyril Jackson won the Victoria Cross during a Schweinfurt raid in April 1944, climbing out onto the wing of a burning Lancaster to extinguish an engine fire — an act of extraordinary courage. The memorial at the former airfield site near the Metheringham Airfield Visitor Centre is a brick structure in fireplace style, with a central incised tablet bearing 'PRO LIBERTATE' (For Freedom). Two flanking brass plaques carry an airfield map and full dedication text. A squadron badge recess and mountings for a Lancaster model complete the structure. The memorial was dedicated on 8 July 1992 and is complemented by a 990-name Roll of Honour in calligraphy held at the nearby visitor centre.",
-  "memorial_details": "Central incised tablet with 'PRO LIBERTATE'. Two flanking brass plaques with airfield map and dedication. Squadron badge recess. Mountings for Lancaster model. Wooden bench with brass plaques. A 990-name Roll of Honour in calligraphy is held separately at Metheringham Airfield Visitor Centre (Westmoor Farm, Martin Moor, LN4 3WF). IWM War Memorials Register reference: IWM 20504.",
+  "narrative": "106 Squadron flew Manchesters and Lancasters from RAF Metheringham in Lincolnshire, and before that from Coningsby and other stations. The squadron's war record was exceptional in scale and cost: 995 personnel killed across the conflict, with 59 Lancasters lost from Metheringham alone. Among the squadron's famous connections: Wing Commander Guy Gibson commanded 106 Squadron before forming 617 Squadron (Dambusters), and Sergeant Norman Cyril Jackson won the Victoria Cross during a Schweinfurt raid in April 1944, climbing out onto the wing of a burning Lancaster to extinguish an engine fire — an act of extraordinary courage. The memorial at the former airfield site near the Metheringham Airfield Visitor Centre is a brick structure in fireplace style, with a central incised tablet bearing 'PRO LIBERTATE' (For Freedom). Two flanking brass plaques carry an airfield map and full dedication text. A squadron badge recess and mountings for a Lancaster model complete the structure.",
+  "memorial_details": "Central incised tablet with 'PRO LIBERTATE'. Two flanking brass plaques with airfield map and dedication. Squadron badge recess. Mountings for Lancaster model. Wooden bench with brass plaques. A 990-name Roll of Honour in calligraphy is held separately at Metheringham Airfield Visitor Centre (Westmoor Farm, Martin Moor, LN4 3WF). IWM War Memorials Register reference: IWM 20504.\n\nThe memorial was dedicated on 8 July 1992 and is complemented by a 990-name Roll of Honour in calligraphy held at the nearby visitor centre.",
   "sources": [
     {
       "title": "IWM War Memorials Register — 106 Squadron Metheringham",
@@ -50,7 +50,8 @@
         "Brick memorial structure with PRO LIBERTATE inscription"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The detailed IWM register entry for 106 Squadron's Metheringham Airfield memorial."
     },
     {
       "source_site": "Metheringham Airfield Visitor Centre",
@@ -63,7 +64,8 @@
         "Sgt Norman Cyril Jackson VC — Schweinfurt raid April 1944"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the rich history of Metheringham Airfield's 106 Squadron at the Visitor Centre."
     }
   ],
   "location_confidence": {
@@ -72,5 +74,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

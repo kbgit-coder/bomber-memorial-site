@@ -40,7 +40,8 @@
         "Night cross-country training exercise"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Crash Details and Memorial Information: Explore the account of de Havilland Mosquito FB.VI HJ767's crash, including operational history and memorial site details at RAF High Ercall."
     }
   ],
   "crew": [
@@ -53,7 +54,7 @@
       "burial_location": "Nottingham Southern Cemetery"
     },
     {
-      "name": "F.W.D. Hearn",
+      "name": "Finlay William David HEARN",
       "rank": "Sgt",
       "role": "Navigator/Observer",
       "nationality": "British",
@@ -80,5 +81,8 @@
   "squadron_display_name": "60 OTU",
   "squadron_aliases": [
     "60 OTU"
-  ]
+  ],
+  "narrative": "During the flight, aircraft developed engine trouble. Spun into ground pres. after control lost in cloud near RAF Newton.",
+  "crash_category": "training",
+  "narrative_quality_score": 3
 }

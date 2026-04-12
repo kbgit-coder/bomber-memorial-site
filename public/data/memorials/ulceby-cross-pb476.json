@@ -11,7 +11,7 @@
   "squadron": "12 Sqdn.",
   "station": "Wickenby",
   "crew_summary": "7 killed including pilot Flg Off. Nicholas Agnew Ansdell",
-  "memorial_type": "Memorial stone",
+  "memorial_type": "Stone of remembrance",
   "sources": [
     {
       "title": "Geograph",
@@ -34,7 +34,8 @@
       "summary": "Commonwealth War Graves Commission story page for Flying Officer Nicholas Agnew Ansdell (1924-1945), pilot of Lancaster PB476. Details his service with 12 Squadron and the circumstances of the loss during the Luftwaffe's Operation Gisela.",
       "key_details": "Ansdell was RAFVR service number 150291. The Lancaster was shot down at 00:29 hours on 4 March 1945 by a Luftwaffe intruder during Operation Gisela — the last major German air operation of the war.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Personal story of Flying Officer Ansdell — family background, service record, and CWGC burial details at Alford Cemetery"
     },
     {
       "source_site": "Traces of War",
@@ -42,7 +43,8 @@
       "summary": "International war sites database entry for the Lancaster PB476 memorial at Ulceby Cross. Records the location of the memorial stone and the crew details.",
       "key_details": "Memorial is catalogued in the international Traces of War database. Crew: Fg Off Ansdell (Pilot), Fg Off Heath (Air Bomber), Fg Off Hunter (Navigator), Sgt Mellor (Air Gunner), Sgt Parry (Wireless Operator), Sgt Shafer (Flight Engineer), Sgt Walker (Air Gunner).",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "International war sites database entry with location details and memorial photographs"
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -50,7 +52,8 @@
       "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster PB476 at Ulceby Cross, Lincolnshire. Catalogued as memorial reference 20271.",
       "key_details": "Formally registered in the IWM national war memorials database.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Official memorial register entry with physical description, inscription text, and crew names"
     },
     {
       "source_site": "Lincolnshire Heritage Explorer",
@@ -58,7 +61,8 @@
       "summary": "Lincolnshire County Council heritage record for the memorial to Lancaster PB476 at Ulceby Cross. Notes the memorial was unveiled in 1995 on land near the crash site.",
       "key_details": "Monument reference MLI125556. Memorial unveiled 1995. The Lancaster dived almost vertically into the ground with such force that the engines were found buried 10 feet deep.",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "County heritage record with grid references, monument classification, and historical context"
     }
   ],
   "local_contacts": [
@@ -91,9 +95,15 @@
   ],
   "crew": [
     {
-      "name": "N.a Ansdell",
+      "name": "Nicholas Agnew Ansdell",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Flying Officer",
+      "burial_location": "Alford Cemetery, Lincolnshire",
+      "cwgc_record": "2416700",
+      "age": 33,
+      "biography": "Ansdell came from a family with a home named 'Brough House' in Rustington, near Littlehampton on the south coast of England.",
+      "role": "RAFVR - 12 Squadron Bomber Command",
+      "nationality": "British"
     },
     {
       "name": "A.g Heath",
@@ -131,6 +141,14 @@
       "rank": "—"
     }
   ],
-  "memorial_details": "Name: Crew Of Lancaster PB476, 12 Squadron RAF\nType: Stone of remembrance\nDescription: Small granite stone of remembrance with squadron badge at top\nInscription: In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE\nLocation: Unclassified road off the A16 at junction of road to Brinkhill and Harrington Ulceby Cross East Lindsey Lincolnshire LN13 0EY England\nGrid Ref: TF 40629 73344\nCoordinates: 53.238317227385,0.105819746192\nPhotos: https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg",
-  "narrative": "In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE"
+  "memorial_details": "Name: Crew Of Lancaster PB476, 12 Squadron RAF\nType: Stone of remembrance\nDescription: Small granite stone of remembrance with squadron badge at top\nInscription: In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE\nLocation: Unclassified road off the A16 at junction of road to Brinkhill and Harrington Ulceby Cross East Lindsey Lincolnshire LN13 0EY England\nGrid Ref: TF 40629 73344\nCoordinates: 53.238317227385,0.105819746192\nPhotos: https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg\n\nDedicated in March 2005 on the 60th anniversary of the crash, the small granite stone of remembrance bears the squadron badge and the names of all seven crew.\n\nA memorial to the crew of Lancaster PB476 stands at Ulceby Cross, to the west of the village.\n\nMemorial Dedication (March 2005): 60th anniversary dedication ceremony at the crash site.",
+  "narrative": "",
+  "inscription": "In the early hours\nof March 4th, 1945\nLancaster PB 476 (PH \"Y\") of No. 12 Squadron\nR.A.F. Wickenby,\ncrashed near this spot,\nthe victim of\na Luftwaffe intruder.\nThis memorial is placed here, on\nthe 50th anniversary of the crash,\nto commemorate the crew members\nwho died.\n(names)\nIN GRATEFUL REMEMBRANCE",
+  "community_connection": "",
+  "memorial_description": "Small granite stone of remembrance with squadron badge at top",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

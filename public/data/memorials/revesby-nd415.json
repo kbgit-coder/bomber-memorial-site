@@ -37,7 +37,8 @@
         "Registered crash site in county heritage record"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the Revesby Lancaster Memorial: Discover heritage records of an Avro Lancaster aircraft crash site, now a registered monument in Lincolnshire's historic environment."
     },
     {
       "source_site": "Airshows Present",
@@ -50,7 +51,8 @@
         "Memorial inside St Lawrence Church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history and significance of the Avro Lancaster III ND415 memorial at St Lawrence Church in Revesby."
     },
     {
       "source_site": "War Memorials Online",
@@ -61,7 +63,8 @@
         "Memorial plaque in St Lawrence Church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Community-maintained Memorial page for Revesby Lancaster ND415 crew on War Memorials Online."
     },
     {
       "source_site": "Imperial War Museums",
@@ -73,7 +76,8 @@
         "Military service badges attached to wooden panel"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Revesby Lancaster Memorial honoring WWII heroes on this IWM War Memorials Register page."
     },
     {
       "source_site": "RAF Memorial Flight Club",
@@ -84,7 +88,8 @@
         "Part of 97 Squadron's intensive pre-D-Day operations from Coningsby"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore article on Lancaster Memorial at Revesby, detailing RAF Coningsby losses and 97 Squadron's pre-D-Day missions."
     }
   ],
   "local_contacts": [
@@ -192,8 +197,38 @@
       "name": "J. J. Phillips",
       "fate": "Killed",
       "rank": "—"
+    },
+    {
+      "name": "Herbert Rieger",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Albert Chambers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ron Conley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edward James 'Jimmy' Carter",
+      "rank": "Wing Commander",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British"
     }
   ],
-  "memorial_details": "Name: Revesby WW2 and Lancaster ND415\nType: Board / Plaque / Tablet\nDescription: Wooden panel dedicated to the men of the parish who gave their lives in WW2. Also a memorial to the crew of Avro Lancaster III ND415 of 97 Squadron. Badges of the Army, Royal Navy and Royal Air Force are attached to the panel on three sides of the names.\nInscription: IN PROUD MEMORY OF THE MEN/ FROM THIS PARISH WHO MADE/ THE SUPREME SACRIFICE DURING/ THE WORLD WAR. 1939-1945/ (Names)/ ALSO OF/ (Names)/ WHO WERE KILLED ON OPERATIONAL DUTIES/ WHEN THEIR AEROPLANE CRASHED IN THIS PARISH.\nLocation: On the north wall of the nave. St Lawrence Church Blackey Lane Revesby East Lindsey Lincolnshire PE22 7NA England\nGrid Ref: TF 29838 61416\nCoordinates: 53.134094313190,-0.060681624717\nPhotos: https://media.iwm.org.uk/ciim5/memorials/5/333/large_ukniwm_43199_ccharles_anderson_2.jpg; https://media.iwm.org.uk/ciim5/memorials/74/328/large_revesby_ww2_lancaster_board_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/74/327/large_1939_1945_lancaster_crew_of_nd415.jpg; https://media.iwm.org.uk/ciim5/memorials/74/326/large_1939_1945_lancaster_crew_of_nd415_text.jpg; https://media.iwm.org.uk/ciim5/memorials/74/325/large_1939_1945_lancaster_crew_of_nd415_a.jpg",
-  "narrative": "IN PROUD MEMORY OF THE MEN/ FROM THIS PARISH WHO MADE/ THE SUPREME SACRIFICE DURING/ THE WORLD WAR. 1939-1945/ (Names)/ ALSO OF/ (Names)/ WHO WERE KILLED ON OPERATIONAL DUTIES/ WHEN THEIR AEROPLANE CRASHED IN THIS PARISH."
+  "memorial_details": "Name: Revesby WW2 and Lancaster ND415\nType: Board / Plaque / Tablet\nDescription: Wooden panel dedicated to the men of the parish who gave their lives in WW2. Also a memorial to the crew of Avro Lancaster III ND415 of 97 Squadron. Badges of the Army, Royal Navy and Royal Air Force are attached to the panel on three sides of the names.\nInscription: IN PROUD MEMORY OF THE MEN/ FROM THIS PARISH WHO MADE/ THE SUPREME SACRIFICE DURING/ THE WORLD WAR. 1939-1945/ (Names)/ ALSO OF/ (Names)/ WHO WERE KILLED ON OPERATIONAL DUTIES/ WHEN THEIR AEROPLANE CRASHED IN THIS PARISH.\nLocation: On the north wall of the nave. St Lawrence Church Blackey Lane Revesby East Lindsey Lincolnshire PE22 7NA England\nGrid Ref: TF 29838 61416\nCoordinates: 53.134094313190,-0.060681624717\nPhotos: https://media.iwm.org.uk/ciim5/memorials/5/333/large_ukniwm_43199_ccharles_anderson_2.jpg; https://media.iwm.org.uk/ciim5/memorials/74/328/large_revesby_ww2_lancaster_board_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/74/327/large_1939_1945_lancaster_crew_of_nd415.jpg; https://media.iwm.org.uk/ciim5/memorials/74/326/large_1939_1945_lancaster_crew_of_nd415_text.jpg; https://media.iwm.org.uk/ciim5/memorials/74/325/large_1939_1945_lancaster_crew_of_nd415_a.jpg\n\nRevesby WW2 and Lancaster ND415 Memorial: A memorial dedicated to the WW2 efforts and specifically to the Lancaster ND415 aircraft.",
+  "narrative": "Lancaster ND415 departed RAF Coningsby on a pre-D-Day operation, part of 97 Squadron's intensive programme of missions in the weeks before the Normandy landings. On 23 May 1944, the aircraft came down near Revesby, Lincolnshire, a short distance from its home station. Flying Officer Wallace Bell Jardine was at the controls when the Lancaster crashed, killing all seven crew members aboard. Among those lost were R. C. W. G. Baker, R. Dawson, A. Dunae, D. O. Ellis, H. T. Gilbert, and P. Horton. A memorial to the crew stands at St Lawrence Church in Revesby and is today a registered monument in Lincolnshire's historic environment.",
+  "inscription": "IN PROUD MEMORY OF THE MEN\nFROM THIS PARISH WHO MADE\nTHE SUPREME SACRIFICE DURING\nTHE WORLD WAR. 1939-1945\n(Names)\nALSO OF\n(Names)\nWHO WERE KILLED ON OPERATIONAL DUTIES\nWHEN THEIR AEROPLANE CRASHED IN THIS PARISH.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "The Revesby WW2 and Lancaster ND415 memorial commemorates the war efforts of the local community during World War II. Another image was contributed by Colin Murray, further highlighting the community's connection to this historical event. The memorial plaque honors the crew of 97 Squadron Lancaster ND415 OF-B, who are associated with Revesby.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

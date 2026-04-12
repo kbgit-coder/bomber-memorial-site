@@ -38,7 +38,8 @@
         "Aircraft was on a training exercise from RAF Silverstone"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Wellington's X HE324 Crash Site Memorial on War Memorials Online."
     },
     {
       "source_site": "Imperial War Museums",
@@ -50,7 +51,8 @@
         "Aircraft was seen on fire over Lovacott and East Barton before crashing"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "A poignant Memorial honoring six airmen at the Wellington HE324 crash site near Horwood Church in North Devon."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -62,7 +64,8 @@
         "Crew included RAAF, RCAF, and RAFVR personnel"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore Aviation Safety Network's Wellington HE324 Crash Site X Memorial details."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -72,7 +75,8 @@
         "Cross-referenced in Pennines crash site database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Wellington's historical air accident site X memorial and its significance in aviation history."
     }
   ],
   "crew": [
@@ -81,7 +85,7 @@
       "rank": "F/Sgt",
       "age": 25,
       "role": "Crew",
-      "nationality": "Australian (RAAF)",
+      "nationality": "Australian",
       "fate": "Killed",
       "burial_location": "Heanton Punchardon, North Devon"
     },
@@ -90,7 +94,7 @@
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "British (RAFVR)",
+      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Wishaw, Scotland"
     },
@@ -99,7 +103,7 @@
       "rank": "P/O",
       "age": 26,
       "role": "Crew",
-      "nationality": "Canadian (RCAF)",
+      "nationality": "Canadian",
       "fate": "Killed",
       "burial_location": "Heanton Punchardon, North Devon"
     },
@@ -108,7 +112,7 @@
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "British (RAFVR)",
+      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Llanelli, Wales"
     },
@@ -117,7 +121,7 @@
       "rank": "Sgt",
       "age": 18,
       "role": "Crew",
-      "nationality": "British (RAFVR)",
+      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Unknown"
     },
@@ -126,9 +130,115 @@
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "Australian (RAAF)",
+      "nationality": "Australian",
       "fate": "Killed",
       "burial_location": "Unknown"
+    },
+    {
+      "name": "yford in Oxfordshire John Owen Sowerbutts",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "ight from Squires Gate Norman Jack Sharpe",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "om Clifton near York Sohlto Paton Marlatt",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "RCAF Pilot"
+    },
+    {
+      "name": "y on Eden near Carlisle Herman Joe Carver",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "RCAF Pilot"
+    },
+    {
+      "name": "Thomas Stanley Taylor",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "y flight from Turweston Edward Cyril Cole",
+      "rank": "Warrant Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "James Mann",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "Arthur John Griffiths",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Bomb Aimer"
+    },
+    {
+      "name": "light from RAF Leeming Walter Fred Conley",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "Arnold Emerson Stinson",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer"
+    },
+    {
+      "name": "ght from RAF Leeming Thomas Abel Roskilly",
+      "rank": "Flight Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "Sidney Arthur Whiting",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "and running out of fuel John David Briggs",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "Raymond Edgar DOLLING (1337861)",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "WOp/AG RAFVR",
+      "nationality": "British"
+    },
+    {
+      "name": "John DONNACHIE (1554638)",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Nav. RAFVR",
+      "nationality": "British"
+    },
+    {
+      "name": "Norman Neville DUNN (Aus.415315)",
+      "rank": "Flying Sergeant",
+      "fate": "Killed",
+      "role": "pilot RAAF",
+      "nationality": "Australian"
+    },
+    {
+      "name": "James William HALLAM (1819415)",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "WOp/AG RAFVR",
+      "nationality": "British"
     }
   ],
   "local_contacts": [
@@ -163,5 +273,27 @@
   "squadron_aliases": [
     "RAF Silverstone"
   ],
-  "memorial_details": "Name: Wellington X HE 324 crash\nType: Stone of remembrance\nDescription: A vertical square tablet with the RAF badge in the top right corner and black lettering.\nInscription: TO COMMEMORATE THE SIX / BRAVE AIRMEN / WHO LOST THEIR LIVES / WHEN WELLINGTON X HE 324 / CRASHED IN THIS FIELD / BEHIND THIS STONE / ON SEPTEMBER 18TH 1943 // (6 names)\nLocation: Half mile east of Horwood church Roadside Horwood North Devon Devon EX39 4PE England\nGrid Ref: SS 51190 27540\nCoordinates: 51.027918688474,-4.123393368419\nPhotos: https://media.iwm.org.uk/ciim5/memorials/105/332/large_74678_neil_webster_27_november_2020.jpg"
+  "memorial_details": "Name: Wellington X HE 324 crash\nType: Stone of remembrance\nDescription: A vertical square tablet with the RAF badge in the top right corner and black lettering.\nInscription: TO COMMEMORATE THE SIX / BRAVE AIRMEN / WHO LOST THEIR LIVES / WHEN WELLINGTON X HE 324 / CRASHED IN THIS FIELD / BEHIND THIS STONE / ON SEPTEMBER 18TH 1943 // (6 names)\nLocation: Half mile east of Horwood church Roadside Horwood North Devon Devon EX39 4PE England\nGrid Ref: SS 51190 27540\nCoordinates: 51.027918688474,-4.123393368419\nPhotos: https://media.iwm.org.uk/ciim5/memorials/105/332/large_74678_neil_webster_27_november_2020.jpg\n\nThe Wellington X HE 324 crash memorial is a stone of remembrance located half a mile east of Horwood church in North Devon, England.\n\nThe memorial was dedicated on the 18th of September 2013.\n\nThe memorial was dedicated in September 2013 after much research to identify and notify surviving relatives of the six victims.\n\nDedication Ceremony (18th September 2013): The memorial was dedicated during this ceremony.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "26th October 1935 Dragon G-ADEE Railway Air Services",
+        "date": "1935-10-26",
+        "description": "The aircraft was being flown from Liverpools Speke airport to Ronaldsway on the Isle of Man via Blackpool."
+      },
+      {
+        "name": "20th June 1939 Dragon Rapide G-AERE British American Air Services",
+        "date": "1939-06-20",
+        "description": "British American Air Services had been chartered to provide an aircraft to fly John Crouch, a jockey retained to ride horses belonging to HM King George VI, from Heston in London."
+      },
+      {
+        "name": "18th July 1939 Spitfire Mk.I K9888 No.41 Sqn, RAF",
+        "date": "1939-07-18",
+        "description": "Not specified in the provided text."
+      }
+    ]
+  },
+  "community_connection": "",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

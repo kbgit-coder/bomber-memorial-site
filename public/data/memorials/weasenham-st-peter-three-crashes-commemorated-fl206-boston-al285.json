@@ -40,7 +40,8 @@
         "Villagers had placed small wooden crosses and read names on Remembrance Day"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Memorial: Weasenham St. Peter (three crashes commemorated) Mitchell Memorial dedicated to fallen aviators from Aviation Trails source."
     },
     {
       "source_site": "Roll of Honour",
@@ -51,7 +52,8 @@
         "All crashes occurred within a mile of the village"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Roll of Honour website to discover RAF crews' names and service details from three Weasenham St Peter crashes in Norfolk."
     },
     {
       "source_site": "Aerosteles",
@@ -62,7 +64,8 @@
         "Documents the Free French dimension of the Weasenham memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed documentation and memorials for three tragic crashes of the Boston AL285 crash in Weasenham St. Peter."
     },
     {
       "source_site": "Norfolk Heritage Explorer",
@@ -73,7 +76,8 @@
         "Crash occurred behind the village school"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore historical memorial commemorating three crashes at Weasenham St. Peter, including Bristol Blenheim L8800 incident site."
     },
     {
       "source_site": "Geograph",
@@ -84,7 +88,8 @@
         "Photographic record of the memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical photographs of Memorial: Weasenham St. Peter (three crashes commemorated) Mitchell Memorial on Geograph."
     }
   ],
   "local_contacts": [
@@ -116,5 +121,237 @@
     "114 Squadron West Raynham / 98 Sqdn / 342 (Lorraine) Sqdn",
     "114 Sqdn.",
     "114 Squadron"
-  ]
+  ],
+  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft — a Bristol Blenheim, a Mitchell, and a Boston — went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "John Graham",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 21,
+      "burial_location": "St Mary's churchyard, East Raynham"
+    },
+    {
+      "name": "Michael Beaufoy",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Unknown (not specified in text)",
+      "age": 19
+    },
+    {
+      "name": "Leslie Harrowell",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Unknown (not specified in text)",
+      "age": 22
+    },
+    {
+      "name": "Marcel Le Bivic",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Roland Jacquinot",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Saint Roland Jacquinot",
+      "rank": "Roland Jacquinot\nSaint",
+      "fate": "Unknown"
+    },
+    {
+      "name": "General Ira",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Zeilder",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Alley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Richards",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Stallcup",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kunze",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brink",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Adams",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dixon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Holt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leonard Twigg",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Turner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Middletons",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Middleton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ralph Connolly",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tom Gates",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Standley Smith",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Butterfield",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Drew",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Douglas Darbon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frank Oswald Cooke",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British",
+      "burial_location": "SANDBACH CEMETERY, Cheshire. Grave 454."
+    },
+    {
+      "name": "J Wallbridge (VR)",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "E. Kitcher (VR)",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "D. Tanner",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "E. Boreham",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "L. Horton",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "F. Barnett (RAF(VR))",
+      "rank": "Leading Aircraftman",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Lt. M. L",
+      "rank": "unknown",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "French"
+    },
+    {
+      "name": "Jack Mayne Wallbridge",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Observer",
+      "age": 24,
+      "nationality": "British",
+      "burial_location": "BIRMINGHAM (YARDLEY) CEMETERY, Warwickshire (West Midlands). Grave 43151."
+    },
+    {
+      "name": "Léonce Cohen",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "John Desertiaux",
+      "rank": "Cal Ch",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "British"
+    }
+  ],
+  "community_connection": "",
+  "memorial_details": "A memorial was placed at the site in 2000 to honor these young airmen.\n\nMemorial placement (2000): Memorial placed on site in 2000",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

@@ -30,7 +30,8 @@
         "Upright limestone cairn with incised black tablet"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Lancaster Memorial at IWM, honoring fallen crew from tragic WWII crash."
     },
     {
       "source_site": "US War Memorials",
@@ -44,7 +45,8 @@
         "One crew member was American RCAF"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Lancaster Memorial's poignant tribute to fallen heroes at IWM via US War Memorials."
     },
     {
       "source_site": "Wednesfield History Society",
@@ -55,7 +57,8 @@
         "Relocated to new position"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The rededicated Lancaster Memorial at IWM, honoring fallen crew from the W4904 crash."
     }
   ],
   "local_contacts": [
@@ -78,41 +81,56 @@
   "squadron_aliases": [],
   "crew": [
     {
-      "name": "Douglas R Brown",
+      "name": "Douglas Roy Brown",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "Reginald E Butler",
+      "name": "Reginald Eric Butler",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
       "name": "Arthur Howell",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "Adam W Mullen",
+      "name": "Adam William Joseph Mullen",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Adam Mullen"
     },
     {
-      "name": "Martin R Pearce",
+      "name": "Martin Raymond Pearce",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "Lawrence R. W Turley",
+      "name": "Lawrence Richard William Turley",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
     },
     {
-      "name": "Roger P Weston",
+      "name": "Roger Pickering Weston",
       "fate": "Killed",
-      "rank": "—"
+      "rank": null
+    },
+    {
+      "name": "Adam Mullen RCAF (R/154030)",
+      "rank": "Flying Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "nationality": "American",
+      "burial_location": "Churchyard, York"
     }
   ],
-  "memorial_details": "Name: Avro Lancaster W4904\nType: Board / Plaque / Tablet\nDescription: Upright limestone cairn supporting a landscape oriented incised black tablet incorporating badges and motto of the R.C.A.F. / R.A.F. in the top corners.\nInscription: Badge, top left corner: PER ARDUA AD ASTRA / ROYAL CANADIAN AIR FORCE // Badge, top right corner: PER ARDUA AD ASTRA // Inscription: IN MEMORY / OF THE AIRMEN WHO LOST THEIR LIVES / ON THE 28th SEPTEMBER 1943 WHEN / THEIR LANCASTER BOMBER W 4904 / FROM RAF LINDHOLME / CRASHED NEAR THIS VILLAGE / (7 NAMES)\nLocation: All Saints Churchyard Church Lane Moor Monkton Harrogate North Yorkshire YO26 8LA England\nGrid Ref: SE 51095 56034\nCoordinates: 53.997784858102,-1.222046390363\nPhotos: https://media.iwm.org.uk/ciim5/memorials/166/817/large_230921_front_a_0.jpg; https://media.iwm.org.uk/ciim5/memorials/131/205/large_65480_martyn_a_critchlow_30_january_2022.jpg; https://media.iwm.org.uk/ciim5/memorials/131/204/large_65480b_martyn_a_critchlow_30_january_2022.jpg",
-  "narrative": ""
+  "memorial_details": "Name: Avro Lancaster W4904\nType: Board / Plaque / Tablet\nDescription: Upright limestone cairn supporting a landscape oriented incised black tablet incorporating badges and motto of the R.C.A.F. / R.A.F. in the top corners.\nInscription: Badge, top left corner: PER ARDUA AD ASTRA / ROYAL CANADIAN AIR FORCE // Badge, top right corner: PER ARDUA AD ASTRA // Inscription: IN MEMORY / OF THE AIRMEN WHO LOST THEIR LIVES / ON THE 28th SEPTEMBER 1943 WHEN / THEIR LANCASTER BOMBER W 4904 / FROM RAF LINDHOLME / CRASHED NEAR THIS VILLAGE / (7 NAMES)\nLocation: All Saints Churchyard Church Lane Moor Monkton Harrogate North Yorkshire YO26 8LA England\nGrid Ref: SE 51095 56034\nCoordinates: 53.997784858102,-1.222046390363\nPhotos: https://media.iwm.org.uk/ciim5/memorials/166/817/large_230921_front_a_0.jpg; https://media.iwm.org.uk/ciim5/memorials/131/205/large_65480_martyn_a_critchlow_30_january_2022.jpg; https://media.iwm.org.uk/ciim5/memorials/131/204/large_65480b_martyn_a_critchlow_30_january_2022.jpg\n\nThe memorial is made of a cairn bearing a rectangular plaque commemorating and listing the crew of the aircraft.\n\nOn September 23, 2023, a rededicated memorial was placed in its new location.\n\nRededication of Memorial (September 23, 2023): The memorial was rededicated to its new location in the churchyard.\n\nMemorial Display: The memorial displays the Avro Lancaster W4904, a World War II bomber.",
+  "narrative": "On the night of 27–28 September 1943, the crew of Lancaster W4904 departed Faldingworth airfield at 20:10 hours on a Bullseye training exercise with the 1667 Heavy Conversion Unit. The flight required them to navigate to a British city and conduct a simulated bombing run, testing both aircrew and ground-based tracking personnel. Four hours into the flight, the aircraft was approaching the western side of York in cloud when severe icing conditions compromised its control surfaces. It is believed Flying Sergeant Adam Mullen lost control of the aircraft as a result. All seven crew members were killed: Douglas Roy Brown, Reginald Eric Butler, Arthur Howell, Adam William Joseph Mullen, Martin Raymond Pearce, Lawrence Richard William Turley, and Roger Pickering Weston. Mullen, an American serving with the RCAF, was from Upper Darby, Pennsylvania.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "Critchlow, highlighting the community connection through their preservation efforts. The dedication ceremony brought together the community to honor the fallen crew members.",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

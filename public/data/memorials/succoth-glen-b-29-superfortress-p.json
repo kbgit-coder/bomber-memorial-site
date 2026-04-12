@@ -1,6 +1,6 @@
 {
   "id": "succoth-glen-b-29-superfortress-p",
-  "title": "Succoth Glen operations) Memorial",
+  "title": "Succoth Glen B-29 Superfortress Memorial",
   "location_name": "Succoth Glen, Lochgoilhead, Argyll & Bute",
   "county": "Argyll & Bute",
   "country": "United Kingdom",
@@ -27,7 +27,8 @@
       "summary": "Detailed account of the B-29 Superfortress 44-62276 crash on 17 January 1949. The aircraft of the 301st Bomb Group was returning to Smoky Hill AFB, Kansas, from RAF Scampton after Berlin Airlift duties when it encountered severe icing over Scotland.",
       "key_details": "Serial 44-62276. All 20 aboard killed. A companion B-29 piloted by Captain Donald E Riggs turned back due to icing; this aircraft continued and struck Stob na Boine Druim-fhinn. Crew had been involved in the Berlin Airlift.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of B-29 Superfortress crash during Berlin Airlift duties on 17 January 1949."
     },
     {
       "source_site": "Secret Scotland",
@@ -35,7 +36,8 @@
       "summary": "Comprehensive page documenting the B-29 crash at Succoth Glen including crew names, circumstances, and the memorial cairn. Notes that the inquiry could not determine exact cause but cited adverse weather and heavy icing as contributory factors.",
       "key_details": "Aircraft was from 301st Bomb Group, 15th US Air Group. Memorial cairn bears all 20 names and features touching tributes and poems from surviving families.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Comprehensive documentation of the B-29 crash at Succoth Glen, crew details, incident causes, and memorial site information from Secret Scotland's detailed report."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -43,7 +45,8 @@
       "summary": "Technical crash site record for B-29A 44-62276, including aircraft specifications, crew list, and detailed account of the accident on Beinn Tharsuinn above Succoth Glen.",
       "key_details": "Aircraft was a B-29A variant. Departed RAF Scampton, Lincolnshire. The crash site is at altitude on the hillside and wreckage remains visible.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore technical crash site details of B-29A 44-62276 at Succoth Glen Memorial."
     }
   ],
   "local_contacts": [
@@ -63,5 +66,156 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "crew": [
+    {
+      "name": "John B. Lapicca",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Malcolm W. Bovard Staff",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger"
+    },
+    {
+      "name": "Anthony V. Chrisidis",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Rufus W. Mangum",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Cecil G. Jones",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Charles W. Ross",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Paul W. Knight",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Henry P. Prestosh",
+      "rank": "Master Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Frank M. Dobbs Jnr",
+      "rank": "Technical Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Sheldon C. Craigmyle",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Myrton P. Barry",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Co-pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Richard David Klingenberg",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Navigator",
+      "nationality": "American"
+    },
+    {
+      "name": "Robert A. Fritsche",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Bombardier",
+      "nationality": "American"
+    },
+    {
+      "name": "Delbert E. Cole",
+      "rank": "Technical Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Wayne W. Baker",
+      "rank": "Master Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Malcolm W. Bovard",
+      "rank": "Staff Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Jack L. Heacock",
+      "rank": "Private 1st Class",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Robert J. Brown",
+      "rank": "Private 1st Class",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Rufus G. Taylor",
+      "rank": "Technical Sergeant",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Frederick N. Cook",
+      "rank": "Private 1st Class",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    },
+    {
+      "name": "Bruce Joseph Krumholz",
+      "rank": "Private 1st Class",
+      "fate": "Killed",
+      "role": "Passenger",
+      "nationality": "American"
+    }
+  ],
+  "narrative": "The Boeing B-29A 44-62276, on its way from deployment at RAF Scampton in Lincolnshire to its home air station in the USA, continued after another B-29 turned back due to poor weather. Approaching central Scotland, it dived into the ground in Succoth Glen. No definitive cause was determined, but icing while flying in clouds was considered a contributing factor to the probable loss of control.",
+  "crash_category": "takeoff-landing",
+  "narrative_quality_score": 4
 }

@@ -47,6 +47,7 @@ export interface ExternalNarrative {
   summary?: string;
   key_details?: string;
   full_narrative?: string;
+  link_description?: string;
   date_retrieved?: string;
   still_live?: boolean;
 }
@@ -124,6 +125,7 @@ export interface Memorial {
   memorial_address?: string;
   memorial_access_notes?: string;
   memorial_details?: string;
+  inscription?: string;
   erected_by?: string;
   dedication_date?: string;
   condition?: string;

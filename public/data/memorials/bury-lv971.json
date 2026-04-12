@@ -39,7 +39,8 @@
         "433 (Porcupine) Squadron RCAF"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Crew Details and Memorial Description: Explore Find a Grave's comprehensive records for Halifax LV971's crew, including biographies, crash site, and memorial specifics in Bury, Cambridgeshire."
     }
   ],
   "local_contacts": [
@@ -66,5 +67,46 @@
   "squadron_display_name": "433 Squadron RCAF",
   "squadron_aliases": [
     "433 (Porcupine) Squadron"
-  ]
+  ],
+  "narrative": "Halifax LV971, flying with 433 (Porcupine) Squadron from Skipton, came down near Bury, Cambridgeshire on 18 April 1944. The aircraft was lost with all seven crew aboard. Pilot Flight Lieutenant Gerald Boyd Edmonds and his crew — William Wallace, Bruce Tees, Ronald Movold, George Walker, John Evans, James Murie, and George Pidgeon — did not survive. There were no survivors. The cause of the loss is not recorded in available sources.",
+  "crew": [
+    {
+      "name": "William Wallace",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bruce Tees",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ronald Movold",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Walker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Evans",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Murie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Pidgeon",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

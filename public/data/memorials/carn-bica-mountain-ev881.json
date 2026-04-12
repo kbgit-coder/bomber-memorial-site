@@ -36,7 +36,8 @@
         "Pembrokeshire Aviation Group organised memorial walk"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Attend the 80th anniversary commemoration for the Liberator EV881 crash at Carn Bica Mountain."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -49,7 +50,8 @@
         "6 killed, 3 survivors (badly burned)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed aviation safety records of a historic crash at Carn Bica Mountain."
     }
   ],
   "local_contacts": [
@@ -71,5 +73,81 @@
   "squadron_display_name": "Bomber/Coastal Command",
   "squadron_aliases": [
     "Bomber/Coastal Command"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Stanley William Kearey",
+      "rank": "Warrant Officer (Pilot)",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Farnham Civil Cemetery, Farnham, Surrey"
+    },
+    {
+      "name": "Billy William Soroski",
+      "rank": "Warrant Officer Class I (Wireless Op./Air Gunner)",
+      "fate": "Killed",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "City Road Cemetery, Haverfordwest"
+    },
+    {
+      "name": "John Duncan Boyd",
+      "rank": "Flight Sergeant (Navigator/Bomb Aimer)",
+      "fate": "Killed",
+      "role": "Navigator/Bomb Aimer",
+      "age": 27,
+      "nationality": "British",
+      "burial_location": "City Road Cemetery, Haverfordwest"
+    },
+    {
+      "name": "Robert Evans",
+      "rank": "Flight Sergeant (Wireless Op./Air Gunner)",
+      "fate": "Killed",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "burial_location": "City Road Cemetery, Haverfordwest"
+    },
+    {
+      "name": "Raymond Sellors",
+      "rank": "Flight Sergeant (Flight Engineer)",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "age": 21,
+      "nationality": "British",
+      "burial_location": "Bentley-with-Asksey Cemetery, Bentley, South Yorkshire"
+    },
+    {
+      "name": "Albert Henry Humphries",
+      "rank": "Sergeant (Air Gunner)",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 19,
+      "nationality": "British",
+      "burial_location": "City Road Cemetery, Haverfordwest"
+    },
+    {
+      "name": "R.N Shearly",
+      "rank": "Pilot Officer",
+      "fate": "Survived",
+      "role": "Survived (Pilot)",
+      "nationality": "British"
+    },
+    {
+      "name": "E.G Moody",
+      "rank": "Warrant Officer",
+      "fate": "Survived",
+      "role": "Survived (Wireless Operator/Air Gunner)",
+      "nationality": "British"
+    },
+    {
+      "name": "A.J Campbell",
+      "rank": "Flight Sergeant",
+      "fate": "Survived",
+      "role": "Survived (Flight Engineer)",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

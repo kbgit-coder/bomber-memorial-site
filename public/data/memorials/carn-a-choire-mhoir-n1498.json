@@ -33,7 +33,8 @@
         "Crash date: 6 January 1942"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Whitley Memorial at Carn a'Choire Mhoir's crash site, honoring fallen crew members."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -46,7 +47,8 @@
         "OS Grid Ref: NH 843 291"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed documentation on Whitley Mk.V N1498 crash site at Carn A'Choire Mhoir Whitley Memorial."
     },
     {
       "source_site": "War Memorials Online",
@@ -58,7 +60,8 @@
         "Turret now at Midland Air Museum, Coventry"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Whitley Memorial at Carn A'Choire Mhoir, featuring recovered aircraft turret from historic air crash site."
     }
   ],
   "local_contacts": [
@@ -92,24 +95,61 @@
     {
       "name": "John Graham Castling",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Pilot Officer",
+      "role": "RNZAF Pilot",
+      "nationality": "New Zealander"
     },
     {
-      "name": "Cecil S George",
+      "name": "Cecil Spencer George",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sergeant",
+      "role": "Pilot (Instructor)"
     },
     {
-      "name": "Cyril W Green",
+      "name": "Cyril Wright Green",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Sergeant",
+      "role": "Wireless Operator / Air gunner"
     },
     {
-      "name": "John G Irvine",
+      "name": "John George Irvine",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Pilot Officer",
+      "role": "RNZAF Pilot",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "Derek Pike",
+      "rank": "Sergeant",
+      "fate": "Injured",
+      "role": "Wireless Operator / Air Gunner"
+    },
+    {
+      "name": "Edward Francis John Kane",
+      "rank": "Sergeant",
+      "fate": "Injured",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Charles Murray Edgehill",
+      "rank": "Sergeant",
+      "fate": "Injured",
+      "role": "Observer"
     }
   ],
-  "memorial_details": "Name: AW Whitley N1498\nType: Cairn\nDescription: Cairn erected near crash site with plaque attached.\nInscription: MEMORIAL: This plaque is in memory of/ those personnel killed when/ Whitley Mk V Aircraft/ operating with 19 OTU RAF Kinloss/ crashed here on 6th January 1942/ (names)\nLocation: Carn a' choire Mhoir approx 3 miles east of Tomatin Inverness Highlands and Islands IV13 7XY Scotland\nGrid Ref: NH 843 291\nCoordinates: 57.337694541450,-3.923759185315\nPhotos: https://media.iwm.org.uk/ciim5/memorials/46/470/large_6049.jpg; https://media.iwm.org.uk/ciim5/memorials/46/471/large_6049_2.jpg",
-  "narrative": "MEMORIAL: This plaque is in memory of/ those personnel killed when/ Whitley Mk V Aircraft/ operating with 19 OTU RAF Kinloss/ crashed here on 6th January 1942/ (names)"
+  "memorial_details": "Name: AW Whitley N1498\nType: Cairn\nDescription: Cairn erected near crash site with plaque attached.\nInscription: MEMORIAL: This plaque is in memory of/ those personnel killed when/ Whitley Mk V Aircraft/ operating with 19 OTU RAF Kinloss/ crashed here on 6th January 1942/ (names)\nLocation: Carn a' choire Mhoir approx 3 miles east of Tomatin Inverness Highlands and Islands IV13 7XY Scotland\nGrid Ref: NH 843 291\nCoordinates: 57.337694541450,-3.923759185315\nPhotos: https://media.iwm.org.uk/ciim5/memorials/46/470/large_6049.jpg; https://media.iwm.org.uk/ciim5/memorials/46/471/large_6049_2.jpg\n\nMagoo's bothy restoration (2002): The nearby Magoo's bothy was restored in memory of Flight Lieutenant Mark James Maguire, lost in peacekeeping operations in Kosovo.\n\nCairn erection near crash site: A cairn was erected near the Whitley N1498 air crash site with a plaque attached.",
+  "narrative": "Whitley Mk.V N1498 of No.19 Operational Training Unit, flew into Carn a Choire Mhoir near Tomatin whilst on an evening training flight from RAF Kinloss on the 6th January 1942 John George Irvine Pilot Officer RNZAF Pilot Killed John Graham Castling Pilot Officer RNZAF Pilot Killed Cecil Spencer George DFM Sergeant Pilot (Instructor) Killed Charles Murray Edgehill Sergeant Observer Injured Cyril Wright Green Sergeant Wireless Operator / Air gunner Killed Derek Pike Sergeant Wireless Operator / Ai",
+  "community_connection": "The trust provides support if funds have been raised by the community or organisation.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial Visit",
+        "date": "April 2002",
+        "description": "The researcher visited the site and found remnants of the aircraft wreckage."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

@@ -20,7 +20,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "The B-17 \"Heavenly Body\" was on a night navigation training flight from its home base at Eye in Suffolk — a long way from the operational missions over Germany that the 490th Bomb Group normally flew. Twelve men were aboard, including three passengers along for the ride. Over NW Leicestershire, while executing a turn near Nailstone, the nose dropped and the port wing struck the ground. The aircraft was completely destroyed by fire and explosion. All twelve men were killed. Five were subsequently buried at Cambridge American Cemetery at Madingley, near Cambridge; the other seven were repatriated to the United States after the war. This was the single deadliest crash in Leicestershire during the war. The \"Heavenly Body\" name and the fact that these men died on a training flight far from their base — not in combat — adds to the tragedy.",
+  "narrative": "The bomber was on a training flight from Eye to Liverpool when it ran into trouble near Desford aerodrome. It was fully loaded with bombs and ammunition. Trying to turn to reach Desfords runway it flew low over Barlestone and over the edge of Nailstone before hitting a tree on farmland and exploding, killing all 12 airmen. The aircraft was destroyed in the explosion and subsequent fire. The cause of the problem is not known. Source of information: www.warmemorialsonline.org.uk, Imperial War Museum War Memorials Register, www.leicestermercury.co.uk Source of photos: www.leicestershirewarmemorials.co.uk, Imperial War Museum War Memorials Register IN MEMORY OF OUR FALLEN COMRADES 490TH BOMB GROUP FLIGHT CREW ON THE B17 FLYING FORTRESS APTLY NAMED HEAVENLY BODY. ON 27TH SEPTEMBER 1944 ALL CREWMEMBERS LOST THEIR LIVES IN THEY SHALL MOUNT UP WITH WINGS AS EAGLES, THEY SHALL RUN, AND NOT BE WEARY, AND THEY SHALL WALK, AND NOT FAINT 849th Bomber Squadron, 490th Bombardment Group, Heavy @2008 American War Memorials Overseas, Inc.",
   "crew": [
     {
       "rank": "1st Lt",
@@ -153,11 +153,29 @@
       "fate_detail": "Killed in the crash. One of three passengers aboard.",
       "bio": "Staff Sergeant, a passenger.",
       "decorations": []
+    },
+    {
+      "name": "Rich Herman",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "Roy Griswould",
+      "rank": "Flight Engineer/Top Turret Gunner",
+      "fate": "Killed",
+      "role": "Flight engineer/top turret gunner"
+    },
+    {
+      "name": "Americo Virgili",
+      "rank": "Tail Gunner",
+      "fate": "Killed",
+      "role": "Tail gunner"
     }
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",
   "operation_type": "Training",
-  "memorial_details": "Name: B-17 Flying Fortress Crew\nType: Stone of remembrance\nDescription: Stone of remembrance with attached plaque.\nInscription: IN MEMORY OF OUR (...)/ 490TH BOMB GROUP FLIGHT CREW ON THE/ B17 FLYING FORTRESS APTLY NAMED HEAVENLY BODY/ 27TH SEPTEMBER 1944 ALL CREW MEMBERS LOST THEIR LIVES (...)/ THIS TRAGIC ACCIDENT/ (Names)/ (...)\nLocation: At centre of village. Church Gardens Memorial Garden Nailstone Hinckley And Bosworth Leicestershire CV13 0QY England\nGrid Ref: SK 41802 07150\nCoordinates: 52.661171000000,-1.382990400000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/17/180/large_50741.jpg; https://media.iwm.org.uk/ciim5/memorials/173/254/large_50741a.jpg; https://media.iwm.org.uk/ciim5/memorials/86/568/3_nailstone.jpg; https://media.iwm.org.uk/ciim5/memorials/86/569/4_nailstone_1.jpg",
+  "memorial_details": "Name: B-17 Flying Fortress Crew\nType: Stone of remembrance\nDescription: Stone of remembrance with attached plaque.\nInscription: IN MEMORY OF OUR (...)/ 490TH BOMB GROUP FLIGHT CREW ON THE/ B17 FLYING FORTRESS APTLY NAMED HEAVENLY BODY/ 27TH SEPTEMBER 1944 ALL CREW MEMBERS LOST THEIR LIVES (...)/ THIS TRAGIC ACCIDENT/ (Names)/ (...)\nLocation: At centre of village. Church Gardens Memorial Garden Nailstone Hinckley And Bosworth Leicestershire CV13 0QY England\nGrid Ref: SK 41802 07150\nCoordinates: 52.661171000000,-1.382990400000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/17/180/large_50741.jpg; https://media.iwm.org.uk/ciim5/memorials/173/254/large_50741a.jpg; https://media.iwm.org.uk/ciim5/memorials/86/568/3_nailstone.jpg; https://media.iwm.org.uk/ciim5/memorials/86/569/4_nailstone_1.jpg\n\nThe plaque is inscribed in English inscribed with a dedication message followed by the list of names of the crew.\n\nThe memorial was originally located at a site nearer to where the plane crashed on Elmside Farm but has been moved for better access, where it was dedicated in 2002.\n\nDedication (2002-01-01): The memorial was dedicated after being moved to its current location for better access.\n\nPRIVATE CITIZENS SUPPORTING AMERICA'S HERITAGE B-17 'Heavenly Body' (43-37776) Memorial A rough-hewn stone with an attached metal plaque to its front.\n\nMemorial Display: A memorial displaying the B-17 Flying Fortress Crew, commemorating World War II.",
   "latitude": 52.659868946558454,
   "longitude": -1.3856301201029853,
   "maintainer": {
@@ -175,7 +193,8 @@
         "Memorial Garden location"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The US War Memorials database entry for Nailstone's 'Heavenly Body' (43-37776) B-17 memorial, honoring its crew in the Memorial Garden."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -188,7 +207,8 @@
         "Trying to reach Desford aerodrome"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of B-17G 43-37776 crash at Nailstone in Peak District Air Accident Research."
     },
     {
       "source_site": "B-17 Flying Fortress database",
@@ -199,7 +219,8 @@
         "490th Bomb Group assignment confirmed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed history of WWII bomber 'Heavenly Body' in Nailstone crash."
     },
     {
       "source_site": "American Air Museum",
@@ -209,7 +230,8 @@
         "American Air Museum reference 11782"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore detailed history and specifications of WWII B-17G bomber at American Air Museum."
     },
     {
       "source_site": "Imperial War Museums",
@@ -219,7 +241,8 @@
         "IWM memorial reference 50741"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed history of the Nailstone B-17 Flying Fortress crew memorial on this IWM page."
     }
   ],
   "local_contacts": [
@@ -247,5 +270,11 @@
   "squadron_aliases": [
     "490th Bomb Group",
     "490th BG"
-  ]
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

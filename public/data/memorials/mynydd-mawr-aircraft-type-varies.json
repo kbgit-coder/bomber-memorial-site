@@ -1,6 +1,6 @@
 {
   "id": "mynydd-mawr-aircraft-type-varies",
-  "title": "Mynydd Mawr source) Memorial",
+  "title": "Mynydd Mawr Memorial",
   "location_name": "Mynydd Mawr, Snowdonia, Snowdonia",
   "county": "Snowdonia",
   "country": "United Kingdom",
@@ -32,7 +32,8 @@
         "Multiple WW2 crash sites in Snowdonia"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Welsh WWII Aircraft Crash Sites: Discover Mynydd Mawr's Historical Air Accidents."
     },
     {
       "source_site": "Military Aircraft Crash Sites blog",
@@ -43,7 +44,8 @@
         "Mountain terrain contributed to multiple losses"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore comprehensive listings of WWII military aircraft crash sites in Wales, featuring Mynydd Mawr's wreckage memorials."
     }
   ],
   "local_contacts": [
@@ -65,5 +67,227 @@
   "squadron_display_name": "RAF",
   "squadron_aliases": [
     "RAF"
-  ]
+  ],
+  "narrative": "On the night of 12 October 1956, Sub-Lieutenant R. Davies of the Fleet Air Arm took off from RAF Valley on Anglesey in a De Havilland Vampire VZ874, briefed to fly locally and practice instrument circuits. Davies was in training on the type and had accumulated 110 hours on Vampires, having only recently begun night flying. Just ten minutes after takeoff, the aircraft struck the western face of Mynydd Mawr's summit in Snowdonia. The Vampire exploded on impact, scattering wreckage across the summit and into the cwm below to the east. Sub-Lieutenant Davies was killed. Fragments of engine and airframe spars remain recoverable in Cwm Planwydd today.",
+  "crew": [
+    {
+      "name": "R. Davies",
+      "rank": "Davies",
+      "fate": "Unknown",
+      "role": "pilot (Fleet Air Arm)",
+      "nationality": "British"
+    },
+    {
+      "name": "Maxwell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Arthur",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harold Neilsen          Air Gunner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Maurice Charles Cotterell Pilot",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Neilsen",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Evans",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gash",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Alan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Derrick",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Seddon Appleby",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ernest Hartley Green",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joe Lupton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Alexander Johnston",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eloi Joseph Emile Beaudry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lawrence Fullerton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Archibald Sidney Clegg",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenneth Charles Frederick Shelley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bird",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Troubridge",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Raymond Baldock",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cpl",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rudolph",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Albert Bell  Pilot",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mervyn Sims",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harold Longworth",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cyril",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eric",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lionel",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rupert",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Corps",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ernest Andrew Hoagg",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Hedgley Lewis",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leslie John Hill",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "There",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Marek Slonski",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Paul Riches",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ronald Jesse Harbour Observer",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bristol Blenhiem",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Simpson",
+      "rank": "A/P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "MacEwan",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot or Observer",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

@@ -16,8 +16,8 @@
   ],
   "station": "Seething Airfield (Station 146)",
   "crew_summary": "499 aircrew killed with 448th Bomb Group, 8th USAAF, flying B-24 Liberators from Seething Airfield",
-  "narrative": "Seething Airfield in Norfolk (USAAF Station 146) was home to the 448th Bomb Group of the 8th United States Army Air Force from December 1943 to the end of the war. Flying B-24 Liberator heavy bombers, the 448th flew missions deep into Germany and occupied Europe as part of the Combined Bomber Offensive. 499 American airmen were killed in operations from Seething. The black marble memorial tablet at the airfield — etched with B-24 aircraft in each corner and the insignia of both the 8th Air Force and the 448th Bombardment Group — stands at the Waveney Flying Club, which today operates from part of the original airfield. The former control tower at Seething has been preserved as the 448th Bomb Group Museum, open to visitors on the first Sunday of each month from May to October.",
-  "memorial_details": "Free-standing black marble tablet with B-24 aircraft etched in each corner and insignia of the 8th Air Force and 448th Bombardment Group. Located at Waveney Flying Clubhouse, Seething Airfield. The 448th Bomb Group Museum occupies the preserved control tower at Toad Lane, Mundham, Norwich NR35 2EQ — open first Sunday May to October, 10am–4pm. IWM War Memorials Register reference: IWM 20232.",
+  "narrative": "Seething Airfield in Norfolk (USAAF Station 146) was home to the 448th Bomb Group of the 8th United States Army Air Force from December 1943 to the end of the war. Flying B-24 Liberator heavy bombers, the 448th flew missions deep into Germany and occupied Europe as part of the Combined Bomber Offensive. 499 American airmen were killed in operations from Seething. The former control tower at Seething has been preserved as the 448th Bomb Group Museum, open to visitors on the first Sunday of each month from May to October.",
+  "memorial_details": "Free-standing black marble tablet with B-24 aircraft etched in each corner and insignia of the 8th Air Force and 448th Bombardment Group. Located at Waveney Flying Clubhouse, Seething Airfield. The 448th Bomb Group Museum occupies the preserved control tower at Toad Lane, Mundham, Norwich NR35 2EQ — open first Sunday May to October, 10am–4pm. IWM War Memorials Register reference: IWM 20232.\n\nThe black marble memorial tablet at the airfield — etched with B-24 aircraft in each corner and the insignia of both the 8th Air Force and the 448th Bombardment Group — stands at the Waveney Flying Club, which today operates from part of the original airfield.",
   "sources": [
     {
       "title": "IWM War Memorials Register — 448th BG Airfield",
@@ -48,7 +48,8 @@
         "At Waveney Flying Clubhouse, Seething Airfield"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The solemn 448th Bomb Group Memorial at Seething Airfield, honoring 499 fallen aircrew on black marble tablet."
     },
     {
       "source_site": "448th Bomb Group Museum",
@@ -61,7 +62,8 @@
         "Flying B-24 Liberators from December 1943"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the rich history of the 448th Bomb Group at Seething Airfield's preserved control tower."
     }
   ],
   "location_confidence": {
@@ -70,5 +72,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

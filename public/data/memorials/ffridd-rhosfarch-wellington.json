@@ -29,7 +29,8 @@
       "summary": "Reference to Wellington crash sites in the Ffridd Rhosfarch area of Wales. The Wellington from 21 OTU Moreton-in-Marsh crashed into the hillside at approximately 11:40am during a cross-country training flight in 1941, killing all aboard.",
       "key_details": "Crew likely mistook the Dyfi estuary for the sea, leading to navigational error in poor visibility. Cross-country training flight from RAF Moreton-in-Marsh, Gloucestershire.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Wellington Memorial's crash site details in Ffridd Rhosfarch area of Wales."
     }
   ],
   "local_contacts": [
@@ -51,5 +52,47 @@
   "squadron_display_name": "21 OTU",
   "squadron_aliases": [
     "21 OTU"
-  ]
+  ],
+  "narrative": "A Wellington bomber from 21 Operational Training Unit departed Moreton-in-Marsh, Gloucestershire, on a training flight in 1941. The aircraft came down at Ffridd Rhosfarch in Wales under circumstances that have not been fully recorded. All crew members aboard were killed. Robert Thomas is among those identified as having died in the crash. The cause of the accident is not confirmed in available records.",
+  "community_connection": "The text does not explicitly contain community connection stories related to a WW2 memorial.\n\nPennal war memorials - History Points Bridge 46 to Five Locks Canal Group Deganwy Beach Shelter Restoration Place-names unbundled: Menai Bridge Powys War Memorials Project 2014-19 Cof Lechi Caernarfon Slate Plaques Holy Island Landscape Partnership The Clwyd Family History Society Clwyd-Powys Archaeological Trust Discovering Old Welsh Houses Group Royal National Institute of Blind People Royal National Lifeboat Institution Wildlife Trust of South and West Wales Caerphilly Local History Society The Carmarthenshire Antiquarian Society Llandudno & Colwyn Bay History Society Friends of St Julitta's, Capel Curig Llanrwst and District Historical Society Llandudno & Colwyn Bay Tramway Society Tywyn and District History Society Abergavenny Local History Society In Neath Porth Talbot county borough Pembroke & Monkton Local History Society Crickhowell & District History Society Breconshire Local and Family History Society Crickhowell District Archive Centre The Merchant Navy Association (Wales) Western Front Association in Wales The Royal Institution of South Wales Amwlch: First comprehensive school Amlwch: St Eilian’s Church, Llaneilian Amlwch: Watchtower and lighthouse Holyhead: Former Eagle and Child Inn Holyhead: Former air-raid shelter Holyhead: Former Stanley toll house Holyhead: Stena Line ferry terminal Llanfaethlu: Former Borthwen Farm South Stack: Old lookout building Trearddur Bay: Lifeboat station Beaumaris: Cae Bricks housing estate Beaumaris: Church of Ss Mary & Nicholas Llanfairpwll: Former ironmonger’s shop Llanfairpwll: Home of Britain’s first WI Llangefni: Former railway goods shed Menai Bridge: The Anglesey Arms Menai Bridge: Former National School Menai Bridge: Former Prince’s Pier warehouse Menai Bridge: St Tysilio’s Church Penmynydd: St Gredifael’s Church Menai Bridge: Old steamer ticket office Abertillery: Ebenezer Baptist Church Abertillery: Former Bon Marché dept store Abertillery: Former Trinity chapel Abertillery: Metropole theatre & market hall Abe",
+  "crew": [
+    {
+      "name": "Former Robert Thomas",
+      "rank": "Robert Thomas\nFormer",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Royal Welsh Fusiliers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sherwood Foresters Regiment",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "In Wrexham History Society",
+      "rank": "History Society\nIn Wrexham",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Durham Light Infantry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Royal Army Medical Corps",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Queen",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

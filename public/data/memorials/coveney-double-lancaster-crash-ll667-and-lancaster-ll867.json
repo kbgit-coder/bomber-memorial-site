@@ -43,7 +43,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "On the night of 18/19 April 1944, 115 Squadron at RAF Witchford sent twenty-six Lancasters to bomb the railway marshalling yards at Rouen in France. The raid was completed successfully, but as the bombers returned to their Cambridgeshire base, Luftwaffe Me 410 intruder night fighters were waiting over the circuit. Two Lancasters were intercepted and shot down within sight of their home airfield. Lancaster LL667 KO-R, piloted by twenty-year-old Pilot Officer John Birnie, was caught in the circuit at approximately 02:10 and crashed at Common Farm, Witchford. All seven crew were killed. Less than forty minutes later, at 02:48, Lancaster LL867 A4-J, piloted by Flight Lieutenant Charlie Eddy of the Royal New Zealand Air Force, was also intercepted and shot down, crashing near Ely. Again, all seven crew were killed. The fourteen young men -- drawn from Britain, Canada, New Zealand, and Australia -- had completed their mission and were within minutes of safety when they died. A memorial plaque in St Peter ad Vincula church at Coveney commemorates all fourteen aircrew.",
+  "narrative": "Returning from a raid on the railway marshalling yards at Rouen, France, two Lancasters of 115 Squadron were shot down by Luftwaffe intruder night fighters as they approached RAF Witchford to land. Lancaster LL667, captained by Pilot Officer John Birnie, age 20, was brought down at approximately 0210 hours, with the interception credited to Hauptmann Dietrich Puttarken of 5/KG51. Lancaster LL867, captained by Flight Lieutenant Charlie Eddy, was lost in the same attack over the airfield circuit. Both aircraft crashed near Coveney, Cambridgeshire. All fourteen men aboard the two aircraft were killed — seven in each crew — among them Flight Sergeant David Lloyd Jones, Sergeant Jack Ferguson, age 19, and Canadian Sergeant William James MacMillan, also age 19.",
   "crew": [
     {
       "rank": "P/O",
@@ -99,7 +99,7 @@
       "service_number": "J92605 RCAF",
       "age": 27,
       "role": "Bomb Aimer (LL667)",
-      "nationality": "American (serving with RCAF)",
+      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the loss of Lancaster LL667. An American serving with the Royal Canadian Air Force.",
       "cwgc_verified": false
@@ -198,12 +198,33 @@
       "fate": "Killed",
       "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
       "cwgc_verified": false
+    },
+    {
+      "name": "Sgt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "R Anna DSO",
+      "rank": "Wing Commander",
+      "fate": "Survived",
+      "role": "Commanding Officer of Lancaster squadron",
+      "nationality": "British"
+    },
+    {
+      "name": "J. Birnie (Jock)",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 20,
+      "nationality": "British",
+      "burial_location": "Gosforth (St. Mary) Churchyard, Cumberland"
     }
   ],
   "cause_of_loss": "Both aircraft shot down by Luftwaffe Me 410 intruder night fighters while in the circuit at RAF Witchford, returning from operations over Rouen",
   "operation_type": "Operational",
   "operation_target": "Railway marshalling yards at Rouen, France",
-  "memorial_details": "Memorial plaque in St Peter ad Vincula church, Coveney, commemorating all fourteen aircrew from both Lancaster LL667 and LL867 killed on the night of 19 April 1944. The church memorial lists all crew names from both aircraft.",
+  "memorial_details": "Memorial plaque in St Peter ad Vincula church, Coveney, commemorating all fourteen aircrew from both Lancaster LL667 and LL867 killed on the night of 19 April 1944. The church memorial lists all crew names from both aircraft.\n\nMemorial Plaque Installation (27 Aug 2017): The memorial plaque was installed in St Peter Ad Vincula Church, Coveney.",
   "latitude": 52.4172,
   "longitude": 0.1884,
   "maintainer": {
@@ -222,7 +243,8 @@
         "LL867 crashed near Ely at 02:48"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore Lancaster Memorial's poignant archive documenting tragic double crash in Coveney parish on April 19, 1944."
     },
     {
       "source_site": "War Memorials Online",
@@ -233,7 +255,8 @@
         "14 aircrew commemorated (7 each aircraft)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Memorial: Commemoration of 14 Aircrew Killed in Lancaster Crashes at Coveney Village Church."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -244,7 +267,8 @@
         "Shot down near home base"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore detailed account of Lancaster Mk II LL667's tragic crash in Coveney on 19th April 1944 due to enemy interception."
     },
     {
       "source_site": "115 Squadron RAF (Belgian archive)",
@@ -255,7 +279,8 @@
         "Squadron records from Belgian archive"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Crew Records & Operational History of Lancaster LL667 KO-R from 115 RAF Squadron Prior to Its Loss in Coveney Crash Incident."
     }
   ],
   "local_contacts": [
@@ -297,5 +322,12 @@
   "squadron_aliases": [
     "115 Squadron",
     "115 Sqdn."
-  ]
+  ],
+  "community_connection": "Tom Bullman and George Sparrow who lived in the parish witnessed the action.",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

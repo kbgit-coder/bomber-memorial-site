@@ -38,7 +38,8 @@
         "Flew through a stone wall on impact"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore crash site investigation details of Hudson N7294 at Easby Moor on 11 February 1940."
     },
     {
       "source_site": "Yorkshire Aircraft",
@@ -51,7 +52,8 @@
         "LAC Barker survived, returned to 220 Squadron"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The tragic Hudson N7294 crash at Easby Moor in Yorkshire Aircraft's record."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -62,7 +64,8 @@
         "Hudson Mk I variant"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore accident details of Lockheed Hudson Mk I N7294 at Easby Moor in February 1940."
     }
   ],
   "local_contacts": [
@@ -90,5 +93,47 @@
   "squadron_aliases": [
     "220 Squadron",
     "220 Sqdn."
-  ]
+  ],
+  "narrative": "The winter of 1939-40 was a severe one. On the night of Sunday, 11th February 1940, three Hudson's belonging to 220 Squadron took off from Thornaby to undertake an operational flight to Heligoland area, an area of sea off the German coastline. This was a cold night and snow was already covering the hills in the area south and east of Middlesbrough. The lead Hudson failed to gain enough height on take off, probably due to the effects of icing conditions on the aircraft's wings and it flew very low over Great Ayton. It was thought the pilot pulled the nose of the aircraft up just before impact which avoided a complete nose-on impact with the side of the hill. The crash ripped the underside of the aircraft off and it ploughed it's way across the snow cover",
+  "crew": [
+    {
+      "name": "Tom MacKinlay Parker",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 21
+    },
+    {
+      "name": "Harold Francis Bleksley",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 24
+    },
+    {
+      "name": "Atholl Barker",
+      "rank": "LAC",
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 26
+    },
+    {
+      "name": "Norman Rrichard Drury",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Wireless Operator"
+    }
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Special night patrol mission",
+        "date": "10-11 February 1940",
+        "description": "Three Hudsons of 220 Sqn RAF were planned to fly due east from Thornaby to Horns Reef, then sweep south into the Heligoland Bight for a low-level bombing attack on enemy ships at first light."
+      }
+    ]
+  },
+  "memorial_details": "It then crashed into the first piece of high ground it came to on the North Yorkshire Moors, having flown into the moor just below a stone wall it travelled up through the wall and then onto the hill top near to Captain Cook's Monument.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

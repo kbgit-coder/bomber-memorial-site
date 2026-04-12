@@ -21,7 +21,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "On the night of 22 October 1944, Halifax LL505 departed RAF Topcliffe on a routine night navigation training exercise. The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
+  "narrative": "The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
   "crew": [
     {
       "rank": "F/O",
@@ -145,7 +145,8 @@
       "summary": "Imperial War Museum register entry for the Halifax LL505 FD-S memorial on Great Carrs. Records the cairn with wooden cross and plaques commemorating the eight crew of 1659 HCU who died on 22 October 1944.",
       "key_details": "Memorial reference 13028. Cairn with wooden cross. Metal and slate plaques list all eight names.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Great Carrs Halifax Memorial: Discover the poignant tribute to fallen crew members from 1659 HCU."
     },
     {
       "source_site": "War Memorials Online",
@@ -153,7 +154,8 @@
       "summary": "War Memorials Online listing for the Halifax LL505 memorial on Great Carrs fell, Lake District. Documents the memorial's remote hillside location and the crew details.",
       "key_details": "Memorial reference 175022. Accessible via fell walk from Wrynose Pass or Wetherlam approach.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Halifax Memorial Documentation at War Memorials Online."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -161,7 +163,8 @@
       "summary": "TracesOfWar entry for the Halifax LL505 'S for Sugar' crash site. Substantial wreckage remains visible including undercarriage components. Two Rolls-Royce Merlin engines were recovered by RAF helicopter; one is on display at the Ruskin Museum, Coniston.",
       "key_details": "Six of seven Canadians are buried at Blacon Cemetery, Chester. The sole British crew member (Sgt Ferguson) is buried at New Monkland Cemetery, Lanarkshire. Site is within the Lake District UNESCO World Heritage Site.",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the preserved wreckage and two recovered Rolls-Royce Merlin engines at Halifax LL505 'S for Sugar' crash site."
     },
     {
       "source_site": "Yorkshire Aircraft",
@@ -169,7 +172,8 @@
       "summary": "Detailed account of the Halifax LL505 crash. The crew took off from Topcliffe at 14:05 and by 18:56 had become lost in thick cloud over the Lake District. The aircraft descended to obtain a visual fix but failed to clear the ridge of Great Carrs by a few feet.",
       "key_details": "Crew formed at 82 OTU and posted to 1659 HCU on 9 September 1944. Sgt Pyche was flying as a supernumerary to add logbook hours. Bomber remained largely intact after crash; wreckage was cut up and scattered down Broad Slack.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Halifax LL505 crash involving crew's struggle amidst thick clouds over Lake District."
     }
   ],
   "local_contacts": [
@@ -203,5 +207,7 @@
   "squadron_display_name": "1659 HCU",
   "squadron_aliases": [
     "1659 HCU"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

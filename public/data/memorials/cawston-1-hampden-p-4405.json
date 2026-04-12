@@ -37,7 +37,8 @@
         "Took off from Hemswell at 0220, crashed at 0650"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "News article about Cawston Memorial honoring four airmen of Hampden P4405 who tragically crashed in Norfolk."
     },
     {
       "source_site": "Cawston Heritage",
@@ -49,7 +50,8 @@
         "Forced landing attempt"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local heritage: Discover the story behind Hampden bomber crash at Bluestone Plantation near Cawston."
     },
     {
       "source_site": "RAF Commands",
@@ -60,7 +62,8 @@
         "Official casualty record"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed RAF commands casualty data about Sergeant J.E. Hill's tragic loss in a 1941 Hampden aircraft crash at Cawston."
     }
   ],
   "local_contacts": [
@@ -104,7 +107,42 @@
       "role": "Wireless Operator",
       "service_number": "935567",
       "burial_location": "Grave 707. at Crowle Cemetery, United Kingdom",
-      "fate": "Killed"
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "John Frutiger",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "age": 20,
+      "nationality": "British"
+    },
+    {
+      "name": "Robert Gapp",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Robert Chanin",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "age": 21,
+      "nationality": "British"
     }
-  ]
+  ],
+  "narrative": "On the night of 10 February 1941, Hampden P4405 of 61 Squadron departed RAF Hemswell on operations. Returning from their mission, the aircraft came down while attempting an emergency landing, crashing into Bluestone Plantation near Cawston, Norfolk. All four crew members were killed: Flight Lieutenant Frutiger, Flight Sergeant Robert Gapp, Sergeant John Hill, and Sergeant Robert Chanin. It was Sergeant Chanin's 21st birthday. The four men are commemorated by a memorial in Cawston, unveiled in a ceremony attended by relatives of the airmen and representatives of the Royal British Legion.",
+  "community_connection": "In 2018, some Cawston parishioners remembered the crash.",
+  "remembrance": {
+    "events": [],
+    "annual_service": true,
+    "service_date": "2 September"
+  },
+  "memorial_details": "At a ceremony in Cawston on Sunday 2 September, a plaque was unveiled in memory of the four young airmen in their early twenties of 61 Squadron, set off from RAF Hemswell on a bombing mission to Wilhelmshaven in Germany.\n\nA plaque was unveiled in memory of the four young airmen on Sunday 2 September at a ceremony in Cawston.\n\nCasualty Page: A page dedicated to remembering Sergeant J E HILL (935567) of the Royal Air Force who was killed during World War 2.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

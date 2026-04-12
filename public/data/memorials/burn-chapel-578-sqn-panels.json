@@ -47,7 +47,8 @@
         "Maintained by Burn Village Council"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records of 219 aircrew from RAF Burn, killed in action between 1944-45, enshrined on eleven stainless steel plaques."
     }
   ],
   "location_confidence": {
@@ -56,5 +57,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

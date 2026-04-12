@@ -134,7 +134,8 @@
       "summary": "The 385th BGA maintains extensive records of the group's operations from Great Ashfield (USAAF Station 155), Suffolk. The group flew 296 combat missions between June 1943 and May 1945, losing 129 B-17s and 400+ men. Notable operations include targets across Germany, France, and occupied Europe. Their final sorties were humanitarian food drops over Holland in Operation Chowhound, May 1945.",
       "key_details": "296 missions; 129 aircraft lost; 400+ killed; Glenn Miller performed at the base on reaching 200 missions; last missions were food drops over Holland (Operation Chowhound)",
       "date_retrieved": "2026-04-06",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore comprehensive records of the 385th Bomb Group's operations at Great Ashfield Airbase."
     },
     {
       "source_site": "Elmswell History Group",
@@ -142,7 +143,8 @@
       "summary": "Local history documentation of the Great Ashfield airfield and its connection with the 385th Bomb Group. The airfield was sold off in 1955 after the war. Some deteriorated wartime buildings remain on what is now largely agricultural land.",
       "key_details": "Airfield sold 1955; some wartime structures remain",
       "date_retrieved": "2026-04-06",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local history: Discover Great Ashfield airfield's role with the 385th Bomb Group and its post-war fate."
     }
   ],
   "local_contacts": [
@@ -195,5 +197,23 @@
   "squadron_aliases": [
     "385th Bombardment Group (Heavy), 8th USAAF",
     "385th BG"
-  ]
+  ],
+  "narrative": "The Royal Flying Corps had a grass landing strip on this site as early as 1918, and before the USAF arrived in mid-1943, the RAF had been using it for training. Fortunately for the personnel at the airfield, no specific crash incident was mentioned in the provided text.",
+  "community_connection": "The community connection was so strong that they even named a street after the airfield - Great Ashfield Airfield Road.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Royal Flying Corps grass landing strip",
+        "date": "1918",
+        "description": "The Royal Flying Corps had a grass landing strip on this site as early as 1918."
+      },
+      {
+        "name": "RAF training",
+        "date": "pre-mid 1943",
+        "description": "Before the USAF arrived in mid-1943, the RAF had been using it for training."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 3
 }

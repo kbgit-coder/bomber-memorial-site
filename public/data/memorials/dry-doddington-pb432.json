@@ -39,7 +39,8 @@
         "Memorial in Dry Doddington Church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the poignant Memorial of Lancaster PB432 EA-O at Dry Doddington Church."
     },
     {
       "source_site": "49 Squadron Association (PDF)",
@@ -51,7 +52,8 @@
         "F/S Ransom (NAV) slightly injured"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed PDF account on 49 Squadron Association: The Fulbeck Tragedy - Lancaster PB432's crash narrative, crew information, and event sequence."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -61,7 +63,8 @@
         "IWM casualty register entries for Blake and Langley"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed records of Lancaster PB432's crew members, particularly Sgt. Blake and Sgt. Langley, from Imperial War Museums' register."
     }
   ],
   "local_contacts": [
@@ -92,5 +95,43 @@
     "49 Sqdn.",
     "49 Squadron"
   ],
-  "memorial_details": "Name: Blake, E. G.\nLocation: Avro Lancaster PB432 (WMR 92263) Dry Doddington Lincolnshire"
+  "memorial_details": "Name: Blake, E. G.\nLocation: Avro Lancaster PB432 (WMR 92263) Dry Doddington Lincolnshire",
+  "narrative": "Lancaster PB432 of 49 Squadron RAF departed Fulbeck on operations on 26 November 1944, with pilot Le Marquand at the controls. The aircraft came down at Dry Doddington, Lincolnshire, a short distance from its home station. Of the seven crew members aboard, two were killed: Sergeant E. G. Blake, air gunner, and Sergeant Norman Isaac Langley, wireless operator. The remaining five, including navigator R.E. Ransom and flight engineer W.S. Wade, survived.",
+  "crew": [
+    {
+      "name": "E. G. Blake",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Dry Doddington, England"
+    },
+    {
+      "name": "G.H. Le Marquand",
+      "rank": "Le Marquand",
+      "fate": "Unknown",
+      "role": "Pilot"
+    },
+    {
+      "name": "W.S. Wade",
+      "rank": null,
+      "fate": "Survived",
+      "role": "F/E"
+    },
+    {
+      "name": "R.E. Ransom",
+      "rank": null,
+      "fate": "Survived",
+      "role": "NAV"
+    },
+    {
+      "name": "N.I. Langley",
+      "rank": null,
+      "fate": "Killed",
+      "role": "W/OP"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

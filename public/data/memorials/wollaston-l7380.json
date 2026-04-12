@@ -22,7 +22,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "This is one of the most tragic cases in the East Midlands — a friendly fire incident. On the night of 21-22 June 1941, seven Avro Manchester bombers of 207 Squadron took off from RAF Waddington to bomb the docks at Boulogne. L7314, piloted by 21-year-old Flying Officer Withers (a contemporary of the legendary Guy Gibson at 83 Squadron, Scampton), was returning at about 6,000 feet when it was attacked by a Beaufighter night fighter crewed by Pilot Officers Smith and Lusty, who had been scrambled to intercept reported enemy raiders. The Manchester was set ablaze and crashed near Poplars Farm, Wollaston. Some crew members attempted to escape the burning wreck, but part of the bomb load exploded before they could get clear. Nobody survived. Traces of only five bodies were recovered. The Beaufighter crew were subsequently court-martialled, and blame was also apportioned to the ground control station that had vectored them. The Avro Manchester itself was notoriously unreliable — only 200 were built before the type was replaced by the four-engined Lancaster — making its crews doubly vulnerable. F/O Withers held the DFC; Fl/Sgt Brown the DFM — both decorated men killed by their own side.",
+  "narrative": "Flying Officer John Withers DFC, aged 21, piloted Avro Manchester L7314 of 207 Squadron on a bombing raid targeting the docks at Boulogne, France, departing from RAF Waddington. Returning from the operation on 22 June 1941, the aircraft was shot down by an RAF Bristol Beaufighter night fighter that mistook it for an enemy raider reported in the area. The Manchester crashed near Poplars Farm, Wollaston, Northamptonshire. Seven crew members were killed, including Withers, Sergeant Alick James, Flight Sergeant William Brown DFM, Flight Sergeant Michael Browne, Flight Sergeant Allan Malone, Sergeant Stanley Veitch, and Sergeant John Maville. A memorial at Wollaston now marks the site, commemorating those lost in this tragic act of friendly fire.",
   "crew": [
     {
       "rank": "F/O",
@@ -112,12 +112,31 @@
       "fate_detail": "Killed in the friendly fire shootdown. The only Canadian in the crew.",
       "bio": "Canadian air gunner serving with the RCAF. The only non-British crew member.",
       "decorations": []
+    },
+    {
+      "name": "William Brown",
+      "rank": null,
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Colonel Pierre Theriault",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Unknown",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Unknown (other crew members)",
+      "nationality": "British",
+      "burial_location": "Near Poplars Farm, Wollaston"
     }
   ],
   "cause_of_loss": "Friendly fire — shot down by RAF Beaufighter night fighter",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on docks at Boulogne, France",
-  "memorial_details": "On 22 June 2021 — eighty years to the day — a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.",
+  "memorial_details": "On 22 June 2021 — eighty years to the day — a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.\n\nMemorial Unveiled Honouring WW2 Bomber Crew Killed In Crash A new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven crew.\n\nA new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven crew.\n\nMemorial Unveiling (80th anniversary of the crash (exact date not specified)): Unveiling of a new memorial to commemorate the 7 crew members of a 207 Squadron Manchester bomber killed in a mistaken RAF Beaufighter night fighter shootdown near Wollaston, Northamptonshire.\n\nMemorial Dedication (2021-06-22): A memorial was dedicated on land near Poplars Farm, Wollaston close to the crash site for seven crew members of Avro Manchester L7314. The project was driven by the Wollaston Parish Council and funded by public donations.",
   "latitude": 52.2545,
   "longitude": -0.671,
   "maintainer": {
@@ -137,7 +156,8 @@
         "Official RAF acknowledgment of the friendly fire incident"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Unveiling of the Wollaston Memorial honors Manchester's fallen crew on its 80th anniversary."
     },
     {
       "source_site": "Forces News",
@@ -147,7 +167,8 @@
         "National military news coverage of the memorial dedication"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Forces News' comprehensive coverage of the Wollaston Manchester Memorial unveiling, including the tragic bombing incident and the ongoing tribute efforts."
     },
     {
       "source_site": "Northants Telegraph",
@@ -161,7 +182,8 @@
         "Only traces of five bodies recovered from crash"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore local newspaper account of Wollaston Manchester Memorial incident involving friendly fire and German aircraft activity in Lincolnshire."
     },
     {
       "source_site": "Northants Telegraph",
@@ -172,7 +194,8 @@
         "Provides context on the notoriously unreliable aircraft"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the history of Avro Manchester aircraft and its transition into Lancaster."
     },
     {
       "source_site": "Hatton Rotary Club",
@@ -183,7 +206,8 @@
         "Coordinated with crew relatives and RAF Association"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The story behind the creation of the Manchester Memorial at Wollaston through Hatton Rotary Club's efforts."
     },
     {
       "source_site": "Bureau of Aircraft Accidents Archives",
@@ -194,7 +218,8 @@
         "Seven fatalities confirmed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records of the 1941 Manchester I crash at Wollaston, including seven tragic fatalities and aircraft specifics."
     }
   ],
   "local_contacts": [
@@ -224,5 +249,12 @@
   "squadron_aliases": [
     "207 Squadron",
     "207 Sqdn."
-  ]
+  ],
+  "community_connection": "The ceremony was led by the Reverend (Squadron Leader) Mark Perry from RAF Marham, and was attended by family members of the crew, as well as RAF representatives, including personnel from today's 207 Squadron and RAF Association veterans. Lindsay Alvis, chair of the parish council which organised the ceremony, spoke about the importance of remembering those who serve our nation in peace and war.",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

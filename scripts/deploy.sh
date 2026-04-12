@@ -80,6 +80,32 @@ else
 fi
 echo ""
 
+# --- Step 1b: Section relevancy quality gate ---------------------------------
+RELEVANCY="$REPO_ROOT/scripts/section-relevancy-scorer.py"
+if [[ -f "$RELEVANCY" ]]; then
+  info "Running section relevancy scorer..."
+  python3 "$RELEVANCY"
+  # Run again in dry-run to check if anything was missed
+  REMAINING=$(python3 "$RELEVANCY" --dry-run 2>&1 | grep "Files modified:" | awk '{print $NF}')
+  if [[ "$REMAINING" != "0" ]]; then
+    die "Section relevancy scorer is not idempotent — $REMAINING files still need fixing."
+  fi
+  success "Section relevancy gate passed (idempotent)."
+fi
+
+# --- Step 1c: Crew data quality gate -----------------------------------------
+CREW_CLEANUP="$REPO_ROOT/scripts/crew-data-cleanup.py"
+if [[ -f "$CREW_CLEANUP" ]]; then
+  info "Running crew data cleanup..."
+  python3 "$CREW_CLEANUP"
+  REMAINING=$(python3 "$CREW_CLEANUP" --dry-run 2>&1 | grep "Files modified:" | awk '{print $NF}')
+  if [[ "$REMAINING" != "0" ]]; then
+    die "Crew data cleanup is not idempotent — $REMAINING files still need fixing."
+  fi
+  success "Crew data quality gate passed."
+fi
+echo ""
+
 # --- Step 2: Build -----------------------------------------------------------
 info "Running npm run build..."
 cd "$REPO_ROOT"

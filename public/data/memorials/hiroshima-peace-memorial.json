@@ -3,7 +3,7 @@
   "title": "Hiroshima Peace Memorial",
   "location_name": "Hiroshima",
   "country": "Japan",
-  "narrative": "The iconic Genbaku Dome, preserved as a monument to the devastation of nuclear weapons. While distinct from RAF Bomber Command memorials, it represents the broader context of strategic bombing in WW2.",
+  "narrative": "Hiroshima Peace Memorial Museum A single atomic bomb indiscriminately killed tens of thousands of people, profoundly disrupting and altering the lives of the survivors. The museum is open today 7:30-19:00 (Last entry is 30 min. before closing time) For the safety of the visitors, admission may be temporarily restricted when the museum is crowded. WEB ticket purchase is required to enter the museum at 7:30-8:30 or 17:30-18:30. The ticket counter is closed during these time slots. WEB tickets may be sold out before the last entry (18:30). ------------------------------------------------------ The museum currently receives a large number of visitors, and can become very crowded depending on the time of your visit. March-July & September-November: 7:30–8:30 and 17:30–19:00 (ticket counter and vending machines close at 17:30) August: 7:30–8:30 and 18:30–20:00 (ticket counter and vending machines close at 18:30) December-February: 7:30–8:30 and 16:30–18:00 (ticket counter and vending machines close at 16:30) Web ticket purchase and congestion guidelines Flyer \"Visitor Guide for the Main Building\" – Explore in about 30 Minutes Visitors with other purposes* may enter the museum without waiting in line for tickets. (*Attending special exhibit",
   "memorial_type": "UNESCO World Heritage Site",
   "data_quality": "Stub",
   "contributor": "Charlie Leitheiser",
@@ -27,7 +27,8 @@
         "Preserved in post-explosion condition"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore Hiroshima's poignant Peace Memorial, a haunting testament to nuclear devastation and peace advocacy."
     },
     {
       "source_site": "Hiroshima Peace Memorial Museum",
@@ -38,7 +39,8 @@
         "Official museum and interpretive centre"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Hiroshima Peace Memorial Museum's official interpretations of Genbaku Dome and peace memorials."
     }
   ],
   "what3words": "rollers.points.woods",
@@ -50,5 +52,24 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Museum Opening Hours",
+        "date": "Daily",
+        "description": "The museum is open from 7:30 AM to 7:00 PM (last entry 30 minutes before closing time)."
+      },
+      {
+        "name": "WEB Ticket Purchase Requirement",
+        "date": "7:30-8:30 AM and 5:30-6:30 PM",
+        "description": "WEB tickets are required for entry during these time slots. The ticket counter is closed during these periods."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "Not explicitly stated"
+  },
+  "community_connection": "Thank you for your understanding and cooperation.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

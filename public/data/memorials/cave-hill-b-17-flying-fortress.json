@@ -32,7 +32,8 @@
         "All 10 buried at Lisnabreeny American Cemetery"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of B-17 Flying Fortress 42-97862 crash on Cave Hill in Belfast."
     },
     {
       "source_site": "Belfast Entries",
@@ -43,7 +44,8 @@
         "Memorial located within Belfast Zoo area"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local history of B-17 crash at Cave Hill Memorial, now a historic landmark."
     },
     {
       "source_site": "Amazon (book reference)",
@@ -55,7 +57,8 @@
         "Published book documenting full story"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "The detailed account of the Cave Hill Memorial crash and its significance in '42-97862'."
     }
   ],
   "local_contacts": [
@@ -77,5 +80,86 @@
   "squadron_display_name": "USAAF",
   "squadron_aliases": [
     "USAAF"
-  ]
+  ],
+  "narrative": "On 1 June 1944, B-17 Flying Fortress 42-97862 was on a transfer flight from Gander Bay, Newfoundland, bound for Nutts Corner Airfield, Co. Antrim, where the crew were to be reassigned from the 401st to the 306th Bomb Group. While holding for clearance to land, the aircraft descended into heavy fog and struck the slopes of Cave Hill, Belfast. The bomber burst into flames on impact, and exploding ammunition drove back both rescuers and nearby residents. All ten crew members were killed, among them Pilot Lester Bryan Brooks, Co-Pilot Jeremiah C. Murphy, and Bombardier Leighton B. McKenzie. United States Army soldiers sealed the crash site in the immediate aftermath. The dead were laid to rest at Lisnabreeny American Cemetery.",
+  "crew": [
+    {
+      "name": "Edward Ewing Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph V. Nobilione",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Navigator",
+      "nationality": "American"
+    },
+    {
+      "name": "Wilbur D. Brewer",
+      "rank": "Wilbur",
+      "fate": "Unknown",
+      "role": "Top Turret Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Lawrence E. Dundon",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Radio Operator",
+      "nationality": "American"
+    },
+    {
+      "name": "Robert L. Graves Jr.",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Ball Turret Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Howard A. Hibbler",
+      "rank": "Howard",
+      "fate": "Unknown",
+      "role": "Left Waist Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Lester Bryan Brooks",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Jeremiah C. Murphy",
+      "rank": "co-pilot",
+      "fate": "Killed",
+      "role": "Co-Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Leighton B. McKenzie",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Bombardier",
+      "nationality": "American"
+    },
+    {
+      "name": "Edward Ewing McGill",
+      "rank": "rear waist gunner",
+      "fate": "Killed",
+      "role": "Rear Waist Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Lawrence R. McGrane",
+      "rank": "tail gunner",
+      "fate": "Killed",
+      "role": "Tail Gunner",
+      "nationality": "American"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

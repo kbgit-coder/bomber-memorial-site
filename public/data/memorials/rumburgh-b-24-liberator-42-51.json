@@ -37,7 +37,8 @@
         "US War Memorials reference MemID 2663"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The \"Memorial: Rumburgh Nymph\" B-24 aircraft plaque at US War Memorials."
     },
     {
       "source_site": "American Air Museum in Britain",
@@ -49,7 +50,8 @@
         "Based at USAAF Station 273 (Flixton/RAF Bungay)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore American Air Museum archive for \"Rumburgh Nymph,\" detailing B-24H Liberator's role in 705th Bomb Squadron."
     },
     {
       "source_site": "446th Bomb Group Aviation Museum",
@@ -62,7 +64,8 @@
         "Survivors: 2nd Lt Howard L. Saddler (bombardier) and Sgt Reuben E. Cartwright (gunner)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore \"Rumburgh Nymph\" Memorial page at 446th Bomb Group Aviation Museum."
     }
   ],
   "local_contacts": [
@@ -90,5 +93,67 @@
   "squadron_aliases": [
     "446th BG"
   ],
-  "memorial_access_notes": "A memorial is also located within the church (confirmed by Rumburgh Parish Clerk, April 2026)."
+  "memorial_access_notes": "A memorial is also located within the church (confirmed by Rumburgh Parish Clerk, April 2026).",
+  "narrative": "Returning from an aborted mission to Alençon in northwestern France, B-24H Liberator *Nature's Nymph* of the 705th Bomb Squadron, 446th Bomb Group, got into difficulties over England on 7 June 1944. The crew were forced to abandon the aircraft, which came down at Corner Farm, Rumburgh, Suffolk, at 11:05 hours. Eight of the ten crew members perished: 2nd Lt. Zeeler, 2nd Lt. Stevens, T/Sgt Siegfried Profe, T/Sgt Robert A. McKinley, Sgt Charles W. Tungett, Sgt Charles A. Peck, Sgt Paul Winkleman, and Sgt Louis Zusser. At least two crew members parachuted to safety. Sgt Charles A.",
+  "community_connection": "Below this plaque, the picture of Sgt Charles A. The plaque is not entirely accurate; one crew member who died is unnamed, and at least one name is misspelled.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Role",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Military Charles Arthur Peck",
+      "rank": "Charles Arthur Peck\nMilitary",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robert L. Zeeler",
+      "rank": "2nd Lt.",
+      "fate": "Killed"
+    },
+    {
+      "name": "Lyle A. Stevens",
+      "rank": "2nd Lt.",
+      "fate": "Killed"
+    },
+    {
+      "name": "Siegfried Profe",
+      "rank": "T/Sgt",
+      "fate": "Killed"
+    },
+    {
+      "name": "Robert A. McKinley",
+      "rank": "T/Sgt",
+      "fate": "Killed"
+    },
+    {
+      "name": "Charles W. Tungett",
+      "rank": "SGT",
+      "fate": "Killed"
+    },
+    {
+      "name": "Charles A. Peck",
+      "rank": "SGT",
+      "fate": "Killed",
+      "role": "right waist gunner"
+    },
+    {
+      "name": "Paul Winkleman",
+      "rank": "SGT",
+      "fate": "Killed"
+    },
+    {
+      "name": "Louis Zusser",
+      "rank": "SGT",
+      "fate": "Killed"
+    }
+  ],
+  "memorial_details": "Unveiling of 446th B.G. Memorial (1993): Dedicated to the memory of the 456 airmen killed in action and to those serving at Flixton from 1943 - 1945, unveiled by Bill Davenport, President of the 446th Bomb Group Association during a Group reunion.\n\nA rectangular horizontally oriented plaque on a wooden back board inscribed in English in engraved lettering.\n\nThe people of Rumburgh erected this plaque to honor the bravery of the pilot and crew.\n\nPeck, who flew as right waist gunner, is remembered individually — his photograph was placed beneath the memorial plaque later erected by the people of Rumburgh.",
+  "crash_category": "operational-return",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

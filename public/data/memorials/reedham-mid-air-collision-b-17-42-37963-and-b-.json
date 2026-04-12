@@ -37,7 +37,8 @@
         "Part of 900-plane mission returning from Germany"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "American Air Museum's archive entry for Reedham War Memorial: mid-air collision of B-17G Flying Fortresses in 21st century summary."
     },
     {
       "source_site": "US War Memorials",
@@ -48,7 +49,8 @@
         "US War Memorials reference MemID 2638"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The names of fallen crew members in this US War Memorials registry entry for B-17s 42-37963 and 42-31370 at Reedham."
     },
     {
       "source_site": "Great Yarmouth Mercury",
@@ -61,7 +63,8 @@
         "Lt Warren J. Pease was pilot of 42-37963"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Read about local newspaper's coverage of remembrance events at the Reedham War Memorial."
     },
     {
       "source_site": "Channel 4 / Time Team",
@@ -73,7 +76,8 @@
         "Brought national attention to the memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Time Team's documentary on the WWII aircraft crash site at Reedham Marshes."
     },
     {
       "source_site": "American Air Museum in Britain (personnel)",
@@ -83,7 +87,8 @@
         "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed personnel records of American WWII bomber pilots involved in mid-air collision at Reedham Marshes."
     }
   ],
   "local_contacts": [
@@ -117,5 +122,142 @@
       "role": "Local contributor — memorial information and photographs",
       "date": "2026-04-09"
     }
-  ]
+  ],
+  "narrative": "Crews of two B-17 Flying Fortresses from the 385th Bomb Group were flying a wartime mission from their base at Great Ashfield when the two aircraft collided in mid-air over Reedham Marshes, Norfolk, on 21 February 1944. Commander John Hutchison led one aircraft; Commander Warren Pease, of the 449th Bomber Squadron, commanded the other. The collision proved catastrophic: 21 of the 22 airmen aboard both aircraft were killed. Among those lost were William Gill Jr and John Terrace. Only one man survived the disaster.",
+  "community_connection": "The story is connected to a memorial dedicated to these bombers and their crews.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Diversionary Raid on Diepholz Aircraft Depot",
+        "date": "February 21, 1944",
+        "description": "34 aircraft from the 385th Bomber Group, 4th Bombardment Wing, 8th Air Force carried out a raid on Diepholz aircraft depot in N.W. Germany while the main force attacked an aircraft components works at Brunswick in Lower Saxony."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "William Gill Jr",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Franklin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Junior",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gail",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Hutchison",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Commander",
+      "nationality": "American"
+    },
+    {
+      "name": "Warren Pease",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Commander (449th Bomber Squadron)",
+      "nationality": "American"
+    },
+    {
+      "name": "Hutchinson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Terrace",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eugene St",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edward",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bernard Kaplan Navigator",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edmond",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Emilio",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter Bobulsky Jr Waist",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frank",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bernard Kaplan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Staf William Gill Jr",
+      "rank": "William Gill Jr\nStaf",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Staff Peter Bobulsky Jr",
+      "rank": "Peter Bobulsky Jr\nStaff",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clarence Soucek",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Bombardier (temporary)",
+      "nationality": "American"
+    },
+    {
+      "name": "Ed Gamble",
+      "rank": "Unknown",
+      "fate": "Unknown",
+      "role": "Bombardier (original)",
+      "nationality": "American"
+    },
+    {
+      "name": "Bud Creegan",
+      "rank": "Unknown",
+      "fate": "Killed",
+      "role": "Cameraman",
+      "nationality": "American"
+    }
+  ],
+  "memorial_details": "From the flat plains of Norfolk to the volcanic island of Nevis in the West Indies, the Time Team dig up secrets of the past, and dispell a few myths along the way Burslem, Stoke on Trent: Time Team investigate the site of Josiah Wedgwood's first ever factory First shown: Sun 3 Jan 1999 | 51 mins Papcastle, Cumbria: Papcastle, a small village outside Cockermouth in Cumbria, boasts a Roman fort First shown: Sun 10 Jan 1999 | 51 mins Thetford, Norfolk: The site of Thetford Grammar School in Norfolk stands on the site of a Dominican friary First shown: Sun 17 Jan 1999 | 51 mins Cheddar Gorge, Somerset: Tony and the Team look for evidence of Stone Age man at Cooper's Hole in Cheddar Gorge First shown: Sun 24 Jan 1999 | 51 mins Plympton, Devon: Tony and the Team dig up back gardens near Plympton in Devon's ruined Norman castle First shown: Sun 31 Jan 1999 | 51 mins Smallhythe, Kent: Tony and the Team search for Henry V's lost dockyard, miles from the sea First shown: Sun 7 Feb 1999 | 51 mins Beauport Park, East Sussex: Why is there a well-preserved Roman bathhouse on a Sussex golf course?",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

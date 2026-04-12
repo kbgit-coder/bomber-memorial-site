@@ -35,7 +35,8 @@
         "Wreckage fell down north face of Pen yr Ole Wen"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Anson Mk.I N9855's tragic air accident at RAF Halfpenny Green in 1943."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -46,7 +47,8 @@
         "Carneddau mountains location confirmed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed documentation and photos of Anson N9855 crash remnants at Snowdonia's Carneddau mountains."
     },
     {
       "source_site": "Geograph",
@@ -56,7 +58,8 @@
         "Photographic evidence of wreckage on mountain"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Photographic Record of Avro Anson Wreckage and Memorial Fragments at Pen yr Ole Wen Mountain Crash Site."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -69,7 +72,8 @@
         "Commonwealth crew composition"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore aviation safety network's detailed report on Avro Anson N9855 crash in 1943."
     }
   ],
   "local_contacts": [
@@ -91,5 +95,50 @@
   "squadron_display_name": "3 AFU",
   "squadron_aliases": [
     "3 (O)AFU"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Ernest Andrew Hoagg",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "RCAF Pilot",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "John Hedgley Lewis",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "RAAF Navigator",
+      "nationality": "Australian"
+    },
+    {
+      "name": "William Gavin",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "nationality": "British"
+    },
+    {
+      "name": "Leslie John Hill",
+      "rank": "Sergeant",
+      "fate": "Unknown",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Douglas John Roberts",
+      "rank": "Sergeant",
+      "fate": "Unknown",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
+    }
+  ],
+  "narrative": "Flying a training sortie with 3 (O)AFU, Anson Mk.I N9855 struck the slopes of Pen yr Ole Wen in Snowdonia on 8 November 1943. The aircraft was piloted by Sergeant Ernest Andrew Hoagg of the Royal Canadian Air Force. All five crew members perished: Sergeant John Hedgley Lewis, a Royal Australian Air Force navigator, and British airmen Sergeant William Gavin, Sergeant Leslie John Hill, and Sergeant Douglas John Roberts. The crew drew from three nations — Canada, Australia, and Britain — serving together in a single training unit far from their respective homes.",
+  "remembrance": {
+    "events": []
+  },
+  "memorial_details": "Memorial Stone Laying (May 2015): Air cadets and staff from 165 (Castle Bromwich) Squadron laid a memorial stone at the crash site. The memorial was presented by Warwickshire and Birmingham Wing May 2015 Air Training Corps and lists the crew with a picture of an Anson.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

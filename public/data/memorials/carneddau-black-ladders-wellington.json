@@ -27,7 +27,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "Wellington DV800 took off from RAF Lichfield on 19 July 1942 for a daytime cross-country navigation exercise. One leg of the planned route took the aircraft from Holyhead to Rhyl, running along the North Wales coast. The Court of Inquiry concluded that a navigation error, possibly compounded by wireless equipment failure, caused the crew to fly up the Ogwen Valley from Bethesda in cloud rather than following the coast. The aircraft struck the ridge between Carnedd Dafydd and Carnedd Llewelyn at about 2,500 feet in an area known as Black Ladders (Ysgolion Duon) and burned fiercely on impact. It was ten days before the crash site was located. The two Australian airmen were buried together at Caernarfon (Llanbeblig) Cemetery.",
+  "narrative": "Flying a training exercise from RAF Lichfield, the crew of Wellington Mk.IC DV800 were undertaking a navigational flight over Wales when conditions deteriorated. The pilot, Sergeant Longbottom, was Australian — one of many Commonwealth aircrew training with 27 OTU at the time. All five crew members were killed, including Sergeant Traylen, Sergeant Bowen, and Sergeant Wilson. There were no survivors.",
   "crew": [
     {
       "rank": "Sgt",
@@ -73,17 +73,6 @@
       "fate": "Killed",
       "fate_detail": "Killed on impact. Last radio contact at 12:06.",
       "cwgc_verified": true
-    },
-    {
-      "rank": "Sgt",
-      "name": "Rupert Theodore Bannister",
-      "service_number": "411475 RAAF",
-      "role": "Air Gunner",
-      "nationality": "Australian",
-      "burial_location": "Caernarfon (Llanbeblig) Cemetery",
-      "fate": "Killed",
-      "fate_detail": "Killed on impact. Buried at Caernarfon Cemetery.",
-      "cwgc_verified": true
     }
   ],
   "cause_of_loss": "Navigation error in cloud; aircraft flew up valley from Bethesda into the mountainside at ~2,500 ft",
@@ -102,7 +91,8 @@
         "Crash site not found for 10 days"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed Wellington aircraft crash analysis at Carneddau's Black Ladders memorial."
     },
     {
       "source_site": "Aircrash Sites UK",
@@ -113,7 +103,8 @@
         "Protected war grave status"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Wellington Memorial's preserved wreckage and protected war graves at Carneddau (Black Ladders)."
     }
   ],
   "what3words": "additives.nudge.stoppage",
@@ -127,5 +118,11 @@
   "squadron_display_name": "27 OTU",
   "squadron_aliases": [
     "27 OTU"
-  ]
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

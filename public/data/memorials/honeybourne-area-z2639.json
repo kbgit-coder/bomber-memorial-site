@@ -38,7 +38,8 @@
         "Memorial located at Broadway, Worcestershire"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Poignant memorial honoring five fallen Whitley bomber crew members in Honeybourne area."
     },
     {
       "source_site": "Wartime Memories Project",
@@ -49,7 +50,8 @@
         "Multiple training losses recorded in area"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "WWII history of RAF Honeybourne's No. 24 OTU at Whitley Memorial via Wartime Memories Project."
     },
     {
       "source_site": "Aviation Archaeology",
@@ -60,7 +62,8 @@
         "High training attrition documented"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Comprehensive records of personnel losses from No. 24 Operational Training Unit at Honeybourne area Whitley Memorial."
     }
   ],
   "local_contacts": [
@@ -87,5 +90,1922 @@
   "squadron_display_name": "24 OTU",
   "squadron_aliases": [
     "24 OTU"
-  ]
+  ],
+  "narrative": "On 2 June 1943, Whitley Z2639 from No. 24 Operational Training Unit, based at RAF Honeybourne, came down in the Honeybourne area of Warwickshire. The aircraft was crewed by trainee airmen undergoing operational preparation at the unit. Pilot Morrisson was among those aboard, as was airman Selwyn Henry Alcock. The cause of the crash is not recorded in available sources. All crew members were killed.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Conversion course from Hampden to Whitley",
+        "date": "April 1942",
+        "description": "12 pupils, presumably newly screened instructors"
+      },
+      {
+        "name": "Courses progressing",
+        "date": "December 1943",
+        "description": "22 pilots, 20 navigators, 20 bomb aimers, 22 WO/AGs, 46 A/Gs posted"
+      },
+      {
+        "name": "Airfield Opening",
+        "date": "3rd of December 1940",
+        "description": "RAF Honeybourne opened for training Canadian pilots."
+      },
+      {
+        "name": "Aircraft Lost",
+        "date": "17th Nov 1944",
+        "description": "An aircraft was lost on this date, but the specific details are not provided in the text."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Flight Lieutenant",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flying Officer",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flight Sergeant",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Screened Warrant Officer",
+      "rank": "Warrant Officer\nScreened",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Assumed Doormaal",
+      "rank": "Acree\nAssumed",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Affleck",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Selwyn Henry Alcock",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Appleton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Barnden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pilot Morrisson",
+      "rank": "Beeston\nPilot",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Black",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Victor Bone Alexander",
+      "rank": "Alexander\n            Victor Bone",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Griffin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bridge Milton Robert",
+      "rank": "Milton Robert\n            Bridge",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brodie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Assume Brooks",
+      "rank": "Brooks\nAssume",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cecil Henry Brown",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bruce Stuart Morris",
+      "rank": "Stuart Morris\n            Bruce",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bunting",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bush",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rea",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Barnard Ronald William",
+      "rank": "William Bernard Byers",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Cartwright",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clow",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Coppin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cresswell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Michael Anglin",
+      "rank": "Anglin",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gerald Herbert Cruwys Croix",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "David Alexander Cumberland",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Drew",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Walter Norman Drummond",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Kenneth Easson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eastment",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenneth Roland Fulton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Preston Randolph Alexander",
+      "rank": "Preston",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gunning",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hanlon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hassell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Thorburn Hewitt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hogg George Frank",
+      "rank": "Hogg",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Holland",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Hughes Alfred",
+      "rank": "Hughes",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frank Joseph Huntley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Navigator Skuthorp",
+      "rank": "Hutton\nNavigator",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Laurence",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leggatt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leith",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Alexander Leslie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gordon Richard Lind",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Loader",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Richard Robinson Lord",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Henry James Pringle",
+      "rank": "Pringle",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Luff Richard Norman Purnell",
+      "rank": "Richard Norman Purnell\n            Luff",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mackie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mansbridge",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mason",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Brian Monro",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cecil Edgar Robertson Parsons",
+      "rank": "Parsons",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pullin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ratcliffe",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Reynolds",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Arthur Russell Kenneth",
+      "rank": "Russell",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sanderson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sargent Eric Wilford",
+      "rank": "Eric Wilford\n            Sargent",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Scrivens",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sismore",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frederick Curtis Smith",
+      "rank": "Smith",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Rendol Snell Charles",
+      "rank": "Charles\n            Rendol Snell",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Strutt Ralph Adrian",
+      "rank": "Ralph Adrian\n            Strutt",
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Allen Thompson",
+      "rank": "Thompson",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tugwell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vaxexon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vanexan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vyse",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenneth Frank Ward",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Whitcher",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Williams",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Intelligence Wilson",
+      "rank": "Wilson",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Samuel Zareikin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Maurice Taggard Adamson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ashcroft",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Barritt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "March Boggon",
+      "rank": "Boggon\nMarch",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Intelligence Hanstack",
+      "rank": "Boming\nIntelligence",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Boning",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Douglas",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Duffield Walter Gordon",
+      "rank": "Walter Gordon\n            Duffield",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fairburn",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Fitzgerald",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenyon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Groom",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tech Singleton",
+      "rank": "King\nTech",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Signals Ling",
+      "rank": "Ling\nSignals",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lloyd",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hugh Hamilton Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mellowes",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "David Harcourt Mellows",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Station Moyle",
+      "rank": "Moyle\nStation",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Parkinson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Watson Hunter Rose",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Alwyn Weightman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Walter Henry Westgate",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bird",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Broom",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dovell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gower",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Green",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hosking",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lee",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Luxton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Maitland",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Major",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hoyle",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wyatt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Allen",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bullock",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Campbell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Observer Valentine",
+      "rank": "Harris",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hibbert",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lipshitz",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Neil Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leonard Rowlinson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chisholm",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wann",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Raymond Sydney Braley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harry Robert Jones",
+      "rank": "Jones",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vernard Donahue Walter",
+      "rank": "Walter\n            Vernard Donahue",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lindsay",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bomb Edwards",
+      "rank": "France\nBomb",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hinke",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Billingsley Hitchcock Roger",
+      "rank": "Roger\n            Billingsley Hitchcock",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Charman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Baxter",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Teague",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ware",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Milan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sale",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Elliott",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fear",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Graham",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lancashire",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Millar",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Observer Baldock",
+      "rank": "Adams\nObserver",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hull",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lambert",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bowman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pettigrew",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Virgo",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Wade",
+      "rank": "Wade",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Maughan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Perry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wagner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Adams",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Templar",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Coltherd",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cross",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Prothero",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mc Bernard Francis",
+      "rank": "Bernard Francis\n            Mc",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shufflebotham",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Powell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ridgway",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sendell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Carey Arthur",
+      "rank": "Carey",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gordon Babbage",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Marsden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Beheils",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Power",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dargavel",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Barry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Temple",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jeffreys",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Keedwell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Burgess",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Simpson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lewis",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Perkins",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pennicott",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shannon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Holmes",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Presumed Hutchinson",
+      "rank": "Hutchinson\nPresumed",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Phelam",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Oliver",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gibson  Stuart  Paul",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lemmon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shelton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kirk",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Heslop",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jeffrey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Barker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Anderson Wallace Dorrance",
+      "rank": "Wallace Dorrance\n            Anderson",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Martin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lucas",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roache",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pinkerton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Oddie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cavanagh",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leeper",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Topp",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Daulby",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mackenzie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Price",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Steele",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roadley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Short",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Farley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ireland",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Laws",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Beveridge",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roadly",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Winchester",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Key",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pekin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Richie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shackleton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sparkes",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ashford",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wissler",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dare",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hall",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gaston",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lindsey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenneth Cooper",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Studer",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Walter Edward Dickson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dunn",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harris Gordon Hagen",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jennings",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Donald Herbert Kelly",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Landry Victor",
+      "rank": "Victor\n            Landry",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Heinig",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clark",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Earl Mc Hector",
+      "rank": "Hector\n            Earl Mc",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edward George Miller",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Richard Stanley Phillips",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Studor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Armour",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Buck",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Potts",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sinclair",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Craig",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chase",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chalmers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Nelson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Burge",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rousseau",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Giles",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Cozens",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edwin Leppert Spencer",
+      "rank": "Spencer",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eckoff",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sheerman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Royal Norwegian Air Outhbertson",
+      "rank": "Outhbertson\nRoyal Norwegian Air",
+      "fate": "Unknown"
+    },
+    {
+      "name": "King",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Morrison",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Grieve",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Macdonald",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mills",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Daywinter",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Coathup",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Turner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Taylor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shank",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Broder",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sturmy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frampton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Michael Blair David",
+      "rank": "David\n            Michael Blair",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gray",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wright",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Francis Newton Salisbury Fearneley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Godfrey Purdon Fuller",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Humphreys",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Humphries",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Keer",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Keith Patman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Keith Douglas Ross",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thrasher",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Franklin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vincent",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fetherston",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rognan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lubold",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edward Code John",
+      "rank": "John\n            Edward Code",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lossing",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Stark",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gustafson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Graeme Mac Norman",
+      "rank": "Mac",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gibson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robinson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rance Tommy",
+      "rank": "Rance",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Wood",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Crowdy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gibb",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robertson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hawkins",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hawtin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tindall",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Virtue",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Harold Calder",
+      "rank": "Calder",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tait",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph John Raymond Johnson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sparrow",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Longstaffe",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Millman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hayward",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chirks",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pearson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gardner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gardiner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lynch",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mackeracher",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Shellton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Imrie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pitzek",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hannah",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tees",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fraser",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Friedman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gellner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Irish",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Blatchford",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gregson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hoffman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gloeckler",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mc Duncan Anderson",
+      "rank": "Duncan Anderson\n            Mc",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wilding",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tease",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "David Webster Goodwin",
+      "rank": null,
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Jowett",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ardrey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bucke",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clarke",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Coleman",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Courtois",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Denington",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Evoy",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Floyd",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fosliff",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fox",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Guse",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hartley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Head",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Herbert",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hodgins\nSgt\nHodson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hogan Richard William",
+      "rank": "Hogan",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kernaghan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jamieson\nSgt\nPeppin",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mahon\nSgt\nMeyer\nSgt",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Myers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Armitage",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brotherton Fullerton Edward",
+      "rank": "Edward\n            Brotherton Fullerton",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hobbs",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jospeh Mc Cyril",
+      "rank": "Cyril\n            Jospeh Mc",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wallace Watson Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Murray James Lowther",
+      "rank": "James Lowther\n            Murray",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Badstead",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gillies",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kidston",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Matthews",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Tonelli",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Norman Charles Dumont",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hannon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Alan Raymond Wilde",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bouohler",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dickie Gordon Douglas",
+      "rank": "Gordon Douglas\n            Dickie",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bedford",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bell Theodore",
+      "rank": null,
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Hill Pat",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Johns",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kershaw",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sharpe Robin",
+      "rank": null,
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "not explicitly listed",
+      "rank": "Flying Officer",
+      "fate": "Unknown",
+      "role": "pilot"
+    },
+    {
+      "name": "Stephen Joshua",
+      "rank": "F/Lt.",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "James Christopher",
+      "rank": "Sgt.",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Dillis McBride",
+      "rank": "P/O",
+      "fate": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Harold Stanley Wigley",
+      "rank": "F/S",
+      "fate": "Unknown",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 3,
+  "narrative_source": "generated-claude-sonnet"
 }

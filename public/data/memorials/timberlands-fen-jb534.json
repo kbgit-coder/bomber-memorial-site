@@ -34,7 +34,8 @@
       "summary": "Commonwealth War Graves Commission story page for Pilot Officer Reginald William Dickerson of 106 Squadron. Details his final flight on Lancaster JB534 (ZN-K) to Berlin on 15/16 February 1944, where the aircraft crashed at Timberland Fen while avoiding another Lancaster in the circuit.",
       "key_details": "Dickerson was age 21. Aircraft departed at 1720 hours for Berlin. On return, while circling Metheringham waiting for landing permission, it banked hard to avoid a mid-air collision, stalled and crashed at 01:10. Five crew killed on impact; wireless operator Sgt Walter Hills died of injuries later that day. Two crew survived with injuries.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant story of RAF Pilot Officer Reginald William Dickerson's heroic last mission in Lancaster JB534 during WWII."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -42,7 +43,8 @@
       "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster JB534 at Timberlands Fen, catalogued as memorial reference 84235.",
       "key_details": "Formally registered in the IWM national war memorials database. Memorial plaque at the crash site in Timberland Fen, Lincolnshire.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the poignant tribute to Lancaster JB534 crew at Timberlands Fen Memorial."
     },
     {
       "source_site": "Geograph",
@@ -50,7 +52,8 @@
       "summary": "Photograph and description of the memorial plaque to the crew of Lancaster JB534 at Timberlands Fen, showing the memorial in its fenland setting near Metheringham.",
       "key_details": "Memorial plaque is publicly accessible in the fen landscape. Crew included P/O Dickerson (pilot, age 21), Sgt Boffey (flight engineer, age 20), Fg Off Lewis (navigator, age 25), F/Sgt Pauley (bomb aimer, age 30), Sgt Hills (wireless operator, age 21).",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "A poignant tribute to Lancaster JB534 crew at serene Timberlands Fen, featuring an evocative memorial plaque amidst tranquil fens near Metheringham."
     }
   ],
   "local_contacts": [
@@ -88,9 +91,13 @@
       "rank": "—"
     },
     {
-      "name": "R. W. Dickerson",
+      "name": "Reginald William Dickerson",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "Pilot Officer",
+      "role": "pilot",
+      "age": 21,
+      "nationality": "British",
+      "burial_location": "THETFORD CEMETERY"
     },
     {
       "name": "W. C. Hills",
@@ -124,5 +131,23 @@
     }
   ],
   "memorial_details": "Name: Avro Lancaster JB534 (Damaged early 2025, currently removed for repair)\nType: Board / Plaque / Tablet\nDescription: A pitched wooden framed backboard holding a pitched metal plaque. At the apex of the plaque is the badge of 106 Squadron R.A.F. and a colour picture of a Lancaster bomber in flight. Below in blue and black writing are details of the crash and the crew members. The whole is attached to an adjacent gatepost with wooden batons and bolts.\nInscription: IN MEMORY OF THE CREW OF JB534 ZN-K,/ 106 SQN, RAF METHERINGHAM/ AT 17.20 HOURS ON THE 15TH FEBRUARY 1944, LANCASTER JB534 ZN-K/ TOOK OFF FROM RAF METHERINGHAM, DESTINATION BERLIN./ SEVEN HOURS LATER, AFTER SAFELY RUNNING THE GAUNTLET OF/ FORMIDABLE GERMAN DEFENCES, ZN-K WAS IN THE CIRCUIT WAITING TO/ LAND. IN AVOIDING A COLLISION WITH ANOTHER LANCASTER,/ CONTROL WAS LOST RESULTING IN THE AIRCRAFT CRASHING IN THE/ ADJACENT FIELD. FIVE CREW DIED AND TWO WERE SERIOUSLY INJURED./ CREW/ (names)/ FOR OUR TOMORROW THEY GAVE THEIR TODAY./ Erected and Maintained by Friends of Metheringham Airfield - metheringhamairfield.com\nLocation: On a gatepost set 3 metres back from the road Timberland Drove Timberland North Kesteven Lincolnshire LN4 3RG England\nGrid Ref: TF 14154 59015\nCoordinates: 53.116107775341,-0.295851099265\nPhotos: https://media.iwm.org.uk/ciim5/memorials/71/639/large_lancaster_jb534.jpg; https://media.iwm.org.uk/ciim5/memorials/71/640/large_lancaster_jb534_in_context.jpg",
-  "narrative": "IN MEMORY OF THE CREW OF JB534 ZN-K,/ 106 SQN, RAF METHERINGHAM/ AT 17.20 HOURS ON THE 15TH FEBRUARY 1944, LANCASTER JB534 ZN-K/ TOOK OFF FROM RAF METHERINGHAM, DESTINATION BERLIN./ SEVEN HOURS LATER, AFTER SAFELY RUNNING THE GAUNTLET OF/ FORMIDABLE GERMAN DEFENCES, ZN-K WAS IN THE CIRCUIT WAITING TO/ LAND. IN AVOIDING A COLLISION WITH ANOTHER LANCASTER,/ CONTROL WAS LOST RESULTING IN THE AIRCRAFT CRASHING IN THE/ ADJACENT FIELD. FIVE CREW DIED AND TWO WERE SERIOUSLY INJURED./ CREW/ (names)/ FOR OUR TOMORROW THEY GAVE THEIR TODAY./ Erected and Maintained by Friends of Metheringham Airfield - metheringhamairfield.com"
+  "narrative": "On February 15, 1944, Lancaster JB534 of 106 Squadron RAF, based at RAF Metheringham, embarked on a mission to Berlin. After successfully navigating through German defenses, the aircraft was in its landing circuit seven hours later when control was lost while avoiding a collision with another Lancaster. The plane crashed into an adjacent field, resulting in five crew fatalities and two serious injuries. This memorial honors their sacrifice: \"For our tomorrow, they gave their today.\"",
+  "inscription": "IN MEMORY OF THE CREW OF JB534 ZN-K,\n106 SQN, RAF METHERINGHAM\nAT 17.20 HOURS ON THE 15TH FEBRUARY 1944, LANCASTER JB534 ZN-K\nTOOK OFF FROM RAF METHERINGHAM, DESTINATION BERLIN.\nSEVEN HOURS LATER, AFTER SAFELY RUNNING THE GAUNTLET OF\nFORMIDABLE GERMAN DEFENCES, ZN-K WAS IN THE CIRCUIT WAITING TO\nLAND. IN AVOIDING A COLLISION WITH ANOTHER LANCASTER,\nCONTROL WAS LOST RESULTING IN THE AIRCRAFT CRASHING IN THE\nADJACENT FIELD. FIVE CREW DIED AND TWO WERE SERIOUSLY INJURED.\nCREW\n(names)\nFOR OUR TOMORROW THEY GAVE THEIR TODAY.\nErected and Maintained by Friends of Metheringham Airfield - metheringhamairfield.com",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Damaging Event",
+        "date": "early 2025",
+        "description": "The Avro Lancaster JB534 was damaged."
+      },
+      {
+        "name": "Memorial Service",
+        "date": "04/12/2023",
+        "description": "Commemoration of Pilot Officer Reginald William Dickerson at Thetford Cemetery"
+      }
+    ]
+  },
+  "community_connection": "The image was created and shared by Colin Murray, suggesting a personal connection or community involvement in preserving this historical artifact. His story continues in the next paragraph, but it's clear that his community connection lies in Thetford, where he was born and raised, and where his family resided before his father's death in 1942.",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 5
 }

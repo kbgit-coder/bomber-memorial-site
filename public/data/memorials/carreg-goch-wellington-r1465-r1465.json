@@ -34,11 +34,11 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "In the early hours of 6 July 1942, an all-Canadian crew from 22 OTU at Wellesbourne Mountford were on a night cross-country navigation exercise. Fl/Sgt Kemp descended from 10,000 feet in heavy cloud to fix position visually. The Wellington struck the summit of Waun Rydd at approximately 2,500 feet. All five crew were killed and buried together at Hereford Cemetery in adjacent graves in Plot A. The memorial cairn on Waun Rydd, built in 1980 by Tredegar Comprehensive School students, is the highest-situated war memorial in the UK.",
+  "narrative": "Fl/Sgt Kemp descended from 10,000 feet in heavy cloud to fix position visually. The Wellington struck the summit of Waun Rydd at approximately 2,500 feet. All five crew were killed and buried together at Hereford Cemetery in adjacent graves in Plot A.",
   "crew": [
     {
       "rank": "Fl/Sgt",
-      "name": "John Beverley Kemp",
+      "name": "Flt Sgt John Beverley Kemp",
       "service_number": "R88687 RCAF",
       "age": 21,
       "role": "Pilot",
@@ -50,7 +50,7 @@
     },
     {
       "rank": "Fl/Sgt",
-      "name": "Ernest Edward Mittell",
+      "name": "Flt Sgt Ernest Edward Mittell",
       "service_number": "R71725 RCAF",
       "age": 22,
       "role": "Observer",
@@ -61,7 +61,7 @@
     },
     {
       "rank": "Sgt",
-      "name": "Kenneth Ferguson Yuill",
+      "name": "Sgt Kenneth Ferguson Yuill",
       "service_number": "R106035 RCAF",
       "age": 30,
       "role": "Observer",
@@ -73,7 +73,7 @@
     },
     {
       "rank": "Fl/Sgt",
-      "name": "Harold Creighton Beatty",
+      "name": "Flt Sgt Harold Crighton Beatty",
       "service_number": "R75332 RCAF",
       "age": 28,
       "role": "Wireless Operator/Air Gunner",
@@ -84,7 +84,7 @@
     },
     {
       "rank": "Sgt",
-      "name": "James Patrick Hayes",
+      "name": "Sgt James Patrick Hayes",
       "service_number": "R82352 RCAF",
       "age": 22,
       "role": "Rear Air Gunner",
@@ -98,7 +98,7 @@
   "longitude": -3.7159,
   "cause_of_loss": "Pilot descended from 10,000 ft in heavy cloud to fix position; Wellington struck summit of Waun Rydd",
   "operation_type": "Training",
-  "memorial_details": "The highest-situated war memorial in the UK, at approximately 2,500 feet. Built in 1980 by Tredegar Comprehensive School. Accessible via 2-3 hour walk from Talybont-on-Usk or via Blaen-y-Glyn waterfalls trail (~8 km loop).",
+  "memorial_details": "The highest-situated war memorial in the UK, at approximately 2,500 feet. Built in 1980 by Tredegar Comprehensive School. Accessible via 2-3 hour walk from Talybont-on-Usk or via Blaen-y-Glyn waterfalls trail (~8 km loop).\n\nThe memorial cairn on Waun Rydd, built in 1980 by Tredegar Comprehensive School students, is the highest-situated war memorial in the UK.",
   "external_narratives": [
     {
       "source_site": "Wandering Welsh Girl",
@@ -109,7 +109,8 @@
         "Wreckage still visible"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the UK's highest war memorial at Carreg Goch (Wellington R1465)."
     },
     {
       "source_site": "Adventure Britain",
@@ -119,7 +120,8 @@
         "Route details via Blaen-y-Glyn waterfalls"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed route and captivating photos of the Carreg Goch Bomber Memorial in Wellington R1465 on Adventure Britain."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -129,7 +131,8 @@
         "Date confirmed as 6 July 1942"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore official aviation safety report on Wellington R1465 bomber memorial incident."
     },
     {
       "source_site": "Countryfile",
@@ -139,7 +142,8 @@
         "Multiple crash sites in the area noted"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accounts of historic Brecon Beacons crash sites at the Memorial: Carreg Goch (Wellington R1465) Bomber Memorial link."
     }
   ],
   "what3words": "prepped.nuns.bundles",
@@ -153,5 +157,7 @@
   "squadron_display_name": "22 OTU",
   "squadron_aliases": [
     "22 OTU"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

@@ -41,7 +41,8 @@
         "Nine crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the poignant Memorial of Reigate Hill Fortress honoring fallen USAAF airmen."
     },
     {
       "source_site": "Surrey Hills Arts",
@@ -54,7 +55,8 @@
         "Contains molten metal from crash site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The 'Wing Tips' memorial sculpture by Surrey artist Roger Day at Reigate Hill Fortress."
     },
     {
       "source_site": "Surrey Hills National Landscape",
@@ -66,7 +68,8 @@
         "Ongoing Anglo-American commemoration"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Attend 80th Anniversary Commemoration: Discover Remembrance Event for Fallen Crew Members at Reigate Hill Fortress Memorial."
     },
     {
       "source_site": "Imperial War Museums",
@@ -76,7 +79,8 @@
         "IWM memorial reference 73208"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed history and significance of the Reigate Hill Fortress Memorial via the IWM War Memorials Register entry."
     },
     {
       "source_site": "US War Memorials",
@@ -89,7 +93,8 @@
         "Base: Grafton Underwood, Northamptonshire"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Crew names of US War Memorials' Memorial: Griffin, Geller, Runyon, Manbeck, Jeffrey, and others at Reigate Hill Fortress."
     },
     {
       "source_site": "Wings Aviation Museum",
@@ -99,7 +104,8 @@
         "Part of Wings Aviation Museum aircrew memorials collection"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore B-17G 43-39035's comprehensive biography and tragic crash details at Wings Aviation Museum's dedicated memorial page."
     }
   ],
   "local_contacts": [
@@ -122,6 +128,96 @@
   "squadron_aliases": [
     "USAAF"
   ],
-  "memorial_details": "Name: Boeing B-17 Flying Fortress 43-39035\nType: Seat\nDescription: Dedicatory wooden bench with metal plaque. Also a memorial sculpture, carved from an ancient Surrey oak tree with some metal from the crash buried in the sculpture.\nInscription: PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF/THE NINE U.S. AIRMEN WHO DIED HERE IN 1945/\nLocation: To the west of Reigate Fort. Reigate Hill Reigate Reigate And Banstead Surrey RH2 9RN England\nGrid Ref: TQ 25459 52078\nCoordinates: 51.254075825214,-0.203582205137\nPhotos: https://media.iwm.org.uk/ciim5/memorials/40/774/large_73208a_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/776/large_73208c_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/775/large_73208b_david_ayling_sept_2017.jpg",
-  "narrative": "PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF/THE NINE U.S. AIRMEN WHO DIED HERE IN 1945/"
+  "memorial_details": "Name: Boeing B-17 Flying Fortress 43-39035\nType: Seat\nDescription: Dedicatory wooden bench with metal plaque. Also a memorial sculpture, carved from an ancient Surrey oak tree with some metal from the crash buried in the sculpture.\nInscription: PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF/THE NINE U.S. AIRMEN WHO DIED HERE IN 1945/\nLocation: To the west of Reigate Fort. Reigate Hill Reigate Reigate And Banstead Surrey RH2 9RN England\nGrid Ref: TQ 25459 52078\nCoordinates: 51.254075825214,-0.203582205137\nPhotos: https://media.iwm.org.uk/ciim5/memorials/40/774/large_73208a_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/776/large_73208c_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/775/large_73208b_david_ayling_sept_2017.jpg\n\nThe memorial sculpture, created by Surrey artist Roger Day was unveiled on the 70th anniversary of the crash.\n\nThe memorial sculpture, created by Surrey artist Roger Day, was unveiled on the 70th anniversary of the crash.\n\nThe sculpture, dedicated on the 70th anniversary of the crash, was created by Surrey-based wood sculptor Roger Day.\n\nMemorial Display (Sept 2017): Boeing B-17 Flying Fortress 43-39035 was displayed as a memorial.\n\nExhibition (Not specified): Display of parts from the aircraft at Reigate Manor Hotel.\n\nUnveiling of the Memorial (70th anniversary of the crash (March 19, 2015)): The memorial sculpture was unveiled. Created by Surrey artist Roger Day from ancient Surrey oak, it includes metal recovered from the crash site and is placed to match the aircraft's wingspan.",
+  "narrative": "A USAAF B-17 Flying Fortress was lost over Reigate Hill, Surrey, carrying both regular aircrew and US Air Attaché Colonel Dan Benson. Pilot Robert S Griffin, 24 years old, was in command; co-pilot Herbert S Geller, Royal Runyon, Robert Manbeck, Thomas Hickey, and Philip were also among those aboard. The cause of the crash is not recorded in available sources. All crew members were killed. The site is today marked by a memorial sculpture titled *Wing Tips*, created by Surrey artist Roger Day, honouring those who died here.",
+  "inscription": "PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF\nTHE NINE U.S. AIRMEN WHO DIED HERE IN 1945\n",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Public Memorial Event on Reigate Hill",
+        "date": "20th March",
+        "description": "A service featuring a wreath-laying ceremony at the crash site. US Air Attaché Lieutenant Colonel Dan Benson presented a wreath, along with the Head Boy and Head Girl of The Royal Alexandra and Albert school."
+      },
+      {
+        "name": "Memorial Service",
+        "date": "19th March 1945",
+        "description": "Dedication to the crew of B-17G 43-39035 who lost their lives in a crash on Reigate Hill, Surrey UK."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "20th March"
+  },
+  "community_connection": "Molten metal recovered from the crash site is incorporated into the sculpture.",
+  "crew": [
+    {
+      "name": "Philip",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robert Manbeck Robert Manbeck",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Herbert S Geller",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Co-pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Royal Runyon",
+      "rank": "Royal",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thomas Hickey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Colonel Dan Benson",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "US Air Attaché",
+      "nationality": "American"
+    },
+    {
+      "name": "Wing Tip Photo",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wing Tips",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robert S Griffin",
+      "rank": "Griffin",
+      "fate": "Unknown",
+      "role": "Pilot",
+      "nationality": "American",
+      "age": 24
+    },
+    {
+      "name": "Griffins",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Staff Sergeant Robert Manbeck",
+      "rank": "Robert Manbeck\nStaff Sergeant",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hickey",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

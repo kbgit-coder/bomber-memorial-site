@@ -35,7 +35,8 @@
         "Impact on precipitous eastern face at 611m"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of B-17G crash, including flight path, circumstances, and victim identifications."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -45,7 +46,8 @@
         "IWM memorial reference 106068"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed record of Beinn Edra B-17 Flying Fortress crash, including site location and crew tribute."
     },
     {
       "source_site": "Wikipedia",
@@ -57,7 +59,8 @@
         "Wreckage scattered across slopes below summit"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of 1945 Beinn Edra air disaster, including flight path, weather conditions, and wreckage distribution."
     },
     {
       "source_site": "West Highland Free Press",
@@ -68,7 +71,8 @@
         "Local Skye community active in remembrance"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "75th Anniversary Commemoration: Nine American Airmen's Tragic Skye Crash Remembered."
     },
     {
       "source_site": "Highland Historic Environment Record",
@@ -79,7 +83,8 @@
         "Formally recorded as historic monument"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Detailed historical record of WW2 aircraft crash site on Beinn Edra, including its significance and current condition."
     }
   ],
   "local_contacts": [
@@ -102,6 +107,75 @@
   "squadron_aliases": [
     "USAAF (en route USA to Italy via Iceland)"
   ],
-  "memorial_details": "Name: Boeing B-17 Flying Fortress 44-83325\nType: Board / Plaque / Tablet\nDescription: Dark metal sign attached to posts.\nInscription: This site is dedicated to the brave crew of the B-17 who perished here/ during WW2 on March 3, 1945./ They selflessly gave their lives so others could be free./ There is no greater act of love. May they rest in peace./ Crew of 44-83325:/ (Names)/ This memorial was placed by the families of the fallen servicemen\nLocation: The plane crashed on the Trotternish Ridge on the Scottish isle of Skye on a peak named Beinn Edra. The marker is located at the base of the Beinn Edra peak and the beginning of an aircraft wreckage field. Beinn Edra Skye And Lochalsh Highlands and Islands IV51 9LB Scotland\nGrid Ref: NG 45670 63169\nCoordinates: 57.586689000000,-6.257013000000",
-  "narrative": "{\"aircraft_serial\": \"44-83325\", \"aircraft_type\": \"Boeing B-17G Flying Fortress\", \"date\": \"3 March 1945 (1945-03-03)\", \"fatalities\": \"9 (all)\", \"location\": \"Beinn Edra, Isle of Skye, Scotland\", \"operator\": \"United States Army Air Force\", \"summary\": \"Controlled flight into terrain, due to poor weather\", \"title\": \"1945 Beinn Edra air disaster\"}"
+  "memorial_details": "Name: Boeing B-17 Flying Fortress 44-83325\nType: Board / Plaque / Tablet\nDescription: Dark metal sign attached to posts.\nInscription: This site is dedicated to the brave crew of the B-17 who perished here/ during WW2 on March 3, 1945./ They selflessly gave their lives so others could be free./ There is no greater act of love. May they rest in peace./ Crew of 44-83325:/ (Names)/ This memorial was placed by the families of the fallen servicemen\nLocation: The plane crashed on the Trotternish Ridge on the Scottish isle of Skye on a peak named Beinn Edra. The marker is located at the base of the Beinn Edra peak and the beginning of an aircraft wreckage field. Beinn Edra Skye And Lochalsh Highlands and Islands IV51 9LB Scotland\nGrid Ref: NG 45670 63169\nCoordinates: 57.586689000000,-6.257013000000\n\nThe inscription reads: 'This site is dedicated to the brave crew of the B-17 who perished here/during WW2 on March 3, 1945./They selflessly gave their lives so others could be free./There is no greater act of love.\n\nMay they rest in peace./Crew of 44-83325:/(Names)/This memorial was placed by the families of the fallen servicemen'.\n\nThe memorial was established by the families of the fallen servicemen.",
+  "narrative": "The crew of a B-17G Flying Fortress, under the command of 1st Lieutenant Paul M. Overfield, were ferrying their aircraft from the United States to Italy via Iceland when they encountered heavy cloud over the Scottish Highlands. Flying blind in the deteriorating conditions, the aircraft struck the slopes of Beinn Edra with catastrophic force. All nine men aboard were killed: 1st Lieutenant Overfield, 2nd Lieutenant Leroy Elmer Cagle, 2nd Lieutenant Charles K. Jeanblanc, Corporal Carter D. Wilkinson, Corporal Harold Duane Blue, Corporal Harold A. Fahselt, Corporal Arthur W. Kopp Jr, Corporal George S. Aldrich, and Corporal John H. Vaughan. None of the crew survived. Wreckage from the aircraft remains scattered across the hillside, marking the place where nine American airmen lost their lives before ever reaching their theatre of war.",
+  "community_connection": "",
+  "crew": [
+    {
+      "name": "Carter D. Wilkinson",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Paul M. Overfield",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Leroy Elmer Cagle",
+      "rank": "2nd Lieutenant",
+      "fate": "Killed",
+      "role": "Co-pilot",
+      "nationality": "American"
+    },
+    {
+      "name": "Charles K. Jeanblanc",
+      "rank": "2nd Lieutenant",
+      "fate": "Killed",
+      "role": "Navigator",
+      "nationality": "American"
+    },
+    {
+      "name": "Harold Duane Blue",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Engineer",
+      "nationality": "American"
+    },
+    {
+      "name": "Harold A. Fahselt",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Engineer/Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "Arthur W. Jr Kopp",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Radio Operator",
+      "nationality": "American"
+    },
+    {
+      "name": "George S Aldrich",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Gunner",
+      "nationality": "American"
+    },
+    {
+      "name": "John H. Vaughan",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Gunner",
+      "nationality": "American"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 2,
+  "narrative_source": "generated-claude-sonnet"
 }

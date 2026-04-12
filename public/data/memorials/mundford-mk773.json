@@ -132,7 +132,7 @@
   ],
   "cause_of_loss": "Fire in port outer engine shortly after take-off; pilot attempted emergency crash landing; 4,000 lb \"Blockbuster\" bomb detonated on impact",
   "operation_type": "Taking off for operations",
-  "memorial_details": "Name: Avro Lancaster HK773\nType: Board / Plaque / Tablet\nDescription: Brass plaque with incised inscription in capital lettering below the badge of the RAF.\nInscription: IN MEMORY OF THE CREW OF/ LANCASTER BOMBER HK 773 LS-W/ OF XV SQUADRON WHO LOST THEIR/ LIVES WHEN THE AIRCRAFT CRASHED/ IN THE NEARBY FOREST AT 11:00 AM/ ON 22 MARCH 1945 HAVING TAKEN/ OF FROM RAF MILDENHALL/ (Names)/ ALSO/ (Name)/ KILLED JUNE 1ST 1944/ A MEMBER OF A SISTEER CREW.\nLocation: St Leonard's Church Mundford Breckland Norfolk IP26 5DZ England\nGrid Ref: TL 80049 93803\nCoordinates: 52.512372417477,0.651836480344\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/380/large_12_0.jpg; https://media.iwm.org.uk/ciim5/memorials/174/221/99108.jpg",
+  "memorial_details": "Name: Avro Lancaster HK773\nType: Board / Plaque / Tablet\nDescription: Brass plaque with incised inscription in capital lettering below the badge of the RAF.\nInscription: IN MEMORY OF THE CREW OF/ LANCASTER BOMBER HK 773 LS-W/ OF XV SQUADRON WHO LOST THEIR/ LIVES WHEN THE AIRCRAFT CRASHED/ IN THE NEARBY FOREST AT 11:00 AM/ ON 22 MARCH 1945 HAVING TAKEN/ OF FROM RAF MILDENHALL/ (Names)/ ALSO/ (Name)/ KILLED JUNE 1ST 1944/ A MEMBER OF A SISTEER CREW.\nLocation: St Leonard's Church Mundford Breckland Norfolk IP26 5DZ England\nGrid Ref: TL 80049 93803\nCoordinates: 52.512372417477,0.651836480344\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/380/large_12_0.jpg; https://media.iwm.org.uk/ciim5/memorials/174/221/99108.jpg\n\nThe Lancaster HK773 Memorial in Thetford Forest, England, was restored with a new plinth installed by a volunteer group from Mundford village.\n\nMemorial Display: The memorial displays the Avro Lancaster HK773, a type of bomber aircraft used extensively during World War II.\n\nPlinth Installation (2014-12-30): A new plinth was installed by a volunteer group from Mundford village to replace the original, which had been damaged by time.",
   "latitude": 52.51289038162398,
   "longitude": 0.6539901257060002,
   "maintainer": {
@@ -151,7 +151,8 @@
         "Crater still visible at site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Memorial: Mundford Lancaster Memorial - a poignant tribute to Lancaster HK773 at War Memorials Online."
     },
     {
       "source_site": "Imperial War Museums",
@@ -162,7 +163,8 @@
         "Serial confirmed as HK773"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed history and significance of the Mundford Lancaster Memorial at this link."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -172,7 +174,8 @@
         "Documented on international war heritage database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the international heritage database entry for the Mundford Lancaster Memorial."
     },
     {
       "source_site": "Thetford & Brandon Times",
@@ -183,7 +186,8 @@
         "Community-led maintenance effort"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Read about the poignant dedication ceremony honoring the brave crew of Lancaster HK773 at Mundford."
     }
   ],
   "local_contacts": [
@@ -261,5 +265,22 @@
   "squadron_aliases": [
     "15 Squadron",
     "15 Sqdn."
-  ]
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Plinth Replacement Viewing",
+        "date": "2020-03-16",
+        "description": "Images were taken showing the new plinth, with some plane pieces from the Lancaster HK773 still coming to light around the forest site."
+      },
+      {
+        "name": "Map Provision",
+        "date": "2020-03-19",
+        "description": "A map for visitors was provided, courtesy of Google Earth images by Geoff Reynolds, Secretary of The Mildenhall Register."
+      }
+    ]
+  },
+  "community_connection": "The Avro Lancaster HK773 memorial was created and shared by John Bastock. The new plinth was installed by a dedicated group from Mundford village, showcasing the community's commitment to preserving this war memorial.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 5
 }

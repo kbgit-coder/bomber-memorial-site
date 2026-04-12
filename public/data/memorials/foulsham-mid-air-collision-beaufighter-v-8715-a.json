@@ -32,7 +32,8 @@
       "summary": "Record for B-17 42-5376 'Eager Eagle' of the 305th Bomb Group, Chelveston. On 31 August 1943, the aircraft collided mid-air with Beaufighter V8715 over Foulsham, Norfolk, while both were flying without navigation lights during a red air-raid alert.",
       "key_details": "Both aircraft were flying without lights due to a red alert. Collision at approximately 7,000 feet at 23:30 hours. Eight USAAF crew and one RAF passenger killed; two USAAF waist gunners survived. Both Beaufighter crew killed.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of B-17 'Eager Eagle' mid-air collision at Foulsham, Norfolk in 1943."
     },
     {
       "source_site": "Heroes of Our Time",
@@ -40,7 +41,8 @@
       "summary": "Detailed account of the Foulsham mid-air collision and the story behind a memorial plaque erected at the crash site. The Beaufighter's steep turn brought it into the path of the B-17, severing a wing and tearing away two engines from the Fortress.",
       "key_details": "The Beaufighter was split in half by the collision. B-17 pilot Floyd Truesdell and co-pilot Allan McDaniel were among those killed. Bombardier Robert Barrall DSC was one of the most decorated men in the 305th BG.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of Foulsham mid-air collision and memorial plaque story behind it."
     }
   ],
   "local_contacts": [
@@ -70,5 +72,10 @@
     "75 Squadron Church Fenton / 305th BG Chelveston",
     "75 Sqdn.",
     "75 Squadron"
-  ]
+  ],
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 0,
+  "narrative": "Operating over Norfolk on 31 August 1943, the B-17 Flying Fortress *Eager Eagle* (42-5376) of the 305th Bombardment Group, based at Chelveston, and a Beaufighter (V.8715) of 75 Squadron, based at Church Fenton, collided in mid-air above Foulsham. The collision destroyed both aircraft. Eleven men from the combined crews were killed; two survived.",
+  "narrative_source": "generated-claude-sonnet",
+  "memorial_details": "A memorial plaque at Foulsham stands in remembrance of all those who lost their lives in the disaster."
 }

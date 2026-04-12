@@ -115,7 +115,8 @@
         "Located at St Michael the Archangel church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial: Laxton Wellington Memorial commemorating crew of 82 OTU Wellington LP841 at Laxton's Church of St Michael the Archangel."
     },
     {
       "source_site": "Key Aero Forum",
@@ -126,7 +127,8 @@
         "Villagers led survivor Sgt Eden to safety"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore in-depth analysis of Laxton Wellington Memorial's significance and tragic crash details."
     },
     {
       "source_site": "FighterControl Forum",
@@ -137,7 +139,8 @@
         "Roadside memorial on Moorhouse Road overlooks crash site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed research about the LP841 crash site, featuring England's last open-field farming village and its two memorial stones."
     }
   ],
   "local_contacts": [
@@ -173,5 +176,7 @@
   "squadron_display_name": "82 OTU",
   "squadron_aliases": [
     "82 OTU"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

@@ -40,7 +40,8 @@
         "Propeller blade recovered and displayed in Skegness Lifeboat Station"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Memorial: Skegness Hampden Memorial page for 49 Squadron Association's aircraft tribute."
     },
     {
       "source_site": "Geograph Britain and Ireland",
@@ -50,7 +51,8 @@
         "Photographic documentation by Adrian S Pye"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore photographic record of the Skegness Hampden Memorial honoring crew of aircraft X3027."
     },
     {
       "source_site": "49 Squadron Association (personnel)",
@@ -60,7 +62,8 @@
         "Individual personnel record for pilot F/O Bufton"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed military records of F/O John Raymond Bufton in 49 Squadron Association's Memorial: Skegness Hampden Memorial."
     }
   ],
   "local_contacts": [
@@ -90,5 +93,57 @@
   "squadron_aliases": [
     "49 Sqdn.",
     "49 Squadron"
-  ]
+  ],
+  "narrative": "Flying Officer John Raymond Bufton and his crew aboard Hampden X3027 were returning from a bombing raid on Hamburg when their aircraft was shot down by Lieutenant Volker of 1/NJG2. Bufton managed to force-land the stricken aircraft in the sea within a mile of the Skegness coast. Though close enough that cries for help were reportedly heard from the seafront, rescue services could not reach the crew in time. All four men perished — including P/O Ballas-Anderson, whose body was never recovered — alongside Sergeant F.J.W. Bichard and Sergeant R.F. Robertson. Bufton was 26 years old.",
+  "community_connection": "Organisations: 49 Squadron Association, RAF.",
+  "crew": [
+    {
+      "name": "Ballas",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Raymond Bufton",
+      "rank": "Bufton",
+      "fate": "Unknown",
+      "role": "not specified in text",
+      "age": 26,
+      "nationality": "British",
+      "burial_location": "Llandrindod, Wells Cemetery, Radnorshire"
+    },
+    {
+      "name": "Volker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Service",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "P/O K. Ballas-Anderson",
+      "rank": "not specified",
+      "fate": "Killed",
+      "role": "not specified in text",
+      "nationality": "British"
+    },
+    {
+      "name": "F.J.W. Bichard",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "W/AG",
+      "nationality": "British"
+    },
+    {
+      "name": "R.F. Robertson",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "W/AG",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

@@ -7,17 +7,24 @@ Site is HTTP only — HTTPS fails with SSL errors.
 """
 
 import json
+import os
 import re
+import sys
 import time
 import urllib.parse
 
 import requests
 from bs4 import BeautifulSoup
 
+# Module import for provenance logging
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scrape_provenance import ProvenanceLog
+
 BASE_URL = "http://www.no-50-and-no-61-squadrons-association.co.uk"
 INDEX_PATH = "/the-memorials/uk-european-memorials/"
 OUTPUT_PATH = "/tmp/association-scrape-results.json"
 RATE_LIMIT_SECS = 2
+DOMAIN = "no-50-and-no-61-squadrons-association.co.uk"
 
 SESSION = requests.Session()
 SESSION.headers.update({
@@ -242,10 +249,24 @@ def main():
     # Summary
     serials_found = [r["serial"] for r in results if r["serial"]]
     errors = [r for r in results if r.get("error")]
+    success_count = len(results) - len(errors)
     print(f"Serials found: {len(serials_found)} / {len(results)}")
     print(f"Errors: {len(errors)}")
     if serials_found:
         print(f"Sample serials: {serials_found[:5]}")
+
+    # Log to provenance
+    log = ProvenanceLog()
+    log.record_scrape(DOMAIN, {
+        "pages_attempted": len(results),
+        "pages_succeeded": success_count,
+        "full_narratives_extracted": success_count,
+        "script": "scripts/scrape-association-memorials.py",
+        "output": OUTPUT_PATH,
+        "notes": f"{len(errors)} errors" if errors else "",
+    })
+    log.save()
+    print(f"Provenance log updated for {DOMAIN}")
 
 
 if __name__ == "__main__":

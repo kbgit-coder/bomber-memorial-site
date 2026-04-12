@@ -1,6 +1,6 @@
 {
   "id": "waun-rydd-wellington-details-v",
-  "title": "Waun Rydd source) Memorial",
+  "title": "Waun Rydd Wellington Memorial",
   "location_name": "Waun Rydd, Brecon Beacons, Brecon Beacons (Bannau Brycheiniog)",
   "county": "Brecon Beacons (Bannau Brycheiniog)",
   "country": "United Kingdom",
@@ -28,7 +28,8 @@
       "summary": "Walking guide and historical account of the Wellington Bomber R1465 crash site at Waun Rydd. The aircraft took off from the Operational Training Unit at Wellesbourne Mountford near Stratford-upon-Avon on 6 July 1942 for a cross-country training exercise.",
       "key_details": "Aircraft serial R1465. Pilot descended from the advised 10,000 ft in heavy cloud to try to fix position, striking the summit of Waun Rydd in a flat high-speed crash. All five crew were Canadian and are buried in Hereford.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Wellington Bomber R1465 crash site history and guided walk at Waun Rydd."
     },
     {
       "source_site": "Institute of Welsh Affairs",
@@ -36,7 +37,8 @@
       "summary": "Article examining the Wellington crash site at Cwar y Gigfran (Raven's Quarry) on Waun Rydd, noting the extensive wreckage that remains visible at the site more than 80 years after the crash.",
       "key_details": "Two distinct piles of wreckage still remain at the site. The crash location is beneath Cwar y Gigfran ridge. A dedicated memorial cairn is often adorned with poppies by walkers.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Wellington crash site at Raven's Quarry in Waun Rydd and its historical significance."
     },
     {
       "source_site": "Ystradgynlais Aircraft Crash Sites",
@@ -44,7 +46,8 @@
       "summary": "Local history page documenting Wellington R1465 and the circumstances of its crash on Waun Rydd on 6 July 1942. Provides details of the five Canadian crew members and their training exercise from Wellesbourne Mountford OTU.",
       "key_details": "Serial confirmed as R1465. All five crew were Canadians from the RCAF. The OTU at Wellesbourne Mountford trained crews for Bomber Command operations.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local history: Discover the story behind Wellington R1465's tragic crash at Waun Rydd in 1942."
     }
   ],
   "local_contacts": [
@@ -66,5 +69,18 @@
   "squadron_display_name": "OTU",
   "squadron_aliases": [
     "OTU"
-  ]
+  ],
+  "narrative": "Wellington R1465 was on an Operational Training Unit flight when it came down on Waun Rydd in the Brecon Beacons in 1942. OTU crews were still developing the skills needed for frontline operations, making every training sortie a calculated risk far from combat. The aircraft — a Wellington, though some source details vary — did not survive the encounter with this high moorland terrain. All crew members were killed. The wreckage remains on the hillside at Waun Rydd, a quiet marker to those lost before they ever reached an operational squadron.\n\n---\n*Note: Pilot name, individual crew names, cause of crash, and personal crew details are not present in the available source data and have been omitted rather than assumed.*",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Remembrance Weekend",
+        "date": "Not specified",
+        "description": "The text mentions that the author discovered the crash site during Remembrance weekend, implying a commemorative event."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

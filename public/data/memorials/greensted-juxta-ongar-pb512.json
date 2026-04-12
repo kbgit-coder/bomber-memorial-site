@@ -34,7 +34,8 @@
       "summary": "Imperial War Museum register entry for the Lancaster PB512 memorial at St Andrew's Church, Greensted Juxta Ongar. Records the monument commemorating the eight crew of 582 (Pathfinder) Squadron who died on 23 September 1944.",
       "key_details": "Memorial reference 56210. Located at St Andrew's Church, Greensted Juxta Ongar. Eight crew killed including pilot Flg Off William Lawrence Shirley. 582 Squadron was part of No. 8 (Pathfinder) Group.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Lancaster war memorial honoring its brave crew members in this IWM register entry."
     },
     {
       "source_site": "IBCC Digital Archive",
@@ -42,7 +43,8 @@
       "summary": "International Bomber Command Centre digital archive entries for 582 Squadron. The squadron was formed on 1 April 1944 at Little Staughton from detachments of 7 and 156 Squadrons, operating as part of No. 8 (Pathfinder) Group on target-marking missions.",
       "key_details": "582 Squadron formed 1 April 1944. Operated from Little Staughton. PB512 coded 'J' flew missions to Osnabruck, Kiel, and Boulogne before its loss.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Lancaster Memorial's detailed history in IBCC Digital Archive entries for 582 Squadron."
     }
   ],
   "local_contacts": [
@@ -107,8 +109,27 @@
       "name": "Duncan Smith",
       "fate": "Killed",
       "rank": "—"
+    },
+    {
+      "name": "Frank Norman Holmes",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "air gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Edgar Walter Roslyn Pratt",
+      "rank": null,
+      "fate": "Unknown"
     }
   ],
   "memorial_details": "Name: Aircrew of Lancaster PB512\nType: Roll of honour or book of remembrance\nDescription: A plain rectangular roll of honour with RAF badge top centre and 582 Squadron badge lower left. Dedication is in plain, black upper and lower-case script. RoH is mounted on a deep-blue background in a a glazed, gilded wood frame.\nInscription: (RAF Badge)/ TO THE GLORY OF GOD AND IN EVERLASTING MEMORY/ OF THE GALLANT LANCASTER BOMBER AIRCREW OF/ 582 PATHFINDER SQUADRON WHO DIED IN A CRASH NEAR THIS/ CHURCH ON 23 SEPTEMBER 1944/ (Names)/ (582 Pathfinders badge)/ 582 PATHFINDERS SQUADRON/ No. 582 Squadron was formed on 1 April 1944 at Little Staughton from detachments of Nos. 7 and 156/ Squadrons. As part of No. 8 (Pathfinder) Group, it became operational on 9th April and continued bombing/ and target marking missions for the rest of the war. On 18th September 1945, the squadron was disbanded.\nLocation: North wall of the church St Andrew's Church Church Lane Greensted Juxta Ongar Epping Forest Essex CM5 9LD England\nGrid Ref: TL 53878 02975\nCoordinates: 51.704419637537,0.225510418530\nPhotos: https://media.iwm.org.uk/ciim5/memorials/124/5/large_ex_greensted_juxta_ongar_3.jpg; https://media.iwm.org.uk/ciim5/memorials/124/7/large_ex_greensted_juxta_ongar_2_1.jpg",
-  "narrative": "(RAF Badge)/ TO THE GLORY OF GOD AND IN EVERLASTING MEMORY/ OF THE GALLANT LANCASTER BOMBER AIRCREW OF/ 582 PATHFINDER SQUADRON WHO DIED IN A CRASH NEAR THIS/ CHURCH ON 23 SEPTEMBER 1944/ (Names)/ (582 Pathfinders badge)/ 582 PATHFINDERS SQUADRON/ No. 582 Squadron was formed on 1 April 1944 at Little Staughton from detachments of Nos. 7 and 156/ Squadrons. As part of No. 8 (Pathfinder) Group, it became operational on 9th April and continued bombing/ and target marking missions for the rest of the war. On 18th September 1945, the squadron was disbanded."
+  "narrative": "Lancaster PB512, operating with 582 Path Finder Force Squadron from Little Staughton, came down on 23 September 1944 near Greensted Juxta Ongar, Essex. The aircraft carried a crew of nine, eight of whom were killed, including the pilot, Flying Officer William Shirley. Those who lost their lives were William Alston, George Burch, Desmond Evans, Frank Hill, Colin Mitchell, Duncan Smith, and Flight Sergeant Frank Norman Holmes, who flew as air gunner. The fate of the ninth crew member, Edgar Walter Roslyn Pratt, is not recorded.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "The image shows a memorial dedicated to the Aircrew of Lancaster PB512.",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

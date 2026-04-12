@@ -85,8 +85,47 @@ export default function MemorialPage({ params }: Props) {
   // Show full_narrative for all records — enriched records should show MORE, not less
   const fullNarratives = (memorial.external_narratives || []).filter(n => n.full_narrative);
 
+  // JSON-LD structured data for this memorial
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "HistoricalEvent",
+    "name": memorial.title,
+    "description": memorial.narrative || memorial.crew_summary || `${memorial.title} — Bomber Command Memorial Register`,
+    "url": `https://bombermemorial.co.uk/memorial/${params.slug}`,
+    ...(memorial.crash_date && { "startDate": memorial.crash_date }),
+    ...(memorial.latitude != null && memorial.longitude != null && {
+      "location": {
+        "@type": "Place",
+        "name": memorial.location_name || memorial.title,
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": memorial.latitude,
+          "longitude": memorial.longitude,
+        },
+        ...(memorial.county && { "address": { "@type": "PostalAddress", "addressRegion": memorial.county, "addressCountry": memorial.country || "United Kingdom" } }),
+      },
+    }),
+    "isPartOf": {
+      "@type": "Dataset",
+      "name": "Bomber Command Memorial Register",
+      "url": "https://bombermemorial.co.uk",
+    },
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://bombermemorial.co.uk" },
+      ...(memorial.country ? [{ "@type": "ListItem", "position": 2, "name": memorial.country, "item": `https://bombermemorial.co.uk/region/${memorial.country.toLowerCase().replace(/\s+/g, "-")}` }] : []),
+      { "@type": "ListItem", "position": memorial.country ? 3 : 2, "name": memorial.title },
+    ],
+  };
+
   return (
     <div data-pagefind-body="" style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
         <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
@@ -208,6 +247,136 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
+      {/* The Memorial */}
+      {(() => {
+        const parts: string[] = [];
+        const hasStructuredInfo = memorial.memorial_type || memorial.erected_by || memorial.dedication_date;
+        const formatDate = (d: string) => {
+          const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+          if (!m) return d;
+          const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+          return `${parseInt(m[3])} ${months[parseInt(m[2])-1]} ${m[1]}`;
+        };
+        const dedDate = memorial.dedication_date ? formatDate(memorial.dedication_date) : "";
+        if (hasStructuredInfo) {
+          const typeStr = memorial.memorial_type ? memorial.memorial_type.toLowerCase() : "memorial";
+          if (memorial.erected_by && dedDate) {
+            parts.push(`This ${typeStr} was erected by ${memorial.erected_by} and dedicated on ${dedDate}.`);
+          } else if (memorial.erected_by) {
+            parts.push(`This ${typeStr} was erected by ${memorial.erected_by}.`);
+          } else if (dedDate) {
+            parts.push(`This ${typeStr} was dedicated on ${dedDate}.`);
+          }
+        }
+        if (memorial.maintainer?.notes) {
+          parts.push(memorial.maintainer.notes);
+        } else if (memorial.maintainer?.organisation && memorial.maintainer.organisation !== memorial.erected_by) {
+          parts.push(`It is maintained by ${memorial.maintainer.organisation}.`);
+        }
+        if (memorial.condition && memorial.condition.toLowerCase() !== "unknown") {
+          parts.push(`The memorial is in ${memorial.condition.toLowerCase()} condition.`);
+        }
+        const connectionText = parts.join(" ");
+        const showSection = connectionText || memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition || memorial.inscription;
+        if (!showSection) return null;
+        return (
+          <section style={{ marginBottom: "2.5rem" }}>
+            <h2 style={sectionHeading}>The Memorial</h2>
+            {connectionText && (
+              <p style={{ fontSize: "0.95rem", color: "#444", lineHeight: 1.8, marginBottom: "1.5rem" }}>
+                {connectionText}
+              </p>
+            )}
+            {(memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition) && (
+              <div style={{ ...cardBox, display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
+                {memorial.memorial_type && <DetailItem label="Type" value={memorial.memorial_type} />}
+                {memorial.erected_by && <DetailItem label="Erected By" value={memorial.erected_by} />}
+                {memorial.dedication_date && <DetailItem label="Dedication Date" value={dedDate || memorial.dedication_date} />}
+                {memorial.condition && <DetailItem label="Condition" value={memorial.condition} />}
+              </div>
+            )}
+            {memorial.inscription && (() => {
+              // If inscription contains crew names that are already in the crew section,
+              // show a condensed version noting the names are listed on the memorial
+              const insc = memorial.inscription;
+              const crewNames = (memorial.crew || []).map(c => c.name?.split(" ").pop()?.toLowerCase()).filter(Boolean);
+              const nameMatches = crewNames.filter(surname => surname && surname.length > 3 && insc.toLowerCase().includes(surname));
+              const hasCrewList = nameMatches.length >= 3;
+
+              // Split inscription: everything before the first crew name, and a note about the rest
+              let displayText = insc;
+              let crewNote = "";
+              if (hasCrewList) {
+                // Find where crew names start and show preamble + note
+                const lines = insc.split(/\n/);
+                const preambleLines: string[] = [];
+                let foundCrew = false;
+                for (const line of lines) {
+                  const lineHasCrew = crewNames.some(s => s && s.length > 3 && line.toLowerCase().includes(s));
+                  if (lineHasCrew && !foundCrew) {
+                    foundCrew = true;
+                  }
+                  if (!foundCrew) {
+                    preambleLines.push(line);
+                  }
+                }
+                if (foundCrew && preambleLines.length > 0) {
+                  displayText = preambleLines.join("\n").trim();
+                  crewNote = `The names of all ${memorial.crew?.length || "the"} crew members are inscribed on the memorial.`;
+                } else if (foundCrew) {
+                  displayText = "";
+                  crewNote = `The memorial inscription lists the names of all ${memorial.crew?.length || "the"} crew members.`;
+                }
+              }
+
+              return (
+                <div style={{
+                  marginTop: "1.5rem",
+                  padding: "1.25rem 1.5rem",
+                  backgroundColor: "#f8f6f2",
+                  borderLeft: "4px solid #8b7355",
+                  borderRadius: "0 8px 8px 0",
+                  fontFamily: "Georgia, 'Times New Roman', serif",
+                }}>
+                  <div style={{
+                    fontSize: "0.75rem",
+                    color: "#8b7355",
+                    textTransform: "uppercase",
+                    letterSpacing: "0.1em",
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    marginBottom: "0.75rem",
+                    fontWeight: 600,
+                  }}>
+                    Inscription
+                  </div>
+                  {displayText && (
+                    <div style={{
+                      fontSize: "0.95rem",
+                      color: "#333",
+                      lineHeight: 1.8,
+                      fontStyle: "italic",
+                    }}>
+                      {displayText.replace(/\n+/g, " ").replace(/\s+/g, " ").trim()}
+                    </div>
+                  )}
+                  {crewNote && (
+                    <p style={{
+                      fontSize: "0.85rem",
+                      color: "#666",
+                      fontStyle: "normal",
+                      marginTop: displayText ? "0.75rem" : 0,
+                      marginBottom: 0,
+                    }}>
+                      {crewNote}
+                    </p>
+                  )}
+                </div>
+              );
+            })()}
+          </section>
+        );
+      })()}
+
       {/* Location Map */}
       {memorial.latitude != null && memorial.longitude != null && (
         <section style={{ marginBottom: "2.5rem" }}>
@@ -283,51 +452,6 @@ export default function MemorialPage({ params }: Props) {
                 </span>
               </p>
             )}
-          </div>
-        </section>
-      )}
-
-      {/* Nearby Memorials */}
-      {nearbyMemorials.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Nearby Memorials</h2>
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: "1rem" }}>
-            {nearbyMemorials.map((nearby) => (
-              <Link
-                key={nearby.id}
-                href={`/memorial/${nearby.id}`}
-                style={{ textDecoration: "none", color: "inherit" }}
-              >
-                <article style={{
-                  backgroundColor: "#ffffff",
-                  border: "1px solid #e0dcd5",
-                  borderRadius: 8,
-                  padding: "1rem 1.25rem",
-                  transition: "box-shadow 0.2s ease, border-color 0.2s ease",
-                  cursor: "pointer",
-                  height: "100%",
-                  display: "flex",
-                  flexDirection: "column",
-                  gap: "0.35rem",
-                }} className="memorial-card">
-                  <div style={{
-                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
-                    color: "#1a2332",
-                    fontSize: "0.95rem",
-                    fontWeight: 600,
-                    lineHeight: 1.3,
-                  }}>
-                    {nearby.title}
-                  </div>
-                  <div style={{ fontSize: "0.8rem", color: "#8b7355", fontWeight: 500 }}>
-                    {nearby.distanceMiles.toFixed(1)} miles away
-                  </div>
-                  {nearby.county && (
-                    <div style={{ fontSize: "0.8rem", color: "#666" }}>{nearby.county}</div>
-                  )}
-                </article>
-              </Link>
-            ))}
           </div>
         </section>
       )}
@@ -693,72 +817,6 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* The Memorial — community connection */}
-      {(() => {
-        // Build a community connection narrative from structured fields
-        const parts: string[] = [];
-        const hasStructuredInfo = memorial.memorial_type || memorial.erected_by || memorial.dedication_date;
-
-        // Format date like "6 July 1994" from "1994-07-06" or pass through as-is
-        const formatDate = (d: string) => {
-          const m = d.match(/^(\d{4})-(\d{2})-(\d{2})$/);
-          if (!m) return d;
-          const months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-          return `${parseInt(m[3])} ${months[parseInt(m[2])-1]} ${m[1]}`;
-        };
-        const dedDate = memorial.dedication_date ? formatDate(memorial.dedication_date) : "";
-
-        if (hasStructuredInfo) {
-          const typeStr = memorial.memorial_type ? memorial.memorial_type.toLowerCase() : "memorial";
-          if (memorial.erected_by && dedDate) {
-            parts.push(`This ${typeStr} was erected by ${memorial.erected_by} and dedicated on ${dedDate}.`);
-          } else if (memorial.erected_by) {
-            parts.push(`This ${typeStr} was erected by ${memorial.erected_by}.`);
-          } else if (dedDate) {
-            parts.push(`This ${typeStr} was dedicated on ${dedDate}.`);
-          }
-        }
-
-        if (memorial.maintainer?.notes) {
-          parts.push(memorial.maintainer.notes);
-        } else if (memorial.maintainer?.organisation && memorial.maintainer.organisation !== memorial.erected_by) {
-          parts.push(`It is maintained by ${memorial.maintainer.organisation}.`);
-        }
-
-        if (memorial.condition && memorial.condition.toLowerCase() !== "unknown") {
-          parts.push(`The memorial is in ${memorial.condition.toLowerCase()} condition.`);
-        }
-
-        const connectionText = parts.join(" ");
-        const showSection = connectionText || memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition;
-
-        if (!showSection) return null;
-
-        return (
-          <section style={{ marginBottom: "2.5rem" }}>
-            <h2 style={sectionHeading}>The Memorial</h2>
-            {connectionText && (
-              <p style={{
-                fontSize: "0.95rem",
-                color: "#444",
-                lineHeight: 1.8,
-                marginBottom: "1.5rem",
-              }}>
-                {connectionText}
-              </p>
-            )}
-            {(memorial.memorial_type || memorial.erected_by || memorial.dedication_date || memorial.condition) && (
-              <div style={{ ...cardBox, display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
-                {memorial.memorial_type && <DetailItem label="Type" value={memorial.memorial_type} />}
-                {memorial.erected_by && <DetailItem label="Erected By" value={memorial.erected_by} />}
-                {memorial.dedication_date && <DetailItem label="Dedication Date" value={dedDate || memorial.dedication_date} />}
-                {memorial.condition && <DetailItem label="Condition" value={memorial.condition} />}
-              </div>
-            )}
-          </section>
-        );
-      })()}
-
       {/* Memorial Care */}
       {memorial.maintainer && (
         <section style={{ marginBottom: "2.5rem" }}>
@@ -878,8 +936,58 @@ export default function MemorialPage({ params }: Props) {
                   )}
                 </div>
                 {narrative.summary && <p style={{ fontSize: "0.95rem", color: "#333", lineHeight: 1.7, marginBottom: "0.5rem" }}>{narrative.summary}</p>}
+                {narrative.link_description && (
+                  <p style={{ fontSize: "0.85rem", color: "#555", lineHeight: 1.6, marginBottom: "0.5rem", fontStyle: "italic" }}>
+                    What you&apos;ll find: {narrative.link_description}
+                  </p>
+                )}
                 {narrative.key_details && <p style={{ fontSize: "0.9rem", color: "#666", fontStyle: "italic" }}>{narrative.key_details}</p>}
               </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Nearby Memorials */}
+      {nearbyMemorials.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Nearby Memorials</h2>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(220px, 1fr))", gap: "1rem" }}>
+            {nearbyMemorials.map((nearby) => (
+              <Link
+                key={nearby.id}
+                href={`/memorial/${nearby.id}`}
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <article style={{
+                  backgroundColor: "#ffffff",
+                  border: "1px solid #e0dcd5",
+                  borderRadius: 8,
+                  padding: "1rem 1.25rem",
+                  transition: "box-shadow 0.2s ease, border-color 0.2s ease",
+                  cursor: "pointer",
+                  height: "100%",
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "0.35rem",
+                }} className="memorial-card">
+                  <div style={{
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    color: "#1a2332",
+                    fontSize: "0.95rem",
+                    fontWeight: 600,
+                    lineHeight: 1.3,
+                  }}>
+                    {nearby.title}
+                  </div>
+                  <div style={{ fontSize: "0.8rem", color: "#8b7355", fontWeight: 500 }}>
+                    {nearby.distanceMiles.toFixed(1)} miles away
+                  </div>
+                  {nearby.county && (
+                    <div style={{ fontSize: "0.8rem", color: "#666" }}>{nearby.county}</div>
+                  )}
+                </article>
+              </Link>
             ))}
           </div>
         </section>

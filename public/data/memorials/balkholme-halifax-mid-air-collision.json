@@ -1,0 +1,283 @@
+{
+  "id": "balkholme-halifax-mid-air-collision",
+  "title": "Balkholme Halifax Mid-Air Collision Memorial",
+  "location_name": "Balkholme (1), East Riding of Yorkshire",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "ERY-001",
+  "crash_date": "1944-07-21",
+  "aircraft_type": "Halifax III",
+  "serial_number": "LK834",
+  "squadron": "578 Squadron",
+  "station": "Burn",
+  "crew_summary": "15 crew recorded; 12 killed",
+  "memorial_type": "Mid-Air Collision Memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    },
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "latitude": 53.744108,
+  "longitude": -0.812422,
+  "maintainer": {
+    "organisation": "Balkholme Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/lk834.html",
+      "summary": "Halifax LK834 (coded LK-E) of 578 Squadron collided mid-air with Halifax MZ696 (coded LK-K) at 2,000 feet while returning from a raid on synthetic oil refineries at Bottrop on 21 July 1944. Both aircraft crashed near Gate House Farm, Balkholme at 03:15 hours, killing all fourteen crew.",
+      "key_details": [
+        "Collision at 2,000 feet during return from Bottrop",
+        "LK834 coded LK-E",
+        "Crashed near Gate House Farm",
+        "14 total killed across both aircraft",
+        "578 Squadron lost 6 aircraft that night"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of mid-air collision and subsequent crash near Balkholme, including aircraft codes, squadron information, date, time, and fatality count."
+    },
+    {
+      "source_site": "578 Squadron Association",
+      "original_url": "http://www.578squadron.org.uk/memorials/balkholme.html",
+      "summary": "The 578 Squadron website documents the Balkholme mid-air collision and the memorial erected to commemorate the crews of both Halifax bombers lost that night.",
+      "key_details": [
+        "26 Halifaxes from 578 Sqn attacked Bottrop that night",
+        "Six aircraft lost during the raid"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of the Balkholme mid-air collision involving two Halifax bombers, alongside the memorial's establishment and significance."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99079",
+      "summary": "The IWM records the memorial to the 578 Squadron airmen of the Balkholme mid-air collision, describing the distinctive memorial featuring a sculpture of two colliding Halifax bombers atop a curved steel pipe with squadron badge and crew names.",
+      "key_details": [
+        "IWM memorial reference 99079",
+        "Memorial features sculpture of two colliding Halifaxes",
+        "Curved black-enamelled steel pipe design"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed Register Entry: Memorial to 578 Squadron Airmen, featuring a sculpture of colliding Halifax bombers and crew names."
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/lk834.html",
+      "summary": "Halifax MZ696 (coded LK-K) of 578 Squadron collided with Halifax LK834 at 2,000 feet while returning from Bottrop on 21 July 1944. Both crashed at Balkholme with all crew killed. MZ696 was piloted by Flt Lt Maurice Charles Day.",
+      "key_details": [
+        "MZ696 coded LK-K",
+        "Piloted by Flt Lt Day",
+        "Mid-air collision during return from Bottrop raid",
+        "All 7 crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of tragic collision and subsequent memorial at Balkholme, including aircraft codes and squadron information."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/99079",
+      "summary": "The IWM lists the joint memorial for both Halifax crews lost in the Balkholme collision, with MZ696's crew names inscribed alongside those of LK834.",
+      "key_details": [
+        "Joint memorial covers both aircraft crews",
+        "IWM memorial reference 99079"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed register listing of Halifax crews lost in Balkholme collision, including names and memorial specifics."
+    },
+    {
+      "source_site": "578 Squadron Association",
+      "original_url": "http://www.578squadron.org.uk/memorials/balkholme.html",
+      "summary": "578 Squadron records document MZ696 as one of six aircraft lost from the squadron during the Bottrop raid of 20/21 July 1944, representing one of the heaviest single-night losses for the unit.",
+      "key_details": [
+        "One of six 578 Sqn aircraft lost that night",
+        "Heaviest single-night loss for the squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of the Bottrop raid loss, including aircraft identification (MZ696), crew members, and squadron history."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Goole & Howden Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Balkholme Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/578.jpg",
+  "squadron_motto": "Accuracy",
+  "what3words": "snowy.trailer.reliving",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "578 Squadron RAF",
+  "squadron_aliases": [
+    "578 Squadron",
+    "578 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "Lewis Randall Barber",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Bomb Aimer (LK834)",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "Thomas Scott Barnett",
+      "fate": "Killed",
+      "rank": "Sgt",
+      "role": "Air Gunner (LK834)",
+      "age": 28,
+      "burial_location": "Tollcross (Central) Churchyard, Glasgow",
+      "nationality": "British"
+    },
+    {
+      "name": "Eric Stanley Clark",
+      "fate": "Killed",
+      "rank": "Sgt",
+      "role": "Navigator (LK834)",
+      "age": 21,
+      "burial_location": "Wolverhampton Borough Cemetery, Staffordshire",
+      "nationality": "British"
+    },
+    {
+      "name": "William Davidon",
+      "fate": "Killed",
+      "rank": "—",
+      "role": "Crew (LK834)"
+    },
+    {
+      "name": "Maurice Charles Day",
+      "fate": "Killed",
+      "rank": "Flight Lieutenant",
+      "role": "Pilot (LK834)",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "Leslie Matthewman",
+      "fate": "Killed",
+      "rank": "Sgt",
+      "role": "Bomb Aimer (LK834)",
+      "age": 21,
+      "burial_location": "Lawnswood Cemetery, Leeds, Yorkshire (Y/132)",
+      "nationality": "British"
+    },
+    {
+      "name": "Jack Stanley Francis Morrish",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Wireless Operator (LK834)",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "Kenneth Nicholson",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Mid-upper Gunner (LK834)",
+      "age": 32,
+      "nationality": "British"
+    },
+    {
+      "name": "Albert Leonard Page",
+      "fate": "Killed",
+      "rank": "WO",
+      "role": "Air Gunner (LK834)",
+      "age": 23,
+      "burial_location": "City of London Cemetery, Manor Park, Essex",
+      "nationality": "British"
+    },
+    {
+      "name": "Derrick Arthur Roland Parham",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Rear Gunner (LK834)",
+      "age": 19,
+      "nationality": "British"
+    },
+    {
+      "name": "William Davidson",
+      "rank": "P/O",
+      "fate": "Kia",
+      "role": "Pilot (LK834)",
+      "age": 20,
+      "burial_location": "Perth (Wellshill) Cemetery, Perthshire",
+      "nationality": "British"
+    },
+    {
+      "name": "Edward Roxby",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Flight Engineer (LK834)",
+      "age": 22,
+      "burial_location": "Easington Colliery Cemetery",
+      "nationality": "British"
+    },
+    {
+      "name": "Harold James Watkins",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Wireless Operator / Air Gunner (LK834)",
+      "age": 23,
+      "burial_location": "Acton Cemetery, Middlesex",
+      "nationality": "British"
+    },
+    {
+      "name": "AMBROSE CHRISTOPHER PUGH",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Navigator (LK834)",
+      "age": 33,
+      "nationality": "British"
+    },
+    {
+      "name": "JOHN SMITH",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer (LK834)",
+      "age": 30,
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Name: 578 Squadron Airmen of the Balkholme Mid-Air Collision\nType: Sculpture\nDescription: Tall, curved, black-enamelled steel pipe with conical capping, surmounted by a sculpture of 2 Halifax bombers colliding. On the front face is a dedicatory plaque incised with a squadron badge, description of the accident and the names of the fallen. The sculpture is mounted on a low, circular, cobbled plinth in a square, gravelled area surrounded on three sides by a wooden fence. An explanatory plaque is mounted on a wooden post to the front of the memorial\nInscription: Dedication plaque: ON THE NIGHT OF 21 JULY 1944/ TWENTY SIX HALIFAX BOMBERS OF NO. 578 SQUADRON ROYAL AIR FORCE/ TOOK OFF FROM BURN TO ATTACK THE GERMAN SYNTHETIC OIL REFINERY/ AT BOTTROP IN THE RHINE VALLEY OF GERMANY./ SIX AIRCRAFT WERE LOST DURING THE RAID/ TWO OF WHICH, ON THEIR RETURN, COLLIDED IN MID AIR/ AND FELL TO EARTH NEAR THIS PLACE. THERE WERE NO SURVIVORS./ THE CREW MEMBERS WERE:/ (names)/ MAY THEY REST IN PEACE AND RISE IN GLORY / THIS WAS THE MOST DISASTEROUS SINGLE OPERATION MOUNTED BY THIS SQUADRON/ RESULTING IN THE LOSS OF SIX AIRCRAFT, THE DEATH OF 36 PRECIOUS AIRMEN/ WITH FOUR OTHERS BEING TAKEN AS PRISONERS OF WAR./ A FURTHER TWO AIRMEN MANAGED TO EVADE CAPTURE BY THE ENEMY Explanatory plaque: THE 578 SQUADRON BURN ASSOCIATION/ WISHES TO PLACE ON RECORD, APPRECIATION, RESPECT AND THANKS/ TO THE PEOPLE OF THIS AREA OF YORKSHIRE/ FOR THEIR SPLENDID COOPERATION IN PROVIDING THIS SITE/ AND CONTRIBUTING THE PRACTICAL AND FINANCIAL ASSISTANCE/ TO ENABLE THIS MEMORIAL TO BE COMPLETED IN SO SHORT A TIME/ 6 MAY 2006\nLocation: 185 metres west of junction with Dick Lane Brow Street Balkholme East Yorkshire Humberside DN14 7XH England\nGrid Ref: SE 78476 28181\nCoordinates: 53.744110938633,-0.811557813867\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/165/large_ey_balkholme_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/166/large_ey_balkholme_4.jpg; https://media.iwm.org.uk/ciim5/memorials/127/167/large_ey_balkholme_5.jpg; https://media.iwm.org.uk/ciim5/memorials/127/168/large_ey_balkholme_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/169/large_ey_balkholme_1.jpg\n\nA memorial was dedicated close to the crash sites on 15th October 2006 by local parson Rev.Poskitt.\n\nMemorial Dedication (15th October 2006): A memorial was dedicated close to the crash sites.",
+  "narrative": "Flying as part of a 578 Squadron raid on the oil refinery at Bottrop, Germany, Halifax III LK834 departed RAF Burn at 22.56hrs on the night of 20 July 1944. The crew successfully delivered their bomb load and turned for home. Returning to Yorkshire in the early hours, low cloud severely reduced visibility, and LK834 collided with Halifax MZ696, also of 578 Squadron, over the Howden area. The two aircraft became locked together and crashed near Gate House Farm, Balkholme, at 03.15hrs on 21 July. Flight Lieutenant Maurice Charles Day and eleven of his crew were killed. Among those lost was Sergeant Derrick Arthur Roland Parham, rear gunner, aged 19.",
+  "inscription": "Dedication plaque: ON THE NIGHT OF 21 JULY 1944\nTWENTY SIX HALIFAX BOMBERS OF NO. 578 SQUADRON ROYAL AIR FORCE\nTOOK OFF FROM BURN TO ATTACK THE GERMAN SYNTHETIC OIL REFINERY\nAT BOTTROP IN THE RHINE VALLEY OF GERMANY.\nSIX AIRCRAFT WERE LOST DURING THE RAID\nTWO OF WHICH, ON THEIR RETURN, COLLIDED IN MID AIR\nAND FELL TO EARTH NEAR THIS PLACE. THERE WERE NO SURVIVORS.\nTHE CREW MEMBERS WERE:\n(names)\nMAY THEY REST IN PEACE AND RISE IN GLORY\nTHIS WAS THE MOST DISASTEROUS SINGLE OPERATION MOUNTED BY THIS SQUADRON\nRESULTING IN THE LOSS OF SIX AIRCRAFT, THE DEATH OF 36 PRECIOUS AIRMEN\nWITH FOUR OTHERS BEING TAKEN AS PRISONERS OF WAR.\nA FURTHER TWO AIRMEN MANAGED TO EVADE CAPTURE BY THE ENEMY Explanatory plaque: THE 578 SQUADRON BURN ASSOCIATION\nWISHES TO PLACE ON RECORD, APPRECIATION, RESPECT AND THANKS\nTO THE PEOPLE OF THIS AREA OF YORKSHIRE\nFOR THEIR SPLENDID COOPERATION IN PROVIDING THIS SITE\nAND CONTRIBUTING THE PRACTICAL AND FINANCIAL ASSISTANCE\nTO ENABLE THIS MEMORIAL TO BE COMPLETED IN SO SHORT A TIME\n6 MAY 2006",
+  "community_connection": "The 578 Squadron Burn Association wishes to place on record, appreciation, respect and thanks to the people of this area of Yorkshire for their splendid cooperation in providing this site and contributing the practical and financial assistance to enable this memorial to be completed in so short a time. 6 May 2006. This memorial serves as a poignant reminder of the sacrifices made by these airmen and the impact of war on their community.",
+  "remembrance": [
+    {
+      "name": "578 Squadron Airmen of the Balkholme Mid-Air Collision",
+      "date": null,
+      "description": "A memorial commemorating the mid-air collision involving airmen from 578 Squadron."
+    }
+  ],
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
+}

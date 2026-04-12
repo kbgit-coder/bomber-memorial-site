@@ -37,7 +37,8 @@
         "Memorial catalogued in national War Memorials Register"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Plungar Lancaster Memorial honoring fallen crew from IWM War Memorials Register."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -48,7 +49,8 @@
         "Aircraft was returning from mine-laying operation over France"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore the Lancaster Memorial at Plungar: International crash site database entry for ED549, detailing the 100 Squadron's tragic loss during a mine-laying mission."
     },
     {
       "source_site": "War Memorials Online",
@@ -61,7 +63,8 @@
         "Championed by local historian Tim Chamberlain"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Plungar Lancaster Memorial: A community-maintained granite tribute unveiled in 2012 after a solemn service at St Helen's Church."
     },
     {
       "source_site": "Leicestershire War Memorials",
@@ -71,7 +74,8 @@
         "Listed in Leicestershire county memorial register"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Plungar Lancaster Memorial's history and its significance in Leicestershire War Memorials collection."
     },
     {
       "source_site": "Air Crash Victims of World War II (tr4ce.co.uk)",
@@ -84,7 +88,8 @@
         "Aircraft code was HW-S"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed crew listing for Lancaster ED549 HW-S of 100 Squadron, including ages and ranks."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -97,7 +102,8 @@
         "Semi-stalled condition on approach"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore aviation safety incident details of Lancaster ED549 landing mishap at Langar aerodrome."
     }
   ],
   "local_contacts": [
@@ -202,6 +208,13 @@
       "rank": "—"
     }
   ],
-  "memorial_details": "Name: Avro Lancaster ED549\nType: Stone of remembrance\nDescription: Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\nInscription: IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / (Names) / (Name) / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM\nLocation: Opposite Grange Farm on the Grantham Canal Plungar Melton Leicestershire NG13 0JJ England\nGrid Ref: SK 76582 34275\nCoordinates: 52.900471341632,-0.862924895393\nPhotos: https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg",
-  "narrative": "IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / (Names) / (Name) / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM"
+  "memorial_details": "Name: Avro Lancaster ED549\nType: Stone of remembrance\nDescription: Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\nInscription: IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / (Names) / (Name) / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM\nLocation: Opposite Grange Farm on the Grantham Canal Plungar Melton Leicestershire NG13 0JJ England\nGrid Ref: SK 76582 34275\nCoordinates: 52.900471341632,-0.862924895393\nPhotos: https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg\n\nMemorial Unveiling: The unveiling of the Avro Lancaster ED549 memorial.",
+  "narrative": "On March 5, 1943, Lancaster bomber ED549, belonging to 100 Squadron, tragically crashed near this site upon its return from operations in France. Among the crew, only one individual survived - (Name). This memorial honors the remaining members of the crew who perished that day.",
+  "inscription": "IN MEMORY OF\nTHE CREW OF\nLANCASTER BOMBER ED549\nWHICH CRASHED CLOSE TO\nTHIS SITE ON RETURNING\nFROM OPERATIONS IN FRANCE\n5TH MARCH 1943\n(Names)\n(Name)\nWAS THE\nSOLE SURVIVOR\nWE WILL REMEMBER THEM",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "This event is commemorated through a memorial unveiled in 2012 to honor the crew.",
+  "crash_category": "operational-return",
+  "narrative_quality_score": 4
 }

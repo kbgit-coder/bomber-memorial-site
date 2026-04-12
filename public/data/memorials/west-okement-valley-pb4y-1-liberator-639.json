@@ -19,7 +19,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "The PB4Y-1 Liberator was the US Navy's version of the B-24, deployed to RAF Dunkeswell in Devon for anti-submarine operations over the Bay of Biscay. Squadron VB-110 operated these long-range maritime patrol aircraft against German U-boats threatening Allied Atlantic convoys. On 28 December 1943, Liberator 63926 was in transit when it encountered poor visibility over Dartmoor. The aircraft flew into the steep-sided West Okement Valley, crashing between the Slipper Stones and Steng-a-Tor on the western side, opposite the south end of Black-a-Tor Copse. All ten crew members were killed instantly. The crash site is remote and remains littered with wreckage fragments. Though this is a US Navy rather than RAF Bomber Command aircraft, it represents the broader Allied bomber operations that used Devon bases extensively.",
+  "narrative": "On anti-submarine patrol over the Bay of Biscay, PB4Y-1 Liberator 63926 of US Navy Squadron VB-110 struck high ground in the West Okement Valley, Dartmoor, in poor visibility during transit. Lieutenant William W. Parish was at the controls, with Ensigns Donald M. Lyons and Roger W. Lovelace Jr. serving as co-pilot and navigator. The remaining crew comprised flight engineers Arthur J. Stork and John E. Shaffer, radio operators Leo M. Davenport and John F. Benson, and gunners Alfred J. Roddy Jr., Dwight E. Nash, and ordnance operator Charles A. All ten men were killed.",
   "crew": [
     {
       "rank": "Lt",
@@ -124,7 +124,7 @@
   ],
   "cause_of_loss": "Aircraft flew into high ground in poor visibility during transit",
   "operation_type": "Anti-submarine patrol (Bay of Biscay operations)",
-  "memorial_details": "For nearly 80 years, the crash site had no formal memorial. In May 2022, a memorial plaque was installed on the ridge above the valley. The stone was brought to the location by a Royal Navy Commando helicopter, given the remoteness of the site. The memorial is accessible via a walk from Meldon Reservoir car park, approximately 3 miles. Wreckage remains visible at the crash site below.",
+  "memorial_details": "For nearly 80 years, the crash site had no formal memorial. In May 2022, a memorial plaque was installed on the ridge above the valley. The stone was brought to the location by a Royal Navy Commando helicopter, given the remoteness of the site. The memorial is accessible via a walk from Meldon Reservoir car park, approximately 3 miles. Wreckage remains visible at the crash site below.\n\nA WW2 memorial was recently dedicated on Dartmoor, honoring the tragic history of a US Navy PB4Y-1 Liberator that crashed there.\n\nWreckage from the aircraft remains on the moorland, and a memorial plaque has since been installed at the site in their honour.",
   "latitude": 50.702,
   "longitude": -4.039,
   "maintainer": {
@@ -145,7 +145,8 @@
         "Considerable wreckage still visible at site over 80 years later"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of PB4Y-1 Liberator 63926 crash site at West Okement Valley."
     },
     {
       "source_site": "Legendary Dartmoor",
@@ -156,7 +157,8 @@
         "Wreckage strewn from near ridge top down to the river"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the haunting tale of the Lost Liberator's crash site and its commemorative tribute at West Okement Valley 63926 Memorial."
     },
     {
       "source_site": "Royal Navy",
@@ -168,7 +170,8 @@
         "Official military involvement in memorial installation"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Official Royal Navy announcement on May 2022 memorial at West Okement Valley 63926 Dartmoor crash site."
     },
     {
       "source_site": "Moorland Ramblings",
@@ -179,7 +182,8 @@
         "Photographic documentation of wreckage and memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Memorial: West Okement Valley 63926, guided by Moorland Ramblings' detailed PB4Y-1 Liberator crash site route and its newly installed memorial plaque."
     },
     {
       "source_site": "The Moorlander",
@@ -189,7 +193,8 @@
         "Photographic documentation of wreckage fragments at crash site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore haunting photo gallery of US Navy PB4Y-1 Liberator crash wreckage at West Okement Valley 63926 Memorial on Dartmoor."
     },
     {
       "source_site": "Pastscape (Historic England)",
@@ -200,7 +205,8 @@
         "Listed under aircraft designation 63926/E"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Heritage Documentation: Explore Archaeological Recordings of Historic England's Crash Site for PB4Y-1 Liberator 63926/E in West Okement Valley 63926 Memorial."
     }
   ],
   "local_contacts": [
@@ -222,5 +228,9 @@
   "squadron_display_name": "VB-110 (US Navy)",
   "squadron_aliases": [
     "VB-110 (US Navy)"
-  ]
+  ],
+  "community_connection": "The memorial is a result of community efforts to preserve this piece of local and national history.",
+  "crash_category": "weather",
+  "narrative_quality_score": 3,
+  "narrative_source": "generated-claude-sonnet"
 }

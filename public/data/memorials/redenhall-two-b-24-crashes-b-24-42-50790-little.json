@@ -37,7 +37,8 @@
         "No. 3 position in Low Squadron formation"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore American Air Museum archive detailing B-24 42-50790 'Little King' crash history and loss."
     },
     {
       "source_site": "Royal British Legion (Harleston Branch)",
@@ -50,7 +51,8 @@
         "Memorial dedicated August 2011"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed PDF account of Redenhall Memorial documenting tragic mid-air collision involving two B-24s."
     },
     {
       "source_site": "American Air Museum in Britain",
@@ -61,7 +63,8 @@
         "446th Bomb Group based at Flixton"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore archive entry detailing B-24 42-51909's collision incident, crew records, and crash aftermath at American Air Museum in Britain."
     },
     {
       "source_site": "446th Bomb Group Aviation Museum",
@@ -72,7 +75,8 @@
         "New memorial plaque presented by James Duckworth III of 446th BG"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history of 446th Bomb Group's B-24 crashes at Redenhall."
     }
   ],
   "local_contacts": [
@@ -99,5 +103,26 @@
   "squadron_display_name": "446th Bomb Group USAAF",
   "squadron_aliases": [
     "446th BG"
-  ]
+  ],
+  "narrative": "On 11 April 1945, two B-24 Liberators from the 446th Bombardment Group, based at Flixton, were lost in a mid-air collision over Redenhall, Norfolk. The aircraft — 42-50790, named \"Little King,\" and 42-51909 — came down in what proved to be one of the most devastating non-combat losses in the Group's history. Among those aboard were crew members Cecil and Brogger, though their full details are not recorded here. The collision claimed 23 lives across both aircraft combined. The 446th had operated from Flixton since late 1943, flying missions across occupied Europe; these men were lost just weeks before the Group flew its final mission on 25 April 1945.",
+  "community_connection": "The museum also includes collections dedicated to the 56th Fighter Group and the 5th Emergency Rescue Squadron, both based at Halesworth. Memorial at Flixton was unveiled by Bill Davenport, President of the 446th. Bomb Group Association in 1993 during a Group reunion.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Cecil",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brogger",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "memorial_details": "Unveiling of 446th B.G. Memorial (1993): Dedicated to the memory of the 456 airmen killed in action and to those serving at Flixton from 1943 - 1945, unveiled by Bill Davenport, President of the 446th Bomb Group Association during a Group reunion.\n\n446th Bombardment Group Museum is housed in a World War Two Nissen hut, erected to house the displays of uniforms, medals and badges worn and donated by members of the 446th B.G.\n\nOther artifacts on display include photographic displays of aircraft, both in the air and on the ground around the base, engines, a B24 rear gun turret, wheel and oleo, 50 calibre machine guns and items found on the base in the 90s.\n\nIt features a superb cast bronze plaque featuring a Liberator and Eighth Air Force badge which the memory of all those who gave their lives or served with the 446th Bomb Group based at Flixton, Bungay, 1943 - 1945.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

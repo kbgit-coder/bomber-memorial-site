@@ -20,7 +20,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "On the night of 23/24 November 1943, Halifax DT578 from 1658 HCU at Riccall took off on a night cross-country training exercise. The aircraft was one of several Halifax trainers airborne that night in conditions that included severe icing at altitude. The Halifax struck the western slope of Great Whernside at approximately 2,000 feet, killing all seven crew instantly. For many years it was believed that DT578 had collided mid-air with another Halifax from the same unit, JB926, which crashed the same night less than ten miles away near Masham. However, closer examination of the Accident Investigation Branch reports showed that JB926 was actually over St Bees Head on the Cumbrian coast at the time of DT578's crash, and did not come down at Agra Moor near Masham until 01:15 hours. The two crashes were independent incidents, both likely caused by icing. The crew of DT578 were all British, ranging in age from 19 to 30. Navigator Frank Robson was the eldest at 30; the youngest, wireless operator Norman Martin and gunner Kenneth Vincent, were both 19.",
+  "narrative": "Halifax DT578 departed RAF Riccall on a night training exercise with a crew of seven, piloted by Sergeant Chadwick. The aircraft flew into the hillside of Great Whernside, above Kettlewell in the Pennines, in conditions of probable icing. All seven men aboard were killed. Among them was Sergeant Kenneth Vincent, an air gunner aged just 19, and navigator Sergeant Frank Weldon Robson, at 30 the eldest of the crew. The remaining crew — Sergeant Frank James Robinson, Sergeant Norman Sebright Martin, Sergeant Donald Paget Aitken, and Sergeant Ernest Stabler — also perished. There were no survivors.",
   "crew": [
     {
       "rank": "Sgt",
@@ -105,6 +105,22 @@
       "fate": "Killed",
       "fate_detail": "Killed when Halifax DT578 struck the western slope of Great Whernside at approximately 2,000 feet in severe icing conditions on the night of 23/24 November 1943.",
       "cwgc_verified": true
+    },
+    {
+      "name": "Sgt S Chadwick RAFVR",
+      "rank": null,
+      "fate": "Killed",
+      "role": "unknown",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "Sgt F J Robinson RAF",
+      "rank": null,
+      "fate": "Killed",
+      "role": "unknown",
+      "age": 25,
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Flew into hillside; probable icing conditions",
@@ -123,7 +139,8 @@
       "summary": "Detailed account of Halifax DT578 from 1658 HCU Riccall, which crashed into Great Whernside above Kettlewell on 23 November 1943. The aircraft flew in a flight of six Halifaxes on a stormy night with severe turbulence, gale force winds, and icing conditions.",
       "key_details": "Aircraft was built by English Electric, Preston. Previously in service with 502 Squadron Coastal Command. Icing conditions reported at 4,000 feet. Not a mid-air collision with JB926 as previously believed; both incidents were independent.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of Halifax DT578's crash at Great Whernside, including weather conditions and flight details from 1658 HCU Riccall."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -131,7 +148,8 @@
       "summary": "Crash database entry for Halifax DT578 at Great Whernside, North Yorkshire. Records the aircraft as from 1658 HCU RAF Riccall, lost on a night cross-country training exercise in severe weather.",
       "key_details": "Crash date 23 November 1943. Unit 1658 HCU, RAF Riccall. All seven crew killed.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Halifax Memorial's crash database entry for Great Whernside, detailing its tragic loss during a night training exercise amidst harsh weather conditions."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -139,7 +157,8 @@
       "summary": "Photographic documentation of the DT578 crash site on Great Whernside, including wreckage remains. Memorial plaque placed at the site in June 2016 by Joseph Stabler (half-brother of crew member Ernest Stabler) and the Robson family.",
       "key_details": "Memorial plaque dedicated June 2016. Organised by Joseph Stabler and David Robson with wider family members. A separate memorial exists inside the chapel at Hagg Dyke.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore photographic evidence and memorial plaque from DT578 crash site on Great Whernside."
     },
     {
       "source_site": "Airedale & Wharfedale Family History Society",
@@ -147,7 +166,8 @@
       "summary": "Family history society record of the Great Whernside crash site memorial near Kettlewell, documenting the seven crew members and their burial locations across England.",
       "key_details": "Crash site at approximately 2,310 feet on Great Whernside, Yorkshire Dales. Accessible on foot from Kettlewell.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Great Whernside Halifax Memorial's family history society documentation, detailing seven crew members' lives and burials in England."
     }
   ],
   "local_contacts": [
@@ -175,5 +195,17 @@
   "squadron_display_name": "1658 HCU",
   "squadron_aliases": [
     "1658 Heavy Conversion Unit"
-  ]
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Did he leave me anything? The History and Traditions of Willmaking",
+        "date": "Monday, 13 April 2026 at 7:00pm",
+        "description": "Looks at the customs and process of making and proving a will and explores how people ensured their loved ones received their inheritance."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

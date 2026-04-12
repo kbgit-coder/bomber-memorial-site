@@ -29,7 +29,8 @@
       "fate": "Killed",
       "fate_detail": "Killed when the Lancaster flew into Tintwistle Knarr in heavy cloud at midnight. Had begun his descent procedure while still over the Pennine hills.",
       "bio": "Flight Sergeant and pilot who unknowingly strayed west over the Pennines in heavy cloud during a night familiarisation exercise.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Flight Lieutenant",
@@ -38,7 +39,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the hillside crash.",
       "bio": "Flight Lieutenant serving as navigator.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Flight Sergeant",
@@ -47,7 +49,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash.",
       "bio": "Flight Sergeant serving as signaller.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Flight Sergeant",
@@ -56,7 +59,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and subsequent fire that gutted the aircraft.",
       "bio": "Flight Sergeant serving as flight engineer.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sergeant",
@@ -65,7 +69,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash.",
       "bio": "Sergeant serving as signaller.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Flight Lieutenant",
@@ -74,7 +79,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Was serving as instructor on the training flight.",
       "bio": "Flight Lieutenant serving as instructor from 230 OCU.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Flight Sergeant",
@@ -83,7 +89,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Was serving as instructor.",
       "bio": "Flight Sergeant serving as instructor.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Aircraft strayed too far west of Lindholme without the pilot realising. He began his let-down procedure while still over high ground. The Lancaster flew into the hillside, burst into flames and was gutted by fire.",
@@ -103,7 +110,8 @@
       "summary": "Comprehensive crash site record for Lancaster PA411 at Tintwistle Knarr. Includes the full crash investigation findings, crew details, and information about wreckage still visible at the site. Loss of position in low cloud was cited as a contributory factor.",
       "key_details": "Aircraft was from 230 OCU (Operational Conversion Unit). The crash investigation found the pilot had strayed west over the Pennines in heavy cloud and began descent too early. Locals heard the aircraft flying low up the valley before a vivid flash and crunch of metal.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore comprehensive crash site records, investigation findings, crew details, and wreckage remnants for Lancaster PA411 at Tintwistle Knarr."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -111,7 +119,8 @@
       "summary": "Accident database entry for Avro Lancaster B Mk VII FE PA411, recording the crash on 21 December 1948 at Tintwistle Knarr, Longdendale. All seven crew killed.",
       "key_details": "Aircraft type was Lancaster Mk VII FE variant. Based at RAF Lindholme. Night familiarisation exercise. Crash time approximately midnight on 20/21 December 1948.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accident report of Lancaster B Mk VII FE PA411 crash in Tintwistle Knarr."
     },
     {
       "source_site": "Air Crash Sites UK",
@@ -119,7 +128,8 @@
       "summary": "Photographic record and walking guide to the Lancaster PA411 crash site on Tintwistle Knarr. Notes that the site is one of three aircraft crash locations on the same hillside, along with a P-38 Lightning and three Hurricanes.",
       "key_details": "Multiple aircraft crash sites clustered on Tintwistle Knarr. The wooden cross memorial commemorates all airmen who died on this hillside across different crashes.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore photographic record and walking guide to Lancaster PA411 crash site at Tintwistle Knarr."
     }
   ],
   "local_contacts": [
@@ -141,5 +151,7 @@
   "squadron_display_name": "RAF Lindholme",
   "squadron_aliases": [
     "RAF Lindholme"
-  ]
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

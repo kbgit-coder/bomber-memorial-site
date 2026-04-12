@@ -37,7 +37,8 @@
         "Last fatal aircraft accident at Bottesford during WWII"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial: Westborough Lancaster Memorial honoring fallen crew members."
     },
     {
       "source_site": "Rock Enterprises Column",
@@ -50,7 +51,8 @@
         "Enquiry blamed loss of control in haze and poor visibility"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of LM619 Lancaster Memorial's crash site at Westborough during night bombing practice."
     },
     {
       "source_site": "International Bomber Command Centre (Facebook)",
@@ -61,7 +63,8 @@
         "Confirms 1668 HCU training flight details"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The details of the tragic Lancaster LM619 crash at Westborough, Lincolnshire in this International Bomber Command Centre post."
     },
     {
       "source_site": "Bottesford Living History",
@@ -72,7 +75,8 @@
         "LM619 was the last fatal crash at the station"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore WWII air accident history in 'On the Wings of the Morning' chapter 17."
     },
     {
       "source_site": "Aviation Trails",
@@ -82,7 +86,8 @@
         "Contextualises LM619 within broader Bottesford accident history"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accounts of aviation incidents and historical operations at Westborough Lancaster Memorial."
     }
   ],
   "local_contacts": [
@@ -156,5 +161,80 @@
   "squadron_display_name": "1668 HCU",
   "squadron_aliases": [
     "1668 HCU"
-  ]
+  ],
+  "narrative": "Flying Officer Ivan Lindsay Thompson was at the controls of Lancaster LM619 on a night bombing practice flight from Bottesford when the aircraft came down near Westborough, Lincolnshire on 15 January 1945. The crew were assigned to 1668 Heavy Conversion Unit, undergoing the advanced training required before operational service. Six of those aboard were killed in the crash. The source data does not confirm the cause of the accident or the fate of the remaining crew members. A memorial at Westborough today marks the site where LM619 fell, preserving the names of those who did not survive.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "RAF Bottesford opening",
+        "date": "1941",
+        "description": "Under the control of No. 5 Group, RAF Bottesford opened as a new bomber airfield with concrete surfaces."
+      },
+      {
+        "name": "Bizarre accident at RAF Bottesford",
+        "date": "Not specified in the text",
+        "description": "An accident occurred that resulted in the death of five airmen."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Harold Curson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Broemeling",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thiele",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Aicken",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robert Sinden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Derek Arnold Booth",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Paxton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flinn",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ken Batchelor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Don Moore",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ashby",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

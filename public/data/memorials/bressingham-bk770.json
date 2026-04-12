@@ -39,7 +39,8 @@
         "Crashed at Valley Farm, Bressingham"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of the Stirling Mk.III BK770's fate, including its arrival, loss, and crash site."
     }
   ],
   "crew": [
@@ -48,13 +49,17 @@
       "rank": "W/O",
       "role": "Pilot",
       "nationality": "New Zealander",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 27,
+      "burial_location": "Newmarket Cemetery"
     },
     {
       "name": "Bertram Augustus Moffatt",
       "rank": "F/Sgt",
       "role": "Navigator",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 25,
+      "burial_location": "Newmarket Cemetery"
     },
     {
       "name": "Francis Henry Reddicliffe",
@@ -66,25 +71,51 @@
       "name": "John William Scudder",
       "rank": "Sgt",
       "role": "Wireless Operator",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 22,
+      "burial_location": "Streatham Park Cemetery"
     },
     {
       "name": "Jack Herbert Worthington",
       "rank": "Sgt",
       "role": "Flight Engineer",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 19,
+      "burial_location": "Newmarket Cemetery"
     },
     {
       "name": "Stanley Arthur Curtis",
       "rank": "Sgt",
       "role": "Mid Upper Gunner",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 28,
+      "burial_location": "Newmarket Cemetery"
     },
     {
       "name": "Phillip Gordon Stuart",
       "rank": "Sgt",
       "role": "Rear Gunner",
-      "fate": "Killed"
+      "fate": "Killed",
+      "age": 30,
+      "burial_location": "Streatham Park Cemetery"
+    },
+    {
+      "name": "Age",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Francis Henry Reddiclife",
+      "rank": null,
+      "fate": "Unknown",
+      "role": null,
+      "age": 28,
+      "burial_location": "Newmarket Cemetery"
+    },
+    {
+      "name": "Colin",
+      "rank": null,
+      "fate": "Unknown"
     }
   ],
   "local_contacts": [
@@ -115,5 +146,9 @@
     "75 (NZ) Squadron",
     "75 Squadron",
     "75 Sqdn."
-  ]
+  ],
+  "narrative": "Stirling BK770 of 75 (NZ) Squadron departed Newmarket on operations on 10 April 1943, with Warrant Officer Walsh at the controls. The aircraft came down at Bressingham, Norfolk, and all seven crew members were killed. Walsh, a New Zealander aged 27, flew alongside Navigator Flight Sergeant Bertram Augustus Moffatt, Air Bomber Sergeant Francis Henry Reddicliffe, Wireless Operator Sergeant John William Scudder, Flight Engineer Sergeant Jack Herbert Worthington, Mid Upper Gunner Sergeant Stanley Arthur Curtis, and Rear Gunner Sergeant Phillip Gordon Stuart. The youngest member of the crew, Sergeant Worthington, was 19 years old.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

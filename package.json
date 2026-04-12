@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/strip-internal-fields.js",
+    "prebuild": "node scripts/clean-narratives.js && node scripts/filter-narrative-depth.js && python3 scripts/section-relevancy-scorer.py && node scripts/strip-internal-fields.js && node scripts/generate-sitemap.js && node scripts/validate-consistency.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

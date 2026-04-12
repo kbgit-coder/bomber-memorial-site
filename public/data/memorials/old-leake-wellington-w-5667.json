@@ -37,7 +37,8 @@
         "Five crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore forum discussion on Wellington crash at Old Leake in Feb 1943, featuring expert insights and historical context."
     },
     {
       "source_site": "yorkshire-aircraft.co.uk",
@@ -50,7 +51,8 @@
         "Cat.E2/FA Burnt damage classification"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the historical journey of the Wellington W5667 aircraft in this detailed Yorkshire Aircraft database entry."
     },
     {
       "source_site": "Geograph",
@@ -60,7 +62,8 @@
         "Listed among Lincolnshire crash memorials survey"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical details about the Old Leake Wellington Memorial in this Geograph article on East Anglia WW2 aircrew crash memorials."
     }
   ],
   "local_contacts": [
@@ -87,5 +90,101 @@
   "squadron_display_name": "14 OTU",
   "squadron_aliases": [
     "14 OTU"
-  ]
+  ],
+  "narrative": "Wellington W5667, operating from Saltby with 14 OTU, was on a training flight on the morning of Sunday 6 February 1943 when the aircraft failed to recover from a stall, struck the ground at Grant's Farm, Old Leake Commonside, Lincolnshire, and burst into flames. Five of the crew were killed; Sgt Thomas Joseph Pugh survived. Among those who died was bomb-aimer Sgt John Sykes, who had trained in Canada and had become RCAF Table Tennis Champion there in late 1942. Also killed were Sgt Arthur Percy Gainsford of the Royal New Zealand Air Force and Sgt Patrick Clement Geary.",
+  "crew": [
+    {
+      "name": "Arthur Percy Gainsford",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Pilot"
+    },
+    {
+      "name": "Thomas Joseph Pugh",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Pilot"
+    },
+    {
+      "name": "Alexander Reynell Galbraith",
+      "rank": "P/O",
+      "fate": "Unknown",
+      "role": "Observer"
+    },
+    {
+      "name": "Frederick Maxfield",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Wireless Operator / Air Gunner"
+    },
+    {
+      "name": "Christopher William Turner",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Wireless Operator / Air Gunner"
+    },
+    {
+      "name": "Patrick Clement Geary",
+      "rank": "Sgt",
+      "fate": "Kia",
+      "role": "Air Gunner"
+    },
+    {
+      "name": "John Sykes",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "bomb-aimer",
+      "nationality": "British"
+    },
+    {
+      "name": "Status",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt Arthur Percy Gainsford RNZAF (NZ.402863)",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "Sgt Thomas Joseph Pugh RAFVR (1107190)",
+      "rank": null,
+      "fate": "Survived",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "P/O Alexander Reynell Galbraith RNZAF (NZ.403598)",
+      "rank": null,
+      "fate": "Survived",
+      "role": "Observer",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "Sgt Frederick Maxfield RAFVR (746894)",
+      "rank": "Wireless Operator / Air Gunner",
+      "fate": "Injured",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Sgt Christopher William Turner RAFVR (917377)",
+      "rank": "Wireless Operator / Air Gunner",
+      "fate": "Survived",
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Sgt Patrick Clement Geary RAFVR (914328)",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

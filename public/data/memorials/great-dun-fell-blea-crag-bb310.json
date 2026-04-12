@@ -33,7 +33,8 @@
       "summary": "Detailed account of Halifax BB310's crash into Blea Crag on Great Dun Fell on 12 April 1944. The aircraft was from 1674 HCU at RAF Longtown and had been airborne for eight and a half hours on a cross-country night navigation exercise when it struck the fell.",
       "key_details": "BB310 was originally a Coastal Command aircraft with 502 Squadron. Built by LAPG as a Mk.II Series 1 between November 1942 and January 1943. Low cloud covering the north-west coast contributed to the crew overflying their base. The impact created a visible crater in the scree rocks.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Halifax BB310 crash into Blea Crag on Great Dun Fell on April 12, 1944."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -41,7 +42,8 @@
       "summary": "Crash record for Halifax BB310, 1674 HCU, at Great Dun Fell, Cumbria on 12 April 1944. The crew consisted of five student pilots and four instructors, all killed when the aircraft was at insufficient height to clear the high ground.",
       "key_details": "Unit 1674 HCU provided crews for Coastal Command. Crew included both student pilots and instructors. Aircraft exploded on impact.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed air accident analysis report for Halifax BB310 crash in Great Dun Fell, Cumbria on 12 April 1944."
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -49,7 +51,8 @@
       "summary": "Halifax BB310 crash site documentation with photographs of remaining wreckage on Great Dun Fell. The stone cairn with plaque marks the site in the remote North Pennines.",
       "key_details": "Stone cairn with plaque at the crash site. Remote hillside location accessible on foot.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Haunting Halifax BB310 crash site photos and memorial at Great Dun Fell's remote North Pennines."
     }
   ],
   "local_contacts": [
@@ -76,5 +79,98 @@
   "squadron_display_name": "RAF Longtown",
   "squadron_aliases": [
     "RAF Longtown"
-  ]
+  ],
+  "crew": [
+    {
+      "name": "Paul Bevens Stevens",
+      "rank": "F/O",
+      "fate": "Unknown",
+      "role": "RCAF Pilot (U/T)",
+      "nationality": "Canadian",
+      "burial_location": "Chester (Blacon) Cemetery"
+    },
+    {
+      "name": "Sydney Brookes",
+      "rank": "F/O",
+      "fate": "Unknown",
+      "role": "Pilot (U/T)",
+      "nationality": "British",
+      "burial_location": "Chester (Blacon) Cemetery"
+    },
+    {
+      "name": "Flt Sgt William Johnson RAFVR DFM",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British"
+    },
+    {
+      "name": "Frank Pess",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": null,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Harold S. Seabrook",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": null,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "William Morrison",
+      "rank": "Sgt",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hugh Dunningham",
+      "rank": "Sgt",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dean Swedberg",
+      "rank": "Sgt",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flight Sergeant",
+      "rank": "William John Morrison",
+      "fate": "Killed",
+      "role": "Navigator / Bomb Aimer",
+      "nationality": "British",
+      "burial_location": "Chester (Blacon) Cemetery"
+    },
+    {
+      "name": "Flt Sgt Harold Seabrook RCAF",
+      "rank": "Frank Pess",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air gunner",
+      "nationality": "Canadian",
+      "burial_location": "Chester (Blacon) Cemetery"
+    },
+    {
+      "name": "Sgt Robert Littlefield RAFVR",
+      "rank": "Second Pilot",
+      "fate": "Killed",
+      "role": "Second Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "William 'Alan' Johnson",
+      "rank": "Wireless Op / Air Gunner",
+      "fate": "Killed",
+      "role": "RAFVR DFM",
+      "nationality": "British"
+    }
+  ],
+  "narrative": "Halifax BB310 was eight hours into a training flight out of RAF Longtown, preparing crew for Coastal Command operations, when it struck Blea Crag on Great Dun Fell in the North Pennines on 12 April 1944. The aircraft exploded on impact, creating a crater still visible among the scree. The entire crew were killed, probably instantly. Flying Officer Paul B. Stevens of the RCAF was at the controls, accompanied by Flying Officer Sydney Brookes as second pilot, Flight Sergeant William \"Alan\" Johnson DFM, Flight Sergeant Frank Pess, Flight Sergeant Harold S. Seabrook, Sergeant Robert J. Littlefield, and Sergeant William J. Morrison. BB310 had previously served with 502 Squadron before being transferred to training duties with 1674 HCU.",
+  "community_connection": "On May 1st, 1994, a memorial plaque was placed at the crash site of Halifax BB310 on Great Dun Fell in the northern Pennines.",
+  "remembrance": {
+    "events": []
+  },
+  "memorial_details": "The plaque's installation was noted on the 70th anniversary of the crash, April 12, 2014.\n\nMemorial Plaque Placement (May 1st, 1994): A memorial plaque was placed at the crash site to commemorate the crew members who lost their lives in the Halifax BB310 aircrash.",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

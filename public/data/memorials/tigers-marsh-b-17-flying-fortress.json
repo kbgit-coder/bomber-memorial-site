@@ -33,7 +33,8 @@
       "summary": "Dartmoor artefacts database entry for the B-17 Flying Fortress crash at Tiger's Marsh on Christmas Day 1943. The aircraft (serial 42-37869) had landed at RAF St Eval in Cornwall after a meteorological reconnaissance sortie and was departing for its base at Cheddington, Hertfordshire.",
       "key_details": "Serial 42-37869. Pilot attempted to maintain visual contact with the ground on a north-easterly track but entered cloud hanging over the valley. The aircraft struck the hillside, bounced up the slope, and caught fire. The impact area is permanently blackened — the grass has never grown back.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Dartmoor artefacts database entry for B-17 Flying Fortress crash site on Christmas Day 1943."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -41,7 +42,8 @@
       "summary": "Accident database entry for Boeing B-17G Flying Fortress 42-37869, recording the crash on 25 December 1943 at Tiger's Marsh, Dartmoor, during a transit flight from RAF St Eval.",
       "key_details": "Five crew killed, three survived with injuries. Survivors included crew members who were rescued from the remote moorland location. Crash occurred on Christmas Day 1943.",
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore detailed accident report of Boeing B-17G Flying Fortress 42-37869 crash in Tiger's Marsh, Dartmoor on December 25, 1943."
     },
     {
       "source_site": "Something About Dartmoor",
@@ -49,7 +51,8 @@
       "summary": "Narrative account of Dartmoor's WW2 crash sites including the B-17 at Tiger's Marsh. Describes the memorial stone and the lasting physical scar on the landscape where the aircraft burned.",
       "key_details": "Crew included Ernest H Patterson, Raymond A Coates, Richard T Nearly, Sherwood R Renner, Samuel L Craig, Mario A Panitti, Albeny T Blanchard, and Basil Brown (RAF liaison). Memorial stone marks the crash site.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Dartmoor's WWII history: Discover the haunting memorial of the crashed B-17 at Tiger's Marsh and its impact on the landscape."
     }
   ],
   "local_contacts": [
@@ -71,5 +74,8 @@
   "squadron_display_name": "USAAF (meteorological reconnaissance)",
   "squadron_aliases": [
     "USAAF (meteorological reconnaissance)"
-  ]
+  ],
+  "narrative": "Crashed on Dartmoor while returning to Dunkerswell Airfield from operations against enemy shipping in the Bay Of Biscay. Probable cause of crash navigational error and low cloud. The aircraft hit the side of rising ground on the west side of Dartmoor.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

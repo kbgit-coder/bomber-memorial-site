@@ -31,7 +31,8 @@
       "summary": "Feature on the lost crews of WW2 at Garrowby Hill and other Yorkshire sites. More than 18,000 airmen died flying from Yorkshire airfields during WW2, many on training flights in poor weather. Garrowby Hill was a particularly hazardous landmark.",
       "key_details": "Garrowby Hill is one of the highest points on the A166 between York and the coast. Multiple bomber crashes occurred in the area due to its elevation and frequent low cloud. Memorial markers at various crash sites.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore lost WWII crews' stories at Garrowby Hill and Yorkshire sites, highlighting over 18,000 airmen who perished in challenging conditions."
     },
     {
       "source_site": "York Stories",
@@ -39,7 +40,8 @@
       "summary": "Overview of WW2 bomber crash sites in Yorkshire, including the Garrowby Hill area. Documents the concentration of training and operational crashes in the region due to the proximity of RAF bases and the challenging terrain of the Yorkshire Wolds.",
       "key_details": "Yorkshire was home to numerous Bomber Command stations. The Wolds' elevation combined with frequent poor weather made it a graveyard for aircraft in low visibility.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore WWII bomber crash sites overview in Yorkshire, focusing on Garrowby Hill area's military history."
     }
   ],
   "local_contacts": [
@@ -59,5 +61,9 @@
     "last_reviewed": "2026-04-06"
   },
   "squadron_display_name": "",
-  "squadron_aliases": []
+  "squadron_aliases": [],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative": "",
+  "narrative_source": "claude-refusal-insufficient-data"
 }

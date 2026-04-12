@@ -34,7 +34,8 @@
       "summary": "Registry entry for the memorial to the crew of Lancaster LM719, located in the grounds of Stoke Rochford Hall. Includes a memorial plaque and tree planted in their honour.",
       "key_details": "Memorial registered on the national War Memorials Online database. Located in the grounds of Stoke Rochford Hall, Lincolnshire.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant memorial honoring Lancaster LM719 crew at Stoke Rochford Hall's grounds."
     },
     {
       "source_site": "RAF Commands",
@@ -42,7 +43,8 @@
       "summary": "Crash site record for Lancaster LM719 (H4-M) of 1653 HCU, which departed RAF North Luffenham for a cross-country navigation exercise on 28 April 1945. The aircraft flew into a heavy snowstorm and the pilot lost control, crashing at 0320 hours.",
       "key_details": "Aircraft code H4-M. Crashed during a NAVEX training exercise in severe weather. The war in Europe was just days from ending when this training accident occurred.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Crash site record of Lancaster LM719 (H4-M) from RAF North Luffenham's 1653 HCU in this Memorial page."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -50,7 +52,8 @@
       "summary": "Accident database entry for Avro Lancaster B Mk I LM719, recording the crash on Saturday 28 April 1945 near Stoke Rochford Hall during a training exercise from North Luffenham.",
       "key_details": "Aircraft was from 1653 Heavy Conversion Unit. Loss occurred just 10 days before VE Day.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Avro Lancaster B Mk I LM719 accident details: tragic crash near Stoke Rochford Hall in 1945."
     },
     {
       "source_site": "IBCC Digital Archive",
@@ -58,7 +61,8 @@
       "summary": "International Bomber Command Centre post documenting the memorial at Stoke Rochford Hall, noting the RCAF connection and the poignancy of a training loss so close to the end of the war.",
       "key_details": "Canadian (RCAF) crew. Memorial includes both a plaque and a memorial tree in the hall grounds.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Stoke Rochford Hall Lancaster Memorial: Discover its RCAF link and poignant wartime significance at the International Bomber Command Centre's documentation."
     }
   ],
   "local_contacts": [
@@ -127,5 +131,10 @@
   "squadron_display_name": "1653 HCU",
   "squadron_aliases": [
     "1653 HCU"
-  ]
+  ],
+  "narrative": "Communication with ATC was lost despite rocket flares being fired to attract attention. At 03:14hrs, the Lancaster dived into the ground and crashed into trees in the grounds of Stoke Rochford Hall, Stoke Rochford, South Kesteven, Lincolnshire after loss of control - possibly due to airframe icing. Witness reports suggested flames from engines, indicating blocked air intakes by snow.",
+  "community_connection": "",
+  "memorial_details": "The memorial is a plaque and tree located at Stoke Rochford Hall, NG33 5ES, England.\n\nMembers of the crews' relations were present at the unveiling of the plaque.",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

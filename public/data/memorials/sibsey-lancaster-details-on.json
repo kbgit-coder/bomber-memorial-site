@@ -1,6 +1,6 @@
 {
   "id": "sibsey-lancaster-details-on",
-  "title": "Sibsey memorial) Memorial",
+  "title": "Sibsey Lancaster Memorial",
   "location_name": "Sibsey, Lincolnshire",
   "county": "Lincolnshire",
   "country": "United Kingdom",
@@ -39,7 +39,8 @@
         "Heritage monument reference MLI116028"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false
+      "still_live": false,
+      "link_description": "Explore Heritage Record: Discover Avro Lancaster Aircraft Crash Site & War Memorial Details at Sibsey Northlands."
     },
     {
       "source_site": "Coningsby Town Council",
@@ -50,7 +51,8 @@
         "Annual remembrance services held"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Sibsey Lancaster Memorial Trust's page for details about their maintained memorial and annual crew remembrance services."
     },
     {
       "source_site": "Airshows Present",
@@ -63,7 +65,8 @@
         "Pilot: F/L Robert Lind"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Sibsey Northlands Lancaster Memorial's history, featuring poignant photographs and crew names."
     },
     {
       "source_site": "Horncastle News",
@@ -74,7 +77,8 @@
         "Buried in hometown of Dalkeith, Scotland"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Local history: Learn about Sibsey memorial honoring Lancaster bomber crew's tragic sacrifice."
     }
   ],
   "local_contacts": [
@@ -96,5 +100,72 @@
   "squadron_display_name": "Bomber Command",
   "squadron_aliases": [
     "Bomber Command"
-  ]
+  ],
+  "narrative": "On 29 January 1943, the six-man crew of No. 9 Squadron Lancaster ED503 were on a flight that ended in catastrophe over the Lincolnshire Fens at Sibsey Northlands. The cause of the crash remains unknown — the aircraft suddenly lost height and plunged into the field, creating a crater in the quicksand and subsoil. Despite pumping efforts by the fire service, it proved impossible to recover the crew or wreckage. All six men were killed: Flight Lieutenant Robert Frood Lind, Pilot Officer Charles W H Cocks, Sergeant Donald A Brown, Sergeant John Doran, Sergeant Thomas Henry, and Sergeant Thomas Wishart. Wishart alone was thrown clear and is buried in Scotland; the remaining five lie where they fell. In 1947, the families of the crew paid for a memorial to be consecrated on the crash site, bearing the names of all six men.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Service of Commemoration",
+        "date": "Every year at 2.30pm",
+        "description": "A service held at the memorial site to remember the crew members who died in the crash."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "2.30pm"
+  },
+  "crew": [
+    {
+      "name": "Donald A Brown",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "not specified"
+    },
+    {
+      "name": "Robert Frood Lind",
+      "rank": "Flight Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "not specified"
+    },
+    {
+      "name": "Charles W H Cocks",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "burial_location": "not specified"
+    },
+    {
+      "name": "John Doran",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "not specified"
+    },
+    {
+      "name": "Thomas Henry",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "burial_location": "not specified"
+    },
+    {
+      "name": "Thomas Wishart",
+      "rank": "Sergeant",
+      "fate": "Killed/buried in scotland",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "burial_location": "Scotland"
+    }
+  ],
+  "community_connection": "",
+  "memorial_details": "The other 5 bodies remained on the site, and a war memorial was later erected to commemorate the accident.\n\nWar Memorial Erection (1947): A war memorial, a granite stone cross inscribed with the names of the deceased, was constructed to commemorate the accident.\n\nMemorial Placement (1947): The families of the crew members paid for a Memorial to be placed on the site of the Crash, with the names of all six members inscribed.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 5,
+  "narrative_source": "generated-claude-sonnet"
 }

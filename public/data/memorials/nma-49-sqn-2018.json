@@ -15,8 +15,8 @@
     "49 Sqdn."
   ],
   "dedication_date": "2018",
-  "narrative": "49 Squadron RAF flew Manchester and Lancaster bombers during World War Two from stations including Scampton, Fiskerton, and Syerston in Lincolnshire and Nottinghamshire. The squadron suffered heavy losses throughout the strategic bombing campaign. The memorial stone at the National Memorial Arboretum — the UK's primary centre of remembrance, set within 150 acres of grounds in Staffordshire — was dedicated in 2018, reflecting the enduring activity of the 49 Squadron Association. The NMA hosts memorials to many RAF Bomber Command squadrons and units, grouped within its Bomber Command area. The 49 Squadron Association remains active, returning annually to the former airfield sites at Fiskerton and Scampton for Remembrance services.",
-  "memorial_details": "Memorial stone within the Bomber Command memorial area of the National Memorial Arboretum, Croxall Road, Alrewas, Staffordshire DE13 7AR. Dedicated 2018. The NMA is open year-round. 49 Squadron Association maintains close connection to this memorial and to the Fiskerton and Scampton memorial sites.",
+  "narrative": "49 Squadron RAF flew Manchester and Lancaster bombers during World War Two from stations including Scampton, Fiskerton, and Syerston in Lincolnshire and Nottinghamshire. The squadron suffered heavy losses throughout the strategic bombing campaign. The NMA hosts memorials to many RAF Bomber Command squadrons and units, grouped within its Bomber Command area. The 49 Squadron Association remains active, returning annually to the former airfield sites at Fiskerton and Scampton for Remembrance services.",
+  "memorial_details": "Memorial stone within the Bomber Command memorial area of the National Memorial Arboretum, Croxall Road, Alrewas, Staffordshire DE13 7AR. Dedicated 2018. The NMA is open year-round. 49 Squadron Association maintains close connection to this memorial and to the Fiskerton and Scampton memorial sites.\n\nThe memorial stone at the National Memorial Arboretum — the UK's primary centre of remembrance, set within 150 acres of grounds in Staffordshire — was dedicated in 2018, reflecting the enduring activity of the 49 Squadron Association.",
   "sources": [
     {
       "title": "49 Squadron Association Memorials",
@@ -40,7 +40,8 @@
         "Annual Remembrance services at Fiskerton and Scampton"
       ],
       "date_retrieved": "2026-04-07",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore 49 Squadron Association's Memorial Page for National Arboretum's 49 Squadron Stone and Links to Fiskerton & Scampton Sites."
     }
   ],
   "location_confidence": {
@@ -49,5 +50,7 @@
     "verification_date": "2026-04-09",
     "community_submissions": 0,
     "last_reviewed": "2026-04-09"
-  }
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
 }

@@ -27,7 +27,8 @@
         "Official ceremony 12 April 2018"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed records of 57,861 Bomber Command personnel who perished in WW2, engraved on memorial walls; includes a spire and official ceremony details."
     },
     {
       "source_site": "Wikipedia - Battle of Berlin (RAF campaign)",
@@ -40,7 +41,8 @@
         "First raid: 18/19 November 1943"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of RAF's Battle of Berlin (1943-44), including mission statistics, aircraft losses, and historical context."
     },
     {
       "source_site": "IWM",
@@ -50,7 +52,8 @@
         "Comprehensive IWM overview of Bomber Command operations"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of RAF Bomber Command's role in WW2, focusing on the Berlin bombing campaign, accompanied by evocative images and historical context from the Imperial War Museum."
     }
   ],
   "what3words": "monitors.trouser.cherub",
@@ -64,5 +67,8 @@
   "squadron_display_name": "",
   "squadron_aliases": [],
   "memorial_details": "Name: RAF Bomber Command During The Second World War",
-  "narrative": "{\"date\": \"18 November 1943 \\u2013 31 March 1944\", \"location\": \"Berlin, Nazi Germany52\\u00b031\\u2032N 13\\u00b025\\u2032E\\ufeff / \\ufeff52.517\\u00b0N 13.417\\u00b0E\\ufeff / 52.517; 13.417\", \"title\": \"Battle of Berlin (RAF campaign)\"}"
+  "narrative": "The data provided does not contain the specific details required to write this narrative — no pilot name, crew names, aircraft identifier, crash cause, casualties, or personal crew details are present in the source summaries. The sources describe the broader Berlin bombing campaign and RAF Bomber Command memorial records in general terms only.\n\nTo produce an accurate narrative, please supply crash-specific data such as: the pilot's rank and surname, crew names, aircraft type and serial, date, cause of loss, and casualty/survivor information. I will not fill these gaps with plausible fiction.",
+  "crash_category": "general-memorial",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

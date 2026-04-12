@@ -32,7 +32,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "On 11 December 1944, Avro Anson N9853 of No. 16 Flying Training School took off from RAF Newton near Nottingham on a training flight to RAF Millom in Cumbria. The aircraft was crewed by members of the Polish Air Force under RAF command. Flight Lieutenant Aleksander Chelstowski, an experienced Polish pilot, immediately became lost in low cloud after departure. Knowing the Peak District lay between Nottingham and his destination, Chelstowski descended below the cloud to obtain a visual fix, but had not expected to have travelled so far west. The aircraft struck the snow-covered moor on Edale Moor, Kinder Scout. Remarkably, all crew survived the crash with only minor injuries. They were led off the hill and transferred to the RAF Hospital at Wilmslow for treatment before being returned to Newton. The subsequent inquiry found Chelstowski guilty of gross negligence, and his commanding officer recommended he never fly again. Despite this, Chelstowski went on to have a very distinguished remainder of the war and was decorated four times. In 1955, after a request from the newly formed Peak District National Park, an RAF recovery team visited the crash site and others on Kinder to clean up wreckage, though engine and panel remains are still visible today.",
+  "narrative": "On a training flight in December 1944, Avro Anson Mk.I N9853 from No. 16 Flying Training School at RAF Newton came to grief on the snow-covered slopes of Kinder Scout in the Peak District. Flight Lieutenant Aleksander Chelstowski descended below cloud in poor visibility, misjudging his position over the high moorland and striking the snow-covered ground. The aircraft, crewed entirely by Polish airmen, was on a routine training exercise rather than an operational mission. Remarkably, all crew members survived the impact, with Flight Lieutenant Chelstowski and those aboard sustaining only minor injuries.",
   "crew": [
     {
       "rank": "Flt Lt",
@@ -50,6 +50,208 @@
       "nationality": "Polish",
       "fate": "Survived",
       "fate_detail": "Survived with minor injuries. Treated at RAF Hospital Wilmslow."
+    },
+    {
+      "name": "Stefan Pasinski",
+      "rank": "Sergeant",
+      "fate": "Unknown",
+      "role": "Wireless Operator",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Melcinski",
+      "rank": "Flight Lieutenant",
+      "fate": "Unknown",
+      "role": "passenger",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Wotold Siuda",
+      "rank": "Flight Lieutenant",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jan LKlimczak",
+      "rank": "Flying Officer",
+      "fate": "Unknown",
+      "role": "passenger",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Darnaby",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Landon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harry Stroud       Co",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sergeant Ralph Fields Engineer",
+      "rank": "Ralph Fields Engineer\nSergeant",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Staff Sergeant Gene",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kennington John Hythe Harris",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "First Class William",
+      "rank": "William Allen Love",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jack Sherwood Thompson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter Maurice Maskell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flight Sergeant Robert Smith",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Vincent Graham",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thomas Lowerth Johnson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Earl Tilley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Percival Harold Charles Parrott",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph Arthur Haswell  Pilot",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jack Douglas Evelle  Nav",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Frederick Kenneth Webber",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt Dennis Aloysius Monk",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt Evelle",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Fredrick",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Allen",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Chadwick",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Howard Keel Photographic Advisor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Ingram",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "David Merryweather Leach",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hauxwell",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Anthony",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Williams",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jacob Henry Roden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pilot Aircraftman James Craig",
+      "rank": "James Craig \nPilot Aircraftman",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thomas William Rodgers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Adam Wladyslaw Mecinski",
+      "rank": "Flight Lieutenant",
+      "fate": "Injured",
+      "role": "Passenger",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Witold Ludwik Suida",
+      "rank": "Flight Lieutenant",
+      "fate": "Injured",
+      "role": "Passenger",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Jan Zygmunt Kilmczak",
+      "rank": "Flying Officer",
+      "fate": "Injured",
+      "role": "Passenger",
+      "nationality": "Polish"
     }
   ],
   "cause_of_loss": "Pilot descended below cloud in poor visibility and struck snow-covered moor; navigational error",
@@ -74,7 +276,8 @@
         "Chelstowski found guilty of gross negligence but later decorated four times"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Details about an Avro Anson crash site on Kinder Scout in 1944 involving Polish crew members."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -87,7 +290,8 @@
         "Treated at RAF Hospital Wilmslow"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Avro Anson N9853 crash details on Kinder Scout from Peak District Air Accident Research."
     },
     {
       "source_site": "Military Aircraft Crash Sites",
@@ -98,7 +302,8 @@
         "Grid references provided for walkers"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accounts of Avro Anson aircraft crashes in Kinder Scout area."
     }
   ],
   "what3words": "wanderers.expropriate.spiders",
@@ -120,5 +325,11 @@
   "squadron_display_name": "No. 16 Flying Training School",
   "squadron_aliases": [
     "No. 16 Flying Training School"
-  ]
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

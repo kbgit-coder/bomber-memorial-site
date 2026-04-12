@@ -38,7 +38,8 @@
         "425 (Alouette) Squadron RCAF"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of RCAF 425 (Alouette) Squadron's Halifax NA581 crash near Blyth village on August 2, 1944, following engine failure during a test flight from RAF Tolthorpe."
     },
     {
       "source_site": "Aviation Archaeology (Midlands Crashes)",
@@ -49,7 +50,8 @@
         "P/O Edmund Francis Pitkin from Toronto killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed crash account with crew casualties' identities, including Canadian airmen P/O Pigeon and P/O Pitkin."
     },
     {
       "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
@@ -60,7 +62,8 @@
         "Shared memorial covers both HE818 and NA581 crews"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed information on Blyth Green Halifax Memorial, including crew tributes and memorial unveiling particulars."
     }
   ],
   "local_contacts": [
@@ -88,5 +91,247 @@
   "squadron_aliases": [
     "425 Squadron",
     "425 Sqdn."
-  ]
+  ],
+  "narrative": "On a test flight from RAF Tolthorpe, Halifax NA581 of 425 (Alouette) Squadron suffered engine failure and crashed near Blyth Green, Nottinghamshire, on 2 August 1944. Flight Lieutenant George Douglas Stark was in command of the aircraft. All eight men aboard were killed. Among the crew were Canadian Air Gunners Joseph Maurice Paradis, aged 29, and Joseph Rene Lariviere, aged 24. A memorial at Blyth Green commemorates the crew.",
+  "community_connection": "",
+  "remembrance": {
+    "events": [],
+    "annual_service": true,
+    "service_date": "27th April 2025"
+  },
+  "crew": [
+    {
+      "name": "Joseph Maurice Paradis",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 29,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Joseph Rene Lariviere",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 24,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Joseph Jean Louis Marcel",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "School",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hugh Ledoux",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph Gerard Maurice Landry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roy Brown",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dunlap",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Taylor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wilmet",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Dupuis",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Thomson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Gregson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mauger",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hach",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brooks",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Brochu",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Jacobs",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Langlois",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Taillon",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Phelan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Beaulieu",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Desmarais",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Corbett",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hemphill",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lindsay",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Maurice",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harry William Barnes",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Class",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Rivet",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Flying Officer Charles Lesesne",
+      "rank": "Charles Lesesne\nFlying Officer",
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sgt S Withingham",
+      "rank": "Pupil pilot",
+      "fate": "Survived",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown",
+      "fate": "Unknown",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "F/Sgt G B Hollings RAAF",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Australian"
+    },
+    {
+      "name": "W/O E R Lumsdaine",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Flying Officer Joseph Raymond Jean Marie Desmarais DFC",
+      "rank": "Aircraft Captain and Pilot",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 24,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Pilot Officer Joseph Blackburn RAFVR",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "age": 36,
+      "nationality": "British"
+    },
+    {
+      "name": "Pilot Officer Joseph Rosaire Jean Charles Labrecque",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "age": 28,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Pilot Officer Joseph Edward Lawrence Dubois",
+      "rank": "Wireless Operator / Air Gunner",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "age": 24,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Raymond Charles Gauthier",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 20,
+      "nationality": "Canadian"
+    }
+  ],
+  "memorial_details": "Eighty years after 425 Squadron’s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 – listed below.\n\nEighty years after 425 Squadron’s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 – listed below.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }
