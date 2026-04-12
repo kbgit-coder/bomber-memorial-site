@@ -24,7 +24,7 @@
   "narrative": "Positioned beneath the approach paths to RAF Marham and other Norfolk stations, the parish of Clenchwarton witnessed six separate aircraft crashes during the war, killing nineteen aircrew. Short Stirling W7473 of 218 Squadron came down at Ingrams Field on 23 April 1942. On 16 June 1943, Halifax HR832 of 405 (Vancouver) Squadron RCAF was struck by lightning during a severe storm and crashed at Clifton Farm; Flight Lieutenant Lawson and all five of his crew were killed, among them flight engineer Sergeant Malcolm Keith Holliday, aged twenty, and air gunner Flight Sergeant Clinton Landis Pudney GM, aged twenty-one. A parish memorial dedicated in 2000 honours all nineteen men lost in these crashes.",
   "latitude": 52.7572,
   "longitude": 0.3549,
-  "memorial_details": "Name: Short Stirling W7473, Handley Page Halifax HR832 and Bristol Blenheim Z7278\nType: Board / Plaque / Tablet\nInscription: A MEMORIAL TO THE AIRCREW WHO DIED/ WHEN THEIR AIRCRAFT CRASHED IN/ THE PARISH OF CLENCHWARTON/ STIRLING W 7473/ 218 SQUADRON/ RAF MARHAM/ CRASHED IN INGRAMS FIELD/ 23rd APRIL 1942 / (NAMES)/ HALIFAX HR 832/ 404 (VANCOUVER) SQDN/ RAF GRANSDEN LODGE/ CRASHED AT/ CLIFTON FARM/16TH JUNE 1943/ (NAMES) MOSQUITO ...../ (NAMES)/ HURRICANE .../(NAME)/ OXFORD .../ (NAMES)/ MAY THEY REST IN PEACE\nLocation: Clenchwarton Memorial Hall Black Horse Road Clenchwarton Kings Lynn And West Norfolk Norfolk PE34 4DN England\nGrid Ref: TF 58735 20119\nCoordinates: 52.755176499145,0.351645257101\nPhotos: https://media.iwm.org.uk/ciim5/memorials/98/952/large_64994_ian_bridge_11_august_2020.jpg; https://media.iwm.org.uk/ciim5/memorials/173/834/large_64994a.jpg; https://media.iwm.org.uk/ciim5/memorials/173/835/large_64994b.jpg; https://media.iwm.org.uk/ciim5/memorials/173/836/large_64994c.jpg\n\nMemorial Display (11 August 2020): A display featuring Short Stirling W7473, Handley Page Halifax HR832 and Bristol Blenheim Z7278",
+  "memorial_details": "Name: Short Stirling W7473, Handley Page Halifax HR832 and Bristol Blenheim Z7278\nType: Board / Plaque / Tablet\nInscription: A MEMORIAL TO THE AIRCREW WHO DIED/ WHEN THEIR AIRCRAFT CRASHED IN/ THE PARISH OF CLENCHWARTON/ STIRLING W 7473/ 218 SQUADRON/ RAF MARHAM/ CRASHED IN INGRAMS FIELD/ 23rd APRIL 1942 / [crew names inscribed on memorial]/ HALIFAX HR 832/ 404 (VANCOUVER) SQDN/ RAF GRANSDEN LODGE/ CRASHED AT/ CLIFTON FARM/16TH JUNE 1943/ [crew names inscribed on memorial] MOSQUITO ...../ [crew names inscribed on memorial]/ HURRICANE .../(NAME)/ OXFORD .../ [crew names inscribed on memorial]/ MAY THEY REST IN PEACE\nLocation: Clenchwarton Memorial Hall Black Horse Road Clenchwarton Kings Lynn And West Norfolk Norfolk PE34 4DN England\nGrid Ref: TF 58735 20119\nCoordinates: 52.755176499145,0.351645257101\nPhotos: https://media.iwm.org.uk/ciim5/memorials/98/952/large_64994_ian_bridge_11_august_2020.jpg; https://media.iwm.org.uk/ciim5/memorials/173/834/large_64994a.jpg; https://media.iwm.org.uk/ciim5/memorials/173/835/large_64994b.jpg; https://media.iwm.org.uk/ciim5/memorials/173/836/large_64994c.jpg\n\nMemorial Display (11 August 2020): A display featuring Short Stirling W7473, Handley Page Halifax HR832 and Bristol Blenheim Z7278",
   "maintainer": {
     "organisation": "Clenchwarton Parish Council",
     "maintainer_type": "parish-council"
@@ -118,7 +118,7 @@
   },
   "crew": [
     {
-      "name": "Fl/Lt Christopher Daniel Lawson MiD",
+      "name": "Christopher Daniel Lawson MiD",
       "rank": "Fl/Lt",
       "fate": "Killed",
       "role": "pilot",

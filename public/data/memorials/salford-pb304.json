@@ -2,7 +2,7 @@
   "id": "salford-pb304",
   "title": "Salford Lancaster Memorial",
   "location_name": "Salford, Lancashire / Greater Manchester",
-  "county": "Lancashire / Greater Manchester",
+  "county": "Greater Manchester",
   "country": "United Kingdom",
   "region_code": "NW-003",
   "crash_date": "1944-07-30",
@@ -32,7 +32,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "Flight Lieutenant Lines and his crew of 106 Squadron RAF departed RAF Metheringham on 30 July 1944, tasked with attacking enemy positions at Cahagnes in Normandy. The operation was aborted before the target was reached, and Lancaster PB304 turned for home still carrying its full bomb payload. Battle damage, mechanical failure, or communications disrupted by German interference — the precise cause remains unclear — prevented a safe return, and the aircraft came down over Salford, Lancashire. All seven crew members were killed, along with two civilians on the ground. Among those lost was Sergeant Mohand Singh, the rear gunner — one of the Indian aircrew who served with the RAF during the war.",
+  "narrative": "Flight Lieutenant Lines and his crew of 106 Squadron RAF departed RAF Metheringham on 30 July 1944, tasked with attacking enemy positions at Cahagnes in Normandy. The operation was aborted before the target was reached, and Lancaster PB304 turned for home still carrying its full bomb payload. Battle damage, mechanical failure, or communications disrupted by German interference \u2014 the precise cause remains unclear \u2014 prevented a safe return, and the aircraft came down over Salford, Lancashire. All seven crew members were killed, along with two civilians on the ground. Among those lost was Sergeant Mohand Singh, the rear gunner \u2014 one of the Indian aircrew who served with the RAF during the war.",
   "crew": [
     {
       "rank": "F/L",
@@ -114,13 +114,13 @@
     {
       "name": "John Steele",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     }
   ],
   "cause_of_loss": "Returned from aborted Normandy operation with full bomb payload; battle damage or mechanical failure; garbled communications possibly due to German interference",
   "operation_type": "Operational",
   "operation_target": "Attacking enemy positions at Cahagnes, Normandy",
-  "memorial_details": "Name: Avro Lancaster PB304\nType: Board / Plaque / Tablet\nDescription: Upright limestone tablet with black inscription. RAF Crest and motto at top centre.\nInscription: IN MEMORY OF / A ROYAL AIR FORCE CREW / (NAMES) / WHO LOST THEIR LIVES WHEN LANCASTER PB304 CRASHED / NEAR REGATTA STREET ON JULY 30TH 1944.\nLocation: Agecroft Cemetery Langely Road Agecroft Salford Greater Manchester M6 6JP England\nGrid Ref: SD 80616 01509\nCoordinates: 53.509907671791,-2.293739185114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/43/683/large_15977.jpg\n\nUnveiling Ceremony (30th July 1994): The unveiling of the Avro Lancaster PB304 memorial in Agecroft Cemetery, Salford.",
+  "memorial_details": "Name: Avro Lancaster PB304\nType: Board / Plaque / Tablet\nDescription: Upright limestone tablet with black inscription. RAF Crest and motto at top centre.\nInscription: IN MEMORY OF / A ROYAL AIR FORCE CREW / [crew names inscribed on memorial] / WHO LOST THEIR LIVES WHEN LANCASTER PB304 CRASHED / NEAR REGATTA STREET ON JULY 30TH 1944.\nLocation: Agecroft Cemetery Langely Road Agecroft Salford Greater Manchester M6 6JP England\nGrid Ref: SD 80616 01509\nCoordinates: 53.509907671791,-2.293739185114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/43/683/large_15977.jpg\n\nUnveiling Ceremony (30th July 1994): The unveiling of the Avro Lancaster PB304 memorial in Agecroft Cemetery, Salford.",
   "latitude": 53.480646923251534,
   "longitude": -2.2949984721049868,
   "maintainer": {

@@ -2,7 +2,7 @@
   "id": "near-sheldon-village-w5795",
   "title": "Near Sheldon village Wellington Memorial",
   "location_name": "Near Sheldon village, Peak District (Derbyshire / South Pennines)",
-  "county": "Peak District (Derbyshire / South Pennines)",
+  "county": "Derbyshire",
   "country": "United Kingdom",
   "region_code": "PD-003",
   "crash_date": "1942-07-12",
@@ -21,7 +21,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Complete",
-  "narrative": "Conducting a high-altitude pressurisation trial over Derbyshire, Wellington W5795 was lost on 12 July 1942 after a propeller sheared away at 35,000 feet and tore through the aircraft's cabin. Squadron Leader Colmore was piloting the development flight when the stricken bomber came down near Sheldon village in the Peak District. Five were killed: S/Ldr Cyril Colmore, P/O Kenneth Radford, Fl/Sgt Ronald Gillott, Fl/Sgt Arthur Smith DFM, and civilian test observer Clifford Abbott — who had joined the crew in a non-military capacity and was aged just 23.",
+  "narrative": "Conducting a high-altitude pressurisation trial over Derbyshire, Wellington W5795 was lost on 12 July 1942 after a propeller sheared away at 35,000 feet and tore through the aircraft's cabin. Squadron Leader Colmore was piloting the development flight when the stricken bomber came down near Sheldon village in the Peak District. Five were killed: S/Ldr Cyril Colmore, P/O Kenneth Radford, Fl/Sgt Ronald Gillott, Fl/Sgt Arthur Smith DFM, and civilian test observer Clifford Abbott \u2014 who had joined the crew in a non-military capacity and was aged just 23.",
   "crew": [
     {
       "rank": "S/Ldr",
@@ -30,7 +30,7 @@
       "age": 29,
       "role": "Pilot",
       "nationality": "British",
-      "burial_location": "—",
+      "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the pressurised cabin was breached at 32,500 feet after a propeller blade sheared off, causing catastrophic decompression.",
@@ -44,7 +44,7 @@
       "age": 27,
       "role": "Pilot",
       "nationality": "British",
-      "burial_location": "—",
+      "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the catastrophic decompression and subsequent crash.",
@@ -58,7 +58,7 @@
       "age": 22,
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "—",
+      "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the crash. The aircraft disintegrated, with wreckage spread between Dale Abbey and Ockbrook.",
@@ -72,7 +72,7 @@
       "age": 23,
       "role": "Crew",
       "nationality": "British",
-      "burial_location": "—",
+      "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the crash. His Distinguished Flying Medal indicates previous operational experience.",
@@ -84,11 +84,11 @@
     {
       "rank": "Mr",
       "name": "Clifford V. Abbott",
-      "service_number": "— (civilian)",
+      "service_number": "\u2014 (civilian)",
       "age": 23,
       "role": "Civilian Test Observer",
       "nationality": "British",
-      "burial_location": "—",
+      "burial_location": "\u2014",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. A civilian technical observer monitoring the pressurisation test.",
       "bio": "Civilian test observer aged 23, attached to the experimental programme at Boscombe Down. One of the rare civilian casualties among these memorial records.",
@@ -194,7 +194,7 @@
   "squadron_aliases": [
     "Bomber Command (test flight)"
   ],
-  "community_connection": "It was funded by a c£1500 grant from the War Memorials Trust and private donations. It was unveiled at a service on 11th July 2004. No community connection stories about a WW2 memorial were found in the provided text.",
+  "community_connection": "It was funded by a c\u00a31500 grant from the War Memorials Trust and private donations. It was unveiled at a service on 11th July 2004. No community connection stories about a WW2 memorial were found in the provided text.",
   "remembrance": {
     "events": []
   },

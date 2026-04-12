@@ -57,6 +57,29 @@ export default function MemorialPage({ params }: Props) {
     );
   }
 
+  // Convert ALL CAPS inscription text to readable title case
+  function smartTitleCase(text: string): string {
+    // Only convert if text is mostly uppercase (>70%)
+    const letters = text.replace(/[^a-zA-Z]/g, '');
+    if (!letters || (letters.replace(/[A-Z]/g, '').length / letters.length) > 0.4) return text;
+
+    const lowercase = new Set(['a','an','the','and','but','or','for','nor','of','to','in','on','at','by','with','from','as','into','upon','per','via']);
+    const keepUpper = new Set(['RAF','RCAF','RAAF','RNZAF','DFC','DFM','DSO','OBE','MBE','CGM','AFC','USA','USAAF','VR','OTU','HCU','LFS','WW2','WWII','SQN','SQDN']);
+
+    const words = text.split(/\s+/);
+    return words.map((word, i) => {
+      const stripped = word.replace(/[^a-zA-Z]/g, '').toUpperCase();
+      if (keepUpper.has(stripped)) return word;
+      if (/^[IVXLCDM]+$/.test(stripped) && stripped.length <= 5 && stripped.length > 0) return word;
+      if (/\d/.test(word)) return word.replace(/(\d+)(ST|ND|RD|TH)/g, (_, n, s) => n + s.toLowerCase());
+      if (/^\[/.test(word)) return word;
+      const lower = word.toLowerCase();
+      if (i === 0) return word.charAt(0).toUpperCase() + lower.slice(1);
+      if (lowercase.has(lower)) return lower;
+      return word.charAt(0).toUpperCase() + lower.slice(1);
+    }).join(' ');
+  }
+
   const qualityColour = {
     Complete: { bg: "#2d5016", text: "#a8d48c" },
     Partial: { bg: "#5a4a1e", text: "#d4c98c" },
@@ -295,10 +318,45 @@ export default function MemorialPage({ params }: Props) {
                 {memorial.condition && <DetailItem label="Condition" value={memorial.condition} />}
               </div>
             )}
-            {memorial.inscription && (() => {
+            {(() => {
+              const insc = memorial.inscription;
+              if (!insc) {
+                // No inscription — show CTA
+                return (
+                  <div style={{
+                    marginTop: "1.5rem",
+                    padding: "1.25rem 1.5rem",
+                    backgroundColor: "#f8f6f2",
+                    borderLeft: "4px solid #8b7355",
+                    borderRadius: "0 8px 8px 0",
+                    fontFamily: "Georgia, 'Times New Roman', serif",
+                  }}>
+                    <div style={{
+                      fontSize: "0.75rem",
+                      color: "#8b7355",
+                      textTransform: "uppercase",
+                      letterSpacing: "0.1em",
+                      fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                      marginBottom: "0.75rem",
+                      fontWeight: 600,
+                    }}>
+                      Inscription
+                    </div>
+                    <p style={{
+                      fontSize: "0.95rem",
+                      color: "#666",
+                      lineHeight: 1.8,
+                      fontStyle: "italic",
+                      marginBottom: 0,
+                    }}>
+                      Could you help us fill in the inscription?
+                    </p>
+                  </div>
+                );
+              }
+
               // If inscription contains crew names that are already in the crew section,
               // show a condensed version noting the names are listed on the memorial
-              const insc = memorial.inscription;
               const crewNames = (memorial.crew || []).map(c => c.name?.split(" ").pop()?.toLowerCase()).filter(Boolean);
               const nameMatches = crewNames.filter(surname => surname && surname.length > 3 && insc.toLowerCase().includes(surname));
               const hasCrewList = nameMatches.length >= 3;
@@ -356,7 +414,15 @@ export default function MemorialPage({ params }: Props) {
                       lineHeight: 1.8,
                       fontStyle: "italic",
                     }}>
-                      {displayText.replace(/\n+/g, " ").replace(/\s+/g, " ").trim()}
+                      {smartTitleCase(displayText
+                        .replace(/\n+/g, " ")
+                        .replace(/\s+/g, " ")
+                        .trim())
+                        .replace(/\(Names?\)/gi, "[crew names listed on memorial]")
+                        .replace(/\(name\)/gi, "[name listed on memorial]")
+                        .replace(/\(Halfpint\)/gi, "")
+                        .replace(/\(Sic\)/gi, "[sic]")
+                        .replace(/\(Hons\)/gi, "(Hons)")}
                     </div>
                   )}
                   {crewNote && (

@@ -173,17 +173,17 @@
     "158 Squadron",
     "158 Sqdn."
   ],
-  "memorial_details": "Name: Handley Page Halifax HX351\nType: Board / Plaque / Tablet\nDescription: BLACK MARBLE TABLET SET UPRIGHT INTO THE GROUND. CARVED LETTERING. SURROUNDED BY LOW CHAIN FENCE.\nInscription: IN LOVING MEMORY/ (NAMES)/ 158 SQD R.A.F./ WHO/ PERISHED HERE/ 20TH FEBRUARY 1944\nLocation: BESIDE A CART TRACK IN THE FIELDS OUTSIDE ATWICK Benholme Lane Atwick Holderness Antrim YO25 8DL England\nGrid Ref: TA 18200 49900\nCoordinates: 53.931740227478,-0.201162223804\nPhotos: https://media.iwm.org.uk/ciim5/memorials/17/520/large_34867_jo_jameson.jpg\n\nThe memorial was dedicated on 7th September 1994 and rededicated on 8th September 1996, both ceremonies attended by local clergy/dignitaries.\n\nDedication Ceremony (07th September 1994): The Handley Page Halifax HX351 memorial was dedicated during this ceremony. Local clergy/dignitaries attended.\n\nMemorial Erection (Not specified in the text): A Memorial was erected on or close to the site of the crash.\n\nIt consists of a stone tablet or plaque fixed to a stile about 50 yards north where the path joins Bewholme Road.",
+  "memorial_details": "Name: Handley Page Halifax HX351\nType: Board / Plaque / Tablet\nDescription: BLACK MARBLE TABLET SET UPRIGHT INTO THE GROUND. CARVED LETTERING. SURROUNDED BY LOW CHAIN FENCE.\nInscription: IN LOVING MEMORY/ [crew names inscribed on memorial]/ 158 SQD R.A.F./ WHO/ PERISHED HERE/ 20TH FEBRUARY 1944\nLocation: BESIDE A CART TRACK IN THE FIELDS OUTSIDE ATWICK Benholme Lane Atwick Holderness Antrim YO25 8DL England\nGrid Ref: TA 18200 49900\nCoordinates: 53.931740227478,-0.201162223804\nPhotos: https://media.iwm.org.uk/ciim5/memorials/17/520/large_34867_jo_jameson.jpg\n\nThe memorial was dedicated on 7th September 1994 and rededicated on 8th September 1996, both ceremonies attended by local clergy/dignitaries.\n\nDedication Ceremony (07th September 1994): The Handley Page Halifax HX351 memorial was dedicated during this ceremony. Local clergy/dignitaries attended.\n\nMemorial Erection (Not specified in the text): A Memorial was erected on or close to the site of the crash.\n\nIt consists of a stone tablet or plaque fixed to a stile about 50 yards north where the path joins Bewholme Road.",
   "narrative": "On the night of 19/20 February 1944, Halifax HX351 of 158 Squadron took off from RAF Lissett bound for Leipzig as part of a large Bomber Command raid. Disaster struck shortly after take-off when the aircraft crashed at Little Atwick, East Riding of Yorkshire, with the loss of all seven crew members. The cause is believed to have been loss of control following cloud entry, possibly compounded by tailplane structural issues. Pilot Officer Peter Milton Jennings, aged 28, was killed alongside his crew: Charles Joseph Seymour, Norman Caffery, Harold Elfed Jones, George Frank Gillings, Samual Price 'Jack' Morris, and Gerald Robert Fitzsimmons. The crew were experienced, having completed 23 operations together since joining 158 Squadron at Lissett in July 1943. Among them, Jones was from Penmaenmawr, Caernarvonshire, and Morris had trained in Canada under the British Commonwealth Air Training Plan.",
-  "inscription": "IN LOVING MEMORY\n(NAMES)\n158 SQD R.A.F.\nWHO\nPERISHED HERE\n20TH FEBRUARY 1944",
+  "inscription": "IN LOVING MEMORY\n[crew names inscribed on memorial]\n158 SQD R.A.F.\nWHO\nPERISHED HERE\n20TH FEBRUARY 1944",
   "remembrance": {
     "events": []
   },
   "crew": [
     {
-      "name": "P/O Peter Milton Jennings",
+      "name": "Peter Milton Jennings",
       "rank": "P/O",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Pilot",
       "age": 28,
       "nationality": "British"
@@ -191,22 +191,22 @@
     {
       "name": "Charles Joseph Seymour",
       "rank": "P/O",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Flight Engineer",
       "age": 22
     },
     {
-      "name": "P/O Norman Caffery",
+      "name": "Norman Caffery",
       "rank": "P/O",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Navigator",
       "age": 21,
       "nationality": "British"
     },
     {
-      "name": "F/Sgt . Harold Elfed Jones",
+      "name": ". Harold Elfed Jones",
       "rank": "F/Sgt",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Bomb Aimer",
       "age": 21,
       "nationality": "British"
@@ -214,7 +214,7 @@
     {
       "name": "F/Sgt . George Frank Gillings",
       "rank": "Sgt",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Wireless Operator / Air Gunner",
       "age": 21,
       "nationality": "British"
@@ -222,7 +222,7 @@
     {
       "name": "Sgt . Samual Price 'Jack' Morris",
       "rank": "F/Sgt",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Air Gunner",
       "age": 21,
       "nationality": "British"
@@ -230,7 +230,7 @@
     {
       "name": "Gerald Robert Fitzsimmons",
       "rank": "P/O",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Air Gunner",
       "age": 22
     },

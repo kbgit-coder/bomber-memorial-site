@@ -21,11 +21,11 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Partial",
-  "narrative": "Lancaster ED393 of 50 Squadron departed Skellingthorpe on the night of 26 November 1943, bound for Berlin. Diverted to Melbourne airfield near Pocklington due to thick fog, the aircraft subsequently crashed when Pilot Officer Joseph Watson Thompson lost control on takeoff — the Lancaster stalled, inverted, and came down at Pocklington in the East Riding of Yorkshire. Thompson, holder of the Distinguished Flying Medal and aged just 20, was among five crew members killed; two further crew survived with injuries, and two civilians on the ground also lost their lives. The dead included Navigator Flight Sergeant Stanley Chapman, aged 22, Bomb Aimer Flight Sergeant John Ralph Conlon, aged 21, and Flight Engineer Sergeant Reginald Walter Laws, aged 20.",
+  "narrative": "Lancaster ED393 of 50 Squadron departed Skellingthorpe on the night of 26 November 1943, bound for Berlin. Diverted to Melbourne airfield near Pocklington due to thick fog, the aircraft subsequently crashed when Pilot Officer Joseph Watson Thompson lost control on takeoff \u2014 the Lancaster stalled, inverted, and came down at Pocklington in the East Riding of Yorkshire. Thompson, holder of the Distinguished Flying Medal and aged just 20, was among five crew members killed; two further crew survived with injuries, and two civilians on the ground also lost their lives. The dead included Navigator Flight Sergeant Stanley Chapman, aged 22, Bomb Aimer Flight Sergeant John Ralph Conlon, aged 21, and Flight Engineer Sergeant Reginald Walter Laws, aged 20.",
   "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
   "operation_type": "Operational",
   "operation_target": "Operational -- bombing Berlin",
-  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ (names)/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg\n\nWar Memorial Unveiling: Unveiling of the Pocklington War Memorial",
+  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ [crew names inscribed on memorial]/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg\n\nWar Memorial Unveiling: Unveiling of the Pocklington War Memorial",
   "latitude": 53.9311,
   "longitude": -0.7778,
   "maintainer": {
@@ -116,10 +116,10 @@
     {
       "name": "Gertrude Bird",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
-      "name": "F/Sgt Stanley Chapman",
+      "name": "Stanley Chapman",
       "fate": "Killed",
       "rank": "F/Sgt",
       "role": "Navigator",
@@ -127,7 +127,7 @@
       "burial_location": "Gap Road Cemetery, Wimbledon, Surrey"
     },
     {
-      "name": "F/Sgt John Ralph Conlon",
+      "name": "John Ralph Conlon",
       "fate": "Killed",
       "rank": "F/Sgt",
       "role": "Bomb Aimer",
@@ -137,15 +137,15 @@
     {
       "name": "C. B. Corbett",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
       "name": "Percy Paulucy Hopkinson",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
-      "name": "Sgt Reginald Walter Laws",
+      "name": "Reginald Walter Laws",
       "fate": "Killed",
       "rank": "Sgt",
       "role": "Flight Engineer",
@@ -153,7 +153,7 @@
       "burial_location": "Tottenham Cemetery, Middlesex"
     },
     {
-      "name": "Sgt Allan Douglas Spiers",
+      "name": "Allan Douglas Spiers",
       "fate": "Killed",
       "rank": "Sgt",
       "role": "Air Gunner",
@@ -167,9 +167,9 @@
       "role": "Air Gunner"
     },
     {
-      "name": "P/O Joseph Watson Thompson DFM",
+      "name": "Joseph Watson Thompson DFM",
       "rank": "P/O",
-      "fate": "Kia",
+      "fate": "Killed",
       "role": "Pilot",
       "age": 20,
       "burial_location": "Greenford Park Cemetery, Middlesex"
@@ -204,7 +204,7 @@
   "remembrance": {
     "annual_service": true,
     "service_date": "First Sunday in June",
-    "service_description": "The crew of this aircraft are remembered at the annual No. 50 & No. 61 Squadrons Association memorial service at Skellingthorpe, near their wartime base. The 2026 service takes place on 7 June — Birchwood memorial at 11:30, village memorial at 14:00.",
+    "service_description": "The crew of this aircraft are remembered at the annual No. 50 & No. 61 Squadrons Association memorial service at Skellingthorpe, near their wartime base. The 2026 service takes place on 7 June \u2014 Birchwood memorial at 11:30, village memorial at 14:00.",
     "last_known_event": "2026",
     "events": [
       {

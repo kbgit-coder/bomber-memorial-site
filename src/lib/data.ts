@@ -179,3 +179,119 @@ export function getMemorialStats() {
     completeEntries: all.filter((m) => m.data_quality === 'Complete').length,
   };
 }
+
+export function getInsightsData() {
+  const all = getAllMemorials();
+
+  // Crashes by year
+  const yearCounts: Record<string, number> = {};
+  for (const m of all) {
+    if (m.crash_date) {
+      const y = m.crash_date.slice(0, 4);
+      if (/^\d{4}$/.test(y)) yearCounts[y] = (yearCounts[y] || 0) + 1;
+    }
+  }
+  const crashesByYear = Object.entries(yearCounts)
+    .map(([year, count]) => ({ year, count }))
+    .sort((a, b) => a.year.localeCompare(b.year));
+
+  // Crash categories
+  const catCounts: Record<string, number> = {};
+  for (const m of all) {
+    const cat = m.crash_category || 'unknown';
+    catCounts[cat] = (catCounts[cat] || 0) + 1;
+  }
+  const crashCategories = Object.entries(catCounts)
+    .map(([category, count]) => ({
+      category: category.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+      count,
+    }))
+    .sort((a, b) => b.count - a.count);
+
+  // Aircraft types (normalise common variants)
+  const aircraftMap: Record<string, string> = {
+    'Avro Lancaster': 'Lancaster', 'Lancaster III': 'Lancaster', 'Lancaster I': 'Lancaster',
+    'Short Stirling': 'Stirling', 'Stirling III': 'Stirling',
+    'Wellington Mk.IC': 'Wellington', 'Wellington Mk.X': 'Wellington', 'Wellington Ic': 'Wellington',
+    'Wellington II': 'Wellington', 'Wellington III': 'Wellington',
+    'Halifax III': 'Halifax', 'Halifax II': 'Halifax',
+  };
+  const acCounts: Record<string, number> = {};
+  for (const m of all) {
+    if (m.aircraft_type) {
+      const norm = aircraftMap[m.aircraft_type] || m.aircraft_type;
+      acCounts[norm] = (acCounts[norm] || 0) + 1;
+    }
+  }
+  const aircraftTypes = Object.entries(acCounts)
+    .map(([aircraft, count]) => ({ aircraft, count }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
+
+  // Crew stats
+  const ages: number[] = [];
+  const natCounts: Record<string, number> = {};
+  let totalCrew = 0;
+  let killedCount = 0;
+  let survivedCount = 0;
+  for (const m of all) {
+    for (const c of m.crew || []) {
+      totalCrew++;
+      if (c.age) {
+        const a = parseInt(String(c.age), 10);
+        if (!isNaN(a) && a >= 15 && a <= 60) ages.push(a);
+      }
+      if (c.nationality) {
+        natCounts[c.nationality] = (natCounts[c.nationality] || 0) + 1;
+      }
+      const fate = (c.fate || '').toLowerCase();
+      if (fate.includes('survived') || fate.includes('pow') || fate.includes('evaded')) {
+        survivedCount++;
+      } else if (fate.includes('killed') || fate.includes('died') || fate.includes('lost')) {
+        killedCount++;
+      }
+    }
+  }
+
+  const nationalities = Object.entries(natCounts)
+    .map(([nationality, count]) => ({ nationality, count }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
+
+  // Age distribution (bucketed)
+  const ageBuckets: Record<string, number> = {};
+  for (const a of ages) {
+    const bucket = a < 20 ? '18-19' : a < 22 ? '20-21' : a < 24 ? '22-23' : a < 26 ? '24-25' : a < 28 ? '26-27' : a < 30 ? '28-29' : '30+';
+    ageBuckets[bucket] = (ageBuckets[bucket] || 0) + 1;
+  }
+  const ageDistribution = ['18-19', '20-21', '22-23', '24-25', '26-27', '28-29', '30+']
+    .map(range => ({ range, count: ageBuckets[range] || 0 }));
+
+  const meanAge = ages.length > 0 ? Math.round((ages.reduce((s, a) => s + a, 0) / ages.length) * 10) / 10 : 0;
+
+  // Data quality
+  const qualCounts: Record<string, number> = {};
+  for (const m of all) {
+    const q = m.data_quality || 'Unknown';
+    qualCounts[q] = (qualCounts[q] || 0) + 1;
+  }
+  const qualityOrder = ['Complete', 'Partial', 'Stub', 'Unknown'];
+  const dataQuality = Object.entries(qualCounts)
+    .map(([quality, count]) => ({ quality, count }))
+    .sort((a, b) => qualityOrder.indexOf(a.quality) - qualityOrder.indexOf(b.quality));
+
+  return {
+    totalMemorials: all.length,
+    totalCrew,
+    meanAge,
+    killedCount,
+    survivedCount,
+    crewWithAge: ages.length,
+    crashesByYear,
+    crashCategories,
+    aircraftTypes,
+    nationalities,
+    ageDistribution,
+    dataQuality,
+  };
+}

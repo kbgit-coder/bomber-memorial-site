@@ -36,7 +36,7 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Complete",
-  "narrative": "Flying a training operation from Downham Market, the crew of Lancaster ND820 never reached enemy skies. A suspected autopilot malfunction caused the brand-new aircraft — with only six hours of airtime — to enter a diving turn at 8,000 feet, catch fire, and crash near Bicker, Lincolnshire on 10 April 1944. Flight Sergeant Joseph Bernard Bannan, aged 24, was among the seven crew members killed. The youngest aboard, Sergeant John William Nixon, was just 19 years old. Assigned to 635 Squadron, the Lancaster was lost before flying a single operational sortie.",
+  "narrative": "Flying a training operation from Downham Market, the crew of Lancaster ND820 never reached enemy skies. A suspected autopilot malfunction caused the brand-new aircraft \u2014 with only six hours of airtime \u2014 to enter a diving turn at 8,000 feet, catch fire, and crash near Bicker, Lincolnshire on 10 April 1944. Flight Sergeant Joseph Bernard Bannan, aged 24, was among the seven crew members killed. The youngest aboard, Sergeant John William Nixon, was just 19 years old. Assigned to 635 Squadron, the Lancaster was lost before flying a single operational sortie.",
   "crew": [
     {
       "rank": "Fl/Sgt",
@@ -120,12 +120,12 @@
     {
       "name": "J. B. Barran",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     }
   ],
   "cause_of_loss": "Suspected auto-pilot malfunction; aircraft entered diving turn at 8,000 feet and caught fire; brand-new aircraft with only 6 hours airtime",
   "operation_type": "Training",
-  "memorial_details": "Name: Avro Lancaster ND820\nType: Pillar / Column\nDescription: Rectangular brick pillar surmounted by a white cross, set on slabs and surrounded by posts and chain links . Dedicatory plaque placed on Face 1 with a smaller plaque above it depicting the squadron badge.\nInscription: +/ To the Glory of God/ and in honoured memory of/ (Names)/ Who lost their lives when Avro Lancaster (ND820) 635 Squadron/ crashed here while on a flight from RAF Downham Market/ Monday 10th April 1944/ Who now lie at rest in the surrounding fields./ Their names are commemorated on the/ Runnymede Memorial to the Missing./ Also in memory of crew member/ (Name) Buried in Stonefall Cemetery, Harrogate./ This memorial was commissioned by the/ Lincolnshire Aircraft Recovery Group.\nLocation: Eaudike Road Bicker Boston Lincolnshire PE20 3AB England\nGrid Ref: TF 22614 36800\nCoordinates: 52.914639676605,-0.177945389835\nPhotos: https://media.iwm.org.uk/ciim5/memorials/47/905/large_59226.jpg; https://media.iwm.org.uk/ciim5/memorials/128/32/large_nd820_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/128/33/large_nd820_memorial_plaques.jpg; https://media.iwm.org.uk/ciim5/memorials/128/34/large_nd820_memorial_plaque_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/128/35/large_nd820_memorial_in_context.jpg\n\nMemorial Display: The memorial displays the Avro Lancaster ND820, a type of bomber used extensively during World War II.\n\nUnveiling Ceremony (10 April 2004): 60th anniversary of the crash, commemorating the site with a red brick built pier and white cross",
+  "memorial_details": "Name: Avro Lancaster ND820\nType: Pillar / Column\nDescription: Rectangular brick pillar surmounted by a white cross, set on slabs and surrounded by posts and chain links . Dedicatory plaque placed on Face 1 with a smaller plaque above it depicting the squadron badge.\nInscription: +/ To the Glory of God/ and in honoured memory of/ [crew names inscribed on memorial]/ Who lost their lives when Avro Lancaster (ND820) 635 Squadron/ crashed here while on a flight from RAF Downham Market/ Monday 10th April 1944/ Who now lie at rest in the surrounding fields./ Their names are commemorated on the/ Runnymede Memorial to the Missing./ Also in memory of crew member/ (Name) Buried in Stonefall Cemetery, Harrogate./ This memorial was commissioned by the/ Lincolnshire Aircraft Recovery Group.\nLocation: Eaudike Road Bicker Boston Lincolnshire PE20 3AB England\nGrid Ref: TF 22614 36800\nCoordinates: 52.914639676605,-0.177945389835\nPhotos: https://media.iwm.org.uk/ciim5/memorials/47/905/large_59226.jpg; https://media.iwm.org.uk/ciim5/memorials/128/32/large_nd820_memorial.jpg; https://media.iwm.org.uk/ciim5/memorials/128/33/large_nd820_memorial_plaques.jpg; https://media.iwm.org.uk/ciim5/memorials/128/34/large_nd820_memorial_plaque_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/128/35/large_nd820_memorial_in_context.jpg\n\nMemorial Display: The memorial displays the Avro Lancaster ND820, a type of bomber used extensively during World War II.\n\nUnveiling Ceremony (10 April 2004): 60th anniversary of the crash, commemorating the site with a red brick built pier and white cross",
   "latitude": 52.911049,
   "longitude": -0.178319,
   "maintainer": {
@@ -199,7 +199,7 @@
       "role": "Local authority responsible for memorial upkeep"
     },
     {
-      "role": "Memorial liaison — Dave Stubley (referred by parish clerk)",
+      "role": "Memorial liaison \u2014 Dave Stubley (referred by parish clerk)",
       "email": "bickerpc@gmail.com",
       "org_name": "Bicker Parish Council",
       "org_type": "Parish Council"

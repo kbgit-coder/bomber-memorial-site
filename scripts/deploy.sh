@@ -115,6 +115,19 @@ fi
 success "Build complete."
 echo ""
 
+# --- Step 2b: QA Scan — SET NEW STANDARDS ------------------------------------
+QA_SCAN="$REPO_ROOT/scripts/qa-scan.py"
+if [[ -f "$QA_SCAN" ]]; then
+  info "Running QA page specification scan..."
+  if ! python3 "$QA_SCAN"; then
+    die "QA scan FAILED — fix page quality issues before deploying."
+  fi
+  success "QA gate passed — all pages meet specification."
+else
+  warn "qa-scan.py not found — skipping QA gate."
+fi
+echo ""
+
 # --- Step 3: Prepare out/ directory ------------------------------------------
 info "Copying static assets into out/..."
 

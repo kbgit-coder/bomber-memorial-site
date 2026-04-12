@@ -141,4 +141,9 @@ export interface Memorial {
   last_updated?: string;
   data_quality?: 'Complete' | 'Partial' | 'Stub';
   location_confidence?: LocationConfidence;
+  crash_category?: string;
+  narrative_quality_score?: number;
+  narrative_source?: string;
+  squadron_display_name?: string;
+  squadron_aliases?: string[];
 }
