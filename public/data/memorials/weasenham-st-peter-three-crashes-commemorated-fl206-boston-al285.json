@@ -122,7 +122,7 @@
     "114 Sqdn.",
     "114 Squadron"
   ],
-  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft — a Bristol Blenheim, a Mitchell, and a Boston — went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
+  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft \u2014 a Bristol Blenheim, a Mitchell, and a Boston \u2014 went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
   "remembrance": {
     "events": []
   },
@@ -162,11 +162,6 @@
       "fate": "Unknown",
       "role": "unknown",
       "nationality": "British"
-    },
-    {
-      "name": "Saint Roland Jacquinot",
-      "rank": "Roland Jacquinot\nSaint",
-      "fate": "Unknown"
     },
     {
       "name": "General Ira",
@@ -335,7 +330,7 @@
       "burial_location": "BIRMINGHAM (YARDLEY) CEMETERY, Warwickshire (West Midlands). Grave 43151."
     },
     {
-      "name": "Léonce Cohen",
+      "name": "L\u00e9once Cohen",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "unknown",

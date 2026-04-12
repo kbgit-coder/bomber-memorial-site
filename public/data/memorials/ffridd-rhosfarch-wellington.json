@@ -55,43 +55,7 @@
   ],
   "narrative": "A Wellington bomber from 21 Operational Training Unit departed Moreton-in-Marsh, Gloucestershire, on a training flight in 1941. The aircraft came down at Ffridd Rhosfarch in Wales under circumstances that have not been fully recorded. All crew members aboard were killed. Robert Thomas is among those identified as having died in the crash. The cause of the accident is not confirmed in available records.",
   "community_connection": "",
-  "crew": [
-    {
-      "name": "Former Robert Thomas",
-      "rank": "Robert Thomas\nFormer",
-      "fate": "Unknown"
-    },
-    {
-      "name": "Royal Welsh Fusiliers",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sherwood Foresters Regiment",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "In Wrexham History Society",
-      "rank": "History Society\nIn Wrexham",
-      "fate": "Unknown"
-    },
-    {
-      "name": "Durham Light Infantry",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Royal Army Medical Corps",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Queen",
-      "rank": null,
-      "fate": "Unknown"
-    }
-  ],
+  "crew": [],
   "crash_category": "training",
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet"

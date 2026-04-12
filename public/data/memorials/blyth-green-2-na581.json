@@ -122,11 +122,6 @@
       "fate": "Unknown"
     },
     {
-      "name": "School",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
       "name": "Hugh Ledoux",
       "rank": null,
       "fate": "Unknown"
@@ -257,11 +252,6 @@
       "fate": "Unknown"
     },
     {
-      "name": "Flying Officer Charles Lesesne",
-      "rank": "Charles Lesesne\nFlying Officer",
-      "fate": "Unknown"
-    },
-    {
       "name": "Sgt S Withingham",
       "rank": "Pupil pilot",
       "fate": "Survived",
@@ -315,7 +305,7 @@
     },
     {
       "name": "Pilot Officer Joseph Edward Lawrence Dubois",
-      "rank": "Wireless Operator / Air Gunner",
+      "rank": "Unknown",
       "fate": "Killed",
       "role": "Wireless Operator / Air Gunner",
       "age": 24,
@@ -330,7 +320,7 @@
       "nationality": "Canadian"
     }
   ],
-  "memorial_details": "Eighty years after 425 Squadron’s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 – listed below.\n\nEighty years after 425 Squadron’s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 – listed below.",
+  "memorial_details": "Eighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.\n\nEighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.",
   "crash_category": "unknown",
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet"

@@ -170,7 +170,28 @@ def check_memorial_page(slug, html, data):
             for name, count in dupes.items():
                 issues.append(('ERROR', f'Duplicate crew entry: "{name}" appears {count} times'))
 
-        # 5.2 No "None" as rank
+        # 5.2 Crew names must be actual people (not organisations, regiments, parse errors)
+        not_people_patterns = [
+            r'regiment', r'fusiliers', r'infantry', r'medical corps', r'history society',
+            r'squadron$', r'memorial$', r'church$', r'council$', r'trust$', r'museum$',
+            r'association$', r'committee$', r'school$', r'foundation$', r'charity$',
+        ]
+        for c in crew:
+            name = (c.get('name') or '').strip()
+            rank = (c.get('rank') or '').strip()
+            # Newlines in rank/name = parse error
+            if '\n' in rank or '\n' in name:
+                issues.append(('ERROR', f'Crew entry has newlines (parse error): rank="{rank[:30]}" name="{name[:30]}"'))
+            # Organisation names as crew
+            for pattern in not_people_patterns:
+                if re.search(pattern, name, re.IGNORECASE) or re.search(pattern, rank, re.IGNORECASE):
+                    issues.append(('ERROR', f'Organisation/non-person in crew list: "{name}"'))
+                    break
+            # Rank is clearly not a military rank (contains multiple words that aren't rank abbreviations)
+            if rank and len(rank) > 20 and not any(r in rank.lower() for r in ['sgt','lt','off','cpl','w/o','f/o','p/o','pilot','sergeant','corporal','lieutenant','captain','major','colonel','warrant','flying','wing','group']):
+                issues.append(('ERROR', f'Invalid rank (too long, not military): "{rank[:50]}"'))
+
+        # 5.3 No "None" as rank
         for c in crew:
             if c.get('rank') == 'None':
                 issues.append(('WARNING', f'Crew member "{c.get("name","?")}" has rank "None"'))
