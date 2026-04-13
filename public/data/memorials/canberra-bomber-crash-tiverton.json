@@ -1,27 +1,41 @@
 {
   "id": "canberra-bomber-crash-tiverton",
   "title": "Canberra Bomber Crash, Tiverton",
-  "location_name": "",
-  "county": "",
+  "location_name": "Tiverton, Mid Devon",
+  "county": "Devon",
   "country": "United Kingdom",
   "aircraft_type": "",
   "serial_number": "",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Polished pink granite stone of remembrance with gilded inscription in capital lettering. There is nearby an associated information board about the crash.",
+  "inscription": "IN MEMORY OF/ (Names)/ WHO LOST THEIR LIVES WHEN THE AIRCRAFT/ THEY WERE FLYING CRASHED HERE AT/ 18:50 HOURS 21ST NOVEMBER 1961/ \"WE WILL REMEMBER THEM\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/91614"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/91614",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.90003447762,
-  "longitude": -3.443334052766
+  "longitude": -3.443334052766,
+  "grid_ref": "SS 98599",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/94/602/large_exet6924.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/601/large_exet6923.jpg"
+  ],
+  "last_validated": "2026-04-12",
+  "crash_date_review": "Auto-corrected to 1961-11-21 but reverted \u2014 year 1961 outside WW2 range",
+  "community_connection": "We will remember them"
 }

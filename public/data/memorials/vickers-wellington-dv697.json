@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-dv697",
   "title": "Vickers Wellington DV697",
-  "location_name": "",
-  "county": "",
+  "location_name": "Husbands Bosworth, Harborough",
+  "county": "Leicestershire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "DV697",
   "squadron": "",
   "crash_date": "1943-09-26",
-  "memorial_type": "",
-  "memorial_details": "description: FLT-SGT J.W. WOODS RAAF/ SGT I.W. FERGUSON RAF/ SGT J.M.M. FRASER RAAF/ P-O F.P. MOORBY RAF/ DIED HERE ON / 26th SEPTEMBER 1943 / IN / WELLINGTON BOMBER NO: Dv697/ NAMED SIR GEORGE HUGGINS OBE/ DONATED BY THE/ TRINIDAD BOMBER FUND. / The Australian High Commission / have donated this / Eucalyptus Tree as a symbol/ of the homeland of these/ countrymen who perished here/ in the course of duty./ Donated by the members of the/ ROYAL BRITISH LEGION./ We will remember them./ December 2010/ R I P",
-  "inscription": "",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "Small stone column with tapering face and commemorative engraved rectangular brass plaque set on a circular gravel/stone base with an Australian eucalyptus tree alongside in honour of the two RAAF crewmen who died.",
+  "inscription": "FLT-SGT J.W. WOODS RAAF/ SGT I.W. FERGUSON RAF/ SGT J.M.M. FRASER RAAF/ P-O F.P. MOORBY RAF/ DIED HERE ON / 26th SEPTEMBER 1943 / IN / WELLINGTON BOMBER NO: Dv697/ NAMED SIR GEORGE HUGGINS OBE/ DONATED BY THE/ TRINIDAD BOMBER FUND. / The Australian High Commission / have donated this / Eucalyptus Tree as a symbol/ of the homeland of these/ countrymen who perished here/ in the course of duty./ Donated by the members of the/ ROYAL BRITISH LEGION./ We will remember them./ December 2010/ R I P",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/67850"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/67850",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.450883,
-  "longitude": -1.0420876
+  "longitude": -1.0420876,
+  "grid_ref": "SP651840",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/46/923/large_67850_setting.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/46/922/large_67850.jpg"
+  ],
+  "community_connection": "donated by the members of the ROYAL BRITISH LEGION. The Australian High Commission have donated this Eucalyptus Tree as a symbol/ of the homeland of these countrymen who perished here in the course of duty."
 }

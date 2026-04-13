@@ -67,6 +67,23 @@ info "FTP path: $FTP_PATH"
 info "Site URL: $SITE_URL"
 echo ""
 
+# --- Step 0: Bomber verification gate -----------------------------------------
+BOMBER_GATE="$REPO_ROOT/scripts/bomber-verification-gate.py"
+if [[ -f "$BOMBER_GATE" ]]; then
+  info "Running bomber verification gate (GATE 0 — content truth check)..."
+  if ! python3 "$BOMBER_GATE"; then
+    die "Bomber verification FAILED — false positive memorials detected. Run: python3 scripts/bomber-verification-gate.py --fix"
+  fi
+  success "Bomber verification passed — all memorials confirmed as bomber crash memorials."
+else
+  warn "bomber-verification-gate.py not found — skipping bomber verification."
+fi
+echo ""
+
+# --- NOTE: Inscription validator (Gate 10) runs separately before major releases ---
+# Run manually: python3 scripts/inscription-validator.py --apply
+# Too slow (~87 min) for every deploy. Use for pre-production audits.
+
 # --- Step 1: Validate memorials ----------------------------------------------
 VALIDATOR="$REPO_ROOT/scripts/validate-memorials.js"
 if [[ -f "$VALIDATOR" ]]; then

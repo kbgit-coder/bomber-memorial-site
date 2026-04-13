@@ -1,27 +1,46 @@
 {
   "id": "handley-page-halifax-dk253",
   "title": "Handley Page Halifax DK253",
-  "location_name": "",
-  "county": "",
+  "location_name": "Harmondsworth, Longford, Hillingdon",
+  "county": "Greater London",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "DK253",
   "squadron": "427 Squadron",
   "crash_date": "1943-09-16",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Bronze plaque mounted on a sloping stone base with the badges of 427 Squadron RCAF and 6 Bomber Group RCAF and the Canadian maple leaf in between.",
   "inscription": "HARMONSWORTH MOOR/ AT THIS SITE ON 16 SEPTEMBER 1943/ AN RCAF HALIFAX BOMBER CRASHED ON/ RETURN FROM A MISSION, WITH THE/ LOSS OF ALL SEVEN CREW MEMBERS/ THIS MEMORIAL IS TO ALL THOSE/ WHO SERVED IN 427 SQUADRON AND IN/ 6 BOMBER GROUP RCAF.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/66722"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/66722",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.490044,
-  "longitude": -0.48927717
+  "longitude": -0.48927717,
+  "grid_ref": "TQ 04983",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "British Airways",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/95/838/large_05_107381134_10160025502918989_2524992585279777200_n.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/109/493/large_66722a_adam_pode_24_october_2020_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/835/large_02_107614135_10160025502093989_7029454250970852716_n.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/839/large_06_107518491_10160025502493989_2635026655774118177_n.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/834/large_01_107250586_10160025502718989_3064559931274628831_n.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/109/494/large_66722b_adam_pode_24_october_2020_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/837/large_04_107406751_10160025502348989_4749780546430397987_n.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/840/large_07_107373273_10160025502508989_7176384572718722966_n.jpg"
+  ],
+  "community_connection": "This memorial is to all those who served in 427 Squadron and in 6 BOMBER GROUP RCAF."
 }

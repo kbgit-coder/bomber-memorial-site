@@ -1,27 +1,48 @@
 {
   "id": "vickers-wellington-he159",
   "title": "Vickers Wellington HE159",
-  "location_name": "",
-  "county": "",
+  "location_name": "Rolvenden Layne, Ashford",
+  "county": "Kent",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HE159",
-  "squadron": "",
+  "squadron": "424(TIGER) SQUADRON RCAF",
   "crash_date": "1943-04-11",
-  "memorial_type": "",
-  "memorial_details": "description: THIS MONUMENT IS/ ERECTED IN/ MEMORY OF/ SGT R.M. BUIE RCAF/ F/SGT A.W. KIMMERLEY RCAF/ P/O L.K. TAYLOR RCAF P/O/ R.W. THOMPSON/ CREW OF A WELLINGTON/ BOMBER OF 424(TIGER)/ SQUADRON RCAF/ WHO WERE KILLED/ ON 11TH APRIL 1943/ WHEN THEIR PLANE/ SUFFERED ENGINE/ FAILURE ON A/ BOMBING MISSION/ TO FRANKFURT\r\n\r\nCRASHING ON/ HEXDEN MARSHES/ SOUTH OF THIS PLACE. ALSO REMEMBERING/ SGT A.G. LEES RCAF THE SOLE SURVIVOR/ WHO TRIED IN VAIN/ TO RESCUE HIS / COMRADES THIS MONUMENT / WAS UNVEILED / ON THE 6OTH / ANNIVERSARY / BY THE GRATEFUL/ PEOPLES OF CANADA/ AND ROLVENDEN/ AND PAID FOR BY/ PUBLIC SUBSCRIPTION\r\n\r\nTO THE MEMORY/ OF/ ART LEES/ WHO ATTENDED THE UNVEILING/ OF THIS MONUMENT IN THE/ PRESENCE OF MANY ASSEMBLED/ AND WHO DIED PEACEFULLY/ AT HOME IN BRITISH COLUMBIA/ ON 17TH NOVEMBER 2004 AGED 84",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "A tapered block on concrete slab base with posts at the corners. Mounted to the block are three plaques with dedications written in white lettering.",
   "inscription": "THIS MONUMENT IS/ ERECTED IN/ MEMORY OF/ SGT R.M. BUIE RCAF/ F/SGT A.W. KIMMERLEY RCAF/ P/O L.K. TAYLOR RCAF P/O/ R.W. THOMPSON/ CREW OF A WELLINGTON/ BOMBER OF 424(TIGER)/ SQUADRON RCAF/ WHO WERE KILLED/ ON 11TH APRIL 1943/ WHEN THEIR PLANE/ SUFFERED ENGINE/ FAILURE ON A/ BOMBING MISSION/ TO FRANKFURT\r\n\r\nCRASHING ON/ HEXDEN MARSHES/ SOUTH OF THIS PLACE. ALSO REMEMBERING/ SGT A.G. LEES RCAF THE SOLE SURVIVOR/ WHO TRIED IN VAIN/ TO RESCUE HIS / COMRADES THIS MONUMENT / WAS UNVEILED / ON THE 6OTH / ANNIVERSARY / BY THE GRATEFUL/ PEOPLES OF CANADA/ AND ROLVENDEN/ AND PAID FOR BY/ PUBLIC SUBSCRIPTION\r\n\r\nTO THE MEMORY/ OF/ ART LEES/ WHO ATTENDED THE UNVEILING/ OF THIS MONUMENT IN THE/ PRESENCE OF MANY ASSEMBLED/ AND WHO DIED PEACEFULLY/ AT HOME IN BRITISH COLUMBIA/ ON 17TH NOVEMBER 2004 AGED 84",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/74213"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/74213",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "L.K. TAYLOR",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.031206899033,
-  "longitude": 0.65168650514
+  "longitude": 0.65168650514,
+  "grid_ref": "TQ 86030",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/41/306/large_74213e_les_featherstone_03_09_2013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/34/373/large_74213d_les_featherstone_03_09_2013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/34/371/large_74213a_les_featherstone_03_09_2013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/34/372/large_74213b_les_featherstone_03_09_2013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/41/305/large_74213c_les_featherstone_03_09_2013.jpg"
+  ],
+  "community_connection": "UNVEILED ON THE 6OTH ANNIVERSARY BY THE GRATEFUL PEOPLES OF CANADA AND ROLVENDEN AND PAID FOR BY PUBLIC SUBSCRIPTION"
 }

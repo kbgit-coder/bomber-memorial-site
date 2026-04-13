@@ -148,8 +148,8 @@
       "rank": null,
       "fate": "Unknown",
       "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
+      "burial_location": "Newark upon Trent Cemetery",
+      "nationality": "Polish"
     },
     {
       "name": "Ostrowski",
@@ -175,174 +175,132 @@
       "name": "Gebicki",
       "rank": null,
       "fate": "Unknown"
-    },
-    {
-      "name": "Nilski",
-      "rank": "Jozef",
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jozefiak",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Waroczewski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Cezary Wieczorek",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Bronislaw Kuszczynski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jozef Drozdz",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Wady",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Feliks Sobieralski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Stanislaw Duchnicki",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Antoni Sym",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Stanislaw Bialek",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Leon Hampel",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Wladislaw Zolnowski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Antoni Berger",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Wieslaw Pietruszewski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Ananowski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jarosz",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Cymborski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jonczyk",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Lichota",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Tofin",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Kostuch",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Stanczuk",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Boczkowski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Alfred Osadzinski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "M Czerniejewski",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
-    },
-    {
-      "name": "B Kuzian",
-      "rank": "Flying Officer",
-      "fate": "Killed",
-      "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
-    },
-    {
-      "name": "B Klatt",
-      "rank": "Flying Officer",
-      "fate": "Killed",
-      "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
-    },
-    {
-      "name": "J Sylwestrowicz",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
-    },
-    {
-      "name": "J Podziemski",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "unknown",
-      "nationality": "Polish",
-      "burial_location": "Newark upon Trent Cemetery"
     }
   ],
   "crash_category": "operational-combat",
   "narrative_quality_score": 5,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Nilski",
+      "rank": "Jozef"
+    },
+    {
+      "name": "Jozefiak",
+      "rank": null
+    },
+    {
+      "name": "Waroczewski",
+      "rank": null
+    },
+    {
+      "name": "Cezary Wieczorek",
+      "rank": null
+    },
+    {
+      "name": "Bronislaw Kuszczynski",
+      "rank": null
+    },
+    {
+      "name": "Jozef Drozdz",
+      "rank": null
+    },
+    {
+      "name": "Wady",
+      "rank": null
+    },
+    {
+      "name": "Feliks Sobieralski",
+      "rank": null
+    },
+    {
+      "name": "Stanislaw Duchnicki",
+      "rank": null
+    },
+    {
+      "name": "Antoni Sym",
+      "rank": null
+    },
+    {
+      "name": "Stanislaw Bialek",
+      "rank": null
+    },
+    {
+      "name": "Leon Hampel",
+      "rank": null
+    },
+    {
+      "name": "Wladislaw Zolnowski",
+      "rank": null
+    },
+    {
+      "name": "Antoni Berger",
+      "rank": null
+    },
+    {
+      "name": "Wieslaw Pietruszewski",
+      "rank": null
+    },
+    {
+      "name": "Ananowski",
+      "rank": null
+    },
+    {
+      "name": "Jarosz",
+      "rank": null
+    },
+    {
+      "name": "Cymborski",
+      "rank": null
+    },
+    {
+      "name": "Jonczyk",
+      "rank": null
+    },
+    {
+      "name": "Lichota",
+      "rank": null
+    },
+    {
+      "name": "Tofin",
+      "rank": null
+    },
+    {
+      "name": "Kostuch",
+      "rank": null
+    },
+    {
+      "name": "Stanczuk",
+      "rank": null
+    },
+    {
+      "name": "Boczkowski",
+      "rank": null
+    },
+    {
+      "name": "Alfred Osadzinski",
+      "rank": null
+    },
+    {
+      "name": "M Czerniejewski",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "B Kuzian",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "B Klatt",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "J Sylwestrowicz",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "J Podziemski",
+      "rank": "Sergeant"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 36 to 6. 30 additional names from station/OTU roll of honour moved to station_roll_names."
 }

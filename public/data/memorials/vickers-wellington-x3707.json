@@ -1,27 +1,41 @@
 {
   "id": "vickers-wellington-x3707",
   "title": "Vickers Wellington X3707",
-  "location_name": "",
-  "county": "",
+  "location_name": "Edinburgh, City Of Edinburgh",
+  "county": "Lothian",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "X3707",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1942-12-14",
+  "memorial_type": "Cairn",
+  "memorial_details": "A small concrete cairn with a metal plaque sat at the top. Concrete bricks make up the outer facade of the cairn; the centre of the cairn is solid concrete. This plaque details the names of the airmen who perished in the plane crash.",
+  "inscription": "PLAQUE : In Memory of / (NAMES) / Who tragically lost their lives when their aircraft, Vickers Wellington X3707, crashed at Craiglockhart View on14th December 1942.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97912"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97912",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 55.923364324035,
-  "longitude": -3.240197926201
+  "longitude": -3.240197926201,
+  "grid_ref": "NT 22596",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "custodian": "CraigLockhart Community Council and The City of Edinburgh Council South West Neighbourhood Partnership",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/120/737/large_craiglockheart_vickers_wellington_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/738/large_craiglockheart_vickers_wellington2.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

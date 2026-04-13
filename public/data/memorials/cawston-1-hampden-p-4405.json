@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.7706,
   "longitude": 1.1641,
   "maintainer": {
@@ -79,8 +79,8 @@
       "role": "Local authority responsible for memorial upkeep"
     },
     {
-      "role": "Correct parish council for Cawston, Norwich — previous contact was Cawston, Warwickshire (wrong parish)",
-      "email": "TBC — need to find correct Norfolk Cawston PC email",
+      "role": "Correct parish council for Cawston, Norwich \u2014 previous contact was Cawston, Warwickshire (wrong parish)",
+      "email": "TBC \u2014 need to find correct Norfolk Cawston PC email",
       "org_name": "Cawston Parish Council (Norfolk)",
       "org_type": "Parish Council"
     }
@@ -105,9 +105,9 @@
       "name": "John Edward HILL",
       "rank": "Sergeant",
       "role": "Wireless Operator",
-      "service_number": "935567",
       "burial_location": "Grave 707. at Crowle Cemetery, United Kingdom",
       "fate": "Killed",
+      "service_number": "935567",
       "nationality": "British"
     },
     {
@@ -141,7 +141,7 @@
     "annual_service": true,
     "service_date": "2 September"
   },
-  "memorial_details": "At a ceremony in Cawston on Sunday 2 September, a plaque was unveiled in memory of the four young airmen in their early twenties of 61 Squadron, set off from RAF Hemswell on a bombing mission to Wilhelmshaven in Germany.\n\nA plaque was unveiled in memory of the four young airmen on Sunday 2 September at a ceremony in Cawston.\n\nCasualty Page: A page dedicated to remembering Sergeant J E HILL (935567) of the Royal Air Force who was killed during World War 2.",
+  "memorial_details": "At a ceremony in Cawston on Sunday 2 September, a plaque was unveiled in memory of the four young airmen in their early twenties of 61 Squadron, set off from RAF Hemswell on a bombing mission to\u00a0Wilhelmshaven in Germany.\n\nA plaque was unveiled in memory of the four young airmen on Sunday 2 September at a ceremony in Cawston.\n\nCasualty Page: A page dedicated to remembering Sergeant J E HILL (935567) of the Royal Air Force who was killed during World War 2.",
   "crash_category": "unknown",
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet"

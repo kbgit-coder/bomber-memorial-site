@@ -31,7 +31,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "The wireless operator requested permission to descend below the cloud base. But the aircraft had entered shower clouds that deposited heavy layers of ice on the wings, and with insufficient power from the port engine alone, the Wellington lost height and crashed into the south-west slopes of Carreg Goch. All six crew \u2014 known as 'the Alouettes' \u2014 were killed. All six were buried at Chester (Blacon) Cemetery. In 2013, Phyllis Allison, sister of bomb aimer William, visited the site \u2014 an extraordinary journey nearly 70 years after her brother's death.",
   "crew": [
     {
@@ -39,65 +39,65 @@
       "name": "Charles Hamel",
       "age": 21,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed when Wellington MF509 crashed on Carreg Goch. Buried at Chester (Blacon) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Jules Robert Rene Villeneuve",
       "age": 22,
       "role": "Navigator",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
       "fate_detail": "Buried at Chester (Blacon) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "William Joseph Allison",
       "age": 28,
       "role": "Bomb Aimer",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
       "fate_detail": "At 28, the oldest crew member. In 2013 his sister Phyllis visited the crash site, nearly 70 years later.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Joseph Paul Ernest Burke",
       "age": 20,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
       "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Arthur Grouix",
       "age": 22,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Gerard Dusablon",
       "age": 20,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Chester (Blacon) Cemetery",
       "fate": "Killed",
       "fate_detail": "One of the youngest crew at 20. Buried at Chester (Blacon) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "name": "Nezan",

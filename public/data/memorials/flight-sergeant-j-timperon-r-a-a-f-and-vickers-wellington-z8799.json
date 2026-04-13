@@ -1,27 +1,47 @@
 {
   "id": "flight-sergeant-j-timperon-r-a-a-f-and-vickers-wellington-z8799",
-  "title": "Flight Sergeant J Timperon R.A.A.F. and Vickers Wellington Z8799",
-  "location_name": "",
-  "county": "",
+  "title": "Vickers Wellington Z8799",
+  "location_name": "above Horwich, Chorley",
+  "county": "Lancashire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "Z8799",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Brass coloured Plaque with machine cut black lettering. Located above WMR 18607. See also 18608",
   "inscription": "IN LOVING MEMORY OF / FLT.SGT.JOE TIMPERON / ON THIS 60TH ANNIVERSARY / OF THEIR CRASH 16/11/2003 / PROUDLY REMEMBERED / BY HIS SISTER MARY, SISTER-IN-LAW SHIRLEY / AND FAMILY MEMBERS IN SOUTH AUSTRALIA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/74348"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/74348",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flight Sergeant",
+      "name": "J Timperon",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.643947359045,
-  "longitude": -2.561381610204
+  "longitude": -2.561381610204,
+  "grid_ref": "SD 62984",
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/26/648/large_timperon_74348.jpg"
+  ],
+  "original_title": "Flight Sergeant J Timperon R.A.A.F. and Vickers Wellington Z8799",
+  "last_validated": "2026-04-12",
+  "crash_date_review": "Auto-corrected to 2003-11-16 but reverted \u2014 year 2003 outside WW2 range",
+  "community_connection": "Sister Mary, Sister-in-law Shirley, and family members in South Australia"
 }

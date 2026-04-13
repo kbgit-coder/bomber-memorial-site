@@ -1,27 +1,46 @@
 {
   "id": "rcaf-crew-of-raf-wellington-he821-and-pilot-officer-h-s-keeton",
-  "title": "RCAF Crew Of RAF Wellington HE821 And Pilot Officer H S Keeton",
-  "location_name": "",
-  "county": "",
+  "title": "Vickers Wellington HE821",
+  "location_name": "Creswell, Bolsover",
+  "county": "Derbyshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HE821",
   "squadron": "",
   "crash_date": "1944-08-05",
-  "memorial_type": "",
-  "memorial_details": "description: THIS MEMORIAL/ IS DEDICATED TO THE FIVE/ CANADIAN AIRCREW/ WHO DIED WHEN THEIR WELLINGTON BOMBER/ FROM RAF GAMSTON CRASHED CLOSE TO THIS PLACE/ ON THE 5TH AUGUST 1944/ (Names)/ THIS MEMORIAL WAS DONATED BY MR. JOSEPH ARTHUR PLANT/ IN MEMORY OF HIS CLOSE FRIEND - RAF PILOT OFFICER/ HERBERT SYDNEY KEETON OF CRESWELL/ WHO WAS KILLED ON ACTIVE SERVICE ON 30TH MAY 1942 AGED 21",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A freestanding limestone tablet and two stepped base. The tablet has the badge of the RCAF at top left and a Wellington bomber in relief at top right. The incised inscription is in upright capital block lettering coloured black.",
+  "inscription": "THIS MEMORIAL/ IS DEDICATED TO THE FIVE/ CANADIAN AIRCREW/ WHO DIED WHEN THEIR WELLINGTON BOMBER/ FROM RAF GAMSTON CRASHED CLOSE TO THIS PLACE/ ON THE 5TH AUGUST 1944/ (Names)/ THIS MEMORIAL WAS DONATED BY MR. JOSEPH ARTHUR PLANT/ IN MEMORY OF HIS CLOSE FRIEND - RAF PILOT OFFICER/ HERBERT SYDNEY KEETON OF CRESWELL/ WHO WAS KILLED ON ACTIVE SERVICE ON 30TH MAY 1942 AGED 21",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/61431"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/61431",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Pilot Officer",
+      "name": "H S Keeton",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.263859473127,
-  "longitude": -1.191872009347
+  "longitude": -1.191872009347,
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/100/534/large_61431_gary_corbett_3_september_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/171/300/large_61431b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/171/299/large_61431a.jpg"
+  ],
+  "original_title": "RCAF Crew Of RAF Wellington HE821 And Pilot Officer H S Keeton",
+  "community_connection": "This memorial was donated by Mr. Joseph Arthur Plant/ IN MEMORY OF HIS CLOSE FRIEND - RAF PILOT OFFICER/ HERBERT SYDNEY KEETON OF CRESWELL/"
 }

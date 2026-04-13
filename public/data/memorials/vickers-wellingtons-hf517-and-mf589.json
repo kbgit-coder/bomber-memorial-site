@@ -1,27 +1,43 @@
 {
   "id": "vickers-wellingtons-hf517-and-mf589",
   "title": "Vickers Wellingtons HF517 and MF589",
-  "location_name": "",
-  "county": "",
+  "location_name": "Prestwood, Chiltern",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HF517",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1944-08-26",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Stone Tablet with names incised in black script to left and right. In the centre is a map showing where the wreckage and bodies were found.",
+  "inscription": "In Memory of the Dutch, Canadian and British Airmen/ who died over and in Prestwood on the 26th August 1944/ (Names) \"Dying for a noble cause is not the worst thing that could happen - being forgotten is\".",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/56559"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/56559",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.687966510541,
-  "longitude": -0.733453280115
+  "longitude": -0.733453280115,
+  "grid_ref": "SU 87649",
+  "photos": [],
+  "names_on_memorial": 11,
+  "died_count": 11,
+  "custodian": "Hildrith's Garden Centre",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/170/18/large_20230910_prestwood_00019.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/17/large_20230910_prestwood_00014.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/15/large_20230910_prestwood_00029.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/16/large_20230910_prestwood_00006.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/118/815/large_bu_prestwood_2.jpg"
+  ],
+  "community_connection": "Dutch, Canadian and British Airmen"
 }

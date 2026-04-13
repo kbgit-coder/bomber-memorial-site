@@ -1,27 +1,40 @@
 {
   "id": "crew-of-wellington-w5444",
   "title": "Crew of Wellington W5444",
-  "location_name": "",
-  "county": "",
+  "location_name": "Briston, North Norfolk",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "W5444",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Large, square tablet mounted horizontally on a low brick plinth.  The memorial appears to have a thin, white composite board attached to a concrete slab.  The dedication is printed in black, upper and lower-case letters.  An illustrated information board is positioned behind the memorial and a flagpole to the left flies a Union Jack.\n\nAnother memorial to this crew is located at All Saint&#039;s Church in the same village (ref 19954)",
-  "inscription": "",
+  "crash_date": "1941-08-17",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Large, square tablet mounted horizontally on a low brick plinth. The memorial appears to have a thin, white composite board attached to a concrete slab. The dedication is printed in black, upper and lower-case letters. An illustrated information board is positioned behind the memorial and a flagpole to the left flies a Union Jack. Another memorial to this crew is located at All Saint's Church in the same village (ref 19954)",
+  "inscription": "WELLINGTON BOMBER/ CRASHED 17TH AUGUST 1941/ (name)/ PILOT/ (name)/ NAVIGATOR/ (name)/ AIR GUNNER An information board behind the memorial gives details of the crash and names of the surviving crew members.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101413"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101413",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.855250532019,
-  "longitude": 1.040706270562
+  "longitude": 1.040706270562,
+  "grid_ref": "TG 04821",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 3,
+  "custodian": "Briston Parish Council",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/138/407/large_nf_briston_2_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/409/large_nf_briston_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/408/large_nf_briston_1_r.jpg"
+  ]
 }

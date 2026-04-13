@@ -1,27 +1,39 @@
 {
   "id": "305th-bomb-group-b17-flying-fortress-42-97578-crash",
   "title": "305th Bomb Group - B17 Flying Fortress (42-97578) Crash",
-  "location_name": "",
-  "county": "",
+  "location_name": "Yelden, Bedford, North Bedfordshire",
+  "county": "Bedfordshire",
   "country": "United Kingdom",
   "aircraft_type": "B-17 Flying Fortress",
   "serial_number": "42-97578",
   "squadron": "",
-  "crash_date": "1943-08-24",
-  "memorial_type": "",
-  "memorial_details": "description: WORLD WAR 1939-1945. / REMEMBER / SERGEANT CHARLES HENRY HILTON, / ROYAL AIR FORCE, OF YELDEN. / KILLED ON ACTIVE SERVICE / 24TH AUGUST 1943 / (CHILD&#039;S NAME), AGED 14 YEARS. / (CHILD&#039;S NAME), AGED 4 YEARS / OF YELDEN. / KILLED BY AN AIRCRAFT WHICH CRASHED / NEAR THIS CHURCH 24TH MARCH 1944.\r\n\r\nIn memory o the men who died on the night of 24th March 1944 when Boeing B-17G Flying Fortress serial number 42-97578 of 422nd Squadron 305th Bomb Group crashed just north of Yelden Church.\r\nAircrew (names)\r\n1121st Quartermaster Company (names)",
-  "inscription": "",
+  "crash_date": "1944-03-24",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted, landscape orientated incised stone tablets, enclosed by a moulded stone frame. Inscription infilled with black paint.",
+  "inscription": "WORLD WAR 1939-1945. / REMEMBER / SERGEANT CHARLES HENRY HILTON, / ROYAL AIR FORCE, OF YELDEN. / KILLED ON ACTIVE SERVICE / 24TH AUGUST 1943 / (CHILD'S NAME), AGED 14 YEARS. / (CHILD'S NAME), AGED 4 YEARS / OF YELDEN. / KILLED BY AN AIRCRAFT WHICH CRASHED / NEAR THIS CHURCH 24TH MARCH 1944. In memory o the men who died on the night of 24th March 1944 when Boeing B-17G Flying Fortress serial number 42-97578 of 422nd Squadron 305th Bomb Group crashed just north of Yelden Church. Aircrew (names) 1121st Quartermaster Company (names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/1848"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/1848",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.29325800227,
-  "longitude": -0.518733967577
+  "longitude": -0.518733967577,
+  "grid_ref": "TL 01120",
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/25/294/large_1848_s___b__blythe_29_12_92.jpg"
+  ],
+  "community_connection": "{'ages': ['AGED 14 YEARS', 'AGED 4 YEARS'], 'relationship_to_community': 'OF YELDEN'}",
+  "last_validated": "2026-04-12"
 }

@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.4077,
   "longitude": 0.9891,
   "maintainer": {
@@ -165,8 +165,10 @@
   "remembrance": {
     "events": []
   },
-  "community_connection": "",
+  "community_connection": "SNETTERTON HEATH",
   "crash_category": "mid-air-collision",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "44-6137, 43-38746",
+  "last_validated": "2026-04-13"
 }

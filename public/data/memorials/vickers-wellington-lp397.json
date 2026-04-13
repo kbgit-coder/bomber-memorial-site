@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-lp397",
   "title": "Vickers Wellington LP397",
-  "location_name": "",
-  "county": "",
+  "location_name": "Mayfield, East Staffordshire",
+  "county": "Staffordshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "LP397",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "RAF WYMESWOLD / NO 93 GROUP BOMBER",
+  "crash_date": "1944-06-13",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Tall, round-topped stone of remembrance resembling a headstone with image of Wellington bomber carved in relief within oval depression at top. Dedication is incised in black, upper-case letters.",
+  "inscription": "13TH JUNE 1944 / WELLINGTON / MK10 LP397 / TRAINING UNIT NO 28 / RAF WYMESWOLD / NO 93 GROUP BOMBER / COMMAND / CRASHED NEARBY IN A / THUNDERSTORM WITH / NO SURVIVORS / (6 NAMES) / HERITAGE GROUP 2011",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/98709"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/98709",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.000222521529,
-  "longitude": -1.772371530533
+  "longitude": -1.772371530533,
+  "grid_ref": "SK 15372",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "custodian": "St John the Baptist Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/125/33/large_de_mayfield_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/125/34/large_de_mayfield_4.jpg"
+  ],
+  "community_connection": "RAF WYMESWOLD / Heritage Group 2011"
 }

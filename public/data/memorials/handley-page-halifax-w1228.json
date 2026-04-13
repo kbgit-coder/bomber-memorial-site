@@ -1,27 +1,42 @@
 {
   "id": "handley-page-halifax-w1228",
   "title": "Handley Page Halifax W1228",
-  "location_name": "",
-  "county": "",
+  "location_name": "Holtby, York",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "W1228",
-  "squadron": "",
+  "squadron": "76 Squadron",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Rectangular tablet (possibly sandstone) inclined at approx. 45\u00ba with dedication incised in black, upper-case letters.  The RAF crest is incised above the dedication.  The tablet is located in a flowerbed surrounded by sandstone kerbstones and an information board mounted between two metal pillars is set behind and above the tablet.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular tablet (possibly sandstone) inclined at approx. 45\u00ba with dedication incised in black, upper-case letters. The RAF crest is incised above the dedication. The tablet is located in a flowerbed surrounded by sandstone kerbstones and an information board mounted between two metal pillars is set behind and above the tablet.",
+  "inscription": "IN MEMORY OF/ THE CREW/ OF/ HALIFAX W1228/ FROM 76 SQN/ (names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101723"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101723",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.980554331403,
-  "longitude": -0.973736331682
+  "longitude": -0.973736331682,
+  "grid_ref": "SE 67400",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "Holtby Parish Council",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/139/990/large_ny_holtby_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/139/988/large_ny_holtby_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/139/991/large_ny_holtby_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/139/989/large_ny_holtby_7.jpg"
+  ],
+  "community_connection": ""
 }

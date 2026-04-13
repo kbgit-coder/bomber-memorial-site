@@ -36,7 +36,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On 22 February 1944, the B-17 Flying Fortress \"Mi Amigo\" was returning from a bombing mission over Aalborg, Denmark, having been severely damaged by Luftwaffe fighters en route. With engines failing and the aircraft barely controllable, First Lieutenant Kriegshauser nursed the crippled bomber across the North Sea and over the English coast. By the time the B-17 reached Sheffield, at around 5pm, it was clear the aircraft could not reach any airfield. Kriegshauser prepared for a crash landing and began his final approach towards open ground. Then he saw them: a large group of children playing in Endcliffe Park below. Without hesitation, Kriegshauser aborted the landing, hauling the dying aircraft over the park and into the trees beyond. All ten crew members were killed in the resulting crash. The children were saved. Their sacrifice -- choosing certain death over the risk of killing children -- has made the Mi Amigo one of the most emotionally powerful war memorial stories in Britain.",
   "crew": [
     {
@@ -44,7 +44,6 @@
       "name": "John Glennon Kriegshauser",
       "age": 23,
       "role": "Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed when the B-17 crashed into trees beyond Endcliffe Park after he deliberately overflew the park to avoid children playing below.",
       "burial_location": "Cambridge American Cemetery, Madingley (initially); later repatriated to USA",
@@ -56,7 +55,6 @@
       "rank": "2nd Lt",
       "name": "Lyle J. Curtis",
       "role": "Co-Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Idaho Falls, Idaho.",
@@ -67,7 +65,6 @@
       "rank": "2nd Lt",
       "name": "John W. Humphrey",
       "role": "Navigator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Wyoming, Illinois.",
@@ -78,7 +75,6 @@
       "rank": "2nd Lt",
       "name": "Melchor Hernandez",
       "role": "Bombardier",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Had been unable to release bombs over Aalborg due to cloud cover; the bombs were jettisoned over the North Sea on the return.",
       "bio": "From Los Angeles, California.",
@@ -89,7 +85,6 @@
       "rank": "T/Sgt",
       "name": "George M. Williams",
       "role": "Waist Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Faxon, Oklahoma.",
@@ -100,7 +95,6 @@
       "rank": "S/Sgt",
       "name": "Harry W. Estabrooks",
       "role": "Flight Engineer/Top Turret",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Mound Valley, Kansas.",
@@ -111,7 +105,6 @@
       "rank": "S/Sgt",
       "name": "Robert E. Mayfield",
       "role": "Radio Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Raymond, Illinois.",
@@ -122,7 +115,6 @@
       "rank": "Sgt",
       "name": "Charles H. Tuttle",
       "role": "Ball Turret Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Raceland, Kentucky.",
@@ -133,7 +125,6 @@
       "rank": "Sgt",
       "name": "Vito R. Ambrosio",
       "role": "Waist Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Brooklyn, New York.",
@@ -144,7 +135,6 @@
       "rank": "Sgt",
       "name": "Maurice D. Robbins",
       "role": "Tail Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Manor, Texas.",
@@ -155,8 +145,7 @@
       "name": "Krieghauser",
       "rank": "First Lieutenant",
       "fate": "Killed",
-      "role": "Pilot",
-      "nationality": "American"
+      "role": "Pilot"
     }
   ],
   "cause_of_loss": "Heavily damaged by enemy fighters over Denmark; engines failing; pilot aborted landing approach to avoid children playing in park",
@@ -273,7 +262,7 @@
   "remembrance": {
     "events": []
   },
-  "community_connection": "This memorial image was created and shared by the RAF Association, Sheffield Branch (WMR-27509). It showcases a significant piece of WWII history, highlighting the connection between the local community in Sheffield and the war effort through their association with the RAF.",
+  "community_connection": "",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4
 }

@@ -1,27 +1,47 @@
 {
   "id": "vickers-wellington-z8863",
   "title": "Vickers Wellington Z8863",
-  "location_name": "",
-  "county": "",
+  "location_name": "March, Fenland",
+  "county": "Cambridgeshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "Z8863",
   "squadron": "115 Squadron",
   "crash_date": "1941-11-24",
-  "memorial_type": "",
-  "memorial_details": "description: Peterborough Today online, Thursday 19/8/2021, reported details of the dedication service that had taken place the previous day. That report opened: \r\n'On 24 November 1941 a Vickers Wellington bomber (Z8863) of No 115 Squadron from RAF Marham crashed approximately two miles outside March in Cambridgeshire with the loss of the entire crew. The crash site sits within a nature reserve owned by the Ministry of Justice as part of the HMP Whitemoor estate. \r\nThe history of the site was bought to the prison\u2019s attention by Andrew Wood, a worker with Government Facility Services Limited (GFSL). \r\nTogether with Senior Site Manager Mark Twiddy, the team from GFSL designed and built a special memorial to the crew of Z8863. Using reclaimed and unused materials, and with the GFSL team working in their own time, the memorial was completed at no cost to the taxpayer. \r\nYesterday a service was held to mark the opening of the memorial...' \r\n(The report also stated that a delegation from RAF Wittering attended the service, along with local townsfolk/dignitaries and prison staff, that the service was taken by RAF Wittering Chaplain, Reverend Squadron Leader Andrew Tucker, with contributions from Reverend Andrew Smith of St Peter\u2019s Church, March, Father Jacob Cheriyan, Roman Catholic Chaplain at HMP Whitemoor, and that words of thanks were given by Martyn Phillips, a relative of crewmember Sgt Henry O\u2019Shea; the last post was played by Prison Officer Terry Knight).",
-  "inscription": "",
+  "memorial_type": "Composite",
+  "memorial_details": "Two low brick pillars, to which flagpoles are fixed: one carrying the Royal Air Force flag, the other the Union Flag. The pillars mark the beginning of an avenue of 10 trees (each with an associated metal plaque on a low wooden post), which lead to a low brick wall on which a rectangular brass plaque on a wooden backboard is fixed. The wall-mounted plaque incorporates the coloured crests of RAF Bomber Command (on the left) and of 115 Squadron (on the right). Each of the plaques beside nine of the trees is engraved with the rank, name and service number of one of the crewmen/passengers who died; beside the tenth tree is a plaque bearing the badge of 115 Squadron. Near the avenue of trees is an Information board, which records details of the crash.\n\nThis memorial is dedicated to the crew of Wellington Mk 1c Z8863 KO-G of 115 Squadron",
+  "inscription": "(Plaque on wall): This memorial is dedicated to the crew/ of/ Wellington Mk 1c Z8863 KO-G/ of 115 Squadron/ Crashed here on November 24th 1941/ with the loss of all crew (Tree plaques 1-9): (names) (Tree plaque 10): 115 Squadron/ Royal air force/ Despite the Elements",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97848"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97848",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.561804137016,
-  "longitude": 0.090875582053
+  "longitude": 0.090875582053,
+  "grid_ref": "TL 41828",
+  "photos": [],
+  "names_on_memorial": 9,
+  "died_count": 9,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/120/337/mid_img_0734_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/329/mid_img_0726_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/339/img_0735_0.jpeg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/341/img_0739_0.jpeg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/340/img_0738_0.jpeg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/338/img_0740_0.jpeg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/332/img_0729_0.jpeg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/342/mid_img_0748_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/333/mid_img_0730_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/331/mid_img_0728_0.jpg"
+  ],
+  "community_connection": ""
 }

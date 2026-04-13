@@ -1,27 +1,43 @@
 {
   "id": "short-stirling-w7441",
   "title": "Short Stirling W7441",
-  "location_name": "",
-  "county": "",
+  "location_name": "Marham, Kings Lynn And West Norfolk",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "W7441",
   "squadron": "7 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Short, brick-built obelisk with a section of propeller mounted on the top.  Two slate tablets are mounted on the front and rear faces.  On the front, the RAF Marham crest and dedication are incised in white upper and lower-case letters.  To the rear, a side profile of a Stirling bomber, 7 Squadron crest and the dedication are similarly incised.",
-  "inscription": "",
+  "crash_date": "1941-09-29",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Short, brick-built obelisk with a section of propeller mounted on the top. Two slate tablets are mounted on the front and rear faces. On the front, the RAF Marham crest and dedication are incised in white upper and lower-case letters. To the rear, a side profile of a Stirling bomber, 7 Squadron crest and the dedication are similarly incised.\n\nThis memorial is dedicated to the memory of all airmen and airwomen who were injured, reported missing, or died while in service of their country.",
+  "inscription": "Front face, tablet: RAF MARHAM / (Station crest) / THIS MEMORIAL IS DEDICATED TO THE / ENDURING MEMORY OF ALL AIRMEN & AIRWOMEN / WHO WERE INJURED, REPORTED MISSING, / OR WHO DIED WHILST IN SERVICE OF THEIR COUNTRY / PER ARDUA AD ASTRA // Rear face, main tablet: THIS PROPELLER BLADE WAS RECOVERED FROM THE SEABED / OFF THE COAST OF DENMARK, WHERE SHORT STERLING (sic) W7441 / CRASHED ON THE 29TH SEPTEMBER 1941 / (aircraft profile) / SHORT STIRLING MK 1 W7441 7 SQN / CREW / (7 NAMES) // Rear face, sub-tablet: Designed and Built by SAC(T) Jamie Fowler / November 2016",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101135"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101135",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.658403265704,
-  "longitude": 0.543800610455
+  "longitude": 0.543800610455,
+  "grid_ref": "TF 72146",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 3,
+  "custodian": "RAF Marham Heritage Centre",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/137/219/large_nf_marham_hc_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/137/222/large_nf_marham_hc_5.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/137/220/large_nf_marham_hc_3_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/137/218/large_nf_marham_hc_1_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/137/221/large_nf_marham_hc_4.jpg"
+  ],
+  "community_connection": "It was erected by SAC(T) Jamie Fowler."
 }

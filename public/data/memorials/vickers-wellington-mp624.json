@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-mp624",
   "title": "Vickers Wellington MP624",
-  "location_name": "",
-  "county": "",
+  "location_name": "Higher Clovelly, Torridge",
+  "county": "Devon",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "MP624",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "crash_date": "1943-08-24",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Plaque with RAF badge centre top. Set on a boulder surrounded by gravel and kerbs.",
   "inscription": "AT 11-48 PM  24-8-1943 / WHILST ON ANTI-SUBMARINE PATROL / A WELLINGTON BOMBER CRASHED NEAR / THIS STONE. ALL OF THE CREW PERISHED / (6 NAMES) / THIS STONE MARKS THE 50 TH ANNIVERSARY / OF THEIR SACRIFICE / R.I.P.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/2882"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/2882",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.989995768984,
-  "longitude": -4.410721063614
+  "longitude": -4.410721063614,
+  "grid_ref": "SS 30908",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/34/500/large_2882_mark_newton_01_08_2015.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": "This stone marks the 50th anniversary of their sacrifice."
 }

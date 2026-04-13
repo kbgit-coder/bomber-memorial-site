@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.5284,
   "longitude": 0.8815,
   "maintainer": {
@@ -76,17 +76,17 @@
     {
       "name": "F. B. G. Heron",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
       "name": "G. D. Maluish",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
       "name": "G. E. Step",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
       "name": "John Graham",
@@ -119,5 +119,7 @@
   },
   "community_connection": "",
   "crash_category": "unknown",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "serial_number": "V5851",
+  "last_validated": "2026-04-13"
 }

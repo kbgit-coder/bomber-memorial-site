@@ -1,27 +1,49 @@
 {
   "id": "sergeant-a-j-smith-and-short-stirling-ef352",
-  "title": "Sergeant A J Smith and Short Stirling EF352",
-  "location_name": "",
-  "county": "",
+  "title": "Short Stirling EF352",
+  "location_name": "Hedge End, Eastleigh",
+  "county": "Hampshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "EF352",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: IN HONOUR OF/ 1852352/ RAF SGT A J SMITH/ OF HEDGE END/ THIS TREE WAS PLANTED ON THE/ 12TH NOVEMBER 1989 IN MEMORY/ OF SGT A J SMITH WHO AT 9:20 PM/ ON THE NIGHT OF 22ND OCTOBER/ 1943 ALONG WITH THE CREW OF/ STIRLING BOMBER E.F. 352 WHICH/ WAS ON FIRE GAVE THEIR LIVES IN/ SAVING THE VILLAGE AT PRESTON/ WYNNE HEREFORD BEFORE CRASHING WITH ALL LOSS OF LIFE/ LEAVING A WIDOW AND THREE SONS IN HEDGE/ END.",
+  "memorial_type": "Avenue / Tree or grove",
+  "memorial_details": "Red leaved young maple tree and white metal plaque on a black metal backboard with the inscription incised and coloured dark grey",
   "inscription": "IN HONOUR OF/ 1852352/ RAF SGT A J SMITH/ OF HEDGE END/ THIS TREE WAS PLANTED ON THE/ 12TH NOVEMBER 1989 IN MEMORY/ OF SGT A J SMITH WHO AT 9:20 PM/ ON THE NIGHT OF 22ND OCTOBER/ 1943 ALONG WITH THE CREW OF/ STIRLING BOMBER E.F. 352 WHICH/ WAS ON FIRE GAVE THEIR LIVES IN/ SAVING THE VILLAGE AT PRESTON/ WYNNE HEREFORD BEFORE CRASHING WITH ALL LOSS OF LIFE/ LEAVING A WIDOW AND THREE SONS IN HEDGE/ END.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/21163"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/21163",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "A J Smith",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.906723201583,
-  "longitude": -1.310335907078
+  "longitude": -1.310335907078,
+  "grid_ref": "SU 48587",
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "custodian": "HEDGE END PARISH COUNCIL",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/72/51/large_dsc02013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/72/50/large_dsc02012.jpg"
+  ],
+  "original_title": "Sergeant A J Smith and Short Stirling EF352",
+  "community_connection": "VILLAGE AT PRESTON WYNNE HEREFORD",
+  "last_validated": "2026-04-13",
+  "crash_date_review": "Auto-corrected to 22nd OCTOBER 1943 but reverted \u2014 text date, not ISO"
 }

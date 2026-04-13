@@ -1,27 +1,38 @@
 {
   "id": "wellington-bomber-crash",
   "title": "Wellington Bomber Crash",
-  "location_name": "",
-  "county": "",
+  "location_name": "Hartland, Torridge",
+  "county": "Devon",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1942-04-13",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Plaque with raised lettering on angled brick and concrete mount.\n\nThis memorial was erected to their honour in 1988",
+  "inscription": "IN MEMORY / OF THE CREW OF A WELLINGTON BOMBER WHICH / CRASHED BENEATH THESE CLIFFS ON 13 APRIL 1942/ (Names)/ THIS MEMORIAL WAS ERECTED TO THEIR HONOUR / IN 1988",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/25933"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/25933",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.013230201014,
-  "longitude": -4.446645420343
+  "longitude": -4.446645420343,
+  "grid_ref": "SS 28470",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/46/0/large_25933_r.jpg"
+  ],
+  "community_connection": ""
 }

@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-bj764",
   "title": "Vickers Wellington BJ764",
-  "location_name": "",
-  "county": "",
+  "location_name": "Beetley, Breckland",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BJ764",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "425 Squadron",
+  "crash_date": "1942-11-09",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Plain, rectangular, white marble tablet mounted on a black backboard. Commemoration is in black, upper case letters. A smaller framed and glazed print of the 425 squadron badge is mounted below the tablet.",
+  "inscription": "IN MEMORY OF/ (names)/ CREW MEMBERS OF THE WELLINGTON MK III BOMBER/ OF THE 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHICH CRASHED AT BEETLEY ON THE NIGHT OF/ 9TH NOVEMBER 1942",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101718"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101718",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.728402421525,
-  "longitude": 0.921821694436
+  "longitude": 0.921821694436,
+  "grid_ref": "TF 97392",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "custodian": "St Mary Magdalene's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/139/947/large_nf_beetley_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/139/946/large_nf_beetley_4_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/139/945/large_nf_beetley_3.jpg"
+  ]
 }

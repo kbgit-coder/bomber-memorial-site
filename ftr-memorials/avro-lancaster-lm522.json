@@ -1,0 +1,38 @@
+{
+  "id": "avro-lancaster-lm522",
+  "title": "Avro Lancaster LM522",
+  "location_name": "East Kirkby, East Lindsey",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM522",
+  "squadron": "57 Squadron",
+  "crash_date": "1944-07-08",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Dedicatory Plaque",
+  "inscription": "Dedicated to the crew of/ Lancaster LM522, 57 Sqn./ Lost on 8th July 1944/ (Names)/ We will remember them",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/92546",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 53.139285200239,
+  "longitude": -0.002707016907,
+  "grid_ref": "TF337621",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/98/364/large_lancaster_lm522.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/98/363/large_wmc6_308.jpg"
+  ]
+}

@@ -1,27 +1,38 @@
 {
   "id": "crew-of-lancaster-ll811-bq-j-and-their-comrades",
   "title": "Crew Of Lancaster Ll811 Bq J And Their Comrades",
-  "location_name": "",
-  "county": "",
+  "location_name": "North Killingholme, Norh Lincolnshire",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "LL811",
   "squadron": "550 Squadron",
   "crash_date": "1944-06-06",
-  "memorial_type": "",
-  "memorial_details": "description: PLAQUE ON SHIELD: ON JUNE 6TH 1944 THE GREATEST LIBERATING ARMADA EVER ASSEMBLED/ LEFT THE SHORES OF ENGLAND. FOR BOMBER COMMAND THE INVASION OF/ OCCUPIED EUROPE COMMENCED THE NIGHT BEFORE. AT 23.34 HOURS/ LANCASTER LL811, SQUADRON MARKINGS BQ-J WAS THE FIRST AIRCRAFT/ IN THE FIRST WAVE TO STRIKE AHEAD OF THE MAIN SPEARHEAD BY MANY/ HOURS, SO SETTING THE MOMENTOUS EVENTS IN MOTION./ THAT AIRCRAFT LEFT FROM 550 SQUADRON, AND THIS HISTORIC OPERATION/ PUT NORTH KILLINGHOLME ON THE MAP. FOR THE BRAVE YOUNG LADS OF/ THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT/ RETURN WE DEDICATE THIS SIMPLE PLAQUE.\n\nSHIELD: (NAMES)",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted Shield bearing crest and name plates presented to Bomber Command and Croix de Guerre citation below.\n\nThe inscription mentions 'FOR THE BRAVE YOUNG LADS OF THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT RETURN WE DEDICATE THIS SIMPLE PLAQUE.' and the community connection is shown as 'THIS HISTORIC OPERATION PUT NORTH KILLINGHOLME ON THE MAP'.",
   "inscription": "PLAQUE ON SHIELD: ON JUNE 6TH 1944 THE GREATEST LIBERATING ARMADA EVER ASSEMBLED/ LEFT THE SHORES OF ENGLAND. FOR BOMBER COMMAND THE INVASION OF/ OCCUPIED EUROPE COMMENCED THE NIGHT BEFORE. AT 23.34 HOURS/ LANCASTER LL811, SQUADRON MARKINGS BQ-J WAS THE FIRST AIRCRAFT/ IN THE FIRST WAVE TO STRIKE AHEAD OF THE MAIN SPEARHEAD BY MANY/ HOURS, SO SETTING THE MOMENTOUS EVENTS IN MOTION./ THAT AIRCRAFT LEFT FROM 550 SQUADRON, AND THIS HISTORIC OPERATION/ PUT NORTH KILLINGHOLME ON THE MAP. FOR THE BRAVE YOUNG LADS OF/ THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT/ RETURN WE DEDICATE THIS SIMPLE PLAQUE.\n\nSHIELD: (NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/5425"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/5425",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.640068917477,
-  "longitude": -0.269779408136
+  "longitude": -0.269779408136,
+  "grid_ref": "TA 14486",
+  "photos": [],
+  "names_on_memorial": 14,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/929/large_5425.jpg"
+  ],
+  "community_connection": ""
 }

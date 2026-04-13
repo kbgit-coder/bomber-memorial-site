@@ -31,98 +31,98 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Warrant Officer First Class Roberts, a 22-year-old Canadian, was the pilot. Eight crew members were killed: Flight Sergeant William Henry Stewart, Flight Sergeant Robert Smeaton, Pilot Officer Ronald James Binham, Sergeant Cyril Edgar Aaron, Sergeant Alexander Taylor Strachan, Sergeant David Blackburn Lister, Sergeant Michael John Buckle, and Roberts himself. The youngest among the dead, Sergeant Lister, was just eighteen years old.",
   "crew": [
     {
       "rank": "WO1",
       "name": "David Rozell Roberts",
-      "service_number": "R/80174",
       "age": 22,
       "role": "Pilot",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed when Whitley LA766 flew into the hillside at Gwernto Bach during a night navigation exercise.",
       "cwgc_verified": true,
       "bio": "WO1 Roberts was a 22-year-old Canadian serving with the RCAF.",
-      "burial_location": "Wrexham Cemetery"
+      "burial_location": "Wrexham Cemetery",
+      "service_number": "R/80174",
+      "nationality": "Canadian"
     },
     {
       "rank": "F/Sgt",
       "name": "William Henry STEWART",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
       "age": 30,
-      "burial_location": "Wrexham Cemetery"
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "Robert Smeaton",
       "age": 28,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "At 28, one of the older crew members. Killed in the crash.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "Wrexham Cemetery"
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Ronald James Binham",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "Wrexham Cemetery"
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Cyril Edgar Aaron",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "City of London Cemetery & Crematorium"
+      "burial_location": "City of London Cemetery & Crematorium",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Alexander Taylor STRACHAN",
       "age": 19,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Local accounts suggest Strachan may have been alive when found at the crash scene but died before help could arrive.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "Edinburgh (Seafield) Crematorium"
+      "burial_location": "Edinburgh (Seafield) Crematorium",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "David Blackburn Lister",
       "age": 18,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "At just 18, the youngest member of the crew.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "Golcar Baptist Chapelyard"
+      "burial_location": "Golcar Baptist Chapelyard",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Michael John Buckle",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
       "cwgc_verified": true,
       "role": "Unknown (possibly navigator or air gunner)",
-      "burial_location": "York Cemetery"
+      "burial_location": "York Cemetery",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Aircraft flew into hillside in darkness during navigation exercise",

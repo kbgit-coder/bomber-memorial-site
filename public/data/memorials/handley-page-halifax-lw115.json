@@ -1,27 +1,43 @@
 {
   "id": "handley-page-halifax-lw115",
   "title": "Handley Page Halifax LW115",
-  "location_name": "",
-  "county": "",
+  "location_name": "Lonan",
+  "county": "Isle of Man",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LW115",
   "squadron": "433 Squadron",
   "crash_date": "1944-07-14",
-  "memorial_type": "",
-  "memorial_details": "description: In Memory Of / THOSE WHO DIED WHEN A HALIFAX BOMBER OF NO.433 Sqdn. / ROYAL CANADIAN AIR FORCE / CRASHED AT LONAN ON 14TH JULY 1944 / SOME WRECKAGE FELL ON A HOUSE &quot;HOKANG&quot; PINFOLD HILL / FATALLY INJURING A CHILD. / Crew / (names)\r\n\r\nCanadian flag each side of the crew names\r\n\r\nAcross the edge of the step\r\n1914 - 18 THEIR NAME LIVETH FOR EVERMORE 1939 - 45",
-  "inscription": "",
+  "memorial_type": "Composite",
+  "memorial_details": "A stone wall with central black marble tablet carrying the names, one at the left with squadron crest and a drawing of a Halifax bomber on the right hand tablet.",
+  "inscription": "In Memory Of / THOSE WHO DIED WHEN A HALIFAX BOMBER OF NO.433 Sqdn. / ROYAL CANADIAN AIR FORCE / CRASHED AT LONAN ON 14TH JULY 1944 / SOME WRECKAGE FELL ON A HOUSE \"HOKANG\" PINFOLD HILL / FATALLY INJURING A CHILD. / Crew / (names) Canadian flag each side of the crew names Across the edge of the step 1914 - 18 THEIR NAME LIVETH FOR EVERMORE 1939 - 45",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/84509"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/84509",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.218634637681,
-  "longitude": -4.409329580368
+  "longitude": -4.409329580368,
+  "grid_ref": "SC 43005",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/91/640/dsc00014.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/640/mid_dsc00014.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/641/dsc00012_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/92/120/mid_iom_niwm_lon_00006_dtl.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/92/120/iom_niwm_lon_00006_dtl.jpg"
+  ],
+  "community_connection": "{'ages': None, 'relationship_to_community': \"A CHILD was fatally injured when some wreckage fell on a house 'HOKANG' Pinfold Hill.\"}",
+  "last_validated": "2026-04-13"
 }

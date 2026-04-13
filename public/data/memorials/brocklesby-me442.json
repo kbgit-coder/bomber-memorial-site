@@ -31,93 +31,93 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Flying Officer Ryan and his six-man crew departed RAF Spilsby on the evening of 3 March 1945, joining a force of Lancaster bombers targeting the Ladbergen aqueducts on the Dortmund-Ems Canal. Returning from the raid, their aircraft \u2014 Lancaster ME442, coded KM-V, of 44 (Rhodesia) Squadron \u2014 was ordered to divert due to reports of enemy intruder aircraft over England. Ryan steered north, but the Lancaster was shot down by a Junkers Ju88C night fighter during Operation Gisela, a Luftwaffe intrusion over British airspace. The aircraft came down at Brocklesby Park, Lincolnshire, severing a Californian Redwood tree before coming to rest. All seven crew members were killed: pilot Ryan, aged 33, was Australian; the remaining six \u2014 Jarman, Russell, Terry, Birtch, Payne, and Rogan \u2014 were British, the youngest aged just 19.",
   "crew": [
     {
       "rank": "F/O",
       "name": "John Joseph Francis Ryan",
-      "service_number": "Aus/428364 RAAF",
       "age": 33,
       "role": "Pilot",
-      "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 15718",
       "fate": "Killed",
       "fate_detail": "Shot down by Ju88C during Operation Gisela. At 33, one of the older pilots still flying operations.",
       "cwgc_verified": true,
-      "bio": "F/O 'Jack' Ryan was a 33-year-old Australian serving with the RAAF."
+      "bio": "F/O 'Jack' Ryan was a 33-year-old Australian serving with the RAAF.",
+      "service_number": "Aus/428364 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Sgt",
       "name": "Thomas Handley Jarman",
-      "service_number": "3010499 RAFVR",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Stretford Cemetery, Lancashire, Sec W, Grave 40",
       "fate": "Killed",
       "fate_detail": "At 19, tied as youngest crew member. Buried at Stretford Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "3010499 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Richard Raven Russell",
-      "service_number": "1801287 RAFVR",
       "age": 21,
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Hove New Cemetery, Sussex, Block 3, Grave 125",
       "fate": "Killed",
       "fate_detail": "Buried at Hove New Cemetery, Sussex.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1801287 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Hubert Joseph Terry",
-      "service_number": "1580082 RAFVR",
       "age": 21,
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Birmingham (Brandwood End) Cemetery, Sec 26, Grave 10361",
       "fate": "Killed",
       "fate_detail": "Buried at Brandwood End Cemetery, Birmingham.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1580082 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Harry Birtch",
-      "service_number": "1575035 RAFVR",
       "age": 21,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 15717",
       "fate": "Killed",
       "fate_detail": "Buried at Cambridge City Cemetery alongside pilot Ryan.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1575035 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Herbert Payne",
-      "service_number": "1589407 RAFVR",
       "age": 29,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 8, Grave 241",
       "fate": "Killed",
       "fate_detail": "At 29, one of the older crew. Buried at Liverpool (Kirkdale) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1589407 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "William Henry Rogan",
-      "service_number": "2218611 RAFVR",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 27C, Grave 328",
       "fate": "Killed",
       "fate_detail": "At 19, tied as youngest crew member. Buried at Liverpool (Kirkdale) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "2218611 RAFVR",
+      "nationality": "British"
     },
     {
       "name": "H. Birch",

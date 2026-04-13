@@ -1,27 +1,38 @@
 {
   "id": "handley-page-hampden-l4173",
   "title": "Handley Page Hampden L4173",
-  "location_name": "",
-  "county": "",
+  "location_name": "Norwich",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "L4173",
   "squadron": "",
   "crash_date": "1942-05-31",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular wall mounted remembrance stone with inscription in black capital lettering.",
   "inscription": "THIS STONE IS IN MEMORY OF/ FL/LT W. .L. CAMERON R. C. A. F. (PILOT)/ AND/ SGT J. E. SHERIDAN R. A. A. F. (NAVIGATOR)/ WHO LOST THEIR LVIES WHEN/ THE HAMPDEN BOMBER CRASHED NEARBY/ ON 31ST MAY 1942",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/20073"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/20073",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.623929740379,
-  "longitude": 1.293290892268
+  "longitude": 1.293290892268,
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/92/132/large_20073.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

@@ -31,80 +31,79 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Flight Lieutenant Lines and his crew of 106 Squadron RAF departed RAF Metheringham on 30 July 1944, tasked with attacking enemy positions at Cahagnes in Normandy. The operation was aborted before the target was reached, and Lancaster PB304 turned for home still carrying its full bomb payload. Battle damage, mechanical failure, or communications disrupted by German interference \u2014 the precise cause remains unclear \u2014 prevented a safe return, and the aircraft came down over Salford, Lancashire. All seven crew members were killed, along with two civilians on the ground. Among those lost was Sergeant Mohand Singh, the rear gunner \u2014 one of the Indian aircrew who served with the RAF during the war.",
   "crew": [
     {
       "rank": "F/L",
       "name": "Peter Lines",
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion at Regatta Street, Salford. Made two attempts to land on Littleton Road playing fields to avoid populated areas, demonstrating extraordinary bravery.",
       "cwgc_verified": true,
       "bio": "Pilot of Lancaster PB304 (ZN-S), 106 Squadron. His heroic attempts to avoid crashing into densely populated Salford prevented an even greater loss of civilian life.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Raymond Barnes",
       "role": "Flight Engineer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and subsequent explosion.",
       "cwgc_verified": true,
       "bio": "Flight engineer serving with 106 Squadron at RAF Metheringham.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Harry Reid",
       "role": "Navigator",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion. The only Canadian in the crew.",
       "cwgc_verified": true,
       "bio": "Canadian navigator serving with the RCAF, the sole Canadian among the multinational crew.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "John Harvey Steel",
       "role": "Air Bomber",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "cwgc_verified": true,
       "bio": "Air bomber serving with 106 Squadron.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Arthur William Young",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "cwgc_verified": true,
       "bio": "Wireless operator and air gunner serving with 106 Squadron.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Bruce Thornley Davenport",
       "role": "Mid-Upper Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "cwgc_verified": true,
       "bio": "Mid-upper gunner serving with 106 Squadron.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Mohand Singh",
       "role": "Rear Gunner",
-      "nationality": "Indian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion. One of many Indian airmen who served with the RAF during the war.",
       "cwgc_verified": true,

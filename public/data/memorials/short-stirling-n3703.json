@@ -1,27 +1,53 @@
 {
   "id": "short-stirling-n3703",
   "title": "Short Stirling N3703",
-  "location_name": "",
-  "county": "",
+  "location_name": "Godmanchester, Huntingdon",
+  "county": "Cambridgeshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "N3703",
-  "squadron": "",
+  "squadron": "XV Squadron",
   "crash_date": "1942-04-11",
-  "memorial_type": "",
-  "memorial_details": "description: Round tablet: N3703 - G FOR GOBLIN/ XV/ SQUADRON/ \r\n\r\nTablet: Saturday 11th April 1942/ Short Stirling N3703 &#039;G for Goblin&#039;/ At 4.35am the XV Squadron Stirling, having returned badly/ damaged from a raid on Essen, and having aborted a landing at/ RAF Alconbury, crashed in a field close to this Memorial./ Squadron Leader Drummond Wilson and/ Mid Upper Gunner Sergeant Edgar Gould/ lost their lives in the crash. Of the six who survived that day,/ three would not live to see VE day./ This memorial honours their sacrifice, and all those who flew/ with XV Squadron, and recognises the service they gave/ to their country in its time of need./ (Names)/ &#039;To fly through cloud, through storm, through night./ Unerring, and to keep their purpose bright/ Nor turn, until their dreadful duty done,/ Westward they climb, to race the awakened sun&#039;",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Rough hewn Stone of Remembrance with attached dedicatory tablet. Incised inscription, on tablet, in gold lettering.",
+  "inscription": "Round tablet: N3703 - G FOR GOBLIN/ XV/ SQUADRON/ Tablet: Saturday 11th April 1942/ Short Stirling N3703 'G for Goblin'/ At 4.35am the XV Squadron Stirling, having returned badly/ damaged from a raid on Essen, and having aborted a landing at/ RAF Alconbury, crashed in a field close to this Memorial./ Squadron Leader Drummond Wilson and/ Mid Upper Gunner Sergeant Edgar Gould/ lost their lives in the crash. Of the six who survived that day,/ three would not live to see VE day./ This memorial honours their sacrifice, and all those who flew/ with XV Squadron, and recognises the service they gave/ to their country in its time of need./ (Names)/ 'To fly through cloud, through storm, through night./ Unerring, and to keep their purpose bright/ Nor turn, until their dreadful duty done,/ Westward they climb, to race the awakened sun'",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97973"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97973",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Squadron Leader",
+      "name": "Drummond Wilson and",
+      "fate": "Unknown"
+    },
+    {
+      "rank": "Mid Upper Gunner",
+      "name": "Sergeant Edgar Gould",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.319795968586,
-  "longitude": -0.158357620239
+  "longitude": -0.158357620239,
+  "grid_ref": "TL 25631",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/120/914/large_ca_godmanchester_1_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/792/large_97973.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/915/large_ca_godmanchester_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/917/large_ca_godmanchester_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/916/large_ca_godmanchester_3_0.jpg"
+  ],
+  "community_connection": "honours their sacrifice, and all those who flew with XV Squadron, and recognises the service they gave to their country in its time of need"
 }

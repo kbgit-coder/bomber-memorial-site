@@ -1,27 +1,42 @@
 {
   "id": "canadian-crew-of-wellington-bomber",
   "title": "Canadian Crew of Wellington Bomber",
-  "location_name": "",
-  "county": "",
+  "location_name": "Yardley Gobion, Towcester, South Northamptonshire",
+  "county": "Northamptonshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Ornate wooden lectern standing on a octagonal pedestal and column with decorated, carved back and sides.  The sloping face has the  dedication incised in capital letters.\r\n\r\nBlack, slate tablet with side elevation of Wellington bomber at mid centre and RCAF and RAF badges left and right lower corners,\r\n\r\nNB: The names of the crew are are also listed on memorial 15046",
-  "inscription": "",
+  "squadron": "82 OTU",
+  "crash_date": "1944-03-20",
+  "memorial_type": "Church Fabric / Fitting: Lectern or desk",
+  "memorial_details": "Ornate wooden lectern standing on a octagonal pedestal and column with decorated, carved back and sides. The sloping face has the dedication incised in capital letters. Black, slate tablet with side elevation of Wellington bomber at mid centre and RCAF and RAF badges left and right lower corners, NB: The names of the crew are are also listed on memorial 15046",
+  "inscription": "Lectern: AMDG/ THIS LECTERN IS DEDICATED/ BY PARISHIONERS AND FRIENDS/ TO THE MEMORY OF/ EIGHT BRAVE AIRMEN/ AND IN THANKSGIVING FOR/ A GREAT DELIVERANCE/ 20 MARCH 1944 Tablet: DEDICATED TO THE CANADIAN CREW/ OF THE RAF WELLINGTON MK X LN181 OF 82 OTU/ WHICH CRASHED IN YARDLEY GOBION ON THE NIGHT OF 20TH MARCH 1944, KILLING ALL EIGHT CREW MEMBERS./ (names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/15048"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/15048",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.095848078888,
-  "longitude": -0.884397390208
+  "longitude": -0.884397390208,
+  "grid_ref": "SP 76520",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "custodian": "St Leonard's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/146/354/large_no_yardley_gobion_3_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/146/355/large_no_yardley_gobion_6.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/146/353/large_no_yardley_gobion_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/146/356/large_no_yardley_gobion_5.jpg"
+  ],
+  "community_connection": "To the MEMORY OF/ AND IN THANKSGIVING FOR"
 }

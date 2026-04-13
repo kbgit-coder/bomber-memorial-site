@@ -1,27 +1,39 @@
 {
   "id": "handley-page-halifax-jp137",
   "title": "Handley Page Halifax JP137",
-  "location_name": "",
-  "county": "",
+  "location_name": "Moordown, Bournemouth",
+  "county": "Dorset",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "JP137",
   "squadron": "",
   "crash_date": "1944-03-21",
-  "memorial_type": "",
-  "memorial_details": "description: MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ (Names)/ &#039;LEST WE FORGET&#039;/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.",
+  "inscription": "MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ (Names)/ 'LEST WE FORGET'/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/66526"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/66526",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.756537502895,
-  "longitude": -1.872981603635
+  "longitude": -1.872981603635,
+  "grid_ref": "SZ 09055",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/40/446/large_66526_mark_newton__3_march_2016.jpg"
+  ],
+  "community_connection": "Two local residents lost their lives.",
+  "last_validated": "2026-04-13"
 }

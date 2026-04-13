@@ -1,27 +1,45 @@
 {
   "id": "avro-lancaster-pb432",
   "title": "Avro Lancaster PB432",
-  "location_name": "",
-  "county": "",
+  "location_name": "Dry Doddington, South Kesteven",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB432",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "49 Squadron",
+  "crash_date": "1944-11-26",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Blue marble tablet with crest of 49 squadron bottom left, engraving of a Lancaster bottom right, dedication and names in gilt. Associated brief history sheets are hung below.",
+  "inscription": "Dedicated to the crew of 49 Sqn Lancaster PB432 EA-O/ which crashed at Dry Doddington 26-11-1944 / (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/92263"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/92263",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.010085132159,
-  "longitude": -0.73496568713
+  "longitude": -0.73496568713,
+  "grid_ref": "SK8497446612",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/127/908/large_lancaster_pb432_information_sheet_b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/906/large_lancaster_pb432_memorial.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/905/large_lancaster_pb432_memorial_in_context.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/907/large_lancaster_pb432_information_sheet_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/910/large_lancaster_pb432_information_sheet_d.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/911/large_lancaster_pb432_information_sheet_e.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/909/large_lancaster_pb432_information_sheet_c.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/904/large_lancaster_pb432_memorial_in_situ.jpg"
+  ],
+  "last_validated": "2026-04-12"
 }

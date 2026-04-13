@@ -31,64 +31,64 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Crew of Wellington W5719 departed RAF Snaith on the night of 30\u201331 July 1941, bound for Cologne with seven men aboard. Unable to locate the target through heavy cloud, they turned back with their bomb load still on board. Returning towards base in deteriorating conditions, Sergeant Parrott's crew overshot RAF Snaith and continued westward into the Pennines, descending too low in cloud. The aircraft struck the steeply rising ground on the northern side of Grindsbrook Clough on Kinder Scout, and the unexpended bombs exploded on impact. Five crew were killed: Sergeants Parrott, Haswell, Evelle, Webber, and Monk. Rear gunner Sergeant Earl Tilley survived when the tail turret was torn clear by the blast; injured but alive, he made his way down to the village of Edale to raise the alarm.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Sergeant Percival Harold Charles Parrott",
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly when Wellington W5719 struck Upper Tor on Kinder Scout and the bomb load exploded on impact.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Sergeant Joseph Arthur Haswell",
       "role": "2nd Pilot (supernumerary)",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Commemorated on the screen wall at Manchester Southern Cemetery adjacent to the war graves plot.",
       "burial_location": "Manchester Southern Cemetery (commemorated on screen wall)",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Sergeant Jack Douglas Evelle",
       "role": "Observer / Navigator",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "A Canadian serving with the RCAF, Evelle was killed on impact and buried at Manchester Southern Cemetery.",
       "burial_location": "Manchester Southern Cemetery",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Sergeant Frederick Kenneth Webber",
       "role": "Wireless Operator / Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when the aircraft struck Upper Tor and the bomb load exploded.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Sergeant Dennis Aloysius Monk",
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Upper Tor, Kinder Scout.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Earl Tilley",
       "role": "Rear Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Sole survivor. Tilley was manning the rear gun turret which was torn free from the fuselage by the bomb explosion and flung into Grindsbrook Clough. Though suffering from shock and concussion, he was able to make his way down to Edale village to raise the alarm. He was hospitalised for treatment.",
-      "bio": "Sgt Earl Tilley's survival was extraordinary -- his tail turret was ripped free by the force of the bomb explosion and hurled clear of the burning wreckage. Despite injuries, he descended from the moor to Edale to get help."
+      "bio": "Sgt Earl Tilley's survival was extraordinary -- his tail turret was ripped free by the force of the bomb explosion and hurled clear of the burning wreckage. Despite injuries, he descended from the moor to Edale to get help.",
+      "nationality": "British"
     },
     {
       "name": "id on Koln Percival Harold Charles Parrot",

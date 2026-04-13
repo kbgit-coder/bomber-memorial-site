@@ -30,70 +30,70 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section — carrying rear gunner Sgt Eden — separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
+  "data_quality": "Good",
+  "narrative": "A winter afternoon training take-off from Ossington ended in tragedy. The Wellington hit an electrical pole near a stream just outside Laxton and burst into flames. The aircraft broke apart; the tail section \u2014 carrying rear gunner Sgt Eden \u2014 separated from the fuselage, saving his life. All four Canadian crew members were killed. Laxton is famous as England's last surviving open-field farming village, making this crash site uniquely located in a preserved medieval landscape. Two memorial stones were dedicated on 6 January 2013.",
   "crew": [
     {
       "rank": "F/O",
       "name": "J.C. McLeod",
       "role": "Pilot",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed instantly when the Wellington struck an electrical pole and burst into flames shortly after take-off at 5pm.",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "cwgc_verified": true,
       "bio": "Canadian pilot from Minnedosa, Manitoba, training with 82 OTU at RAF Ossington.",
       "hometown": "Minnedosa, Manitoba, Canada",
-      "decorations": []
+      "decorations": [],
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "L.J. Robillard",
       "role": "Bomb Aimer",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and subsequent fire when the Wellington hit an electrical pole on take-off.",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "cwgc_verified": true,
       "bio": "Canadian airman from Toronto, Ontario, serving as bomb aimer with 82 OTU.",
       "hometown": "Toronto, Ontario, Canada",
-      "decorations": []
+      "decorations": [],
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "E.E. Fernandez",
       "role": "Navigator",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and fire. Unable to escape the burning fuselage.",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "cwgc_verified": true,
       "bio": "Canadian navigator from Windsor, Ontario, training at 82 OTU.",
       "hometown": "Windsor, Ontario, Canada",
-      "decorations": []
+      "decorations": [],
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "E.A. Bishop",
       "role": "W/Op Air Gunner",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and fire that consumed the forward fuselage of the Wellington.",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "cwgc_verified": true,
       "bio": "Canadian wireless operator/air gunner from Carseland, Alberta.",
       "hometown": "Carseland, Alberta, Canada",
-      "decorations": []
+      "decorations": [],
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "R. Eden",
       "role": "Rear Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Survived when the tail section broke away from the burning fuselage on impact. Local villagers led the injured survivor to safety.",
       "bio": "British rear gunner whose life was saved when the tail turret separated from the main fuselage. Villagers from Laxton helped him to safety after the crash.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Hit electrical pole near local stream; burst into flames",

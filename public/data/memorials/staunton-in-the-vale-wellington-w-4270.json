@@ -24,108 +24,108 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position \u2014 possibly deployed in preparation for an emergency landing \u2014 the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border \u2014 territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Thomas Herbert Warne",
-      "service_number": "R/102085 RCAF",
       "age": 23,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Newark-upon-Trent Cemetery, Sec. P, Grave 307",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly when the Lancaster crashed into farmland after an engine fire made the aircraft uncontrollable. Had only 15 hours of night flying on Lancasters.",
       "bio": "Canadian pilot from Saskatchewan serving with the RCAF, aged 23. The most experienced crew member despite having only 15 hours night flying on Lancasters.",
       "hometown": "Saskatchewan, Canada",
-      "decorations": []
+      "decorations": [],
+      "service_number": "R/102085 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "George Arthur Hitchon",
-      "service_number": "576765 RAF",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Padiham Churchyard, Row 3, Div. 7, Grave 5",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash. The youngest crew member at 19.",
       "bio": "Flight engineer from Padiham, Lancashire, aged 19. The youngest of the crew.",
       "hometown": "Padiham, Lancashire",
-      "decorations": []
+      "decorations": [],
+      "service_number": "576765 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Robert John Preece",
-      "service_number": "1174086 RAF",
       "age": 22,
       "role": "Observer",
-      "nationality": "British",
       "burial_location": "Wembdon Churchyard, Sec. C, Row A, Grave 14",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Observer serving with the RAF, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1174086 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Thomas Raine Newton",
-      "service_number": "1119116 RAF",
       "age": 21,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Brandon & Byshottles Cemetery, Grave 46",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Wireless operator/air gunner serving with the RAF, aged 21.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1119116 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "James Milton Whitehead",
-      "service_number": "975551 RAF",
       "age": 22,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Cambusnethan Cemetery, Sec. A, Grave 824",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Wireless operator/air gunner serving with the RAF, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "975551 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Edward John Loverock",
-      "service_number": "950159 RAF",
       "age": 21,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Matlock Cemetery, Plot 1, Row 12, Grave 15",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Air gunner serving with the RAF, aged 21.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "950159 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Coaker",
-      "service_number": "1276786 RAF",
       "age": 22,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Leusdon Churchyard, Devon",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Air gunner serving with the RAF, aged 22. Buried in Leusdon Churchyard, Devon.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1276786 RAF",
+      "nationality": "British"
     },
     {
       "name": "Unknown",
-      "service_number": "R",
       "fate": "Killed",
-      "rank": "\u2014"
+      "rank": "\u2014",
+      "service_number": "R"
     }
   ],
   "latitude": 52.981,

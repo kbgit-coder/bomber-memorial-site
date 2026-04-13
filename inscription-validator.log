@@ -1,0 +1,1009 @@
+[23:27:27] 
+======================================================================
+[23:27:27] BMR INSCRIPTION VALIDATOR — Gate 10: Content Truth
+[23:27:27] Started: 2026-04-12 23:27
+[23:27:27] Mode: APPLY corrections
+[23:27:27] ======================================================================
+[23:27:27] Memorials with inscriptions: 277
+[23:27:27] Processing 1/277...
+[23:27:33] 
+======================================================================
+[23:27:33] BMR INSCRIPTION VALIDATOR — Gate 10: Content Truth
+[23:27:33] Started: 2026-04-12 23:27
+[23:27:33] Mode: APPLY corrections
+[23:27:33] ======================================================================
+[23:27:33] Memorials with inscriptions: 277
+[23:27:33] Processing 1/277...
+[23:27:46]   [HIGH    ] 305th-bomb-group-b17-flying-fortress-42-97578-crash: 4 issues
+[23:27:46]     → CRASH DATE MISMATCH: DB has 1943-08-24, inscription says 1944-03-24. Reasoning: exact quote from ins
+[23:27:46]     → CIVILIAN CASUALTIES NOT RECORDED: (CHILD'S NAME), AGED 14 YEARS. (CHILD'S NAME), AGED 4 YEARS
+[23:27:46]     → COMMUNITY CONNECTION MISSING: of Yelden
+[23:27:55]   [HIGH    ] 305th-bomb-group-b17-flying-fortress-42-97578-crash: 3 issues
+[23:27:55]     → CRASH DATE MISMATCH: DB has 1943-08-24, inscription says 1944-03-24. Reasoning: exact quote from ins
+[23:27:55]     → CIVILIAN CASUALTIES NOT RECORDED: {'ages': ['AGED 14 YEARS', 'AGED 4 YEARS'], 'relationship_to_commu
+[23:27:55]     → COMMUNITY CONNECTION MISSING: In memory of the men who died on the night of 24th March 1944 when Boe
+[23:28:10]   [HIGH    ] 61-squadron-handley-page-hampden-crew: 2 issues
+[23:28:10]     → CIVILIAN CASUALTIES NOT RECORDED: killing all the aircrew
+[23:28:10]     → COMMUNITY CONNECTION MISSING: Bluestone plantation, community connection mentioned through www.cawst
+[23:28:17]   [HIGH    ] 61-squadron-handley-page-hampden-crew: 2 issues
+[23:28:17]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:28:17]     → COMMUNITY CONNECTION MISSING: Bluestone plantation
+[23:28:34]   [HIGH    ] 617-squadron-aircrew-derwent-valley: 3 issues
+[23:28:34]     → CRASH DATE MISSING: inscription states 16th May 1943
+[23:28:34]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:28:34]     → COMMUNITY CONNECTION MISSING: Also REMEMBERED HERE ARE THE/ 204 617 SQD. AIRCREW WHO LAID DOWN/ THEI
+[23:28:44]   [HIGH    ] 617-squadron-aircrew-derwent-valley: 3 issues
+[23:28:44]     → CRASH DATE MISSING: inscription states 16th May 1943
+[23:28:44]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:28:44]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'COMMORATES THE NIGHT OF/ 16TH 17TH MAY 1943'
+[23:28:58]   [HIGH    ] a-and-d-lancaster: 3 issues
+[23:28:58]     → CRASH DATE MISSING: inscription states 1915-05-07
+[23:28:58]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:28:58]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'Keelby Manor', indicating a local connection
+[23:29:08]   [HIGH    ] a-and-d-lancaster: 3 issues
+[23:29:08]     → CRASH DATE MISSING: inscription states 1915-05-07
+[23:29:08]     → CIVILIAN CASUALTIES NOT RECORDED: Annie Lancaster and Dorothy Lancaster, both from Keelby Manor
+[23:29:08]     → COMMUNITY CONNECTION MISSING: The community connection is mentioned as 'of Keelby Manor'
+[23:29:22]   [MEDIUM  ] aircrew-1939-1945: 2 issues
+[23:29:22]     → COMMUNITY CONNECTION MISSING: Dedicated by the Aircrew Association, Norwich and District Branch to h
+[23:29:22]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:29:28]   [MEDIUM  ] aircrew-1939-1945: 2 issues
+[23:29:28]     → COMMUNITY CONNECTION MISSING: Dedicated by the Aircrew Association, Norwich and District Branch to h
+[23:29:28]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:29:47]   [HIGH    ] aircrew-of-lancaster-pb512: 2 issues
+[23:29:47]     → CIVILIAN CASUALTIES NOT RECORDED: A CRASH NEAR THIS CHURCH
+[23:29:47]     → COMMUNITY CONNECTION MISSING: This CHURCH
+[23:29:56]   [HIGH    ] aircrew-of-lancaster-pb512: 2 issues
+[23:29:56]     → CIVILIAN CASUALTIES NOT RECORDED: Aged, relationship to community if mentioned. Not specified.
+[23:29:56]     → COMMUNITY CONNECTION MISSING: Local church connection mentioned.
+[23:30:19]   [HIGH    ] aircrew-of-wellington-r1801: 2 issues
+[23:30:19]     → CIVILIAN CASUALTIES NOT RECORDED: workmen from Beaumanor, passengers from a passing bus and villager
+[23:30:19]     → COMMUNITY CONNECTION MISSING: IN GREATFUL REMEMBRANCE FROM LOCAL PEOPLE; WENT THE DAY WELL? WE DIED 
+[23:30:30]   [HIGH    ] aircrew-of-wellington-r1801: 2 issues
+[23:30:30]     → CIVILIAN CASUALTIES NOT RECORDED: {'ages': None, 'relationship_to_community': 'workmen from Beaumano
+[23:30:30]     → COMMUNITY CONNECTION MISSING: In grateful remembrance from local people; Went the day well? We died 
+[23:30:48]   [MEDIUM  ] australian-aircrew-lost-over-europe: 2 issues
+[23:30:48]     → COMMUNITY CONNECTION MISSING: Unveiled by Group Captain Roxley McNellan, Air Force Adviser of the Au
+[23:30:48]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:30:56]   [MEDIUM  ] australian-aircrew-lost-over-europe: 2 issues
+[23:30:56]     → COMMUNITY CONNECTION MISSING: Unveiled by Group Captain Roxley McNellan, Air Force Adviser of the Au
+[23:30:56]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:31:11]   [HIGH    ] avro-lancaster-biii-ja915: 2 issues
+[23:31:11]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:31:11]     → COMMUNITY CONNECTION MISSING: Green Farm, Kenninghall
+[23:31:11] Processing 11/277...
+[23:31:18]   [HIGH    ] avro-lancaster-biii-ja915: 2 issues
+[23:31:18]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:31:18]     → COMMUNITY CONNECTION MISSING: Green Farm, Kenninghall
+[23:31:18] Processing 11/277...
+[23:31:33]   [MEDIUM  ] avro-lancaster-dv334: 1 issues
+[23:31:33]     → COMMUNITY CONNECTION MISSING: Memorial data indicates local connection, but specific community impac
+[23:31:41]   [MEDIUM  ] avro-lancaster-dv334: 1 issues
+[23:31:41]     → COMMUNITY CONNECTION MISSING: The inscription mentions the crash site is near to this site, indicati
+[23:31:57]   [MEDIUM  ] avro-lancaster-dv361: 1 issues
+[23:31:57]     → COMMUNITY CONNECTION MISSING: The memorial was dedicated on 16-09-98, suggesting a connection to the
+[23:32:03]   [MEDIUM  ] avro-lancaster-dv361: 1 issues
+[23:32:03]     → COMMUNITY CONNECTION MISSING: Community connection mentioned
+[23:32:21]   [MEDIUM  ] avro-lancaster-dv382: 2 issues
+[23:32:21]     → SQUADRON MISSING: inscription mentions 617/ ROYAL AIR FORCE
+[23:32:21]     → COMMUNITY CONNECTION MISSING: This is the site where a Lancaster bomber crashed, implying it was in 
+[23:32:30]   [MEDIUM  ] avro-lancaster-dv382: 2 issues
+[23:32:30]     → SQUADRON MISSING: inscription mentions 617/ ROYAL AIR FORCE
+[23:32:30]     → COMMUNITY CONNECTION MISSING: This is the site where a Lancaster bomber crashed, indicating it was l
+[23:32:46]   [MEDIUM  ] avro-lancaster-hk773: 3 issues
+[23:32:46]     → SQUADRON MISSING: inscription mentions XV SQUADRON
+[23:32:46]     → COMMUNITY CONNECTION MISSING: The memorial is for the crew of XV SQUADRON, indicating a strong conne
+[23:32:46]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:32:53]   [MEDIUM  ] avro-lancaster-hk773: 3 issues
+[23:32:53]     → SQUADRON MISSING: inscription mentions XV SQUADRON
+[23:32:53]     → COMMUNITY CONNECTION MISSING: erected by community
+[23:32:53]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:33:31]   [MEDIUM  ] avro-lancaster-jb284: 1 issues
+[23:33:31]     → COMMUNITY CONNECTION MISSING: Honouring the Memory of MY GRANDFATHER AND HIS CREW
+[23:33:39]   [MEDIUM  ] avro-lancaster-jb284: 1 issues
+[23:33:39]     → COMMUNITY CONNECTION MISSING: Honouring the memory of my grandfather and his crew
+[23:33:52]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 298 (char 297)
+[23:33:52]   [LOW     ] avro-lancaster-jb286: 1 issues
+[23:33:52]     → Granite query failed
+[23:33:58]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 298 (char 297)
+[23:33:58]   [LOW     ] avro-lancaster-jb286: 1 issues
+[23:33:58]     → Granite query failed
+[23:34:14]   [MEDIUM  ] avro-lancaster-jb477: 2 issues
+[23:34:14]     → COMMUNITY CONNECTION MISSING: We will remember them. Community connection mentioned as being buried 
+[23:34:14]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:34:21]   [HIGH    ] avro-lancaster-jb477: 2 issues
+[23:34:21]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:34:21]     → COMMUNITY CONNECTION MISSING: We will remember them. (Names) are buried at Cambridge City Cemetery
+[23:34:40]   [MEDIUM  ] avro-lancaster-jb534-damaged-early-2025-currently-removed-for-repair: 1 issues
+[23:34:40]     → COMMUNITY CONNECTION MISSING: Erected and Maintained by Friends of Metheringham Airfield - methering
+[23:34:49]   [MEDIUM  ] avro-lancaster-jb534-damaged-early-2025-currently-removed-for-repair: 1 issues
+[23:34:49]     → COMMUNITY CONNECTION MISSING: Erected and Maintained by Friends of Metheringham Airfield - methering
+[23:35:05]   [MEDIUM  ] avro-lancaster-kb879: 1 issues
+[23:35:05]     → COMMUNITY CONNECTION MISSING: The memorial was erected by the Sandon & District Royal British Legion
+[23:35:05] Processing 21/277...
+[23:35:12]   [MEDIUM  ] avro-lancaster-kb879: 1 issues
+[23:35:12]     → COMMUNITY CONNECTION MISSING: The memorial was erected by the Sandon & District Royal British Legion
+[23:35:13] Processing 21/277...
+[23:35:31]   [HIGH    ] avro-lancaster-ll686: 2 issues
+[23:35:31]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:35:31]     → COMMUNITY CONNECTION MISSING: This memorial was erected by the villagers of Aldborough to commemorat
+[23:35:41]   [HIGH    ] avro-lancaster-ll686: 2 issues
+[23:35:41]     → CIVILIAN CASUALTIES NOT RECORDED: {'ages': None, 'relationship_to_community': 'The memorial was erec
+[23:35:41]     → COMMUNITY CONNECTION MISSING: {'local_people_affected': None, 'who_erected_it': 'The villagers of Al
+[23:35:57]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 422 (char 421)
+[23:35:57]   [LOW     ] avro-lancaster-lm311: 1 issues
+[23:35:57]     → Granite query failed
+[23:36:04]   [MEDIUM  ] avro-lancaster-lm311: 1 issues
+[23:36:04]     → COMMUNITY CONNECTION MISSING: This tree was planted in memory of the Crew
+[23:36:19]   [HIGH    ] avro-lancaster-lm616: 2 issues
+[23:36:19]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:36:19]     → COMMUNITY CONNECTION MISSING: Their names will live for ever more
+[23:36:26]   [HIGH    ] avro-lancaster-lm616: 2 issues
+[23:36:26]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:36:26]     → COMMUNITY CONNECTION MISSING: Their names will live for ever more
+[23:36:40]   [MEDIUM  ] avro-lancaster-lm619: 2 issues
+[23:36:40]     → SQUADRON MISSING: inscription mentions 1668 HCU
+[23:36:40]     → COMMUNITY CONNECTION MISSING: no specific community connection mentioned
+[23:36:49]   [MEDIUM  ] avro-lancaster-lm619: 1 issues
+[23:36:49]     → SQUADRON MISSING: inscription mentions 1668 HCU
+[23:37:03]   [MEDIUM  ] avro-lancaster-lm719: 2 issues
+[23:37:03]     → CREW MISSING: inscription has 7 crew names but crew list is empty
+[23:37:03]     → COMMUNITY CONNECTION MISSING: Who perished near this place
+[23:37:10]   [MEDIUM  ] avro-lancaster-lm719: 2 issues
+[23:37:10]     → CREW MISSING: inscription has 7 crew names but crew list is empty
+[23:37:10]     → COMMUNITY CONNECTION MISSING: HCU, RAF North Luffenham
+[23:37:26]   [MEDIUM  ] avro-lancaster-lm720: 1 issues
+[23:37:26]     → COMMUNITY CONNECTION MISSING: Dedicated to the MEMORY OF THE CREW OF THE ABOVE AIRCRAFT WHO DIED
+[23:37:35]   [MEDIUM  ] avro-lancaster-lm720: 1 issues
+[23:37:35]     → COMMUNITY CONNECTION MISSING: Dedicated to the MEMORY OF THE CREW OF THE ABOVE AIRCRAFT WHO DIED
+[23:37:50]   [MEDIUM  ] avro-lancaster-nd820: 2 issues
+[23:37:50]     → COMMUNITY CONNECTION MISSING: This memorial was commissioned by the Lincolnshire Aircraft Recovery G
+[23:37:50]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:37:56]   [MEDIUM  ] avro-lancaster-nd820: 2 issues
+[23:37:56]     → COMMUNITY CONNECTION MISSING: This memorial was commissioned by the Lincolnshire Aircraft Recovery G
+[23:37:56]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:38:10]   [HIGH    ] avro-lancaster-pb304: 2 issues
+[23:38:10]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:38:10]     → COMMUNITY CONNECTION MISSING: community affected by the crash, local people erected it
+[23:38:18]   [HIGH    ] avro-lancaster-pb304: 2 issues
+[23:38:18]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:38:18]     → COMMUNITY CONNECTION MISSING: community affected by the crash, local people erected it
+[23:38:31]   [MEDIUM  ] avro-lancaster-pb355: 2 issues
+[23:38:31]     → COMMUNITY CONNECTION MISSING: Memorial for crew members of Lancaster aircraft PB355, likely from a l
+[23:38:31]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:38:38]   [HIGH    ] avro-lancaster-pb355: 2 issues
+[23:38:38]     → CIVILIAN CASUALTIES NOT RECORDED: 
+[23:38:38]     → COMMUNITY CONNECTION MISSING: The inscription mentions road signs in the community, indicating a loc
+[23:38:51]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 421 (char 420)
+[23:38:51]   [LOW     ] avro-lancaster-pb366-cross: 1 issues
+[23:38:51]     → Granite query failed
+[23:38:52] Processing 31/277...
+[23:38:59]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 422 (char 421)
+[23:38:59]   [LOW     ] avro-lancaster-pb366-cross: 1 issues
+[23:38:59]     → Granite query failed
+[23:39:00] Processing 31/277...
+[23:39:13]   [MEDIUM  ] avro-lancaster-pb366-pillar: 2 issues
+[23:39:13]     → CRASH DATE MISSING: inscription states 1944-12-24
+[23:39:13]     → COMMUNITY CONNECTION MISSING: The memorial is in Great Paxton, indicating a local connection.
+[23:39:21]   [MEDIUM  ] avro-lancaster-pb366-pillar: 2 issues
+[23:39:21]     → CRASH DATE MISSING: inscription states 1944-12-24
+[23:39:21]     → COMMUNITY CONNECTION MISSING: The memorial is erected by the community affected by the crash, honori
+[23:39:34]   [MEDIUM  ] avro-lancaster-pb432: 1 issues
+[23:39:34]     → CRASH DATE MISSING: inscription states 1944-11-26
+[23:39:41]   [MEDIUM  ] avro-lancaster-pb432: 2 issues
+[23:39:41]     → CRASH DATE MISSING: inscription states 1944-11-26
+[23:39:41]     → COMMUNITY CONNECTION MISSING: Names of crew members are listed, indicating a local connection.
+[23:39:56]   [MEDIUM  ] avro-lancaster-pb475: 1 issues
+[23:39:56]     → COMMUNITY CONNECTION MISSING: Great lives cut short. Royal Air Force (3 Names). Royal Australian Air
+[23:40:04]   [MEDIUM  ] avro-lancaster-pb475: 1 issues
+[23:40:04]     → COMMUNITY CONNECTION MISSING: Great lives cut short. Royal Air Force (3 Names). Royal Australian Air
+[23:40:19]   [MEDIUM  ] avro-lancaster-pb565: 1 issues
+[23:40:19]     → COMMUNITY CONNECTION MISSING: RAF SANDTOFT, IN MEMORY OF THE CREW
+[23:40:26]   [MEDIUM  ] avro-lancaster-pb565: 1 issues
+[23:40:26]     → COMMUNITY CONNECTION MISSING: RAF SANDTOFT
+[23:40:41]   [MEDIUM  ] avro-lancaster-pd431: 2 issues
+[23:40:41]     → SQUADRON MISSING: inscription mentions 1653 HCU
+[23:40:41]     → COMMUNITY CONNECTION MISSING: The inscription is located in a community setting, indicating local si
+[23:40:49]   [MEDIUM  ] avro-lancaster-pd431: 2 issues
+[23:40:49]     → SQUADRON MISSING: inscription mentions 1653 HCU
+[23:40:49]     → COMMUNITY CONNECTION MISSING: The inscription is located at the crash site, indicating a local conne
+[23:41:07]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 434 (char 433)
+[23:41:07]   [LOW     ] avro-lancaster-r5489: 1 issues
+[23:41:07]     → Granite query failed
+[23:41:16]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 434 (char 433)
+[23:41:16]   [LOW     ] avro-lancaster-r5489: 1 issues
+[23:41:16]     → Granite query failed
+[23:41:30]   [MEDIUM  ] avro-lancaster-r5676: 1 issues
+[23:41:30]     → COMMUNITY CONNECTION MISSING: This farm
+[23:41:37]   [MEDIUM  ] avro-lancaster-r5676: 1 issues
+[23:41:37]     → COMMUNITY CONNECTION MISSING: This farm
+[23:42:18]   [HIGH    ] avro-lancaster-w4319: 2 issues
+[23:42:18]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:42:18]     → COMMUNITY CONNECTION MISSING: The inscription mentions the crash occurred off the North German coast
+[23:42:28]   [HIGH    ] avro-lancaster-w4319: 2 issues
+[23:42:28]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:42:28]     → COMMUNITY CONNECTION MISSING: The inscription mentions the crash occurred off the North German coast
+[23:42:44]   [HIGH    ] avro-lancasters-me473-and-nd572: 3 issues
+[23:42:44]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:42:44]     → COMMUNITY CONNECTION MISSING: The memorial is in Cambridge City Cemetery, indicating a local connect
+[23:42:44]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:42:45] Processing 41/277...
+[23:42:52]   [HIGH    ] avro-lancasters-me473-and-nd572: 3 issues
+[23:42:52]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:42:52]     → COMMUNITY CONNECTION MISSING: The memorial is in Cambridge City Cemetery, indicating a local connect
+[23:42:52]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:42:52] Processing 41/277...
+[23:43:09]   [MEDIUM  ] b-17-flying-fortress-z9a-no-519-squadron-raf: 1 issues
+[23:43:09]     → COMMUNITY CONNECTION MISSING: local people affected, who erected it: WE SHALL REMEMBER THEM AND THEI
+[23:43:18]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 490 (char 489)
+[23:43:18]   [LOW     ] b-17-flying-fortress-z9a-no-519-squadron-raf: 1 issues
+[23:43:18]     → Granite query failed
+[23:43:33]   [MEDIUM  ] b-24h-liberator-usaaf-crew-tablet: 1 issues
+[23:43:33]     → COMMUNITY CONNECTION MISSING: in the common cause of freedom
+[23:43:41]   [MEDIUM  ] b-24h-liberator-usaaf-crew-tablet: 1 issues
+[23:43:41]     → COMMUNITY CONNECTION MISSING: in the common cause of freedom
+[23:44:13]   [LOW     ] balkholme-halifax-mid-air-collision: 1 issues
+[23:44:13]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:44:30]   [LOW     ] balkholme-halifax-mid-air-collision: 1 issues
+[23:44:30]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:44:46]   [HIGH    ] bellingdon-pb475: 1 issues
+[23:44:46]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1945-03-06. Reasoning: Six young airmen died at th
+[23:44:54]   [HIGH    ] bellingdon-pb475: 1 issues
+[23:44:54]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1945-03-06. Reasoning: Six young airmen died at th
+[23:45:11]   [LOW     ] blankney-mid-air-collision-lm130: 1 issues
+[23:45:11]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:45:18]   [LOW     ] blankney-mid-air-collision-lm130: 1 issues
+[23:45:18]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:45:54]   [MEDIUM  ] burn-chapel-578-sqn-panels: 1 issues
+[23:45:54]     → CREW MISSING: inscription has 219 crew names but crew list is empty
+[23:45:59]   [MEDIUM  ] burn-chapel-578-sqn-panels: 1 issues
+[23:45:59]     → CREW MISSING: inscription has 219 crew names but crew list is empty
+[23:46:29]   [MEDIUM  ] cairnsmore-of-fleet-local-air-crashes: 3 issues
+[23:46:29]     → CREW MISSING: inscription has 1 crew names but crew list is empty
+[23:46:29]     → COMMUNITY CONNECTION MISSING: The memorial is erected by NG 1 Staffel of Kampfgeschwader 4, indicati
+[23:46:29]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:46:36]   [MEDIUM  ] cairnsmore-of-fleet-local-air-crashes: 3 issues
+[23:46:36]     → CREW MISSING: inscription has 1 crew names but crew list is empty
+[23:46:36]     → COMMUNITY CONNECTION MISSING: The memorial is erected by NG 1 Staffel of Kampfgeschwader 4, a unit b
+[23:46:36]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:47:00]   [HIGH    ] cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-: 2 issues
+[23:47:00]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1940-08-08. Reasoning: First Crash: LEUTNANT A ZEI
+[23:47:00]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:47:15]   [HIGH    ] cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-: 2 issues
+[23:47:15]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1940-08-08. Reasoning: First Crash: LEUTNANT A ZEI
+[23:47:15]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:47:30] Processing 51/277...
+[23:47:37] Processing 51/277...
+[23:47:53]   [MEDIUM  ] canadian-crew-of-wellington-bomber: 3 issues
+[23:47:53]     → SQUADRON MISSING: inscription mentions 82 OTU
+[23:47:53]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[23:47:53]     → COMMUNITY CONNECTION MISSING: To the MEMORY OF/ AND IN THANKSGIVING FOR
+[23:48:00]   [MEDIUM  ] canadian-crew-of-wellington-bomber: 3 issues
+[23:48:00]     → SQUADRON MISSING: inscription mentions 82 OTU
+[23:48:00]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[23:48:00]     → COMMUNITY CONNECTION MISSING: To the MEMORY OF/ BY PARISHIONERS AND FRIENDS
+[23:48:14]   [MEDIUM  ] canberra-bomber-crash-tiverton: 2 issues
+[23:48:14]     → CRASH DATE MISSING: inscription states 1961-11-21
+[23:48:14]     → COMMUNITY CONNECTION MISSING: We will remember them
+[23:48:21]   [MEDIUM  ] canberra-bomber-crash-tiverton: 2 issues
+[23:48:21]     → CRASH DATE MISSING: inscription states 1961-11-21
+[23:48:21]     → COMMUNITY CONNECTION MISSING: The inscription mentions a community connection, but the specific deta
+[23:48:40]   [HIGH    ] caythorpe-heath-lj450: 1 issues
+[23:48:40]     → CRASH DATE MISMATCH: DB has 1944-04-12, inscription says 1944-04-01. Reasoning: The inscription stat
+[23:48:54]   [HIGH    ] caythorpe-heath-lj450: 1 issues
+[23:48:54]     → CRASH DATE MISMATCH: DB has 1944-04-12, inscription says 1944-04-01. Reasoning: This MEMORIAL IS DED
+[23:50:04]   [HIGH    ] cheviot-hills-memorial-multiple-aircraft-co: 2 issues
+[23:50:04]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1939-1945. Reasoning: PER ARDUA AD ASTRA After 201
+[23:50:04]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:50:35]   [MEDIUM  ] chipping-norton-oxford-and-wellington-crews-ww2: 2 issues
+[23:50:35]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[23:50:35]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'IN MEMORY OF THE AIRCREWS', indicating a com
+[23:51:31] Processing 61/277...
+[23:52:00]   [MEDIUM  ] crew-of-28-otu-wellington-mf200: 1 issues
+[23:52:00]     → COMMUNITY CONNECTION MISSING: Normanton on Soar
+[23:52:18]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 456 (char 455)
+[23:52:18]   [LOW     ] crew-of-hampden-p5303: 1 issues
+[23:52:18]     → Granite query failed
+[23:52:32]   [MEDIUM  ] crew-of-handley-page-hampden-ae381-2: 2 issues
+[23:52:32]     → CRASH DATE MISSING: inscription states 1942-01-21
+[23:52:32]     → COMMUNITY CONNECTION MISSING: The inscription does not specify the community impact.
+[23:52:49]   [MEDIUM  ] crew-of-lancaster-aircraft-serial-mk-442: 1 issues
+[23:52:49]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'THE ENTIRE CREW OF THE LANCASTER PERISHED' a
+[23:53:05]   [MEDIUM  ] crew-of-lancaster-bomber-lm258: 3 issues
+[23:53:05]     → CRASH DATE MISSING: inscription states 1944-08-25
+[23:53:05]     → SQUADRON MISSING: inscription mentions HA-Q
+[23:53:05]     → COMMUNITY CONNECTION MISSING: This place
+[23:53:29]   [MEDIUM  ] crew-of-lancaster-ll811-bq-j-and-their-comrades: 1 issues
+[23:53:29]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'FOR THE BRAVE YOUNG LADS OF THAT CREW, SHOWN
+[23:53:43]   [MEDIUM  ] crew-of-lancaster-nd-714-60-t: 1 issues
+[23:53:43]     → COMMUNITY CONNECTION MISSING: The memorial is for a local community, as indicated by the connection 
+[23:53:56]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 333 (char 332)
+[23:53:56]   [LOW     ] crew-of-lancaster-pb304: 1 issues
+[23:53:56]     → Granite query failed
+[23:54:12]   [MEDIUM  ] crew-of-lancaster-pb476-12-squadron-raf: 1 issues
+[23:54:12]     → COMMUNITY CONNECTION MISSING: This memorial is placed here, on/ the 50th anniversary of the crash,/ 
+[23:54:13] Processing 71/277...
+[23:54:27]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 365 (char 364)
+[23:54:27]   [LOW     ] crew-of-lincoln-bomber-re373-of-97-squadron: 1 issues
+[23:54:27]     → Granite query failed
+[23:54:42]   [MEDIUM  ] crew-of-wellington-bomber-ln482: 2 issues
+[23:54:42]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[23:54:42]     → COMMUNITY CONNECTION MISSING: The inscription mentions a church nearby, indicating the crash site's 
+[23:55:24]   [MEDIUM  ] crew-of-wellington-w5557: 1 issues
+[23:55:24]     → COMMUNITY CONNECTION MISSING: Soldiers of Poland
+[23:55:39]   [MEDIUM  ] crew-of-whitley-mk-5-no-1489: 1 issues
+[23:55:39]     → COMMUNITY CONNECTION MISSING: Silsden Moor
+[23:55:57]   [MEDIUM  ] crews-of-lancaster-4103-and-oxford-lb415: 2 issues
+[23:55:57]     → SQUADRON MISSING: inscription mentions No 5 Lancaster finishing school./ No 5 Group/ Royal Air Force
+[23:55:57]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:56:11]   [MEDIUM  ] crews-of-lancasters-jb678-and-jb674: 2 issues
+[23:56:11]     → AIRCRAFT TYPE MISSING: inscription mentions Lancaster Bomber
+[23:56:11]     → COMMUNITY CONNECTION MISSING: Over GRAINSBY
+[23:56:30]   [MEDIUM  ] crews-of-lancasters-me625-and-nd981: 1 issues
+[23:56:30]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'UNVEILED BY THE RELATIVES FOR THE 70TH ANNIV
+[23:56:48]   [MEDIUM  ] crews-of-two-wellington-bombers: 4 issues
+[23:56:48]     → CRASH DATE MISSING: inscription states 1943-10-12
+[23:56:48]     → SQUADRON MISSING: inscription mentions 82 OTU
+[23:56:48]     → COMMUNITY CONNECTION MISSING: names of the crew members are redacted/placeholder, indicating local c
+[23:56:48] Processing 81/277...
+[23:57:05]   [MEDIUM  ] flight-lieutenant-l-cumberworth-and-flying-officer-j-easdale-handley-page-halifa: 1 issues
+[23:57:05]     → COMMUNITY CONNECTION MISSING: IN SWANLAND IN A HALIFAX BOMBER
+[23:57:35]   [MEDIUM  ] flight-sergeant-j-timperon-r-a-a-f-and-vickers-wellington-z8799: 2 issues
+[23:57:35]     → CRASH DATE MISSING: inscription states 2003-11-16
+[23:57:35]     → COMMUNITY CONNECTION MISSING: Sister Mary, Sister-in-law Shirley, and family members in South Austra
+[23:57:52]   [HIGH    ] flight-sergeant-l-lissette-and-crew-of-avro-lancaster-nd556: 2 issues
+[23:57:52]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:57:52]     → COMMUNITY CONNECTION MISSING: This tree commemorates the crew members and indicates a local connecti
+[23:58:18]   [MEDIUM  ] flying-fortress-lucky-strike-crew-and-emergency-services: 3 issues
+[23:58:18]     → CRASH DATE MISSING: inscription states 1944-01-05
+[23:58:18]     → SERIAL NUMBER MISSING: inscription mentions 29923
+[23:58:18]     → COMMUNITY CONNECTION MISSING: The crew began the trip home, knowing/ that they did not have enough f
+[23:58:33]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 400 (char 399)
+[23:58:33]   [LOW     ] flying-officer-gardner-and-crew-of-a-handley-page-halifax: 1 issues
+[23:58:33]     → Granite query failed
+[23:58:50]   [MEDIUM  ] flying-officer-j-j-bregman-and-crew-of-avro-lancaster-pb171: 2 issues
+[23:58:50]     → CRASH DATE MISSING: inscription states 19.7.1944
+[23:58:50]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'the family he never knew', indicating a loca
+[23:59:13]   [MEDIUM  ] great-rissington-lamb-inn-r1028: 1 issues
+[23:59:13]     → COMMUNITY CONNECTION MISSING: THE AIRCRAFT CRASHED IN THE BACK GARDEN OF THE LAMB INN. THIS PLAQUE I
+[23:59:27]   [HIGH    ] halifax-bomber-ll459: 3 issues
+[23:59:27]     → CRASH DATE MISSING: inscription states 1944-06-08
+[23:59:27]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:59:27]     → COMMUNITY CONNECTION MISSING: The memorial is located opposite this church, indicating a strong comm
+[23:59:43]   [HIGH    ] hampden-p1294: 3 issues
+[23:59:43]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[23:59:43]     → COMMUNITY CONNECTION MISSING: The inscription mentions the crash site is opposite a field, indicatin
+[23:59:43]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[23:59:43] Processing 91/277...
+[23:59:59]   [MEDIUM  ] handley-page-halifax-bb216: 1 issues
+[23:59:59]     → COMMUNITY CONNECTION MISSING: from Topcliffe
+[00:00:16]   [MEDIUM  ] handley-page-halifax-bb320: 1 issues
+[00:00:16]     → COMMUNITY CONNECTION MISSING: Community connection mentioned as Royal Air Force Volunteer Reserve an
+[00:00:32]   [HIGH    ] handley-page-halifax-dg358: 2 issues
+[00:00:32]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:00:32]     → COMMUNITY CONNECTION MISSING: Their bodies rested at Bwlch-y--ffridd Institute on the evening of the
+[00:00:48]   [HIGH    ] handley-page-halifax-dg412: 2 issues
+[00:00:48]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:00:48]     → COMMUNITY CONNECTION MISSING: This stone is to the memory of these brave men who died so young. The 
+[00:01:05]   [HIGH    ] handley-page-halifax-dk192: 2 issues
+[00:01:05]     → CIVILIAN CASUALTIES NOT RECORDED: A MILK LORRY WHO WAS PASSING ALONG THIS ROAD WERE KILLED
+[00:01:05]     → COMMUNITY CONNECTION MISSING: ERECTED BY THEIR COMRADE (Name)
+[00:01:21]   [MEDIUM  ] handley-page-halifax-dk253: 1 issues
+[00:01:21]     → COMMUNITY CONNECTION MISSING: This memorial is to all those who served in 427 Squadron and in 6 BOMB
+[00:01:36]   [MEDIUM  ] handley-page-halifax-dt669: 1 issues
+[00:01:36]     → COMMUNITY CONNECTION MISSING: Names
+[00:01:51]   [MEDIUM  ] handley-page-halifax-dt696: 1 issues
+[00:01:51]     → COMMUNITY CONNECTION MISSING: Their names LIVETH FOR EVERMORE.
+[00:02:06]   [MEDIUM  ] handley-page-halifax-eb199: 1 issues
+[00:02:06]     → COMMUNITY CONNECTION MISSING: ATLEY HILL, SOUTH COWTON/ YORKSHIRE
+[00:02:21]   [MEDIUM  ] handley-page-halifax-eb203: 3 issues
+[00:02:21]     → CRASH DATE MISSING: inscription states 1944-04-15
+[00:02:21]     → CREW MISSING: inscription has 7 crew names but crew list is empty
+[00:02:21]     → COMMUNITY CONNECTION MISSING: This plaque is erected to the memory of the crew
+[00:02:22] Processing 101/277...
+[00:02:39]   [HIGH    ] handley-page-halifax-hx181: 2 issues
+[00:02:39]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:02:39]     → COMMUNITY CONNECTION MISSING: RAF MELBOURNE, YORKS
+[00:02:53]   [MEDIUM  ] handley-page-halifax-hx351: 1 issues
+[00:02:53]     → COMMUNITY CONNECTION MISSING: No specific community connection mentioned.
+[00:03:14]   [HIGH    ] handley-page-halifax-jb798: 3 issues
+[00:03:14]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:03:14]     → COMMUNITY CONNECTION MISSING: The names of those who then lost their lives are inscribed below. REST
+[00:03:14]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:03:45]   [MEDIUM  ] handley-page-halifax-jb863: 1 issues
+[00:03:45]     → COMMUNITY CONNECTION MISSING: The memorial is erected by the community of Elvington, indicating a st
+[00:04:02]   [MEDIUM  ] handley-page-halifax-jd105-and-f86-sabre-xd733: 2 issues
+[00:04:02]     → COMMUNITY CONNECTION MISSING: memorial to the AIRCREWS OF ALL ALLIED NATIONS
+[00:04:02]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:04:16]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 358 (char 357)
+[00:04:16]   [LOW     ] handley-page-halifax-jd386: 1 issues
+[00:04:16]     → Granite query failed
+[00:04:34]   [HIGH    ] handley-page-halifax-jp137: 2 issues
+[00:04:34]     → CIVILIAN CASUALTIES NOT RECORDED: Two local residents lost their lives.
+[00:04:34]     → COMMUNITY CONNECTION MISSING: Organised by the Moortown 2010 Committee as a contribution to the Bice
+[00:04:51]   [MEDIUM  ] handley-page-halifax-jp190: 2 issues
+[00:04:51]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[00:04:51]     → COMMUNITY CONNECTION MISSING: Erected 1st April 1994 by Nos. 2465 (Currie & Balarno) Squ./ 1007 (Dun
+[00:05:08]   [MEDIUM  ] handley-page-halifax-lk789: 1 issues
+[00:05:08]     → COMMUNITY CONNECTION MISSING: This plaque is a memorial to the crew of RAF Halifax LK789/ of 76 Squa
+[00:05:08] Processing 111/277...
+[00:05:29]   [HIGH    ] handley-page-halifax-lk794: 3 issues
+[00:05:29]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:05:29]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'MIRACULOUSLY THE CANADIAN REAR GUNNER MANAGE
+[00:05:29]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:05:43]   [MEDIUM  ] handley-page-halifax-lk839: 1 issues
+[00:05:43]     → COMMUNITY CONNECTION MISSING: names of crew members listed, indicating local connection
+[00:05:59]   [MEDIUM  ] handley-page-halifax-lk844: 2 issues
+[00:05:59]     → COMMUNITY CONNECTION MISSING: The inscription mentions cherry trees for each member of the crew, ind
+[00:05:59]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:06:16]   [MEDIUM  ] handley-page-halifax-lk878: 1 issues
+[00:06:16]     → COMMUNITY CONNECTION MISSING: local people affected, who erected it
+[00:06:32]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 384 (char 383)
+[00:06:32]   [LOW     ] handley-page-halifax-lk930: 1 issues
+[00:06:32]     → Granite query failed
+[00:06:54]   [MEDIUM  ] handley-page-halifax-lk954-2019: 2 issues
+[00:06:54]     → SQUADRON MISSING: inscription mentions 428 (GHOST) Squadron Royal Canadian Air Force
+[00:06:54]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[00:07:32]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 414 (char 413)
+[00:07:32]   [LOW     ] handley-page-halifax-ll356: 1 issues
+[00:07:32]     → Granite query failed
+[00:07:47]   [MEDIUM  ] handley-page-halifax-ll505: 2 issues
+[00:07:47]     → COMMUNITY CONNECTION MISSING: From No. 1659 HCU Topcliffe
+[00:07:47]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:08:07]   [MEDIUM  ] handley-page-halifax-lv836: 3 issues
+[00:08:07]     → SQUADRON MISSING: inscription mentions 427 LION SQN RCAF/ROYAL CANADIAN AIR FORCE
+[00:08:07]     → COMMUNITY CONNECTION MISSING: This memorial is also dedicated to all members of BOMBER COMMAND who g
+[00:08:07]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:08:08] Processing 121/277...
+[00:08:24]   [MEDIUM  ] handley-page-halifax-lv905: 1 issues
+[00:08:24]     → COMMUNITY CONNECTION MISSING: DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND GAVE THEIR LIVES
+[00:08:40]   [MEDIUM  ] handley-page-halifax-lv955: 1 issues
+[00:08:40]     → COMMUNITY CONNECTION MISSING: community_connection
+[00:08:59]   [HIGH    ] handley-page-halifax-lw115: 2 issues
+[00:08:59]     → CIVILIAN CASUALTIES NOT RECORDED: {'ages': None, 'relationship_to_community': "A CHILD was fatally i
+[00:08:59]     → COMMUNITY CONNECTION MISSING: The memorial is for the community of Pinfold Hill where a child was fa
+[00:09:20]   [MEDIUM  ] handley-page-halifax-lw478: 2 issues
+[00:09:20]     → SQUADRON MISSING: inscription mentions 578 / Squadron Royal Air Force
+[00:09:20]     → COMMUNITY CONNECTION MISSING: The memorial is located in North Yorkshire, indicating a local connect
+[00:09:34]   [MEDIUM  ] handley-page-halifax-lw579: 1 issues
+[00:09:34]     → CRASH DATE MISSING: inscription states 1944-03-31
+[00:09:51]   [MEDIUM  ] handley-page-halifax-lw598-ow-j-johnnie: 2 issues
+[00:09:51]     → SQUADRON MISSING: inscription mentions 426 (CANADIAN) SQUADRON
+[00:09:51]     → COMMUNITY CONNECTION MISSING: Who erected it: NAMES (6) MEMBERS OF 426 (CANADIAN) SQUADRON
+[00:10:07]   [MEDIUM  ] handley-page-halifax-lw598: 4 issues
+[00:10:07]     → CRASH DATE MISSING: inscription states 1944-06-09
+[00:10:07]     → SQUADRON MISSING: inscription mentions 426 (CANADIAN) SQUADRON
+[00:10:07]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:10:23]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 412 (char 411)
+[00:10:23]   [LOW     ] handley-page-halifax-lw693: 1 issues
+[00:10:23]     → Granite query failed
+[00:10:37]   [MEDIUM  ] handley-page-halifax-mz454: 1 issues
+[00:10:37]     → COMMUNITY CONNECTION MISSING: No specific community connection mentioned.
+[00:11:01]   [MEDIUM  ] handley-page-halifax-mz519: 3 issues
+[00:11:01]     → SQUADRON MISSING: inscription mentions NO. 578/ SQUADRON OF THE ROYAL AIR FORCE
+[00:11:01]     → COMMUNITY CONNECTION MISSING: the village of Farnsfield where the crash occurred
+[00:11:01]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:11:01] Processing 131/277...
+[00:11:27]   [HIGH    ] handley-page-halifax-mz538: 2 issues
+[00:11:27]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:11:27]     → COMMUNITY CONNECTION MISSING: THE EXPLOSION CAUSED THE LOSS OF ALL EIGHT CREW MEMBERS. IT WAS BY THE
+[00:11:42]   [MEDIUM  ] handley-page-halifax-mz920: 2 issues
+[00:11:42]     → CREW MISSING: inscription has 5 crew names but crew list is empty
+[00:11:42]     → COMMUNITY CONNECTION MISSING: in the Parish of Dunchurch
+[00:12:00]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 388 (char 387)
+[00:12:00]   [LOW     ] handley-page-halifax-na612: 1 issues
+[00:12:00]     → Granite query failed
+[00:12:19]   [HIGH    ] handley-page-halifax-nr179: 2 issues
+[00:12:19]     → CRASH DATE MISMATCH: DB has 1945-03-03, inscription says 1945-03-04. Reasoning: On return to Base, w
+[00:12:19]     → CREW MISSING: inscription has 7 crew names but crew list is empty
+[00:12:42]   [MEDIUM  ] handley-page-halifax-nr287: 2 issues
+[00:12:42]     → SQUADRON MISSING: inscription mentions 347 (Tunisie) Sqn
+[00:12:42]     → COMMUNITY CONNECTION MISSING: The inscription mentions the plaque was attached to a tree against whi
+[00:12:56]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 369 (char 368)
+[00:12:56]   [LOW     ] handley-page-halifax-r9438: 1 issues
+[00:12:56]     → Granite query failed
+[00:13:17]   [MEDIUM  ] handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f: 3 issues
+[00:13:17]     → CRASH DATE MISSING: inscription states 1945-03-05
+[00:13:17]     → COMMUNITY CONNECTION MISSING: The memorial was erected by the Frinton and Walton Royal Air Forces As
+[00:13:17]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:13:44]   [HIGH    ] handley-page-halifax-rt922: 2 issues
+[00:13:44]     → CIVILIAN CASUALTIES NOT RECORDED: The inscription mentions the crash was during a mission to airdrop
+[00:13:44]     → COMMUNITY CONNECTION MISSING: The crash site is adjacent to this cairn, erected by the Leek Branch o
+[00:14:00]   [MEDIUM  ] handley-page-halifax-s-bb373-and-jb874: 1 issues
+[00:14:00]     → COMMUNITY CONNECTION MISSING: local people affected, HULL BRIDGE, TICKTON
+[00:14:18]   [MEDIUM  ] handley-page-halifax-s-jp201-and-ll137: 2 issues
+[00:14:18]     → CREW MISSING: inscription has 5 crew names but crew list is empty
+[00:14:18]     → COMMUNITY CONNECTION MISSING: This memorial was erected to their honour on November 6th 1994
+[00:14:19] Processing 141/277...
+[00:14:33]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 378 (char 377)
+[00:14:33]   [LOW     ] handley-page-halifax-s-ll186-and-ll296-raf-tiree: 1 issues
+[00:14:33]     → Granite query failed
+[00:14:47]   [MEDIUM  ] handley-page-halifax-w1228: 1 issues
+[00:14:47]     → COMMUNITY CONNECTION MISSING: The inscription mentions the crew of Halifax W1228 from 76 Squadron, i
+[00:14:59]   [MEDIUM  ] handley-page-halifax-w7823: 2 issues
+[00:14:59]     → SQUADRON MISSING: inscription mentions No 8 Group PFF NTU / RAF Upwood
+[00:14:59]     → CREW MISSING: inscription has 10 crew names but crew list is empty
+[00:15:14]   [MEDIUM  ] handley-page-hampden-ad783: 1 issues
+[00:15:14]     → COMMUNITY CONNECTION MISSING: The crew of R.A.A.F. (Royal Australian Air Force)
+[00:16:21]   [MEDIUM  ] handley-page-hampden-at110: 1 issues
+[00:16:21]     → COMMUNITY CONNECTION MISSING: TANGMERE MILITARY AVIATION MUSEUM; FELPHAM PARISH COUNCIL; SNOOKS CORN
+[00:17:00]   [MEDIUM  ] handley-page-hampden-at219: 2 issues
+[00:17:00]     → SQUADRON MISSING: inscription mentions RCAF SQUADRON 420
+[00:17:00]     → COMMUNITY CONNECTION MISSING: The memorial is located at RAF Waddington, which suggests a strong con
+[00:17:25]   [HIGH    ] handley-page-hampden-l4173: 2 issues
+[00:17:25]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:17:25]     → COMMUNITY CONNECTION MISSING: The inscription mentions the community connection, but specific detail
+[00:17:42]   [MEDIUM  ] handley-page-hampden-p4313: 2 issues
+[00:17:42]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:17:42]     → COMMUNITY CONNECTION MISSING: Erected by THE MANX AVIATION PRESERVATION SOCIETY
+[00:17:56]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 337 (char 336)
+[00:17:56]   [LOW     ] handley-page-hampden-p4392: 1 issues
+[00:17:56]     → Granite query failed
+[00:18:13]   [HIGH    ] handley-page-hampden-p4399: 2 issues
+[00:18:13]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:18:13]     → COMMUNITY CONNECTION MISSING: Dartford Borough Council, Councillor Jeremy Kite
+[00:18:14] Processing 151/277...
+[00:18:32]   [LOW     ] hatcliffe-top-jb596: 1 issues
+[00:18:32]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:19:02]   [LOW     ] henham-park-multiple-incidents-b-24-42-110033-arizo: 1 issues
+[00:19:02]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:19:50]   [MEDIUM  ] hp-hampden-p1206: 2 issues
+[00:19:50]     → CRASH DATE MISSING: inscription states 1941-11-08
+[00:19:50]     → COMMUNITY CONNECTION MISSING: The remains were donated by the Royal Netherlands Air Force
+[00:20:12]   [MEDIUM  ] hp-hampden-x3027-plaque: 1 issues
+[00:20:12]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:20:45]   [MEDIUM  ] international-mosquito-air-and-ground-crew-memorial: 1 issues
+[00:20:45]     → COMMUNITY CONNECTION MISSING: The memorial is for Allied Mosquito Air and Ground Crews who served on
+[00:21:01]   [MEDIUM  ] lancaster-bomber-nd958: 2 issues
+[00:21:01]     → SQUADRON MISSING: inscription mentions 3 LFS
+[00:21:01]     → COMMUNITY CONNECTION MISSING: names / IN MEMEMRY OF THE CREW WHO DIED
+[00:21:18]   [MEDIUM  ] lancaster-bombers-ed730-and-nd327: 1 issues
+[00:21:18]     → CREW MISSING: inscription has 14 crew names but crew list is empty
+[00:21:18] Processing 161/277...
+[00:21:32]   [MEDIUM  ] lancaster-r5672: 2 issues
+[00:21:32]     → CREW MISSING: inscription has 9 crew names but crew list is empty
+[00:21:32]     → COMMUNITY CONNECTION MISSING: This plaque has been donated by Caistor and District Lions
+[00:21:48]   [MEDIUM  ] lancasters-jb670-and-lm332: 1 issues
+[00:21:48]     → COMMUNITY CONNECTION MISSING: in the parish of Ulceby
+[00:22:05]   [MEDIUM  ] lancasters-me625-and-nd981: 1 issues
+[00:22:05]     → COMMUNITY CONNECTION MISSING: unveiled by the relatives for the 70th anniversary
+[00:22:22]   [MEDIUM  ] laughterton-1-eh940: 2 issues
+[00:22:22]     → COMMUNITY CONNECTION MISSING: integrated into the community_connection field
+[00:22:22]     → FTR MEMORIAL: Granite identifies this as a Failed to Return memorial, not a local crash site
+[00:22:38]   [HIGH    ] leicester-pa269: 2 issues
+[00:22:38]     → CRASH DATE MISMATCH: DB has 04/02/1946 (post-war), inscription says 1946-02-04. Reasoning: OVER LEIC
+[00:22:38]     → COMMUNITY CONNECTION MISSING: This plaque has been erected in memory of the Airmen
+[00:22:53]   [MEDIUM  ] lincoln-high-school-ww2-aircrash-memorial: 2 issues
+[00:22:53]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:22:53]     → COMMUNITY CONNECTION MISSING: GREESTONES
+[00:23:24]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 415 (char 414)
+[00:23:24]   [LOW     ] location-via-iwm-handley-page-halifax: 1 issues
+[00:23:24]     → Granite query failed
+[00:23:41]   [MEDIUM  ] moordown-jp137: 1 issues
+[00:23:41]     → COMMUNITY CONNECTION MISSING: Organised by the Moortown 2010 Committee as a contribution to the Bice
+[00:23:56]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 332 (char 331)
+[00:23:56]   [LOW     ] mosquito-dz636: 1 issues
+[00:23:56]     → Granite query failed
+[00:23:56] Processing 171/277...
+[00:24:10]   [MEDIUM  ] normanton-on-soar-bomber-crash: 1 issues
+[00:24:10]     → COMMUNITY CONNECTION MISSING: Normanton on Soar
+[00:24:43]   [MEDIUM  ] north-lopham-mid-air-collision-b-17-44-6137-the-abo: 2 issues
+[00:24:43]     → SERIAL NUMBER MISSING: inscription mentions 44-6137, 43-38746
+[00:24:43]     → COMMUNITY CONNECTION MISSING: SNETTERTON HEATH
+[00:25:01]   [MEDIUM  ] pilot-officer-h-e-rath-and-sergeant-k-m-miegel: 1 issues
+[00:25:01]     → COMMUNITY CONNECTION MISSING: The memorial was erected by Lillian Brindley, indicating a local conne
+[00:25:21]   [MEDIUM  ] pilot-officers-b-w-jobling-and-f-w-weston: 1 issues
+[00:25:21]     → COMMUNITY CONNECTION MISSING: REMEMBERED WITH PRIDE BY THEIR SONS AND FAMILIES.
+[00:25:52]   [MEDIUM  ] polish-aircrew-1943-dunmoor-hill: 3 issues
+[00:25:52]     → SERIAL NUMBER MISSING: inscription mentions R1535
+[00:25:52]     → SQUADRON MISSING: inscription mentions 301 POMERANIAN SQN.
+[00:25:52]     → COMMUNITY CONNECTION MISSING: The inscription is for a crash site of an aircraft, indicating the com
+[00:26:08]   [MEDIUM  ] polish-aircrew-avro-lancaster-pa269: 1 issues
+[00:26:08]     → COMMUNITY CONNECTION MISSING: This plaque has been erected in memory of the Airmen
+[00:26:24]   [MEDIUM  ] raf-bomber-a-w-whitley-z6639-and-crew: 2 issues
+[00:26:24]     → SQUADRON MISSING: inscription mentions No 24 O.T.U
+[00:26:24]     → COMMUNITY CONNECTION MISSING: R.A.F HONEYBOURNE WORCS
+[00:26:40]   [MEDIUM  ] raf-wellington-aircrew: 1 issues
+[00:26:40]     → COMMUNITY CONNECTION MISSING: WITHINGTON / ON
+[00:26:41] Processing 181/277...
+[00:27:01]   [MEDIUM  ] rcaf-crew-of-raf-wellington-he821-and-pilot-officer-h-s-keeton: 1 issues
+[00:27:01]     → COMMUNITY CONNECTION MISSING: This memorial was donated by Mr. Joseph Arthur Plant/ IN MEMORY OF HIS
+[00:27:16]   [HIGH    ] reigate-hill-b-17-flying-fortress: 1 issues
+[00:27:16]     → CRASH DATE MISMATCH: DB has WW2, inscription says 1945. Reasoning: INSCRIPTION TEXT: ... IN MEMORY O
+[00:27:35]   [LOW     ] revesby-nd415: 1 issues
+[00:27:35]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:27:51]   [MEDIUM  ] royal-canadian-air-force-crew-vickers-wellington-bk387: 1 issues
+[00:27:51]     → COMMUNITY CONNECTION MISSING: memorial for those who lost their lives on this site
+[00:28:08]   [HIGH    ] ryhope-sunderland-barton-vc: 2 issues
+[00:28:08]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:28:08]     → COMMUNITY CONNECTION MISSING: sacrificed his life to save others
+[00:28:23]   [MEDIUM  ] scredington-ed439: 1 issues
+[00:28:23]     → COMMUNITY CONNECTION MISSING: Highgate Farm Scrodington, a local area
+[00:28:42]   [HIGH    ] sergeant-a-j-smith-and-short-stirling-ef352: 3 issues
+[00:28:42]     → CRASH DATE MISSING: inscription states 22nd OCTOBER 1943
+[00:28:42]     → CIVILIAN CASUALTIES NOT RECORDED: VILLAGE AT PRESTON WYNNE HEREFORD
+[00:28:42]     → COMMUNITY CONNECTION MISSING: LEAVING A WIDOW AND THREE SONS IN HEDGE END. COMMUNITY CONNECTION: OF 
+[00:28:59]   [MEDIUM  ] sergeant-f-rowney-and-flight-sergeant-t-barker-and-handley-page-hampden-ad854: 1 issues
+[00:28:59]     → COMMUNITY CONNECTION MISSING: The inscription mentions that the crash site is close to where the sur
+[00:29:14]   [MEDIUM  ] sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538: 2 issues
+[00:29:14]     → CRASH DATE MISSING: inscription states 1943-01-30
+[00:29:14]     → COMMUNITY CONNECTION MISSING: Wymeswold
+[00:29:32]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 453 (char 452)
+[00:29:32]   [LOW     ] sergeant-t-h-skelton-and-crew-of-avro-lancaster-w4938: 1 issues
+[00:29:32]     → Granite query failed
+[00:29:33] Processing 191/277...
+[00:30:01]   [MEDIUM  ] short-stirling-bk770: 3 issues
+[00:30:01]     → CRASH DATE MISSING: inscription states 1943-04-09
+[00:30:01]     → SQUADRON MISSING: inscription mentions 75 (NZ) Squadron R.A.F
+[00:30:01]     → COMMUNITY CONNECTION MISSING: This oak tree was planted on/7TH APRIL 1991 in memory of the AIRCREW
+[00:30:16]   [MEDIUM  ] short-stirling-bk784: 3 issues
+[00:30:16]     → CRASH DATE MISSING: inscription states 1944-05-23
+[00:30:16]     → CREW MISSING: inscription has 7 crew names but crew list is empty
+[00:30:16]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'CREW OF STIRLING BOMBER', indicating a local
+[00:30:31]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 445 (char 444)
+[00:30:31]   [LOW     ] short-stirling-ef127: 1 issues
+[00:30:31]     → Granite query failed
+[00:30:48]   [MEDIUM  ] short-stirling-eh940-and-avro-lancaster-lm292: 3 issues
+[00:30:48]     → CREW MISSING: inscription has 5 crew names but crew list is empty
+[00:30:48]     → COMMUNITY CONNECTION MISSING: killed in action at Kettlethorpe
+[00:30:48]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:31:04]   [MEDIUM  ] short-stirling-eh977: 2 issues
+[00:31:04]     → SQUADRON MISSING: inscription mentions 1660 Heavy Conversion Unit
+[00:31:04]     → COMMUNITY CONNECTION MISSING: Based at RAF Swinderby. Commissioned and erected by the Lincolnshire A
+[00:31:19]   [MEDIUM  ] short-stirling-eh988: 1 issues
+[00:31:19]     → COMMUNITY CONNECTION MISSING: In MEMORY OF/ IN FRIENDSHIP AND IN SERVICE
+[00:31:38]   [MEDIUM  ] short-stirling-lj450: 1 issues
+[00:31:38]     → COMMUNITY CONNECTION MISSING: erected by Theaker Family and GP CAPT MP. COLLEY, STATION COMMANDER RA
+[00:31:54]   [MEDIUM  ] short-stirling-lj930: 2 issues
+[00:31:54]     → CRASH DATE MISSING: inscription states 1945-04-20
+[00:31:54]     → COMMUNITY CONNECTION MISSING: WINDLESHAM, SURREY
+[00:32:13]   [MEDIUM  ] short-stirling-lk116: 1 issues
+[00:32:13]     → COMMUNITY CONNECTION MISSING: ADJACENT TO THE RIVER CHELMER / IN THE FIELDS BEHIND OAKROYD AVENUE
+[00:32:14] Processing 201/277...
+[00:32:47]   [MEDIUM  ] short-stirling-n3703: 2 issues
+[00:32:47]     → SQUADRON MISSING: inscription mentions XV Squadron
+[00:32:47]     → COMMUNITY CONNECTION MISSING: honours their sacrifice, and all those who flew with XV Squadron, and 
+[00:33:23]   [MEDIUM  ] short-stirling-r9245: 2 issues
+[00:33:23]     → SQUADRON MISSING: inscription mentions 75 (NZ) SQUADRON RAF
+[00:33:23]     → COMMUNITY CONNECTION MISSING: Ake Ake KIA KAHA
+[00:33:38]   [MEDIUM  ] short-stirling-r9329: 1 issues
+[00:33:38]     → COMMUNITY CONNECTION MISSING: We Will Remember Them
+[00:34:00]   [MEDIUM  ] short-stirling-w7441: 1 issues
+[00:34:00]     → COMMUNITY CONNECTION MISSING: This memorial is dedicated to the memory of all airmen and airwomen wh
+[00:34:19]   [MEDIUM  ] short-stirling-w7467: 1 issues
+[00:34:19]     → COMMUNITY CONNECTION MISSING: The people of Earith, 7 Squadron Association and this Stone remember t
+[00:34:36]   [MEDIUM  ] short-stirling-w7473-handley-page-halifax-hr832-and-bristol-blenheim-z7278: 2 issues
+[00:34:36]     → COMMUNITY CONNECTION MISSING: The parish of Clenchwarton, Stirling W 7473
+[00:34:36]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:34:52]   [MEDIUM  ] short-stirling-w7628: 1 issues
+[00:34:52]     → COMMUNITY CONNECTION MISSING: The memorial is for those killed in the crash of a Stirling bomber at 
+[00:35:12]   [MEDIUM  ] short-stirling-x9-y-worry: 2 issues
+[00:35:12]     → COMMUNITY CONNECTION MISSING: The crew were among the first British to land in Oslo, Norway at the e
+[00:35:12]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:35:12] Processing 211/277...
+[00:35:26]   [MEDIUM  ] st-egwin-s-church-norton-and-lenchwick-ww2-wellington-memorial: 2 issues
+[00:35:26]     → SQUADRON MISSING: inscription mentions 24 OTU, RAF Honeybourne
+[00:35:26]     → COMMUNITY CONNECTION MISSING: This village
+[00:35:46]   [MEDIUM  ] stow-bedon-blenheim-v-5851: 2 issues
+[00:35:46]     → SERIAL NUMBER MISSING: inscription mentions V5851
+[00:35:46]     → COMMUNITY CONNECTION MISSING: The memorial is for the community of Watton, likely a local response t
+[00:36:01]   [HIGH    ] the-gunthorpe-fallen-and-lancaster-r5703: 3 issues
+[00:36:01]     → CIVILIAN CASUALTIES NOT RECORDED: 
+[00:36:01]     → COMMUNITY CONNECTION MISSING: In Memory of the Bomber Crew who died in the Parish of Gunthorpe
+[00:36:01]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:36:23]   [LOW     ] timberlands-fen-jb534: 1 issues
+[00:36:23]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:36:40]   [MEDIUM  ] two-avro-lancaster-crews-st-peter-ad-vincula: 1 issues
+[00:36:40]     → COMMUNITY CONNECTION MISSING: The memorial was erected in grateful appreciation of their sacrifice b
+[00:36:55]   [MEDIUM  ] ulceby-cross-pb476: 1 issues
+[00:36:55]     → COMMUNITY CONNECTION MISSING: commemoration of crew members who died
+[00:37:11]   [MEDIUM  ] vautour-mitchell-crash-site: 5 issues
+[00:37:11]     → AIRCRAFT TYPE MISSING: inscription mentions DE HAVILLAND MOSQUITO NFXIII
+[00:37:11]     → SERIAL NUMBER MISSING: inscription mentions NFXIII-MM573
+[00:37:11]     → SQUADRON MISSING: inscription mentions 409 (RCAF) Squadron
+[00:37:25]   [MEDIUM  ] vickers-wellington-bj697: 1 issues
+[00:37:25]     → COMMUNITY CONNECTION MISSING: Memorial to crash site
+[00:37:55]   [HIGH    ] vickers-wellington-bj879: 2 issues
+[00:37:55]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:37:55]     → COMMUNITY CONNECTION MISSING: Donated by ANGLIAN WATER SERVICES LTD
+[00:37:55] Processing 221/277...
+[00:38:11]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 419 (char 418)
+[00:38:11]   [LOW     ] vickers-wellington-bk157: 1 issues
+[00:38:11]     → Granite query failed
+[00:38:26]   [MEDIUM  ] vickers-wellington-bk352: 1 issues
+[00:38:26]     → COMMUNITY CONNECTION MISSING: Wellington Bomber of 17 0TU RAF Turweston
+[00:38:42]   [MEDIUM  ] vickers-wellington-bk491: 1 issues
+[00:38:42]     → COMMUNITY CONNECTION MISSING: Nash End Farm
+[00:39:17]   [MEDIUM  ] vickers-wellington-dv697: 1 issues
+[00:39:17]     → COMMUNITY CONNECTION MISSING: donated by the members of the ROYAL BRITISH LEGION. The Australian Hig
+[00:39:34]   [HIGH    ] vickers-wellington-dv717: 2 issues
+[00:39:34]     → CIVILIAN CASUALTIES NOT RECORDED: Sgt McCord in Argadh, Ireland
+[00:39:34]     → COMMUNITY CONNECTION MISSING: erected by community connection (Ollerton Cemetery)
+[00:39:49]   [MEDIUM  ] vickers-wellington-dv771: 1 issues
+[00:39:49]     → COMMUNITY CONNECTION MISSING: memorial to the crew of Wellington bomber DV771
+[00:40:08]   [MEDIUM  ] vickers-wellington-dv930: 2 issues
+[00:40:08]     → CREW MISSING: inscription has 5 crew names but crew list is empty
+[00:40:08]     → COMMUNITY CONNECTION MISSING: THE PEOPLE OF CHEDISTON
+[00:40:31]   [MEDIUM  ] vickers-wellington-he159: 2 issues
+[00:40:31]     → SQUADRON MISSING: inscription mentions 424(TIGER) SQUADRON RCAF
+[00:40:31]     → COMMUNITY CONNECTION MISSING: UNVEILED ON THE 6OTH ANNIVERSARY BY THE GRATEFUL PEOPLES OF CANADA AND
+[00:40:47]   [MEDIUM  ] vickers-wellington-he320: 2 issues
+[00:40:47]     → CRASH DATE MISSING: inscription states 1944-01-09
+[00:40:47]     → COMMUNITY CONNECTION MISSING: of Rainham, Essex. / of Big River, Saskatchewan,/ Canada
+[00:40:48] Processing 231/277...
+[00:41:04]   [MEDIUM  ] vickers-wellington-he702: 2 issues
+[00:41:04]     → COMMUNITY CONNECTION MISSING: In memory of the crew
+[00:41:04]     → FTR MEMORIAL: Granite identifies this as a Failed to Return memorial, not a local crash site
+[00:41:22]   [MEDIUM  ] vickers-wellington-he818-and-handley-page-halifax-na581: 2 issues
+[00:41:22]     → COMMUNITY CONNECTION MISSING: BLYTH; HODSOCK
+[00:41:22]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:41:38]   [MEDIUM  ] vickers-wellington-hf570: 2 issues
+[00:41:38]     → CRASH DATE MISSING: inscription states 1944-09-05
+[00:41:38]     → COMMUNITY CONNECTION MISSING: The memorial is erected at RAF Desborough, indicating a strong communi
+[00:41:55]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 390 (char 389)
+[00:41:55]   [LOW     ] vickers-wellington-hf613: 1 issues
+[00:41:55]     → Granite query failed
+[00:42:09]   [MEDIUM  ] vickers-wellington-hf641: 1 issues
+[00:42:09]     → COMMUNITY CONNECTION MISSING: over Roade
+[00:42:27]   [MEDIUM  ] vickers-wellington-hz251: 1 issues
+[00:42:27]     → COMMUNITY CONNECTION MISSING: The Fallen/ They have passed beyond the stress and storm of mortal str
+[00:42:41]   [MEDIUM  ] vickers-wellington-ln181: 1 issues
+[00:42:41]     → CREW MISSING: inscription has 8 crew names but crew list is empty
+[00:43:13]   [MEDIUM  ] vickers-wellington-lp397: 2 issues
+[00:43:13]     → SQUADRON MISSING: inscription mentions RAF WYMESWOLD / NO 93 GROUP BOMBER
+[00:43:13]     → COMMUNITY CONNECTION MISSING: RAF WYMESWOLD / Heritage Group 2011
+[00:43:30]   [MEDIUM  ] vickers-wellington-lp841-stone: 1 issues
+[00:43:30]     → COMMUNITY CONNECTION MISSING: With Thanks To All The Young Men And Women Who Came From Foreign Shore
+[00:43:30] Processing 241/277...
+[00:43:45]   [MEDIUM  ] vickers-wellington-lp841-tablet: 2 issues
+[00:43:45]     → SQUADRON MISSING: inscription mentions 82 O.T.U.
+[00:43:45]     → COMMUNITY CONNECTION MISSING: LAXTON
+[00:44:01]   [MEDIUM  ] vickers-wellington-mf116: 2 issues
+[00:44:01]     → SQUADRON MISSING: inscription mentions 26 OTU, R.A.F. WING, OXFORDSHIRE
+[00:44:01]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:44:17]   [MEDIUM  ] vickers-wellington-mp624: 2 issues
+[00:44:17]     → CRASH DATE MISSING: inscription states 1943-08-24
+[00:44:17]     → COMMUNITY CONNECTION MISSING: This stone marks the 50th anniversary of their sacrifice.
+[00:44:36]   [MEDIUM  ] vickers-wellington-n2749: 2 issues
+[00:44:36]     → SQUADRON MISSING: inscription mentions 27 OTU / RAF Lichfield
+[00:44:36]     → COMMUNITY CONNECTION MISSING: community_connection: The Royal British Legion Milford Haven Branch er
+[00:44:51]   [HIGH    ] vickers-wellington-n2848: 2 issues
+[00:44:51]     → CIVILIAN CASUALTIES NOT RECORDED: null
+[00:44:51]     → COMMUNITY CONNECTION MISSING: The PARKER FAMILY AND LOCAL PEOPLE
+[00:45:13]   [MEDIUM  ] vickers-wellington-nb824: 1 issues
+[00:45:13]     → COMMUNITY CONNECTION MISSING: The crash site was at RAF Langham, which is a local airfield.
+[00:45:28]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 407 (char 406)
+[00:45:28]   [LOW     ] vickers-wellington-nc848: 1 issues
+[00:45:28]     → Granite query failed
+[00:45:44]   [MEDIUM  ] vickers-wellington-nz-n: 2 issues
+[00:45:44]     → SQUADRON MISSING: inscription mentions 304 POLISH SQUADRON
+[00:45:44]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:46:00]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 387 (char 386)
+[00:46:00]   [LOW     ] vickers-wellington-r1028: 1 issues
+[00:46:00]     → Granite query failed
+[00:46:18]   [HIGH    ] vickers-wellington-r1461: 2 issues
+[00:46:18]     → CIVILIAN CASUALTIES NOT RECORDED: {'names': ['EDWIN WILLIAMS', 'his wife ANNIE JANE'], 'relationship
+[00:46:18]     → COMMUNITY CONNECTION MISSING: {'erected_by': None, 'local_organisations': None}
+[00:46:18] Processing 251/277...
+[00:46:33]   [MEDIUM  ] vickers-wellington-r1465: 1 issues
+[00:46:33]     → COMMUNITY CONNECTION MISSING: The inscription mentions that the memorial is for those who died, indi
+[00:46:52]   [HIGH    ] vickers-wellington-r1474: 2 issues
+[00:46:52]     → CIVILIAN CASUALTIES NOT RECORDED: Mr & Mrs Titmarsh SURVIVED.
+[00:46:52]     → COMMUNITY CONNECTION MISSING: The occupants were Mr & Mrs Titmarsh, indicating a local connection.
+[00:47:17]   [MEDIUM  ] vickers-wellington-r1646-and-all-other-aircrew-killed-over-the-cairngorms: 2 issues
+[00:47:17]     → COMMUNITY CONNECTION MISSING: Six crew members lie at rest with the Commonwealth Graves Commission R
+[00:47:17]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:47:32]   [MEDIUM  ] vickers-wellington-t2520: 1 issues
+[00:47:32]     → COMMUNITY CONNECTION MISSING: The inscription mentions 'ALL WERE KILLED', indicating a significant l
+[00:47:46]   [MEDIUM  ] vickers-wellington-w5365: 1 issues
+[00:47:46]     → CRASH DATE MISSING: inscription states 1941-02-08
+[00:48:01]   [MEDIUM  ] vickers-wellington-w5667: 1 issues
+[00:48:01]     → COMMUNITY CONNECTION MISSING: Commonside, Old Leake
+[00:48:17]   [MEDIUM  ] vickers-wellington-x-hf465: 2 issues
+[00:48:17]     → CRASH DATE MISSING: inscription states 20.10.1944
+[00:48:17]     → COMMUNITY CONNECTION MISSING: The memorial is for a crash site in Bridgmere, indicating local commun
+[00:48:31]   [HIGH    ] vickers-wellington-x3707: 2 issues
+[00:48:31]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:48:31]     → COMMUNITY CONNECTION MISSING: at Craiglockhart View
+[00:48:47]   [HIGH    ] vickers-wellington-x3790: 2 issues
+[00:48:47]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:48:47]     → COMMUNITY CONNECTION MISSING: To the memory of those Winslow residents, evacuees and aircrew
+[00:49:02]   [MEDIUM  ] vickers-wellington-z8397: 1 issues
+[00:49:02]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:49:03] Processing 261/277...
+[00:49:19]   [HIGH    ] vickers-wellington-z8799: 3 issues
+[00:49:19]     → CRASH DATE MISSING: inscription states 1943-11-12
+[00:49:19]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:49:19]     → COMMUNITY CONNECTION MISSING: ERECTED BY THE ROTARY CLUB OF HORWICH
+[00:49:48]   [MEDIUM  ] vickers-wellington-z8863: 2 issues
+[00:49:48]     → COMMUNITY CONNECTION MISSING: This memorial is dedicated to the crew of Wellington Mk 1c Z8863 KO-G 
+[00:49:48]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:50:03]   [MEDIUM  ] vickers-wellingtons-hf517-and-mf589: 1 issues
+[00:50:03]     → COMMUNITY CONNECTION MISSING: Dutch, Canadian and British Airmen
+[00:50:19]   [MEDIUM  ] vickers-wellingtons-ln532-and-lp172: 2 issues
+[00:50:19]     → COMMUNITY CONNECTION MISSING: The memorial is in Whittlebury, indicating a local connection
+[00:50:19]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[00:50:35]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 416 (char 415)
+[00:50:35]   [LOW     ] victor-george-bailey-and-louis-grover-martin-wellington-crash-ford: 1 issues
+[00:50:35]     → Granite query failed
+[00:51:03]   [HIGH    ] walton-on-the-naze-rg475: 2 issues
+[00:51:03]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:51:03]     → COMMUNITY CONNECTION MISSING: The inscription mentions: 'THIS MEMORIAL WAS ERECTED IN 1979 BY THE FR
+[00:51:23]   [MEDIUM  ] weasenham-r-a-f-aircrew-ww-ii: 2 issues
+[00:51:23]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:51:23]     → COMMUNITY CONNECTION MISSING: North American Mitchell II, FL206, 98 Sqn. Flt. Sgt. D.C. Tanner RAFVR
+[00:51:37]   [MEDIUM  ] wellington-bomber-crash-westbury-may-1943: 1 issues
+[00:51:37]     → COMMUNITY CONNECTION MISSING: near the village of Westbury
+[00:51:53]   [MEDIUM  ] wellington-bomber-crash: 1 issues
+[00:51:53]     → COMMUNITY CONNECTION MISSING: This memorial was erected to their honour in 1988
+[00:51:53] Processing 271/277...
+[00:52:07]   [MEDIUM  ] wellington-bomber-he740: 2 issues
+[00:52:07]     → SQUADRON MISSING: inscription mentions UNIT 11 O.T.U. AT WESTCOTT
+[00:52:07]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:52:24]   [MEDIUM  ] wellington-bomber-he746: 1 issues
+[00:52:24]     → COMMUNITY CONNECTION MISSING: Presented to the museum by Sgt Mullis' daughter / on October 4th 2000
+[00:52:38]   [MEDIUM  ] wellington-bomber-mk-x-mf509: 3 issues
+[00:52:38]     → SERIAL NUMBER MISSING: inscription mentions MF509
+[00:52:38]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:52:38]     → COMMUNITY CONNECTION MISSING: RAGLAN BAY, APPRENTICES
+[00:53:22]   [HIGH    ] wellington-bomber-n2980: 4 issues
+[00:53:22]     → CRASH DATE MISSING: inscription states 1940-12-18
+[00:53:22]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:53:22]     → COMMUNITY CONNECTION MISSING: The inscription mentions that the memorial was erected by the Loch Nes
+[00:53:39]   [MEDIUM  ] wellington-r1392-crash: 3 issues
+[00:53:39]     → SQUADRON MISSING: inscription mentions 304 POLISH SQUADRON
+[00:53:39]     → CREW MISSING: inscription has 4 crew names but crew list is empty
+[00:53:39]     → COMMUNITY CONNECTION MISSING: Port of Boulogne where it had been hit and badly damaged
+[00:53:53]   [HIGH    ] wellington-t2962: 2 issues
+[00:53:53]     → CIVILIAN CASUALTIES NOT RECORDED: None
+[00:53:53]     → COMMUNITY CONNECTION MISSING: DIED IN LLANGROVE
+[00:54:08]   [MEDIUM  ] wellington-x-he-324-crash: 3 issues
+[00:54:08]     → SERIAL NUMBER MISSING: inscription mentions X HE 324
+[00:54:08]     → CREW MISSING: inscription has 6 crew names but crew list is empty
+[00:54:08]     → COMMUNITY CONNECTION MISSING: This field
+[00:54:08] 
+======================================================================
+[00:54:08] INSCRIPTION VALIDATION COMPLETE
+[00:54:08] ======================================================================
+[00:54:08]   Duration:     5201s (86.7 min)
+[00:54:08]   Checked:      277
+[00:54:08]   Clean:        29
+[00:54:08]   Low:          31
+[00:54:08]   Medium:       169
+[00:54:08]   High:         48
+[00:54:08]   Critical:     0
+[00:54:08]   Corrections:  350 total, 77 applied
+[00:54:08] 
+[00:54:08]   Report: /root/repos/bomber-memorial-site/scripts/../inscription-validation-report.md
+[00:54:08]   Corrections: /root/repos/bomber-memorial-site/scripts/../inscription-corrections.json
+[00:54:08] ======================================================================
+[05:31:34] 
+======================================================================
+[05:31:34] BMR INSCRIPTION VALIDATOR — Gate 10: Content Truth
+[05:31:34] Started: 2026-04-13 05:31
+[05:31:34] Mode: REPORT only
+[05:31:34] ======================================================================
+[05:31:34] Memorials with inscriptions: 277
+[05:31:34] Processing 1/277...
+[05:31:57]   [MEDIUM  ] 305th-bomb-group-b17-flying-fortress-42-97578-crash: 1 issues
+[05:31:57]     → SQUADRON MISSING: inscription mentions 422nd Squadron
+[05:32:29]   [MEDIUM  ] 617-squadron-aircrew-derwent-valley: 1 issues
+[05:32:29]     → CRASH DATE MISSING: inscription states 16th May 1943
+[05:32:45]   [MEDIUM  ] a-and-d-lancaster: 1 issues
+[05:32:45]     → CRASH DATE MISSING: inscription states 1915-05-07
+[05:33:01]   [LOW     ] aircrew-1939-1945: 1 issues
+[05:33:01]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:34:05]   [LOW     ] australian-aircrew-lost-over-europe: 1 issues
+[05:34:05]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:34:21] Processing 11/277...
+[05:36:13]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 298 (char 297)
+[05:36:13]   [LOW     ] avro-lancaster-jb286: 1 issues
+[05:36:13]     → Granite query failed
+[05:37:05] Processing 21/277...
+[05:37:40]   [MEDIUM  ] avro-lancaster-lm311: 1 issues
+[05:37:40]     → COMMUNITY CONNECTION MISSING: This tree was planted in memory of the Crew
+[05:38:59]   [LOW     ] avro-lancaster-nd820: 1 issues
+[05:38:59]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:39:42]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 422 (char 421)
+[05:39:42]   [LOW     ] avro-lancaster-pb366-cross: 1 issues
+[05:39:42]     → Granite query failed
+[05:39:42] Processing 31/277...
+[05:40:11]   [MEDIUM  ] avro-lancaster-pb432: 1 issues
+[05:40:11]     → COMMUNITY CONNECTION MISSING: Names of crew members engraved
+[05:41:19]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 434 (char 433)
+[05:41:19]   [LOW     ] avro-lancaster-r5489: 1 issues
+[05:41:19]     → Granite query failed
+[05:41:33]   [MEDIUM  ] avro-lancaster-r5676: 1 issues
+[05:41:33]     → COMMUNITY CONNECTION MISSING: This farm
+[05:42:28] Processing 41/277...
+[05:43:01] 
+======================================================================
+[05:43:01] BMR INSCRIPTION VALIDATOR — Gate 10: Content Truth
+[05:43:01] Started: 2026-04-13 05:43
+[05:43:01] Mode: REPORT only
+[05:43:01] ======================================================================
+[05:43:01] Memorials with inscriptions: 278
+[05:43:01] Processing 1/278...
+[05:43:24]   [MEDIUM  ] 305th-bomb-group-b17-flying-fortress-42-97578-crash: 1 issues
+[05:43:24]     → SQUADRON MISSING: inscription mentions 422nd Squadron
+[05:44:02]   [LOW     ] balkholme-halifax-mid-air-collision: 1 issues
+[05:44:02]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:44:50]   [MEDIUM  ] 617-squadron-aircrew-derwent-valley: 1 issues
+[05:44:50]     → CRASH DATE MISSING: inscription states 16th May 1943
+[05:45:07]   [LOW     ] blankney-mid-air-collision-lm130: 1 issues
+[05:45:07]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:45:21]   [MEDIUM  ] a-and-d-lancaster: 1 issues
+[05:45:21]     → CRASH DATE MISSING: inscription states 1915-05-07
+[05:45:52]   [LOW     ] aircrew-1939-1945: 1 issues
+[05:45:52]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:46:03]   [MEDIUM  ] burn-chapel-578-sqn-panels: 1 issues
+[05:46:03]     → CREW MISSING: inscription has 219 crew names but crew list is empty
+[05:47:02]   [MEDIUM  ] cairnsmore-of-fleet-local-air-crashes: 3 issues
+[05:47:02]     → AIRCRAFT TYPE MISSING: inscription mentions A HEINKEL III H4
+[05:47:02]     → SQUADRON MISSING: inscription mentions Kampfgeschwader 4 (KAMPFGESCHWADER 4)
+[05:47:02]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:48:04]   [LOW     ] cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-: 1 issues
+[05:48:04]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:48:24]   [LOW     ] australian-aircrew-lost-over-europe: 1 issues
+[05:48:24]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:48:39] Processing 51/277...
+[05:48:55] Processing 11/278...
+[05:49:11]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 378 (char 377)
+[05:49:11]   [LOW     ] canadian-crew-of-wellington-bomber: 1 issues
+[05:49:11]     → Granite query failed
+[05:49:39]   [MEDIUM  ] canberra-bomber-crash-tiverton: 1 issues
+[05:49:39]     → CRASH DATE MISSING: inscription states 1961-11-21
+[05:51:09]   [LOW     ] avro-lancaster-hk773: 1 issues
+[05:51:09]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:51:24]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 398 (char 397)
+[05:51:24]   [LOW     ] avro-lancaster-ja964: 1 issues
+[05:51:24]     → Granite query failed
+[05:51:55]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 304 (char 303)
+[05:51:55]   [LOW     ] avro-lancaster-jb286: 1 issues
+[05:51:55]     → Granite query failed
+[05:52:48] Processing 21/278...
+[05:53:22]   [MEDIUM  ] avro-lancaster-lm311: 1 issues
+[05:53:22]     → COMMUNITY CONNECTION MISSING: This tree was planted in memory of the Crew
+[05:54:39]   [LOW     ] avro-lancaster-nd820: 1 issues
+[05:54:39]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:55:21] 
+======================================================================
+[05:55:21] BMR INSCRIPTION VALIDATOR — Gate 10: Content Truth
+[05:55:21] Started: 2026-04-13 05:55
+[05:55:21] Mode: REPORT only
+[05:55:21] ======================================================================
+[05:55:21] Memorials with inscriptions: 278
+[05:55:21] Processing 1/278...
+[05:55:22]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 422 (char 421)
+[05:55:22]   [LOW     ] avro-lancaster-pb366-cross: 1 issues
+[05:55:22]     → Granite query failed
+[05:55:22] Processing 31/278...
+[05:56:42]   [MEDIUM  ] 617-squadron-aircrew-derwent-valley: 1 issues
+[05:56:42]     → CRASH DATE MISSING: inscription states 16th May 1943
+[05:57:13]   [MEDIUM  ] a-and-d-lancaster: 1 issues
+[05:57:13]     → CRASH DATE MISSING: inscription states 1915-05-07
+[05:57:44]   [LOW     ] aircrew-1939-1945: 1 issues
+[05:57:44]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:58:35]   [MEDIUM  ] avro-lancaster-r5489: 2 issues
+[05:58:35]     → CRASH DATE MISSING: inscription states 1942-08-16
+[05:58:35]     → COMMUNITY CONNECTION MISSING: Made and presented by Frank Walshaw (Wireless Operator) / a survivor o
+[05:59:12]   [MEDIUM  ] avro-lancaster-r5676: 1 issues
+[05:59:12]     → COMMUNITY CONNECTION MISSING: This farm
+[05:59:33]   [MEDIUM  ] australian-aircrew-lost-over-europe: 2 issues
+[05:59:33]     → CRASH DATE MISSING: inscription states 1939-1945
+[05:59:33]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[05:59:49]   [MEDIUM  ] avro-lancaster-r5694: 1 issues
+[05:59:49]     → COMMUNITY CONNECTION MISSING: Tell Them Of Us And Say, / For Your Tomorrow, We Gave Our Today.
+[06:00:06] Processing 11/278...
+[06:00:58]   [LOW     ] avro-lancasters-me473-and-nd572: 1 issues
+[06:00:58]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[06:00:59] Processing 41/278...
+[06:02:25]   [LOW     ] avro-lancaster-hk773: 1 issues
+[06:02:25]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[06:03:56]   [LOW     ] blankney-mid-air-collision-lm130: 1 issues
+[06:03:56]     → MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct ev
+[06:04:09]   Granite JSON parse error: Expecting ',' delimiter: line 1 column 298 (char 297)
+[06:04:09]   [LOW     ] avro-lancaster-jb286: 1 issues
+[06:04:09]     → Granite query failed
+[06:04:52]   [MEDIUM  ] burn-chapel-578-sqn-panels: 1 issues
+[06:04:52]     → CREW MISSING: inscription has 219 crew names but crew list is empty

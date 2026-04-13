@@ -33,65 +33,65 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Fl/Sgt Kemp descended from 10,000 feet in heavy cloud to fix position visually. The Wellington struck the summit of Waun Rydd at approximately 2,500 feet. All five crew were killed and buried together at Hereford Cemetery in adjacent graves in Plot A.",
   "crew": [
     {
       "rank": "Fl/Sgt",
       "name": "Flt Sgt John Beverley Kemp",
-      "service_number": "R88687 RCAF",
       "age": 21,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A (C of E), Grave 5619",
       "fate": "Killed",
       "fate_detail": "Killed when Wellington struck summit of Waun Rydd while descending in cloud. Buried at Hereford Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R88687 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Flt Sgt Ernest Edward Mittell",
-      "service_number": "R71725 RCAF",
       "age": 22,
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A, Grave 5640",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R71725 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Kenneth Ferguson Yuill",
-      "service_number": "R106035 RCAF",
       "age": 30,
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A, Grave 5660",
       "fate": "Killed",
       "fate_detail": "At 30, the oldest crew member.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R106035 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Flt Sgt Harold Crighton Beatty",
-      "service_number": "R75332 RCAF",
       "age": 28,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R75332 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "James Patrick Hayes",
-      "service_number": "R82352 RCAF",
       "age": 22,
       "role": "Rear Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R82352 RCAF",
+      "nationality": "Canadian"
     }
   ],
   "latitude": 51.8387,

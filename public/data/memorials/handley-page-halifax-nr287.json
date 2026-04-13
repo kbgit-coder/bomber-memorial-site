@@ -1,27 +1,41 @@
 {
   "id": "handley-page-halifax-nr287",
   "title": "Handley Page Halifax NR287",
-  "location_name": "",
-  "county": "",
+  "location_name": "Scawton, Ryedale",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "NR287",
-  "squadron": "",
+  "squadron": "347 (Tunisie) Sqn",
   "crash_date": "1945-03-15",
-  "memorial_type": "",
-  "memorial_details": "description: Plaque: HERE ON MARCH 15th 1945 FELL/ A HALIFAX BOMBER RETURNING / FROM AN OPERATIONAL FLIGHT./ THE FOLLOWING MEMBERS/ OF THE CREW WERE KILLED./ (Names)/  \r\n\r\nScroll: 347 (Tunisie) Sqn/ This plaque is a memorial to five Free French Airmen killed as they/ returned to their base at Elvington from their thirty eighth and last/ mission. Unable to land due to a build up of other returning aircraft they/ flew north to await their turn to land. HALIFAX NR 287 LB-C (Charles) fate/ was sealed when, with damaged instruments and zero visibility, it struck a/ stone wall strewing debris across the fields./ The Halifax spilled out two of its occupants as it slithered and bounced its/ way across the earth, it punched its way through another wall and/ became airborne for a few hundred yards before finally being brought rest/ against a tree on farmland about half a mile from this church. Only the/ Flight Engineer and Rear Gunner escaped, though badly injured from/ the wreckage. For some years the plaque was attached to the tree against/ which the Halifax came to rest until the tree fell and the plaque was/ removed to the church porch here in Scawton./ Lest we Forget",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "1) Small bronze plaque on a wooden backboard, with dedication in raised upper-case letters. A Free French Cross of Lorraine is located above the text. / 2) A framed, explanatory scroll, headed by the Squadron badge, is located beneath the plaque.\n\nThe inscription mentions the plaque was attached to a tree against which the Halifax came to rest until it fell and the plaque was moved to the church porch here in Scawton.",
+  "inscription": "Plaque: HERE ON MARCH 15th 1945 FELL/ A HALIFAX BOMBER RETURNING / FROM AN OPERATIONAL FLIGHT./ THE FOLLOWING MEMBERS/ OF THE CREW WERE KILLED./ (Names)/ Scroll: 347 (Tunisie) Sqn/ This plaque is a memorial to five Free French Airmen killed as they/ returned to their base at Elvington from their thirty eighth and last/ mission. Unable to land due to a build up of other returning aircraft they/ flew north to await their turn to land. HALIFAX NR 287 LB-C (Charles) fate/ was sealed when, with damaged instruments and zero visibility, it struck a/ stone wall strewing debris across the fields./ The Halifax spilled out two of its occupants as it slithered and bounced its/ way across the earth, it punched its way through another wall and/ became airborne for a few hundred yards before finally being brought rest/ against a tree on farmland about half a mile from this church. Only the/ Flight Engineer and Rear Gunner escaped, though badly injured from/ the wreckage. For some years the plaque was attached to the tree against/ which the Halifax came to rest until the tree fell and the plaque was/ removed to the church porch here in Scawton./ Lest we Forget",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/30819"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/30819",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.245084491959,
-  "longitude": -1.159086115972
+  "longitude": -1.159086115972,
+  "grid_ref": "SE 54895",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "custodian": "St Mary's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/142/595/large_ny_scawton_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/121/293/large_scan_cbrogan_2021_09_07_10_46_38_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/121/292/large_scan_cbrogan_2021_09_07_10_46_38_1.jpg"
+  ],
+  "community_connection": ""
 }

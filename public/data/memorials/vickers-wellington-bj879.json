@@ -1,27 +1,37 @@
 {
   "id": "vickers-wellington-bj879",
   "title": "Vickers Wellington BJ879",
-  "location_name": "",
-  "county": "",
+  "location_name": "Mursley, Milton Keynes",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BJ879",
   "squadron": "",
   "crash_date": "1943-04-11",
-  "memorial_type": "",
-  "memorial_details": "description: MURSLEY PARISH COUNCIL/ IN MEMORY OF/ (Names)/ WHO LOST THEIR LIVES WHEN/ WELLINGTON B.J.879 OF 26 OTU/ CRASHED INTO THE WATER TOWER/ AT 00.15 HRS. 11TH APRIL 1943/ DEDICATED 8TH MAY 1995/ TO COMMEMORATE V.E.DAY/ 1945-1995/ DONATED BY ANGLIAN WATER SERVICES LTD",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A plaque mounted on a post, on the ground near the water tower, which commemorates the WW2 Wellington aircrew who crashed at the site.",
+  "inscription": "MURSLEY PARISH COUNCIL/ IN MEMORY OF/ (Names)/ WHO LOST THEIR LIVES WHEN/ WELLINGTON B.J.879 OF 26 OTU/ CRASHED INTO THE WATER TOWER/ AT 00.15 HRS. 11TH APRIL 1943/ DEDICATED 8TH MAY 1995/ TO COMMEMORATE V.E.DAY/ 1945-1995/ DONATED BY ANGLIAN WATER SERVICES LTD",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/72052"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/72052",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.955576905729,
-  "longitude": -0.812529315786
+  "longitude": -0.812529315786,
+  "grid_ref": "SP 81698",
+  "photos": [],
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/43/867/large_mursley_72052.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

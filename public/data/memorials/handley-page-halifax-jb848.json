@@ -1,27 +1,38 @@
 {
   "id": "handley-page-halifax-jb848",
   "title": "Handley Page Halifax JB848",
-  "location_name": "",
-  "county": "",
+  "location_name": "Pocklington, East Yorkshire",
+  "county": "Antrim",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "JB848",
   "squadron": "102 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Lindum Joinery Division's record of the construction of the Surgery includes the information that: \r\n'The site is located close to an airfield and, during construction, a number of artefacts from World War II were unearthed; these included a number of unexploded munitions (which were dealt with by bomb disposal engineers) and a damaged Halifax Bomber engine. The engine was cleaned and placed on display in an area created by Lindum as a memorial to 102 Squadron and an official unveiling ceremony, attended by relatives and veterans from the Squadron, was held in remembrance of those who gave their lives'.",
-  "inscription": "",
+  "crash_date": "1943-03-29",
+  "memorial_type": "Composite",
+  "memorial_details": "Rectangular black marble tablet, with incised inscription in gilt lettering, and the remains of the aircraft's engine (to which metal tabs are attached, bearing the names of each individual crewman). The memorial sits on a paved and gravel base beneath a metal and glass canopy.",
+  "inscription": "IN MEMORY OF/ The crew of RAF Halifax/ G-George JB848 from/ 102 (Ceylon) Squadron Pocklington/ who lost their lives near this place on/ 29th March 1943 at 21.59 hours./ (names)/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/99441"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/99441",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.926178794707,
-  "longitude": -0.783442012769
+  "longitude": -0.783442012769,
+  "grid_ref": "SE 79983",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/129/38/large_handley_page_halifax_ii_jb848_dy_g_102_squadron_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/129/37/large_handley_page_halifax_ii_jb848_dy_g_102_squadron.jpg"
+  ]
 }

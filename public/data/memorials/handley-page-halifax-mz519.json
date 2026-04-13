@@ -1,25 +1,39 @@
 {
   "id": "handley-page-halifax-mz519",
   "title": "Handley Page Halifax MZ519",
-  "location_name": "",
-  "county": "",
+  "location_name": "Farnsfield, Newark And Sherwood",
+  "county": "Nottinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "MZ519",
-  "squadron": "",
+  "squadron": "NO. 578/ SQUADRON OF THE ROYAL AIR FORCE",
   "crash_date": "1944-07-06",
-  "memorial_type": "",
-  "memorial_details": "description: HALIFAX BOMBER MEMORIAL/ ON THE EVENING OF JULY 6TH 1944 A HANDLEY PAGE HAILFAX AIRCRAFT, MZ519 LK-U OF NO. 578/ SQUADRON OF THE ROYAL AIR FORCE, CRASHED ON THE OUTSKIRTS OF THE VILLAGE OF FARNSFIELD WITH THE LOSS/ OF ALL SEVEN MEMBERS OF THE CREW/ THE AIRCRAFT WAS RETURNING TO ITS HOME BASE AT BURN IN YORKSHIRE ON COMPLETION OF ITS MISSION TO/ CROIXDALLE IN NORTHERN FRANCE WHERE THE SQUADRON HAD ATTACKED ONE OF THE LAUNCHING SITES FROM/ WHICH THE V1 &quot;FLYING BOMBS&quot; WERE BEING DIRECTED TOWARDS LONDON./ THE 50TH ANNIVERSARY WAS COMMEMORATED BY THE DEDICATION OF A MEMORIAL AND THE PLANTING OF A/ COPSE NEAR THE SPOT WHERE THE AIRCRAFT FELL.  A SPECIAL SERVICE WAS HELD IN THIS CHURCH TO MARK THE/ OCCASION./ THIS TRIBUTE WAS MADE POSSIBLE BY THE GENEROUSITY OF RELATIVES OF THE CREW, FRIENDS, SERVICE ASSOCIAIONS AND MANY PEOPLE OF THE VILLAGE.",
-  "inscription": "",
+  "memorial_type": "Paper memorial",
+  "memorial_details": "Elaborate montage comprising RAF and Squadron badges; commemoration; images of crew, aircraft and stone of remembrance; and parts of the crashed aircraft. The memorial is surrounded by an elaborate, oaken, glazed frame",
+  "inscription": "HALIFAX BOMBER MEMORIAL/ ON THE EVENING OF JULY 6TH 1944 A HANDLEY PAGE HAILFAX AIRCRAFT, MZ519 LK-U OF NO. 578/ SQUADRON OF THE ROYAL AIR FORCE, CRASHED ON THE OUTSKIRTS OF THE VILLAGE OF FARNSFIELD WITH THE LOSS/ OF ALL SEVEN MEMBERS OF THE CREW/ THE AIRCRAFT WAS RETURNING TO ITS HOME BASE AT BURN IN YORKSHIRE ON COMPLETION OF ITS MISSION TO/ CROIXDALLE IN NORTHERN FRANCE WHERE THE SQUADRON HAD ATTACKED ONE OF THE LAUNCHING SITES FROM/ WHICH THE V1 \"FLYING BOMBS\" WERE BEING DIRECTED TOWARDS LONDON./ THE 50TH ANNIVERSARY WAS COMMEMORATED BY THE DEDICATION OF A MEMORIAL AND THE PLANTING OF A/ COPSE NEAR THE SPOT WHERE THE AIRCRAFT FELL. A SPECIAL SERVICE WAS HELD IN THIS CHURCH TO MARK THE/ OCCASION./ THIS TRIBUTE WAS MADE POSSIBLE BY THE GENEROUSITY OF RELATIVES OF THE CREW, FRIENDS, SERVICE ASSOCIAIONS AND MANY PEOPLE OF THE VILLAGE.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/104101"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/104101",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12"
+  "last_updated": "2026-04-12",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "St Michael's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/150/309/large_nz_farnsfield_church_4.jpg"
+  ],
+  "latitude": 53.078,
+  "longitude": -1.028,
+  "coordinates_approximate": true,
+  "community_connection": "the village of Farnsfield where the crash occurred"
 }

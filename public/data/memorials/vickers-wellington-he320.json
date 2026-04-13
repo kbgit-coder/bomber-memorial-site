@@ -1,27 +1,51 @@
 {
   "id": "vickers-wellington-he320",
   "title": "Vickers Wellington HE320",
-  "location_name": "",
-  "county": "",
+  "location_name": "Ford, Aylesbury Vale",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HE320",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Royal Air Force / In Memory of / Sergeant VICTOR GEORGE BAILEY. / 1585910, Royal Air Force Volunteer Reserve. / Wireless Operator, aged 20 yrs. / of Rainham, Essex. / And / Sergeant LOUIS GROVER MARTIN. / R/182617 Royal Canadian Air Force. / Rear Gunner, aged 22 yrs. / of Big River, Saskatchewan,/ Canada. / Who died when their Wellington Bomber / Crashed in Ford / On 9th. January 1944.",
-  "inscription": "",
+  "crash_date": "1944-01-09",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wooden stand with plaque on upper surface. At the top is the emblem of the Royal Air Force and at the base is the emblem of Wellington Bomber.",
+  "inscription": "Royal Air Force / In Memory of / Sergeant VICTOR GEORGE BAILEY. / 1585910, Royal Air Force Volunteer Reserve. / Wireless Operator, aged 20 yrs. / of Rainham, Essex. / And / Sergeant LOUIS GROVER MARTIN. / R/182617 Royal Canadian Air Force. / Rear Gunner, aged 22 yrs. / of Big River, Saskatchewan,/ Canada. / Who died when their Wellington Bomber / Crashed in Ford / On 9th. January 1944.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/55304"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/55304",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "VICTOR GEORGE BAILEY",
+      "fate": "Unknown"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "LOUIS GROVER MARTIN",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.777698518154,
-  "longitude": -0.873987078667
+  "longitude": -0.873987078667,
+  "grid_ref": "SP 77785",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/67/759/large_55304a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/67/758/large_55304.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": "of Rainham, Essex. / of Big River, Saskatchewan,/ Canada"
 }

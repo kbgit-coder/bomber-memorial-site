@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-he702",
   "title": "Vickers Wellington HE702",
-  "location_name": "",
-  "county": "",
+  "location_name": "Fillingham, West Lindsey",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HE702",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "199 Squadron",
+  "crash_date": "1943-05-13",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A ground supported, portrait orientated metal plaque. Painted white and with a thin black lined border surrounding, at top the unit badge of 199 Squadron Royal Air Force, and beneath, written in Dutch the dedication and names and details of the crew.",
+  "inscription": "[199 Squadron badge]/ Ter nagedachtenis aan de bemanning van de Vickers-Wellington HE-702/ 199 Squadron RAF/ (Names)/ Omgekomen in de vroege morgen van 13 mei 1943/ yijdens een ombardementsvlucht van Ingham naar Duisburg/ \"Into the dark night they flew and on to the glorius morn\"/ \u2018Translated as\u2019 In memory of the crew of the Vickers-Wellington HE-702/ 199 Squadron RAF/ (Names)/ Died in the early morning of May 13, 1943/ during a bombing flight from Ingham to Duisburg/ \"Into the dark night they flew and on to the glorius morn\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108561"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108561",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.354182,
-  "longitude": -0.56391567
+  "longitude": -0.56391567,
+  "grid_ref": "SK 95683",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "custodian": "Polish Bomber Squadrons Centre RAF Ingham",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/832/large_199_squadron_vickers_wellington_he702_plaque_in_context.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/833/large_199_squadron_vickers_wellington_he702_plaque.jpg"
+  ],
+  "community_connection": "In memory of the crew"
 }

@@ -1,27 +1,39 @@
 {
   "id": "vautour-mitchell-crash-site",
   "title": "Vautour - Mitchell crash site",
-  "location_name": "",
-  "county": "",
+  "location_name": "Little Hallingbury, Uttlesford",
+  "county": "Essex",
   "country": "United Kingdom",
-  "aircraft_type": "",
-  "serial_number": "",
-  "squadron": "",
-  "crash_date": "",
+  "aircraft_type": "DE HAVILLAND MOSQUITO NFXIII",
+  "serial_number": "NFXIII-MM573",
+  "squadron": "409 (RCAF) Squadron",
+  "crash_date": "1944-06-29",
   "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "memorial_details": "description: This record comprises all information held by IWM’s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.\n\nThis memorial is dedicated to the memory of the crew members and their connection to the community.",
+  "inscription": "DURING THE EARLY HOURS OF 29TH JUNE 1944/ DE HAVILLAND MOSQUITO NFXIII-MM573 OF 409 (RCAF) SQUADRON / CRASHED NEAR THIS SPOT WHILE RETURNING TO/ RAF HUNSDON AIRFIELD FROM A COMBAT PATROL OF THE/ NORMANDY BEACHHEAD FOLLOWING THE D DAY INVASION OF FRANCE/ WHILE FOLLOWING INSTRUCTIONS TO LAND IN VERY BAD WEATHER/ BOTH CANADIANS LOST THEIR LIVES / THIS PALUQE IS DEDICATED TO THE MEMORY OF/ PILOT OFFICER A.G. 'GERRY' VAUTOUR/ &/ WARRANT OFFICER W.M. 'WALLY' MITCHELL/ LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/107994"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/107994",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.83875658647,
-  "longitude": 0.176837040223
+  "longitude": 0.176837040223,
+  "grid_ref": "TL 50072",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/171/928/large_107994a.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": ""
 }

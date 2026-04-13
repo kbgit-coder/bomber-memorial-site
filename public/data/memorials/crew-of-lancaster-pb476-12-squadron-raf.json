@@ -1,27 +1,38 @@
 {
   "id": "crew-of-lancaster-pb476-12-squadron-raf",
   "title": "Crew Of Lancaster PB476, 12 Squadron RAF",
-  "location_name": "",
-  "county": "",
+  "location_name": "Ulceby Cross, East Lindsey",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB476",
   "squadron": "12 Squadron",
   "crash_date": "1945-03-04",
-  "memorial_type": "",
-  "memorial_details": "description: In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH &quot;Y&quot;) of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/\r\nthe 50th anniversary of the crash,/ to commemorate  the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Small granite stone of remembrance with squadron badge at top\n\nThis memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died.",
+  "inscription": "In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/20271"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/20271",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.238317227385,
-  "longitude": 0.105819746192
+  "longitude": 0.105819746192,
+  "grid_ref": "TF 40629",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg"
+  ],
+  "community_connection": ""
 }

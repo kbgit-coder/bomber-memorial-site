@@ -59,32 +59,42 @@ export default function MemorialPage({ params }: Props) {
   }
 
   // Convert ALL CAPS inscription text to readable title case
+  // Processes per-sentence so mixed-case inscriptions (part ALL CAPS, part normal) are handled correctly
   function smartTitleCase(text: string): string {
-    // Only convert if text is mostly uppercase (>70%)
-    const letters = text.replace(/[^a-zA-Z]/g, '');
-    if (!letters || (letters.replace(/[A-Z]/g, '').length / letters.length) > 0.4) return text;
-
     const lowercase = new Set(['a','an','the','and','but','or','for','nor','of','to','in','on','at','by','with','from','as','into','upon','per','via']);
-    const keepUpper = new Set(['RAF','RCAF','RAAF','RNZAF','DFC','DFM','DSO','OBE','MBE','CGM','AFC','USA','USAAF','VR','OTU','HCU','LFS','WW2','WWII','SQN','SQDN']);
+    const keepUpper = new Set(['RAF','RCAF','RAAF','RNZAF','DFC','DFM','DSO','OBE','MBE','CGM','AFC','USA','USAAF','VR','OTU','HCU','LFS','WW2','WWII','SQN','SQDN','AMDG']);
 
-    const words = text.split(/\s+/);
-    return words.map((word, i) => {
-      const stripped = word.replace(/[^a-zA-Z]/g, '').toUpperCase();
-      if (keepUpper.has(stripped)) return word;
-      if (/^[IVXLCDM]+$/.test(stripped) && stripped.length <= 5 && stripped.length > 0) return word;
-      if (/\d/.test(word)) return word.replace(/(\d+)(ST|ND|RD|TH)/g, (_, n, s) => n + s.toLowerCase());
-      if (/^\[/.test(word)) return word;
-      const lower = word.toLowerCase();
-      if (i === 0) return word.charAt(0).toUpperCase() + lower.slice(1);
-      if (lowercase.has(lower)) return lower;
-      return word.charAt(0).toUpperCase() + lower.slice(1);
-    }).join(' ');
+    function convertSegment(segment: string): string {
+      const letters = segment.replace(/[^a-zA-Z]/g, '');
+      // Only convert segments that are mostly uppercase (>60% uppercase letters)
+      if (!letters || letters.length < 4) return segment;
+      const upperCount = letters.replace(/[a-z]/g, '').length;
+      if (upperCount / letters.length < 0.6) return segment; // Already mixed/lowercase — leave it
+
+      const words = segment.split(/(\s+)/); // preserve whitespace
+      return words.map((word, i) => {
+        if (/^\s+$/.test(word)) return word; // whitespace
+        const stripped = word.replace(/[^a-zA-Z]/g, '').toUpperCase();
+        if (keepUpper.has(stripped)) return word;
+        if (/^[IVXLCDM]+$/.test(stripped) && stripped.length <= 5 && stripped.length > 0) return word;
+        if (/\d/.test(word)) return word.replace(/(\d+)(ST|ND|RD|TH)/g, (_, n, s) => n + s.toLowerCase());
+        if (/^\[/.test(word)) return word;
+        const lower = word.toLowerCase();
+        if (i === 0) return word.charAt(0).toUpperCase() + lower.slice(1);
+        if (lowercase.has(lower)) return lower;
+        return word.charAt(0).toUpperCase() + lower.slice(1);
+      }).join('');
+    }
+
+    // Split on sentence boundaries (period + space, or where case transitions from ALL CAPS to mixed)
+    const segments = text.split(/(?<=\.\s)/);
+    return segments.map(s => convertSegment(s)).join('');
   }
 
   const qualityColour = {
-    Complete: { bg: "#2d5016", text: "#a8d48c" },
-    Partial: { bg: "#5a4a1e", text: "#d4c98c" },
-    Stub: { bg: "#5a3a1e", text: "#d4a88c" },
+    Good: { bg: "#2d5016", text: "#a8d48c", label: "GOOD RECORD" },
+    Partial: { bg: "#5a4a1e", text: "#d4c98c", label: "PARTIAL RECORD" },
+    Light: { bg: "#5a3a1e", text: "#d4a88c", label: "LIGHT RECORD" },
   };
   const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Partial"];
 
@@ -420,10 +430,10 @@ export default function MemorialPage({ params }: Props) {
                     }}>
                       {smartTitleCase(displayText
                         .replace(/\n+/g, " ")
+                        .replace(/\s*\/\s*/g, " ")
                         .replace(/\s+/g, " ")
                         .trim())
-                        .replace(/\(Names?\)/gi, "[crew names listed on memorial]")
-                        .replace(/\(name\)/gi, "[name listed on memorial]")
+                        .replace(/\(NAMES?\)/gi, "[crew names listed on memorial]")
                         .replace(/\(Halfpint\)/gi, "")
                         .replace(/\(Sic\)/gi, "[sic]")
                         .replace(/\(Hons\)/gi, "(Hons)")}

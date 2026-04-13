@@ -1,0 +1,51 @@
+{
+  "id": "florennes-raf-memorial",
+  "title": "Florennes RAF Memorial",
+  "location_name": "Florennes, Namur",
+  "country": "Belgium",
+  "memorial_type": "Memorial",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": 50.24,
+  "longitude": 4.65,
+  "external_narratives": [
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/85015/Florennes-Air-Base.htm",
+      "summary": "Florennes Air Base was used by the Luftwaffe from 1940 to September 1944, operating night fighters that intercepted RAF bombers. The base hosted units including Ju 88 and Bf 110 night fighters and Fw 190 day fighters.",
+      "key_details": "Florennes was strategically located on routes used by RAF bombers returning to the UK. Several RAF crew are buried at Florennes Communal Cemetery. The base is still active as a Belgian Air Force base with a Spitfire Museum.",
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "Explore Florennes RAF Memorial's historical significance of Luftwaffe operations during WWII."
+    },
+    {
+      "source_site": "Liberation Route Europe",
+      "original_url": "https://www.liberationroute.com/pois/1871/florennes-airbase-spitfire-museum",
+      "summary": "Entry for Florennes Airbase and its Spitfire Museum on the Liberation Route Europe heritage trail. The museum commemorates the Allied air forces' connection to the base.",
+      "key_details": "Spitfire Museum accessible by prior appointment. Part of the Liberation Route Europe network of heritage sites.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Florennes RAF Memorial's tribute to Allied air forces at Liberation Route Europe."
+    }
+  ],
+  "what3words": "scavenger.clamping.bluntest",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "narrative": "Florennes Airbase & Spitfire Museum Florennes Airbase & Spitfire Museum Florennes Air Base was captured by the German Army in 1940 and then used by the Luftwaffe (German Air Force) until September 1944. It is still an active airbase of the Belgium Air Force, and there is a Spitfire Museum that can be accessed via prior appointment. With the German invasion of the low countries and into Belgium in 1940, the airbase at Florennes fell into the hands of the Luftwaffe. From here they operated night fighter missions. The Allies perceived this area of Belgium as weakly defended and it was part of the route used by Allied bombing crews returning to the UK after missions. In early 1943, the Luftwaffe night fighters increased and operated from here. During daytime hours they operated fighter aircraft to intercept Allied bombing raids. In September 1944 the US Army liberated the area and retook the airbase. Very quickly, the United States Army Air Force (USAAF) established themselves and operations from here, including the 430th Fighter Squadron and the 422nd Night Fighter Squadron. Surprisingly, during the German winter offensive in the Ardennes in 1944 to 45, the airfield was not a target for the Luftwaffe. Today, the airbase is not directly accessible to the public and should not be entered. The museum contains a Second World War Spitfire that was used by the Belgium Air Force. The large hangar houses a mix of aircraft from propellor through to jet aircraft. There is a small exhibit area of recovered parts from crashed Second World War aircraft. Rue de Chaumont, 5620 Florennes",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
+}

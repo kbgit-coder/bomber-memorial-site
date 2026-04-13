@@ -1,27 +1,38 @@
 {
   "id": "crew-of-lancaster-pb304",
   "title": "Crew of Lancaster PB304",
-  "location_name": "",
-  "county": "",
+  "location_name": "Salford",
+  "county": "Greater Manchester",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB304",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Shield-shaped wooden board with the arms of the RAF at top centre, all lettering in gold, and the RAF wings at bottom centre.",
+  "inscription": "THE CREW OF A LANCASTER/PB304/[names]",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/75876"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/75876",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.514854667141,
-  "longitude": -2.261320311538
+  "longitude": -2.261320311538,
+  "grid_ref": "SD 82768",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "St Thomas's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/124/436/large_75875_r.jpg"
+  ]
 }

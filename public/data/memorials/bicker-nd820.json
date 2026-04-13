@@ -35,7 +35,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Flying a training operation from Downham Market, the crew of Lancaster ND820 never reached enemy skies. A suspected autopilot malfunction caused the brand-new aircraft \u2014 with only six hours of airtime \u2014 to enter a diving turn at 8,000 feet, catch fire, and crash near Bicker, Lincolnshire on 10 April 1944. Flight Sergeant Joseph Bernard Bannan, aged 24, was among the seven crew members killed. The youngest aboard, Sergeant John William Nixon, was just 19 years old. Assigned to 635 Squadron, the Lancaster was lost before flying a single operational sortie.",
   "crew": [
     {
@@ -43,79 +43,79 @@
       "name": "Joseph Bernard Bannan",
       "age": 24,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster ND820 crashed in flames at Bicker. Remains unrecovered due to intensity of fire; commemorated on the Runnymede Memorial.",
       "cwgc_verified": true,
-      "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type."
+      "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type.",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Douglas James Farrant",
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Anthony Ivor Hunter",
       "age": 28,
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "W/O",
       "name": "Roland Thornton Lord",
       "age": 25,
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Reuben Horace Malthouse",
       "age": 23,
       "role": "Wireless Operator",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John William Nixon",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "At 19, the youngest crew member. Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Thomas Ferguson Wilson",
       "age": 26,
       "role": "Navigator",
-      "nationality": "Canadian",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "fate": "Killed",
       "fate_detail": "Bailed out as the Lancaster went down but was already dead or dying when his parachute brought him to earth. The only crew member whose body was recovered. Buried at Stonefall Cemetery, Harrogate.",
       "cwgc_verified": true,
       "bio": "F/O Wilson was 26 years old, from Lucknow, Ontario, Canada. For decades his family had no idea that the village of Bicker held annual commemoration ceremonies in his honour. CBC News recently connected the family with the Bicker community in a deeply emotional reunion.",
-      "hometown": "Lucknow, Ontario, Canada"
+      "hometown": "Lucknow, Ontario, Canada",
+      "nationality": "Canadian"
     },
     {
       "name": "J. B. Barran",

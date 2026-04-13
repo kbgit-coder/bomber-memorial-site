@@ -1,27 +1,35 @@
 {
   "id": "hampden-p1294",
   "title": "Hampden P1294",
-  "location_name": "",
-  "county": "",
+  "location_name": "Llynclys, Oswestry",
+  "county": "Shropshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "P1294",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1941-10-30",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A wooden plaque in a tree remembers the crew of 14 OTU Hampden P1294 which crashed in the adjacent field. Board is painted black with gilt lettering.",
+  "inscription": "IN HONOUR OF/ (Names)/ WHO BRAVELY FOUGHT TO LAND BURNING &/ BADLY DAMAGED HAMPDEN BOMBER No P1294/ WITHOUT INJURY TO OTHERS./ THIS TREE ADDING ANOTHER OBSTACLE TO/ THE FATAL CRASH IN FIELD OPPOSITE/ KILLING ALL CREW./ OCTOBER 30TH 1941",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/105118"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/105118",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.810478599355,
-  "longitude": -3.070756788404
+  "longitude": -3.070756788404,
+  "grid_ref": "SJ 27923",
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

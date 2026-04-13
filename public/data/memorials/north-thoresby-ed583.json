@@ -20,16 +20,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On 4 October 1943, Lancaster ED583 of 100 Squadron departed RAF Waltham on a training operation and broke apart in the air due to structural failure, coming down near North Thoresby, Lincolnshire. The aircraft was piloted by Flying Officer Thomas H. Morgan, DFC, an American aged 23. All eight men aboard were killed, among them Sergeant John Hill Rogers, air bomber, who was just 19 years old. The crew also included Warrant Officer John Thomas Goozee, Sergeant Ralph Frederick Worsey, Sergeant Charles Alexander Green, Sergeant Walter Edward James Giles, Sergeant John Alexander Baker, and Sergeant William Frederick Bristow. There were no survivors.",
   "crew": [
     {
       "rank": "F/O",
       "name": "Thomas H. Morgan",
-      "service_number": "T-190798 USAAF",
       "age": 23,
       "role": "Pilot",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
@@ -37,103 +35,104 @@
       "bio": "American exchange pilot serving with the USAAF, aged 23. Was gaining operational experience with RAF Bomber Command -- a reminder that Americans served and died alongside their British allies in Bomber Command aircraft.",
       "decorations": [
         "DFC"
-      ]
+      ],
+      "service_number": "T-190798 USAAF"
     },
     {
       "rank": "W/O",
       "name": "John Thomas Goozee",
-      "service_number": "552903 RAFVR",
       "age": 22,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Islington Cemetery & Crematorium",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft disintegrated in mid-air.",
       "bio": "Warrant Officer serving with the RAFVR, aged 22. Second pilot aboard the aircraft.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "552903 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Ralph Frederick Worsey",
-      "service_number": "1392269 RAFVR",
       "age": 22,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Woolwich Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft broke apart. One of three pilots aboard for the test flight.",
       "bio": "Sergeant serving with the RAFVR, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1392269 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Charles Alexander Green",
-      "service_number": "1622553 RAFVR",
       "age": 20,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Hull Eastern Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft disintegrated.",
       "bio": "Flight engineer serving with the RAFVR, aged 20.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1622553 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Walter Edward James Giles",
-      "service_number": "1194020 RAFVR",
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Oxford (Rose Hill) Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft broke apart.",
       "bio": "Flight engineer serving with the RAFVR.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1194020 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Alexander Baker",
-      "service_number": "1395957 RAF",
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Lambeth (Tooting) Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft disintegrated.",
       "bio": "Navigator serving with the RAF.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1395957 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Hill Rogers",
-      "service_number": "1545048 RAFVR",
       "age": 19,
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Upton (Holy Ascension) Churchyard",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft broke apart. At 19, the youngest crew member.",
       "bio": "Air bomber serving with the RAFVR, just 19 years old -- the youngest aboard. Born 1924.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1545048 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "William Frederick Bristow",
-      "service_number": "1268417 RAFVR",
       "age": 22,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Camberwell New Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the aircraft disintegrated over the village.",
       "bio": "Wireless operator/air gunner serving with the RAFVR, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1268417 RAFVR",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Aircraft broke up in the air (structural failure)",

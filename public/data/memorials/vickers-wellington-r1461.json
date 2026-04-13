@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-r1461",
   "title": "Vickers Wellington R1461",
-  "location_name": "",
-  "county": "",
+  "location_name": "Llansilin, Glyndwr",
+  "county": "Clwyd",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "R1461",
   "squadron": "",
   "crash_date": "1943-01-26",
-  "memorial_type": "",
-  "memorial_details": "description: BWLCH-Y-RHIW FARMHOUSE/ At 0146 Hrs on 26th January 1943, a Wellington Aircraft, R1461, on a training exercise from/ R.A.F. Harwell, Berkshire, crashed on this house/ causing the deaths of/ EDWIN WILLIAMS, his wife ANNIE JANE/ and the entire crew of the aircraft/ (NAMES)",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall-mounted, slate tablet bearing incised inscription in white lettering: the commemoration is above the names which are in a single column.",
+  "inscription": "BWLCH-Y-RHIW FARMHOUSE/ At 0146 Hrs on 26th January 1943, a Wellington Aircraft, R1461, on a training exercise from/ R.A.F. Harwell, Berkshire, crashed on this house/ causing the deaths of/ EDWIN WILLIAMS, his wife ANNIE JANE/ and the entire crew of the aircraft/ (NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/31139"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/31139",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.860505638328,
-  "longitude": -3.149315711329
+  "longitude": -3.149315711329,
+  "grid_ref": "SJ 22701",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/65/296/large_31139.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/553/large_31139.jpg"
+  ],
+  "community_connection": "{'names': ['EDWIN WILLIAMS', 'his wife ANNIE JANE'], 'relationship_to_community': None}",
+  "last_validated": "2026-04-13"
 }

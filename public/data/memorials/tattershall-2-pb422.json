@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.09,
   "longitude": -0.215,
   "maintainer": {
@@ -124,35 +124,35 @@
       "rank": "Flying Officer",
       "fate": "Killed",
       "role": "Air Bomber",
-      "nationality": "British",
-      "burial_location": "Skellingthorpe (St. Lawrence) Churchyard, United Kingdom"
+      "burial_location": "Skellingthorpe (St. Lawrence) Churchyard, United Kingdom",
+      "nationality": "British"
     },
     {
       "name": "Jack EASTWOOD",
       "rank": "Flight Sergeant",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "nationality": "British",
-      "burial_location": "Yeadon Cemetery, United Kingdom"
+      "burial_location": "Yeadon Cemetery, United Kingdom",
+      "nationality": "British"
     },
     {
       "name": "Alfred James MOLYNEUX",
       "rank": "Flight Sergeant",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "burial_location": "Liverpool (Allerton) Cemetery, United Kingdom"
+      "burial_location": "Liverpool (Allerton) Cemetery, United Kingdom",
+      "nationality": "British"
     },
     {
       "name": "Ronald William WRIGHT",
       "rank": "Flying Officer",
       "fate": "Killed",
       "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "Cardington (St. Mary) Church Cemetery, Cardington"
+      "burial_location": "Cardington (St. Mary) Church Cemetery, Cardington",
+      "nationality": "British"
     }
   ],
-  "memorial_details": "The text describes a memorial plaque dedicated to the crews of 97 Squadron Lancaster’s W4175 OF-U and PB422 OF-P, located at Butt's Bridge on the A153 Tattershall LN4 4RA England.\n\nThe plaque is attached to a building or structure, made of metal and timber materials with inscribed lettering.",
+  "memorial_details": "The text describes a memorial plaque dedicated to the crews of 97 Squadron Lancaster\u2019s W4175 OF-U and PB422 OF-P, located at Butt's Bridge on the A153 Tattershall LN4 4RA England.\n\nThe plaque is attached to a building or structure, made of metal and timber materials with inscribed lettering.",
   "crash_category": "mechanical",
   "narrative_quality_score": 4
 }

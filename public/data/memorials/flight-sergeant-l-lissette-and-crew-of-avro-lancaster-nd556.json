@@ -1,27 +1,48 @@
 {
   "id": "flight-sergeant-l-lissette-and-crew-of-avro-lancaster-nd556",
-  "title": "Flight Sergeant L Lissette and crew of Avro Lancaster ND556",
-  "location_name": "",
-  "county": "",
+  "title": "Avro Lancaster ND556",
+  "location_name": "East Kirkby, East Lindsey",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "ND556",
   "squadron": "207 Squadron",
   "crash_date": "1944-05-04",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Avenue / Tree or grove",
+  "memorial_details": "SMALL TREE WITH ASSOCIATED PLAQUE",
   "inscription": "IN MEMORY OF/ THIS TREE COMMEMORATES/ F/SGT L LISSETTE R.N.Z.A.F. PILOT/ AND THE MEMBERS OF THE CREW/ OF LANCASTER EM-F 207 SQN SPILSBY/ LOST MAILLEY LE CAMP 3/4 MAY 1944",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/20356"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/20356",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flight Sergeant",
+      "name": "L Lissette",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.138534013859,
-  "longitude": -0.001874719705
+  "longitude": -0.001874719705,
+  "grid_ref": "TF 33758",
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/3/527/large_ukniwm_20356_ccharles_anderson2_2013.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/69/828/large_f_sgt_lissette_crew_lanc_em_f_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/69/829/large_f_sgt_lissette_crew_lanc_em_f_b.jpg"
+  ],
+  "original_title": "Flight Sergeant L Lissette and crew of Avro Lancaster ND556",
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

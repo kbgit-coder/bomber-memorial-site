@@ -1,27 +1,41 @@
 {
   "id": "vickers-wellington-nz-n",
   "title": "Vickers Wellington NZ-N",
-  "location_name": "",
-  "county": "",
+  "location_name": "Netherfield, Rother",
+  "county": "East Sussex",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
-  "squadron": "",
+  "squadron": "304 POLISH SQUADRON",
   "crash_date": "1941-05-28",
-  "memorial_type": "",
-  "memorial_details": "description: HERE ON 27/28 MAY 1941 / A WELLINGTON BOMBER / NZ-N OF 304 POLISH SQUADRON / CRASHED AFTER BOMBING THE FRENCH / PORT OF BOLOGNE WHERE IT HAD BEEN / HIT AND BADLY DAMAGED / CREW WHO DIED / (3 NAMES) / (1 NAME) / DROWNED IN THE LA MANCHE CANAL / CREW WHO SURVIVED / (2 NAMES) / BALED OUT",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Concrete foundation supporting a square-headed blue-brick wall with an engraved bronze plaque on front face. Crest at top centre of plaque.",
   "inscription": "HERE ON 27/28 MAY 1941 / A WELLINGTON BOMBER / NZ-N OF 304 POLISH SQUADRON / CRASHED AFTER BOMBING THE FRENCH / PORT OF BOLOGNE WHERE IT HAD BEEN / HIT AND BADLY DAMAGED / CREW WHO DIED / (3 NAMES) / (1 NAME) / DROWNED IN THE LA MANCHE CANAL / CREW WHO SURVIVED / (2 NAMES) / BALED OUT",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/40191"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/40191",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.944996789242,
-  "longitude": 0.416525602341
+  "longitude": 0.416525602341,
+  "grid_ref": "TQ 69833",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 4,
+  "custodian": "Stanislaw Jozefiak; Polish Air Force Association Trust",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/178/277/large_108829b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/175/large_3510065_74d8128a_1024x1024a_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/71/803/large_3510065_74d8128a_1024x1024_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/178/276/large_108829a.jpg"
+  ]
 }

@@ -30,15 +30,13 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On a training flight from RAF Winthorpe on 14 January 1945, Stirling EH988 of 1661 Heavy Conversion Unit came down near Annesley, Nottinghamshire, approximately fifteen minutes after takeoff. A fire broke out in one of the starboard engines, and the aircraft entered cloud in a steep diving turn before crashing. All five men aboard were killed: the pilot, Squadron Leader Stephen Legh Cockbain DFC, aged 28, along with Flight Sergeants T.A. Ball and E.C. Barton, and Sergeants K. Harris and J. Littlemore. Cockbain, whose decorations reflected prior operational service, was the son of Thomas Herbert and Edith Clara Byng Cockbain of Verwood, Dorset. The youngest of the crew, Sergeant Littlemore, was nineteen years old.",
   "crew": [
     {
       "rank": "S/Ldr",
       "name": "Stephen Legh Cockbain",
-      "service_number": "67707",
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Oxford (Botley) Cemetery, Plot H/1, Grave 249",
       "fate": "Killed",
       "fate_detail": "Killed when Stirling EH988 crashed at Home Farm, Annesley Park estate. Buried at Oxford (Botley) Cemetery.",
@@ -48,55 +46,57 @@
       "age": 28,
       "decorations": [
         "DFC"
-      ]
+      ],
+      "service_number": "67707",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "T.A. Ball",
-      "service_number": "1874899",
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
       "cwgc_verified": false,
-      "age": 20
+      "age": 20,
+      "service_number": "1874899",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "E.C. Barton",
-      "service_number": "1587047",
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
       "cwgc_verified": false,
-      "age": 21
+      "age": 21,
+      "service_number": "1587047",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "K. Harris",
-      "service_number": "1651299",
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
       "cwgc_verified": false,
-      "age": 22
+      "age": 22,
+      "service_number": "1651299",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "J. Littlemore",
-      "service_number": "2204311",
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed in the crash of Stirling EH988 at Annesley on 14 January 1945.",
       "cwgc_verified": false,
-      "age": 19
+      "age": 19,
+      "service_number": "2204311",
+      "nationality": "British"
     },
     {
       "name": "S L Cockbain DFC",

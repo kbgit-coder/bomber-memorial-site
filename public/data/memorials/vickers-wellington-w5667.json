@@ -1,27 +1,38 @@
 {
   "id": "vickers-wellington-w5667",
   "title": "Vickers Wellington W5667",
-  "location_name": "",
-  "county": "",
+  "location_name": "Old Leake, Boston",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "W5667",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1943-02-06",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wooden board with cream painted dedicatory inscription at the top with the names below.",
+  "inscription": "IN MEMORY OF THE CREW OF WELLINGTON/ BOMBER W5667 OF 14 OTU COTTESMORE/ WHO LOST THEIR LIVES AT FELLANDSGATE,/ COMMONSIDE, OLD LEAKE ON SATURDAY/ 6th FEBRUARY 1943/ (Names) / RIP",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/59210"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/59210",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.031317,
-  "longitude": 0.097361505
+  "longitude": 0.097361505,
+  "grid_ref": "TF 40746",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/60/552/large_59210.jpg"
+  ],
+  "community_connection": "Commonside, Old Leake"
 }

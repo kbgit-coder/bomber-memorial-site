@@ -1,27 +1,42 @@
 {
   "id": "handley-page-halifax-lw478",
   "title": "Handley Page Halifax LW478",
-  "location_name": "",
-  "county": "",
+  "location_name": "Silverstone, Towcester, South Northamptonshire",
+  "county": "Northamptonshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LW478",
-  "squadron": "",
+  "squadron": "578 / Squadron Royal Air Force",
   "crash_date": "1944-03-30",
-  "memorial_type": "",
-  "memorial_details": "description: At 2203 hours on 30 March 1944 a Halifax Mk B III bomber of 578 / Squadron Royal Air Force took off from Burn in North Yorkshire to / take part in the disastrous raid on Nuremberg during which Bomber / Command suffered the greatest loss in a single operation, 96 aircraft / destroyed, 545 airmen killed and 152 being taken as prisoners of war. / \r\nHaving successfully completed the mission LK-S was forced on the / return to attempt an emergency landing at RAF Silverstone.  Making / the run in, the machine struck the high masts of the Assisted Safe / Landing Equipment here and crashed into the adjoining fields. /  Miraculously, the Mid Upper Gunner survived but those killed were / (7 Names with roles) / MAY THEY REST PEACEFULLY IN THE ARMS OF THEIR GOD",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Stainless steel plaque mounted on flank of Ordnance Survey triangulation pillar. Squadron badge is above engraved lettering.\n\nThe memorial is located in North Yorkshire, indicating a local connection to the community affected by the disaster.",
+  "inscription": "At 2203 hours on 30 March 1944 a Halifax Mk B III bomber of 578 / Squadron Royal Air Force took off from Burn in North Yorkshire to / take part in the disastrous raid on Nuremberg during which Bomber / Command suffered the greatest loss in a single operation, 96 aircraft / destroyed, 545 airmen killed and 152 being taken as prisoners of war. / Having successfully completed the mission LK-S was forced on the / return to attempt an emergency landing at RAF Silverstone. Making / the run in, the machine struck the high masts of the Assisted Safe / Landing Equipment here and crashed into the adjoining fields. / Miraculously, the Mid Upper Gunner survived but those killed were / (7 Names with roles) / MAY THEY REST PEACEFULLY IN THE ARMS OF THEIR GOD",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/42080"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/42080",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.076235437378,
-  "longitude": -1.022775868002
+  "longitude": -1.022775868002,
+  "grid_ref": "SP 67070",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "Family of the Pilot.",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/45/84/large_42080_context_in_2018.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/45/275/large_42080_top.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/45/276/large_42080_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/45/85/large_42080_close_up_1.jpg"
+  ],
+  "community_connection": ""
 }

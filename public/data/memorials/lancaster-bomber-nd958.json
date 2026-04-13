@@ -1,27 +1,39 @@
 {
   "id": "lancaster-bomber-nd958",
   "title": "Lancaster Bomber ND958",
-  "location_name": "",
-  "county": "",
+  "location_name": "Barnham, St Edmundsbury",
+  "county": "Suffolk",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "ND958",
-  "squadron": "",
+  "squadron": "3 LFS",
   "crash_date": "1945-01-29",
-  "memorial_type": "",
-  "memorial_details": "description: about 200 yards from the road on the edge of the tree line.\r\nIt is about one mile south of the junction of the A134 and Mill Lane Barnham. There is a group of six houses set back on the left about half way between Mill Lane and the location.\r\nThe memorial can be seen from the road but only as a white item against the green of the trees.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A brass plaque on a white triangular shaped Celtic cross.",
   "inscription": "RAF CREST BESIDE THE COMMEMORATION.\r\nIN MEMEMRY OF / THE CREW WHO DIED WHEN / RAF LANCASTER ND 958 OF 3 LFS FELTWELL / CRASHED ON THIS SPOT / MONDAY 29TH JANUARY 1945 / NAMES / LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108602"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108602",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.361355912533,
-  "longitude": 0.741402342328
+  "longitude": 0.741402342328,
+  "grid_ref": "TL 86788",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/176/99/large_barnham__lancaster_nd958_plaque_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/176/98/large_barnham_lancaster_nd958_full.jpg"
+  ],
+  "community_connection": "names / IN MEMEMRY OF THE CREW WHO DIED"
 }

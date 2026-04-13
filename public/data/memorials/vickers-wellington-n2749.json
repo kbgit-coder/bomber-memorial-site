@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-n2749",
   "title": "Vickers Wellington N2749",
-  "location_name": "",
-  "county": "",
+  "location_name": "Milford Haven, Preseli Pembrokeshire",
+  "county": "Dyfed",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "N2749",
-  "squadron": "",
+  "squadron": "27 OTU / RAF Lichfield",
   "crash_date": "1942-07-19",
-  "memorial_type": "",
-  "memorial_details": "description: THIS PLAQUE OVERLOOKS THE SITE / WHERE WELLINGTON IC N2749, OF 27 OTU / RAF LICHFIELD, CRASHED IN THE EARLY / HOURS OF 19TH JULY 1942. THERE WERE / NO SURVIVORS. / CREW LIST (Names)\r\nMEMORIAL DONATED BY / THE ROYAL BRITISH LEGION / MILFORD HAVEN BRANCH / ERECTED BY PRESELI DISTRICT COUNCIL / FOR THE PEMBROKESHIRE AVIATION GROUP / JULY 1988 / LEST WE FORGET",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular plaque situated on a brick box.",
+  "inscription": "THIS PLAQUE OVERLOOKS THE SITE / WHERE WELLINGTON IC N2749, OF 27 OTU / RAF LICHFIELD, CRASHED IN THE EARLY / HOURS OF 19TH JULY 1942. THERE WERE / NO SURVIVORS. / CREW LIST (Names) MEMORIAL DONATED BY / THE ROYAL BRITISH LEGION / MILFORD HAVEN BRANCH / ERECTED BY PRESELI DISTRICT COUNCIL / FOR THE PEMBROKESHIRE AVIATION GROUP / JULY 1988 / LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/6964"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/6964",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.712352076352,
-  "longitude": -5.035465513313
+  "longitude": -5.035465513313,
+  "grid_ref": "SM 90393",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/2/847/large_ukniwm_6964_cmike_berrell_2012_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/2/848/large_ukniwm_6964_cmike_berrell_2012_b.jpg"
+  ],
+  "community_connection": "community_connection: The Royal British Legion Milford Haven Branch erected this memorial for the Pembrokeshire Aviation Group."
 }

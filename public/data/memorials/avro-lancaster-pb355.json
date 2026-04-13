@@ -1,27 +1,47 @@
 {
   "id": "avro-lancaster-pb355",
   "title": "Avro Lancaster PB355",
-  "location_name": "",
-  "county": "",
+  "location_name": "Durrington, Worthing",
+  "county": "West Sussex",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB355",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "memorial_type": "Street",
+  "memorial_details": "The street names of a housing development built in 1997 commemorate Lancaster PB355 EA-B that crashed on the beach to the west of Worthing Pier (Also see WMA 71013).",
+  "inscription": "Nine road signs - Squadron Drive - Fulbeck Avenue - Bourne Close - Callon Drive - Essenhigh Drive - Moore Close - Rees Close - Thompson Close - Varey Road",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/72226"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/72226",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.830715019477,
-  "longitude": -0.428359612147
+  "longitude": -0.428359612147,
+  "grid_ref": "TQ 10778",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/21/842/large_squadron_drive_csusan_featherstone_2017_03_02_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/839/large_fulbeck_avenue_csusan_featherstone_2017_03_02.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/836/large_bourne_close_csusan_featherstone_2017_03_02.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/837/large_callon_close_csusan_featherstone_2017_03_02_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/841/large_rees_close_csusan_featherstone_2017_03_02.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/843/large_thompson_close_csusan_featherstone_2017_03_02_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/840/large_moore_close_csusan_featherstone_2017_03_02.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/844/large_varey_road_csusan_featherstone_2017_03_02_a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/21/838/large_essenhigh_drive_csusan_featherstone_2017_03_02.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

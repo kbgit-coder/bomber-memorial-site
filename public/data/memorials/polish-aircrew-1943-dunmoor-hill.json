@@ -1,27 +1,40 @@
 {
   "id": "polish-aircrew-1943-dunmoor-hill",
   "title": "Polish Aircrew 1943 Dunmoor Hill",
-  "location_name": "",
-  "county": "",
+  "location_name": "Ingram, Alnwick",
+  "county": "Northumberland",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
-  "serial_number": "",
-  "squadron": "",
+  "serial_number": "R1535",
+  "squadron": "301 POMERANIAN SQN.",
   "crash_date": "1943-01-09",
-  "memorial_type": "",
-  "memorial_details": "description: Blue-painted bronze plaque with a raised white border mounted on a wooden backboard, dedicated to the crew of a Wellington Bomber of 301 Pomeranian Squadron which crashed on Dunmoor Hill on 9th January 1943.  The dedication is in raised white Roman capitals on a pecked background.  Plaque and backboard are fixed at 45 degrees on top of a 1 metre post, which is supported at the base by a cairn of loose rocks.\nThis death is also recorded on the memorial to WW2 airmen killed on the Cheviot Hills (34297).",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Blue-painted bronze plaque with a raised white border mounted on a wooden backboard, dedicated to the crew of a Wellington Bomber of 301 Pomeranian Squadron which crashed on Dunmoor Hill on 9th January 1943. The dedication is in raised white Roman capitals on a pecked background. Plaque and backboard are fixed at 45 degrees on top of a 1 metre post, which is supported at the base by a cairn of loose rocks. This death is also recorded on the memorial to WW2 airmen killed on the Cheviot Hills (34297).",
+  "inscription": "IN MEMORY OF/[names]/9th JANUARY 1943/VICKERS WELLINGTON/R1535 GR-G/301 POMERANIAN SQN.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/16867"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/16867",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 55.454815512276,
-  "longitude": -2.04653771957
+  "longitude": -2.04653771957,
+  "grid_ref": "NT 97154",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/108/842/large_img_9418___compressed.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/99/623/large_image003_r.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": "The inscription is for a crash site of an aircraft, indicating the community's connection to those who served in the Pomeranian Squadron."
 }

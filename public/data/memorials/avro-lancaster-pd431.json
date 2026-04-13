@@ -1,27 +1,39 @@
 {
   "id": "avro-lancaster-pd431",
   "title": "Avro Lancaster PD431",
-  "location_name": "",
-  "county": "",
+  "location_name": "Edith Weston, Rutland",
+  "county": "Leicestershire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PD431",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "1653 HCU",
+  "crash_date": "1945-03-04",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A wall mounted brushed metal plate with inscription and detail incised in black. The badges of the Royal Air Force and the Royal Australian Air Force are placed either side at the top, with the inscription and names below.\n\nThe inscription is located in a community setting, indicating local significance.",
+  "inscription": "IN MEMORY OF/ THE CREW WHO DIED WHEN/ RAF LANCASTER PD431 OF 1653 HCU/ CRASHED & CAUGHT FIRE 100 YDS EAST (Arrow) OF THIS SPOT/ 4.00 PM SUNDAY MARCH 4th 1945/ ---------- O ----------/ (Names)/ ---------- O ----------/ LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/93686"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/93686",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.637769810189,
-  "longitude": -0.631202108946
+  "longitude": -0.631202108946,
+  "grid_ref": "SK 92724",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/101/775/large_lancaster_pd431_1653_hcu_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/101/776/large_lancaster_pd431_1653_hcu_in_context.jpg"
+  ],
+  "community_connection": ""
 }

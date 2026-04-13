@@ -1,27 +1,47 @@
 {
   "id": "b-17-flying-fortress-z9a-no-519-squadron-raf",
   "title": "B-17 Flying Fortress Z9A - No. 519 Squadron RAF",
-  "location_name": "",
-  "county": "",
+  "location_name": "between Thurso and Latheron, Caithness",
+  "county": "Highland",
   "country": "United Kingdom",
   "aircraft_type": "B-17 Flying Fortress",
   "serial_number": "",
   "squadron": "519 Squadron",
   "crash_date": "1945-02-01",
-  "memorial_type": "",
-  "memorial_details": "description: (squadron badge) / DEDICATED TO / THE MEMORY OF / (names) / Who were killed or fatally injured on the 1st February 1945, when / their Fortress aircraft, 29-A, crashed nearby on their return from a weather reconnaissance sortie over the Norwegian Sea. / WE SHALL REMEMBER THEM AND THEIR COMRADES OF / 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK. / &quot;who flew beyond the storms - into the sunset&quot;",
-  "inscription": "",
+  "memorial_type": "Cairn",
+  "memorial_details": "Low cemented cairn with memorial tablet. B-17 Z9A of 519 Squadron flew into ground returning from a meteorology flight in bad weather on 1 February 1945.",
+  "inscription": "(squadron badge) / DEDICATED TO / THE MEMORY OF / (names) / Who were killed or fatally injured on the 1st February 1945, when / their Fortress aircraft, 29-A, crashed nearby on their return from a weather reconnaissance sortie over the Norwegian Sea. / WE SHALL REMEMBER THEM AND THEIR COMRADES OF / 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK. / \"who flew beyond the storms - into the sunset\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/6050"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/6050",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 58.41726,
-  "longitude": -3.4168929
+  "longitude": -3.4168929,
+  "grid_ref": "ND 17326",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/155/808/large_07_img_2023_03_27_0287.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/804/large_03_img_2023_03_27_0284.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/809/large_09_img_2023_03_27_0286.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/153/25/large_6050.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/803/large_04_img_2023_03_27_0285.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/807/large_08_img_2023_03_27_0280.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/810/large_10_img_2023_03_27_0288b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/801/large_01_img_2023_03_27_0282.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/811/large_11_img_2023_03_27_0289b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/155/812/large_12_img_2023_03_27_0290.jpg"
+  ],
+  "community_connection": "local people affected, who erected it: WE SHALL REMEMBER THEM AND THEIR COMRADES OF 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK."
 }

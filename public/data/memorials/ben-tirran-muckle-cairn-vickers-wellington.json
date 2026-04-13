@@ -25,58 +25,58 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On 9 August 1942, Wellington L7845 departed RAF Lossiemouth on an air test. During flight, part of the engine cowling detached and struck one of the propellers, causing severe damage and engine failure. The pilot attempted a forced landing in the remote hills between Ben Tirran and Muckle Cairn in the Angus glens. The landing attempt failed and four of the five crew were killed on impact. The rear gunner, Sgt Thomas Holman, protected in his turret at the tail, survived. Three of the four dead were members of the Royal Canadian Air Force and were buried together in Fettercairn Cemetery; the fourth, a member of the RAF, was returned to his family in Tyne and Wear. In 2012, the nephew and niece of Sgt Observer Joe Wetherson visited the crash site to lay a memorial plaque while bagpipes were played. The propeller of the crashed Wellington is now displayed at Montrose Air Station Heritage Centre.",
   "crew": [
     {
       "rank": "F/Sgt",
       "name": "Arthur Keene",
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Fettercairn Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed on impact while attempting a forced landing in the hills between Ben Tirran and Muckle Cairn. Buried at Fettercairn Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Joseph Wetherson",
       "age": 23,
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Fettercairn Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed on impact. In 2012, his nephew and niece visited the crash site and laid a memorial plaque with bagpipes playing.",
       "cwgc_verified": true,
-      "bio": "Sgt Wetherson was 23 years old at the time of the crash. His family in Canada maintained contact with the crash site and in 2012, relatives made a pilgrimage to lay a memorial plaque."
+      "bio": "Sgt Wetherson was 23 years old at the time of the crash. His family in Canada maintained contact with the crash site and in 2012, relatives made a pilgrimage to lay a memorial plaque.",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Oscar Jensen",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Fettercairn Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Buried at Fettercairn Cemetery alongside fellow Canadian crew members.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Alfred Kirby",
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Cemetery in Tyne and Wear",
       "fate": "Killed",
       "fate_detail": "Killed on impact. His body was returned to his family for burial in Tyne and Wear.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Thomas Holman",
       "role": "Rear Gunner",
-      "nationality": "British",
       "fate": "Survived",
-      "fate_detail": "Sole survivor of the crash. Protected by his rear turret position at the tail of the aircraft, which broke away on impact."
+      "fate_detail": "Sole survivor of the crash. Protected by his rear turret position at the tail of the aircraft, which broke away on impact.",
+      "nationality": "British"
     }
   ],
   "latitude": 56.8766,

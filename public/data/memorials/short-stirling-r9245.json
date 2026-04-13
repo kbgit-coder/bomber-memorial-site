@@ -1,27 +1,39 @@
 {
   "id": "short-stirling-r9245",
   "title": "Short Stirling R9245",
-  "location_name": "",
-  "county": "",
+  "location_name": "Newmarket, Forest Heath",
+  "county": "Suffolk",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "R9245",
-  "squadron": "",
+  "squadron": "75 (NZ) SQUADRON RAF",
   "crash_date": "1942-12-16",
-  "memorial_type": "",
-  "memorial_details": "description: 75 (NZ) SQUADRON RAF/ ON THE NIGHT OF THE 16TH DECEMBER 1942/ STIRLING R9245 AA-N TAKING OFF IN DIFFICULT/ CONDITIONS, WAS CAUGHT BY A STRONG CROSS/ WIND CAUSING IT TO STRIKE THIS EARTHWORK/ WITH THE LOSS OF THE ENTIRE CREW./ IT IS TO THESE YOUNG MEN WHO GAVE THEIR/LIVES IN THE DEFENCE OF THIS COUNTRY THAT/ THIS MEMORIAL IS DEDICATED./ (\u2026) AKE AKE KIA KAHA",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Plaque situated where the aircraft first hit earthworks.",
   "inscription": "75 (NZ) SQUADRON RAF/ ON THE NIGHT OF THE 16TH DECEMBER 1942/ STIRLING R9245 AA-N TAKING OFF IN DIFFICULT/ CONDITIONS, WAS CAUGHT BY A STRONG CROSS/ WIND CAUSING IT TO STRIKE THIS EARTHWORK/ WITH THE LOSS OF THE ENTIRE CREW./ IT IS TO THESE YOUNG MEN WHO GAVE THEIR/LIVES IN THE DEFENCE OF THIS COUNTRY THAT/ THIS MEMORIAL IS DEDICATED./ (\u2026) AKE AKE KIA KAHA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/94891"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/94891",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.237361505994,
-  "longitude": 0.351602779642
+  "longitude": 0.351602779642,
+  "grid_ref": "TL 60673",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/223/large_devilsdyke01_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/106/222/large_devilsdyke02_r.jpg"
+  ],
+  "community_connection": "Ake Ake KIA KAHA"
 }

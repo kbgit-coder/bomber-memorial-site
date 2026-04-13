@@ -24,7 +24,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.038748,
   "longitude": -0.931611,
   "maintainer": {
@@ -156,48 +156,48 @@
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "service_number": "RAFVR 2202697"
+      "service_number": "RAFVR 2202697",
+      "nationality": "British"
     },
     {
       "name": "Arthur Harkness Farrell",
       "rank": "Flight Sergeant",
       "fate": "Killed",
       "role": "Navigator",
-      "nationality": "British",
-      "service_number": "RAFVR 1238840"
+      "service_number": "RAFVR 1238840",
+      "nationality": "British"
     },
     {
       "name": "Nelson Harcourt Cutler",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Bomb Aimer",
-      "nationality": "British",
-      "service_number": "RAFVR 1459698"
+      "service_number": "RAFVR 1459698",
+      "nationality": "British"
     },
     {
       "name": "Reginald John Brown",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "nationality": "British",
-      "service_number": "RAFVR 1650995"
+      "service_number": "RAFVR 1650995",
+      "nationality": "British"
     },
     {
       "name": "John Albert Davies",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Mid-Upper Gunner",
-      "nationality": "British",
-      "service_number": "RAFVR 2204830"
+      "service_number": "RAFVR 2204830",
+      "nationality": "British"
     },
     {
       "name": "Alan Dennis Bale",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Rear Gunner",
-      "nationality": "British",
-      "service_number": "RAFVR 1894597"
+      "service_number": "RAFVR 1894597",
+      "nationality": "British"
     }
   ],
   "crash_category": "training",

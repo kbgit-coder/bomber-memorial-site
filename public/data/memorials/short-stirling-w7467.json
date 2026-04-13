@@ -1,27 +1,40 @@
 {
   "id": "short-stirling-w7467",
   "title": "Short Stirling W7467",
-  "location_name": "",
-  "county": "",
+  "location_name": "Earith, Huntingdon",
+  "county": "Cambridgeshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "W7467",
   "squadron": "7 Squadron",
   "crash_date": "1942-01-17",
-  "memorial_type": "",
-  "memorial_details": "description: On 17th January 1942 Stirling Aircraft W7467, of 7 Squadron, RAF, / flying from RAF Oakington, collided with a Hurricane Aircraft of No 56 OTU and crashed 1.5 miles north of Earith / All crew members were killed / (7 Names) / These received Christian Burials at Cambridge, Dundee and Thurrock / Walter Mankelow, RAFVR, Air-Gnr. and James McCarley, RAFVR, Air-Gnr. / are remembered on the Royal Air Force Memorial at Runnymede, / as having no known grave / The people of Earith, 7 Squadron Association and this Stone remember them / Per Diem Per Noctem / 7th November 1999",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Black granite tablet with incised inscription and names finished in gilt, set flush into a purpose-built brick wall. Coloured squadron badge at top of tablet. The whole memorial stands within an enclosed roadside corner plot.",
+  "inscription": "On 17th January 1942 Stirling Aircraft W7467, of 7 Squadron, RAF, / flying from RAF Oakington, collided with a Hurricane Aircraft of No 56 OTU and crashed 1.5 miles north of Earith / All crew members were killed / (7 Names) / These received Christian Burials at Cambridge, Dundee and Thurrock / Walter Mankelow, RAFVR, Air-Gnr. and James McCarley, RAFVR, Air-Gnr. / are remembered on the Royal Air Force Memorial at Runnymede, / as having no known grave / The people of Earith, 7 Squadron Association and this Stone remember them / Per Diem Per Noctem / 7th November 1999",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/46478"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/46478",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.353991037931,
-  "longitude": 0.038452088088
+  "longitude": 0.038452088088,
+  "grid_ref": "TL 38927",
+  "photos": [],
+  "names_on_memorial": 9,
+  "died_count": 9,
+  "custodian": "Village Parish Council",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/73/370/large_p1010407_1_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/716/large_46478.jpg"
+  ],
+  "community_connection": "The people of Earith, 7 Squadron Association and this Stone remember them"
 }

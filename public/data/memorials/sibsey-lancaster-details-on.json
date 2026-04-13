@@ -101,7 +101,7 @@
   "squadron_aliases": [
     "Bomber Command"
   ],
-  "narrative": "On 29 January 1943, the six-man crew of No. 9 Squadron Lancaster ED503 were on a flight that ended in catastrophe over the Lincolnshire Fens at Sibsey Northlands. The cause of the crash remains unknown — the aircraft suddenly lost height and plunged into the field, creating a crater in the quicksand and subsoil. Despite pumping efforts by the fire service, it proved impossible to recover the crew or wreckage. All six men were killed: Flight Lieutenant Robert Frood Lind, Pilot Officer Charles W H Cocks, Sergeant Donald A Brown, Sergeant John Doran, Sergeant Thomas Henry, and Sergeant Thomas Wishart. Wishart alone was thrown clear and is buried in Scotland; the remaining five lie where they fell. In 1947, the families of the crew paid for a memorial to be consecrated on the crash site, bearing the names of all six men.",
+  "narrative": "On 29 January 1943, the six-man crew of No. 9 Squadron Lancaster ED503 were on a flight that ended in catastrophe over the Lincolnshire Fens at Sibsey Northlands. The cause of the crash remains unknown \u2014 the aircraft suddenly lost height and plunged into the field, creating a crater in the quicksand and subsoil. Despite pumping efforts by the fire service, it proved impossible to recover the crew or wreckage. All six men were killed: Flight Lieutenant Robert Frood Lind, Pilot Officer Charles W H Cocks, Sergeant Donald A Brown, Sergeant John Doran, Sergeant Thomas Henry, and Sergeant Thomas Wishart. Wishart alone was thrown clear and is buried in Scotland; the remaining five lie where they fell. In 1947, the families of the crew paid for a memorial to be consecrated on the crash site, bearing the names of all six men.",
   "remembrance": {
     "events": [
       {
@@ -119,48 +119,48 @@
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Air Gunner",
-      "nationality": "British",
-      "burial_location": "not specified"
+      "burial_location": "not specified",
+      "nationality": "British"
     },
     {
       "name": "Robert Frood Lind",
       "rank": "Flight Lieutenant",
       "fate": "Killed",
       "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "not specified"
+      "burial_location": "not specified",
+      "nationality": "British"
     },
     {
       "name": "Charles W H Cocks",
       "rank": "Pilot Officer",
       "fate": "Killed",
       "role": "Bomb Aimer",
-      "nationality": "British",
-      "burial_location": "not specified"
+      "burial_location": "not specified",
+      "nationality": "British"
     },
     {
       "name": "John Doran",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "burial_location": "not specified"
+      "burial_location": "not specified",
+      "nationality": "British"
     },
     {
       "name": "Thomas Henry",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "nationality": "British",
-      "burial_location": "not specified"
+      "burial_location": "not specified",
+      "nationality": "British"
     },
     {
       "name": "Thomas Wishart",
       "rank": "Sergeant",
       "fate": "Killed/buried in scotland",
       "role": "Rear Gunner",
-      "nationality": "British",
-      "burial_location": "Scotland"
+      "burial_location": "Scotland",
+      "nationality": "British"
     }
   ],
   "community_connection": "",

@@ -9,7 +9,7 @@
   "aircraft_type": "Wellington W.5667",
   "squadron": "14 OTU",
   "station": "Saltby",
-  "crew_summary": "5 killed including pilot WO Hugh Murray",
+  "crew_summary": "5 killed \u2014 stall recovery failure at Grant's Farm, Old Leake Commonside. Only Sgt John Sykes named in available sources. Full crew list may be in National Archives AIR29/652 or Chorley Vol.7.",
   "memorial_type": "Memorial stone",
   "sources": [
     {
@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-13",
   "data_quality": "Partial",
   "latitude": 53.03122,
   "longitude": 0.09869,
@@ -94,97 +94,20 @@
   "narrative": "Wellington W5667, operating from Saltby with 14 OTU, was on a training flight on the morning of Sunday 6 February 1943 when the aircraft failed to recover from a stall, struck the ground at Grant's Farm, Old Leake Commonside, Lincolnshire, and burst into flames. Five of the crew were killed; Sgt Thomas Joseph Pugh survived. Among those who died was bomb-aimer Sgt John Sykes, who had trained in Canada and had become RCAF Table Tennis Champion there in late 1942. Also killed were Sgt Arthur Percy Gainsford of the Royal New Zealand Air Force and Sgt Patrick Clement Geary.",
   "crew": [
     {
-      "name": "Arthur Percy Gainsford",
-      "rank": "Sgt",
-      "fate": "Unknown",
-      "role": "Pilot"
-    },
-    {
-      "name": "Thomas Joseph Pugh",
-      "rank": "Sgt",
-      "fate": "Unknown",
-      "role": "Pilot"
-    },
-    {
-      "name": "Alexander Reynell Galbraith",
-      "rank": "P/O",
-      "fate": "Unknown",
-      "role": "Observer"
-    },
-    {
-      "name": "Frederick Maxfield",
-      "rank": "Sgt",
-      "fate": "Unknown",
-      "role": "Wireless Operator / Air Gunner"
-    },
-    {
-      "name": "Christopher William Turner",
-      "rank": "Sgt",
-      "fate": "Unknown",
-      "role": "Wireless Operator / Air Gunner"
-    },
-    {
-      "name": "Patrick Clement Geary",
-      "rank": "Sgt",
-      "fate": "Killed",
-      "role": "Air Gunner"
-    },
-    {
       "name": "John Sykes",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "bomb-aimer",
-      "nationality": "British"
-    },
-    {
-      "name": "Status",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sgt Arthur Percy Gainsford RNZAF (NZ.402863)",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Pilot",
-      "nationality": "New Zealander"
-    },
-    {
-      "name": "Sgt Thomas Joseph Pugh RAFVR (1107190)",
-      "rank": null,
-      "fate": "Survived",
-      "role": "Pilot",
-      "nationality": "British"
-    },
-    {
-      "name": "P/O Alexander Reynell Galbraith RNZAF (NZ.403598)",
-      "rank": null,
-      "fate": "Survived",
-      "role": "Observer",
-      "nationality": "New Zealander"
-    },
-    {
-      "name": "Sgt Frederick Maxfield RAFVR (746894)",
-      "rank": "Unknown",
-      "fate": "Injured",
-      "role": "Wireless Operator / Air Gunner",
-      "nationality": "British"
-    },
-    {
-      "name": "Sgt Christopher William Turner RAFVR (917377)",
-      "rank": "Unknown",
-      "fate": "Survived",
-      "role": "Wireless Operator / Air Gunner",
-      "nationality": "British"
-    },
-    {
-      "name": "Sgt Patrick Clement Geary RAFVR (914328)",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Air Gunner",
-      "nationality": "British"
+      "rank": "Sergeant",
+      "role": "Bomb Aimer",
+      "fate": "Killed"
     }
   ],
   "crash_category": "training",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "data_notes": [
+    "Previous crew count of 14 was an aggregation error \u2014 combined 1941 operational crew (6) with 1943 crash crew.",
+    "Only Sgt John Sykes (bomb-aimer, trained in Canada) is named in publicly available sources.",
+    "5 fatalities confirmed. Full crew list not publicly available \u2014 National Archives AIR29/652 or Chorley Vol.7 may have it.",
+    "Date: yorkshire-aircraft.co.uk says 6 February, forum initially said 7th then corrected to 6th."
+  ],
+  "last_validated": "2026-04-13"
 }

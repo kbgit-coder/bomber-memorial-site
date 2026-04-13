@@ -1,27 +1,37 @@
 {
   "id": "short-stirling-x9-y-worry",
   "title": "Short Stirling X9-Y (Worry!)",
-  "location_name": "",
-  "county": "",
+  "location_name": "Alrewas, Lichfield",
+  "county": "Staffordshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "",
   "squadron": "299 Squadron",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: X9-Y (WORRY!)/ 299 SQUADRON/ SPECIAL OPERATIONS SERVICE/ TO THE AIRCREW OF SHORT STIRLING MK IV-/ CALL SIGN &#039;X9-Y&#039; (WORRY!)./ THIS CREW WERE TOGETHER FROM 1943 UNTIL THE END OF HOSTILITIES IN EUROPE./ DURING THAT TIME THEY FLEW 3 RE-SUPPLY MISSIONS TO ARNHEM FOR/ OPERATION MARKET GARDEN AND TOWED GLIDERS FOR OPERATION VARSITY,/ THE RHINE CROSSING.  THEY WERE  ALSO ON SPECIAL OPERATIONS DUTIES WITH SOLO/ FLIGHTS TO AUXERRE, BERGERAC, THE HAGUE, BRUSSELS, ROTTERDAM, UTRECHT,/ THE SOGGNE FJORD, COPENHAGEN AND EINDHOVEN./ THE CREW WERE AMONG THE FIRST BRITISH TO LAND IN OSLO NORWAY AT THE/ END OF HOSTILITIES AND WERE ALSO INVOLVED IN THE REPATRIATION OF POWS/ AS THE ALLIES ADVANCED ON GERMANY./\r\n[Engraving of Short Stirling Mark IV-]/\r\n [Names...]",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "An oval blue metal plaque with white lettering screw-fixed to an upright roughcast stone. The plaque has a commemoration below the insignia of the RAF. The names of the crew are listed below an engraving of a Short Stirling Mark IV- aircraft. An oak tree behind the memorial has been grown from an acorn found at Oosterbeek Cemetery, where paratroopers formed a defence at Arnhem. The memorial is one of several within Garden 1(Special Operations) (WMR80077) of the Allied Special Forces Grove (WMR 61537).",
+  "inscription": "X9-Y (WORRY!)/ 299 SQUADRON/ SPECIAL OPERATIONS SERVICE/ TO THE AIRCREW OF SHORT STIRLING MK IV-/ CALL SIGN 'X9-Y' (WORRY!)./ THIS CREW WERE TOGETHER FROM 1943 UNTIL THE END OF HOSTILITIES IN EUROPE./ DURING THAT TIME THEY FLEW 3 RE-SUPPLY MISSIONS TO ARNHEM FOR/ OPERATION MARKET GARDEN AND TOWED GLIDERS FOR OPERATION VARSITY,/ THE RHINE CROSSING. THEY WERE ALSO ON SPECIAL OPERATIONS DUTIES WITH SOLO/ FLIGHTS TO AUXERRE, BERGERAC, THE HAGUE, BRUSSELS, ROTTERDAM, UTRECHT,/ THE SOGGNE FJORD, COPENHAGEN AND EINDHOVEN./ THE CREW WERE AMONG THE FIRST BRITISH TO LAND IN OSLO NORWAY AT THE/ END OF HOSTILITIES AND WERE ALSO INVOLVED IN THE REPATRIATION OF POWS/ AS THE ALLIES ADVANCED ON GERMANY./ [Engraving of Short Stirling Mark IV-]/ [Names...]",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/81239"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/81239",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.731417933076,
-  "longitude": -1.722635708091
+  "longitude": -1.722635708091,
+  "grid_ref": "SK 18826",
+  "photos": [],
+  "names_on_memorial": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/57/500/large_428_299_squadron_cs.jpg"
+  ],
+  "community_connection": "The crew were among the first British to land in Oslo, Norway at the end of hostilities and were also involved in the repatriation of POWs as the Allies advanced on Germany."
 }

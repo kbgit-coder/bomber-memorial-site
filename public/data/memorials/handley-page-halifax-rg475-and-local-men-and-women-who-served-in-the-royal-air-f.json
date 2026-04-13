@@ -1,27 +1,41 @@
 {
   "id": "handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f",
   "title": "Handley Page Halifax RG475 and local men and women who served in the Royal Air Force",
-  "location_name": "",
-  "county": "",
+  "location_name": "Walton On The Naze, Tendring",
+  "county": "Essex",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "RG475",
   "squadron": "308 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: THIS MEMORIAL WAS ERECTED IN 1979 BY THE FRINTON AND WALTON ROYAL AIR FORCES ASSOCIATION TO COMMEMORATE THE 60TH ANNIVERSARY OF THE/ FORMATION OF THE ROYAL AIR FORCE AND THE 30th OF THE BRANCH./ THE AIRSCREW BLADES WERE RECOVERED IN 1979 BY THE OFFICERS AND CADETS OF 308 SQUADRON OF COLCHESTER AND CLACTON AIR TRANING CORPS FROM THE SITE WHERE A/ HALIFAX BOMBER OF 432 SQUADRON, ROYAL CANADIAN AIR FORCE, CRASHED AT THE NAZE ON THE NIGHT OF MARCH 5/6 1945 WHILST RETURNING FROM AN OPERATIONAL/ MISSION, KILLING ALL MEMBERS OF THE CREW./ THE MEMORIAL IS DEDICATED TO ALL LOCAL MEN AND WOMEN WHO HAVE SERVED IN THE ROYAL AIR FORCE AND TO THE MEMORY OF THE HALIFAX CREW/ (Names)/ SEVEN OF THE ABOVE ARE BURIED AT BROOKWOOD, SURREY AND ONE AT MONMOUTH, S WALES",
-  "inscription": "",
+  "crash_date": "1945-03-05",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "A rectangular concrete pillar on three-stepped base, with an RAF badge at the top, airscrew blades from a Halifax bomber on three sides and an inscribed plaque on the fourth side.\n\nThe memorial was erected by the Frinton and Walton Royal Air Forces Association to commemorate the formation of the RAF and the branch, dedicated to all local men and women who have served in the RAF.",
+  "inscription": "THIS MEMORIAL WAS ERECTED IN 1979 BY THE FRINTON AND WALTON ROYAL AIR FORCES ASSOCIATION TO COMMEMORATE THE 60TH ANNIVERSARY OF THE/ FORMATION OF THE ROYAL AIR FORCE AND THE 30th OF THE BRANCH./ THE AIRSCREW BLADES WERE RECOVERED IN 1979 BY THE OFFICERS AND CADETS OF 308 SQUADRON OF COLCHESTER AND CLACTON AIR TRANING CORPS FROM THE SITE WHERE A/ HALIFAX BOMBER OF 432 SQUADRON, ROYAL CANADIAN AIR FORCE, CRASHED AT THE NAZE ON THE NIGHT OF MARCH 5/6 1945 WHILST RETURNING FROM AN OPERATIONAL/ MISSION, KILLING ALL MEMBERS OF THE CREW./ THE MEMORIAL IS DEDICATED TO ALL LOCAL MEN AND WOMEN WHO HAVE SERVED IN THE ROYAL AIR FORCE AND TO THE MEMORY OF THE HALIFAX CREW/ (Names)/ SEVEN OF THE ABOVE ARE BURIED AT BROOKWOOD, SURREY AND ONE AT MONMOUTH, S WALES",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/22943"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/22943",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.84828636951,
-  "longitude": 1.267736191972
+  "longitude": 1.267736191972,
+  "grid_ref": "TM 25163",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "custodian": "Walton and Frinton Town Council",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/86/494/large_raf_mem_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/86/477/large_raf_mem_.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": ""
 }

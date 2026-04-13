@@ -30,64 +30,63 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On 9 November 1942, Wellington BJ764 from the French-Canadian 425 (Alouette) Squadron took off from RAF Dishforth at 17:33 for a bombing mission to Hamburg. Over mainland Europe, the aircraft was attacked by Luftwaffe night-fighter ace Oberleutnant Ludwig Becker near Raard, west of Dokkum in the Netherlands. Two crew members \u2014 Sgt Delorme and Sgt Pambrun \u2014 bailed out and became prisoners of war. The pilot, Flight Sergeant Foltz, a 26-year-old American from New York City serving with the RCAF, managed to regain control of the damaged aircraft and flew it back across the North Sea. However, approaching Norfolk the aircraft became uncontrollable and crashed near the village of Beetley, killing Foltz and the three remaining crew. A memorial at St Mary Magdalene's Church, Beetley, commemorates the Canadian aircrew who died.",
   "crew": [
     {
       "rank": "F/Sgt",
       "name": "Raymond Rogers Foltz",
-      "service_number": "R/79246",
       "role": "Pilot",
-      "nationality": "American",
       "burial_location": "Dishforth Cemetery",
       "fate": "Killed",
       "fate_detail": "Flew the damaged Wellington back from the Netherlands but crashed at Beetley attempting to land. Buried at Dishforth Cemetery.",
       "cwgc_verified": true,
       "bio": "Foltz was a 26-year-old American from New York City who had volunteered to serve with the Royal Canadian Air Force. He heroically flew the badly damaged aircraft back across the North Sea after two crew had bailed out.",
       "hometown": "New York City, USA",
-      "age": 26
+      "age": 26,
+      "service_number": "R/79246"
     },
     {
       "rank": "F/O",
       "name": "G.S. Cartwright",
-      "service_number": "RCAF",
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Dishforth Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Beetley after the damaged aircraft failed to land safely.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Unknown crew member 3",
       "role": "Crew",
-      "nationality": "Canadian",
       "burial_location": "Dishforth Cemetery",
       "fate": "Killed",
       "fate_detail": "One of two additional crew killed in the crash at Beetley.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Joseph Albert Delorme",
-      "service_number": "RCAF",
       "role": "Crew",
-      "nationality": "Canadian",
       "fate": "POW",
       "fate_detail": "Bailed out over the Netherlands after the aircraft was attacked by Oblt Ludwig Becker. Became POW No. 881, held at Stalag Luft Heydekrug for the remainder of the war.",
       "cwgc_verified": false,
-      "hometown": "St. Adolphe, Manitoba, Canada"
+      "hometown": "St. Adolphe, Manitoba, Canada",
+      "service_number": "RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "J.R.A. Pambrun",
-      "service_number": "R/119711",
       "role": "Wireless Operator",
-      "nationality": "Canadian",
       "fate": "POW",
       "fate_detail": "Bailed out over the Netherlands with Sgt Delorme. Became a prisoner of war and held at Stalag Luft Heydekrug.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "R/119711",
+      "nationality": "Canadian"
     },
     {
       "name": "R. N. V. Burke",

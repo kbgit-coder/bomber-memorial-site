@@ -29,7 +29,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Partial",
   "narrative": "On the night of 20 November 1940, Hampden X3023 of 44 (Rhodesia) Squadron departed RAF Waddington on a bombing sortie to the oil refinery at Lutzkendorf, near Leipzig. The aircraft was struck by machine gun fire over the Dutch coast, causing the starboard engine to fail. On the return flight, navigational error compounded the damage, and in poor visibility the aircraft struck trees near Southrepps, Norfolk. Sergeant Jack Leonard Frederick Ottaway, the pilot, was 25 years old; he was killed alongside navigator Pilot Officer Archie Ronald Kerr and wireless operator Sergeant Stanley Frederick Elliott. The sole survivor, air gunner Sergeant Stanley Hird, was injured in the crash.",
   "crew": [
     {
@@ -37,7 +37,6 @@
       "name": "Jack Leonard Frederick Ottaway",
       "age": 25,
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the Hampden crashed into woodland at Templewood House, Northrepps. Demonstrated exceptional airmanship nursing the crippled aircraft back across the North Sea on one engine.",
       "burial_location": "Norwich Cemetery, Section 54, Grave 556",
@@ -45,220 +44,42 @@
       "cwgc_verified": true,
       "bio": "From Norwich, married to Barbara with a two-year-old daughter Virginia -- named after her father's favourite brand of tobacco. Despite losing the starboard engine to enemy fire over the Dutch coast, he nursed the aircraft back across the North Sea.",
       "hometown": "Norwich, Norfolk",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Archie Ronald Kerr",
       "role": "Navigator/Observer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact in the crash at Templewood House. Had previously survived a ditching off Lowestoft earlier in 1940.",
       "cwgc_verified": true,
       "bio": "Navigator who had already survived one close call -- a ditching off Lowestoft earlier in the same year. His luck ran out over Norfolk.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Stanley Frederick Elliott",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact in the crash at Templewood House, Northrepps.",
       "cwgc_verified": true,
       "bio": "Wireless operator and air gunner serving with 44 Squadron.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Stanley Hird",
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Survived the crash at Templewood House and went on to serve with the RAF until the end of the war. Subsequently awarded the Distinguished Flying Cross.",
       "bio": "Air gunner who survived the crash and continued to serve throughout the war, eventually earning the DFC. His survival from the wreckage of the Hampden was remarkable given the severity of the impact.",
       "decorations": [
         "DFC"
-      ]
-    },
-    {
-      "name": "Sgt Jack Leonard Frederick Ottoway",
-      "rank": "Unknown",
-      "fate": "Unknown",
-      "role": "pilot",
+      ],
       "nationality": "British"
-    },
-    {
-      "name": "Shikenjanski",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Thomas Lavar Anderson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sgt Stanley Frederick Elliot",
-      "rank": "Unknown",
-      "fate": "Unknown",
-      "role": "unknown",
-      "nationality": "British"
-    },
-    {
-      "name": "Bickerstaff",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Summers",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jope",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Holtzman",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Nowak",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Elkin",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Balca",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Cunningham",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Bethke",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Nielsen",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Nielson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Marcouiler",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Leland",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Cook",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Marshall",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "James Jacobs",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Elmer Schmidt",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Earl",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Earle",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Everal Anthony Guimond",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Stephen",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Gene Foster Cornell",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Harold Perry",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Francis Guillory",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Tommy",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Clifford",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Neil",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Edward Mire",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Lee Witzenburg",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Harry Mundy",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Henry Miller",
-      "rank": null,
-      "fate": "Unknown"
     }
   ],
   "latitude": 52.8798,
@@ -365,5 +186,148 @@
   },
   "crash_category": "weather",
   "narrative_quality_score": 5,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Sgt Jack Leonard Frederick Ottoway",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Shikenjanski",
+      "rank": null
+    },
+    {
+      "name": "Thomas Lavar Anderson",
+      "rank": null
+    },
+    {
+      "name": "Sgt Stanley Frederick Elliot",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Bickerstaff",
+      "rank": null
+    },
+    {
+      "name": "Summers",
+      "rank": null
+    },
+    {
+      "name": "Jope",
+      "rank": null
+    },
+    {
+      "name": "Holtzman",
+      "rank": null
+    },
+    {
+      "name": "Nowak",
+      "rank": null
+    },
+    {
+      "name": "Elkin",
+      "rank": null
+    },
+    {
+      "name": "Balca",
+      "rank": null
+    },
+    {
+      "name": "Cunningham",
+      "rank": null
+    },
+    {
+      "name": "Bethke",
+      "rank": null
+    },
+    {
+      "name": "Nielsen",
+      "rank": null
+    },
+    {
+      "name": "Nielson",
+      "rank": null
+    },
+    {
+      "name": "Marcouiler",
+      "rank": null
+    },
+    {
+      "name": "Leland",
+      "rank": null
+    },
+    {
+      "name": "Cook",
+      "rank": null
+    },
+    {
+      "name": "Marshall",
+      "rank": null
+    },
+    {
+      "name": "James Jacobs",
+      "rank": null
+    },
+    {
+      "name": "Elmer Schmidt",
+      "rank": null
+    },
+    {
+      "name": "Earl",
+      "rank": null
+    },
+    {
+      "name": "Earle",
+      "rank": null
+    },
+    {
+      "name": "Everal Anthony Guimond",
+      "rank": null
+    },
+    {
+      "name": "Stephen",
+      "rank": null
+    },
+    {
+      "name": "Gene Foster Cornell",
+      "rank": null
+    },
+    {
+      "name": "Harold Perry",
+      "rank": null
+    },
+    {
+      "name": "Francis Guillory",
+      "rank": null
+    },
+    {
+      "name": "Tommy",
+      "rank": null
+    },
+    {
+      "name": "Clifford",
+      "rank": null
+    },
+    {
+      "name": "Neil",
+      "rank": null
+    },
+    {
+      "name": "Edward Mire",
+      "rank": null
+    },
+    {
+      "name": "Lee Witzenburg",
+      "rank": null
+    },
+    {
+      "name": "Harry Mundy",
+      "rank": null
+    },
+    {
+      "name": "Henry Miller",
+      "rank": null
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 39 to 4. 35 additional names from station/OTU roll of honour moved to station_roll_names."
 }

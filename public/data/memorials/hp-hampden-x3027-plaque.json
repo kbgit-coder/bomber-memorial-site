@@ -1,27 +1,34 @@
 {
   "id": "hp-hampden-x3027-plaque",
   "title": "HP Hampden X3027 - plaque",
-  "location_name": "",
-  "county": "",
+  "location_name": "Skegness, East Lindsey",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "X3027",
   "squadron": "49 Squadron",
   "crash_date": "1940-10-28",
-  "memorial_type": "",
-  "memorial_details": "description: Plaque: IN MEMORY OF THE CREW/ OF/ HANDLEY PAGE HAMPDEN X3027/ (EA-A) 49 SQN. R.A.F./ (Names)/ WHO TRAGICALLY LOST THEIR LIVES IN THE/ SEA OFF SKEGNESS IN THE EARLY HOURS OF/ \r\nMONDAY 28 OCTOBER 1940\r\n\r\nInformation sheet: PROPELLER/ FROM HANDLEY PAGE HAMPDEN X3027/ IN THE EARLY HOURS OF 28TH OCTOBER 1940, HAMPDEN X3027, CODED EA-A OF 49/ SQUADRON WAS RETURNING TO RAF SCAMPTON, AFTER TAKING PART IN A RAID ON/ HAMBURG WITH 15 OTHER HAMPDENS. THE CREW WERE NO DOUBT LOOKING FORWARD/ TO A WELL EARNED REST AFTER DE-BRIEFING./ \r\nAT THE SAME TIME, LIEUTENANT VOLKER OF THE LUFTWAFFE, WAS PILOTING HIS/ JUNKERS 88 NIGHT FIGHTER OF Nr.1 GRUPPE, Nr. 3 NACHTJAGDGESCHWADER BETWEEN/ THE COAST AND THE LINCOLNSHIRE AIRFIELDS IN THE HOPE OF INTERCEPTING/ RETURNING BOMBERS./ \r\nVOLKER&#039;S Ju88 AND x3027 MET SOMEWHERE IN THE DARKNESS OVER LINCOLNSHIRE. AS A/ RESULT OF THIS ENCOUNTER, X3027 CRASHED INTO THE SEA OFF SKEGNESS, WITH THE/ LOSS OF THE FOUR CREW/ CREW OF X3027/ (Names)",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted, landscape orientated brass plaque on a wooden backboard. Inscription and names incised and picked out in black. Adjacent to, and below the plaque, is a wall hung, framed and glazed information sheet about the crash. A propellor was recovered from the crash site on 28/9/1992 and was subsequently put on display in the Boat shed. In February 2017 a larger vessel was delivered and due to restricted space the propeller was donated to the Lincolnshire Aviation Heritage Centre at East Kirkby. It is now displayed there, along with one of the main undercarriage struts and a tyre which were also recovered from the crash site. See wmr 109513",
+  "inscription": "Plaque: IN MEMORY OF THE CREW/ OF/ HANDLEY PAGE HAMPDEN X3027/ (EA-A) 49 SQN. R.A.F./ (Names)/ WHO TRAGICALLY LOST THEIR LIVES IN THE/ SEA OFF SKEGNESS IN THE EARLY HOURS OF/ MONDAY 28 OCTOBER 1940 Information sheet: PROPELLER/ FROM HANDLEY PAGE HAMPDEN X3027/ IN THE EARLY HOURS OF 28TH OCTOBER 1940, HAMPDEN X3027, CODED EA-A OF 49/ SQUADRON WAS RETURNING TO RAF SCAMPTON, AFTER TAKING PART IN A RAID ON/ HAMBURG WITH 15 OTHER HAMPDENS. THE CREW WERE NO DOUBT LOOKING FORWARD/ TO A WELL EARNED REST AFTER DE-BRIEFING./ AT THE SAME TIME, LIEUTENANT VOLKER OF THE LUFTWAFFE, WAS PILOTING HIS/ JUNKERS 88 NIGHT FIGHTER OF Nr.1 GRUPPE, Nr. 3 NACHTJAGDGESCHWADER BETWEEN/ THE COAST AND THE LINCOLNSHIRE AIRFIELDS IN THE HOPE OF INTERCEPTING/ RETURNING BOMBERS./ VOLKER'S Ju88 AND x3027 MET SOMEWHERE IN THE DARKNESS OVER LINCOLNSHIRE. AS A/ RESULT OF THIS ENCOUNTER, X3027 CRASHED INTO THE SEA OFF SKEGNESS, WITH THE/ LOSS OF THE FOUR CREW/ CREW OF X3027/ (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/109504"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/109504",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.141759,
-  "longitude": 0.3467305
+  "longitude": 0.3467305,
+  "grid_ref": "TF 57063",
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "custodian": "RNLI Lifeboat Station Skegness",
+  "external_narratives": [],
+  "what3words": ""
 }

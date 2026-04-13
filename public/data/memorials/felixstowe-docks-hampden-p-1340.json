@@ -19,54 +19,54 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On the night of 3–4 June 1940, Hampden P1340 of 44 (Rhodesia) Squadron lifted off from RAF Waddington bound for a bombing raid on Emmerich, Germany. Returning from the sortie, the aircraft flew into the barrage balloon defences near Harwich in darkness, and its wing struck a cable, sending the Hampden down near Shotley Point. Sergeant Edwin Joseph Spencer, the pilot, was pulled from the water by Petty Officer B. Driver of the Royal Navy and survived. His three crewmates — observer Pilot Officer Reginald William Roots, and air gunners Sergeant Albert Gross Kendrew and Sergeant Samuel Patrick Connell — were never recovered; all three were twenty years old. They are commemorated on the Runnymede Memorial, honouring RAF aircrew with no known grave.",
+  "data_quality": "Partial",
+  "narrative": "On the night of 3\u20134 June 1940, Hampden P1340 of 44 (Rhodesia) Squadron lifted off from RAF Waddington bound for a bombing raid on Emmerich, Germany. Returning from the sortie, the aircraft flew into the barrage balloon defences near Harwich in darkness, and its wing struck a cable, sending the Hampden down near Shotley Point. Sergeant Edwin Joseph Spencer, the pilot, was pulled from the water by Petty Officer B. Driver of the Royal Navy and survived. His three crewmates \u2014 observer Pilot Officer Reginald William Roots, and air gunners Sergeant Albert Gross Kendrew and Sergeant Samuel Patrick Connell \u2014 were never recovered; all three were twenty years old. They are commemorated on the Runnymede Memorial, honouring RAF aircrew with no known grave.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Edwin Joseph Spencer",
-      "service_number": "565945",
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Rescued from the water by Petty Officer B. Driver of the Royal Navy, who heard Spencer's cries for help and dived into the river to find him clinging to a buoy. Spencer survived the war.",
-      "bio": "Sgt Spencer was the sole survivor. He abandoned the stricken Hampden after it struck the barrage balloon cable and was rescued from the River Orwell by PO Driver RN."
+      "bio": "Sgt Spencer was the sole survivor. He abandoned the stricken Hampden after it struck the barrage balloon cable and was rescued from the River Orwell by PO Driver RN.",
+      "service_number": "565945",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Reginald William Roots",
-      "service_number": "36202",
       "age": 20,
       "role": "Observer",
-      "nationality": "British",
       "fate": "MIA",
       "fate_detail": "Body never recovered from the wreckage in the Orwell estuary. Commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
       "burial_location": "Runnymede Memorial, Panel 10",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "36202",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Albert Gross Kendrew",
-      "service_number": "624417 RAFVR",
       "age": 20,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "MIA",
       "fate_detail": "Body never recovered. Wreckage was partially trawled up from the docks area in the 1980s but no human remains were identified. Commemorated on the Runnymede Memorial.",
       "burial_location": "Runnymede Memorial, Panel 16",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "624417 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Samuel Patrick Connell",
-      "service_number": "580913",
       "age": 20,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "MIA",
       "fate_detail": "Body never recovered. All three missing crew members were aged just 20. Commemorated on the Runnymede Memorial.",
       "burial_location": "Runnymede Memorial, Panel 12",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "580913",
+      "nationality": "British"
     }
   ],
   "latitude": 51.9557,

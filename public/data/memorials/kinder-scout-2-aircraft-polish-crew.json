@@ -31,25 +31,25 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On a training flight in December 1944, Avro Anson Mk.I N9853 from No. 16 Flying Training School at RAF Newton came to grief on the snow-covered slopes of Kinder Scout in the Peak District. Flight Lieutenant Aleksander Chelstowski descended below cloud in poor visibility, misjudging his position over the high moorland and striking the snow-covered ground. The aircraft, crewed entirely by Polish airmen, was on a routine training exercise rather than an operational mission. Remarkably, all crew members survived the impact, with Flight Lieutenant Chelstowski and those aboard sustaining only minor injuries.",
   "crew": [
     {
       "rank": "Flt Lt",
       "name": "Aleksander Chelstowski",
       "role": "Pilot",
-      "nationality": "Polish",
       "fate": "Survived",
       "fate_detail": "Survived with minor injuries. Found guilty of gross negligence by the subsequent inquiry, but went on to be decorated four times during the remainder of the war.",
-      "bio": "An experienced Polish pilot serving with the RAF. Despite being found guilty of gross negligence for this crash and his CO recommending he never fly again, Chelstowski went on to have a distinguished career and was decorated four times."
+      "bio": "An experienced Polish pilot serving with the RAF. Despite being found guilty of gross negligence for this crash and his CO recommending he never fly again, Chelstowski went on to have a distinguished career and was decorated four times.",
+      "nationality": "Polish"
     },
     {
       "rank": "Unknown",
       "name": "Second crew member (name not recorded in available sources)",
       "role": "Crew",
-      "nationality": "Polish",
       "fate": "Survived",
-      "fate_detail": "Survived with minor injuries. Treated at RAF Hospital Wilmslow."
+      "fate_detail": "Survived with minor injuries. Treated at RAF Hospital Wilmslow.",
+      "nationality": "Polish"
     },
     {
       "name": "Stefan Pasinski",
@@ -63,184 +63,6 @@
       "rank": "Flight Lieutenant",
       "fate": "Unknown",
       "role": "passenger",
-      "nationality": "Polish"
-    },
-    {
-      "name": "Wotold Siuda",
-      "rank": "Flight Lieutenant",
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jan LKlimczak",
-      "rank": "Flying Officer",
-      "fate": "Unknown",
-      "role": "passenger",
-      "nationality": "Polish"
-    },
-    {
-      "name": "Darnaby",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Landon",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Harry Stroud\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Co",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Staff Sergeant Gene",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Kennington John Hythe Harris",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "First Class William",
-      "rank": "Unknown",
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jack Sherwood Thompson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Peter Maurice Maskell",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Flight Sergeant Robert Smith",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Vincent Graham",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Thomas Lowerth Johnson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Earl Tilley",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Percival Harold Charles Parrott",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Joseph Arthur Haswell\u00a0 Pilot",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jack Douglas Evelle\u00a0 Nav",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Frederick Kenneth Webber",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sgt Dennis Aloysius Monk",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sgt Evelle",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Fredrick",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Allen",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Chadwick",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Howard Keel Photographic Advisor",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "George Ingram",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "David Merryweather Leach",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Hauxwell",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Anthony",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Williams",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jacob Henry Roden",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Thomas William Rodgers",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Adam Wladyslaw Mecinski",
-      "rank": "Flight Lieutenant",
-      "fate": "Injured",
-      "role": "Passenger",
-      "nationality": "Polish"
-    },
-    {
-      "name": "Witold Ludwik Suida",
-      "rank": "Flight Lieutenant",
-      "fate": "Injured",
-      "role": "Passenger",
-      "nationality": "Polish"
-    },
-    {
-      "name": "Jan Zygmunt Kilmczak",
-      "rank": "Flying Officer",
-      "fate": "Injured",
-      "role": "Passenger",
       "nationality": "Polish"
     }
   ],
@@ -321,5 +143,144 @@
   },
   "crash_category": "training",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Wotold Siuda",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Jan LKlimczak",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "Darnaby",
+      "rank": null
+    },
+    {
+      "name": "Landon",
+      "rank": null
+    },
+    {
+      "name": "Harry Stroud\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Co",
+      "rank": null
+    },
+    {
+      "name": "Staff Sergeant Gene",
+      "rank": null
+    },
+    {
+      "name": "Kennington John Hythe Harris",
+      "rank": null
+    },
+    {
+      "name": "First Class William",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Jack Sherwood Thompson",
+      "rank": null
+    },
+    {
+      "name": "Peter Maurice Maskell",
+      "rank": null
+    },
+    {
+      "name": "Flight Sergeant Robert Smith",
+      "rank": null
+    },
+    {
+      "name": "Vincent Graham",
+      "rank": null
+    },
+    {
+      "name": "Thomas Lowerth Johnson",
+      "rank": null
+    },
+    {
+      "name": "Earl Tilley",
+      "rank": null
+    },
+    {
+      "name": "Percival Harold Charles Parrott",
+      "rank": null
+    },
+    {
+      "name": "Joseph Arthur Haswell\u00a0 Pilot",
+      "rank": null
+    },
+    {
+      "name": "Jack Douglas Evelle\u00a0 Nav",
+      "rank": null
+    },
+    {
+      "name": "Frederick Kenneth Webber",
+      "rank": null
+    },
+    {
+      "name": "Sgt Dennis Aloysius Monk",
+      "rank": null
+    },
+    {
+      "name": "Sgt Evelle",
+      "rank": null
+    },
+    {
+      "name": "Fredrick",
+      "rank": null
+    },
+    {
+      "name": "Allen",
+      "rank": null
+    },
+    {
+      "name": "Chadwick",
+      "rank": null
+    },
+    {
+      "name": "Howard Keel Photographic Advisor",
+      "rank": null
+    },
+    {
+      "name": "George Ingram",
+      "rank": null
+    },
+    {
+      "name": "David Merryweather Leach",
+      "rank": null
+    },
+    {
+      "name": "Hauxwell",
+      "rank": null
+    },
+    {
+      "name": "Anthony",
+      "rank": null
+    },
+    {
+      "name": "Williams",
+      "rank": null
+    },
+    {
+      "name": "Jacob Henry Roden",
+      "rank": null
+    },
+    {
+      "name": "Thomas William Rodgers",
+      "rank": null
+    },
+    {
+      "name": "Adam Wladyslaw Mecinski",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Witold Ludwik Suida",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Jan Zygmunt Kilmczak",
+      "rank": "Flying Officer"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 38 to 4. 34 additional names from station/OTU roll of honour moved to station_roll_names."
 }

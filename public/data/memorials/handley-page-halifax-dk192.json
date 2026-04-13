@@ -1,27 +1,38 @@
 {
   "id": "handley-page-halifax-dk192",
   "title": "Handley Page Halifax DK192",
-  "location_name": "",
-  "county": "",
+  "location_name": "Youlthorpe, East Yorkshire",
+  "county": "Antrim",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "DK192",
   "squadron": "",
   "crash_date": "1944-02-07",
-  "memorial_type": "",
-  "memorial_details": "description: AT THIS PLACE ON/ 7TH FEBRUARY 1944 AT 10AM/ HALIFAX BOMBER DK 192/ FROM RAF RUFFORTH, CRASHED IN/ 10/10THS CLOUD DURING A TRAINING FLIGHT./ ALL ON BOARD AND THE DRIVER OF/ A MILK LORRY WHO WAS PASSING/ ALONG THIS ROAD WERE KILLED./ (Names)/ ERECTED BY THEIR COMRADE/ (Name)/ WE WILL REMEMBER THEM.",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Large upright stone of remembrance. Made of grey granite. Incised lettering.",
+  "inscription": "AT THIS PLACE ON/ 7TH FEBRUARY 1944 AT 10AM/ HALIFAX BOMBER DK 192/ FROM RAF RUFFORTH, CRASHED IN/ 10/10THS CLOUD DURING A TRAINING FLIGHT./ ALL ON BOARD AND THE DRIVER OF/ A MILK LORRY WHO WAS PASSING/ ALONG THIS ROAD WERE KILLED./ (Names)/ ERECTED BY THEIR COMRADE/ (Name)/ WE WILL REMEMBER THEM.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/35102"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/35102",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.98547355698,
-  "longitude": -0.842459147788
+  "longitude": -0.842459147788,
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/18/384/large_35102_copyright_stephen_lowe.jpg"
+  ],
+  "community_connection": "A MILK LORRY WHO WAS PASSING ALONG THIS ROAD WERE KILLED",
+  "last_validated": "2026-04-13"
 }

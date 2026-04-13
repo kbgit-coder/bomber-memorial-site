@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.8608,
   "longitude": -1.1358,
   "maintainer": {
@@ -49,17 +49,17 @@
       "name": "Joseph Kevin De Roeck",
       "rank": "Flt Lt",
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Nottingham Southern Cemetery"
+      "burial_location": "Nottingham Southern Cemetery",
+      "nationality": "British"
     },
     {
       "name": "Finlay William David HEARN",
       "rank": "Sgt",
       "role": "Navigator/Observer",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Oxford"
+      "burial_location": "Oxford",
+      "nationality": "British"
     }
   ],
   "local_contacts": [

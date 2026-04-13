@@ -20,58 +20,56 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Conducting a high-altitude pressurisation trial over Derbyshire, Wellington W5795 was lost on 12 July 1942 after a propeller sheared away at 35,000 feet and tore through the aircraft's cabin. Squadron Leader Colmore was piloting the development flight when the stricken bomber came down near Sheldon village in the Peak District. Five were killed: S/Ldr Cyril Colmore, P/O Kenneth Radford, Fl/Sgt Ronald Gillott, Fl/Sgt Arthur Smith DFM, and civilian test observer Clifford Abbott \u2014 who had joined the crew in a non-military capacity and was aged just 23.",
   "crew": [
     {
       "rank": "S/Ldr",
       "name": "Cyril L.F. Colmore",
-      "service_number": "37651 RAF",
       "age": 29,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the pressurised cabin was breached at 32,500 feet after a propeller blade sheared off, causing catastrophic decompression.",
       "bio": "Squadron Leader and pilot, aged 29. Led the classified high-altitude pressurisation test programme from A&AEE Boscombe Down.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "37651 RAF",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Kenneth Radford",
-      "service_number": "123492 RAFVR",
       "age": 27,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the catastrophic decompression and subsequent crash.",
       "bio": "Pilot Officer serving with the RAFVR as second pilot, aged 27.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "123492 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Ronald P. Gillott",
-      "service_number": "650284 RAF",
       "age": 22,
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the crash. The aircraft disintegrated, with wreckage spread between Dale Abbey and Ockbrook.",
       "bio": "Flight Sergeant serving with the RAF, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "650284 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Arthur J. Smith DFM",
-      "service_number": "755349 RAF",
       "age": 23,
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "\u2014",
       "fate": "Killed",
       "cwgc_verified": true,
@@ -79,20 +77,22 @@
       "bio": "Flight Sergeant serving with the RAF, aged 23. Holder of the Distinguished Flying Medal, indicating exceptional operational service before his posting to the test programme.",
       "decorations": [
         "DFM"
-      ]
+      ],
+      "service_number": "755349 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Mr",
       "name": "Clifford V. Abbott",
-      "service_number": "\u2014 (civilian)",
       "age": 23,
       "role": "Civilian Test Observer",
-      "nationality": "British",
       "burial_location": "\u2014",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. A civilian technical observer monitoring the pressurisation test.",
       "bio": "Civilian test observer aged 23, attached to the experimental programme at Boscombe Down. One of the rare civilian casualties among these memorial records.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014 (civilian)",
+      "nationality": "British"
     },
     {
       "name": "Further",

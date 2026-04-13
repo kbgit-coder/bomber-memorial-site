@@ -21,7 +21,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Hampden X3054 of 49 Squadron departed RAF Scampton on a bombing raid against the German naval base at Lorient in occupied France. Returning in total cloud cover at 2,000 feet, the aircraft's radio was unable to receive, leaving Pilot Officer Wilson uncertain of his position relative to the coast. Intending to break cloud over the sea before crossing inland, he was further north than he believed and struck Hamel Down on Dartmoor at approximately 1,400 feet; the aircraft caught fire. Sergeants Ellis, Brames, and Lyon appear to have died on impact; Wilson, strapped into the pilot's seat, survived until the following day. All four crew members were killed \u2014 Wilson aged 25, Ellis aged 23, Lyon aged 23, and Brames aged 22. Wilson and Ellis are buried side by side at Exeter Higher Cemetery.",
   "crew": [
     {
@@ -29,49 +29,49 @@
       "name": "Robert David Wilson",
       "age": 25,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Higher Cemetery, Exeter",
       "fate": "Killed",
       "fate_detail": "Survived the initial impact but died the following day from his injuries. Buried side by side with Sgt Ellis at Exeter Higher Cemetery.",
       "bio": "A 25-year-old pilot with 49 Squadron at RAF Scampton. Wilson survived the crash initially but succumbed to his injuries the next day.",
       "cwgc_verified": true,
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2441621/WILSON,%20ROBERT%20DAVID/"
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2441621/WILSON,%20ROBERT%20DAVID/",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Richard Leonard Ashburton Ellis",
       "age": 23,
       "role": "2nd Pilot/Navigator",
-      "nationality": "British",
       "burial_location": "Higher Cemetery, Exeter",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the Hampden struck Hameldown Tor. Buried beside his pilot P/O Wilson at Exeter Higher Cemetery.",
       "cwgc_verified": true,
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2441536/ELLIS,%20RICHARD%20LEONARD%20ASHBURTON/"
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2441536/ELLIS,%20RICHARD%20LEONARD%20ASHBURTON/",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Ronald Brames",
       "age": 22,
       "role": "Rear Gunner",
-      "nationality": "British",
       "burial_location": "Eltham (St John the Baptist) Churchyard, London",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Hameldown Tor. Buried in his home town at Eltham churchyard in London.",
       "hometown": "Eltham, London",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Charles John Lyon",
       "age": 23,
       "role": "Wireless Operator",
-      "nationality": "British",
       "burial_location": "Prescot Cemetery, Lancashire",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Hameldown Tor. Buried in his home area at Prescot Cemetery in Lancashire.",
       "hometown": "Prescot, Lancashire",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "name": "Lyons",

@@ -1,27 +1,41 @@
 {
   "id": "crew-of-wellington-bomber-ln482",
   "title": "Crew of Wellington Bomber LN482",
-  "location_name": "",
-  "county": "",
+  "location_name": "Rothersthorpe, South Northamptonshire",
+  "county": "Northamptonshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "LN482",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Restored propeller blade, bent in places, supported by a flat-topped pyramid-styled square wooden base. Names of crew engraved onto a board-mounted brass plaque fixed to the lower propeller blade. New Zealand and Union flags stand outwards to either side of the propeller.",
-  "inscription": "",
+  "crash_date": "1944-04-05",
+  "memorial_type": "Trophy / Relic",
+  "memorial_details": "Restored propeller blade, bent in places, supported by a flat-topped pyramid-styled square wooden base. Names of crew engraved onto a board-mounted brass plaque fixed to the lower propeller blade. New Zealand and Union flags stand outwards to either side of the propeller.",
+  "inscription": "Upper propeller blade : In memory of / the 6 crew members / of / Wellington Bomber 482 / of 11 OTU / Which crashed near the Church / 5th April 1944 Plaque attached to lower propeller blade : (6 NAMES) / LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/37427"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/37427",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.203498110212,
-  "longitude": -0.956377125596
+  "longitude": -0.956377125596,
+  "grid_ref": "SP 71417",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/46/458/large_p1060453.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/46/460/large_p1060455.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/46/457/large_p1060452.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/46/459/large_p1060454.jpg"
+  ],
+  "community_connection": ""
 }

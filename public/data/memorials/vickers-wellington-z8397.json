@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-z8397",
   "title": "Vickers Wellington Z8397",
-  "location_name": "",
-  "county": "",
+  "location_name": "California, Great Yarmouth",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "Z8397",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "12 Squadron",
+  "crash_date": "1941-10-11",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Black-marble tablet comprising a plain rectangular backboard with a smaller curved-top panel superimposed. The squadron badge is at the top above the dedication, all with incised, white, upper-case letters.",
+  "inscription": "Badge: 12 12 / LEADS THE FIELD / Inscription: IN MEMORY OF THE CREW OF THE / WELLINGTON BOMBER Z8397 OF / No.12 SQUADRON ROYAL AIR FORCE / WHICH CRASHED ON CALIFORNIA / BEACH ON 11TH OCTOBER 1941. / (6 NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101410"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.672022646742,
-  "longitude": 1.722943204702
+  "longitude": 1.722943204702,
+  "grid_ref": "TG 51794",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "custodian": "California Tavern",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/138/404/large_nf_california_gap_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/173/686/large_101410.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/403/large_nf_california_gap_3.jpg"
+  ]
 }

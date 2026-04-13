@@ -1,27 +1,37 @@
 {
   "id": "short-stirling-lk276",
   "title": "Short Stirling LK276",
-  "location_name": "",
-  "county": "",
+  "location_name": "Little Easton, Uttlesford",
+  "county": "Essex",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "LK276",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "190 Squadron",
+  "crash_date": "1944-11-21",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "A large freestanding stone, to which a rectangular bronze plaque is attached. The plaque has the Royal Air Force crest at top-centre, followed by the inscription.",
+  "inscription": "IN LOVING MEMORY OF THE CREW OF/ STIRLING BOMBER, L.K.276, 190 SQD/ NEWTON FIELD, GREAT DUNMOW/ 21ST NOVEMBER 1944/ (names)/ PER ARDUA AD ASTRA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97203"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97203",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.893318389846,
-  "longitude": 0.315411331229
+  "longitude": 0.315411331229,
+  "grid_ref": "TL 59422",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/171/661/large_97203.jpg"
+  ]
 }

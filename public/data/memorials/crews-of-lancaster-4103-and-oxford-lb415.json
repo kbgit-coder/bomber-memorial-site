@@ -1,27 +1,40 @@
 {
   "id": "crews-of-lancaster-4103-and-oxford-lb415",
   "title": "Crews of Lancaster 4103 and Oxford LB415",
-  "location_name": "",
-  "county": "",
+  "location_name": "Screveton, Rushcliffe",
+  "county": "Nottinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "LB415",
-  "squadron": "",
+  "squadron": "No 5 Lancaster finishing school./ No 5 Group/ Royal Air Force Bomber Command",
   "crash_date": "1944-04-14",
-  "memorial_type": "",
-  "memorial_details": "description: Brass plaque:  In memory of/ the crews of two Royal Air Force aircraft/ who lost their lives in the mid-air collision/ above Screveton at 16.30 hours on Friday April 14th 1944/ Avro Lancaster Mark I serial number W4103/ of/ No 5 Lancaster finishing school./ NO 5 Group/ Royal Air Force Bomber Command/ Royal Air Force Syerston/ Nottinghamshire./ (Names)/ Airspeed Oxford Mark I Serial Number LB415/ No 93 Operational Training Unit/ No.7 Group/Royal Air Force Bomber Command/ Royal Air Force Wymeswold/ Leicestershire./ (Names)\r\nPaper memorial:  similar to plaque, but minor differences describing No 93 OTU and mispelling of names (see image)",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Square brass plaque mounted on a wooden board, with white, incised lettering. Rectangular paper memorial with red and black typescript mounted in narrow, black, glazed frame.",
+  "inscription": "Brass plaque: In memory of/ the crews of two Royal Air Force aircraft/ who lost their lives in the mid-air collision/ above Screveton at 16.30 hours on Friday April 14th 1944/ Avro Lancaster Mark I serial number W4103/ of/ No 5 Lancaster finishing school./ NO 5 Group/ Royal Air Force Bomber Command/ Royal Air Force Syerston/ Nottinghamshire./ (Names)/ Airspeed Oxford Mark I Serial Number LB415/ No 93 Operational Training Unit/ No.7 Group/Royal Air Force Bomber Command/ Royal Air Force Wymeswold/ Leicestershire./ (Names) Paper memorial: similar to plaque, but minor differences describing No 93 OTU and mispelling of names (see image)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/38802"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/38802",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.983021961167,
-  "longitude": -0.918582487663
+  "longitude": -0.918582487663,
+  "grid_ref": "SK 72881",
+  "photos": [],
+  "names_on_memorial": 11,
+  "died_count": 11,
+  "custodian": "St Wilfrid's Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/149/330/large_nz_screveton_church_4_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/149/331/large_nz_screveton_church_5_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/149/332/large_nz_screveton_church_3_0.jpg"
+  ]
 }

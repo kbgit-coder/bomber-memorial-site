@@ -1,27 +1,43 @@
 {
   "id": "handley-page-hampden-ad783",
   "title": "Handley Page Hampden AD783",
-  "location_name": "",
-  "county": "",
+  "location_name": "Eagle, North Kesteven",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "AD783",
   "squadron": "455 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Stone obelisk sitting on a base surrounded by a chain link fence supported by wooden posts. The front face has an incised inscription picked out in black, and the badges of RAF Bomber Command and 455 Sqn RAAF in colour at the top. On the building wall opposite to the front face of the obelisk is a glazed and framed information board with the history of the aircraft crash and the dedication of the memorial.",
-  "inscription": "",
+  "crash_date": "1942-02-13",
+  "memorial_type": "Obelisk",
+  "memorial_details": "Stone obelisk sitting on a base surrounded by a chain link fence supported by wooden posts. The front face has an incised inscription picked out in black, and the badges of RAF Bomber Command and 455 Sqn RAAF in colour at the top. On the building wall opposite to the front face of the obelisk is a glazed and framed information board with the history of the aircraft crash and the dedication of the memorial.",
+  "inscription": "(Bomber Command Badge) (455 Sqn R.A.A.F. badge)/ In Memory of/ (Names)/ The crew of R.A.A.F./ Handley-Page Hampden AD783/ Died at Eagle/ on the 13th February 1942/ Remembered with honour",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/100120"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/100120",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.19471692978,
-  "longitude": -0.690319172521
+  "longitude": -0.690319172521,
+  "grid_ref": "SK 87594",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/132/183/large_hampden_ad783_inscription.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/186/large_hampden_ad783_information_board_in_context.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/187/large_notice_of_memorial_service.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/185/large_hampden_ad783_information_board.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/184/large_hampden_ad783_memorial_in_context.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/182/large_hampden_ad783_memorial.jpg"
+  ],
+  "community_connection": "The crew of R.A.A.F. (Royal Australian Air Force)"
 }

@@ -1,27 +1,43 @@
 {
   "id": "61-squadron-handley-page-hampden-crew",
   "title": "61 Squadron Handley Page Hampden Crew",
-  "location_name": "",
-  "county": "",
+  "location_name": "Cawston, Broadland",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "",
   "squadron": "61 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1941-02-10",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular metal plaque with incised inscription in black lettering. Mounted onto a brick wall with Flying Fortress \"Lucky Strike\" plaques (WMR 19651).",
+  "inscription": "This Plaque is in memory of:/ Those killed when a Handley Page Hampden bomber plane/ of 61 Squadron crashed into Bluestone plantation/ February 10th 1941 - WW11/ Killing all the aircrew -/ (Names)/ www.cawstonheritage.co.uk",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/96400"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/96400",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.770385566689,
-  "longitude": 1.161339505934
+  "longitude": 1.161339505934,
+  "grid_ref": "TG 13356",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/110/663/large_96400c_amy_savage_15_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/110/661/large_96400a_amy_savage_15_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/110/662/large_96400b_amy_savage_15_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/110/664/large_96400d_amy_savage_15_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/110/665/large_96400e_amy_savage_15_july_2020.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

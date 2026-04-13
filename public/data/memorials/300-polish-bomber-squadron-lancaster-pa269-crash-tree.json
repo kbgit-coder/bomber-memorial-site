@@ -1,27 +1,35 @@
 {
   "id": "300-polish-bomber-squadron-lancaster-pa269-crash-tree",
   "title": "300 Polish Bomber Squadron: Lancaster PA269 crash - tree",
-  "location_name": "",
-  "county": "",
+  "location_name": "Wigston Magna, Oadby And Wigston",
+  "county": "Leicestershire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PA269",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Beech tree planted in school grounds on the site where a Lancaster PA269 being flown by members of 300 Polish Bomber Squadron crashed in 1946. Note: There is also a plaque inside the school commemorating this incident which bears the names of the six airmen who were killed - see memorial reference 55366.",
-  "inscription": "",
+  "memorial_type": "Avenue / Tree or grove",
+  "memorial_details": "Beech tree planted in school grounds on the site where a Lancaster PA269 being flown by members of 300 Polish Bomber Squadron crashed in 1946. Note: There is also a plaque inside the school commemorating this incident which bears the names of the six airmen who were killed - see memorial reference 55366.",
+  "inscription": "(None)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/55367"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/55367",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.585063965379,
-  "longitude": -1.108398361224
+  "longitude": -1.108398361224,
+  "grid_ref": "SP 60505",
+  "photos": [],
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/66/411/large_memorial_beech_tree_pa269_002.jpg"
+  ]
 }

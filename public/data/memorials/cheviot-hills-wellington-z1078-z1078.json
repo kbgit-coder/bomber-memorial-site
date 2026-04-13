@@ -26,77 +26,77 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "Wellington Z1078 departed RAF Snaith as one of fourteen aircraft tasked with bombing Hamburg on the night of 15 January 1942. The aircraft caught fire immediately; Sergeant Thomas Walter Irving Sgt was killed on impact. Three survivors — Pilot Officer Bertram Alexander Macdonald, Sergeant Laurence Warren Hunt, and Sergeant Frederick George Maple — were found unconscious near the burning wreckage by local farmer John Dagg, who climbed the hill guided by the smell of burning and exploding ammunition. Sergeants Charles Frederick Glover and William Henry Allworth were discovered sheltering behind a rock; Dagg and two shepherds brought all five down through a blizzard.",
+  "data_quality": "Good",
+  "narrative": "Wellington Z1078 departed RAF Snaith as one of fourteen aircraft tasked with bombing Hamburg on the night of 15 January 1942. The aircraft caught fire immediately; Sergeant Thomas Walter Irving Sgt was killed on impact. Three survivors \u2014 Pilot Officer Bertram Alexander Macdonald, Sergeant Laurence Warren Hunt, and Sergeant Frederick George Maple \u2014 were found unconscious near the burning wreckage by local farmer John Dagg, who climbed the hill guided by the smell of burning and exploding ammunition. Sergeants Charles Frederick Glover and William Henry Allworth were discovered sheltering behind a rock; Dagg and two shepherds brought all five down through a blizzard.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Laurence Warren Hunt",
-      "service_number": "405278",
       "age": 20,
       "role": "Pilot",
-      "nationality": "New Zealander",
       "fate": "Died of injuries",
       "fate_detail": "Survived the crash but died of injuries the following day. New Zealander serving with the RNZAF.",
       "cwgc_verified": true,
-      "bio": "Sgt Hunt was a 20-year-old New Zealander serving with the RNZAF. He died from his injuries the day after the crash."
+      "bio": "Sgt Hunt was a 20-year-old New Zealander serving with the RNZAF. He died from his injuries the day after the crash.",
+      "service_number": "405278",
+      "nationality": "New Zealander"
     },
     {
       "rank": "P/O",
       "name": "Bertram Alexander Macdonald",
-      "service_number": "J/6029",
       "age": 21,
       "role": "2nd Pilot",
-      "nationality": "Canadian",
       "fate": "Survived injured",
       "fate_detail": "Survived the crash with injuries. Canadian serving with the RCAF.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "J/6029",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "William Henry Allworth",
-      "service_number": "1259356",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Survived injured",
       "fate_detail": "Survived the crash with injuries.",
       "cwgc_verified": false,
-      "age": null
+      "age": null,
+      "service_number": "1259356",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Thomas Walter Irving Sgt",
-      "service_number": "405378",
       "age": 23,
       "role": "Observer",
-      "nationality": "New Zealander",
       "fate": "Killed",
       "fate_detail": "Killed on impact. New Zealander serving with the RNZAF.",
       "cwgc_verified": true,
-      "bio": "Sgt Irving was a 23-year-old New Zealander."
+      "bio": "Sgt Irving was a 23-year-old New Zealander.",
+      "service_number": "405378",
+      "nationality": "New Zealander"
     },
     {
       "rank": "Sgt",
       "name": "Frederick George Maple",
-      "service_number": "1311110",
       "age": 33,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Died of injuries",
       "fate_detail": "Survived the crash but died of injuries the following day.",
       "cwgc_verified": true,
-      "bio": "At 33, the oldest crew member."
+      "bio": "At 33, the oldest crew member.",
+      "service_number": "1311110",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Charles Frederick Glover",
-      "service_number": "535512",
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Survived injured",
       "fate_detail": "Survived the crash with injuries. One of three survivors rescued by local farmer John Dagg.",
       "cwgc_verified": false,
-      "age": null
+      "age": null,
+      "service_number": "535512",
+      "nationality": "British"
     }
   ],
   "memorial_details": "The Cheviot Airmen Memorial stands in the College Valley, opposite Cuddystone Hall. Originally unveiled 19 May 1995 by HRH The Duke of Gloucester. Rededicated 6 September 2018 after a 25,000-pound restoration as part of RAF 100 centenary celebrations.",
@@ -148,7 +148,7 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/150.jpg",
-  "squadron_motto": "Αιει Φθανομεν (Aiei Phthanomen)",
+  "squadron_motto": "\u0391\u03b9\u03b5\u03b9 \u03a6\u03b8\u03b1\u03bd\u03bf\u03bc\u03b5\u03bd (Aiei Phthanomen)",
   "what3words": "highlight.universal.chest",
   "location_confidence": {
     "status": "estimated",

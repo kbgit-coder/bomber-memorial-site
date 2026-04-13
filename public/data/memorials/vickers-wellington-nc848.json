@@ -1,27 +1,38 @@
 {
   "id": "vickers-wellington-nc848",
   "title": "Vickers Wellington NC848",
-  "location_name": "",
-  "county": "",
+  "location_name": "Bideford, Torridge",
+  "county": "Devon",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "NC848",
   "squadron": "407 Squadron",
   "crash_date": "1945-03-07",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A metal plaque mounted onto an angled stone mount. The crest of the 407 Squadron RCAF is above the dedication, and the badge of the Royal British Legion is below.",
   "inscription": "407 SQUADRON R.C.A.F./ COASTAL COMMAND/ WELLINGTON BOMBER P-PETER/ CRASHED 500 METRES BEYOND THIS / POINT ON 7TH MARCH 1945/ TO HONOUR THEIR MEMORY/ (NAMES)/ AND THE SURVIVOR/ (NAME)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/25838"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/25838",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.021050134326,
-  "longitude": -4.198126302616
+  "longitude": -4.198126302616,
+  "grid_ref": "SS 45927",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 3,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/32/48/25838_penny_woollard_07_2006.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/32/48/mid_25838_penny_woollard_07_2006.jpg"
+  ]
 }

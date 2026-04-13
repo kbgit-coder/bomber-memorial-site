@@ -20,14 +20,13 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On a routine daytime training flight, Boeing RB-29A Superfortress \"Overexposed\" departed RAF Scampton bound for Burtonwood, flying in formation with two other aircraft. Captain Tanner and co-pilot Captain Stroud were navigating by instruments beneath low cloud cover when strong headwinds \u2014 unaccounted for \u2014 slowed the aircraft, leaving it still over the Pennines as the crew began their descent, believing the high ground was behind them. At approximately 11:00, the aircraft struck Higher Shelf Stones on Bleaklow at 610 metres. Of the crew and passengers aboard, 13 were killed, including Captain Landon P. Tanner, Captain Harry A. Stroud, and nine others among the flight and camera crews. Substantial wreckage remains on the hillside today, and the site is registered as a protected memorial to the fallen.",
   "crew": [
     {
       "rank": "Captain",
       "name": "Landon P. Tanner",
       "role": "Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the RB-29A struck Higher Shelf Stones at 610 metres altitude. The RAF Mountain Rescue Service located the wreckage at approximately 16:30 the same day."
     },
@@ -35,7 +34,6 @@
       "rank": "Captain",
       "name": "Harry A. Stroud",
       "role": "Co-pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -43,7 +41,6 @@
       "rank": "Technical Sergeant",
       "name": "Ralph W. Fields",
       "role": "Flight Engineer",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -51,7 +48,6 @@
       "rank": "Sergeant",
       "name": "Charles R. Wilbanks",
       "role": "Navigator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "As navigator, Wilbanks would have been responsible for the course calculations that failed to account for the strong headwind, placing the aircraft still over the Pennines when the crew believed they had cleared them."
     },
@@ -59,7 +55,6 @@
       "rank": "Staff Sergeant",
       "name": "Gene A. Gartner",
       "role": "Radio Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -67,7 +62,6 @@
       "rank": "Staff Sergeant",
       "name": "David Devere Moore",
       "role": "Radar Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones. Moore is buried at Arlington National Cemetery, Section 12, directly downhill from the Tomb of the Unknown Soldier.",
       "burial_location": "Arlington National Cemetery, Section 12",
@@ -77,7 +71,6 @@
       "rank": "Technical Sergeant",
       "name": "Saul R. Banks",
       "role": "Camera Crew",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones. Banks was part of the 16th Photographic Reconnaissance Squadron's camera crew."
     },
@@ -85,7 +78,6 @@
       "rank": "Sergeant",
       "name": "Donald R. Arbogast",
       "role": "Camera Crew",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -93,7 +85,6 @@
       "rank": "Staff Sergeant",
       "name": "Robert I. Doyle",
       "role": "Camera Crew",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -101,7 +92,6 @@
       "rank": "Unknown",
       "name": "William M. Burrows",
       "role": "Camera Crew",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -109,7 +99,6 @@
       "rank": "Corporal",
       "name": "Clarence M. Franssen",
       "role": "Passenger",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -117,7 +106,6 @@
       "rank": "Corporal",
       "name": "George Ingram Jr",
       "role": "Passenger",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Higher Shelf Stones."
     },
@@ -125,7 +113,6 @@
       "rank": "Captain",
       "name": "Howard E. Keel",
       "role": "Acting Photographic Advisor (4201st Motion Picture Unit)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Keel was from the 4201st Motion Picture Unit and was acting as photographic advisor for the reconnaissance squadron.",
       "bio": "Captain Keel was a member of the 4201st Motion Picture Unit, acting as photographic advisor to the 16th Photographic Reconnaissance Squadron."
@@ -140,8 +127,7 @@
       "name": "Donald R. Abrogast",
       "rank": "Sergeant",
       "fate": "Killed",
-      "role": "Camera Crew",
-      "nationality": "American"
+      "role": "Camera Crew"
     },
     {
       "name": "Ralph Fields Navigator",

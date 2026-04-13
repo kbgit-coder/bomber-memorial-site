@@ -1,27 +1,38 @@
 {
   "id": "short-stirling-r9329",
   "title": "Short Stirling R9329",
-  "location_name": "",
-  "county": "",
+  "location_name": "Cornwood, South Hams",
+  "county": "Devon",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "R9329",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "149 Squadron",
+  "crash_date": "1942-08-21",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Rectangular granite freestanding stone of remembrance. Lettering is carved in black.",
+  "inscription": "STIRLING BOMBER OF/ 149 SQDN RAF/ CRASHED HERE WITH/ THE LOSS OF/ 7 AIRCREW ON THE/ 21ST AUGUST 1942/ CREW:/ (Names)/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/69860"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/69860",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.421873784994,
-  "longitude": -3.980185397158
+  "longitude": -3.980185397158,
+  "grid_ref": "SX 59428",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/63/583/large_69860_r.jpg"
+  ],
+  "community_connection": "We Will Remember Them"
 }

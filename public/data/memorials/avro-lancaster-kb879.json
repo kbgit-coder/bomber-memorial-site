@@ -1,27 +1,39 @@
 {
   "id": "avro-lancaster-kb879",
   "title": "Avro Lancaster KB879",
-  "location_name": "",
-  "county": "",
+  "location_name": "Burston, Stafford",
+  "county": "Staffordshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "KB879",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: A rough hewn rectangular stone pillar with sloping top mounted between mounted between five stone slabs. \r\nOn the front upper face are two metal plaques, the top has the dedication and names and the lower the Squadron number and base. Both are incised and with the lettering picked out in white.",
-  "inscription": "",
+  "squadron": "428 Squadron",
+  "crash_date": "1945-04-30",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "A rough hewn rectangular stone pillar with sloping top mounted between mounted between five stone slabs. On the front upper face are two metal plaques, the top has the dedication and names and the lower the Squadron number and base. Both are incised and with the lettering picked out in white.\n\nThe memorial was erected by the Sandon & District Royal British Legion, indicating a local connection.",
+  "inscription": "Top plaque: THIS STONE WAS ERECTED IN 1999/ BY THE/ SANDON & DISTRICT/ ROYAL BRITISH LEGION/ IN MEMORY OF THE CREW OF A/ LANCASTER BOMBER/ WHICH CRASHED NEARBY/ ON 30 APRIL 1945/ (Names)/ WE WILL REMEMBER THEM Lower plaque: 428 SQDN MIDDLETON ST GEORGE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/38315"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/38315",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.867281817273,
-  "longitude": -2.084987740017
+  "longitude": -2.084987740017,
+  "grid_ref": "SJ 94375",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/156/213/large_st_sandon_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/156/212/large_st_sandon_1.jpg"
+  ],
+  "community_connection": ""
 }

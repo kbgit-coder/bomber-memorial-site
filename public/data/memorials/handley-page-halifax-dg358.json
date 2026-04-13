@@ -1,27 +1,38 @@
 {
   "id": "handley-page-halifax-dg358",
   "title": "Handley Page Halifax DG358",
-  "location_name": "",
-  "county": "",
+  "location_name": "Aberhafesp, Montgomeryshire",
+  "county": "Powys",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "DG358",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Handwritten Roll of Honour with dedicatory inscription.  Above the list of names is a drawing of a Halifax Bomber and at base, there is an illustration of the tractor and trailer that carried them to their rest at Bwlch-y-ffridd on the evening of the accident.",
-  "inscription": "",
+  "crash_date": "1944-01-23",
+  "memorial_type": "Roll of honour or book of remembrance",
+  "memorial_details": "Handwritten Roll of Honour with dedicatory inscription. Above the list of names is a drawing of a Halifax Bomber and at base, there is an illustration of the tractor and trailer that carried them to their rest at Bwlch-y-ffridd on the evening of the accident.",
+  "inscription": "In memory of the R.A.F. (V.R.) Airmen who died/ when their Halifax Aircraft crashed at/ Glascoed, Bwlch-y-ffridd in this Parish/ on 23rd January 1944/ (Names)/ Their bodies rested at/ Bwlch-y--ffridd Institute/ on the evening of the 23rd.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/65780"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/65780",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.517752589476,
-  "longitude": -3.386702143845
+  "longitude": -3.386702143845,
+  "photos": [],
+  "names_on_memorial": 9,
+  "died_count": 9,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/63/834/large_65780_r.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

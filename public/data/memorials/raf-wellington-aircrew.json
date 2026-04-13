@@ -1,27 +1,40 @@
 {
   "id": "raf-wellington-aircrew",
   "title": "RAF Wellington Aircrew",
-  "location_name": "",
-  "county": "",
+  "location_name": "Withington, Cotswold",
+  "county": "Gloucestershire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
   "squadron": "",
   "crash_date": "1943-04-19",
-  "memorial_type": "",
-  "memorial_details": "description: IN MEMORY OF THOSE WHO DIED AT STAPLE FARM WITHINGTON / ON 19th APRIL 1943 / IN A VICKERS WELLINGTON AIRCRAFT OF THE ROYAL AIR FORCE / [7 Names] / THEY SHALL GROW NOT OLD, AS WE THAT ARE LEFT GROW OLD: / AGE SHALL NOT WEARY THEM, NOR THE YEARS CONDEMN. / AT THE GOING DOWN OF THE SUN AND IN THE MORNING, / WE WILL REMEMBER THEM.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular board with moulded edges, painted to resemble stone. RAF badge flanked by 2 other badges are located across the top, above the dedication in black, upper and lower-case script.",
+  "inscription": "IN MEMORY OF THOSE WHO DIED AT STAPLE FARM WITHINGTON / ON 19th APRIL 1943 / IN A VICKERS WELLINGTON AIRCRAFT OF THE ROYAL AIR FORCE / [7 Names] / THEY SHALL GROW NOT OLD, AS WE THAT ARE LEFT GROW OLD: / AGE SHALL NOT WEARY THEM, NOR THE YEARS CONDEMN. / AT THE GOING DOWN OF THE SUN AND IN THE MORNING, / WE WILL REMEMBER THEM.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/36836"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/36836",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.839226332132,
-  "longitude": -1.956265680244
+  "longitude": -1.956265680244,
+  "grid_ref": "SP 03109",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "St Michael and All Angels' Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/124/456/large_gz_withington_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/124/455/large_gz_withington_3.jpg"
+  ],
+  "community_connection": "WITHINGTON / ON"
 }

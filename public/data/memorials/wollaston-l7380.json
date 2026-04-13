@@ -21,97 +21,97 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Flying Officer John Withers DFC, aged 21, piloted Avro Manchester L7314 of 207 Squadron on a bombing raid targeting the docks at Boulogne, France, departing from RAF Waddington. Returning from the operation on 22 June 1941, the aircraft was shot down by an RAF Bristol Beaufighter night fighter that mistook it for an enemy raider reported in the area. The Manchester crashed near Poplars Farm, Wollaston, Northamptonshire. Seven crew members were killed, including Withers, Sergeant Alick James, Flight Sergeant William Brown DFM, Flight Sergeant Michael Browne, Flight Sergeant Allan Malone, Sergeant Stanley Veitch, and Sergeant John Maville. A memorial at Wollaston now marks the site, commemorating those lost in this tragic act of friendly fire.",
   "crew": [
     {
       "rank": "F/O",
       "name": "John Douglas George Withers DFC",
-      "service_number": "—",
       "age": 21,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed when the Manchester was shot down by a RAF Beaufighter night fighter in a tragic friendly fire incident. Part of the bomb load exploded before crew could escape the burning wreck.",
       "bio": "Aged 21, holder of the DFC. A contemporary of the legendary Guy Gibson at nearby 83 Squadron, Scampton. Killed by friendly fire.",
       "decorations": [
         "DFC"
-      ]
+      ],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Alick Michael James",
-      "service_number": "—",
       "role": "2nd Pilot",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown and subsequent explosion.",
       "bio": "Second pilot serving with the RAF.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "William Brown DFM",
-      "service_number": "—",
       "role": "Observer",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown. A decorated airman killed by his own side.",
       "bio": "Flight Sergeant and observer, holder of the DFM. One of two decorated airmen in the crew, both killed by friendly fire.",
       "decorations": [
         "DFM"
-      ]
+      ],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Michael Vincent Browne",
-      "service_number": "—",
       "role": "W/Op",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown.",
       "bio": "Flight Sergeant serving as wireless operator.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Allan Malone",
-      "service_number": "—",
       "role": "W/Op",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown.",
       "bio": "Flight Sergeant serving as wireless operator.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Stanley Veitch",
-      "service_number": "—",
       "role": "W/Op",
-      "nationality": "British",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown.",
       "bio": "Sergeant serving as wireless operator.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Allan Maville",
-      "service_number": "— RCAF",
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Lincolnshire (near base)",
       "fate": "Killed",
       "fate_detail": "Killed in the friendly fire shootdown. The only Canadian in the crew.",
       "bio": "Canadian air gunner serving with the RCAF. The only non-British crew member.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "\u2014 RCAF",
+      "nationality": "Canadian"
     },
     {
       "name": "William Brown",
@@ -129,14 +129,14 @@
       "rank": null,
       "fate": "Killed",
       "role": "Unknown (other crew members)",
-      "nationality": "British",
-      "burial_location": "Near Poplars Farm, Wollaston"
+      "burial_location": "Near Poplars Farm, Wollaston",
+      "nationality": "British"
     }
   ],
-  "cause_of_loss": "Friendly fire — shot down by RAF Beaufighter night fighter",
+  "cause_of_loss": "Friendly fire \u2014 shot down by RAF Beaufighter night fighter",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on docks at Boulogne, France",
-  "memorial_details": "On 22 June 2021 — eighty years to the day — a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.\n\nMemorial Unveiled Honouring WW2 Bomber Crew Killed In Crash A new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven crew.\n\nA new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven crew.\n\nMemorial Unveiling (80th anniversary of the crash (exact date not specified)): Unveiling of a new memorial to commemorate the 7 crew members of a 207 Squadron Manchester bomber killed in a mistaken RAF Beaufighter night fighter shootdown near Wollaston, Northamptonshire.\n\nMemorial Dedication (2021-06-22): A memorial was dedicated on land near Poplars Farm, Wollaston close to the crash site for seven crew members of Avro Manchester L7314. The project was driven by the Wollaston Parish Council and funded by public donations.",
+  "memorial_details": "On 22 June 2021 \u2014 eighty years to the day \u2014 a memorial was dedicated near Poplars Farm, Wollaston, close to the crash site. The unveiling was attended by relatives of five crew members and by representatives of today's No. 207 Squadron and RAF Association. The Hatton Rotary Club (Wellingborough) led the memorial campaign. Publicly accessible near the crash site.\n\nMemorial Unveiled Honouring WW2 Bomber Crew Killed In Crash A new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven\u00a0crew.\n\nA new memorial has been unveiled to commemorate the 80th anniversary of the crash of a 207 Squadron Manchester bomber, resulting in the death of its seven crew.\n\nMemorial Unveiling (80th anniversary of the crash (exact date not specified)): Unveiling of a new memorial to commemorate the 7 crew members of a 207 Squadron Manchester bomber killed in a mistaken RAF Beaufighter night fighter shootdown near Wollaston, Northamptonshire.\n\nMemorial Dedication (2021-06-22): A memorial was dedicated on land near Poplars Farm, Wollaston close to the crash site for seven crew members of Avro Manchester L7314. The project was driven by the Wollaston Parish Council and funded by public donations.",
   "latitude": 52.2545,
   "longitude": -0.671,
   "maintainer": {

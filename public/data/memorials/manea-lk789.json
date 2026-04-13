@@ -21,7 +21,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.482132298748525,
   "longitude": 0.1755334614330451,
   "maintainer": {
@@ -159,8 +159,8 @@
       "name": "Douglas R Dibbins",
       "fate": "Killed",
       "rank": null,
-      "nationality": "British",
-      "role": "Pilot"
+      "role": "Pilot",
+      "nationality": "British"
     },
     {
       "name": "Norris M Harrison",
@@ -171,8 +171,8 @@
       "name": "Gerald J Head",
       "fate": "Killed",
       "rank": null,
-      "nationality": "British",
-      "role": "Flight Engineer"
+      "role": "Flight Engineer",
+      "nationality": "British"
     },
     {
       "name": "Kenneth C Oswald",

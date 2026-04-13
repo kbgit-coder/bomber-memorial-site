@@ -1,27 +1,42 @@
 {
   "id": "handley-page-halifax-lv905",
   "title": "Handley Page Halifax LV905",
-  "location_name": "",
-  "county": "",
+  "location_name": "Breighton, East Yorkshire",
+  "county": "East Riding of Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LV905",
   "squadron": "460 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Part of a WW2 aircraft engine (probably a Bristol Hercules radial engine from a Halifax bomber), set on a gravel base within a low brick wall.  A higher brick wall at the rear has a black marble (or possibly polished granite), dedicatory tablet with 78 and 460 squadron badges and further words stencilled onto the bricks.  In front of the engine another black tablet commemorates the crew of Halifax LV905 lost in action over Belgium.",
-  "inscription": "",
+  "crash_date": "1944-05-25",
+  "memorial_type": "Sculpture",
+  "memorial_details": "Part of a WW2 aircraft engine (probably a Bristol Hercules radial engine from a Halifax bomber), set on a gravel base within a low brick wall. A higher brick wall at the rear has a black marble (or possibly polished granite), dedicatory tablet with 78 and 460 squadron badges and further words stencilled onto the bricks. In front of the engine another black tablet commemorates the crew of Halifax LV905 lost in action over Belgium.",
+  "inscription": "On back wall: 1940 RAF Breighton 1945 On rear tablet: DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND/ GAVE THEIR LIVES DURING WORLD WAR II On front tablet: THE CREW OF HANDLEY PAGE HALIFAX MK III LV905 EY-W/ WHO LOST THEIR LIVES IN ACTION 25TH MAY 1944/ (names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/99023"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/99023",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.802194333404,
-  "longitude": -0.916828116123
+  "longitude": -0.916828116123,
+  "grid_ref": "SE 71435",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "Real Aeroplane Club",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/126/708/large_dscn0388_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/126/707/large_dscn0392.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/126/705/large_dscn0388.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/126/706/large_dscn0390.jpg"
+  ],
+  "community_connection": "DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND GAVE THEIR LIVES"
 }

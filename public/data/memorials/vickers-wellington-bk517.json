@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-bk517",
   "title": "Vickers Wellington BK517",
-  "location_name": "",
-  "county": "",
+  "location_name": "Bodicote, Cherwell",
+  "county": "Oxfordshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BK517",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1942-12-28",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Large block of Hornton stone incorporating an engraved bronze plaque with RAF insignia badge at top centre. The whole memorial is enclosed by a circular metal railing fence.",
+  "inscription": "RAF badge : PER ARDUA AD ASTRA / Inscription : THIS MEMORIAL IS DEDICATED TO THE AIRMEN / WHO TRAGICALLY LOST THEIR LIVES / ON 28th DECEMBER 1942 / WHILST FLYING THEIR WELLINGTON BOMBER BK517 / WHICH CAME DOWN NEAR THIS SITE / (6 Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/63182"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/63182",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.035432015626,
-  "longitude": -1.334570119734
+  "longitude": -1.334570119734,
+  "grid_ref": "SP 45743",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/336/large_63182.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/337/large_63182a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/79/189/large_2019_10_24_08_37_51.jpg"
+  ]
 }

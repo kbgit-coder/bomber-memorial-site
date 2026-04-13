@@ -1,27 +1,39 @@
 {
   "id": "normanton-on-soar-bomber-crash",
   "title": "Normanton on Soar - Bomber crash",
-  "location_name": "",
-  "county": "",
+  "location_name": "Normanton on Soar, Rushcliffe",
+  "county": "Nottinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "MF200",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Rectangular sectioned stone pillar set into the ground incorporating a sloping top face onto which, is mounted an engraved rectangular metal plaque. Black text. (Although the inscription does not state the type of aircraft, other records signify a Wellington Bomber MF200 of 28 OTU Squadron).",
-  "inscription": "",
+  "crash_date": "1944-04-19",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular sectioned stone pillar set into the ground incorporating a sloping top face onto which, is mounted an engraved rectangular metal plaque. Black text. (Although the inscription does not state the type of aircraft, other records signify a Wellington Bomber MF200 of 28 OTU Squadron).",
+  "inscription": "A memorial to the men who lost their lives / In the 19th April 1944 Bomber Crash at / Normanton on Soar / (4 Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/68059"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/68059",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.801636039449,
-  "longitude": -1.228821873665
+  "longitude": -1.228821873665,
+  "grid_ref": "SK 52102",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/329/large_108496b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/328/large_108496a.jpg"
+  ],
+  "community_connection": "Normanton on Soar"
 }

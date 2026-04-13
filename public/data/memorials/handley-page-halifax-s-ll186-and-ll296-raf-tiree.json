@@ -1,27 +1,43 @@
 {
   "id": "handley-page-halifax-s-ll186-and-ll296-raf-tiree",
   "title": "Handley Page Halifax's LL186 and LL296 RAF Tiree",
-  "location_name": "",
-  "county": "",
+  "location_name": "Isle of Tiree, Argyll And Bute",
+  "county": "Dunbartonshire and Argyll and Bute",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LL186",
   "squadron": "",
   "crash_date": "1944-08-16",
-  "memorial_type": "",
-  "memorial_details": "description: In memory of two Second World War Coastal Command aircrews who tragically lost their lives when/ their Handley Page Halifax aircraft collided over this airfield on Wednesday 16th August 1944/ [names]/ This memorial was unveiled by Kenneth Organ on 16th August 2014",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Metal plaque on granite base",
+  "inscription": "In memory of two Second World War Coastal Command aircrews who tragically lost their lives when/ their Handley Page Halifax aircraft collided over this airfield on Wednesday 16th August 1944/ [names]/ This memorial was unveiled by Kenneth Organ on 16th August 2014",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/70741"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/70741",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 56.498452007958,
-  "longitude": -6.879216357016
+  "longitude": -6.879216357016,
+  "grid_ref": "NL 99853",
+  "photos": [],
+  "names_on_memorial": 16,
+  "died_count": 16,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/47/317/large_2_jmb_08_06_2016_10_46_54_000994803.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/319/large_4_jmb_08_06_2016_10_47_06_000994603.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/321/large_6_jmb_08_06_2016_10_47_19_000994403.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/316/large_1_jmb_08_06_2016_10_46_45_000994903.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/322/large_7_jmb_09_06_2016_14_05_23_000952003.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/320/large_5_jmb_08_06_2016_10_47_10_000994503.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/318/large_3_jmb_08_06_2016_10_47_03_000994703.jpg"
+  ]
 }

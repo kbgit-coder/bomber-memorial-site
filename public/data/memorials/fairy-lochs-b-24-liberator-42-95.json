@@ -30,15 +30,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "On 13 June 1945, a B-24 Liberator departed Prestwick carrying a crew of nine and six passengers, returning home following the end of the war in Europe. The aircraft should have routed over Stornoway, but a navigational error brought it inland over the Scottish Highlands instead. Flying through heavy cloud, the Liberator struck the summit of Slioch before breaking through the cloud base over Gairloch. The crew circled the loch once — possibly searching for a place to ditch — before attempting a final approach that failed to clear the rocky spurs beside the Fairy Lochs. All fifteen men aboard were killed, among them the pilot, 1st Lieutenant Jack B. Ketchum, who was 22 years old.",
+  "data_quality": "Partial",
+  "narrative": "On 13 June 1945, a B-24 Liberator departed Prestwick carrying a crew of nine and six passengers, returning home following the end of the war in Europe. The aircraft should have routed over Stornoway, but a navigational error brought it inland over the Scottish Highlands instead. Flying through heavy cloud, the Liberator struck the summit of Slioch before breaking through the cloud base over Gairloch. The crew circled the loch once \u2014 possibly searching for a place to ditch \u2014 before attempting a final approach that failed to clear the rocky spurs beside the Fairy Lochs. All fifteen men aboard were killed, among them the pilot, 1st Lieutenant Jack B. Ketchum, who was 22 years old.",
   "crew": [
     {
       "rank": "1st Lt",
       "name": "Jack B. Ketchum",
       "age": 22,
       "role": "Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the B-24 struck the hills above the Fairy Lochs at high speed. Although only 22, Ketchum had completed 33 combat missions and had been declared 'missing in action' twice after crash landings in Belgium and Russia.",
       "bio": "A 22-year-old veteran pilot with 33 combat missions. He and his crew were ferrying the B-24 back to the US and had jumped at the chance to get home early. He had survived two previous crash landings."
@@ -47,7 +46,6 @@
       "rank": "1st Lt",
       "name": "Jack H. Spencer",
       "role": "Co-Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -55,7 +53,6 @@
       "rank": "2nd Lt",
       "name": "Richard J. Robak",
       "role": "Navigator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact. As navigator, he would have been responsible for the planned route via Stornoway and out across the North Atlantic."
     },
@@ -63,7 +60,6 @@
       "rank": "T/Sgt",
       "name": "Hillburn L. Cheek",
       "role": "Engineer",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -71,7 +67,6 @@
       "rank": "T/Sgt",
       "name": "James C. Stammer",
       "role": "Radio Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -79,7 +74,6 @@
       "rank": "S/Sgt",
       "name": "Eldon J. Gilles",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -87,7 +81,6 @@
       "rank": "S/Sgt",
       "name": "Herman Riefen",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -95,7 +88,6 @@
       "rank": "S/Sgt",
       "name": "Raymond E. Davis",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -103,7 +95,6 @@
       "rank": "S/Sgt",
       "name": "Albert L. Natkin",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -111,7 +102,6 @@
       "rank": "S/Sgt",
       "name": "John H. Hallissey",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command hitching a ride home to the US."
     },
@@ -119,7 +109,6 @@
       "rank": "S/Sgt",
       "name": "Robert J. Francis",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -127,7 +116,6 @@
       "rank": "S/Sgt",
       "name": "Emil Einarsen",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -135,7 +123,6 @@
       "rank": "S/Sgt",
       "name": "John B. Ellis Jr.",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -143,7 +130,6 @@
       "rank": "S/Sgt",
       "name": "James D. Harvey",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -151,7 +137,6 @@
       "rank": "S/Sgt",
       "name": "Alexander W. Hastings",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     }

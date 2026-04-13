@@ -1,27 +1,46 @@
 {
   "id": "victor-george-bailey-and-louis-grover-martin-wellington-crash-ford",
-  "title": "Victor George Bailey and Louis Grover Martin - Wellington Crash, Ford",
-  "location_name": "",
-  "county": "",
+  "title": "Ford Vickers Wellington",
+  "location_name": "Ford",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Royal Air Force\r\nIn memory of \r\nSergeant Victor George Bailey,\r\n1585910, Royal Air Force Volunteer Reserve.\r\nWireless Operator, aged 20 yrs.\r\nOf Rainham, Essex\r\nAnd\r\nSeargent Louis Grover Martin,\r\nR/182617, Royal Canadian Air Force, \r\nRear Gunner, aged 22 yrs.\r\nof Big River, Saskatchewan,\r\nCanada\r\n\r\nWho died when their Wellington Bomber \r\nCrashed in Ford \r\nOn 9th January, 1944.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Post with metal plaque on top. Commemoration with names and image of Wellington Bomber.",
+  "inscription": "Royal Air Force In memory of Sergeant Victor George Bailey, 1585910, Royal Air Force Volunteer Reserve. Wireless Operator, aged 20 yrs. Of Rainham, Essex And Seargent Louis Grover Martin, R/182617, Royal Canadian Air Force, Rear Gunner, aged 22 yrs. of Big River, Saskatchewan, Canada Who died when their Wellington Bomber Crashed in Ford On 9th January, 1944.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/107643"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/107643",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "Victor George Bailey",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.77777,
-  "longitude": -0.8739318
+  "longitude": -0.8739318,
+  "grid_ref": "SP 77785",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/169/982/20100312_ford_1_001.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/169/983/20100312_ford_2_001.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/169/984/20100312_ford_6_001.jpg"
+  ],
+  "original_title": "Victor George Bailey and Louis Grover Martin - Wellington Crash, Ford"
 }

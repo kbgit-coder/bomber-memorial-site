@@ -31,176 +31,176 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On the afternoon of 25 August 1942, Sunderland W4026 took off from the seaplane base at RAF Invergordon on the Cromarty Firth at 13:05, bound for Reykjavik, Iceland. Fog persisted and the aircraft, flying on instruments, veered off its planned flight path. Just 37 minutes after take-off, at 13:42, the Sunderland flew into Eagle's Rock (Creag na h-Iolaire), a headland near Dunbeath in Caithness. Fourteen of the fifteen on board were killed. The sole survivor was Flt Sgt Andrew Jack, the rear gunner, who was thrown clear. Confused, disorientated, and suffering from burns to his face and body, Jack wandered aimlessly in the mist before being discovered the following day by the Sutherland family at their remote croft at Rinsary. The Duke of Kent became the first member of the Royal Family killed on active service since 1453. A Royal Air Force Board of Inquiry attributed the crash to navigational error.",
   "crew": [
     {
       "rank": "Flt Lt",
       "name": "Frank McKenzie Goyen",
-      "service_number": "42057 RAF",
       "role": "Captain/Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock. Blamed by the Board of Inquiry for the navigational error, though questions remain about whether he was actually at the controls or whether Wg Cdr Moseley was flying.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
       "bio": "An Australian pilot serving with the RAF, Goyen was the official captain of Sunderland W4026. The investigation blamed him for the navigational error, but it remains disputed whether he or Wg Cdr Moseley was at the controls.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "42057 RAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Wg Cdr",
       "name": "Thomas Lawton Moseley",
-      "service_number": "33064 RAF",
       "role": "CO 228 Sqn / 1st Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. As Commanding Officer of 228 Squadron, Moseley outranked Goyen and questions persist about who was actually flying the aircraft.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
       "bio": "Commanding Officer of 228 Squadron. His presence as a senior officer aboard raised questions about the chain of command during the fatal flight.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "33064 RAF",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Sydney Wood Smith",
-      "service_number": "403961 RAAF",
       "role": "2nd Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "403961 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "P/O",
       "name": "George Richard Saunders",
-      "service_number": "126975 RAFVR",
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Responsible for the navigation that the Board of Inquiry found to be in error.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "126975 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "The Hon. Michael Strutt",
-      "service_number": "J15062 RCAF",
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J15062 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Flt Sgt",
       "name": "William Royston Jones",
-      "service_number": "523047 RAF",
       "role": "Flight Mechanic/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "523047 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Charles Norman Lewis",
-      "service_number": "517386 RAF",
       "role": "Airframe Fitter",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "517386 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Ernest James Hewerdine",
-      "service_number": "566884 RAF",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "566884 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Andrew Simpson Wilson Jack",
-      "service_number": "970168 RAFVR",
       "role": "Rear Air Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Sole survivor. Jack was manning the rear gun turret which was torn free on impact, throwing him clear. Burned and disorientated, he wandered the moor before being found by the Sutherland family at Rinsary croft the following day. He was forced to sign the Official Secrets Act and refused to discuss the accident for the rest of his life. He felt the injustice of the pilot being blamed deeply affected him. He died in 1978.",
       "bio": "Andrew Simpson Wilson Jack (1921-1978) was from Grangemouth, Scotland. He was 21 at the time of the crash. The sole survivor, he was haunted by survivor's guilt and the perceived injustice of the official findings for the rest of his life. He refused to discuss the crash until his death in 1978.",
       "hometown": "Grangemouth, Scotland",
-      "age": 21
+      "age": 21,
+      "service_number": "970168 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Edward Francis Blacklock",
-      "service_number": "405467 RNZAF",
       "role": "W/Op Air Gunner",
-      "nationality": "New Zealander",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "405467 RNZAF",
+      "nationality": "New Zealander"
     },
     {
       "rank": "Sgt",
       "name": "Arthur Rowland Catt",
-      "service_number": "1252994 RAFVR",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1252994 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Leonard Edward Sweett",
-      "service_number": "570678 RAF",
       "role": "Fitter",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "570678 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Air Cdre",
       "name": "HRH Prince George, Duke of Kent",
       "role": "VIP Passenger",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "The Duke of Kent became the first member of the Royal Family killed on active service since 1453. His body was initially interred in the Royal Vault of St George's Chapel, Windsor, before being reburied in the Royal Burial Ground, Frogmore in 1968.",
       "burial_location": "Royal Burial Ground, Frogmore, Windsor",
       "bio": "Prince George, Duke of Kent (1902-1942), was the fourth son of King George V and younger brother of King George VI. An Air Commodore on active service, he was 39 years old. He left behind his wife Princess Marina and three children, including Prince Michael of Kent.",
-      "age": 39
+      "age": 39,
+      "nationality": "British"
     },
     {
       "rank": "Lt",
       "name": "John Crowther",
-      "service_number": "RNVR",
       "role": "Private Secretary to Duke",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock while serving as the Duke of Kent's private secretary.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "RNVR",
+      "nationality": "British"
     },
     {
       "rank": "LAC",
       "name": "John Walter Holes",
       "role": "Batman to Duke",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock while serving as the Duke of Kent's batman (personal attendant).",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "name": "J. W. Hales",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     },
     {
       "name": "J. A. Lowther",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "\u2014"
     }
   ],
   "cause_of_loss": "Navigational error leading to controlled flight into terrain in fog",

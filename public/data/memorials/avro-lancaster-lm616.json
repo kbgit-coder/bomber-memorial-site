@@ -1,27 +1,40 @@
 {
   "id": "avro-lancaster-lm616",
   "title": "Avro Lancaster LM616",
-  "location_name": "",
-  "county": "",
+  "location_name": "Offley, North Hertfordshire",
+  "county": "Hertfordshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "LM616",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "115 Squadron",
+  "crash_date": "1944-07-18",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Aircraft crashed into West End Farm, Great Offley killing all members of the crew and three members of the Handley family in the farm house. Grey tablet flat on ground, a few feet South East of the Parish War Memorial.",
+  "inscription": "[115 Squadron badge] This plaque is in / memory of the crew / and civilians / killed when the / Lancaster Bomber / III KM616 KO-J / crashed into / West End Farm / Great Offley / on 18th July 1944 / Their names will live for ever more",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/94955"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/94955",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.927611935461,
-  "longitude": -0.335811030042
+  "longitude": -0.335811030042,
+  "grid_ref": "TL 14527",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/172/184/large_94955a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/172/186/large_94955c.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

@@ -1,27 +1,47 @@
 {
   "id": "vickers-wellington-r1646-and-all-other-aircrew-killed-over-the-cairngorms",
   "title": "Vickers Wellington R1646 and all other Aircrew Killed over The Cairngorms",
-  "location_name": "",
-  "county": "",
+  "location_name": "Braemar, Kincardine And Deeside",
+  "county": "Grampian",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "R1646",
   "squadron": "",
   "crash_date": "1942-01-19",
-  "memorial_type": "",
-  "memorial_details": "description: Face 1 top plaque: 1939/ IN MEMORIAM/ VICKERS WELLINGTON R1646/ 1945/ ON 19 JANUARY 1942, DURING A ROUTINE TRAINING FLIGHT, THIS AIRCRAFT CRASHED ON HIGH GROUND/ NEAR BRAEMAR DUE TO POOR WEATHER CONDITIONS. ALL EIGHT CREWMEN BASED AT 20 OPERATIONAL/ TRAINING UNIT, RAF LOSSIEMOUTH, LOST THEIR LIVES. SIX CREW MEMBERS LIE AT REST WITHIN THE/ COMMONWEALTH GRAVES COMMISION RESERVATION, DYCE OLD CHURCHYARD, ABERDEEN AND TWO IN/ THEIR HOME CEMETERIES IN ENGLAND. THE TWO BRISTOL PEGASUS XVIII ENGINES WERE REMOVED FROM/ THE CRASH SITE IN 1999 AND ONE IS PRESERVED HERE AS A PERMANENT MEMORIAL TO THOSE NAMED/ \r\nBELOW AND ALL OTHER AIRCREW WHO LOST THEIR LIVES IN THE CAIRNGORM MOUNTAINS./ (Names)/ \r\n\r\nFace 1 bottom plaque: TO THE GLORY OF GOD AND/ IN UNDYING MEMORY OF THE/ UNITED KINGDOM, COMMONWEALTH/ \r\nAND ALLIED AIRCREW WHO,/ IN PEACE AND WAR./ HAVE GIVEN THEIR LIVES/ OVER THE CAIRNGORM MOUNTAINS/ \r\n\r\nFace 4 plaque: AIRCREW MEMORIAL/ UNVEILED BY/ HRH THE PRINCESS ROYAL/ ON THE/ 21ST AUGUST 2003\r\n\r\nLower plaque: TO THE GLORY OF GOD AND/ IN UNDYING MEMORY OF THE/ UNITED KINGDOM, COMMONWEALTH/ AND ALLIED AIRCREW WHO/ IN PEACE AND WAR/ HAVE GIVEN THEIR LIVES/ OVER THE CAIRNGORM MOUNTAINS",
-  "inscription": "",
+  "memorial_type": "Trophy / Relic",
+  "memorial_details": "Pegasus aircraft engine retrieved from the crashed plane and set on a plinth. Two dedicatory metal plaques placed on face 1 of the plinth, and one on face 4. Commemorates the crew of Wellington R1646, and all aircrew from the United Kingdom, the Commonwealth and Allied forces who have lost their lives over the Cairngorm mountains.",
+  "inscription": "Face 1 top plaque: 1939/ IN MEMORIAM/ VICKERS WELLINGTON R1646/ 1945/ ON 19 JANUARY 1942, DURING A ROUTINE TRAINING FLIGHT, THIS AIRCRAFT CRASHED ON HIGH GROUND/ NEAR BRAEMAR DUE TO POOR WEATHER CONDITIONS. ALL EIGHT CREWMEN BASED AT 20 OPERATIONAL/ TRAINING UNIT, RAF LOSSIEMOUTH, LOST THEIR LIVES. SIX CREW MEMBERS LIE AT REST WITHIN THE/ COMMONWEALTH GRAVES COMMISION RESERVATION, DYCE OLD CHURCHYARD, ABERDEEN AND TWO IN/ THEIR HOME CEMETERIES IN ENGLAND. THE TWO BRISTOL PEGASUS XVIII ENGINES WERE REMOVED FROM/ THE CRASH SITE IN 1999 AND ONE IS PRESERVED HERE AS A PERMANENT MEMORIAL TO THOSE NAMED/ BELOW AND ALL OTHER AIRCREW WHO LOST THEIR LIVES IN THE CAIRNGORM MOUNTAINS./ (Names)/ Face 1 bottom plaque: TO THE GLORY OF GOD AND/ IN UNDYING MEMORY OF THE/ UNITED KINGDOM, COMMONWEALTH/ AND ALLIED AIRCREW WHO,/ IN PEACE AND WAR./ HAVE GIVEN THEIR LIVES/ OVER THE CAIRNGORM MOUNTAINS/ Face 4 plaque: AIRCREW MEMORIAL/ UNVEILED BY/ HRH THE PRINCESS ROYAL/ ON THE/ 21ST AUGUST 2003 Lower plaque: TO THE GLORY OF GOD AND/ IN UNDYING MEMORY OF THE/ UNITED KINGDOM, COMMONWEALTH/ AND ALLIED AIRCREW WHO/ IN PEACE AND WAR/ HAVE GIVEN THEIR LIVES/ OVER THE CAIRNGORM MOUNTAINS",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/57537"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/57537",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 57.005572,
-  "longitude": -3.3996999
+  "longitude": -3.3996999,
+  "grid_ref": "NO 15084",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/41/large_57537a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/406/large_9__wellington_r1646_memorial_in_context.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/410/large_8__wellington_r1646_memorial_left_side_view.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/106/38/large_57537d.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/404/large_5__wellington_r1646_engine.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/106/40/large_57537c.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/399/large_2__wellington_r1646_front_plaques.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/400/large_1__wellington_r1646_memorial.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/409/large_12__wellington_r1646_information_board.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/166/403/large_6__wellington_r1646_memorialright_side_view.jpg"
+  ],
+  "community_connection": "Six crew members lie at rest with the Commonwealth Graves Commission Reservation, Dyce Old Churchyard, Aberdeen and two in their home cemeteries in England."
 }

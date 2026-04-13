@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.1902622,
   "longitude": -0.9140349,
   "maintainer": {
@@ -145,183 +145,133 @@
       "name": "Taylor",
       "rank": null,
       "fate": "Unknown"
-    },
-    {
-      "name": "Wilmet",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Dupuis",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Thomson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Gregson",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Mauger",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Hach",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Brooks",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Brochu",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jacobs",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Langlois",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Taillon",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Phelan",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Beaulieu",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Desmarais",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Corbett",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Hemphill",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Lindsay",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Maurice",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Harry William Barnes",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Class",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Rivet",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Sgt S Withingham",
-      "rank": "Pupil pilot",
-      "fate": "Survived",
-      "role": "Pilot",
-      "nationality": "British"
-    },
-    {
-      "name": "Crew of Horsa LG745",
-      "rank": "Fate unknown",
-      "fate": "Unknown",
-      "role": "Unknown",
-      "nationality": "British"
-    },
-    {
-      "name": "F/Sgt G B Hollings RAAF",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Pilot",
-      "nationality": "Australian"
-    },
-    {
-      "name": "W/O E R Lumsdaine",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Unknown",
-      "nationality": "British"
-    },
-    {
-      "name": "Flying Officer Joseph Raymond Jean Marie Desmarais DFC",
-      "rank": "Aircraft Captain and Pilot",
-      "fate": "Killed",
-      "role": "Pilot",
-      "age": 24,
-      "nationality": "Canadian"
-    },
-    {
-      "name": "Pilot Officer Joseph Blackburn RAFVR",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Flight Engineer",
-      "age": 36,
-      "nationality": "British"
-    },
-    {
-      "name": "Pilot Officer Joseph Rosaire Jean Charles Labrecque",
-      "rank": null,
-      "fate": "Killed",
-      "role": "Bomb Aimer",
-      "age": 28,
-      "nationality": "Canadian"
-    },
-    {
-      "name": "Pilot Officer Joseph Edward Lawrence Dubois",
-      "rank": "Unknown",
-      "fate": "Killed",
-      "role": "Wireless Operator / Air Gunner",
-      "age": 24,
-      "nationality": "Canadian"
-    },
-    {
-      "name": "Raymond Charles Gauthier",
-      "rank": "Pilot Officer",
-      "fate": "Killed",
-      "role": "Air Gunner",
-      "age": 20,
-      "nationality": "Canadian"
     }
   ],
   "memorial_details": "Eighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.\n\nEighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.",
   "crash_category": "unknown",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Wilmet",
+      "rank": null
+    },
+    {
+      "name": "Dupuis",
+      "rank": null
+    },
+    {
+      "name": "Thomson",
+      "rank": null
+    },
+    {
+      "name": "Gregson",
+      "rank": null
+    },
+    {
+      "name": "Mauger",
+      "rank": null
+    },
+    {
+      "name": "Hach",
+      "rank": null
+    },
+    {
+      "name": "Brooks",
+      "rank": null
+    },
+    {
+      "name": "Brochu",
+      "rank": null
+    },
+    {
+      "name": "Jacobs",
+      "rank": null
+    },
+    {
+      "name": "Langlois",
+      "rank": null
+    },
+    {
+      "name": "Taillon",
+      "rank": null
+    },
+    {
+      "name": "Phelan",
+      "rank": null
+    },
+    {
+      "name": "Beaulieu",
+      "rank": null
+    },
+    {
+      "name": "Desmarais",
+      "rank": null
+    },
+    {
+      "name": "Corbett",
+      "rank": null
+    },
+    {
+      "name": "Hemphill",
+      "rank": null
+    },
+    {
+      "name": "Lindsay",
+      "rank": null
+    },
+    {
+      "name": "Maurice",
+      "rank": null
+    },
+    {
+      "name": "Harry William Barnes",
+      "rank": null
+    },
+    {
+      "name": "Class",
+      "rank": null
+    },
+    {
+      "name": "Rivet",
+      "rank": null
+    },
+    {
+      "name": "Sgt S Withingham",
+      "rank": "Pupil pilot"
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown"
+    },
+    {
+      "name": "F/Sgt G B Hollings RAAF",
+      "rank": null
+    },
+    {
+      "name": "W/O E R Lumsdaine",
+      "rank": null
+    },
+    {
+      "name": "Flying Officer Joseph Raymond Jean Marie Desmarais DFC",
+      "rank": "Aircraft Captain and Pilot"
+    },
+    {
+      "name": "Pilot Officer Joseph Blackburn RAFVR",
+      "rank": null
+    },
+    {
+      "name": "Pilot Officer Joseph Rosaire Jean Charles Labrecque",
+      "rank": null
+    },
+    {
+      "name": "Pilot Officer Joseph Edward Lawrence Dubois",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Raymond Charles Gauthier",
+      "rank": "Pilot Officer"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 38 to 8. 30 additional names from station/OTU roll of honour moved to station_roll_names."
 }

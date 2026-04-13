@@ -1,27 +1,36 @@
 {
   "id": "australian-aircrew-lost-over-europe",
   "title": "Australian Aircrew Lost Over Europe",
-  "location_name": "",
-  "county": "",
+  "location_name": "Battersea, Wandsworth",
+  "county": "Greater London",
   "country": "United Kingdom",
   "aircraft_type": "",
   "serial_number": "",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: 6 o&#039;clock face: THIS REMEMBRANCE STONE/ AND THE AUSTRALIAN MEMORIAL GARDEN AND HOUSE/ ARE DEDICATED TO THE MEMORY OF/ THE 5397 AUSTRALIAN AIR CREW/ LOST IN ACTION OVER EUROPE DURING/ THE SECOND WORLD WAR 1939-1945/ UNVEILED BY/ GROUP CAPTAIN ROXLEY MCLENNAN, AIR FORCE ADVISER/ AUSTRALIAN HIGH COMMISSION, LONDON/ ON 16TH MAY 1995/ ON THIS FORMER FESTIVAL OF BRITAIN SITE\r\n12 o&#039;clock face: THIS MEMORIAL STONE WAS DONATED BY JOAN (...) BANNENBERG/ A NIECE OF THE LATE SQUADRON LEADER, B. A. GRACE (...), DFC, RAAF",
-  "inscription": "",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Erect stone with emblem of the RAAF on a tablet and underneath a dedicatory plaque on the 6 o'clock face. On the 12 o'clock face a smaller plaque.\n\nUnveiled by Group Captain Roxley McNellan, Air Force Adviser of the Australian High Commission, London on 16th May 1995.",
+  "inscription": "6 o'clock face: THIS REMEMBRANCE STONE/ AND THE AUSTRALIAN MEMORIAL GARDEN AND HOUSE/ ARE DEDICATED TO THE MEMORY OF/ THE 5397 AUSTRALIAN AIR CREW/ LOST IN ACTION OVER EUROPE DURING/ THE SECOND WORLD WAR 1939-1945/ UNVEILED BY/ GROUP CAPTAIN ROXLEY MCLENNAN, AIR FORCE ADVISER/ AUSTRALIAN HIGH COMMISSION, LONDON/ ON 16TH MAY 1995/ ON THIS FORMER FESTIVAL OF BRITAIN SITE 12 o'clock face: THIS MEMORIAL STONE WAS DONATED BY JOAN (...) BANNENBERG/ A NIECE OF THE LATE SQUADRON LEADER, B. A. GRACE (...), DFC, RAAF",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/18150"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/18150",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.480786360058,
-  "longitude": -0.153614381844
+  "longitude": -0.153614381844,
+  "grid_ref": "TQ 28311",
+  "photos": [],
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/148/292/large_18150_david_ayling_jan_2021.jpg"
+  ],
+  "community_connection": "Donated by Joan (...) Bannenberg, a niece of the late Squadron Leader, B.A. Grace (DFC), RAAF."
 }

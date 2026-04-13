@@ -1,27 +1,40 @@
 {
   "id": "vickers-wellington-ln660-and-short-stirling-eh989",
   "title": "Vickers Wellington LN660 and Short Stirling EH989",
-  "location_name": "",
-  "county": "",
+  "location_name": "Westcott, Aylesbury Vale",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "LN660",
   "squadron": "90 Squadron",
   "crash_date": "1944-03-15",
-  "memorial_type": "",
-  "memorial_details": "description: Plinth: IN MEMORY OF / WESTCOTT AIRFIELD / OPENED 09.1942 / CLOSED 03.04.1946 / DEDICATED TO ALL UNITS / AND PERSONEL BASED HERE / AIRFIELDS / OF BRITAIN / Conservation Trust / www.abct.org.uk / UNVEILED BY / KENNETH P. BANNERMAN / DIRECTOR GENERAL ABCT / 28.09.2012 / 70TH ANNIVERSARY OF THE INITIAL ARRIVAL / OF NO. 11 OPERATIONAL TRAINING UNIT //  \r\nPlaque: IN MEMORIAM / These young airmen lost their lives on 15th March 1944 / in a mid-air collision. / \r\nLeft column: Wellington X LN 660 KJ-O, / No 11 O T U Westcott / (8 Names) // \r\nRight column: Stirling III EH 989 WP-P, / No 90 Squadron / Tuddenham / (7 Names)",
-  "inscription": "",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "1. A plain stone pillar with incised, black lettering, situated in a small garden area. 2. To the left of the pillar, a brass plaque mounted on an inclined, polished granite plinth. The dedication is in black script. RAAF, RAF and RNZAF insignias at top of plaque.",
+  "inscription": "Plinth: IN MEMORY OF / WESTCOTT AIRFIELD / OPENED 09.1942 / CLOSED 03.04.1946 / DEDICATED TO ALL UNITS / AND PERSONEL BASED HERE / AIRFIELDS / OF BRITAIN / Conservation Trust / www.abct.org.uk / UNVEILED BY / KENNETH P. BANNERMAN / DIRECTOR GENERAL ABCT / 28.09.2012 / 70TH ANNIVERSARY OF THE INITIAL ARRIVAL / OF NO. 11 OPERATIONAL TRAINING UNIT // Plaque: IN MEMORIAM / These young airmen lost their lives on 15th March 1944 / in a mid-air collision. / Left column: Wellington X LN 660 KJ-O, / No 11 O T U Westcott / (8 Names) // Right column: Stirling III EH 989 WP-P, / No 90 Squadron / Tuddenham / (7 Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/66344"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/66344",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.85042972564,
-  "longitude": -0.964436531067
+  "longitude": -0.964436531067,
+  "grid_ref": "SP 70861",
+  "photos": [],
+  "names_on_memorial": 15,
+  "died_count": 15,
+  "custodian": "Wescott Venture Park",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/118/818/large_bu_westcott_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/118/816/large_bu_westcott_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/118/817/large_bu_westcott_3.jpg"
+  ]
 }

@@ -1,27 +1,41 @@
 {
   "id": "short-stirling-bk784",
   "title": "Short Stirling BK784",
-  "location_name": "",
-  "county": "",
+  "location_name": "Chippenham, East Cambridgeshire",
+  "county": "Cambridgeshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "BK784",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "crash_date": "1944-05-23",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.",
   "inscription": "+  IN MEMORY OF / (7 NAMES) / CREW OF STIRLING BOMBER / BK 784 / CRASHED HERE 23.5.1944 / LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/63962"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.304759168978,
-  "longitude": 0.449275969114
+  "longitude": 0.449275969114,
+  "grid_ref": "TL 67088",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": ""
 }

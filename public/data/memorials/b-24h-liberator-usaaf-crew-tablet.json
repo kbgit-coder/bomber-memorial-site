@@ -1,27 +1,41 @@
 {
   "id": "b-24h-liberator-usaaf-crew-tablet",
   "title": "B-24H Liberator USAAF Crew Tablet",
-  "location_name": "",
-  "county": "",
+  "location_name": "Upper Sheringham, North Norfolk",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "B-24 Liberator",
   "serial_number": "",
   "squadron": "",
   "crash_date": "1944-01-04",
-  "memorial_type": "",
-  "memorial_details": "description: Remember before God with thanksgiving/ the gallant Crew of B24H &#039;Alfred&#039; of the 392nd BG. USAAF/ which crashed near this spot on 4th January 1944/ whilst returning badly damaged from a mission to Kiel./ In gratitude also to those who aided the survivors/ in the common cause of freedom./ (Names)/ LEST WE FORGET",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Granite headstone on a granite base. 8th Air Force Badge at top. Inscription in white lettering.",
+  "inscription": "Remember before God with thanksgiving/ the gallant Crew of B24H 'Alfred' of the 392nd BG. USAAF/ which crashed near this spot on 4th January 1944/ whilst returning badly damaged from a mission to Kiel./ In gratitude also to those who aided the survivors/ in the common cause of freedom./ (Names)/ LEST WE FORGET",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/20242"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/20242",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.931238149095,
-  "longitude": 1.189056302031
+  "longitude": 1.189056302031,
+  "grid_ref": "TG 14415",
+  "photos": [],
+  "names_on_memorial": 10,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/49/329/large_20242.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/97/318/large_20242b_amy_savage_16_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/97/317/large_20242a_amy_savage_16_july_2020.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/97/319/large_20242c_amy_savage_16_july_2020.jpg"
+  ],
+  "community_connection": ""
 }

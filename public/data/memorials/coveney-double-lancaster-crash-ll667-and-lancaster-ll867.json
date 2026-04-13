@@ -7,11 +7,11 @@
   "region_code": "CB-003",
   "os_grid_reference": "TL4882",
   "crash_date": "1944-04-19",
-  "aircraft_type": "Lancaster",
-  "serial_number": "LL667 and Lancaster LL867",
+  "aircraft_type": "Lancaster LL667 and Lancaster LL867",
+  "serial_number": "LL667 / LL867",
   "squadron": "115 Squadron",
   "station": "Witchford",
-  "crew_summary": "14 killed (7 each aircraft)",
+  "crew_summary": "14 killed \u2014 both Lancasters shot down by German ME 410 night fighters (5/KG51) returning from Rouen raid. LL667 crashed West Fen Farm, Coveney at 0210hrs. LL867 crashed Common Farm, Witchford at 0348hrs.",
   "memorial_type": "Double memorial",
   "sources": [
     {
@@ -41,184 +41,147 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "Returning from a raid on the railway marshalling yards at Rouen, France, two Lancasters of 115 Squadron were shot down by Luftwaffe intruder night fighters as they approached RAF Witchford to land. Lancaster LL667, captained by Pilot Officer John Birnie, age 20, was brought down at approximately 0210 hours, with the interception credited to Hauptmann Dietrich Puttarken of 5/KG51. Lancaster LL867, captained by Flight Lieutenant Charlie Eddy, was lost in the same attack over the airfield circuit. Both aircraft crashed near Coveney, Cambridgeshire. All fourteen men aboard the two aircraft were killed — seven in each crew — among them Flight Sergeant David Lloyd Jones, Sergeant Jack Ferguson, age 19, and Canadian Sergeant William James MacMillan, also age 19.",
+  "last_updated": "2026-04-13",
+  "data_quality": "Good",
+  "narrative": "Returning from a raid on the railway marshalling yards at Rouen, France, two Lancasters of 115 Squadron were shot down by Luftwaffe intruder night fighters as they approached RAF Witchford to land. Lancaster LL667, captained by Pilot Officer John Birnie, age 20, was brought down at approximately 0210 hours, with the interception credited to Hauptmann Dietrich Puttarken of 5/KG51. Lancaster LL867, captained by Flight Lieutenant Charlie Eddy, was lost in the same attack over the airfield circuit. Both aircraft crashed near Coveney, Cambridgeshire. All fourteen men aboard the two aircraft were killed \u2014 seven in each crew \u2014 among them Flight Sergeant David Lloyd Jones, Sergeant Jack Ferguson, age 19, and Canadian Sergeant William James MacMillan, also age 19.",
   "crew": [
     {
-      "rank": "P/O",
       "name": "John Birnie",
-      "service_number": "173326 RAFVR",
+      "rank": "Pilot Officer",
+      "role": "Pilot",
+      "fate": "Killed",
       "age": 20,
-      "role": "Pilot (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed when Lancaster LL667 KO-R was shot down by Me 410 intruder in the circuit at RAF Witchford at 02:10 on 19 April 1944.",
-      "burial_location": "Cambridge City Cemetery",
-      "bio": "A twenty-year-old pilot from Britain, Birnie was flying Lancaster LL667 KO-R on operations to Rouen when his aircraft was intercepted returning to base.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Jack Ferguson",
-      "service_number": "1501340 RAFVR",
-      "age": 19,
-      "role": "Flight Engineer (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "David Lloyd Jones",
-      "service_number": "RAFVR",
-      "age": 30,
-      "role": "Navigator (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Ernest Kerwin",
-      "service_number": "1540856 RAFVR",
-      "age": 30,
-      "role": "Wireless Operator (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667. Kerwin was from Wakefield, Yorkshire.",
-      "hometown": "Wakefield, Yorkshire",
-      "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "P/O",
-      "name": "Arnold Lepine",
-      "service_number": "J92605 RCAF",
-      "age": 27,
-      "role": "Bomb Aimer (LL667)",
-      "nationality": "American",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667. An American serving with the Royal Canadian Air Force.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "William James MacMillan",
-      "service_number": "R209012 RCAF",
-      "age": 19,
-      "role": "Mid Upper Gunner (LL667)",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "George Edward Bailey",
-      "service_number": "1868473 RAFVR",
-      "age": 23,
-      "role": "Rear Gunner (LL667)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL667 at Common Farm, Witchford.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Lt",
-      "name": "Charlie Eddy",
-      "service_number": "RNZAF",
-      "role": "Pilot (LL867)",
-      "nationality": "New Zealander",
-      "fate": "Killed",
-      "fate_detail": "Killed when Lancaster LL867 A4-J was shot down by Me 410 intruder near Ely at 02:48 on 19 April 1944.",
-      "burial_location": "Cambridge City Cemetery",
-      "bio": "A New Zealand pilot serving with the RNZAF, Eddy was commanding Lancaster LL867 on the return from Rouen when intercepted by Luftwaffe intruders.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "WO II",
-      "name": "Henry Bennis",
-      "service_number": "RCAF",
-      "role": "Air Gunner (LL867)",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Alfred Frank Langridge",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/Sgt",
-      "name": "Peter John Edward Maddox",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "William Leslie Murphy",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "Sgt",
-      "name": "Harold Edward George Pugh",
-      "service_number": "RAF",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "rank": "F/O",
-      "name": "Albert Smith",
-      "service_number": "RAFVR",
-      "role": "Crew (LL867)",
-      "nationality": "British",
-      "fate": "Killed",
-      "fate_detail": "Killed in the loss of Lancaster LL867 near Ely.",
-      "cwgc_verified": false
-    },
-    {
-      "name": "Sgt",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "R Anna DSO",
-      "rank": "Wing Commander",
-      "fate": "Survived",
-      "role": "Commanding Officer of Lancaster squadron",
+      "service_number": "173326",
+      "fate_detail": "Aircraft: LL667",
       "nationality": "British"
     },
     {
-      "name": "J. Birnie (Jock)",
-      "rank": "Pilot Officer",
+      "name": "Jack Ferguson",
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
       "fate": "Killed",
+      "age": 19,
+      "service_number": "1591340",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "British"
+    },
+    {
+      "name": "David Lloyd Jones",
+      "rank": "Flight Sergeant",
+      "role": "Navigator",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "975131",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "British"
+    },
+    {
+      "name": "Ernest Kerwin",
+      "rank": "Sergeant",
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "1540856",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "British"
+    },
+    {
+      "name": "Arnold Lepine Feldman",
+      "rank": "Pilot Officer",
+      "role": "Bomb Aimer",
+      "fate": "Killed",
+      "age": 27,
+      "service_number": "J92605",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "William James MacMillan",
+      "rank": "Sergeant",
+      "role": "Mid-Upper Gunner",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "R209012",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "George Edward Bailey",
+      "rank": "Sergeant",
+      "role": "Rear Gunner",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "1868473",
+      "fate_detail": "Aircraft: LL667",
+      "nationality": "British"
+    },
+    {
+      "name": "Charly Eddy",
+      "rank": "Flight Lieutenant",
       "role": "Pilot",
-      "age": 20,
-      "nationality": "British",
-      "burial_location": "Gosforth (St. Mary) Churchyard, Cumberland"
+      "fate": "Killed",
+      "age": 29,
+      "service_number": "39003",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "William Leslie Murphy",
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
+      "fate": "Killed",
+      "service_number": "2206546",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "British"
+    },
+    {
+      "name": "Albert Smith",
+      "rank": "Flying Officer",
+      "role": "Navigator",
+      "fate": "Killed",
+      "service_number": "132712",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "British"
+    },
+    {
+      "name": "Peter John Edward Maddox",
+      "rank": "Flight Sergeant",
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1334594",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "British"
+    },
+    {
+      "name": "Harold Edward George Pugh",
+      "rank": "Flight Sergeant",
+      "role": "Bomb Aimer",
+      "fate": "Killed",
+      "age": 24,
+      "service_number": "658462",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "British"
+    },
+    {
+      "name": "Alfred Frank Langridge",
+      "rank": "Sergeant",
+      "role": "Mid-Upper Gunner",
+      "fate": "Killed",
+      "age": 32,
+      "service_number": "1812710",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "British"
+    },
+    {
+      "name": "Henry Bennis",
+      "rank": "Warrant Officer",
+      "role": "Rear Gunner",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "R178351",
+      "fate_detail": "Aircraft: LL867",
+      "nationality": "Canadian"
     }
   ],
   "cause_of_loss": "Both aircraft shot down by Luftwaffe Me 410 intruder night fighters while in the circuit at RAF Witchford, returning from operations over Rouen",
@@ -329,5 +292,14 @@
   },
   "crash_category": "training",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "data_notes": [
+    "Both aircraft from 115 Squadron, RAF Witchford. Shot down on approach to land after bombing Rouen.",
+    "LL667 (KO-R): shot down by Hptm Dietrich Puttarken. Crashed West Fen Farm, Coveney. 18 ops completed.",
+    "LL867 (A4-J): shot down by Oblt Klaus Bieber. Crashed Beale Farm near RAF Witchford. Eddy's 11th op.",
+    "Previous crew count of 17 included 3 unverified names \u2014 the 115 Squadron Roll of Honour confirms 14 (7+7).",
+    "CCAN source transposes aircraft codes and crash times vs the squadron ORB \u2014 115squadron-raf.be is authoritative.",
+    "Youngest crew: Jack Ferguson, flight engineer, aged 19. Oldest: Alfred Langridge, mid-upper gunner, aged 32."
+  ],
+  "last_validated": "2026-04-13"
 }

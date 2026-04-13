@@ -1,27 +1,38 @@
 {
   "id": "avro-lancaster-hk773",
   "title": "Avro Lancaster HK773",
-  "location_name": "",
-  "county": "",
+  "location_name": "Mundford, Breckland",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "HK773",
-  "squadron": "",
+  "squadron": "XV SQUADRON",
   "crash_date": "1945-03-22",
-  "memorial_type": "",
-  "memorial_details": "description: IN MEMORY OF THE CREW OF/ LANCASTER BOMBER HK 773 LS-W/ OF XV SQUADRON WHO LOST THEIR/ LIVES WHEN THE AIRCRAFT CRASHED/ IN THE NEARBY FOREST AT 11:00 AM/ ON 22 MARCH 1945 HAVING TAKEN/ OF FROM RAF MILDENHALL/ (Names)/ ALSO/ (Name)/ KILLED JUNE 1ST 1944/ A MEMBER OF A SISTEER CREW.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Brass plaque with incised inscription in capital lettering below the badge of the RAF.",
+  "inscription": "IN MEMORY OF THE CREW OF/ LANCASTER BOMBER HK 773 LS-W/ OF XV SQUADRON WHO LOST THEIR/ LIVES WHEN THE AIRCRAFT CRASHED/ IN THE NEARBY FOREST AT 11:00 AM/ ON 22 MARCH 1945 HAVING TAKEN/ OF FROM RAF MILDENHALL/ (Names)/ ALSO/ (Name)/ KILLED JUNE 1ST 1944/ A MEMBER OF A SISTEER CREW.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/99108"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/99108",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.512372417477,
-  "longitude": 0.651836480344
+  "longitude": 0.651836480344,
+  "grid_ref": "TL 80049",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/127/380/large_12_0.jpg"
+  ],
+  "community_connection": ""
 }

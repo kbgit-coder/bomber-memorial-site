@@ -1,27 +1,41 @@
 {
   "id": "weasenham-r-a-f-aircrew-ww-ii",
   "title": "Weasenham R.A.F. Aircrew WW II",
-  "location_name": "",
-  "county": "",
+  "location_name": "Weasenham, Breckland",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Blenheim",
   "serial_number": "L8800",
   "squadron": "114 Squadron",
   "crash_date": "1942-06-05",
-  "memorial_type": "",
-  "memorial_details": "description: In Memory of the RAF Aircrew who lost their lives close to this spot.\r\nBristol Blenheim, L8800, 114 Sqn. 5 June 1942 Sgt. F. O. Cooke RAF Sgt. J.M. Wallbridge RAFVR Sgt. E. Kitcher RAFVR \r\nNorth American Mitchell II, FL206, 98 Sqn. 17 October 1942 Flt. Sgt. D.C. Tanner RAFVR Sgt. E.H. Boreham RAFVR Sgt. L.H. Horton RAFVR LAC. F.E. Barnett RAFVR \r\nDouglas Boston III, AL285, 342 &#039;Lorraine&#039; Sqn. 22 May 1943 Lt. M. Le Bivic FFAF Lt. R. Jacquinot FFAF Sgt. I. Cohen FFAF Cpl. J. Desertlaux FFAF",
-  "inscription": "",
+  "memorial_type": "Other memorial",
+  "memorial_details": "Granite pyramid with rectangular single tiered base",
+  "inscription": "In Memory of the RAF Aircrew who lost their lives close to this spot. Bristol Blenheim, L8800, 114 Sqn. 5 June 1942 Sgt. F. O. Cooke RAF Sgt. J.M. Wallbridge RAFVR Sgt. E. Kitcher RAFVR North American Mitchell II, FL206, 98 Sqn. 17 October 1942 Flt. Sgt. D.C. Tanner RAFVR Sgt. E.H. Boreham RAFVR Sgt. L.H. Horton RAFVR LAC. F.E. Barnett RAFVR Douglas Boston III, AL285, 342 'Lorraine' Sqn. 22 May 1943 Lt. M. Le Bivic FFAF Lt. R. Jacquinot FFAF Sgt. I. Cohen FFAF Cpl. J. Desertlaux FFAF",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/106261"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/106261",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.763235,
-  "longitude": 0.74408353
+  "longitude": 0.74408353,
+  "grid_ref": "TF 85246",
+  "photos": [],
+  "names_on_memorial": 11,
+  "died_count": 11,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/174/795/large_106261c.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/162/24/large_nf_weasenham_st__peter_1_.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/162/25/large_nf_weasenham_st__peter_2_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/174/794/large_106261b.jpg"
+  ],
+  "community_connection": "North American Mitchell II, FL206, 98 Sqn. Flt. Sgt. D.C. Tanner RAFVR Sgt. E.H. Boreham RAFVR Sgt. L.H. Horton RAFVR LAC. F.E. Barnett RAFVR Douglas Boston III, AL285, 342 'Lorraine' Sqn."
 }

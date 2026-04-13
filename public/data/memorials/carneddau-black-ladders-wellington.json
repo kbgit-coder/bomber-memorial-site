@@ -26,53 +26,53 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Flying a training exercise from RAF Lichfield, the crew of Wellington Mk.IC DV800 were undertaking a navigational flight over Wales when conditions deteriorated. The pilot, Sergeant Longbottom, was Australian \u2014 one of many Commonwealth aircrew training with 27 OTU at the time. All five crew members were killed, including Sergeant Traylen, Sergeant Bowen, and Sergeant Wilson. There were no survivors.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Eric Harvey Longbottom",
-      "service_number": "416004 RAAF",
       "role": "Pilot",
-      "nationality": "Australian",
       "burial_location": "Caernarfon (Llanbeblig) Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Buried at Caernarfon Cemetery alongside fellow Australian Bannister.",
       "cwgc_verified": true,
-      "hometown": "Western Australia"
+      "hometown": "Western Australia",
+      "service_number": "416004 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Sgt",
       "name": "Lionel Denis Traylen",
-      "service_number": "1378536 RAFVR",
       "role": "Observer",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Black Ladders.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1378536 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Richard Ivor Bowen",
-      "service_number": "1265010 RAF",
       "role": "Observer",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Black Ladders.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1265010 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Samuel James Wilson",
-      "service_number": "1026302 RAF",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Last radio contact at 12:06.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1026302 RAF",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Navigation error in cloud; aircraft flew up valley from Bethesda into the mountainside at ~2,500 ft",

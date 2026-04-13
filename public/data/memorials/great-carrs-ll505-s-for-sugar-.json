@@ -20,106 +20,106 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
   "crew": [
     {
       "rank": "F/O",
       "name": "John Armstrong Johnston",
-      "service_number": "C/29783",
       "age": 27,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 failed to clear the ridge of Great Carrs by a few feet. Johnston had descended below cloud to obtain a visual fix but was confronted by the rising fells.",
       "bio": "A 27-year-old Canadian pilot from the RCAF, Johnston was building flying hours at 1659 HCU before posting to an operational squadron.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "C/29783",
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "Francis Aubrey Bell",
-      "service_number": "J/39888",
       "age": 33,
       "role": "Navigator",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J/39888",
+      "nationality": "Canadian"
     },
     {
       "rank": "P/O",
       "name": "Robert Newton Whitley",
-      "service_number": "J/38243",
       "age": 20,
       "role": "Bomb Aimer",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J/38243",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "William Brisbane Ferguson",
-      "service_number": "1826294",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "New Monkland Cemetery, Lanarkshire",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Ferguson was the sole British member of the crew, just 19 years old. He was the crew's regular flight engineer.",
       "bio": "The only British member of the crew, Ferguson was assigned as their regular flight engineer. He is buried separately from the Canadians at New Monkland Cemetery, Lanarkshire.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1826294",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Calvin George Whittingstall",
-      "service_number": "R/198207",
       "age": 20,
       "role": "W/Op Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R/198207",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Donald Fraser Titt",
-      "service_number": "R/271259",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R/271259",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "George Riddoch",
-      "service_number": "R/259938",
       "age": 20,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R/259938",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Harvey Ellsworth Pyche",
-      "service_number": "R/225354",
       "age": 21,
       "role": "Flight Engineer (supernumerary)",
-      "nationality": "Canadian",
       "burial_location": "Blacon Cemetery, Chester",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Pyche was flying as a supernumerary to add logbook hours, not as part of the regular crew.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R/225354",
+      "nationality": "Canadian"
     },
     {
       "name": "D. Riddoch",

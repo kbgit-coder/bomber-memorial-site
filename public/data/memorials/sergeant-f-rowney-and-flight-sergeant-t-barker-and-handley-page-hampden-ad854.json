@@ -1,27 +1,51 @@
 {
   "id": "sergeant-f-rowney-and-flight-sergeant-t-barker-and-handley-page-hampden-ad854",
-  "title": "Sergeant F Rowney and Flight Sergeant T Barker and Handley Page Hampden AD854",
-  "location_name": "",
-  "county": "",
+  "title": "Handley Page Hampden AD854",
+  "location_name": "Husborne Crawley, Mid Bedfordshire",
+  "county": "Bedfordshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "AD854",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1941-09-09",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Plaque with dedicatory inscription attached to a Public Footpath sign.",
+  "inscription": "As you walk along this path, you will pass/ a point on your left some 200 yeards further on,/ where during WW2, in the early hours of/ 9th September 1941, a British Bomber crashed/ in flames killing Sgt Ford Rowney aged 23 &/ Flight Sgt Tony Barker aged 20. The other two members of the crew, Sgt L Morgan &/ Sgt J Mitchell survived by bailing-out and/ landed close to this spot./ As you pass by, please remember these two/ young airmen, who paid the ultimate sacrifice/ for their country and our future.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/64018"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/64018",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "F Rowney",
+      "fate": "Unknown"
+    },
+    {
+      "rank": "Flight Sergeant",
+      "name": "T Barker",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.00727525647,
-  "longitude": -0.606447634368
+  "longitude": -0.606447634368,
+  "grid_ref": "SP 95749",
+  "photos": [],
+  "names_on_memorial": 4,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/128/548/large_bomber.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/85/395/large_20200225_094116.jpg"
+  ],
+  "original_title": "Sergeant F Rowney and Flight Sergeant T Barker and Handley Page Hampden AD854",
+  "community_connection": ""
 }

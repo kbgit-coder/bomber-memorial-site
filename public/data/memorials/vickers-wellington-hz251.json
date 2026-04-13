@@ -1,27 +1,42 @@
 {
   "id": "vickers-wellington-hz251",
   "title": "Vickers Wellington HZ251",
-  "location_name": "",
-  "county": "",
+  "location_name": "Bradley, Kirklees",
+  "county": "West Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HZ251",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Rectangular stone wall surmounted by a flying eagle and inset plaque with the dedication. The wall incorporates parts of the wreakage. Next to the wall is a bench with a plaque stating &#039;Happy memories of Josef (one of the fallen) from Josephine (His wife)",
-  "inscription": "",
+  "crash_date": "1943-09-23",
+  "memorial_type": "Wall",
+  "memorial_details": "Rectangular stone wall surmounted by a flying eagle and inset plaque with the dedication. The wall incorporates parts of the wreakage. Next to the wall is a bench with a plaque stating 'Happy memories of Josef (one of the fallen) from Josephine (His wife)",
+  "inscription": "LEST WE FORGET/ In memory of the Polish airmen who lost/ their lives here/ flying a Vickers Wellington XI HZ251/ on September 23rd 1943/ (Names)/ The Fallen/ They have passed beyond the stress and/ storm of mortal strife/ through the gateways of the morning to a wider life/ asking only this of us, that we with faith/ and pride/ remember in the after years the things for/ which they died. (Patience Strong)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/65401"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/65401",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.678893909127,
-  "longitude": -1.744099486704
+  "longitude": -1.744099486704,
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/94/581/large_polish_airmen___canal_bridge.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/582/large_polish_airmen_memorial___canal_signpost.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/583/large_polish_airmen___info_board.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/580/large_polish_airmen___eagle.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/579/large_polish_airmen___inscription.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/94/577/large_polish_airmen_gv_1.jpg"
+  ],
+  "community_connection": "The Fallen/ They have passed beyond the stress and storm of mortal strife/ through the gateways of the morning to a wider life/ asking only this of us, that we with faith/ and pride/ remember in the after years the things for/ which they died."
 }

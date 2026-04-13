@@ -1,0 +1,718 @@
+[19:43:13] 
+============================================================
+[19:43:13] BMR IWM PLAYWRIGHT ENRICHMENT — 2026-04-12 19:43
+[19:43:13] DRY_RUN=False  LIMIT=3  PARALLEL=4
+[19:43:13] ============================================================
+[19:43:13] Staging stubs to enrich: 335
+[19:43:13] Limited to: 3
+[19:43:13] Split into 3 batches of ~1 each
+[19:43:13] 
+--- Batch 1/3 (1 stubs) ---
+[19:43:13]   [B1:1/1] avro-lancaster-hk773
+[19:43:16]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF/ LANC, county=Norfolk, memorial_type=Board / Plaque / Tablet
+[19:43:17] 
+--- Batch 2/3 (1 stubs) ---
+[19:43:17]   [B2:1/1] avro-lancaster-ja964
+[19:43:20]     ENRICHED: quality=Good | +inscription=REMEMBERING THE 70TH ANNIVERSA, county=Cambridgeshire, memorial_type=Photograph, crash_date=1944-03-22, squadron=7 Squadron
+[19:43:22] 
+--- Batch 3/3 (1 stubs) ---
+[19:43:22]   [B3:1/1] avro-lancaster-jb284
+[19:43:25]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF LANCA, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-11-23, squadron=83 Squadron
+[19:43:46] 
+============================================================
+[19:43:46] BMR IWM PLAYWRIGHT ENRICHMENT — 2026-04-12 19:43
+[19:43:46] DRY_RUN=False  LIMIT=None  PARALLEL=4
+[19:43:46] ============================================================
+[19:43:46] Staging stubs to enrich: 335
+[19:43:46] Split into 5 batches of ~83 each
+[19:43:46] 
+--- Batch 1/5 (83 stubs) ---
+[19:43:46]   [B1:1/83] avro-lancaster-hk773
+[19:43:49]     ENRICHED: quality=Good | +metadata only
+[19:43:51]   [B1:2/83] avro-lancaster-ja964
+[19:43:54]     ENRICHED: quality=Good | +metadata only
+[19:43:55]   [B1:3/83] avro-lancaster-jb284
+[19:43:58]     ENRICHED: quality=Good | +metadata only
+[19:44:00]   [B1:4/83] avro-lancaster-jb286
+[19:44:03]     ENRICHED: quality=Good | +inscription=ROLL OF HONOUR / IN PROUD AND , county=Suffolk, memorial_type=Roll of honour or book of reme
+[19:44:04]   [B1:5/83] avro-lancaster-jb477
+[19:44:07]     ENRICHED: quality=Good | +inscription=BATTLE OF BERLIN/ November 194, county=Cambridgeshire, memorial_type=Stone of remembrance
+[19:44:09]   [B1:6/83] avro-lancaster-jb534-damaged-early-2025-currently-removed-for-repair
+[19:44:12]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF JB534, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:44:14]   [B1:7/83] avro-lancaster-kb879
+[19:44:17]     ENRICHED: quality=Good | +inscription=Top plaque: THIS STONE WAS ERE, county=Staffordshire, memorial_type=Pillar / Column, crash_date=1945-04-30, squadron=428 Squadron
+[19:44:18]   [B1:8/83] avro-lancaster-ll686
+[19:44:21]     ENRICHED: quality=Good | +inscription=IN GRATEFUL MEMORY OF THE GALL, county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:44:23]   [B1:9/83] avro-lancaster-lm311
+[19:44:26]     ENRICHED: quality=Good | +inscription=467 RAAF SQUADRON ASSOCIATION/, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-07-13
+[19:44:28]   [B1:10/83] avro-lancaster-lm522
+[19:44:32]     ENRICHED: quality=Good | +inscription=Dedicated to the crew of/ Lanc, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-07-08, squadron=57 Squadron
+[19:44:34]   [B1:11/83] avro-lancaster-lm616
+[19:44:38]     ENRICHED: quality=Good | +inscription=[115 Squadron badge] This plaq, county=Hertfordshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-07-18, squadron=115 Squadron
+[19:44:40]   [B1:12/83] avro-lancaster-lm619
+[19:44:43]     ENRICHED: quality=Good | +inscription=15TH JANUARY 1945/ LANCASTER L, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1945-01-15
+[19:44:45]   [B1:13/83] avro-lancaster-lm719
+[19:44:48]     ENRICHED: quality=Good | +inscription=In Memory Of / (7 Names) / cre, county=Lincolnshire, memorial_type=Other structure, crash_date=1945-04-28
+[19:44:49]   [B1:14/83] avro-lancaster-lm720
+[19:44:52]     ENRICHED: quality=Good | +inscription=LANCASTER MK III LM720, 61 SQU, county=Norfolk, memorial_type=Other memorial, crash_date=1945-01-15, squadron=61 Squadron
+[19:44:54]   [B1:15/83] avro-lancaster-nd820
+[19:44:57]     ENRICHED: quality=Good | +inscription=+/ To the Glory of God/ and in, county=Lincolnshire, memorial_type=Pillar / Column
+[19:44:58]   [B1:16/83] avro-lancaster-nd949
+[19:45:02]     ENRICHED: quality=Good | +inscription=In memory of the crew of LEZ=N, county=Lincolnshire, memorial_type=Avenue / Tree or grove, crash_date=1945-04-09, squadron=630 Squadron
+[19:45:03]   [B1:17/83] avro-lancaster-ne127
+[19:45:08]     ENRICHED: quality=Good | +inscription=In memory of 57 Sqn. R.A.F/ La, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, squadron=57 Squadron
+[19:45:09]   [B1:18/83] avro-lancaster-pb304
+[19:45:12]     ENRICHED: quality=Good | +county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[19:45:14]   [B1:19/83] avro-lancaster-pb355
+[19:45:18]     ENRICHED: quality=Good | +inscription=Nine road signs - Squadron Dri, county=West Sussex, memorial_type=Street
+[19:45:19]   [B1:20/83] avro-lancaster-pb366-cross
+[19:45:22]     ENRICHED: quality=Good | +inscription=Cross: LANCASTER CRASH 1944 Bo, county=Cambridgeshire, memorial_type=Cross, squadron=35 Squadron
+[19:45:24]   [B1:21/83] avro-lancaster-pb366-pillar
+[19:45:27]     ENRICHED: quality=Good | +inscription=Plaque: (RAF crest)/ Dedicated, county=Cambridgeshire, memorial_type=Pillar / Column
+[19:45:29]   [B1:22/83] avro-lancaster-pb432
+[19:45:32]     ENRICHED: quality=Good | +inscription=Dedicated to the crew of 49 Sq, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, squadron=49 Squadron
+[19:45:33]   [B1:23/83] avro-lancaster-pb475
+[19:45:38]     ENRICHED: quality=Good | +inscription=Six young airmen / died at thi, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1945-03-06
+[19:45:39]   [B1:24/83] avro-lancaster-pb565
+[19:45:45]     ENRICHED: quality=Good | +inscription=RAF Badge/ RAAF Badge/ IN MEMO, county=Lincolnshire, memorial_type=Stone of remembrance, crash_date=1945-04-15
+[19:45:47]   [B1:25/83] avro-lancaster-pd431
+[19:45:51]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ THE CREW WHO DIE, county=Leicestershire, memorial_type=Board / Plaque / Tablet, crash_date=1945-03-04
+[19:45:52]   [B1:26/83] avro-lancaster-r5489
+[19:45:55]     ENRICHED: quality=Good | +inscription=In Memory of / Sgt, David Pull, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:45:56]   [B1:27/83] avro-lancaster-r5676
+[19:45:59]     ENRICHED: quality=Good | +inscription=In remembrance of the air crew, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-02-12, squadron=676 Squadron
+[19:46:01]   [B1:28/83] avro-lancaster-r5694
+[19:46:04]     ENRICHED: quality=Good | +inscription=Squadron crest: BOMBER SQUADRO, county=Leicestershire, memorial_type=Board / Plaque / Tablet, squadron=207 Squadron
+[19:46:05]   [B1:29/83] avro-lancaster-w4319
+[19:46:09]     ENRICHED: quality=Good | +inscription=Crest: BOMBER COMMAND / ROYAL , county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:46:10]   [B1:30/83] avro-lancasters-me473-and-nd572
+[19:46:14]     ENRICHED: quality=Good | +inscription=THIS DISPLAY STANDS AS A MEMOR, county=Lincolnshire, memorial_type=Trophy / Relic
+[19:46:15]   [B1:31/83] b-17-flying-fortress-z9a-no-519-squadron-raf
+[19:46:20]     ENRICHED: quality=Good | +inscription=(squadron badge) / DEDICATED T, county=Highland, memorial_type=Cairn
+[19:46:21]   [B1:32/83] b-24h-liberator-usaaf-crew-tablet
+[19:46:24]     ENRICHED: quality=Good | +inscription=Remember before God with thank, county=Norfolk, memorial_type=Board / Plaque / Tablet
+[19:46:26]   [B1:33/83] b-a-wellington
+[19:46:30]     ENRICHED: quality=Basic | +county=North Yorkshire, memorial_type=Addition to gravestone
+[19:46:32]   [B1:34/83] bradshaw-halifax-ww1-ww2-northern-ireland
+[19:46:35]     ENRICHED: quality=Good | +inscription=THIS CROSS AND THE LYCHGATE AD, memorial_type=Cross
+[19:46:36]   [B1:35/83] british-and-allied-aircrew-ww2
+[19:46:39]     ENRICHED: quality=Good | +inscription=First panel: IN MEMORY OF THE , county=Kent, memorial_type=Serviceman / Servicewoman
+[19:46:41]   [B1:36/83] cairnsmore-of-fleet-local-air-crashes
+[19:46:44]     ENRICHED: quality=Good | +inscription=ERECTED IN MEMORY OF AIRMEN KI, county=Dumfries And Galloway, memorial_type=Stone of remembrance
+[19:46:45]   [B1:37/83] campbell-and-co-halifax-ww1
+[19:46:48]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Roll of honour or book of reme
+[19:46:50]   [B1:38/83] canadian-crew-of-wellington-bomber
+[19:46:53]     ENRICHED: quality=Good | +inscription=Lectern: AMDG/ THIS LECTERN IS, county=Northamptonshire, memorial_type=Church Fabric / Fitting: Lecte, crash_date=1944-03-20
+[19:46:55]   [B1:39/83] canberra-bomber-crash-tiverton
+[19:46:58]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ (Names)/ WHO LOS, county=Devon, memorial_type=Stone of remembrance
+[19:47:00]   [B1:40/83] captain-j-d-stirling
+[19:47:03]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ CAPTAIN JAMES DA, county=Greater London, memorial_type=Board / Plaque / Tablet
+[19:47:05]   [B1:41/83] captain-j-wellington
+[19:47:08]     ENRICHED: quality=Good | +inscription=To the Memory of/ JAMES WELLIN, county=Herefordshire, memorial_type=Board / Plaque / Tablet
+[19:47:09]   [B1:42/83] captain-w-lancaster
+[19:47:13]     ENRICHED: quality=Good | +inscription=.../ALSO OF HIS ELDEST SON/CAP, county=Hertfordshire, memorial_type=Addition to gravestone
+[19:47:15]   [B1:43/83] carlton-road-urc-halifax-memorial-window
+[19:47:18]     ENRICHED: quality=Good | +inscription=To the Glory of God & in lovin, county=West Yorkshire, memorial_type=Window
+[19:47:19]   [B1:44/83] chipping-norton-oxford-and-wellington-crews-ww2
+[19:47:22]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE AIRCREWS WHO , county=Oxfordshire, memorial_type=Board / Plaque / Tablet, crash_date=1942-08-21
+[19:47:24]   [B1:45/83] christ-church-halifax-ww1-and-ww2
+[19:47:27]     ENRICHED: quality=Good | +inscription=IN GRATEFUL MEMORY OF THE MEN , county=West Yorkshire, memorial_type=Church Fabric / Fitting: Rered
+[19:47:29]   [B1:46/83] christ-church-lancaster-gate-ww1-cross
+[19:47:32]     ENRICHED: quality=Good | +inscription=On pedestal: AUGUST 14TH 1914 , county=Greater London, memorial_type=Pillar / Column
+[19:47:33]   [B1:47/83] city-of-stirling-boy-scouts
+[19:47:37]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/AND IN GRA, county=Central Scotland, memorial_type=Board / Plaque / Tablet
+[19:47:38]   [B1:48/83] clifton-hampden-village-hall-ww1-board
+[19:47:40]     ENRICHED: quality=Good | +inscription=ROLL OF HONOUR/ 1914-1918/ CLI, county=Oxfordshire, memorial_type=Board / Plaque / Tablet
+[19:47:42]   [B1:49/83] colonel-j-hampden
+[19:47:44]     ENRICHED: quality=Good | +county=Oxfordshire, memorial_type=Obelisk
+[19:47:45]   [B1:50/83] commonwealth-air-crews
+[19:47:48]     ENRICHED: quality=Good | +inscription=Top plaque: THIS MEMORIAL WAS , county=Warwickshire, memorial_type=Trophy / Relic
+[19:47:50]   [B1:51/83] crew-of-28-otu-wellington-mf200
+[19:47:54]     ENRICHED: quality=Good | +inscription=A memorial to the men who lost, county=Nottinghamshire, memorial_type=Cairn, crash_date=1944-04-19
+[19:47:56]   [B1:52/83] crew-of-hampden-aircraft
+[19:47:58]     ENRICHED: quality=Good | +inscription=IN REMEMBRANCE OF/ (names) / T, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1941-11-09
+[19:47:59]   [B1:53/83] crew-of-hampden-p5303
+[19:48:02]     ENRICHED: quality=Good | +inscription=DEDICATED TO THE CREW/ OF/ HAM, county=Oxfordshire, memorial_type=Board / Plaque / Tablet
+[19:48:03]   [B1:54/83] crew-of-handley-page-hampden-ae381-2
+[19:48:05]     ENRICHED: quality=Good | +county=Derbyshire, memorial_type=Cross
+[19:48:07]   [B1:55/83] crew-of-lancaster-aircraft-serial-mk-442
+[19:48:10]     ENRICHED: quality=Good | +county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:48:11]   [B1:56/83] crew-of-lancaster-bomber-lm258
+[19:48:14]     ENRICHED: quality=Good | +inscription=IN HONOURED MEMORY OF THE CREW, county=Suffolk, memorial_type=Board / Plaque / Tablet
+[19:48:16]   [B1:57/83] crew-of-lancaster-ed-617
+[19:48:20]     ENRICHED: quality=Good | +inscription=In Memory of / (names) / Crew , county=Lincolnshire, memorial_type=Avenue / Tree or grove, squadron=50 Squadron
+[19:48:22]   [B1:58/83] crew-of-lancaster-ll811-bq-j-and-their-comrades
+[19:48:24]     ENRICHED: quality=Good | +county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:48:26]   [B1:59/83] crew-of-lancaster-lm232-dx-p
+[19:48:30]     ENRICHED: quality=Good | +inscription=In Proud Memory / 57 Squadron., county=Lincolnshire, memorial_type=Avenue / Tree or grove, crash_date=1944-08-27, squadron=57 Squadron
+[19:48:31]   [B1:60/83] crew-of-lancaster-nd-714-60-t
+[19:48:35]     ENRICHED: quality=Good | +inscription=582 SQN PATHFINDER FORCE/ IN L, county=Bedfordshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-06-15, squadron=582 Squadron
+[19:48:36]   [B1:61/83] crew-of-lancaster-pb304
+[19:48:39]     ENRICHED: quality=Good | +inscription=THE CREW OF A LANCASTER/PB304/, county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[19:48:41]   [B1:62/83] crew-of-lancaster-pb476-12-squadron-raf
+[19:48:44]     ENRICHED: quality=Good | +inscription=In the early hours/of March 4t, county=Lincolnshire, memorial_type=Stone of remembrance
+[19:48:45]   [B1:63/83] crew-of-lincoln-bomber-re373-of-97-squadron
+[19:48:49]     ENRICHED: quality=Good | +inscription=SACRED TO THE MEMORY OF THE CR, county=Norfolk, memorial_type=Board / Plaque / Tablet, crash_date=1947-09-24
+[19:48:50]   [B1:64/83] crew-of-wellington-bomber-ln482
+[19:48:54]     ENRICHED: quality=Good | +inscription=Upper propeller blade : In mem, county=Northamptonshire, memorial_type=Trophy / Relic, crash_date=1944-04-05
+[19:48:55]   [B1:65/83] crew-of-wellington-ln281
+[19:48:58]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE BRAVE AIRMEN/, county=Leicestershire, memorial_type=Wall, crash_date=1944-08-13
+[19:49:00]   [B1:66/83] crew-of-wellington-w5444
+[19:49:03]     ENRICHED: quality=Good | +inscription=WELLINGTON BOMBER/ CRASHED 17T, county=Norfolk, memorial_type=Board / Plaque / Tablet, crash_date=1941-08-17
+[19:49:04]   [B1:67/83] crew-of-wellington-w5557
+[19:49:07]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE SOLDIERS OF P, county=South Yorkshire, memorial_type=Cross, crash_date=1941-09-27
+[19:49:09]   [B1:68/83] crew-of-whitley-mk-5-no-1489
+[19:49:12]     ENRICHED: quality=Good | +inscription=IN LOVING MEMORY OF THE CREW O, county=West Yorkshire, memorial_type=Board / Plaque / Tablet, crash_date=1940-08-29, squadron=102 Squadron
+[19:49:14]   [B1:69/83] crews-of-lancaster-4103-and-oxford-lb415
+[19:49:16]     ENRICHED: quality=Good | +inscription=Brass plaque: In memory of/ th, county=Nottinghamshire, memorial_type=Board / Plaque / Tablet
+[19:49:17]   [B1:70/83] crews-of-lancasters-jb678-and-jb674
+[19:49:21]     ENRICHED: quality=Good | +inscription=IN MEMORY OF TWO LANCASTER BOM, county=Lincolnshire, crash_date=1943-12-17
+[19:49:22]   [B1:71/83] crews-of-lancasters-me625-and-nd981
+[19:49:26]     ENRICHED: quality=Good | +inscription=Plaque inscription: (97 Squadr, county=Lincolnshire, memorial_type=Trophy / Relic, crash_date=1944-06-23
+[19:49:27]   [B1:72/83] crews-of-two-wellington-bombers
+[19:49:30]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREWS OF TWO , county=Nottinghamshire, memorial_type=Stone of remembrance
+[19:49:32]   [B1:73/83] crossley-and-porter-grammar-school-halifax-ww2
+[19:49:35]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:49:36]   [B1:74/83] duke-of-wellington-aldershot
+[19:49:40]     ENRICHED: quality=Good | +inscription=WELLINGTON, county=Hampshire, memorial_type=Sculptured / Cast figure
+[19:49:42]   [B1:75/83] duke-of-wellington-guildhall-london
+[19:49:45]     ENRICHED: quality=Good | +inscription=ARTHUR WELLESLEY / DUKE OF WEL, county=Greater London, memorial_type=Sculptured / Cast group
+[19:49:46]   [B1:76/83] duke-of-wellington-hotel-patrons-ww2
+[19:49:49]     ENRICHED: quality=Good | +county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[19:49:51]   [B1:77/83] duke-of-wellington-norwich
+[19:49:54]     ENRICHED: quality=Good | +inscription=WELLINGTON, county=Norfolk, memorial_type=Sculptured / Cast figure
+[19:49:56]   [B1:78/83] e-hulton-and-co-ltd-of-london-manchester-halifax-and-preston
+[19:49:59]     ENRICHED: quality=Good | +inscription=ROLL/ OF/ HONOUR/ 1914 1918/ T, county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[19:50:00]   [B1:79/83] field-marshal-the-earl-alexander-of-tunis-wellington-barracks
+[19:50:03]     ENRICHED: quality=Good | +inscription=FIELD MARSHAL THE EARL/ ALEXAN, county=Greater London, memorial_type=Sculptured / Cast figure
+[19:50:05]   [B1:80/83] flight-lieutenant-c-s-chatten-dso-dfc-and-british-and-allied-aircrews
+[19:50:08]     ENRICHED: quality=Good | +county=Norfolk, memorial_type=Window
+[19:50:09]   [B1:81/83] flight-lieutenant-h-pexton-and-crew-of-handley-page-halifax-hr851
+[19:50:12]     ENRICHED: quality=Good | +inscription=The East window is/ to the mem, county=Antrim, memorial_type=Window, crew(1)
+[19:50:14]   [B1:82/83] flight-lieutenant-l-cumberworth-and-flying-officer-j-easdale-handley-page-halifa
+[19:50:17]     ENRICHED: quality=Good | +inscription=ROYAL AIR FORCE/ THIS PLAQUE I, county=Antrim, memorial_type=Board / Plaque / Tablet
+[19:50:18]   [B1:83/83] flight-sergeant-a-g-reid-and-crew-of-short-stirling-lk276
+[19:50:21]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ Flight Sergeant/, county=Essex, memorial_type=Seat
+[19:50:23] 
+--- Batch 2/5 (83 stubs) ---
+[19:50:23]   [B2:1/83] flight-sergeant-j-hannah-vc-rose-garden
+[19:50:27]     ENRICHED: quality=Good | +inscription=THE HANNAH ROSE / IN MEMORY OF, county=Lincolnshire, memorial_type=Garden, crash_date=1940-09-15, crew(1)
+[19:50:28]   [B2:2/83] flight-sergeant-j-timperon-r-a-a-f-and-vickers-wellington-z8799
+[19:50:38]     ENRICHED: quality=Good | +county=Lancashire, memorial_type=Board / Plaque / Tablet
+[19:50:39]   [B2:3/83] flight-sergeant-l-lissette-and-crew-of-avro-lancaster-nd556
+[19:50:42]     ENRICHED: quality=Good | +county=Lincolnshire, memorial_type=Avenue / Tree or grove
+[19:50:44]   [B2:4/83] flying-fortress-lucky-strike-crew-and-emergency-services
+[19:50:47]     ENRICHED: quality=Good | +inscription=Upper plaque: This memorial to, county=Norfolk, memorial_type=Board / Plaque / Tablet, squadron=61 Squadron
+[19:50:48]   [B2:5/83] flying-officer-a-d-s-snell
+[19:50:52]     ENRICHED: quality=Good | +county=Hereford And Worcester, memorial_type=Addition to gravestone
+[19:50:53]   [B2:6/83] flying-officer-gardner-and-crew-of-a-handley-page-halifax
+[19:50:57]     ENRICHED: quality=Good | +county=Kent, memorial_type=Board / Plaque / Tablet
+[19:50:59]   [B2:7/83] flying-officer-j-j-bregman-and-crew-of-avro-lancaster-pb171
+[19:51:02]     ENRICHED: quality=Good | +inscription=Remembering mu beloved brother, county=Lincolnshire, memorial_type=Avenue / Tree or grove, crew(1)
+[19:51:03]   [B2:8/83] flying-officer-l-t-manser-vc
+[19:51:07]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/FLYING OFFICER/LE, county=Hertfordshire, memorial_type=Board / Plaque / Tablet
+[19:51:08]   [B2:9/83] flying-officer-p-pease
+[19:51:11]     ENRICHED: quality=Good | +inscription=Flying Officer A. Peter Pease , county=Kent, memorial_type=Stone of remembrance, crew(1)
+[19:51:13]   [B2:10/83] flying-officer-r-mcg-waterston
+[19:51:16]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ FLYING OFFICER/ , county=Greater London, memorial_type=Stone of remembrance
+[19:51:17]   [B2:11/83] flying-officer-w-young
+[19:51:21]     ENRICHED: quality=Good | +inscription=…./AND OF FLYING OFFICER/WILLI, county=Dumfries And Galloway, memorial_type=Addition to gravestone
+[19:51:22]   [B2:12/83] for-the-crew-of-flight-103
+[19:51:26]     ENRICHED: quality=Good | +inscription=On main bench plaque: FOR THE , county=Greater London, memorial_type=Avenue / Tree or grove
+[19:51:27]   [B2:13/83] halifax-100-of-the-maple-leaf-ashton-under-lyne-ww2
+[19:51:30]     ENRICHED: quality=Good | +county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[19:51:32]   [B2:14/83] halifax-bomber-ll459
+[19:51:35]     ENRICHED: quality=Good | +inscription=RAAF / IN MEMORY OF / (6 NAMES, county=East Riding of Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:51:37]   [B2:15/83] halifax-bowling-club-ww1-and-ww2
+[19:51:40]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:51:42]   [B2:16/83] hampden-family
+[19:51:45]     ENRICHED: quality=Good | +county=Oxfordshire, memorial_type=Board / Plaque / Tablet
+[19:51:46]   [B2:17/83] hampden-p1294
+[19:51:48]     ENRICHED: quality=Good | +inscription=IN HONOUR OF/ (Names)/ WHO BRA, county=Shropshire, memorial_type=Board / Plaque / Tablet, crash_date=1941-10-30
+[19:51:50]   [B2:18/83] handley-page-halifax-bb216
+[19:51:53]     ENRICHED: quality=Good | +inscription=Stone: (405 Squadron RCAF badg, county=Lincolnshire, memorial_type=Stone of remembrance
+[19:51:55]   [B2:19/83] handley-page-halifax-bb320
+[19:51:59]     ENRICHED: quality=Good | +inscription=NEAR THIS SPOT ON 7TH FEBRUARY, county=Staffordshire, memorial_type=Board / Plaque / Tablet
+[19:52:00]   [B2:20/83] handley-page-halifax-dg358
+[19:52:04]     ENRICHED: quality=Good | +inscription=In memory of the R.A.F. (V.R.), county=Powys, memorial_type=Roll of honour or book of reme, crash_date=1944-01-23
+[19:52:06]   [B2:21/83] handley-page-halifax-dg412
+[19:52:09]     ENRICHED: quality=Good | +inscription=ON THE EVENING OF/ 27th AUGUST, county=Devon, memorial_type=Board / Plaque / Tablet, crash_date=1943-08-27
+[19:52:10]   [B2:22/83] handley-page-halifax-dk192
+[19:52:14]     ENRICHED: quality=Good | +inscription=AT THIS PLACE ON/ 7TH FEBRUARY, county=Antrim, memorial_type=Stone of remembrance
+[19:52:15]   [B2:23/83] handley-page-halifax-dk253
+[19:52:18]     ENRICHED: quality=Good | +county=Greater London, memorial_type=Board / Plaque / Tablet
+[19:52:20]   [B2:24/83] handley-page-halifax-dt628
+[19:52:23]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Avenue / Tree or grove
+[19:52:25]   [B2:25/83] handley-page-halifax-dt669
+[19:52:28]     ENRICHED: quality=Good | +inscription=TO THE MEMORY OF THE AIRCREW/ , county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-12-16
+[19:52:29]   [B2:26/83] handley-page-halifax-dt696
+[19:52:34]     ENRICHED: quality=Good | +inscription=DEDICATED TO THE CREW OF/ RAF , county=North Yorkshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-02-14, squadron=158 Squadron
+[19:52:35]   [B2:27/83] handley-page-halifax-eb199
+[19:52:38]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE MEN WHO DIED/, county=North Yorkshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-10-22
+[19:52:40]   [B2:28/83] handley-page-halifax-eb203
+[19:52:43]     ENRICHED: quality=Good | +inscription=This plaque is erected to the , county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:52:44]   [B2:29/83] handley-page-halifax-hx181
+[19:52:47]     ENRICHED: quality=Good | +inscription=Plaque: (10 Squadron crest)/ T, county=West Sussex, memorial_type=Board / Plaque / Tablet
+[19:52:49]   [B2:30/83] handley-page-halifax-hx351
+[19:52:52]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Board / Plaque / Tablet
+[19:52:54]   [B2:31/83] handley-page-halifax-jb798
+[19:52:57]     ENRICHED: quality=Good | +county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:52:59]   [B2:32/83] handley-page-halifax-jb848
+[19:53:02]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ The crew of RAF , county=Antrim, memorial_type=Composite, crash_date=1943-03-29
+[19:53:03]   [B2:33/83] handley-page-halifax-jb863
+[19:53:07]     ENRICHED: quality=Good | +inscription=TO THE MEMORY OF/ (names)/ MEM, county=North Yorkshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-06-19, squadron=77 Squadron
+[19:53:08]   [B2:34/83] handley-page-halifax-jd105-and-f86-sabre-xd733
+[19:53:11]     ENRICHED: quality=Good | +county=North Yorkshire, memorial_type=Stone of remembrance
+[19:53:13]   [B2:35/83] handley-page-halifax-jd386
+[19:53:17]     ENRICHED: quality=Good | +inscription=(Names)/ Halifax JD 386 - 20 F, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-02-20
+[19:53:18]   [B2:36/83] handley-page-halifax-jn920
+[19:53:21]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ (names)/ JN 920 , county=Antrim, memorial_type=Board / Plaque / Tablet, crash_date=1943-10-22
+[19:53:23]   [B2:37/83] handley-page-halifax-jp137
+[19:53:26]     ENRICHED: quality=Good | +inscription=MOORDOWN/ HALIFAX MEMORIAL/ IN, county=Dorset, memorial_type=Stone of remembrance
+[19:53:27]   [B2:38/83] handley-page-halifax-jp190
+[19:53:31]     ENRICHED: quality=Good | +inscription=In Memory/ of the crew of/ Hal, county=Borders, memorial_type=Board / Plaque / Tablet, crash_date=1944-04-01
+[19:53:32]   [B2:39/83] handley-page-halifax-lk750
+[19:53:37]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Avenue / Tree or grove
+[19:53:38]   [B2:40/83] handley-page-halifax-lk789
+[19:53:43]     ENRICHED: quality=Good | +inscription=This plaque is a memorial to t, county=Cambridgeshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-04-25, squadron=76 Squadron
+[19:53:44]   [B2:41/83] handley-page-halifax-lk794
+[19:53:48]     ENRICHED: quality=Good | +inscription=ON THE MORNING OF 18 JULY 1944, county=Berkshire, memorial_type=Board / Plaque / Tablet
+[19:53:50]   [B2:42/83] handley-page-halifax-lk839
+[19:53:53]     ENRICHED: quality=Good | +inscription=IN LOVING MEMORY/ (names)/ 158, county=Antrim, memorial_type=Board / Plaque / Tablet, crash_date=1944-08-17, squadron=158 Squadron
+[19:53:54]   [B2:43/83] handley-page-halifax-lk844
+[19:53:58]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Composite, crash_date=1944-11-14, squadron=51 Squadron
+[19:54:00]   [B2:44/83] handley-page-halifax-lk878
+[19:54:03]     ENRICHED: quality=Good | +inscription=WORLD WAR II AIR CRASH/ 15TH J, county=North Yorkshire, memorial_type=Stone of remembrance, crash_date=1945-01-15
+[19:54:04]   [B2:45/83] handley-page-halifax-lk930
+[19:54:08]     ENRICHED: quality=Good | +county=Derbyshire, memorial_type=Stone of remembrance
+[19:54:09]   [B2:46/83] handley-page-halifax-lk954
+[19:54:14]     ENRICHED: quality=Good | +inscription=Plaque: Badge of 428 Squadron , county=Lincolnshire, memorial_type=Wall, crew(1)
+[19:54:15]   [B2:47/83] handley-page-halifax-lk954-2019
+[19:54:19]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL IS DEDICATED TO , county=Lincolnshire, memorial_type=Wall
+[19:54:20]   [B2:48/83] handley-page-halifax-ll356
+[19:54:24]     ENRICHED: quality=Good | +inscription=The seat is dedicated to the h, county=Suffolk, memorial_type=Seat
+[19:54:25]   [B2:49/83] handley-page-halifax-ll505
+[19:54:27]     ENRICHED: quality=Good | +inscription=Metal Plaque-HALIFAX BOMBER/LL, county=Cumbria, memorial_type=Trophy / Relic, crash_date=1944-10-22
+[19:54:29]   [B2:50/83] handley-page-halifax-lv836
+[19:54:32]     ENRICHED: quality=Good | +inscription=Stone of Remembrance: THIS MEM, county=North Yorkshire, memorial_type=Stone of remembrance
+[19:54:33]   [B2:51/83] handley-page-halifax-lv905
+[19:54:37]     ENRICHED: quality=Good | +inscription=On back wall: 1940 RAF Breight, county=East Riding of Yorkshire, memorial_type=Sculpture, crash_date=1944-05-25
+[19:54:38]   [B2:52/83] handley-page-halifax-lv952
+[19:54:41]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Avenue / Tree or grove
+[19:54:43]   [B2:53/83] handley-page-halifax-lv955
+[19:54:46]     ENRICHED: quality=Good | +inscription=Upper plaque, reported to read, county=Norfolk, memorial_type=Window, crash_date=1945-03-04
+[19:54:47]   [B2:54/83] handley-page-halifax-lw115
+[19:54:52]     ENRICHED: quality=Good | +inscription=In Memory Of / THOSE WHO DIED , county=Isle of Man, memorial_type=Composite
+[19:54:53]   [B2:55/83] handley-page-halifax-lw478
+[19:54:57]     ENRICHED: quality=Good | +inscription=At 2203 hours on 30 March 1944, county=Northamptonshire, memorial_type=Board / Plaque / Tablet
+[19:54:59]   [B2:56/83] handley-page-halifax-lw479
+[19:55:02]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Avenue / Tree or grove
+[19:55:04]   [B2:57/83] handley-page-halifax-lw497
+[19:55:07]     ENRICHED: quality=Good | +county=East Riding of Yorkshire, memorial_type=Avenue / Tree or grove
+[19:55:09]   [B2:58/83] handley-page-halifax-lw579
+[19:55:12]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF 51 SQ, county=Oxfordshire, memorial_type=Stone of remembrance, squadron=51 Squadron
+[19:55:13]   [B2:59/83] handley-page-halifax-lw598
+[19:55:16]     ENRICHED: quality=Good | +inscription=TO THE MEMORY OF / (6 NAMES) /, county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:55:18]   [B2:60/83] handley-page-halifax-lw598-ow-j-johnnie
+[19:55:21]     ENRICHED: quality=Good | +inscription=Silhouette of Halifax/ TO THE , county=North Yorkshire, memorial_type=Composite
+[19:55:23]   [B2:61/83] handley-page-halifax-lw693
+[19:55:26]     ENRICHED: quality=Good | +county=Wiltshire, memorial_type=Board / Plaque / Tablet
+[19:55:27]   [B2:62/83] handley-page-halifax-mz286
+[19:55:31]     ENRICHED: quality=Good | +county=East Riding of Yorkshire, memorial_type=Avenue / Tree or grove
+[19:55:32]   [B2:63/83] handley-page-halifax-mz348
+[19:55:37]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW/ OF MZ 3, county=East Riding of Yorkshire, memorial_type=Avenue / Tree or grove
+[19:55:38]   [B2:64/83] handley-page-halifax-mz454
+[19:55:41]     ENRICHED: quality=Good | +inscription=IN MEMORIAM/ ROYAL CANADIAN AI, county=North Yorkshire, memorial_type=Window, crash_date=1945-03-05, squadron=425 Squadron
+[19:55:43]   [B2:65/83] handley-page-halifax-mz519
+[19:55:46]     ENRICHED: quality=Good | +inscription=HALIFAX BOMBER MEMORIAL/ ON TH, county=Nottinghamshire, memorial_type=Paper memorial
+[19:55:47]   [B2:66/83] handley-page-halifax-mz538
+[19:55:50]     ENRICHED: quality=Good | +inscription=LH column: LEST WE FORGET/ ON , county=North Yorkshire, memorial_type=Painting / Print, crew(1)
+[19:55:52]   [B2:67/83] handley-page-halifax-mz767
+[19:55:55]     ENRICHED: quality=Good | +county=East Riding of Yorkshire, memorial_type=Avenue / Tree or grove
+[19:55:57]   [B2:68/83] handley-page-halifax-mz920
+[19:56:00]     ENRICHED: quality=Good | +inscription=In memory of / the crew of 434, county=Warwickshire, memorial_type=Stone of remembrance, crash_date=1944-10-14
+[19:56:01]   [B2:69/83] handley-page-halifax-mz933
+[19:56:05]     ENRICHED: quality=Good | +county=East Riding of Yorkshire, memorial_type=Avenue / Tree or grove
+[19:56:06]   [B2:70/83] handley-page-halifax-na612
+[19:56:09]     ENRICHED: quality=Good | +inscription=Heading: IN MEMORY OF THE CREW, county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:56:11]   [B2:71/83] handley-page-halifax-nr179
+[19:56:14]     ENRICHED: quality=Good | +inscription=Squadron crest: SQUADRON / 466, county=Antrim, memorial_type=Stone of remembrance
+[19:56:15]   [B2:72/83] handley-page-halifax-nr248
+[19:56:18]     ENRICHED: quality=Good | +inscription=HALIFAX 111 NR 248, county=Norfolk, memorial_type=Roll of honour or book of reme
+[19:56:20]   [B2:73/83] handley-page-halifax-nr287
+[19:56:23]     ENRICHED: quality=Good | +inscription=Plaque: HERE ON MARCH 15th 194, county=North Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:56:24]   [B2:74/83] handley-page-halifax-r9438
+[19:56:27]     ENRICHED: quality=Good | +inscription=TO THE MEMORY OF / THE CREW OF, county=Highlands and Islands, memorial_type=Board / Plaque / Tablet, crash_date=1942-03-31, squadron=35 Squadron
+[19:56:29]   [B2:75/83] handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f
+[19:56:33]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL WAS ERECTED IN 1, county=Essex, memorial_type=Pillar / Column
+[19:56:35]   [B2:76/83] handley-page-halifax-rt922
+[19:56:38]     ENRICHED: quality=Good | +inscription=HALIFAX RT 922/ ON THE 13 FEBR, county=Staffordshire, memorial_type=Cairn, crash_date=1947-02-13
+[19:56:40]   [B2:77/83] handley-page-halifax-s-bb373-and-jb874
+[19:56:43]     ENRICHED: quality=Good | +inscription=DEDICATED TO THE AIRCREW OF/ 7, county=Antrim, memorial_type=Board / Plaque / Tablet, crash_date=1943-08-24, squadron=78 Squadron
+[19:56:45]   [B2:78/83] handley-page-halifax-s-jp201-and-ll137
+[19:56:48]     ENRICHED: quality=Good | +inscription=Tablet, top : IN MEMORY / OF T, county=Devon, memorial_type=Stone of remembrance
+[19:56:49]   [B2:79/83] handley-page-halifax-s-ll186-and-ll296-raf-tiree
+[19:56:53]     ENRICHED: quality=Good | +inscription=In memory of two Second World , county=Dunbartonshire and Argyll and , memorial_type=Board / Plaque / Tablet
+[19:56:54]   [B2:80/83] handley-page-halifax-w1228
+[19:56:58]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ THE CREW/ OF/ HA, county=North Yorkshire, memorial_type=Board / Plaque / Tablet, squadron=76 Squadron
+[19:56:59]   [B2:81/83] handley-page-halifax-w7823
+[19:57:02]     ENRICHED: quality=Good | +inscription=No 8 Group PFF NTU / RAF Upwoo, county=Cambridgeshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-01-25
+[19:57:04]   [B2:82/83] handley-page-hampden-ad783
+[19:57:08]     ENRICHED: quality=Good | +inscription=(Bomber Command Badge) (455 Sq, county=Lincolnshire, memorial_type=Obelisk, crash_date=1942-02-13
+[19:57:09]   [B2:83/83] handley-page-hampden-at110
+[19:57:11]     ENRICHED: quality=Good | +inscription=New plaque: THIS PLAQUE COMMEM, county=West Sussex, memorial_type=Board / Plaque / Tablet
+[19:57:13] 
+--- Batch 3/5 (83 stubs) ---
+[19:57:13]   [B3:1/83] handley-page-hampden-at219
+[19:57:17]     ENRICHED: quality=Good | +inscription=IN MEMORY/ ON THE 14TH APRIL 1, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:57:18]   [B3:2/83] handley-page-hampden-l4173
+[19:57:22]     ENRICHED: quality=Good | +county=Norfolk, memorial_type=Board / Plaque / Tablet
+[19:57:23]   [B3:3/83] handley-page-hampden-p4313
+[19:57:26]     ENRICHED: quality=Good | +county=Isle of Man, memorial_type=Board / Plaque / Tablet
+[19:57:28]   [B3:4/83] handley-page-hampden-p4392
+[19:57:30]     ENRICHED: quality=Good | +county=Lincolnshire, memorial_type=Sculpture
+[19:57:32]   [B3:5/83] handley-page-hampden-p4399
+[19:57:35]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ THOSE WHO LOST T, county=Kent, memorial_type=Board / Plaque / Tablet
+[19:57:37]   [B3:6/83] heath-grammar-school-halifax-ww1
+[19:57:40]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[19:57:41]   [B3:7/83] hp-hampden-p1206
+[19:57:43]     ENRICHED: quality=Good | +inscription=Plaque: THESE ARE THE REMAINS , county=Lincolnshire, memorial_type=Trophy / Relic, squadron=49 Squadron
+[19:57:45]   [B3:8/83] hp-hampden-x3027-plaque
+[19:57:47]     ENRICHED: quality=Good | +inscription=Plaque: IN MEMORY OF THE CREW/, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:57:48]   [B3:9/83] hp-hampden-x3027-relics
+[19:57:51]     ENRICHED: quality=Good | +inscription=Partial transcription from the, county=Lincolnshire, memorial_type=Trophy / Relic
+[19:57:52]   [B3:10/83] illingworth-wesleyan-church-halifax-ww1
+[19:57:56]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Roll of honour or book of reme
+[19:57:57]   [B3:11/83] international-mosquito-air-and-ground-crew-memorial
+[19:58:00]     ENRICHED: quality=Good | +inscription=Main Plaque: (Royal Air Force , county=Hertfordshire, memorial_type=Trophy / Relic
+[19:58:02]   [B3:12/83] j-e-lancaster
+[19:58:05]     ENRICHED: quality=Basic | +county=North Yorkshire, memorial_type=Addition to gravestone
+[19:58:07]   [B3:13/83] j-hampden
+[19:58:09]     ENRICHED: quality=Good | +inscription=Headstone: IN LOVING MEMORY OF, county=Derbyshire, memorial_type=Board / Plaque / Tablet
+[19:58:10]   [B3:14/83] john-hampden
+[19:58:13]     ENRICHED: quality=Good | +inscription=In Memory of/ JOHN HAMPDEN/ of, county=Cornwall, memorial_type=Board / Plaque / Tablet
+[19:58:14]   [B3:15/83] lancaster
+[19:58:20]     ENRICHED: quality=Good | +county=Lancashire, memorial_type=Allegory (eg: Victory)
+[19:58:21]   [B3:16/83] lancaster-and-neighbourhood-crimean-war
+[19:58:24]     ENRICHED: quality=Good | +inscription=CRIMEA/ TO/ THE IMPERISHABLE M, county=Lancashire, memorial_type=Obelisk
+[19:58:25]   [B3:17/83] lancaster-bomber-nd958
+[19:58:28]     ENRICHED: quality=Good | +county=Suffolk, memorial_type=Board / Plaque / Tablet
+[19:58:30]   [B3:18/83] lancaster-bombers-ed730-and-nd327
+[19:58:33]     ENRICHED: quality=Good | +inscription=IN MEMORY OF / THE TWO LANCAST, county=Lincolnshire, memorial_type=Serviceman / Servicewoman, crash_date=1943-12-24, squadron=550 Squadron
+[19:58:34]   [B3:19/83] lancaster-morecambe-and-district-postal-workers
+[19:58:38]     ENRICHED: quality=Good | +county=Lancashire, memorial_type=Board / Plaque / Tablet
+[19:58:39]   [B3:20/83] lancaster-r5672
+[19:58:43]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF LANCA, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-04-08
+[19:58:44]   [B3:21/83] lancaster-royal-grammar-school-ww1-and-ww2
+[19:58:47]     ENRICHED: quality=Good | +county=Lancashire, memorial_type=Other structure
+[19:58:49]   [B3:22/83] lancaster-royal-grammar-school-ww1-school-memorial-field
+[19:58:52]     ENRICHED: quality=Basic | +county=Lancashire, memorial_type=Park / Sports field
+[19:58:53]   [B3:23/83] lancaster-st-anne-s-church
+[19:58:57]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/AND IN MEM, county=Lancashire, memorial_type=Board / Plaque / Tablet
+[19:58:58]   [B3:24/83] lancasters-jb670-and-lm332
+[19:59:02]     ENRICHED: quality=Good | +inscription=In honour of the two Lancaster, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:59:03]   [B3:25/83] lancasters-me625-and-nd981
+[19:59:06]     ENRICHED: quality=Good | +inscription=Plaque inscription: (97 Squadr, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:59:08]   [B3:26/83] lieutenant-g-m-a-hobart-hampden
+[19:59:10]     ENRICHED: quality=Good | +inscription=IN MEMORY OF / LIEUT. GEORGE M, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet
+[19:59:11]   [B3:27/83] lieutenant-m-c-macgregor-law-and-men-of-the-6th-duke-of-wellingtons-regt
+[19:59:14]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Window
+[19:59:16]   [B3:28/83] lincoln-high-school-ww2-aircrash-memorial
+[19:59:18]     ENRICHED: quality=Good | +inscription="GRANT UPON THEM THY PEACE/ LE, county=Lincolnshire, memorial_type=Roll of honour or book of reme
+[19:59:19]   [B3:29/83] manchester-cathedral-duke-of-lancaster-s-own-yeomanry
+[19:59:22]     ENRICHED: quality=Good | +inscription=Kneeler 1: In Memory of the Of, county=Greater Manchester, memorial_type=Church Fabric / Fitting: Kneel
+[19:59:24]   [B3:30/83] men-of-wellington-street
+[19:59:27]     ENRICHED: quality=Good | +inscription=In large type: 1914 1918 In sm, county=Tyne and Wear, memorial_type=Street shrine
+[19:59:28]   [B3:31/83] mosquito-aircrew-association
+[19:59:30]     ENRICHED: quality=Good | +inscription=(UNKNOWN), county=Staffordshire, memorial_type=Avenue / Tree or grove
+[19:59:32]   [B3:32/83] mosquito-dz636
+[19:59:34]     ENRICHED: quality=Good | +inscription=IN HONOURED MEMORY OF THE CREW, county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[19:59:36]   [B3:33/83] mount-tabor-wesleyan-church-halifax-ww1
+[19:59:39]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Roll of honour or book of reme
+[19:59:41]   [B3:34/83] normanton-on-soar-bomber-crash
+[19:59:45]     ENRICHED: quality=Good | +inscription=A memorial to the men who lost, county=Nottinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-04-19
+[19:59:47]   [B3:35/83] park-congregational-church-halifax-ww1-photographs
+[19:59:50]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Roll of honour or book of reme
+[19:59:51]   [B3:36/83] pilot-officer-h-e-rath-and-sergeant-k-m-miegel
+[19:59:54]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ PILOT OFFICER HE, county=Lincolnshire, memorial_type=Stone of remembrance
+[19:59:56]   [B3:37/83] pilot-officer-h-r-case
+[19:59:59]     ENRICHED: quality=Good | +inscription=THE CASE MEMORIAL PANELS // Th, county=Kent, memorial_type=Board / Plaque / Tablet, crew(1)
+[20:00:01]   [B3:38/83] pilot-officers-b-w-jobling-and-f-w-weston
+[20:00:03]     ENRICHED: quality=Good | +inscription=ON THE AFTERNOON OF 31ST AUGUS, county=Hertfordshire, memorial_type=Board / Plaque / Tablet
+[20:00:05]   [B3:39/83] polish-aircrew-1943-dunmoor-hill
+[20:00:07]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/[names]/9th JANUA, county=Northumberland, memorial_type=Board / Plaque / Tablet
+[20:00:09]   [B3:40/83] polish-aircrew-avro-lancaster-pa269
+[20:00:12]     ENRICHED: quality=Good | +inscription=THIS PLAQUE HAS BEEN ERECTED I, county=Leicestershire, memorial_type=Board / Plaque / Tablet
+[20:00:14]   [B3:41/83] polish-bomber-squadron-crews-of-lincolnshire
+[20:00:17]     ENRICHED: quality=Good | +inscription=In memory of/ all the aircrews, county=Lincolnshire, memorial_type=Avenue / Tree or grove
+[20:00:18]   [B3:42/83] private-g-h-lancaster
+[20:00:22]     ENRICHED: quality=Basic | +county=North Yorkshire, memorial_type=Addition to gravestone
+[20:00:23]   [B3:43/83] private-j-lancaster
+[20:00:27]     ENRICHED: quality=Good | +inscription=In loving memory/ of/ Pte. Jam, county=Greater Manchester, memorial_type=Addition to gravestone
+[20:00:29]   [B3:44/83] private-j-w-lancaster
+[20:00:32]     ENRICHED: quality=Basic | +county=North Yorkshire, memorial_type=Addition to gravestone
+[20:00:34]   [B3:45/83] private-t-j-e-hampden
+[20:00:36]     ENRICHED: quality=Good | +inscription=IN LOVING MEMORY OF / PTE TREV, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet
+[20:00:37]   [B3:46/83] raf-bomber-a-w-whitley-z6639-and-crew
+[20:00:41]     ENRICHED: quality=Good | +inscription=R.A.F. BOMBER CRASH/ AT THIS L, county=Hereford And Worcester, memorial_type=Stone of remembrance, crash_date=1943-06-02
+[20:00:43]   [B3:47/83] raf-east-kirkby-station-ground-crew
+[20:00:46]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL IS DEDICATED TO , county=Lincolnshire, memorial_type=Board / Plaque / Tablet, squadron=57 Squadron
+[20:00:48]   [B3:48/83] raf-wellington-aircrew
+[20:00:51]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THOSE WHO DIED AT, county=Gloucestershire, memorial_type=Board / Plaque / Tablet
+[20:00:53]   [B3:49/83] rcaf-crew-of-raf-wellington-he821-and-pilot-officer-h-s-keeton
+[20:00:56]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL/ IS DEDICATED TO, county=Derbyshire, memorial_type=Board / Plaque / Tablet
+[20:00:57]   [B3:50/83] rhodes-street-wesleyan-church-halifax-ww1
+[20:01:02]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/ AND IN SA, county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[20:01:04]   [B3:51/83] rifleman-j-r-lancaster
+[20:01:07]     ENRICHED: quality=Good | +inscription=Side one: G.R.U. / 2337 RFN. J, county=Merseyside, memorial_type=Battlefield cross or marker
+[20:01:08]   [B3:52/83] royal-canadian-air-force-403-squadron-pilots
+[20:01:11]     ENRICHED: quality=Good | +inscription=No 403 â€˜WOLFâ€™ SQUADRON (RO, county=Kent, memorial_type=Board / Plaque / Tablet
+[20:01:13]   [B3:53/83] royal-canadian-air-force-crew-vickers-wellington-bk387
+[20:01:16]     ENRICHED: quality=Good | +inscription=Badge: PER ARDUA AD ASTRA / RO, county=West Yorkshire, memorial_type=Stone of remembrance, crash_date=1944-01-02
+[20:01:18]   [B3:54/83] sacred-heart-and-st-bernard-rc-church-halifax-ww1
+[20:01:21]     ENRICHED: quality=Good | +inscription=Left Tablet- OF YOUR CHARITY, , county=West Yorkshire, memorial_type=Church Fabric / Fittings
+[20:01:22]   [B3:55/83] sacred-heart-and-st-bernard-rc-church-halifax-ww2-and-later
+[20:01:26]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Roll of honour or book of reme
+[20:01:27]   [B3:56/83] second-lieutenant-r-lancaster
+[20:01:32]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/ AND IN LO, county=Greater London, memorial_type=Board / Plaque / Tablet
+[20:01:33]   [B3:57/83] sergeant-a-j-smith-and-short-stirling-ef352
+[20:01:38]     ENRICHED: quality=Good | +county=Hampshire, memorial_type=Avenue / Tree or grove
+[20:01:39]   [B3:58/83] sergeant-a-k-sutton-and-crew-of-avro-lancaster-nd904
+[20:01:42]     ENRICHED: quality=Good | +inscription=In Loving Memory of/ Sergeant , county=Lincolnshire, memorial_type=Avenue / Tree or grove, crash_date=1944-10-05, squadron=75 Squadron, crew(1)
+[20:01:44]   [B3:59/83] sergeant-f-rowney-and-flight-sergeant-t-barker-and-handley-page-hampden-ad854
+[20:01:48]     ENRICHED: quality=Good | +inscription=As you walk along this path, y, county=Bedfordshire, memorial_type=Board / Plaque / Tablet, crash_date=1941-09-09
+[20:01:49]   [B3:60/83] sergeant-g-fisher-and-crew-of-handley-page-halifax-hr778
+[20:01:52]     ENRICHED: quality=Good | +county=Antrim, memorial_type=Avenue / Tree or grove
+[20:01:53]   [B3:61/83] sergeant-r-bolitho
+[20:01:56]     ENRICHED: quality=Good | +inscription=TO/ COMMEMORATE/ 50TH/ ANNIVER, county=Nottinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-05-17, squadron=617 Squadron
+[20:01:58]   [B3:62/83] sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538
+[20:02:01]     ENRICHED: quality=Good | +inscription=Upper plaque: IN MEMORY OF/ SG, county=Staffordshire, memorial_type=Board / Plaque / Tablet
+[20:02:02]   [B3:63/83] sergeant-t-h-skelton-and-crew-of-avro-lancaster-w4938
+[20:02:05]     ENRICHED: quality=Good | +county=Nottinghamshire, memorial_type=Board / Plaque / Tablet
+[20:02:07]   [B3:64/83] short-stirling-bf523
+[20:02:11]     ENRICHED: quality=Good | +inscription=SHORT STIRLING MK 111 - BF 523, county=Kent, memorial_type=Board / Plaque / Tablet
+[20:02:13]   [B3:65/83] short-stirling-bk770
+[20:02:16]     ENRICHED: quality=Good | +county=Norfolk, memorial_type=Avenue / Tree or grove
+[20:02:18]   [B3:66/83] short-stirling-bk784
+[20:02:21]     ENRICHED: quality=Good | +county=Cambridgeshire, memorial_type=Board / Plaque / Tablet
+[20:02:23]   [B3:67/83] short-stirling-ef127
+[20:02:27]     ENRICHED: quality=Good | +county=Nottinghamshire, memorial_type=Model
+[20:02:29]   [B3:68/83] short-stirling-eh940-and-avro-lancaster-lm292
+[20:02:32]     ENRICHED: quality=Good | +inscription=Face 1 plaque: IN MEMORY OF/ (, county=Lincolnshire, memorial_type=Stone of remembrance
+[20:02:34]   [B3:69/83] short-stirling-eh977
+[20:02:37]     ENRICHED: quality=Good | +inscription=Plaque: (Bomber Command badge), county=Lincolnshire, memorial_type=Stone of remembrance
+[20:02:38]   [B3:70/83] short-stirling-eh988
+[20:02:43]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ THE CREW OF/ STI, county=Nottinghamshire, memorial_type=Garden, crash_date=1945-01-14
+[20:02:44]   [B3:71/83] short-stirling-lj450
+[20:02:51]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL IS DEDICATED TO , county=Lincolnshire, memorial_type=Board / Plaque / Tablet
+[20:02:53]   [B3:72/83] short-stirling-lj930
+[20:02:56]     ENRICHED: quality=Good | +inscription=RAF / (7 NAMES) / IN MEMORY OF, county=Surrey, memorial_type=Cairn, squadron=190 Squadron
+[20:02:57]   [B3:73/83] short-stirling-lk116
+[20:03:01]     ENRICHED: quality=Good | +county=Essex, memorial_type=Composite
+[20:03:02]   [B3:74/83] short-stirling-lk276
+[20:03:06]     ENRICHED: quality=Good | +inscription=IN LOVING MEMORY OF THE CREW O, county=Essex, memorial_type=Stone of remembrance, crash_date=1944-11-21, squadron=190 Squadron
+[20:03:07]   [B3:75/83] short-stirling-n3703
+[20:03:10]     ENRICHED: quality=Good | +inscription=Round tablet: N3703 - G FOR GO, county=Cambridgeshire, memorial_type=Stone of remembrance, crew(2)
+[20:03:12]   [B3:76/83] short-stirling-n3756
+[20:03:15]     ENRICHED: quality=Good | +county=Suffolk, memorial_type=Other structure
+[20:03:16]   [B3:77/83] short-stirling-r9245
+[20:03:20]     ENRICHED: quality=Good | +county=Suffolk, memorial_type=Board / Plaque / Tablet
+[20:03:21]   [B3:78/83] short-stirling-r9329
+[20:03:26]     ENRICHED: quality=Good | +inscription=STIRLING BOMBER OF/ 149 SQDN R, county=Devon, memorial_type=Stone of remembrance, crash_date=1942-08-21, squadron=149 Squadron
+[20:03:27]   [B3:79/83] short-stirling-v80
+[20:03:30]     ENRICHED: quality=Good | +inscription=In memory of the crew of / Sti, county=Lincolnshire, memorial_type=Avenue / Tree or grove, squadron=570 Squadron
+[20:03:32]   [B3:80/83] short-stirling-w7441
+[20:03:35]     ENRICHED: quality=Good | +inscription=Front face, tablet: RAF MARHAM, county=Norfolk, memorial_type=Stone of remembrance, crash_date=1941-09-29
+[20:03:37]   [B3:81/83] short-stirling-w7467
+[20:03:40]     ENRICHED: quality=Good | +inscription=On 17th January 1942 Stirling , county=Cambridgeshire, memorial_type=Board / Plaque / Tablet
+[20:03:41]   [B3:82/83] short-stirling-w7473-handley-page-halifax-hr832-and-bristol-blenheim-z7278
+[20:03:44]     ENRICHED: quality=Good | +inscription=A MEMORIAL TO THE AIRCREW WHO , county=Norfolk, memorial_type=Board / Plaque / Tablet
+[20:03:46]   [B3:83/83] short-stirling-w7628
+[20:03:50]     ENRICHED: quality=Good | +inscription=149 SQDN/ IN MEMORY OF/ THOSE , county=Kent, memorial_type=Obelisk, crash_date=1942-10-24, squadron=149 Squadron
+[20:03:52] 
+--- Batch 4/5 (83 stubs) ---
+[20:03:52]   [B4:1/83] short-stirling-x9-y-worry
+[20:03:56]     ENRICHED: quality=Good | +inscription=X9-Y (WORRY!)/ 299 SQUADRON/ S, county=Staffordshire, memorial_type=Stone of remembrance
+[20:03:57]   [B4:2/83] st-egwin-s-church-norton-and-lenchwick-ww2-wellington-memorial
+[20:04:01]     ENRICHED: quality=Good | +inscription=On March 1st 1945/ a Wellingto, county=Worcestershire, memorial_type=Gate
+[20:04:02]   [B4:3/83] st-george-s-church-lee-mount-halifax-ww1-ww2-northern-ireland
+[20:04:06]     ENRICHED: quality=Good | +inscription=WW1 plaque: TO THE GLORY OF GO, memorial_type=Window
+[20:04:07]   [B4:4/83] st-hilda-s-halifax-ww1-and-ww2
+[20:04:11]     ENRICHED: quality=Good | +inscription=PULPIT: TO THE GLORY OF GOD AN, county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[20:04:13]   [B4:5/83] st-john-ambulance-brigade-lancaster-division
+[20:04:17]     ENRICHED: quality=Good | +inscription=ST JOHN AMBULANCE/BRIGADE (LAN, county=Lancashire, memorial_type=Board / Plaque / Tablet
+[20:04:19]   [B4:6/83] st-john-the-baptist-halifax
+[20:04:22]     ENRICHED: quality=Good | +inscription=(Names)/ These are they that c, county=West Yorkshire, memorial_type=Triptych
+[20:04:23]   [B4:7/83] st-jude-s-parishioners-halifax-ww1
+[20:04:26]     ENRICHED: quality=Good | +inscription=Centre of Board: ST JUDES CHUR, county=West Yorkshire, memorial_type=Church Fabric / Fittings
+[20:04:28]   [B4:8/83] st-mark-s-parishioners-siddal-halifax-ww1-and-ww2
+[20:04:32]     ENRICHED: quality=Good | +inscription=6 O'CLOCK FACE OF MEMORIAL, TO, county=West Yorkshire, memorial_type=Pillar / Column
+[20:04:34]   [B4:9/83] st-stephen-s-parish-copley-halifax-ww1-and-ww2
+[20:04:37]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/ AND AS A , county=West Yorkshire, memorial_type=Cross
+[20:04:39]   [B4:10/83] st-thomas-parishioners-halifax-ww1-and-ww2
+[20:04:42]     ENRICHED: quality=Good | +inscription=(ON ROOD BEAM) 1914 TO THE/ UN, county=West Yorkshire, memorial_type=Church Fabric / Fitting: Rood 
+[20:04:44]   [B4:11/83] stirlingshire-constabulary-ww2
+[20:04:47]     ENRICHED: quality=Good | +inscription=STIRLINGSHIRE CONSTABULARY/ WO, county=Central, memorial_type=Board / Plaque / Tablet
+[20:04:48]   [B4:12/83] the-gunthorpe-fallen-and-lancaster-r5703
+[20:04:51]     ENRICHED: quality=Good | +inscription=Plaque 1: Riverside Landscape/, county=Nottinghamshire, memorial_type=Garden
+[20:04:53]   [B4:13/83] the-old-wellington-manchester-post-1996-ira-bombing-restoration
+[20:04:58]     ENRICHED: quality=Good | +inscription=The/ Old Wellington/ .../ A te, county=Greater Manchester, memorial_type=Board / Plaque / Tablet
+[20:04:59]   [B4:14/83] two-avro-lancaster-crews-st-peter-ad-vincula
+[20:05:02]     ENRICHED: quality=Good | +inscription=PER ARDUA AD ASTRA/ THIS TABLE, county=Cambridgeshire, memorial_type=Board / Plaque / Tablet
+[20:05:04]   [B4:15/83] vautour-mitchell-crash-site
+[20:05:07]     ENRICHED: quality=Good | +inscription=DURING THE EARLY HOURS OF 29TH, county=Essex, crash_date=1944-06-29
+[20:05:08]   [B4:16/83] vickers-wellington-bj697
+[20:05:12]     ENRICHED: quality=Good | +inscription=(NO DESCRIPTION GIVEN. MEMORIA, county=Powys, memorial_type=Trophy / Relic, crash_date=1942-09-25
+[20:05:13]   [B4:17/83] vickers-wellington-bj764
+[20:05:17]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ (names)/ CREW ME, county=Norfolk, memorial_type=Board / Plaque / Tablet, crash_date=1942-11-09, squadron=425 Squadron
+[20:05:19]   [B4:18/83] vickers-wellington-bj879
+[20:05:22]     ENRICHED: quality=Good | +inscription=MURSLEY PARISH COUNCIL/ IN MEM, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet
+[20:05:24]   [B4:19/83] vickers-wellington-bk157
+[20:05:27]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF VICKE, county=Oxfordshire, memorial_type=Stone of remembrance, crash_date=1944-05-31
+[20:05:29]   [B4:20/83] vickers-wellington-bk352
+[20:05:32]     ENRICHED: quality=Good | +inscription=Wellington Bomber BK352 of 17 , county=Northamptonshire, memorial_type=Wall, crash_date=1944-03-17
+[20:05:33]   [B4:21/83] vickers-wellington-bk491
+[20:05:36]     ENRICHED: quality=Good | +inscription=IN MEMORY OF / (4 Names) / Who, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet
+[20:05:38]   [B4:22/83] vickers-wellington-bk517
+[20:05:41]     ENRICHED: quality=Good | +inscription=RAF badge : PER ARDUA AD ASTRA, county=Oxfordshire, memorial_type=Board / Plaque / Tablet, crash_date=1942-12-28
+[20:05:42]   [B4:23/83] vickers-wellington-dv697
+[20:05:46]     ENRICHED: quality=Good | +inscription=FLT-SGT J.W. WOODS RAAF/ SGT I, county=Leicestershire, memorial_type=Pillar / Column
+[20:05:48]   [B4:24/83] vickers-wellington-dv717
+[20:05:51]     ENRICHED: quality=Good | +inscription=Upper plaque: WELLINGTON BOMBE, county=Nottinghamshire, memorial_type=Board / Plaque / Tablet
+[20:05:52]   [B4:25/83] vickers-wellington-dv771
+[20:05:55]     ENRICHED: quality=Good | +inscription=Wymeswold RAF Eagle Mural/ Cre, county=Leicestershire, memorial_type=Board / Plaque / Tablet
+[20:05:57]   [B4:26/83] vickers-wellington-dv930
+[20:06:00]     ENRICHED: quality=Good | +inscription=Brass plaque: THIS PLAQUE HAS , county=Suffolk, memorial_type=Board / Plaque / Tablet
+[20:06:01]   [B4:27/83] vickers-wellington-he159
+[20:06:04]     ENRICHED: quality=Good | +county=Kent, memorial_type=Pillar / Column, crew(1)
+[20:06:06]   [B4:28/83] vickers-wellington-he320
+[20:06:09]     ENRICHED: quality=Good | +inscription=Royal Air Force / In Memory of, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crew(2)
+[20:06:11]   [B4:29/83] vickers-wellington-he702
+[20:06:14]     ENRICHED: quality=Good | +inscription=[199 Squadron badge]/ Ter nage, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-05-13, squadron=199 Squadron
+[20:06:15]   [B4:30/83] vickers-wellington-he818-and-handley-page-halifax-na581
+[20:06:19]     ENRICHED: quality=Good | +county=Nottinghamshire, memorial_type=Cairn
+[20:06:20]   [B4:31/83] vickers-wellington-hf570
+[20:06:23]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ (names)/ WHO DIE, county=Northamptonshire, memorial_type=Stone of remembrance
+[20:06:25]   [B4:32/83] vickers-wellington-hf613
+[20:06:28]     ENRICHED: quality=Good | +county=Derbyshire, memorial_type=Board / Plaque / Tablet
+[20:06:29]   [B4:33/83] vickers-wellington-hf641
+[20:06:33]     ENRICHED: quality=Good | +inscription=In memory of the Royal Canadia, county=Northamptonshire, memorial_type=Cenotaph, crash_date=1944-06-29
+[20:06:34]   [B4:34/83] vickers-wellington-hz251
+[20:06:38]     ENRICHED: quality=Good | +inscription=LEST WE FORGET/ In memory of t, county=West Yorkshire, memorial_type=Wall, crash_date=1943-09-23
+[20:06:40]   [B4:35/83] vickers-wellington-ln181
+[20:06:44]     ENRICHED: quality=Good | +inscription=DEDICATED TO THE CANADIAN CREW, county=Northamptonshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-03-20
+[20:06:46]   [B4:36/83] vickers-wellington-ln660-and-short-stirling-eh989
+[20:06:49]     ENRICHED: quality=Good | +inscription=Plinth: IN MEMORY OF / WESTCOT, county=Buckinghamshire, memorial_type=Pillar / Column
+[20:06:51]   [B4:37/83] vickers-wellington-lp397
+[20:06:54]     ENRICHED: quality=Good | +inscription=13TH JUNE 1944 / WELLINGTON / , county=Staffordshire, memorial_type=Stone of remembrance, crash_date=1944-06-13
+[20:06:55]   [B4:38/83] vickers-wellington-lp841-stone
+[20:07:00]     ENRICHED: quality=Good | +inscription=THE SITE AT WHICH/ WELLINGTON/, county=Nottinghamshire, memorial_type=Stone of remembrance
+[20:07:01]   [B4:39/83] vickers-wellington-lp841-tablet
+[20:07:05]     ENRICHED: quality=Good | +inscription=IN REMEMBRANCE OF THE 4 CREW/ , county=Nottinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1945-01-05
+[20:07:06]   [B4:40/83] vickers-wellington-mf116
+[20:07:10]     ENRICHED: quality=Good | +inscription=THIS MEMORIAL IS DEDICATED TO , county=Leicestershire, memorial_type=Stone of remembrance, crash_date=1945-01-14
+[20:07:11]   [B4:41/83] vickers-wellington-mp624
+[20:07:16]     ENRICHED: quality=Good | +county=Devon, memorial_type=Stone of remembrance
+[20:07:17]   [B4:42/83] vickers-wellington-n2749
+[20:07:20]     ENRICHED: quality=Good | +inscription=THIS PLAQUE OVERLOOKS THE SITE, county=Dyfed, memorial_type=Board / Plaque / Tablet
+[20:07:22]   [B4:43/83] vickers-wellington-n2848
+[20:07:25]     ENRICHED: quality=Good | +county=North Yorkshire, memorial_type=Cross
+[20:07:26]   [B4:44/83] vickers-wellington-nb824
+[20:07:30]     ENRICHED: quality=Good | +inscription=WELLINGTON/ BOMBER/ NB824/ On , county=Norfolk, memorial_type=Board / Plaque / Tablet
+[20:07:32]   [B4:45/83] vickers-wellington-nc848
+[20:07:35]     ENRICHED: quality=Good | +county=Devon, memorial_type=Board / Plaque / Tablet
+[20:07:36]   [B4:46/83] vickers-wellington-nz-n
+[20:07:40]     ENRICHED: quality=Good | +county=East Sussex, memorial_type=Board / Plaque / Tablet
+[20:07:41]   [B4:47/83] vickers-wellington-r1028
+[20:07:44]     ENRICHED: quality=Good | +county=Gloucestershire, memorial_type=Board / Plaque / Tablet
+[20:07:46]   [B4:48/83] vickers-wellington-r1461
+[20:07:49]     ENRICHED: quality=Good | +inscription=BWLCH-Y-RHIW FARMHOUSE/ At 014, county=Clwyd, memorial_type=Board / Plaque / Tablet
+[20:07:50]   [B4:49/83] vickers-wellington-r1465
+[20:07:54]     ENRICHED: quality=Good | +inscription=AT THIS PLACE ON 6TH JULY 1942, county=Powys, memorial_type=Cairn, crash_date=1942-07-06
+[20:07:56]   [B4:50/83] vickers-wellington-r1474
+[20:07:59]     ENRICHED: quality=Good | +inscription=ON THE/18TH MARCH 1941/ 'M' MO, county=Suffolk, memorial_type=Board / Plaque / Tablet, crash_date=1941-03-18, squadron=149 Squadron
+[20:08:00]   [B4:51/83] vickers-wellington-r1646-and-all-other-aircrew-killed-over-the-cairngorms
+[20:08:04]     ENRICHED: quality=Good | +inscription=Face 1 top plaque: 1939/ IN ME, county=Grampian, memorial_type=Trophy / Relic
+[20:08:05]   [B4:52/83] vickers-wellington-t2520
+[20:08:09]     ENRICHED: quality=Good | +inscription=Plaque on upper wooden cross: , county=Powys, memorial_type=Cairn
+[20:08:10]   [B4:53/83] vickers-wellington-w5365
+[20:08:13]     ENRICHED: quality=Good | +inscription=RAF WELLINGTON MKII W5365/ WHI, county=Nottinghamshire, memorial_type=Board / Plaque / Tablet
+[20:08:15]   [B4:54/83] vickers-wellington-w5667
+[20:08:19]     ENRICHED: quality=Good | +inscription=IN MEMORY OF THE CREW OF WELLI, county=Lincolnshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-02-06
+[20:08:21]   [B4:55/83] vickers-wellington-x-hf465
+[20:08:24]     ENRICHED: quality=Good | +inscription=R.A.F./ WELLINGTON X, HF 465 O, county=Cheshire, memorial_type=Board / Plaque / Tablet
+[20:08:26]   [B4:56/83] vickers-wellington-x3707
+[20:08:29]     ENRICHED: quality=Good | +inscription=PLAQUE : In Memory of / (NAMES, county=Lothian, memorial_type=Cairn, crash_date=1942-12-14
+[20:08:30]   [B4:57/83] vickers-wellington-x3790
+[20:08:33]     ENRICHED: quality=Good | +inscription=To the memory of those Winslow, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-08-07
+[20:08:35]   [B4:58/83] vickers-wellington-z8397
+[20:08:39]     ENRICHED: quality=Good | +inscription=Badge: 12 12 / LEADS THE FIELD, county=Norfolk, memorial_type=Board / Plaque / Tablet, crash_date=1941-10-11, squadron=12 Squadron
+[20:08:41]   [B4:59/83] vickers-wellington-z8799
+[20:08:45]     ENRICHED: quality=Good | +inscription=TO THE MEMORY OF/ (Names)/ KIL, county=Lancashire, memorial_type=Pillar / Column
+[20:08:46]   [B4:60/83] vickers-wellington-z8860
+[20:08:51]     ENRICHED: quality=Good | +inscription=CREW OFVICKERS WELLINGTON/ IC , county=Cambridgeshire, memorial_type=Stone of remembrance, crash_date=1941-08-21, squadron=101 Squadron
+[20:08:52]   [B4:61/83] vickers-wellington-z8863
+[20:08:55]     ENRICHED: quality=Good | +inscription=(Plaque on wall): This memoria, county=Cambridgeshire, memorial_type=Composite
+[20:08:57]   [B4:62/83] vickers-wellingtons-hf517-and-mf589
+[20:09:00]     ENRICHED: quality=Good | +inscription=In Memory of the Dutch, Canadi, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1944-08-26
+[20:09:01]   [B4:63/83] vickers-wellingtons-ln532-and-lp172
+[20:09:05]     ENRICHED: quality=Good | +county=Northamptonshire, memorial_type=Board / Plaque / Tablet
+[20:09:06]   [B4:64/83] victor-george-bailey-and-louis-grover-martin-wellington-crash-ford
+[20:09:09]     ENRICHED: quality=Good | +inscription=Royal Air Force In memory of S, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crew(1)
+[20:09:10]   [B4:65/83] w-and-r-h-lancaster
+[20:09:15]     ENRICHED: quality=Good | +inscription=....ALSO THEIR SONS/WILLIAM & , county=Cumbria, memorial_type=Addition to gravestone
+[20:09:16]   [B4:66/83] waterloo-wood-and-wellington-monument
+[20:09:20]     ENRICHED: quality=Good | +inscription=Face 1: WATERLOO WOOD/ RAISED , county=Lincolnshire, memorial_type=Composite
+[20:09:21]   [B4:67/83] weasenham-r-a-f-aircrew-ww-ii
+[20:09:24]     ENRICHED: quality=Good | +inscription=In Memory of the RAF Aircrew w, county=Norfolk, memorial_type=Other memorial
+[20:09:26]   [B4:68/83] wellington
+[20:09:29]     ENRICHED: quality=Good | +county=Shropshire, memorial_type=Gate
+[20:09:30]   [B4:69/83] wellington-bomber-crash
+[20:09:33]     ENRICHED: quality=Good | +inscription=IN MEMORY / OF THE CREW OF A W, county=Devon, memorial_type=Board / Plaque / Tablet, crash_date=1942-04-13
+[20:09:35]   [B4:70/83] wellington-bomber-crash-westbury-may-1943
+[20:09:38]     ENRICHED: quality=Good | +inscription=In memory of the Wellington bo, county=Buckinghamshire, memorial_type=Board / Plaque / Tablet, crash_date=1943-05-19
+[20:09:39]   [B4:71/83] wellington-bomber-he740
+[20:09:42]     ENRICHED: quality=Good | +county=Buckinghamshire, memorial_type=Board / Plaque / Tablet
+[20:09:44]   [B4:72/83] wellington-bomber-he746
+[20:09:47]     ENRICHED: quality=Good | +inscription=This plaque and photograph are, county=Dumfries and Galloway, memorial_type=Trophy / Relic, crew(1)
+[20:09:48]   [B4:73/83] wellington-bomber-mk-x-mf509
+[20:09:51]     ENRICHED: quality=Good | +inscription=ER COF ANNWYL / In Memory Of T, county=Powys, memorial_type=Cairn, crash_date=1944-11-20
+[20:09:53]   [B4:74/83] wellington-bomber-n2980
+[20:09:56]     ENRICHED: quality=Good | +inscription=ON THE 21ST SEPTEMBER 1985 WEL, county=Highland, memorial_type=Board / Plaque / Tablet
+[20:09:58]   [B4:75/83] wellington-house-school-westgate-on-sea-ww1-and-ww2
+[20:10:01]     ENRICHED: quality=Good | +inscription=WW1 Board - TO THE GLORY OF GO, county=Kent, memorial_type=Board / Plaque / Tablet
+[20:10:03]   [B4:76/83] wellington-methodist-church-wwi
+[20:10:06]     ENRICHED: quality=Good | +county=Somerset, memorial_type=Board / Plaque / Tablet
+[20:10:07]   [B4:77/83] wellington-monument-achilles-hyde-park-london
+[20:10:11]     ENRICHED: quality=Good | +inscription=TO ARTHUR, DUKE OF WELLINGTON,, county=Greater London, memorial_type=Allegory (eg: Victory)
+[20:10:12]   [B4:78/83] wellington-primitive-methodists-ww1
+[20:10:15]     ENRICHED: quality=Good | +inscription=TO THE GLORY OF GOD/ AND IN HO, county=Shropshire, memorial_type=Board / Plaque / Tablet
+[20:10:17]   [B4:79/83] wellington-r1392-crash
+[20:10:21]     ENRICHED: quality=Good | +inscription=HERE ON 27/27 MAY 1941/ A WELL, county=East Sussex, memorial_type=Cenotaph, crash_date=1941-05-27
+[20:10:23]   [B4:80/83] wellington-st-patrick-s-roman-catholic-church-ww1-and-2
+[20:10:26]     ENRICHED: quality=Good | +inscription=OF YOUR CHARITY PRAY FOR THE S, county=Shropshire, memorial_type=Cross
+[20:10:27]   [B4:81/83] wellington-street-primitive-methodist-ww1
+[20:10:31]     ENRICHED: quality=Good | +county=West Yorkshire, memorial_type=Board / Plaque / Tablet
+[20:10:32]   [B4:82/83] wellington-t2962
+[20:10:35]     ENRICHED: quality=Good | +inscription=IN MEMORY OF/ (military names), county=Hereford And Worcester, memorial_type=Board / Plaque / Tablet, crash_date=1942-07-07
+[20:10:37]   [B4:83/83] wellington-ww1
+[20:10:42]     ENRICHED: quality=Good | +inscription=FOR KING AND/ COUNTRY/ 1914 - , county=Herefordshire, memorial_type=Cross
+[20:10:43] 
+--- Batch 5/5 (3 stubs) ---
+[20:10:44]   [B5:1/3] wellington-x-he-324
+[20:10:46]     ENRICHED: quality=Basic | +county=Devon, memorial_type=Roll of honour or book of reme
+[20:10:48]   [B5:2/3] wellington-x-he-324-crash
+[20:10:52]     ENRICHED: quality=Good | +inscription=TO COMMEMORATE THE SIX / BRAVE, county=Devon, memorial_type=Stone of remembrance, crash_date=1943-09-18
+[20:10:54]   [B5:3/3] wesley-methodist-church-lancaster
+[20:10:57]     ENRICHED: quality=Good | +inscription=Names/These at the call of Kin, county=Lancashire, memorial_type=Board / Plaque / Tablet
+[20:10:58] DB updated: 335 memorials
+[20:10:58] 
+============================================================
+BMR IWM PLAYWRIGHT ENRICHMENT COMPLETE
+============================================================
+  Total processed:  335
+  Enriched:         335
+  No data found:    0
+  Failed/skipped:   0
+============================================================
+

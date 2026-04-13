@@ -19,89 +19,89 @@
     {
       "rank": "Fl/Sgt",
       "name": "Leonard Wentworth Lean",
-      "service_number": "411919 RAAF",
       "age": 22,
       "role": "Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "burial_location": "Newark Cemetery",
       "fate_detail": "Killed when the brand-new Lancaster struck the ground on an even keel with all engines under power, likely after hitting high-tension cables.",
       "bio": "A 22-year-old Australian pilot from the RAAF, Lean was partway through his Heavy Conversion Unit course learning to fly four-engine bombers.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "411919 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Sgt",
       "name": "Frank Dunkin",
-      "service_number": "14855 RAAF",
       "age": 21,
       "role": "Flight Engineer",
-      "nationality": "Australian",
       "fate": "Killed",
       "burial_location": "Newark Cemetery",
       "fate_detail": "Killed in the crash. Dunkin was a fellow Australian serving with the RAAF.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "14855 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "F/O",
       "name": "Edward Lambert",
-      "service_number": "127064 RAF",
       "age": 34,
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Fleetwood Borough Cemetery",
       "fate_detail": "Killed in the crash. At 34, Lambert was the eldest crew member.",
       "hometown": "Fleetwood, Lancashire",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "127064 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Henry Utley Oxspring",
-      "service_number": "1087359 RAF",
       "age": 27,
       "role": "Bomb Aimer",
-      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Hoyland Nether Cemetery",
       "fate_detail": "Killed when Lancaster ED823 crashed near Halam on 10 April 1943.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1087359 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "William Shearer Lyndsay Graham",
-      "service_number": "1345277 RAF",
       "age": 20,
       "role": "Wireless Operator",
-      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Glasgow Western Necropolis",
       "fate_detail": "Killed in the crash. Graham was the youngest British crew member at 20.",
       "hometown": "Glasgow, Scotland",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1345277 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Raymond David Lewis",
-      "service_number": "R/115799 RCAF",
       "age": 22,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "fate": "Killed",
       "burial_location": "Newark Cemetery",
       "fate_detail": "Killed in the crash. Lewis was a Canadian whose family attended the 68th anniversary memorial dedication in 2011.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R/115799 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "William George Stephenson",
-      "service_number": "1231524 RAF",
       "age": 21,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "burial_location": "Gilroes Cemetery, Leicester",
       "fate_detail": "Killed when Lancaster ED823 crashed near Halam on 10 April 1943.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1231524 RAF",
+      "nationality": "British"
     }
   ],
   "memorial_type": "Stone memorial",
@@ -127,7 +127,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "memorial_details": "Name: Avro Lancaster ED823\nType: Stone of remembrance\nDescription: Rectangular grey-slate tablet, fixed to a rough-hewn boulder. At the top of the tablet are the crests of the Royal Australian Air Force, the Royal Air Force and the Royal Canadian Air Force; the inscription and names below are in incised white lettering. The memorial is set within a garden area, which contains an information board regarding details of the operation and crash.\nInscription: IN MEMORY OF THE CREW OF/ AVRO LANCASTER ED823/ OF 1661 HEAVY CONVERSION UNIT/ WHICH CRASHED NEAR THIS SITE/ ON 10th APRIL 1943./ [crew names inscribed on memorial]/ \"THEY GAVE THEIR TOMORROWS FOR OUR TODAYS.\"\nLocation: School Lane Halam Newark And Sherwood Nottinghamshire NG25 0RR England\nGrid Ref: SK 68170 54773\nCoordinates: 53.085833531154,-0.983643791775\nPhotos: https://media.iwm.org.uk/ciim5/memorials/12/788/large_halam_bomber_memorial_halam_nottinghamshire_crachel_farrand_4.jpg; https://media.iwm.org.uk/ciim5/memorials/12/789/large_halam_bomber_memorial_halam_nottinghamshire_crachel_farrand_1.jpg; https://media.iwm.org.uk/ciim5/memorials/175/217/large_68377a.jpg; https://media.iwm.org.uk/ciim5/memorials/175/218/large_68377b.jpg\n\nMemorial Unveiling: The unveiling of the Avro Lancaster ED823 memorial in Halam, Nottinghamshire.",
   "maintainer": {
     "organisation": "Halam Parish Council",

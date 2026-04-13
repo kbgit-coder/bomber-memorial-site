@@ -5,7 +5,7 @@
   "county": "Lincolnshire",
   "country": "United Kingdom",
   "region_code": "LN-006",
-  "crash_date": "1944-04-12",
+  "crash_date": "1944-04-01",
   "aircraft_type": "Stirling",
   "serial_number": "LJ450",
   "squadron": "1654 HCU",
@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.0271,
   "longitude": -0.548,
   "maintainer": {
@@ -176,5 +176,6 @@
     "events": []
   },
   "crash_category": "training",
-  "narrative_quality_score": 5
+  "narrative_quality_score": 5,
+  "last_validated": "2026-04-12"
 }

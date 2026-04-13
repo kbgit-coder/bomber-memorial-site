@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.246166869648356,
   "longitude": 0.2739981095048998,
   "maintainer": {
@@ -162,8 +162,8 @@
       "rank": "Sgt",
       "fate": "Survived",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "Joseph Anthony Kaucharik C85909",
@@ -182,8 +182,8 @@
       "rank": null,
       "fate": "Survived",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "Norman Mc",

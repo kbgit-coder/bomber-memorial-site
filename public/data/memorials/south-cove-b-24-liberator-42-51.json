@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.3684,
   "longitude": 1.6709,
   "maintainer": {
@@ -69,7 +69,7 @@
     {
       "source_site": "93rd Bomb Group Association",
       "original_url": "https://www.93bg.com",
-      "summary": "93rd Bomb Group Association — official association website with group history, Roll of Honor, crew photos, and memorial information",
+      "summary": "93rd Bomb Group Association \u2014 official association website with group history, Roll of Honor, crew photos, and memorial information",
       "key_details": [
         "93rd BG based at RAF Hardwick (Station 104), Norfolk",
         "328th, 329th, 330th, 409th Bombardment Squadrons",
@@ -130,8 +130,7 @@
       "rank": "2nd Lieutenant",
       "fate": "Killed",
       "role": "unknown (likely pilot or crew member)",
-      "age": 21,
-      "nationality": "American"
+      "age": 21
     }
   ],
   "crash_category": "operational-combat",

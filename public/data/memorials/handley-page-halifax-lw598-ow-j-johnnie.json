@@ -1,27 +1,40 @@
 {
   "id": "handley-page-halifax-lw598-ow-j-johnnie",
   "title": "Handley Page Halifax (LW598) / OW-J 'Johnnie'",
-  "location_name": "",
-  "county": "",
+  "location_name": "Newton-On-Ouse",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LW598",
-  "squadron": "",
+  "squadron": "426 (CANADIAN) SQUADRON",
   "crash_date": "1944-06-09",
-  "memorial_type": "",
-  "memorial_details": "description: Silhouette of Halifax/ TO THE MEMORY OF/ NAMES (6)/ MEMBERS OF 426 (CANADIAN) SQUADRON FROM LINTON on OUSE/ WHO LOST THEIR LIVES IN A HALIFAX BOMBER WHICH CRASHED/ NEAR THIS SITE AFTER RETURING FROM OPERATIONS/ 4.00am 9th June 1944/ They gave their today for our tomorrow",
-  "inscription": "",
+  "memorial_type": "Composite",
+  "memorial_details": "Grey granite column with granite surround. Angled top holds the metal plaque",
+  "inscription": "Silhouette of Halifax/ TO THE MEMORY OF/ NAMES (6)/ MEMBERS OF 426 (CANADIAN) SQUADRON FROM LINTON on OUSE/ WHO LOST THEIR LIVES IN A HALIFAX BOMBER WHICH CRASHED/ NEAR THIS SITE AFTER RETURING FROM OPERATIONS/ 4.00am 9th June 1944/ They gave their today for our tomorrow",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108923"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108923",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.032503287371,
-  "longitude": -1.219345827111
+  "longitude": -1.219345827111,
+  "grid_ref": "SE 51229",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/178/769/large_108923c.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/178/767/large_108923a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/178/768/large_108923b.jpg"
+  ],
+  "community_connection": "Who erected it: NAMES (6) MEMBERS OF 426 (CANADIAN) SQUADRON"
 }

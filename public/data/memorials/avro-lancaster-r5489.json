@@ -1,27 +1,46 @@
 {
   "id": "avro-lancaster-r5489",
   "title": "Avro Lancaster R5489",
-  "location_name": "",
-  "county": "",
+  "location_name": "Branston, North Kesteven",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "R5489",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: In Memory of / Sgt, David Pullinger (Bomb Aimer) R.N.Z.A.F. and / Sgt. Jack Fletcher ( Flight Engineer) R.A.F.) who perished when / Lancaster R5489, KM-G of 44 (Rhodesia) Sqdn Waddington / crashed at Branston at 19 - 15 hrs on Sunday, 16th August, 1942 / &quot;For your Tomorrows, they gave their Today&quot; / &quot;At the going down of the sun, and in the morning / we will remember them.&quot; /Made and presented by Frank Walshaw (Wireless Operator) / a survivor of the crash.",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A collection of three wall mounted associated memorials. 1) Landscape oriented, wooden board with raised inscription and names. 2) A tapestry. 3) Portrait oriented, framed and glazed document explaining the crash story.",
+  "inscription": "In Memory of / Sgt, David Pullinger (Bomb Aimer) R.N.Z.A.F. and / Sgt. Jack Fletcher ( Flight Engineer) R.A.F.) who perished when / Lancaster R5489, KM-G of 44 (Rhodesia) Sqdn Waddington / crashed at Branston at 19 - 15 hrs on Sunday, 16th August, 1942 / \"For your Tomorrows, they gave their Today\" / \"At the going down of the sun, and in the morning / we will remember them.\" /Made and presented by Frank Walshaw (Wireless Operator) / a survivor of the crash.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/90947"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/90947",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.193648011869,
-  "longitude": -0.47286272049
+  "longitude": -0.47286272049,
+  "grid_ref": "TF 02129",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/91/931/mid_lancaster_r5489_km_g_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/935/lancaster_r5489_km_g_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/932/mid_lancaster_r5489_km_g_6.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/933/lancaster_r5489_km_g_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/936/lancaster_r5489_km_g_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/936/mid_lancaster_r5489_km_g_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/932/lancaster_r5489_km_g_6.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/931/lancaster_r5489_km_g_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/935/mid_lancaster_r5489_km_g_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/91/933/mid_lancaster_r5489_km_g_3.jpg"
+  ]
 }

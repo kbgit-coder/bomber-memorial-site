@@ -1,27 +1,41 @@
 {
   "id": "short-stirling-w7628",
   "title": "Short Stirling W7628",
-  "location_name": "",
-  "county": "",
+  "location_name": "Cliffe, Rochester Upon Medway",
+  "county": "Kent",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "W7628",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "149 Squadron",
+  "crash_date": "1942-10-24",
+  "memorial_type": "Obelisk",
+  "memorial_details": "A short grey obelisk with a pitched roof.",
+  "inscription": "149 SQDN/ IN MEMORY OF/ THOSE KILLED IN THE CRASH OF/ STIRLING BOMBER W76280JB/ IN CLIFFE ON THE 24TH OCTOBER 1942/ (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/70896"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/70896",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.461711806081,
-  "longitude": 0.496448945271
+  "longitude": 0.496448945271,
+  "grid_ref": "TQ 73519",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/19/186/large_149_sqdr_cnwkfhs_04_08_2013_a_.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/172/230/large_70896b_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/172/231/large_70896c_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/19/187/large_149_sqdr_cnwkfhs_04_08_2013_c_.jpg"
+  ],
+  "community_connection": ""
 }

@@ -1,27 +1,50 @@
 {
   "id": "sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538",
-  "title": "Sergeant T Butterley and Sergeant A Priest - Vickers Wellington R1538",
-  "location_name": "",
-  "county": "",
+  "title": "Vickers Wellington R1538",
+  "location_name": "Cellarhead, Staffordshire Moorlands",
+  "county": "Staffordshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "R1538",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1943-01-30",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A stone pillar with two inset plaques.",
+  "inscription": "Upper plaque: IN MEMORY OF/ SGT. T. BUTTERLEY 1336746/ OBSERVER/ SGT. A. PRIEST 1312544/ BOMB AIMER/ KILLED ON THIS SPOT/ AT 0245 30/1/43 Lower plaque: WELLIGTON R1538/ 28 0.T.U./ R.A.F. WYMESWOLD",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/71781"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/71781",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "name": "T Butterley",
+      "fate": "Unknown"
+    },
+    {
+      "rank": "Sergeant",
+      "name": "A Priest",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.010209552024,
-  "longitude": -2.073778189301
+  "longitude": -2.073778189301,
+  "grid_ref": "SJ 95146",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/46/339/large_71781.jpg"
+  ],
+  "original_title": "Sergeant T Butterley and Sergeant A Priest - Vickers Wellington R1538",
+  "last_validated": "2026-04-13"
 }

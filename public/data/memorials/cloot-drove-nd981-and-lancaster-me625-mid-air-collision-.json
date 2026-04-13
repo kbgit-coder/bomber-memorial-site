@@ -36,161 +36,161 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on the afternoon of 23 June 1944 for formation flying practice. Fl/Lt Van Raalte's Lancaster ME625 (OF-O) became trapped in the slipstream of the lead aircraft during a gentle turn. The turbulence threw ME625 into collision with Lancaster ND981 (OF-T), tearing the tail clean off. Both Lancasters spun out of control. All eight crew in ME625 were killed. In ND981, which broke apart at 1,000 ft, Sgt Joseph Coman managed to bail out and survived; the remaining five crew perished.",
   "crew": [
     {
       "rank": "Fl/Lt",
       "name": "Henry Stewart \"Jim\" Van Raalte",
-      "service_number": "Aus/415220 RAAF",
       "age": 31,
       "role": "Pilot (ME625)",
-      "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 13766",
       "fate": "Killed",
       "fate_detail": "Pilot of ME625. Killed when his aircraft was trapped in slipstream and collided with ND981.",
       "cwgc_verified": true,
-      "bio": "Fl/Lt 'Jim' Van Raalte was a 31-year-old Australian serving with the RAAF."
+      "bio": "Fl/Lt 'Jim' Van Raalte was a 31-year-old Australian serving with the RAAF.",
+      "service_number": "Aus/415220 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "F/Sgt",
       "name": "Maurice Durn",
-      "service_number": "1622745 RAFVR",
       "age": 21,
       "role": "Flight Engineer (ME625)",
-      "nationality": "British",
       "burial_location": "Marsden (St Bartholomew's) Churchyard, Row 7, Grave 17",
       "fate": "Killed",
       "fate_detail": "Killed in the collision. Buried at Marsden Churchyard.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1622745 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "David Gethin Williams",
-      "service_number": "78568 RAFVR",
       "age": 22,
       "role": "Navigator (ME625)",
-      "nationality": "British",
       "burial_location": "Treorchy Cemetery, Plot T, Grave 168",
       "fate": "Killed",
       "fate_detail": "Welsh crew member. Buried at Treorchy Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "78568 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "W/O",
       "name": "Alfred Leonard Lambert",
-      "service_number": "Aus/409318 RAAF",
       "age": 25,
       "role": "Air Bomber (ME625)",
-      "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 14166",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "Aus/409318 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "F/O",
       "name": "Alan Arnold",
-      "service_number": "Aus/410136 RAAF",
       "age": 26,
       "role": "Visual Air Bomber (ME625)",
-      "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 13966",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "Aus/410136 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "F/Sgt",
       "name": "Eric Henry Peace",
-      "service_number": "1434302 RAFVR",
       "age": 22,
       "role": "W/Op Air Gunner (ME625)",
-      "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 14366",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1434302 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "Royston George Davies",
-      "service_number": "1315090 RAFVR",
       "age": 22,
       "role": "Air Gunner Mid Upper (ME625)",
-      "nationality": "British",
       "burial_location": "Treorchy Cemetery, Row R.1, Grave 17",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1315090 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Lt",
       "name": "John David Fletcher",
-      "service_number": "115198 RAFVR",
       "age": 24,
       "role": "Air Gunner Rear (ME625)",
-      "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 14566",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "115198 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Lt",
       "name": "Edward Leslie John (Ted) Perkins",
-      "service_number": "RAFVR",
       "role": "Pilot (ND981)",
-      "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 14766",
       "fate": "Killed",
       "fate_detail": "Pilot of ND981. Tail torn off by collision with ME625. Buried at Cambridge City Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Frank Ernest Coxhead",
       "role": "Flight Engineer (ND981)",
-      "nationality": "British",
       "burial_location": "Alfreton (Lea Brooks) Cemetery, Section B, Grave 641",
       "fate": "Killed",
       "fate_detail": "Buried at Alfreton Cemetery, Derbyshire.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Fl/Lt",
       "name": "William James Hunt",
       "role": "Navigator (ND981)",
-      "nationality": "British",
       "burial_location": "Romford Cemetery, Section C.C., Grave 22",
       "fate": "Killed",
       "fate_detail": "Buried at Romford Cemetery, Essex.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "John Fairbairn",
       "role": "Air Bomber (ND981)",
-      "nationality": "British",
       "burial_location": "Knottingley Cemetery, Grave 5224",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "W/O",
       "name": "Denis Gilbert Partos",
       "role": "W/Op Air Gunner (ND981)",
-      "nationality": "British",
       "burial_location": "New Southgate Cemetery, Sec G, Joint Grave 1662",
       "fate": "Killed",
       "fate_detail": "Held the Distinguished Flying Medal.",
       "cwgc_verified": true,
       "decorations": [
         "DFM"
-      ]
+      ],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Joseph Paul Coman",
       "role": "W/Op Air Gunner (ND981)",
-      "nationality": "British",
       "fate": "Survived",
-      "fate_detail": "Sole survivor. Bailed out as ND981 broke apart at 1,000 feet. Landed safely."
+      "fate_detail": "Sole survivor. Bailed out as ND981 broke apart at 1,000 feet. Landed safely.",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Mid-air collision; ME625 trapped in slipstream of lead aircraft, struck ND981 removing its tail",

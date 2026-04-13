@@ -1,27 +1,41 @@
 {
   "id": "handley-page-halifax-jb798",
   "title": "Handley Page Halifax JB798",
-  "location_name": "",
-  "county": "",
+  "location_name": "Selby",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "JB798",
   "squadron": "",
   "crash_date": "1944-05-10",
-  "memorial_type": "",
-  "memorial_details": "description: ON 10TH MAY 1944 IN THE EARLY MORNING AN R.A.F. AEROPLANE/ STRUCK THE SPIRE OF THIS CHURCH AND FELL ON BUILDINGS NEARBY./ THE SPIRE WAS DEMOLISHED AND OTHER EXTENSIVE DAMAGE WAS DONE/ TO THE CHURCH AND ADJOINING BUILDINGS. THE NAMES OF THOSE/ WHO THEN LOST THEIR LIVES ARE INSCRIBED BELOW. RESTORATION/ OF THE BUILDING WAS BEGUN ON 10TH MAY. 1949 AND THE CHURCH/ WAS RE-DEDICATED ON 11TH DECEMBER .1950/ CIVILIAN PARISHIONERS/ (NAMES)/ AEROPLANE CREW/ R.A.A.F/ (NAMES)",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Plain rectangular metal plaque with inscription in white lettering. The plaque is dispayed alongside British and Australian flags, together with the golden cockerill from the top of the spire which was found under the debris of the church spire demolished in the accident.",
   "inscription": "ON 10TH MAY 1944 IN THE EARLY MORNING AN R.A.F. AEROPLANE/ STRUCK THE SPIRE OF THIS CHURCH AND FELL ON BUILDINGS NEARBY./ THE SPIRE WAS DEMOLISHED AND OTHER EXTENSIVE DAMAGE WAS DONE/ TO THE CHURCH AND ADJOINING BUILDINGS. THE NAMES OF THOSE/ WHO THEN LOST THEIR LIVES ARE INSCRIBED BELOW. RESTORATION/ OF THE BUILDING WAS BEGUN ON 10TH MAY. 1949 AND THE CHURCH/ WAS RE-DEDICATED ON 11TH DECEMBER .1950/ CIVILIAN PARISHIONERS/ (NAMES)/ AEROPLANE CREW/ R.A.A.F/ (NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/30919"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/30919",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.782467460848,
-  "longitude": -1.071457362408
+  "longitude": -1.071457362408,
+  "grid_ref": "SE 61280",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/82/208/large_30919_halifax_bomber_jb798___weather_vane_memorial_and_flags_p1190287.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/82/209/large_30919_halifax_bomber_jb798_contemporay_pictures_of_the_damage_p1190288.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/82/207/large_30919_halifax_bomber_jb798_p1190290.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

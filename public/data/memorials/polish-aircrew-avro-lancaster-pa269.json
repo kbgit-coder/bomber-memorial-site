@@ -1,27 +1,42 @@
 {
   "id": "polish-aircrew-avro-lancaster-pa269",
   "title": "Polish aircrew - Avro Lancaster PA269",
-  "location_name": "",
-  "county": "",
+  "location_name": "Wigston Magna, Oadby And Wigston",
+  "county": "Leicestershire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PA269",
   "squadron": "300 Squadron",
   "crash_date": "1946-02-04",
-  "memorial_type": "",
-  "memorial_details": "description: Wall mounted rectangular reflective steel plaque commemorating the airmen of 300 Polish Bomber Squadron killed in a crash on 4th February 1946. Polish Air Force crest at top left, 300 Squadron crest at top centre and Royal Air Force crest at top right of plaque: all crests have identifying names immediately beneath them. Dedication is below the crests, and names are set out in two columns of three names each below the dedication.  All crests and lettering are in the same mid-blue colour.  Note: This memorial is in a school building - there is also a beech tree in the school grounds planted to commemorate the same incident (see memorial reference 55367).",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted rectangular reflective steel plaque commemorating the airmen of 300 Polish Bomber Squadron killed in a crash on 4th February 1946. Polish Air Force crest at top left, 300 Squadron crest at top centre and Royal Air Force crest at top right of plaque: all crests have identifying names immediately beneath them. Dedication is below the crests, and names are set out in two columns of three names each below the dedication. All crests and lettering are in the same mid-blue colour. Note: This memorial is in a school building - there is also a beech tree in the school grounds planted to commemorate the same incident (see memorial reference 55367).\n\nThis plaque has been erected in memory of the Airmen",
+  "inscription": "THIS PLAQUE HAS BEEN ERECTED IN MEMORY OF THE AIRMEN OF/ 300 POLISH SQUADRON WHO, WHILST FLYING LANCASTER BOMBER A1 PA 269/ OVER LEICESTER ON 4th FEBRUARY 1946 CRASHED ON THIS SCHOOL SITE/ KILLING THE FOLLOWING CREW MEMBERS/ (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/55366"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/55366",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.585222450937,
-  "longitude": -1.1089952
+  "longitude": -1.1089952,
+  "grid_ref": "SP 60505",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "custodian": "All Saints C of E School",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/59/406/55366_ready_for_unveiling.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/59/405/55366_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/59/405/mid_55366_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/59/406/mid_55366_ready_for_unveiling.jpg"
+  ],
+  "community_connection": ""
 }

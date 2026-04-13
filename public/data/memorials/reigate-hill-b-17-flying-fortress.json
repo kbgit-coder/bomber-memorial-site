@@ -5,7 +5,7 @@
   "county": "Surrey",
   "country": "United Kingdom",
   "region_code": "SE-004",
-  "crash_date": "WW2",
+  "crash_date": "",
   "aircraft_type": "B-17 Flying Fortress",
   "squadron": "USAAF",
   "crew_summary": "Crew killed",
@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 51.2546688,
   "longitude": -0.1998369,
   "maintainer": {
@@ -163,8 +163,7 @@
       "name": "Herbert S Geller",
       "rank": null,
       "fate": "Unknown",
-      "role": "Co-pilot",
-      "nationality": "American"
+      "role": "Co-pilot"
     },
     {
       "name": "Runyon",
@@ -180,8 +179,7 @@
       "name": "Colonel Dan Benson",
       "rank": null,
       "fate": "Unknown",
-      "role": "US Air Attach\u00e9",
-      "nationality": "American"
+      "role": "US Air Attach\u00e9"
     },
     {
       "name": "Wing Tip Photo",
@@ -198,7 +196,6 @@
       "rank": "Griffin",
       "fate": "Unknown",
       "role": "Pilot",
-      "nationality": "American",
       "age": 24
     },
     {
@@ -214,5 +211,7 @@
   ],
   "crash_category": "unknown",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "last_validated": "2026-04-13",
+  "crash_date_review": "Auto-corrected to 1945 but reverted \u2014 just a year, not a date"
 }

@@ -21,13 +21,12 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "Lancaster JB219 of 97 Squadron departed Bourn on the night of 16 December 1943, targeting Berlin as part of the Battle of Berlin. On the return flight, the crew encountered the dense fog and low cloud that had settled across southern England — conditions that brought down approximately seventy returning bombers that night in what became known as \"Black Thursday.\" Flying Officer Kirkwood was unable to land safely, and JB219 came down at Hayley Wood, Great Gransden, Cambridgeshire. All seven crew members were killed. The pilot, Flying Officer James Kirkwood DFC, was 28 years old.",
+  "data_quality": "Good",
+  "narrative": "Lancaster JB219 of 97 Squadron departed Bourn on the night of 16 December 1943, targeting Berlin as part of the Battle of Berlin. On the return flight, the crew encountered the dense fog and low cloud that had settled across southern England \u2014 conditions that brought down approximately seventy returning bombers that night in what became known as \"Black Thursday.\" Flying Officer Kirkwood was unable to land safely, and JB219 came down at Hayley Wood, Great Gransden, Cambridgeshire. All seven crew members were killed. The pilot, Flying Officer James Kirkwood DFC, was 28 years old.",
   "crew": [
     {
       "rank": "F/O",
       "name": "James Kirkwood",
-      "service_number": "146119 RAFVR",
       "age": 28,
       "role": "Pilot",
       "burial_location": "Kilwinning Cemetery, Scotland",
@@ -39,12 +38,12 @@
       ],
       "hometown": "Kilwinning, Scotland",
       "cwgc_verified": true,
+      "service_number": "146119 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "Edward George Hubbard",
-      "service_number": "1477239 RAFVR",
       "age": 21,
       "role": "Flight Engineer",
       "burial_location": "Croxton Churchyard, Norfolk",
@@ -52,12 +51,12 @@
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Croxton, Norfolk",
       "cwgc_verified": true,
+      "service_number": "1477239 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Robert Charles Stewart",
-      "service_number": "1361082 RAFVR",
       "age": 21,
       "role": "Navigator",
       "burial_location": "Braemar Graveyard, Scotland",
@@ -65,12 +64,12 @@
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Braemar, Scotland",
       "cwgc_verified": true,
+      "service_number": "1361082 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "George Alexander Wigley",
-      "service_number": "132874 RAFVR",
       "age": 22,
       "role": "Air Bomber",
       "burial_location": "Carshalton Churchyard, London",
@@ -78,12 +77,12 @@
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Carshalton, London",
       "cwgc_verified": true,
+      "service_number": "132874 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Ronald George Cleeve",
-      "service_number": "1315213 RAFVR",
       "age": 21,
       "role": "Wireless Operator/Air Gunner",
       "burial_location": "Wyke Regis, Dorset",
@@ -91,24 +90,24 @@
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Wyke Regis, Dorset",
       "cwgc_verified": true,
+      "service_number": "1315213 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Leonard Madeley",
-      "service_number": "1696999 RAFVR",
       "role": "Air Gunner",
       "burial_location": "Manchester Southern Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Manchester",
       "cwgc_verified": true,
+      "service_number": "1696999 RAFVR",
       "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "John Killen",
-      "service_number": "1055997 RAFVR",
       "age": 22,
       "role": "Air Gunner",
       "burial_location": "Hollinfare Cemetery, Manchester",
@@ -116,6 +115,7 @@
       "fate_detail": "Killed in the crash at Hayley Wood on Black Thursday.",
       "hometown": "Hollinfare, Manchester area",
       "cwgc_verified": true,
+      "service_number": "1055997 RAFVR",
       "nationality": "British"
     },
     {

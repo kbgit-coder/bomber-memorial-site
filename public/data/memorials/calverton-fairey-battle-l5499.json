@@ -16,41 +16,41 @@
   "operation_type": "Operational",
   "operation_target": "Calais harbour",
   "cause_of_loss": "Lost in fog and blackout conditions returning from France; German intruder kept Swinderby blacked out",
-  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle — a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. A German intruder kept RAF Swinderby blacked out, forcing homing bombers to wait until fuel was nearly exhausted. F/O Gebicki, an experienced 39-year-old pilot, attempted to land in darkness and crashed at Watchwood Plantation. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
+  "narrative": "The earliest crash in the Farnsfield area and the only one involving a Fairey Battle \u2014 a light bomber already obsolete by 1940. 300 Squadron was Poland's first bomber squadron in exile, formed from Polish airmen who had escaped occupied Poland to continue fighting from Britain. Returning from bombing Calais harbour, fog rolled across Nottinghamshire. A German intruder kept RAF Swinderby blacked out, forcing homing bombers to wait until fuel was nearly exhausted. F/O Gebicki, an experienced 39-year-old pilot, attempted to land in darkness and crashed at Watchwood Plantation. In 2019, Gebicki's son, Professor Janusz Gebicki, flew from Australia to attend a memorial service.",
   "crew": [
     {
       "rank": "F/O",
       "name": "Jan Gebicki",
       "age": 39,
       "role": "Pilot",
-      "nationality": "Polish",
       "fate": "Killed",
       "burial_location": "Wilford Hill Cemetery, Nottingham",
       "fate_detail": "Killed when aircraft crashed in fog and darkness. His son Professor Janusz Gebicki flew from Australia in 2019 for memorial service.",
       "cwgc_verified": true,
-      "bio": "Experienced 39-year-old Polish pilot who escaped occupied Poland."
+      "bio": "Experienced 39-year-old Polish pilot who escaped occupied Poland.",
+      "nationality": "Polish"
     },
     {
       "rank": "Sgt",
       "name": "Edward Morawa",
       "age": 35,
       "role": "Observer",
-      "nationality": "Polish",
       "fate": "Killed",
       "burial_location": "Wilford Hill Cemetery, Nottingham",
       "fate_detail": "Killed in the crash. Buried at Wilford Hill Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Polish"
     },
     {
       "rank": "Sgt",
       "name": "Tadeusz Egierski",
       "age": 22,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "Polish",
       "fate": "Killed",
       "burial_location": "Wilford Hill Cemetery, Nottingham",
       "fate_detail": "At 22, the youngest crew member.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "Polish"
     }
   ],
   "memorial_type": "Cross",
@@ -76,7 +76,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "maintainer": {
     "organisation": "Calverton Parish Council",
     "website": "https://www.calvertonparishcouncil.gov.uk",
@@ -123,7 +123,7 @@
     "300 (Ziemi Mazowieckiej) Squadron"
   ],
   "community_connection": "The memorial was likely created and shared by Les Smith, as indicated by the attribution.",
-  "memorial_details": "The memorial — a steel cross with the inscription 'Perished for our and your freedom' — was erected by coal miners building the railway to Calverton Colliery.",
+  "memorial_details": "The memorial \u2014 a steel cross with the inscription 'Perished for our and your freedom' \u2014 was erected by coal miners building the railway to Calverton Colliery.",
   "crash_category": "weather",
   "narrative_quality_score": 5
 }

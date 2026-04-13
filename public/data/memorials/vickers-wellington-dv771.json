@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-dv771",
   "title": "Vickers Wellington DV771",
-  "location_name": "",
-  "county": "",
+  "location_name": "Wymeswold, Charnwood",
+  "county": "Leicestershire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "DV771",
   "squadron": "",
   "crash_date": "1943-11-25",
-  "memorial_type": "",
-  "memorial_details": "description: Wymeswold RAF Eagle Mural/ Created by R Hubbard in 1986/ as a memorial to the crew of/ Wellington bomber DV771 of 28 OTU/ that crashed nearby on 25th November 1943/ after its starboard engine caught fire/ on a routine night exercise./ There was one survivor./ (Names)",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "RAF eagle sleeve badge on a wall, rendered in stone with a stucco surround. New stone plaque mounted to wall above with inscribed names.",
+  "inscription": "Wymeswold RAF Eagle Mural/ Created by R Hubbard in 1986/ as a memorial to the crew of/ Wellington bomber DV771 of 28 OTU/ that crashed nearby on 25th November 1943/ after its starboard engine caught fire/ on a routine night exercise./ There was one survivor./ (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/50745"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/50745",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.804253,
-  "longitude": -1.1103306
+  "longitude": -1.1103306,
+  "grid_ref": "SK 60074",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/126/834/large_le_wymeswold_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/126/835/large_le_wymeswold_2.jpg"
+  ],
+  "community_connection": "memorial to the crew of Wellington bomber DV771"
 }

@@ -1,27 +1,38 @@
 {
   "id": "raf-bomber-a-w-whitley-z6639-and-crew",
   "title": "RAF Bomber A W Whitley Z6639 and Crew",
-  "location_name": "",
-  "county": "",
+  "location_name": "Broadway, Wychavon",
+  "county": "Hereford And Worcester",
   "country": "United Kingdom",
   "aircraft_type": "Whitley",
   "serial_number": "Z6639",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "No 24 O.T.U",
+  "crash_date": "1943-06-02",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Rough hewn stone of remembrance with plaque set in to the top face.",
+  "inscription": "R.A.F. BOMBER CRASH/ AT THIS LOCATION ON THE 2ND JUNE 1943, 14.15 HRS/ A. W. WHITLEY Z2639, OF NO 24 O.T.U/ R.A.F HONEYBOURNE WORCS/ CRASHED WHILE ON OPERATIONAL TRAINING/ IN MEMORY OF/ (Names)/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/36469"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/36469",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.023314800048,
-  "longitude": -1.835927464348
+  "longitude": -1.835927464348,
+  "grid_ref": "SP 11354",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/147/648/large_img_5906___36469.jpg"
+  ],
+  "community_connection": "R.A.F HONEYBOURNE WORCS"
 }

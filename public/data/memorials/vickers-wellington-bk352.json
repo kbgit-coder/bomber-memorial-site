@@ -1,27 +1,38 @@
 {
   "id": "vickers-wellington-bk352",
   "title": "Vickers Wellington BK352",
-  "location_name": "",
-  "county": "",
+  "location_name": "Brackley, South Northamptonshire",
+  "county": "Northamptonshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BK352",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1944-03-17",
+  "memorial_type": "Wall",
+  "memorial_details": "A series of framed plaque attached to the railings on the bridge.",
+  "inscription": "Wellington Bomber BK352 of 17 0TU RAF Turweston / crashed near this spot on 17th March 1944 / during a training flight / (7 Names) / Lest We Forget",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108421"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108421",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.037495369606,
-  "longitude": -1.135637631585
+  "longitude": -1.135637631585,
+  "grid_ref": "SP 59374",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/174/889/large_108421b.jpg"
+  ],
+  "community_connection": "Wellington Bomber of 17 0TU RAF Turweston"
 }

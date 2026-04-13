@@ -21,7 +21,7 @@
   "last_updated": "2026-04-09",
   "data_quality": "Partial",
   "narrative": "",
-  "cause_of_loss": "Not confirmed — crash-landed in barley field",
+  "cause_of_loss": "Not confirmed \u2014 crash-landed in barley field",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on Bremen",
   "latitude": 53.1190161159707,
@@ -85,160 +85,54 @@
       "rank": "F/Sgt",
       "age": 25,
       "role": "Crew",
-      "nationality": "Australian",
       "fate": "Killed",
-      "burial_location": "Heanton Punchardon, North Devon"
+      "burial_location": "Heanton Punchardon, North Devon",
+      "nationality": "Australian"
     },
     {
       "name": "Johnnie Donnachie",
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Wishaw, Scotland"
+      "burial_location": "Wishaw, Scotland",
+      "nationality": "British"
     },
     {
       "name": "Hiram Farrer",
       "rank": "P/O",
       "age": 26,
       "role": "Crew",
-      "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Heanton Punchardon, North Devon"
+      "burial_location": "Heanton Punchardon, North Devon",
+      "nationality": "Canadian"
     },
     {
       "name": "Raymond Dolling",
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Llanelli, Wales"
+      "burial_location": "Llanelli, Wales",
+      "nationality": "British"
     },
     {
       "name": "James Hallam",
       "rank": "Sgt",
       "age": 18,
       "role": "Crew",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Unknown"
+      "burial_location": "Unknown",
+      "nationality": "British"
     },
     {
       "name": "Henry 'Arthur' Newnham",
       "rank": "Sgt",
       "age": 21,
       "role": "Crew",
-      "nationality": "Australian",
       "fate": "Killed",
-      "burial_location": "Unknown"
-    },
-    {
-      "name": "yford in Oxfordshire John Owen Sowerbutts",
-      "rank": "Pilot Officer",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "ight from Squires Gate Norman Jack Sharpe",
-      "rank": "Pilot Officer",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "om Clifton near York Sohlto Paton Marlatt",
-      "rank": "Flying Officer",
-      "fate": "Killed",
-      "role": "RCAF Pilot"
-    },
-    {
-      "name": "y on Eden near Carlisle Herman Joe Carver",
-      "rank": "Flying Officer",
-      "fate": "Killed",
-      "role": "RCAF Pilot"
-    },
-    {
-      "name": "Thomas Stanley Taylor",
-      "rank": "Flight Sergeant",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "y flight from Turweston Edward Cyril Cole",
-      "rank": "Warrant Officer",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "James Mann",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "Navigator"
-    },
-    {
-      "name": "Arthur John Griffiths",
-      "rank": "Flight Sergeant",
-      "fate": "Killed",
-      "role": "Bomb Aimer"
-    },
-    {
-      "name": "light from RAF Leeming Walter Fred Conley",
-      "rank": "Pilot Officer",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "Arnold Emerson Stinson",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "Flight Engineer"
-    },
-    {
-      "name": "ght from RAF Leeming Thomas Abel Roskilly",
-      "rank": "Flight Lieutenant",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "Sidney Arthur Whiting",
-      "rank": "Flight Sergeant",
-      "fate": "Killed",
-      "role": "Navigator"
-    },
-    {
-      "name": "and running out of fuel John David Briggs",
-      "rank": "Pilot Officer",
-      "fate": "Killed",
-      "role": "Pilot"
-    },
-    {
-      "name": "Raymond Edgar DOLLING (1337861)",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "WOp/AG RAFVR",
-      "nationality": "British"
-    },
-    {
-      "name": "John DONNACHIE (1554638)",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "Nav. RAFVR",
-      "nationality": "British"
-    },
-    {
-      "name": "Norman Neville DUNN (Aus.415315)",
-      "rank": "Flying Sergeant",
-      "fate": "Killed",
-      "role": "pilot RAAF",
+      "burial_location": "Unknown",
       "nationality": "Australian"
-    },
-    {
-      "name": "James William HALLAM (1819415)",
-      "rank": "Sergeant",
-      "fate": "Killed",
-      "role": "WOp/AG RAFVR",
-      "nationality": "British"
     }
   ],
   "local_contacts": [
@@ -295,5 +189,76 @@
   },
   "community_connection": "",
   "crash_category": "training",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "station_roll_names": [
+    {
+      "name": "yford in Oxfordshire John Owen Sowerbutts",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "ight from Squires Gate Norman Jack Sharpe",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "om Clifton near York Sohlto Paton Marlatt",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "y on Eden near Carlisle Herman Joe Carver",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "Thomas Stanley Taylor",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "y flight from Turweston Edward Cyril Cole",
+      "rank": "Warrant Officer"
+    },
+    {
+      "name": "James Mann",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "Arthur John Griffiths",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "light from RAF Leeming Walter Fred Conley",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "Arnold Emerson Stinson",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "ght from RAF Leeming Thomas Abel Roskilly",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Sidney Arthur Whiting",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "and running out of fuel John David Briggs",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "Raymond Edgar DOLLING (1337861)",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "John DONNACHIE (1554638)",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "Norman Neville DUNN (Aus.415315)",
+      "rank": "Flying Sergeant"
+    },
+    {
+      "name": "James William HALLAM (1819415)",
+      "rank": "Sergeant"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 23 to 6. 17 additional names from station/OTU roll of honour moved to station_roll_names."
 }

@@ -1,27 +1,40 @@
 {
   "id": "aircrew-of-lancaster-pb512",
   "title": "Aircrew of Lancaster  PB512",
-  "location_name": "",
-  "county": "",
+  "location_name": "Greensted Juxta Ongar, Epping Forest",
+  "county": "Essex",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB512",
   "squadron": "582 Squadron",
   "crash_date": "1944-09-23",
-  "memorial_type": "",
-  "memorial_details": "description: (RAF Badge)/ TO THE GLORY OF GOD AND IN EVERLASTING MEMORY/ OF THE GALLANT LANCASTER BOMBER AIRCREW OF/ 582 PATHFINDER SQUADRON WHO DIED IN A CRASH NEAR THIS/ CHURCH ON 23 SEPTEMBER 1944/ (Names)/ (582 Pathfinders badge)/ 582 PATHFINDERS SQUADRON/ No. 582 Squadron was formed on 1 April 1944 at Little Staughton from detachments of Nos. 7 and 156/ Squadrons. As part of No. 8 (Pathfinder) Group, it became operational on 9th April \r\nand continued bombing/ and target marking missions for the rest of the war. On 18th September 1945, the squadron was disbanded.",
-  "inscription": "",
+  "memorial_type": "Roll of honour or book of remembrance",
+  "memorial_details": "A plain rectangular roll of honour with RAF badge top centre and 582 Squadron badge lower left. Dedication is in plain, black upper and lower-case script. RoH is mounted on a deep-blue background in a a glazed, gilded wood frame.",
+  "inscription": "(RAF Badge)/ TO THE GLORY OF GOD AND IN EVERLASTING MEMORY/ OF THE GALLANT LANCASTER BOMBER AIRCREW OF/ 582 PATHFINDER SQUADRON WHO DIED IN A CRASH NEAR THIS/ CHURCH ON 23 SEPTEMBER 1944/ (Names)/ (582 Pathfinders badge)/ 582 PATHFINDERS SQUADRON/ No. 582 Squadron was formed on 1 April 1944 at Little Staughton from detachments of Nos. 7 and 156/ Squadrons. As part of No. 8 (Pathfinder) Group, it became operational on 9th April and continued bombing/ and target marking missions for the rest of the war. On 18th September 1945, the squadron was disbanded.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/56210"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/56210",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.704419637537,
-  "longitude": 0.22551041853
+  "longitude": 0.22551041853,
+  "grid_ref": "TL 53878",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/124/5/large_ex_greensted_juxta_ongar_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/124/7/large_ex_greensted_juxta_ongar_2_1.jpg"
+  ],
+  "community_connection": "Aged, relationship to community if mentioned. Not specified.",
+  "last_validated": "2026-04-12"
 }

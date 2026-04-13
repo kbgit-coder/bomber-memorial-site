@@ -1,27 +1,38 @@
 {
   "id": "crew-of-whitley-mk-5-no-1489",
   "title": "Crew of Whitley Mk 5 No 1489",
-  "location_name": "",
-  "county": "",
+  "location_name": "Silsden, Bradford",
+  "county": "West Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Whitley",
   "serial_number": "",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "102 Squadron",
+  "crash_date": "1940-08-29",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "VARNISHED MAHOGANY Wooden Board. Memorial to the crew that crashed on Silsden Moor",
+  "inscription": "IN LOVING MEMORY OF THE CREW OF AIRCRAFT/ NO 1489 WHITLEY MK 5 102 SQUADRON/ CRASHED ON SILSDEN MOOR MIDNIGHT 28/29TH AUGUST 1940/ (names)/ \"WE WILL REMEMBER THEM\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/28716"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/28716",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.913907595649,
-  "longitude": -1.937987848538
+  "longitude": -1.937987848538,
+  "grid_ref": "SE 04170",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 4,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/89/589/large_28716.jpg"
+  ],
+  "community_connection": "Silsden Moor"
 }

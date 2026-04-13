@@ -1,27 +1,39 @@
 {
   "id": "avro-lancaster-jb286",
   "title": "Avro Lancaster JB286",
-  "location_name": "",
-  "county": "",
+  "location_name": "Horsham St Faith, Broadland",
+  "county": "Suffolk",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "JB286",
   "squadron": "",
   "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "memorial_type": "Roll of honour or book of remembrance",
+  "memorial_details": "A display of the fate of the aircraft with photographs, biographies, a dedication from a crew member's family and a Roll of Honour commemorating the crew members.",
+  "inscription": "ROLL OF HONOUR / IN PROUD AND LOVING MEMORY / OF OUR DARLING SON, AND BROTHER (BILL) 426422. F/O. W.A. McNAMEE, AGED 21 / (...) / ALSO A LOVING / MEMORY OF HIS GALLANT CREW WHO ALL PERISHED WITH HIM.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108643"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108643",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.680256964229,
-  "longitude": 1.275749118758
+  "longitude": 1.275749118758,
+  "grid_ref": "TG 21514",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "Norwich Aviation Museum",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/176/616/large_norwich_aviation_museum__lancaster_jb_286_full_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/176/615/large_norwich_aviation_museum__lancaster_jb_286_commemoration_2_r.jpg"
+  ]
 }

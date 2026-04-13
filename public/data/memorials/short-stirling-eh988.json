@@ -1,27 +1,41 @@
 {
   "id": "short-stirling-eh988",
   "title": "Short Stirling EH988",
-  "location_name": "",
-  "county": "",
+  "location_name": "Annesley, Ashfield",
+  "county": "Nottinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "EH988",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1945-01-14",
+  "memorial_type": "Garden",
+  "memorial_details": "SIMPLE GARDEN OF REMEMBRANCE CONTAINING STONE OF REMEMBRANCE, BENCH AND INTERPRETIVE PANEL WITH A PICTURE OF A STIRLING BOMBER. THE ROUGHLY-RECTANGULAR, ROUGH HEWN STONE HAS A POLISHED FRONT FACE WITH INCISED BLACK LETTERING AND A RAF CREST TOP LEFT CORNER.",
+  "inscription": "IN MEMORY OF/ THE CREW OF/ STIRLING BOMBER EH988/ WHICH CRASHED NEAR THIS SITE/ ON 14TH JANUARY 1945/ (Names)/ IN FRIENDSHIP AND IN SERVICE/ WE WILL REMEMBER THEM/ (maker)1998",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/26850"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/26850",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.070451595641,
-  "longitude": -1.244471039521
+  "longitude": -1.244471039521,
+  "grid_ref": "SK 50727",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/150/954/large_nz_annesley_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/150/953/large_nz_annesley_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/150/952/large_nz_annesley_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/122/404/large_26850_the_reverend_kevin_charles_24_september_2021.jpg"
+  ],
+  "community_connection": "In MEMORY OF/ IN FRIENDSHIP AND IN SERVICE"
 }

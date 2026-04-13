@@ -1,27 +1,41 @@
 {
   "id": "short-stirling-ef127",
   "title": "Short Stirling EF127",
-  "location_name": "",
-  "county": "",
+  "location_name": "Kings Clipstone, Newark And Sherwood",
+  "county": "Nottinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "EF127",
   "squadron": "",
   "crash_date": "1944-02-26",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Model",
+  "memorial_details": "A model of a Stirling bomber on a brick wall, near the site of a crashed aircraft with a plaque remembering the crew, two of whom survived.",
   "inscription": "LEST WE FORGET / THIS MONUMENT IS TO REMEMBER THE CREW OF THE STIRLING BOMBER / WHICH CRASHED ON SATURDAY 26TH FEBRUARY 1944 / (NAMES) / THEY FOUGHT FOR OUR FREEDOM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108502"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108502",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.187544135668,
-  "longitude": -1.107190664209
+  "longitude": -1.107190664209,
+  "grid_ref": "SK59926",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/385/large_kings_clipstone_notts__stirling_ed127__2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/387/large_kings_clipstone_notts__stirling_ed127__1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/388/large_kings_clipstone_notts__stirling_ed127__4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/389/large_kings_clipstone_notts__stirling_ed127__5.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/386/large_kings_clipstone_notts__stirling_ed127__3.jpg"
+  ]
 }

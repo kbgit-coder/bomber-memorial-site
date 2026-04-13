@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-z8860",
   "title": "Vickers Wellington Z8860",
-  "location_name": "",
-  "county": "",
+  "location_name": "Rampton, Cambridge",
+  "county": "Cambridgeshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "Z8860",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
+  "squadron": "101 Squadron",
+  "crash_date": "1941-08-21",
+  "memorial_type": "Stone of remembrance",
   "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "inscription": "CREW OFVICKERS WELLINGTON/ IC 28860 OF 101 SQUADRON,/ CRASHED AT RAMPTON/ ON OPERATION TO HAMBURG/ 30 - 21 AUGUST 1941/ (Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97906"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97906",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.291908056369,
-  "longitude": 0.092687392472
+  "longitude": 0.092687392472,
+  "grid_ref": "TL 42820",
+  "photos": [],
+  "names_on_memorial": 5,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/170/910/large_97906_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/610/large_ca_rampton_2_0.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/120/611/large_ca_rampton_1.jpg"
+  ]
 }

@@ -1,27 +1,40 @@
 {
   "id": "avro-lancaster-w4319",
   "title": "Avro Lancaster W4319",
-  "location_name": "",
-  "county": "",
+  "location_name": "Dormanstown, Redcar, Langbaurgh",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "W4319",
   "squadron": "101 Squadron",
   "crash_date": "1942-12-17",
-  "memorial_type": "",
-  "memorial_details": "description: Crest: BOMBER COMMAND / ROYAL AIR FORCE / STRIKE HARD STRIKE SURE //  \r\nInscription: On the night of 17 December 1942, a Lancaster bomber (coded SR-N; serial no. / W4319) of 101 Squadron, Holme-on-Spalding Moor crashed 200 yards west / of this point. / The aircraft, which was returning from an operation off the North German / coast, was off course and was unable to identify itself because its identification / apparatus (IFF) was not working. The Lancaster crossed the coast just north of / Redcar during an attack on the Tees area. In the absence of IFF, a Bofors anti- / aircraft gun crew based at Warrenby Works assumed that the Lancaster was a / raider and shot it down. / There were no survivors amongst the crew of seven. / (7 Names) / LEST WE FORGET // \r\nThree service crests, left to right: { ROYAL NEW ZEALAND AIR FORCE / PER ARDUA AD ASTRA } { PER ARDUA AD ASTRA } { PER ARDUA AD ASTRA / ROYAL CANADIAN AIR FORCE }",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular, silver-coloured, metal plaque. Bomber Command crest engraved top centre above the dedication. Three crests are engraved below dedication for RNZAF, RAF and RCAF. Dedication is engraved in plain upper and lower-case script.",
+  "inscription": "Crest: BOMBER COMMAND / ROYAL AIR FORCE / STRIKE HARD STRIKE SURE // Inscription: On the night of 17 December 1942, a Lancaster bomber (coded SR-N; serial no. / W4319) of 101 Squadron, Holme-on-Spalding Moor crashed 200 yards west / of this point. / The aircraft, which was returning from an operation off the North German / coast, was off course and was unable to identify itself because its identification / apparatus (IFF) was not working. The Lancaster crossed the coast just north of / Redcar during an attack on the Tees area. In the absence of IFF, a Bofors anti- / aircraft gun crew based at Warrenby Works assumed that the Lancaster was a / raider and shot it down. / There were no survivors amongst the crew of seven. / (7 Names) / LEST WE FORGET // Three service crests, left to right: { ROYAL NEW ZEALAND AIR FORCE / PER ARDUA AD ASTRA } { PER ARDUA AD ASTRA } { PER ARDUA AD ASTRA / ROYAL CANADIAN AIR FORCE }",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/98361"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/98361",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.604081453508,
-  "longitude": -1.113958954811
+  "longitude": -1.113958954811,
+  "grid_ref": "NZ 57331",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/123/57/large_cv_dormanstown_1_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/123/55/large_cv_dormanstown_2.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-12"
 }

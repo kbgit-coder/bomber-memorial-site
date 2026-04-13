@@ -24,7 +24,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 53.8608647,
   "longitude": -0.3969859,
   "maintainer": {
@@ -180,9 +180,9 @@
       "fate": "Killed",
       "role": "unknown (BB373)",
       "age": 21,
-      "nationality": "New Zealander",
       "burial_location": "Harrogate Stonefall Cemetery, Yorkshire",
-      "service_number": "NZ42361"
+      "service_number": "NZ42361",
+      "nationality": "New Zealander"
     },
     {
       "name": "William Leslie Clarke",
@@ -204,9 +204,9 @@
       "fate": "Killed",
       "role": "Second Pilot",
       "age": 21,
-      "nationality": "British",
       "burial_location": "Warriston Cemetery, Edinburgh",
-      "service_number": "156089"
+      "service_number": "156089",
+      "nationality": "British"
     },
     {
       "name": "J. Greet",
@@ -268,8 +268,8 @@
       "fate": "Killed",
       "role": "Navigator (JB874)",
       "age": 29,
-      "nationality": "British",
-      "burial_location": "BURY CEMETERY, REDVALES"
+      "burial_location": "BURY CEMETERY, REDVALES",
+      "nationality": "British"
     },
     {
       "name": "Albert Eric Lester",
@@ -284,9 +284,9 @@
       "fate": "Killed",
       "role": "unknown (BB373)",
       "age": 24,
-      "nationality": "Australian",
       "burial_location": "Harrogate Stonefall Cemetery, Yorkshire",
-      "service_number": "412043"
+      "service_number": "412043",
+      "nationality": "Australian"
     },
     {
       "name": "(survivor from JB874)",

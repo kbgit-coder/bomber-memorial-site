@@ -32,70 +32,70 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On the night of September 10-11, 1942, a Vickers Wellington Mk. IC, registration DV930, belonging to the 11 Operational Training Unit at Steeple Morden, took off from its base at 21:05 hours. Tragically, it crashed in flames into the yard of Herne Hill Farm, Chediston, at 23:45 hours, following a raid on D\u00fcsseldorf, Germany. The aircraft carried a crew of five, all of whom perished in this tragic event. This memorial stands as a tribute to their bravery and sacrifice.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Thomas Fraser Munro",
-      "service_number": "NZ/415005",
       "role": "Pilot",
-      "nationality": "New Zealander",
       "burial_location": "Not confirmed",
       "fate": "Killed",
       "fate_detail": "Killed when Wellington DV930 crashed at Herne Hill Farm, Chediston, returning from a raid on Dusseldorf.",
       "cwgc_verified": true,
       "bio": "Sgt Munro was a 31-year-old New Zealander serving with the RNZAF. He is commemorated on the Ipswich War Memorial.",
       "hometown": "New Zealand",
-      "age": 31
+      "age": 31,
+      "service_number": "NZ/415005",
+      "nationality": "New Zealander"
     },
     {
       "rank": "Sgt",
       "name": "Jack Foden Stanley",
-      "service_number": "NZ/41553",
       "role": "Observer",
-      "nationality": "New Zealander",
       "burial_location": "Ipswich Old Cemetery, Section C, Division 31, Grave 34",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Chediston. Buried at Ipswich Old Cemetery.",
       "cwgc_verified": true,
-      "age": 20
+      "age": 20,
+      "service_number": "NZ/41553",
+      "nationality": "New Zealander"
     },
     {
       "rank": "Sgt",
       "name": "Andrew Scott Renwick",
-      "service_number": "1552246",
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Camelon Cemetery, Section 12, Grave 421",
       "fate": "Died of injuries",
       "fate_detail": "Survived the initial crash but died of injuries hours later despite aid from local villagers. Buried at Camelon Cemetery.",
       "cwgc_verified": true,
-      "age": 20
+      "age": 20,
+      "service_number": "1552246",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Kenneth Hamilton Vigers",
-      "service_number": "1151773",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "burial_location": "Little Stukeley Churchyard (St. Martin)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Chediston. Buried at Little Stukeley Churchyard.",
       "cwgc_verified": true,
-      "age": 24
+      "age": 24,
+      "service_number": "1151773",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Robert Walter Freeman",
-      "service_number": "1334858",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "burial_location": "Englefield Green Cemetery, Plot 10, Grave 1164",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Chediston. Buried at Englefield Green Cemetery.",
       "cwgc_verified": true,
-      "age": 20
+      "age": 20,
+      "service_number": "1334858",
+      "nationality": "British"
     }
   ],
   "latitude": 52.3407,

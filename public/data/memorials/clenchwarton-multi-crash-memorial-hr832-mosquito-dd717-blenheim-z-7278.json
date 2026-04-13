@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "narrative": "Positioned beneath the approach paths to RAF Marham and other Norfolk stations, the parish of Clenchwarton witnessed six separate aircraft crashes during the war, killing nineteen aircrew. Short Stirling W7473 of 218 Squadron came down at Ingrams Field on 23 April 1942. On 16 June 1943, Halifax HR832 of 405 (Vancouver) Squadron RCAF was struck by lightning during a severe storm and crashed at Clifton Farm; Flight Lieutenant Lawson and all five of his crew were killed, among them flight engineer Sergeant Malcolm Keith Holliday, aged twenty, and air gunner Flight Sergeant Clinton Landis Pudney GM, aged twenty-one. A parish memorial dedicated in 2000 honours all nineteen men lost in these crashes.",
   "latitude": 52.7572,
   "longitude": 0.3549,
@@ -163,49 +163,48 @@
       "name": "Sergeant Shirley Vincent Davidge RAFVR 1186826",
       "rank": null,
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Pilot"
+      "role": "Pilot",
+      "nationality": "British"
     },
     {
       "name": "Sergeant Willem Joseph Gerard Paul Rieter RAFVR 1271309",
       "rank": "2nd Pilot",
-      "fate": "Killed",
-      "nationality": "Dutch"
+      "fate": "Killed"
     },
     {
       "name": "Sergeant Abson Squires RAF 545944",
       "rank": null,
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Flight Engineer"
+      "role": "Flight Engineer",
+      "nationality": "British"
     },
     {
       "name": "Sergeant John Hartley RAFVR 989820",
       "rank": null,
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Observer"
+      "role": "Observer",
+      "nationality": "British"
     },
     {
       "name": "Sergeant Jamie Kitchener Wendle Paul RAFVR 1380822",
       "rank": "Unknown",
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Wireless Operator / Air Gunner"
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
     },
     {
       "name": "Sergeant Archibald John Thorburn RAFVR 960871",
       "rank": "Unknown",
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Wireless Operator / Air Gunner"
+      "role": "Wireless Operator / Air Gunner",
+      "nationality": "British"
     },
     {
       "name": "Sergeant William James Cook RAF 540952",
       "rank": null,
       "fate": "Killed",
-      "nationality": "British",
-      "role": "Rear Gunner"
+      "role": "Rear Gunner",
+      "nationality": "British"
     }
   ],
   "crash_category": "takeoff-landing",

@@ -1,27 +1,39 @@
 {
   "id": "royal-canadian-air-force-crew-vickers-wellington-bk387",
   "title": "Royal Canadian Air Force Crew - Vickers Wellington BK387",
-  "location_name": "",
-  "county": "",
+  "location_name": "Oakworth, Bradford",
+  "county": "West Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BK387",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1944-01-02",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Stone of Remembrance with rampant arched upper edge. Badge of Royal Canadian Air Force top centre. Incised inscription infilled with black paint. (See also wmr 28929)",
+  "inscription": "Badge: PER ARDUA AD ASTRA / ROYAL CANADIAN AIR FORCE / Inscription: ROYAL CANADIAN AIR FORCE / IN MEMORY OF / (6 NAMES) / WHO LOST THEIR LIVES ON THIS SITE / JANUARY 2ND 1944.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/28638"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/28638",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.843589703343,
-  "longitude": -1.981278061867
+  "longitude": -1.981278061867,
+  "grid_ref": "SE 01328",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "custodian": "Oakworth Village Society",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/88/277/large_28638.jpg"
+  ],
+  "community_connection": "memorial for those who lost their lives on this site"
 }

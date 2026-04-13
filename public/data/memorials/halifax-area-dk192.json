@@ -20,16 +20,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On the morning of 7 February 1944, Flight Lieutenant Hodson -- an experienced and decorated instructor pilot -- took his trainee crew up from Rufforth for a daytime training flight. The weather was appalling: total cloud covered the Yorkshire Wolds down to ground level. At 10:15 hours, flying blind, the Halifax struck the summit of Garrowby Hill at around 800 feet, one of the highest points on the A166 road between York and the coast. The aircraft crossed the road and exploded. At that precise moment, Arthur Kirkby was driving his milk collection lorry along the road on his rounds to the surrounding farms. The Halifax struck the lorry, killing Kirkby instantly alongside all seven airmen. Hodson, who held the Distinguished Flying Cross from operational service, was 30 years old -- the two youngest crew members, gunners McDonald and Booker, were both 19. One crew member initially survived the impact but died later in York Hospital. The regular bomb aimer, Alun Emlyn-Jones, had been taken off the flight that morning due to an erupting appendix -- a twist of fate that saved his life and drove him, decades later, to campaign for a permanent memorial.",
   "crew": [
     {
       "rank": "F/Lt",
       "name": "Alfred John Shirley Hodson DFC",
-      "service_number": "130663 RAFVR",
       "age": 30,
       "role": "Pilot (Instructor)",
-      "nationality": "British",
       "burial_location": "Harrogate Cemetery, C/K/19",
       "fate": "Killed",
       "fate_detail": "Killed when Halifax DK192 struck the summit of Garrowby Hill in total cloud cover. Hodson was an experienced instructor pilot who held the Distinguished Flying Cross from operational service.",
@@ -37,67 +35,69 @@
         "DFC"
       ],
       "bio": "An experienced and decorated instructor pilot, Hodson held the DFC from operational service. At 30, he was the eldest of the crew.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "130663 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "Stanley Bright",
-      "service_number": "1042582 RAFVR",
       "age": 22,
       "role": "2nd Pilot (Trainee)",
-      "nationality": "British",
       "burial_location": "Newcastle upon Tyne Cemetery, E/108",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1042582 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John Frederick Nelson",
-      "service_number": "1796160 RAFVR",
       "age": 21,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Belfast City Cemetery, L.1/304",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1796160 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "John Kingsley Meyler",
-      "service_number": "151321 RAFVR",
       "age": 25,
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Jarrow Cemetery, 3/258",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "151321 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Kenneth Smith",
-      "service_number": "1577088 RAFVR",
       "age": 22,
       "role": "Wireless Op/Air Gunner",
-      "nationality": "British",
       "burial_location": "Hednesford Church, E/12/3",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1577088 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Peter Gordon McDonald",
-      "service_number": "1822095 RAFVR",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Glasgow Western Cemetery, D/1040",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1822095 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Sidney James Booker",
-      "service_number": "1866190 RAFVR",
       "age": 19,
       "role": "Air Gunner (Trainee)",
-      "nationality": "British",
       "burial_location": "City of London Cemetery, 328/111442",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1866190 RAFVR",
+      "nationality": "British"
     },
     {
       "name": "(Inst) Fl/Lt. Alfred John Shirley Hodson",

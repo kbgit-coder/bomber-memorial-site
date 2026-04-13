@@ -1,27 +1,39 @@
 {
   "id": "vickers-wellington-n2848",
   "title": "Vickers Wellington N2848",
-  "location_name": "",
-  "county": "",
+  "location_name": "Buckden, Richmondshire",
+  "county": "North Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "N2848",
   "squadron": "",
   "crash_date": "1942-01-31",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Cross",
+  "memorial_details": "Small cairn set into a concrete base surmounted by a plain latin cross. Cast head of a fox set into the base and pieces of Duralumin from Wellington Geodetic construction.",
   "inscription": "THANKSGIVING TO GOD/ THE PARKER FAMILY AND LOCAL PEOPLE/ AND IN MEMORY OF/ FIVE POLISH AIRMEN WHO DIED/ HERE ON 31 JANUARY 1942 - BURIED AT NEWARK/ - THE SURVIVOR",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/30083"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/30083",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.196918369284,
-  "longitude": -2.059436603494
+  "longitude": -2.059436603494,
+  "grid_ref": "SD 96219",
+  "photos": [],
+  "custodian": "264 Skipton Squadron Air Training Corps",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/42/770/large_wellington_n2848_inscription.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/42/771/large_wellington_n2848_duralumin_fragments.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/42/769/large_wellington_n2848.jpg"
+  ],
+  "community_connection": "The PARKER FAMILY AND LOCAL PEOPLE"
 }

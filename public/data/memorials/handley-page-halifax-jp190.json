@@ -1,27 +1,41 @@
 {
   "id": "handley-page-halifax-jp190",
   "title": "Handley Page Halifax JP190",
-  "location_name": "",
-  "county": "",
+  "location_name": "Craik, Roxburgh",
+  "county": "Borders",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "JP190",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1944-04-01",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Rectangular red metal plaque attached to a cairn. An image of the Halifax is shown in blue, both side view and head-on. The lettering is in white. This memorial is not at the crash site",
+  "inscription": "In Memory/ of the crew of/ Halifax Mk II JP 190/ which crashed near here/ on the night of 1st April 1944/ with the loss of all 8 crew/ (Names) Erected 1st April 1994 by Nos. 2465 (Currie & Balarno) Squ./ 1007 (Duns) Squ. Air Training Corps, and the Forestry Commission.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/58049"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/58049",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 55.362410741002,
-  "longitude": -3.028661552151
+  "longitude": -3.028661552151,
+  "grid_ref": "NT 34889",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/57/85/mid_p1090120.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/57/85/p1090120.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/57/86/p1090121.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/57/86/mid_p1090121.jpg"
+  ],
+  "community_connection": "Erected 1st April 1994 by Nos. 2465 (Currie & Balarno) Squ./ 1007 (Duns) Squ. Air Training Corps, and the Forestry Commission."
 }

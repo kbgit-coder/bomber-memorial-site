@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 51.8484,
   "longitude": 1.2726,
   "maintainer": {
@@ -149,5 +149,6 @@
   },
   "community_connection": "",
   "crash_category": "operational-return",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "last_validated": "2026-04-13"
 }

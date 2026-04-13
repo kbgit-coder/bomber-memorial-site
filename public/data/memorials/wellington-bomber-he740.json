@@ -1,27 +1,37 @@
 {
   "id": "wellington-bomber-he740",
   "title": "Wellington Bomber - HE740",
-  "location_name": "",
-  "county": "",
+  "location_name": "North Marston, Aylesbury Vale",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "HE740",
-  "squadron": "",
+  "squadron": "UNIT 11 O.T.U. AT WESTCOTT",
   "crash_date": "1945-01-04",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted tablet with incised insignia badges comprising R.A.F. at top left & Royal New Zealand Air Force at top right. Incised inscription & names infilled in black.",
   "inscription": "IN MEMORY OF / THE AIRMEN FROM / UNIT 11 O.T.U. AT WESTCOTT / WHO LOST THEIR LIVES WHEN / WELLINGTON HE740 CRASHED IN NORTH MARSTON /  ON 4TH JANUARY 1945 / (6 NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/51935"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/51935",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.897441594332,
-  "longitude": -0.872167749919
+  "longitude": -0.872167749919,
+  "grid_ref": "SP 77700",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/22/693/large_img_20170501_1426501449_n_marston_4_2.jpg"
+  ]
 }

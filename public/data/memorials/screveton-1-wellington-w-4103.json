@@ -29,16 +29,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
-  "narrative": "Flying a training sortie from RAF Syerston, Lancaster I W4103 of 5 Lancaster Finishing School collided mid-air with a second training aircraft at 1,000 feet over the Nottinghamshire village of Screveton on 14 April 1944. The Lancaster, piloted by Flying Officer Henry Holmes Richardson — a 28-year-old Canadian instructor holding the DFM — was destroyed along with its crew of nine. A second aircraft, an Oxford whose crew included Flight Lieutenant James Addison Hawkins, was also lost in the collision. All eleven men aboard both aircraft were killed. The Lancaster crew included Flight Engineer Henry Ernest Herbert and Pilot Under Training Sidney Stokoe, both aged 19, alongside crew members from Britain, Canada, and Australia ranging up to 28 years of age.",
+  "data_quality": "Partial",
+  "narrative": "Flying a training sortie from RAF Syerston, Lancaster I W4103 of 5 Lancaster Finishing School collided mid-air with a second training aircraft at 1,000 feet over the Nottinghamshire village of Screveton on 14 April 1944. The Lancaster, piloted by Flying Officer Henry Holmes Richardson \u2014 a 28-year-old Canadian instructor holding the DFM \u2014 was destroyed along with its crew of nine. A second aircraft, an Oxford whose crew included Flight Lieutenant James Addison Hawkins, was also lost in the collision. All eleven men aboard both aircraft were killed. The Lancaster crew included Flight Engineer Henry Ernest Herbert and Pilot Under Training Sidney Stokoe, both aged 19, alongside crew members from Britain, Canada, and Australia ranging up to 28 years of age.",
   "crew": [
     {
       "rank": "F/O",
       "name": "Henry Holmes Richardson",
-      "service_number": "J/17320",
       "age": 28,
       "role": "Pilot Instructor",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet over Screveton. As pilot instructor, he was the most experienced crew member.",
       "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 210",
@@ -46,141 +44,143 @@
       "bio": "Canadian pilot instructor serving with the RCAF, aged 28. Held the Distinguished Flying Medal, indicating previous operational experience before being posted to instruct at 5 LFS.",
       "decorations": [
         "DFM"
-      ]
+      ],
+      "service_number": "J/17320",
+      "nationality": "Canadian"
     },
     {
       "rank": "P/O",
       "name": "Patrick William Laidler",
-      "service_number": "AUS/415800",
       "age": 28,
       "role": "Pupil Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision.",
       "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 209",
       "cwgc_verified": true,
       "bio": "Australian airman serving with the RAAF, aged 28. Was training on Lancasters at the finishing school before being posted to an operational squadron.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "AUS/415800",
+      "nationality": "Australian"
     },
     {
       "rank": "Sgt",
       "name": "Henry Ernest Herbert",
-      "service_number": "1822275",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest crew members at 19.",
       "burial_location": "Oxford (Botley) Cemetery, Plot I/2, Grave 211",
       "cwgc_verified": true,
       "bio": "Young flight engineer serving with the RAFVR, just 19 years old. Buried alongside Richardson and Laidler at Oxford.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1822275",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Peter William Raymond Holes",
-      "service_number": "140864",
       "age": 22,
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision at 1,000 feet.",
       "cwgc_verified": true,
       "bio": "Navigator serving with the RAFVR, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "140864",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "David Winchester McRuer",
-      "service_number": "151768",
       "age": 22,
       "role": "Air Bomber",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision.",
       "cwgc_verified": true,
       "bio": "Air bomber serving with the RAFVR, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "151768",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Glyn Robert Aspinall",
-      "service_number": "1800248",
       "age": 20,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision.",
       "cwgc_verified": true,
       "bio": "Wireless operator/air gunner serving with the RAFVR, known as 'Bob', aged 20.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1800248",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Frederick William Edwards",
-      "service_number": "1869475",
       "age": 22,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision.",
       "cwgc_verified": true,
       "bio": "Air gunner serving with the RAFVR, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1869475",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Victor Charles William Arras Gouldstone",
-      "service_number": "1892933",
       "age": 27,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision.",
       "cwgc_verified": true,
       "bio": "Air gunner serving with the RAFVR, aged 27.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1892933",
+      "nationality": "British"
     },
     {
       "rank": "AC2",
       "name": "Sidney Stokoe",
-      "service_number": "1677803",
       "age": 19,
       "role": "Pilot Under Training",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision. One of the two youngest at 19, he had barely begun his pilot training.",
       "cwgc_verified": true,
       "bio": "Trainee pilot serving with the RAFVR, just 19 years old. As an Aircraftman 2nd Class, he was the most junior crew member.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1677803",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Lt",
       "name": "James Addison Hawkins",
-      "service_number": "120119",
       "age": 22,
       "role": "Pilot Instructor (Oxford LB415)",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Thrown from the Oxford aircraft by the collision and parachuted to the ground. Rushed to RAF Quarrington Hospital in Sleaford but died from his injuries later the same day.",
       "burial_location": "Burton-on-the-Wolds, Row F, Grave 10",
       "cwgc_verified": true,
       "bio": "Pilot instructor from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 22. Was flying the Airspeed Oxford that collided with the Lancaster.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "120119",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Bryan Hedley Dennis",
-      "service_number": "160921",
       "age": 21,
       "role": "Pilot Under Training (Oxford LB415)",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly in the mid-air collision aboard Airspeed Oxford LB415.",
       "burial_location": "St Albans Cemetery, Sec. L, Row A, Grave 33",
       "cwgc_verified": true,
       "bio": "Trainee pilot from 1521 BAT Flight at RAF Wymeswold, serving with the RAFVR, aged 21.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "160921",
+      "nationality": "British"
     }
   ],
   "latitude": 52.9878,

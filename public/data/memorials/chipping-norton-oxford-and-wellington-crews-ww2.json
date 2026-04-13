@@ -1,27 +1,39 @@
 {
   "id": "chipping-norton-oxford-and-wellington-crews-ww2",
   "title": "Chipping Norton - Oxford and Wellington Crews - WW2",
-  "location_name": "",
-  "county": "",
+  "location_name": "Chipping Norton, West Oxfordshire",
+  "county": "Oxfordshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1942-08-21",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A rectangular metal Plaque mounted on the wall of a house. The dedication is written in raised white lettering on a blue background, the names are listed in two columns.\n\nThe inscription mentions 'IN MEMORY OF THE AIRCREWS', indicating a community connection, likely local people affected or those who erected the memorial.",
+  "inscription": "IN MEMORY OF THE AIRCREWS WHO DIED HERE/ & NEARBY AFTER A NIGHT FLYING ACCIDENT/ 21ST AUGUST 1942/ (8 Names)/ PER ARDUA AD ASTRA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/31518"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/31518",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.943250172619,
-  "longitude": -1.546878750311
+  "longitude": -1.546878750311,
+  "grid_ref": "SP 31243",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/339/large_31518.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/42/589/large_31518.jpg"
+  ],
+  "community_connection": ""
 }

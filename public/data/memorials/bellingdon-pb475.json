@@ -5,7 +5,7 @@
   "county": "Buckinghamshire",
   "country": "United Kingdom",
   "region_code": "SE-002",
-  "crash_date": "WW2",
+  "crash_date": "1945-03-06",
   "aircraft_type": "Lancaster",
   "serial_number": "PB475",
   "squadron": "Bomber Command",
@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 51.7369,
   "longitude": -0.6445,
   "maintainer": {
@@ -100,51 +100,51 @@
       "fate": "Killed",
       "rank": "Flight Sergeant",
       "role": "Navigator",
-      "nationality": "Australian",
       "burial_location": "Oxford (Botley) Cemetery",
-      "service_number": "RAAF Aus/417794"
+      "service_number": "RAAF Aus/417794",
+      "nationality": "Australian"
     },
     {
       "name": "Arnold Denbigh",
       "fate": "Killed",
       "rank": "Sergeant",
       "role": "Flight Engineer",
-      "nationality": "British",
-      "burial_location": "Oxford (Botley) Cemetery"
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
     },
     {
       "name": "John Charles Gould",
       "fate": "Killed",
       "rank": "Flying Officer",
       "role": "Pilot",
-      "nationality": "British",
-      "burial_location": "Oxford (Botley) Cemetery"
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
     },
     {
       "name": "Ellis Wilby Hemsworth",
       "fate": "Killed",
       "rank": "Warrant Officer",
       "role": "Wireless Operator",
-      "nationality": "Australian",
       "burial_location": "Oxford (Botley) Cemetery",
-      "service_number": "RAAF Aus/423730"
+      "service_number": "RAAF Aus/423730",
+      "nationality": "Australian"
     },
     {
       "name": "Gerald John Price Ralph",
       "fate": "Killed",
       "rank": "Sergeant",
       "role": "Mid-Upper Gunner",
-      "nationality": "British",
-      "burial_location": "Oxford (Botley) Cemetery"
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
     },
     {
       "name": "Glen Torr",
       "fate": "Killed",
       "rank": "Warrant Officer",
       "role": "Bomb Aimer",
-      "nationality": "Australian",
       "burial_location": "Oxford (Botley) Cemetery",
-      "service_number": "RAAF Aus/417533"
+      "service_number": "RAAF Aus/417533",
+      "nationality": "Australian"
     },
     {
       "name": "G Hart",
@@ -159,5 +159,6 @@
   "inscription": "Six young airmen\ndied at this spot on\n6 March 1945.\nParticipants in, and victims of the\nhuman preoccupation with war.\nGreat lives cut short\nRoyal Air Force\n(3 Names)\nRoyal Australian Air Force\n(3 Names)\nWe remember them.",
   "community_connection": "The image of the Avro Lancaster PB475 memorial was created and shared by Matthew Robins. The specific details about the community connection or the purpose of this particular memorial are not explicitly stated in the provided text.",
   "crash_category": "unknown",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "last_validated": "2026-04-12"
 }

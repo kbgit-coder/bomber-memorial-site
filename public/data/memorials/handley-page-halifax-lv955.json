@@ -1,27 +1,43 @@
 {
   "id": "handley-page-halifax-lv955",
   "title": "Handley Page Halifax LV955",
-  "location_name": "",
-  "county": "",
+  "location_name": "Fulmodeston, North Norfolk",
+  "county": "Norfolk",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LV955",
   "squadron": "192 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: Rectangular, stained-glass panel in an oak frame, located bottom-right of an older, plain, two-light window.  The panel depicts a Halifax bomber flying against a sunlit sky. The 192 Squadron badge and motto are above and below the aircraft.  Two brass plaques provide the dedication and the crew names, engraved in black, upper-case letters.",
-  "inscription": "",
+  "crash_date": "1945-03-04",
+  "memorial_type": "Window",
+  "memorial_details": "Rectangular, stained-glass panel in an oak frame, located bottom-right of an older, plain, two-light window. The panel depicts a Halifax bomber flying against a sunlit sky. The 192 Squadron badge and motto are above and below the aircraft. Two brass plaques provide the dedication and the crew names, engraved in black, upper-case letters.",
+  "inscription": "Upper plaque, reported to read (though not visible on the image): DEDICATED TO THE CREW OF THE HALIFAX LV955 OF 192 SQUADRON / WHICH CRASHED IN THE VILLAGE ON THE 4TH MARCH 1945. // Squadron badge and motto on window: 192 SQUADRON 192 / ROYAL AIR FORCE // DARE TO DISCOVER // Lower brass plaque: (8 NAMES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/101343"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101343",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.838629258763,
-  "longitude": 0.956856202364
+  "longitude": 0.956856202364,
+  "grid_ref": "TF 99253",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 5,
+  "custodian": "Christ Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/138/191/large_nf_fulmodeston_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/187/large_nf_fulmodeston_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/189/large_nf_fulmodeston_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/188/large_nf_fulmodeston_5.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/190/large_nf_fulmodeston_6.jpg"
+  ],
+  "community_connection": "community_connection"
 }

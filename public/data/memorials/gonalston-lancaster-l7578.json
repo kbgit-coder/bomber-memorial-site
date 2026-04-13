@@ -15,82 +15,82 @@
   "operation_type": "Training",
   "operation_target": "Combined navigation and bombing exercise",
   "cause_of_loss": "Suspected parachute harness entangled in controls; aircraft dived from 8,000 ft",
-  "narrative": "The aircraft, crewed by seven airmen from Britain and Canada, dived from 8,000 feet — the cause attributed to a suspected parachute harness entangled in the controls. It crashed at Gonalston, Nottinghamshire, near Glebe Farm, with the wreckage and a large blaze scattered across the field. All seven men were killed on impact: Pilot Officer George Benjamin Sanderson, aged 31; Sergeant James Graham Middlemas of Galashiels, aged 19; Sergeant Albert Dennis Clark, aged 28; Pilot Officer Archibald Thomas Noble of High River, Alberta, aged 28; Sergeant Bernard Broe, aged 22; Flight Sergeant Dennis Wright, aged 20; and Sergeant Dereck Nicholls, aged 19. A stone memorial at Gonalston honours their names.",
+  "narrative": "The aircraft, crewed by seven airmen from Britain and Canada, dived from 8,000 feet \u2014 the cause attributed to a suspected parachute harness entangled in the controls. It crashed at Gonalston, Nottinghamshire, near Glebe Farm, with the wreckage and a large blaze scattered across the field. All seven men were killed on impact: Pilot Officer George Benjamin Sanderson, aged 31; Sergeant James Graham Middlemas of Galashiels, aged 19; Sergeant Albert Dennis Clark, aged 28; Pilot Officer Archibald Thomas Noble of High River, Alberta, aged 28; Sergeant Bernard Broe, aged 22; Flight Sergeant Dennis Wright, aged 20; and Sergeant Dereck Nicholls, aged 19. A stone memorial at Gonalston honours their names.",
   "crew": [
     {
       "rank": "P/O",
       "name": "George Benjamin Sanderson",
-      "service_number": "J/86545 RCAF",
       "age": 31,
       "role": "Pilot",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster L7578 dived from 8,000 feet into the ground at Gonalston. Sanderson was a 31-year-old Canadian, the eldest of the crew.",
       "bio": "A 31-year-old Canadian pilot, Sanderson was the eldest member of the crew. He was partway through his Heavy Conversion Unit course, learning to fly four-engine bombers before posting to an operational squadron.",
       "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J/86545 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "James Graham Middlemas",
-      "service_number": "1822037 RAFVR",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed aged 19 in the crash at Gonalston. Buried with the entire crew in a collective grave at Newark Cemetery.",
       "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1822037 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Albert Dennis Clark",
-      "service_number": "1473146 RAFVR",
       "age": 28,
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+      "service_number": "1473146 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Archibald Thomas Noble",
-      "service_number": "J/87968 RCAF",
       "age": 28,
       "role": "Air Bomber",
-      "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+      "service_number": "J/87968 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Bernard Broe",
-      "service_number": "1450090 RAFVR",
       "age": 22,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+      "service_number": "1450090 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Dennis Wright",
-      "service_number": "R/203453 RCAF",
       "age": 20,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+      "service_number": "R/203453 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Dereck Nicholls",
-      "service_number": "1852333 RAFVR",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
-      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309"
+      "burial_location": "Newark Cemetery, Sec F, Collective Grave 309",
+      "service_number": "1852333 RAFVR",
+      "nationality": "British"
     }
   ],
   "memorial_type": "Stone memorial",
@@ -121,7 +121,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "maintainer": {
     "organisation": "Gonalston Parish Meeting",
     "website": "https://gonalston.parish.uk",

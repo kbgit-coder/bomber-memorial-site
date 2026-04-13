@@ -20,7 +20,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "data_quality": "Good",
   "latitude": 52.9512,
   "longitude": -0.3734,
   "maintainer": {
@@ -189,5 +189,6 @@
   },
   "crash_category": "ferry-transport",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "community_connection": ""
 }

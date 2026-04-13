@@ -1,27 +1,41 @@
 {
   "id": "handley-page-halifax-hx181",
   "title": "Handley Page Halifax HX181",
-  "location_name": "",
-  "county": "",
+  "location_name": "Tangmere, Chichester",
+  "county": "West Sussex",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "HX181",
   "squadron": "10 Squadron",
   "crash_date": "1943-11-19",
-  "memorial_type": "",
-  "memorial_details": "description: Plaque: (10 Squadron crest)/ TO COMMEMORATE THE SACRIFICE/ MADE BY THE CREW OF A HALIFAX/ BOMBER, HX 181 (ZA-K) OF/ 10 SQUADRON, RAF MELBOURNE,/ YORKS,/ WHICH CRASHED INTO A HANGAR/ AT RAF TANGMERE ON THE NIGHT/ OF 19 NOVEMBER 1943 AFTER/ SUFFERING SEVERE DAMAGE/ DURING A RAID OVER GERMANY./ ALL THE CREW WERE KILLED./ WE WILL REMEMBER THEM./ (Names)/ PER ARDUA AD ASTRA/ (RAF Eagle badge)",
-  "inscription": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A metal plaque held within a wood cross frame and mounted on a small post. The 10 Squadron badge is at the top with the inscription and names below in white, a gold Royal Air Force eagle is at the bottom. A memorial tablet is in place adjacent to the crash site near to the old Royal Air Force Tangmere control tower.",
+  "inscription": "Plaque: (10 Squadron crest)/ TO COMMEMORATE THE SACRIFICE/ MADE BY THE CREW OF A HALIFAX/ BOMBER, HX 181 (ZA-K) OF/ 10 SQUADRON, RAF MELBOURNE,/ YORKS,/ WHICH CRASHED INTO A HANGAR/ AT RAF TANGMERE ON THE NIGHT/ OF 19 NOVEMBER 1943 AFTER/ SUFFERING SEVERE DAMAGE/ DURING A RAID OVER GERMANY./ ALL THE CREW WERE KILLED./ WE WILL REMEMBER THEM./ (Names)/ PER ARDUA AD ASTRA/ (RAF Eagle badge)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/89070"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/89070",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 50.847200511535,
-  "longitude": -0.714975253673
+  "longitude": -0.714975253673,
+  "grid_ref": "SU 90562",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/88/741/large_halifax_hx181_za_k_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/88/742/large_halifax_hx181_za_k_plaque_inscription.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/88/743/large_halifax_hx181_za_k_plaque_in_context.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-13"
 }

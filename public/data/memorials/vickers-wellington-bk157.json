@@ -1,27 +1,37 @@
 {
   "id": "vickers-wellington-bk157",
   "title": "Vickers Wellington BK157",
-  "location_name": "",
-  "county": "",
+  "location_name": "Tadmarton, Cherwell",
+  "county": "Oxfordshire",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "BK157",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1944-05-31",
+  "memorial_type": "Stone of remembrance",
+  "memorial_details": "Portrait orientated, dedicatory plaque attached to a shaped boulder of Horton stone set into the ground. At the top of the plaque is a side view line drawing of a Wellington Bomber aircraft with inscription and names below.",
+  "inscription": "IN MEMORY OF THE CREW OF VICKERS/ WELLINGTON BK157 THAT CRASHED NEAR HERE/ ON THE 31ST MAY 1944 WHILST ON A TRAINING/ FLIGHT FROM RAF CHIPPING WARDEN/ (7 Names)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/93378"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/93378",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.033074359846,
-  "longitude": -1.42434230289
+  "longitude": -1.42434230289,
+  "grid_ref": "SP 39586",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/130/961/large_93378_steve_kingsford_26_may_2019.jpg"
+  ]
 }

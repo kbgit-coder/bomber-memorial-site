@@ -1,0 +1,74 @@
+{
+  "id": "amsterdam-war-memorial",
+  "title": "Amsterdam Aviation War Memorial",
+  "location_name": "Amsterdam, North Holland",
+  "country": "Netherlands",
+  "memorial_type": "Memorial",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": 52.37,
+  "longitude": 4.89,
+  "external_narratives": [
+    {
+      "source_site": "WW2 Memorial Netherlands",
+      "original_url": "https://ww2memorial.nl/royal-air-force-r229.html",
+      "summary": "The Netherlands hosts extensive WW2 aviation memorials due to its position on the flight path from England to Germany. Over 3,000 Allied aircraft crashed in the country, and numerous memorials honour Bomber Command crews from the RAF, RCAF, RNZAF, RAAF, and occupied European nations.",
+      "key_details": [
+        "Netherlands had over 3,000 crashed Allied warplanes",
+        "Country lies on direct route from England to Germany",
+        "Crews came from RAF, RCAF, RNZAF, RAAF, and occupied European nations"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed accounts of Allied aircrews lost in Netherlands during WW2, alongside poignant memorial locations."
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/1128/CRASH-Air-War-and-Resistance-Museum-40-45.htm",
+      "summary": "The CRASH Air War and Resistance Museum near Amsterdam has researched approximately 750 warplane wrecks in the Randstad region since 1987, documenting the stories behind each crash site.",
+      "key_details": [
+        "CRASH museum active since 1987",
+        "Approximately 750 planes came down in Randstad region",
+        "Focus on telling stories behind each wreck"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "Comprehensive documentation of 750+ WW2 aviation crash sites, including histories and conditions."
+    }
+  ],
+  "what3words": "result.migrants.trip",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "narrative": "",
+  "crew": [
+    {
+      "name": "Mogford",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Wireless Operator Baker",
+      "rank": "Sergeant",
+      "fate": "Killed/survived/pow/evaded/unknown",
+      "role": "Wireless Operator",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
+}

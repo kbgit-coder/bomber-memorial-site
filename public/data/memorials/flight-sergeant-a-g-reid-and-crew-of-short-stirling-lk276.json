@@ -1,27 +1,45 @@
 {
   "id": "flight-sergeant-a-g-reid-and-crew-of-short-stirling-lk276",
-  "title": "Flight Sergeant A G Reid and crew of Short Stirling LK276",
-  "location_name": "",
-  "county": "",
+  "title": "Short Stirling LK276",
+  "location_name": "Great Dunmow, Uttlesford",
+  "county": "Essex",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "LK276",
   "squadron": "190 Squadron",
   "crash_date": "1944-11-21",
-  "memorial_type": "",
-  "memorial_details": "description: Dunmow Broadcast reported on 6/12/2010: \r\n\"Benches in Dunmow dedicated to seven men killed in 1944. \r\nSIXTY-six years ago Sterling Bomber LK276 crash landed on Newton Green killing the seven crew members and leaving families torn apart and a village scarred by the wreckage. \r\nOn November 21 this year, Dunmow Town Council, members of the families and eyewitnesses to the tragedy dedicated benches to the seven men who were killed on that fateful night. \r\nOn the night of November 21 1944 Stirling Bomber LK276 of 190 Squadron was making preparations for operations over the continent. Its third practice circuit ended in tragedy when the landing lights at the airfield were switched off because an unidentified aircraft had been detected in the area. \r\nErnie Ryman who saw the incident 66 years ago said: \u201cIt was about 9pm in the evening because we were out playing cards at the time. \r\n\u201cI looked up and saw the plane coming towards us from miles away; there was no warning like usual if a German plane was spotted in the area. \r\n\u201cThe aircraft then veered slightly and came down in the field where the primary school is now. The fuselage came off like someone a put a saw through it; the rest of the plane went over the hedge on to Newton Green before it exploded. \r\n\u201cAs kids we were quite excited at the time. We rushed up the street towards the field but we were stopped and when we went back in the morning we weren\u2019t allowed anywhere near the crash.\u201d \r\nThe town council now has seven commemorative seats in the town, one for each crew member. Four had already been dedicated to their memory. The remaining three were dedicated in ceremonies conducted by Canon David Ainge last month. \r\nThe council had wanted to hold the final ceremony for several years but after a number of staff changes the date was put back. \r\nIt was not until town clerk Caroline Fuller realised the 66th anniversary was this year that plans were put into motion. \r\n\u201cThe service took a lot of organising; to get members of ",
-  "inscription": "",
+  "memorial_type": "Seat",
+  "memorial_details": "Rectangular plaque, fixed to a cast iron and wooden bench. The plaque has the Royal Air Force crest at top left and the 190 Squadron crest at top right; beneath is the inscription in white lettering. The ends of the bench have the coloured crest of Great Dunmow Town Council.",
+  "inscription": "IN MEMORY OF/ Flight Sergeant/ ARTHUR GEORGE REID/ aged 33/ Killed with the rest of his crew, when Short Stirling bomber LK276/ crashed near this location on 21st November 1944,/ as the result of enemy action.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/97190"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/97190",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flight Sergeant",
+      "name": "A G Reid",
+      "fate": "Unknown"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.873000218614,
-  "longitude": 0.349611908099
+  "longitude": 0.349611908099,
+  "grid_ref": "TL 61848",
+  "photos": [],
+  "names_on_memorial": 1,
+  "died_count": 1,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/171/704/large_97190a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/171/703/large_97190.jpg"
+  ],
+  "original_title": "Flight Sergeant A G Reid and crew of Short Stirling LK276"
 }

@@ -6,11 +6,11 @@
   "country": "United Kingdom",
   "region_code": "LN-032",
   "crash_date": "1943-12-16",
-  "aircraft_type": "Lancaster",
-  "serial_number": "JB670",
-  "squadron": "103 Sqdn. / 576 Sqdn.",
+  "aircraft_type": "Lancaster JB670 and Lancaster LM332",
+  "serial_number": "JB670 / LM332",
+  "squadron": "103 Squadron and 576 Squadron",
   "station": "Elsham Wolds",
-  "crew_summary": "18 crew recorded; 6 killed",
+  "crew_summary": "14 killed \u2014 7 from Lancaster JB670 (103 Sqn) and 7 from Lancaster LM332 (576 Sqn)",
   "memorial_type": "Mid-Air Collision Memorial",
   "sources": [
     {
@@ -23,8 +23,8 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
+  "last_updated": "2026-04-13",
+  "data_quality": "Good",
   "latitude": 53.233,
   "longitude": 0.1289,
   "maintainer": {
@@ -53,7 +53,7 @@
     {
       "source_site": "RAF Memorial Flight Club",
       "original_url": "https://www.memorialflightclub.com/blog/black-thursday-16th-december-1943",
-      "summary": "Account of Black Thursday, 16 December 1943, when almost 300 RAF airmen died — half from weather rather than enemy action. Documents the Ulceby collision as one of multiple tragedies that night across Bomber Command.",
+      "summary": "Account of Black Thursday, 16 December 1943, when almost 300 RAF airmen died \u2014 half from weather rather than enemy action. Documents the Ulceby collision as one of multiple tragedies that night across Bomber Command.",
       "key_details": "483 Lancasters and 15 Mosquitos attacked Berlin that night. 25 aircraft lost on the raid, 28 crashed in fog at English airfields, 43 total destroyed. The Ulceby collision occurred during takeoff in low cloud.",
       "date_retrieved": "2026-03-23",
       "still_live": true,
@@ -62,7 +62,7 @@
     {
       "source_site": "North Lincs Web",
       "original_url": "https://www.northlincsweb.net/RAFElshamWolds/html/16th_dec_1943_-_ulceby_lancaster_collision_-_103_and_576_sqns_ra.html",
-      "summary": "Detailed account of the mid-air collision on Black Thursday. Lancaster LM332 (UL-B2) of 576 Squadron, piloted by F/Sgt Frederick Roy Scott RAAF, took off at 4:36 PM — one minute before Lancaster JB670 of 103 Squadron. The two collided head-on over Ulceby in low cloud.",
+      "summary": "Detailed account of the mid-air collision on Black Thursday. Lancaster LM332 (UL-B2) of 576 Squadron, piloted by F/Sgt Frederick Roy Scott RAAF, took off at 4:36 PM \u2014 one minute before Lancaster JB670 of 103 Squadron. The two collided head-on over Ulceby in low cloud.",
       "key_details": "F/Sgt Scott was Royal Australian Air Force. Lancaster designated UL-B2. Both crews were briefed about the dangers of low cloud and told to climb into the climbing pattern immediately after takeoff. Despite warnings, the collision was unavoidable in the conditions.",
       "date_retrieved": "2026-03-23",
       "still_live": true,
@@ -120,121 +120,125 @@
   "crew": [
     {
       "name": "Valentine Richter",
-      "rank": "Captain",
+      "rank": "Flight Sergeant",
+      "role": "Pilot",
       "fate": "Killed",
-      "role": "Pilot (JB670)",
       "age": 22,
-      "nationality": "British"
+      "fate_detail": "Aircraft: JB670"
     },
     {
       "name": "Frederick Stanley Copping",
       "rank": "Sergeant",
+      "role": "Flight Engineer",
       "fate": "Killed",
-      "role": "Flight Engineer (JB670)",
-      "age": 20,
-      "nationality": "British"
-    },
-    {
-      "name": "Charles Reginald Jaques",
-      "rank": "Flying Officer",
-      "fate": "Killed",
-      "role": "Navigator (JB670)",
-      "age": 30,
-      "nationality": "British"
+      "age": 21,
+      "fate_detail": "Aircraft: JB670"
     },
     {
       "name": "Thomas Leslie Hobson Kay",
       "rank": "Flight Sergeant",
+      "role": "Air Bomber",
       "fate": "Killed",
-      "role": "Air Bomber (JB670)",
-      "age": 26,
-      "nationality": "British"
-    },
-    {
-      "name": "Peter Coopman",
-      "rank": "Sergeant",
-      "fate": "Unknown",
-      "role": "Wireless Transmission/Air Gunner (JB670)",
-      "age": 20,
-      "nationality": "British"
-    },
-    {
-      "name": "Dixon",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "John Hamilton Caldwell",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Jock Ogilvie",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Cyril Walter Plampton",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Francis Andrew Furrie",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Stanley Victor Cull",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "George Gordon Critchley",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Brian Price Wicks",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "Joseph William Ross",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (JB670)"
-    },
-    {
-      "name": "F/S F R Scott",
-      "rank": "Scott",
-      "fate": "Unknown",
-      "role": "Crew (JB670)",
+      "age": 28,
+      "fate_detail": "Aircraft: JB670",
       "nationality": "Australian"
     },
     {
       "name": "Charles Reginald Jacques",
-      "rank": null,
-      "fate": "Unknown",
-      "role": "Crew (LM322)"
+      "rank": "Flying Officer",
+      "role": "Navigator",
+      "fate": "Killed",
+      "age": 30,
+      "fate_detail": "Aircraft: JB670"
     },
     {
-      "name": "F/S V Richter RAFVR",
-      "rank": "Flying Officer",
+      "name": "Peter Coopman",
+      "rank": "Sergeant",
+      "role": "Wireless Op/Air Gunner",
       "fate": "Killed",
-      "role": "Pilot (LM322)",
-      "nationality": "British"
+      "age": 21,
+      "fate_detail": "Aircraft: JB670"
+    },
+    {
+      "name": "Cyril Walter Plampton",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: JB670"
+    },
+    {
+      "name": "Francis Andrew Furrie",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: JB670"
+    },
+    {
+      "name": "Frederick Roy Scott",
+      "rank": "Flight Sergeant",
+      "role": "Pilot",
+      "fate": "Killed",
+      "age": 24,
+      "fate_detail": "Aircraft: LM332",
+      "nationality": "Australian"
+    },
+    {
+      "name": "Stanley Victor Cull",
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
+      "fate": "Killed",
+      "age": 18,
+      "fate_detail": "Aircraft: LM332"
+    },
+    {
+      "name": "Peter Martin Crowle Ellis",
+      "rank": "Flight Sergeant",
+      "role": "Air Bomber",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: LM332"
+    },
+    {
+      "name": "George Gordon Critchley",
+      "rank": "Sergeant",
+      "role": "Navigator",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: LM332"
+    },
+    {
+      "name": "John Hamilton Caldwell",
+      "rank": "Sergeant",
+      "role": "Wireless Op/Air Gunner",
+      "fate": "Killed",
+      "age": 21,
+      "fate_detail": "Aircraft: LM332"
+    },
+    {
+      "name": "Brian Price Wicks",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "age": 21,
+      "fate_detail": "Aircraft: LM332",
+      "nationality": "Australian"
+    },
+    {
+      "name": "Joseph William Ross",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "age": 20,
+      "fate_detail": "Aircraft: LM332"
     }
   ],
   "community_connection": "",
   "crash_category": "mid-air-collision",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "data_notes": [
+    "Mid-air collision near Ulceby on Black Thursday (16 Dec 1943) Berlin raid.",
+    "Both aircraft departed RAF Elsham Wolds. Collided head-on while circling below cloud on reciprocal headings.",
+    "Scott (LM332) was on his first operation. Richter (JB670) on his third, flying a scratch crew.",
+    "Source note: North Lincs Web lists Ross with same parental details as Wicks \u2014 likely a copy-paste error on the source website."
+  ],
+  "last_validated": "2026-04-13"
 }

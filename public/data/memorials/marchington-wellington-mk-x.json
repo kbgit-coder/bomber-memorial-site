@@ -20,101 +20,101 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "narrative": "On the afternoon of 13 June 1944 -- exactly one week after D-Day -- Wellington LP397 departed RAF Castle Donington on a routine cross-country training exercise. Twenty-five minutes into the flight, the aircraft entered a thunderstorm. The Wellington emerged from cloud in a steep, unrecoverable dive and crashed in a field beside Mayfield Parish Church. All six crew were killed instantly. Subsequent investigation found no evidence of structural failure, leading investigators to conclude the aircraft may have been struck by lightning. Of the six-man crew, five were Canadian; the exception was 31-year-old Sgt William Paterson, a Scotsman who was the oldest aboard. The youngest, 19-year-old air gunner James Stevens from Canada, had barely begun his training. Pilot Joseph Starr was 29 -- old for a bomber crew member -- and had travelled to England before the war to join the RAF. He is buried in Nottingham's Jewish Cemetery, while his Canadian crewmates rest at Brookwood Military Cemetery in Surrey.",
   "crew": [
     {
       "rank": "F/O",
       "name": "Joseph Starr",
-      "service_number": "53473",
       "age": 29,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Nottingham Jewish Cemetery, Wilford Hill",
       "fate": "Killed",
       "fate_detail": "Killed instantly when the Wellington crashed beside Mayfield Parish Church after emerging from a thunderstorm in an unrecoverable dive.",
       "cwgc_verified": true,
       "bio": "Canadian pilot who had travelled to England before the war to join the RAF. At 29, old for a bomber crew member. Buried in Nottingham's Jewish Cemetery.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "53473",
+      "nationality": "Canadian"
     },
     {
       "rank": "F/O",
       "name": "George David Wills Buchanan",
-      "service_number": "J/39007",
       "age": 20,
       "role": "Navigator",
-      "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly in the crash beside Mayfield Parish Church.",
       "bio": "Canadian navigator serving with the RCAF, aged 20.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "J/39007",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "William Corley Davis",
-      "service_number": "R/193967",
       "age": 22,
       "role": "Air Bomber",
-      "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Canadian air bomber serving with the RCAF, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "R/193967",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "William George Paterson",
-      "service_number": "1024471",
       "age": 31,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Torryburn Cemetery, Scotland",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly in the crash. The oldest crew member at 31 and the only non-Canadian, a Scotsman.",
       "bio": "Scottish wireless operator/air gunner, the oldest at 31 and the only non-Canadian. Buried at Torryburn Cemetery in his hometown.",
       "hometown": "Torryburn, Fife, Scotland",
-      "decorations": []
+      "decorations": [],
+      "service_number": "1024471",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Richard John Taylor",
-      "service_number": "R/203228",
       "age": 21,
       "role": "W/Op Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly in the crash.",
       "bio": "Canadian wireless operator/air gunner serving with the RCAF, aged 21.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "R/203228",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "James Joseph Urban Stevens",
-      "service_number": "R/206869",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Brookwood Military Cemetery",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed instantly in the crash. The youngest crew member at 19, barely begun his training.",
       "bio": "Canadian air gunner serving with the RCAF, the youngest at just 19.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "R/206869",
+      "nationality": "Canadian"
     },
     {
       "name": "John Frederick Potts",
       "rank": "Sergeant",
       "fate": "Killed",
       "role": null,
-      "nationality": "British",
-      "burial_location": "Pwllheli"
+      "burial_location": "Pwllheli",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Possible lightning strike during thunderstorm; aircraft entered steep dive from cloud",

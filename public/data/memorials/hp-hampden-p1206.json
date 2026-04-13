@@ -1,27 +1,36 @@
 {
   "id": "hp-hampden-p1206",
   "title": "HP Hampden P1206",
-  "location_name": "",
-  "county": "",
+  "location_name": "Tattershall Thorpe, East Lindsey",
+  "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "P1206",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "49 Squadron",
+  "crash_date": "1941-11-08",
+  "memorial_type": "Trophy / Relic",
+  "memorial_details": "A brass plaque mounted on a wooden pedestal alongside a display of relics recovered from HP Hampden P1206. Plaque inscription and names are incised and picked out in black. (See also WM Reference 84564)",
+  "inscription": "Plaque: THESE ARE THE REMAINS OF HAMPDEN P1206 49 SQN/ LOST ON OPERATIONS 8 NOV 1941/ ALL THE CREW WERE LOST/ (Names)/ THE REMAINS WERE DONATED BY-/ ROYAL NETHERLANDS AIR FORCE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/109311"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/109311",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.120586,
-  "longitude": -0.18486589
+  "longitude": -0.18486589,
+  "grid_ref": "TF 21570",
+  "names_on_memorial": 4,
+  "died_count": 4,
+  "custodian": "Thorpe Camp Visitor Centre",
+  "external_narratives": [],
+  "what3words": "",
+  "last_validated": "2026-04-13",
+  "community_connection": "The remains were donated by the Royal Netherlands Air Force"
 }

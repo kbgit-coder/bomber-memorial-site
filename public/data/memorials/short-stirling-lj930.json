@@ -1,27 +1,39 @@
 {
   "id": "short-stirling-lj930",
   "title": "Short Stirling LJ930",
-  "location_name": "",
-  "county": "",
+  "location_name": "Windlesham, Surrey Heath",
+  "county": "Surrey",
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "LJ930",
-  "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "squadron": "190 Squadron",
+  "crash_date": "1945-04-20",
+  "memorial_type": "Cairn",
+  "memorial_details": "Tall, grey granite plinth with brass plaque attached. Raised inscription text.",
+  "inscription": "RAF / (7 NAMES) / IN MEMORY OF STIRLING (MK.IV) LJ930 OF 190 SQUADRON 38 GROUP / WHICH CRASHED OFF WOODLANDS LANE, WINDLESHAM, SURREY, at 1900 hrs / ON THE 20th APRIL, 1945. ALL SEVEN OF THE CREW DIED IN THE CRASH. / POEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/108786"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108786",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.365677908763,
-  "longitude": -0.66509734006
+  "longitude": -0.66509734006,
+  "grid_ref": "SU 93048",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/178/12/large_108786a.jpg"
+  ],
+  "last_validated": "2026-04-13",
+  "community_connection": "WINDLESHAM, SURREY"
 }

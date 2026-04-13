@@ -1,27 +1,32 @@
 {
   "id": "crew-of-handley-page-hampden-ae381-2",
   "title": "Crew Of Handley Page Hampden Ae381 (2)",
-  "location_name": "",
-  "county": "",
+  "location_name": "Kinder Scout, High Peak",
+  "county": "Derbyshire",
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "",
   "squadron": "50 Squadron",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
+  "crash_date": "1942-01-21",
+  "memorial_type": "Cross",
+  "memorial_details": "A plain wooden cross with a brass plaque bearing an incised inscription stamped in upright capital lettering.",
   "inscription": "IN MEMORY OF THE CREW/ OF HAMPDEN AE 381 50 SQD/ CRASHED 21 1 1942",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/63277"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/63277",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Partial",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.383395496495,
-  "longitude": -1.885688374114
+  "longitude": -1.885688374114,
+  "external_narratives": [],
+  "what3words": "",
+  "last_validated": "2026-04-12",
+  "community_connection": "The inscription does not specify the community impact."
 }

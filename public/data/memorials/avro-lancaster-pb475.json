@@ -1,27 +1,41 @@
 {
   "id": "avro-lancaster-pb475",
   "title": "Avro Lancaster PB475",
-  "location_name": "",
-  "county": "",
+  "location_name": "Bellingdon, Chiltern",
+  "county": "Buckinghamshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "PB475",
   "squadron": "",
-  "crash_date": "",
-  "memorial_type": "",
-  "memorial_details": "description: This record comprises all information held by IWM\u2019s War Memorials Register for this memorial. Where we hold a names list for the memorial, this information will be displayed on the memorial record. Please check back as we are adding more names to the database.",
-  "inscription": "",
+  "crash_date": "1945-03-06",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Small blue circular plaque with central illustration of a Lancaster in flight, set into a large stone. White coloured inscription, names, drawing and border edgings.",
+  "inscription": "Six young airmen / died at this spot on / 6 March 1945. / Participants in, and victims of the / human preoccupation with war. / Great lives cut short / Royal Air Force / (3 Names) / Royal Australian Air Force / (3 Names) / We remember them.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/63847"
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/63847",
+      "type": "official_database"
     }
   ],
-  "data_quality": "Stub",
+  "data_quality": "Good",
   "narrative": "",
   "crew": [],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.737045746334,
-  "longitude": -0.645810828216
+  "longitude": -0.645810828216,
+  "grid_ref": "SP 93606",
+  "photos": [],
+  "names_on_memorial": 6,
+  "died_count": 6,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/95/827/large_63847b.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/830/large_63847d.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/828/large_63847a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/95/829/large_63847c.jpg"
+  ],
+  "community_connection": "Great lives cut short. Royal Air Force (3 Names). Royal Australian Air Force (3 Names). Community connection to the airmen."
 }

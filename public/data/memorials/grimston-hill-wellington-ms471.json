@@ -20,67 +20,67 @@
     {
       "rank": "P/O",
       "name": "Walter Waldron Adams",
-      "service_number": "150243 RAFVR",
       "age": 24,
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when the Wellington stalled while trying to clear telegraph poles during a forced landing attempt. Adams had only 18 hours of daytime Wellington flying experience and no recorded night experience.",
       "bio": "A 24-year-old trainee pilot with limited Wellington experience. He was unable to maintain height on one engine after the starboard engine failed.",
       "hometown": "Bournemouth",
       "burial_location": "Bournemouth Crematorium, Panel 1",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "150243 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Fg Off Frank Graham-Bell",
-      "service_number": "135747 RAF",
       "age": 32,
       "role": "Observer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Graham-Bell was a distinguished painter and art critic for the New Statesman magazine, a notable cultural loss.",
       "bio": "Frank Graham-Bell (1910-1943) was a distinguished painter and art critic who wrote for the New Statesman. At 32, he was the eldest crew member. His death represented a significant loss to the British art world.",
       "hometown": "London",
       "burial_location": "Golders Green Crematorium, Panel 2",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "135747 RAF",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Herbert Ibbott",
-      "service_number": "J24024 RCAF",
       "age": 21,
       "role": "Bomb Aimer",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Ibbott was a Canadian whose memory lives on -- a lake in northern Manitoba is named in his honour.",
       "bio": "A 21-year-old Canadian serving with the RCAF. Ibbott Lake in northern Manitoba is named in his memory.",
       "burial_location": "Bedford Cemetery, Sec H, Grave 838",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J24024 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Roland Walter Ballauff",
-      "service_number": "1390845 RAFVR",
       "age": 21,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Grimston Hill.",
       "burial_location": "Ollerton Cemetery, Grave 1205",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1390845 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Peter Baldwin",
-      "service_number": "1861770 RAFVR",
       "age": 19,
       "role": "Rear Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. At 19, Baldwin was the youngest crew member.",
       "burial_location": "Ollerton Cemetery, Grave 1180",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1861770 RAFVR",
+      "nationality": "British"
     }
   ],
   "memorial_type": "Memorial at RAF Ossington site",
@@ -100,7 +100,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Good",
   "maintainer": {
     "organisation": "Wellow Parish Council",
     "maintainer_type": "parish-council",
