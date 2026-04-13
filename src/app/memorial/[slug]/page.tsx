@@ -789,6 +789,42 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
+      {/* Crew CTA (when no crew data at all) */}
+      {(!memorial.crew || memorial.crew.length === 0) && !memorial.crew_summary && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Crew</h2>
+          <div style={{
+            ...cardBox,
+            backgroundColor: "#f8f6f2",
+            border: "1px dashed #c9b98a",
+            textAlign: "center",
+            padding: "2rem 1.5rem",
+          }}>
+            <p style={{ fontSize: "1rem", color: "#555", marginBottom: "0.75rem", lineHeight: 1.7 }}>
+              We don&apos;t yet have crew details for this memorial. Do you know who served aboard this aircraft?
+            </p>
+            <p style={{ fontSize: "0.9rem", color: "#777", marginBottom: "1rem", lineHeight: 1.6 }}>
+              Family connections, service records, or details from the memorial inscription would help us honour these crew members by name.
+            </p>
+            <a
+              href={`mailto:admin@bombermemorial.co.uk?subject=Crew%20information%3A%20${encodeURIComponent(memorial.title)}&body=Memorial%3A%20${encodeURIComponent(memorial.title)}%0APage%3A%20https%3A%2F%2Fbombermemorial.co.uk%2Fmemorial%2F${memorial.id}%0A%0APlease%20share%20any%20crew%20details%20you%20have%3A%0A%0A`}
+              style={{
+                display: "inline-block",
+                padding: "0.5rem 1.25rem",
+                backgroundColor: "#1a2332",
+                color: "#c9b98a",
+                borderRadius: 6,
+                textDecoration: "none",
+                fontSize: "0.9rem",
+                fontWeight: 600,
+              }}
+            >
+              Share crew information
+            </a>
+          </div>
+        </section>
+      )}
+
       {/* Full Narrative Content — the scraped detailed records displayed directly */}
       {fullNarratives.length > 0 && (
         <section style={{ marginBottom: "2.5rem" }}>
