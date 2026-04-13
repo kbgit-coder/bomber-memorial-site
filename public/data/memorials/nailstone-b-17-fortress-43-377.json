@@ -163,7 +163,7 @@
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",
   "operation_type": "Training",
-  "memorial_details": "Name: B-17 Flying Fortress Crew\nType: Stone of remembrance\nDescription: Stone of remembrance with attached plaque.\nInscription: IN MEMORY OF OUR (...)/ 490TH BOMB GROUP FLIGHT CREW ON THE/ B17 FLYING FORTRESS APTLY NAMED HEAVENLY BODY/ 27TH SEPTEMBER 1944 ALL CREW MEMBERS LOST THEIR LIVES (...)/ THIS TRAGIC ACCIDENT/ [crew names inscribed on memorial]/ (...)\nLocation: At centre of village. Church Gardens Memorial Garden Nailstone Hinckley And Bosworth Leicestershire CV13 0QY England\nGrid Ref: SK 41802 07150\nCoordinates: 52.661171000000,-1.382990400000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/17/180/large_50741.jpg; https://media.iwm.org.uk/ciim5/memorials/173/254/large_50741a.jpg; https://media.iwm.org.uk/ciim5/memorials/86/568/3_nailstone.jpg; https://media.iwm.org.uk/ciim5/memorials/86/569/4_nailstone_1.jpg\n\nThe plaque is inscribed in English inscribed with a dedication message followed by the list of names of the crew.\n\nThe memorial was originally located at a site nearer to where the plane crashed on Elmside Farm but has been moved for better access, where it was dedicated in 2002.\n\nDedication (2002-01-01): The memorial was dedicated after being moved to its current location for better access.\n\nPRIVATE CITIZENS SUPPORTING AMERICA'S HERITAGE B-17 'Heavenly Body' (43-37776) Memorial A rough-hewn stone with an attached metal plaque to its front.\n\nMemorial Display: A memorial displaying the B-17 Flying Fortress Crew, commemorating World War II.",
+  "memorial_details": "Stone of remembrance with attached plaque.\n\nThe plaque is inscribed in English inscribed with a dedication message followed by the list of names of the crew.\n\nThe memorial was originally located at a site nearer to where the plane crashed on Elmside Farm but has been moved for better access, where it was dedicated in 2002.\n\nDedication (2002-01-01): The memorial was dedicated after being moved to its current location for better access.\n\nPRIVATE CITIZENS SUPPORTING AMERICA'S HERITAGE B-17 'Heavenly Body' (43-37776) Memorial A rough-hewn stone with an attached metal plaque to its front.\n\nMemorial Display: A memorial displaying the B-17 Flying Fortress Crew, commemorating World War II.",
   "latitude": 52.659868946558454,
   "longitude": -1.3856301201029853,
   "maintainer": {
@@ -266,5 +266,11 @@
   },
   "community_connection": "",
   "crash_category": "training",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/17/180/large_50741.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/254/large_50741a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/86/568/3_nailstone.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/86/569/4_nailstone_1.jpg"
+  ]
 }

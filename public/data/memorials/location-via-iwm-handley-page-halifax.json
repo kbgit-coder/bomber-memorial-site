@@ -50,7 +50,7 @@
   },
   "squadron_display_name": "",
   "squadron_aliases": [],
-  "memorial_details": "Name: Handley Page Halifax LW693\nType: Board / Plaque / Tablet\nDescription: A wall-mounted brass plaque.\nInscription: TO COMMEMORATE THE CREW OF/ THE HANDLEY PAGE HALIFAX BOMBER 'V' FOR VICTOR/ OF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE/ ON 26TH MARCH 1944/ [crew names inscribed on memorial]\nLocation: Westbury House Saint Margaret's Street, Bradford On Avon West Wiltshire Wiltshire BA15 1DE England\nGrid Ref: ST 82557 60875\nCoordinates: 51.346688865150,-2.251819804889\nPhotos: https://media.iwm.org.uk/ciim5/memorials/84/93/2_58.jpg; https://media.iwm.org.uk/ciim5/memorials/178/661/large_24276.jpg\n\nMemorial Unveiling: The unveiling of the Handley Page Halifax LW693 memorial.",
+  "memorial_details": "A wall-mounted brass plaque.\n\nMemorial Unveiling: The unveiling of the Handley Page Halifax LW693 memorial.",
   "narrative": "This memorial honors the crew of Handley Page Halifax bomber 'V', belonging to No. 425 Squadron of the Royal Canadian Air Force, who perished in a crash at Bradford on Avon, Wiltshire, on March 26, 1944.",
   "inscription": "TO COMMEMORATE THE CREW OF\nTHE HANDLEY PAGE HALIFAX BOMBER 'V' FOR VICTOR\nOF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE\nWHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE\nON 26TH MARCH 1944\n[crew names inscribed on memorial]",
   "remembrance": {
@@ -59,5 +59,9 @@
   "crash_category": "unknown",
   "narrative_quality_score": 4,
   "crash_date": "1944-03-26",
-  "last_validated": "2026-04-13"
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/84/93/2_58.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/178/661/large_24276.jpg"
+  ]
 }

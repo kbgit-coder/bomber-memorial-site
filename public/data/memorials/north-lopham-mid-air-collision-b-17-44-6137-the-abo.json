@@ -121,16 +121,6 @@
       "rank": "\u2014"
     },
     {
-      "name": "Gordon",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Noble",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
       "name": "Alex Philipovitch",
       "rank": null,
       "fate": "Unknown"
@@ -139,29 +129,9 @@
       "name": "George Peretti",
       "rank": null,
       "fate": "Unknown"
-    },
-    {
-      "name": "Ernest",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Gerald",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Maynard",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Richard",
-      "rank": null,
-      "fate": "Unknown"
     }
   ],
-  "memorial_details": "Name: Consolidated B-17 Flying Fortresses 43-38746 and 44-6137 mid-air collision\nType: Board / Plaque / Tablet\nDescription: Tablet with images of American and Union flags displayed either side of an image of a B-17 Flying Fortress aircraft. The inscription is below images.\nInscription: 96TH BOMBARDMENT GROUP SNETTERTON HEATH/ COMMEMORATING THE AMERICAN AIRMEN WHO DIED/ WHEN TWO AIRCRAFT COLLIDED OVER THIS VILLAGE/ 29TH JANUARY 1945/ AIRCRAFT 44-6137 337 SQUADRON/ [crew names inscribed on memorial]/ AIRCRAFT 43-38746 338 SQUADRON/ [crew names inscribed on memorial]/ Their names will live for evermore\nLocation: The tablet is at the base of the village war memorial The Street North Lopham Breckland Norfolk IP22 2LU England\nGrid Ref: TM 03604 82956\nCoordinates: 52.406710230979,0.991850331076\nPhotos: https://media.iwm.org.uk/ciim5/memorials/101/335/large_n_lopham_b17_crash_memorial.jpg\n\nThe memorial is a board/plaque/tablet located in North Lopham, Breckland, Norfolk, England.",
+  "memorial_details": "Tablet with images of American and Union flags displayed either side of an image of a B-17 Flying Fortress aircraft. The inscription is below images.\n\nThe memorial is a board/plaque/tablet located in North Lopham, Breckland, Norfolk, England.",
   "narrative": "Flying with the 96th Bomb Group from Snetterton Heath, two B-17 Flying Fortresses \u2014 44-6137 *The Abortion Queen* and 43-38746 \u2014 suffered a mid-air collision over North Lopham, Norfolk, on 29 January 1945. Both aircraft were destroyed in the impact, with no survivors from either crew. All nine men aboard each aircraft were killed, eighteen airmen in total. Among those who died were W. Brauner, N. E. Ellington, M. A. Faux, J. E. Flora, and R. I. Good. The wreckage came down near North Lopham, where the loss of both complete crews was recorded.",
   "inscription": "96TH BOMBARDMENT GROUP SNETTERTON HEATH\nCOMMEMORATING THE AMERICAN AIRMEN WHO DIED\nWHEN TWO AIRCRAFT COLLIDED OVER THIS VILLAGE\n29TH JANUARY 1945\nAIRCRAFT 44-6137 337 SQUADRON\n[crew names inscribed on memorial]\nAIRCRAFT 43-38746 338 SQUADRON\n[crew names inscribed on memorial]\nTheir names will live for evermore",
   "remembrance": {
@@ -172,5 +142,8 @@
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet",
   "serial_number": "44-6137, 43-38746",
-  "last_validated": "2026-04-13"
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/101/335/large_n_lopham_b17_crash_memorial.jpg"
+  ]
 }

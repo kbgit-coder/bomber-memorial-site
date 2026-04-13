@@ -72,17 +72,12 @@
       "hometown": "Prescot, Lancashire",
       "cwgc_verified": true,
       "nationality": "British"
-    },
-    {
-      "name": "Lyons",
-      "rank": null,
-      "fate": "Unknown"
     }
   ],
   "cause_of_loss": "Radio unable to receive; pilot disoriented regarding coastal position; flew into high ground in poor visibility",
   "operation_type": "Operational",
   "operation_target": "Operational -- returning from bombing raid on Lorient, France",
-  "memorial_details": "Name: 49 Squadron RAF\nType: Stone of remembrance\nDescription: Stone of Remembrance of tapering unworked granite. The initials of the crew are incised on the north face, below an incised cross. A dedicatory tablet is mounted on the South face. The tablet has incised white lettering and the RAF badge top centre.\nInscription: South face: PER ARDUA AD ASTRA / ON 22ND MARCH 1941 / A ROYAL AIR FORCE BOMBER / 49 SQDN SCAMPTON / CRASHED RETURNING FROM / OPERATIONS OVER FRANCE / THE 4 CREW WERE LOST / THIS MEMORIAL BEARS / THEIR INITIALS AND SQUADRON / NUMBER - COMMEMORATING / THEIR SELFLESS COURAGE/ AND THAT OF FELLOW AIRMEN / WHO PERISHED ON DARTMOOR / 1939 - 1945 / THEIR SACRIFICE HELPED US / TO MAINTAIN FREEDOM. / THE AIRCREW ASSOCIATION 1991. // North face: + / R. A. F. / S. 49. / R. D. W. / C. J. L. / R. B. / R. L. A. E. / 21. 3. 41\nLocation: Dartmoor Hameldown Tor The Mariner's Path Manaton, Widecombe in the Moor Teignbridge Devon TQ13 9XE England\nGrid Ref: SX 71280 80694\nCoordinates: 50.611707011896,-3.820645809174\nPhotos: https://media.iwm.org.uk/ciim5/memorials/68/493/large_img_0924iwm.jpg; https://media.iwm.org.uk/ciim5/memorials/68/494/large_img_0927iwm.jpg\n\nThe memorial was commissioned by Lady Marjorie Cecilia Wilson,\u00a0the mother of the pilot (Robert Wilson).\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nAn explanatory plaque was added to the rear of the stone in 1991.\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nPlaque Addition (1991): Addition of an explanatory plaque to the rear of the stone.",
+  "memorial_details": "Stone of Remembrance of tapering unworked granite. The initials of the crew are incised on the north face, below an incised cross. A dedicatory tablet is mounted on the South face. The tablet has incised white lettering and the RAF badge top centre.\n\nThe memorial was commissioned by Lady Marjorie Cecilia Wilson,\u00a0the mother of the pilot (Robert Wilson).\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nAn explanatory plaque was added to the rear of the stone in 1991.\n\nThe memorial was extensively restored in 1991 by the Torbay & District Aircrew Association.\n\nPlaque Addition (1991): Addition of an explanatory plaque to the rear of the stone.",
   "latitude": 50.6031,
   "longitude": -3.8302,
   "maintainer": {
@@ -198,5 +193,9 @@
   },
   "crash_category": "weather",
   "narrative_quality_score": 5,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/68/493/large_img_0924iwm.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/68/494/large_img_0927iwm.jpg"
+  ]
 }

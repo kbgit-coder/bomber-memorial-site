@@ -225,7 +225,7 @@
       "fate": "Unknown"
     }
   ],
-  "memorial_details": "Name: Handley Page Halifax LK789\nType: Board / Plaque / Tablet\nDescription: White plastic plaque surmounting an angled brick plinth. The plaque is incised with a dedication in black lettering and in the top left corner is the crest of 76 Squadron.\nInscription: This plaque is a memorial to the crew of/ RAF Halifax LK789/ of 76 Squadron Holme-on-Spalding Moor/ which crashed near Colony Farm Menea/ on the 25th April 1944 with the loss of six crewmen./ [crew names inscribed on memorial]\nLocation: Station Road Manea Fenland Cambridgeshire PE15 0JL England\nGrid Ref: TL 47964 89699\nCoordinates: 52.485151448978,0.177611891502\nPhotos: https://media.iwm.org.uk/ciim5/memorials/121/7/large_ca_manea_1_0.jpg; https://media.iwm.org.uk/ciim5/memorials/170/863/large_97988.jpg; https://media.iwm.org.uk/ciim5/memorials/173/242/large_20200625_manea_6.jpg; https://media.iwm.org.uk/ciim5/memorials/173/243/large_20200625_manea_2.jpg; https://media.iwm.org.uk/ciim5/memorials/173/244/large_20200625_manea_12.jpg\n\nMemorial Display: The memorial displays the Handley Page Halifax LK789 aircraft, which is associated with World War II.",
+  "memorial_details": "White plastic plaque surmounting an angled brick plinth. The plaque is incised with a dedication in black lettering and in the top left corner is the crest of 76 Squadron.\n\nMemorial Display: The memorial displays the Handley Page Halifax LK789 aircraft, which is associated with World War II.",
   "narrative": "Halifax III LK789, coded MP-L, left Holme on Spalding Moor with 76 Squadron on the night of 24 April 1944, tasked with bombing Karlsruhe. Returning across England, the aircraft came down near Manea, Cambridgeshire. Six of the seven crew were killed: Pilot Officer Douglas Robert Dibbins, aged 21, Sergeant Gerard John Head, Sergeant Kenneth Craven Oswald, John R Bathe, James G Davenport, and Norris M Harrison. The sole survivor was rear gunner Flight Sergeant John Anderson.",
   "additional_contributors": [
     {
@@ -239,5 +239,12 @@
   },
   "crash_category": "unknown",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/121/7/large_ca_manea_1_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/170/863/large_97988.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/242/large_20200625_manea_6.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/243/large_20200625_manea_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/244/large_20200625_manea_12.jpg"
+  ]
 }

@@ -129,7 +129,7 @@
       "nationality": "British"
     },
     {
-      "name": "Flt Sgt. Ronald Charles Battersby",
+      "name": "Ronald Charles Battersby",
       "rank": "Sgt",
       "fate": "Unknown",
       "role": "Navigator",
@@ -141,7 +141,7 @@
   "cause_of_loss": "Aircraft flew into 200ft Type 54 CHEL (Chain Home Extra Low) radar mast on Bard Hill in poor visibility; misunderstood W/T messages may have contributed",
   "operation_type": "Operational",
   "operation_target": "Bombing operation to Leuna/Merseburg synthetic oil plant",
-  "memorial_details": "Name: Avro Lancaster LM720\nType: Other memorial\nDescription: Wall-hung paper scroll mounted on black backboard. Hand-drawn side elevation of Lancaster at top with handwritten dedication and names below. 61 Squadron crest and drawing of Home-Chain radar tower at bottom left.\nInscription: LANCASTER MK III LM720, 61 SQUADRON/SKELLINGTHORPE/ DEDICATED TO THE MEMORY OF THE CREW/ OF THE ABOVE AIRCRAFT WHO DIED/ WHEN IT CRASHED INTO BARD HILL CHEL/ RADAR PYLON RETURNING FROM A RAID / ON MERSEBURG, ON 15TH JANUARY 1945. [crew names inscribed on memorial]\nLocation: St Nicholas' Church Grouts Lane Salthouse North Norfolk Norfolk NR25 7XQ England\nGrid Ref: TG 07621 43682\nCoordinates: 52.950323851180,1.089064678768\nPhotos: https://media.iwm.org.uk/ciim5/memorials/132/279/large_nf_salthouse_2.jpg; https://media.iwm.org.uk/ciim5/memorials/132/280/large_nf_salthouse_3.jpg; https://media.iwm.org.uk/ciim5/memorials/132/281/large_nf_salthouse_4.jpg\n\nMemorial Unveiling: The memorial is dedicated to the Avro Lancaster LM720 aircraft and its crew. It commemorates their service during World War II.\n\nInstallation of Coast defence No. 1 Mk VI radar (Mid-1943): Bard Hill was equipped with a coast defence No. 1 Mk VI radar mounted on top of a War Office 200' steel tower using the high powered equipment known as the Naval Type 277.",
+  "memorial_details": "Wall-hung paper scroll mounted on black backboard. Hand-drawn side elevation of Lancaster at top with handwritten dedication and names below. 61 Squadron crest and drawing of Home-Chain radar tower at bottom left.\n\nMemorial Unveiling: The memorial is dedicated to the Avro Lancaster LM720 aircraft and its crew. It commemorates their service during World War II.\n\nInstallation of Coast defence No. 1 Mk VI radar (Mid-1943): Bard Hill was equipped with a coast defence No. 1 Mk VI radar mounted on top of a War Office 200' steel tower using the high powered equipment known as the Naval Type 277.",
   "maintainer": {
     "organisation": "Salthouse Parish Meeting",
     "maintainer_type": "parish-council"
@@ -270,11 +270,6 @@
     "last_known_event": "2026",
     "events": [
       {
-        "name": "2026 Memorial Service at Skellingthorpe",
-        "date": "7 June 2026",
-        "description": "Annual service at Birchwood memorial (11:30) and village memorial (14:00). AGM Saturday 6 June at 17:00."
-      },
-      {
         "name": "Commissioning as Coast defence (CD)/Chain Home Low radar station",
         "date": "Not specified in the text",
         "description": "Bard Hill was sited on the hill to the south of Salthouse on the north Norfolk coast for this purpose."
@@ -294,5 +289,10 @@
   "community_connection": "The Avro Lancaster LM720 is a memorial dedicated to the crew of a World War II bomber. This memorial likely represents a personal connection or community tribute to the fallen airmen.",
   "crash_category": "weather",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/132/279/large_nf_salthouse_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/132/280/large_nf_salthouse_3.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/132/281/large_nf_salthouse_4.jpg"
+  ]
 }

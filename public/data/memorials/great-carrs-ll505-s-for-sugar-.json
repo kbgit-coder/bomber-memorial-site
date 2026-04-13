@@ -129,7 +129,7 @@
   ],
   "cause_of_loss": "Pilot descended below cloud base to obtain visual fix; aircraft failed to clear ridge by a few feet",
   "operation_type": "Training",
-  "memorial_details": "Name: Handley Page Halifax LL505\nType: Trophy / Relic\nDescription: A rough cairn made of local stones and wreckage of the aircraft undercarriage topped by a wooden cross with a small metal plaque with a badge on the cross.\nInscription: Metal Plaque-HALIFAX BOMBER/LL 505-\u2018S\u2019 FOR SUGAR/RCAF/OCTOBER 22, 1944 Slate Plaque-In Memory of/8 Crew Members of Halifaz LL505/From No. 1659 HCU Topcliffe/who lost their lives on this site/on 22nd October 1944/[names]/RIP\nLocation: 1 1/2 miles SW of Wrynose Pass Mountain summit South of the Three Shire Stone on Wrynose Pass between Cockley Beck & Little Langdale South Lakeland Cumbria LA20 6EG England\nGrid Ref: NY 27226 00833\nCoordinates: 54.397748134172,-3.122407739920\nPhotos: https://media.iwm.org.uk/ciim5/memorials/42/892/halifax_ll505_setting.jpg; https://media.iwm.org.uk/ciim5/memorials/42/893/halifax_ll505_inscription.jpg; https://media.iwm.org.uk/ciim5/memorials/42/894/halifax_ll505_cross_inscription.jpg",
+  "memorial_details": "A rough cairn made of local stones and wreckage of the aircraft undercarriage topped by a wooden cross with a small metal plaque with a badge on the cross.",
   "latitude": 54.3988,
   "longitude": -3.1248,
   "maintainer": {
@@ -211,5 +211,10 @@
     "1659 HCU"
   ],
   "crash_category": "training",
-  "narrative_quality_score": 5
+  "narrative_quality_score": 5,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/42/892/halifax_ll505_setting.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/42/893/halifax_ll505_inscription.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/42/894/halifax_ll505_cross_inscription.jpg"
+  ]
 }

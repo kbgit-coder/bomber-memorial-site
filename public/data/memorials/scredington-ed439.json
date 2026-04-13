@@ -162,16 +162,11 @@
       "rank": null
     }
   ],
-  "memorial_details": "Name: Avro Lancaster ED439\nType: Stone of remembrance\nDescription: Stone of remembrance made of white marble, carved with pathfinder eagle at the top.\nInscription: ROYAL AIR FORCE/NO 83 (PATHFINDER) SQN/TO THE MEMORY OF THOSE/AIRMEN KILLED IN AIRCRAFT NO ED439 OL-N/CRASHED DURING A TRAINING FLIGHT/AT HIGHGATE FARM SCREDINGTON/ 18th JUNE 1943/[crew names inscribed on memorial]/LEST WE FORGET\nLocation: Chancel Wall St. Andrew's Church Church Lane Scredington North Kesteven Lincolnshire NG34 OAG England\nGrid Ref: TF 09594 40398\nCoordinates: 52.949780949880,-0.370271106754\nPhotos: https://media.iwm.org.uk/ciim5/memorials/12/158/large_67597a___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/159/large_67597b___christine_pywell.jpg; https://media.iwm.org.uk/ciim5/memorials/12/160/large_67597c___christine_pywell.jpg\n\nMemorial Display: The Avro Lancaster ED439 memorial displays the aircraft's details and history.",
+  "memorial_details": "Stone of remembrance made of white marble, carved with pathfinder eagle at the top.\n\nMemorial Display: The Avro Lancaster ED439 memorial displays the aircraft's details and history.",
   "narrative": "On 18 June 1943, Pilot Officer Cummings took off from RAF Wyton at the controls of Lancaster ED439, carrying seven crew members and two passengers on a daytime bombing target exercise. The aircraft, assigned to 83 Squadron's Pathfinder Force, failed to complete the training detail, diving through heavy cloud before crashing near Highgate Farm, Scredington, Lincolnshire. All nine on board were killed. Cummings was 30 years old and had served with the Royal Australian Air Force; his son, Peter Harrold Cummings, had been born just three months earlier, on 12 March 1943. The crew \u2014 T.J. Bond, Harry William Cheshire, H.W. Luker, John Roughley, Francis Neville Sloss, Robert Allan Taylor, Francis William Wilcox, and Norman Woodcock \u2014 are commemorated at a stone of remembrance at Scredington.",
   "inscription": "ROYAL AIR FORCE\nNO 83 (PATHFINDER) SQN\nTO THE MEMORY OF THOSE\nAIRMEN KILLED IN AIRCRAFT NO ED439 OL-N\nCRASHED DURING A TRAINING FLIGHT\nAT HIGHGATE FARM SCREDINGTON\n18th JUNE 1943\n[crew names inscribed on memorial]\nLEST WE FORGET",
   "remembrance": {
     "events": [
-      {
-        "name": "Crash near Scredington, United Kingdom",
-        "date": "pre 1943",
-        "description": "Fragments of Avro Lancaster Mk I ED439 found at a crash site. Associated with Pilot Officer Max Keiran Cummings."
-      },
       {
         "name": "Training in Australia",
         "date": "1942",
@@ -192,5 +187,10 @@
   "crash_category": "ferry-transport",
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet",
-  "community_connection": ""
+  "community_connection": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/12/158/large_67597a___christine_pywell.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/12/159/large_67597b___christine_pywell.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/12/160/large_67597c___christine_pywell.jpg"
+  ]
 }

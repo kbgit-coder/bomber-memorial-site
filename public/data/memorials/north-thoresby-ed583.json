@@ -137,7 +137,7 @@
   ],
   "cause_of_loss": "Aircraft broke up in the air (structural failure)",
   "operation_type": "Training",
-  "memorial_details": "Name: Avro Lancaster ED583 - Plaque\nType: Board / Plaque / Tablet\nDescription: Wall mounted brass plaque on wooden backboard. In the centre of the plaque are small engravings of an RAF Lancaster and RAF badge. There is a Latin cross in between the two. To the right of the plaque is a framed newspaper page from the Grimsby Telegraph with a report of the Dedication Ceremony of the mosaic memorial to Lancaster RD583 on the village green. The same Aircraft Group (LARG) also placed a plaque on the village green in 2002 (IWM ref. 54037).\nInscription: On the 4th October 1943 Lancaster ED583 of 100 Squadron suffered a/ structural failure while on a flight from RAF Grimsby, the aircraft fell onto/ the village of North Thoresby killing the entire crew./ In honoured memory of/ [crew names inscribed on memorial]/ Lest we forget/ This plaque was commissioned by the Lincolnshire Aircraft Recovery Group/ and unveiled by kind permission of the Parish Council\nLocation: On the east wall of the hall North Thoresby Village Hall High Street (B1201) North Thoresby East Lindsey Lincolnshire DN36 5QL England\nGrid Ref: TF 29129 98495\nCoordinates: 53.467368219368,-0.056202693557\nPhotos: https://media.iwm.org.uk/ciim5/memorials/77/546/large_ed583_plaque_0.jpg; https://media.iwm.org.uk/ciim5/memorials/77/547/large_ed583_plaque_newspaper_cutting.jpg; https://media.iwm.org.uk/ciim5/memorials/77/548/large_plaques_in_context.jpg; https://media.iwm.org.uk/ciim5/memorials/77/549/large_north_thoresby_village_hall.jpg\n\nThe Avro Lancaster ED583 plaque is a memorial dedicated to the bomber aircraft, specifically this marked plane.\n\n100 squadron memorial service (11th November 2002): The North Thoresby memorial plaque was taken to this service at Holton-le-Clay, blessed by a priest, and then placed in the village hall.\n\nThe Lincolnshire Aircraft Recovery Group have erected a plaque in memory of this crew in the village hall.\n\nUnspecified Memorial Service: A plaque dedicated to the Avro Lancaster ED583, commemorating its role in World War 2.",
+  "memorial_details": "Wall mounted brass plaque on wooden backboard. In the centre of the plaque are small engravings of an RAF Lancaster and RAF badge. There is a Latin cross in between the two. To the right of the plaque is a framed newspaper page from the Grimsby Telegraph with a report of the Dedication Ceremony of the mosaic memorial to Lancaster RD583 on the village green. The same Aircraft Group (LARG) also placed a plaque on the village green in 2002 (IWM ref. 54037).\n\nThe Avro Lancaster ED583 plaque is a memorial dedicated to the bomber aircraft, specifically this marked plane.\n\n100 squadron memorial service (11th November 2002): The North Thoresby memorial plaque was taken to this service at Holton-le-Clay, blessed by a priest, and then placed in the village hall.\n\nThe Lincolnshire Aircraft Recovery Group have erected a plaque in memory of this crew in the village hall.\n\nUnspecified Memorial Service: A plaque dedicated to the Avro Lancaster ED583, commemorating its role in World War 2.",
   "latitude": 53.46652,
   "longitude": -0.05573,
   "maintainer": {
@@ -298,5 +298,11 @@
   "community_connection": "The plaque was created and shared by Colin Murray, who is presumably an individual with a connection to the aircraft or its history.",
   "crash_category": "training",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/77/546/large_ed583_plaque_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/77/547/large_ed583_plaque_newspaper_cutting.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/77/548/large_plaques_in_context.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/77/549/large_north_thoresby_village_hall.jpg"
+  ]
 }

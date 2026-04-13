@@ -128,7 +128,7 @@
   "squadron_aliases": [
     "USAAF"
   ],
-  "memorial_details": "Name: Boeing B-17 Flying Fortress 43-39035\nType: Seat\nDescription: Dedicatory wooden bench with metal plaque. Also a memorial sculpture, carved from an ancient Surrey oak tree with some metal from the crash buried in the sculpture.\nInscription: PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF/THE NINE U.S. AIRMEN WHO DIED HERE IN 1945/\nLocation: To the west of Reigate Fort. Reigate Hill Reigate Reigate And Banstead Surrey RH2 9RN England\nGrid Ref: TQ 25459 52078\nCoordinates: 51.254075825214,-0.203582205137\nPhotos: https://media.iwm.org.uk/ciim5/memorials/40/774/large_73208a_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/776/large_73208c_david_ayling_sept_2017.jpg; https://media.iwm.org.uk/ciim5/memorials/40/775/large_73208b_david_ayling_sept_2017.jpg\n\nThe memorial sculpture, created by Surrey artist Roger Day was unveiled on the 70th anniversary of the crash.\n\nThe memorial sculpture, created by Surrey artist Roger Day, was unveiled on the 70th anniversary of the crash.\n\nThe sculpture, dedicated on the 70th anniversary of the crash, was created by Surrey-based wood sculptor Roger Day.\n\nMemorial Display (Sept 2017): Boeing B-17 Flying Fortress 43-39035 was displayed as a memorial.\n\nExhibition (Not specified): Display of parts from the aircraft at Reigate Manor Hotel.\n\nUnveiling of the Memorial (70th anniversary of the crash (March 19, 2015)): The memorial sculpture was unveiled. Created by Surrey artist Roger Day from ancient Surrey oak, it includes metal recovered from the crash site and is placed to match the aircraft's wingspan.",
+  "memorial_details": "Dedicatory wooden bench with metal plaque. Also a memorial sculpture, carved from an ancient Surrey oak tree with some metal from the crash buried in the sculpture.\n\nThe memorial sculpture, created by Surrey artist Roger Day was unveiled on the 70th anniversary of the crash.\n\nThe memorial sculpture, created by Surrey artist Roger Day, was unveiled on the 70th anniversary of the crash.\n\nThe sculpture, dedicated on the 70th anniversary of the crash, was created by Surrey-based wood sculptor Roger Day.\n\nMemorial Display (Sept 2017): Boeing B-17 Flying Fortress 43-39035 was displayed as a memorial.\n\nExhibition (Not specified): Display of parts from the aircraft at Reigate Manor Hotel.\n\nUnveiling of the Memorial (70th anniversary of the crash (March 19, 2015)): The memorial sculpture was unveiled. Created by Surrey artist Roger Day from ancient Surrey oak, it includes metal recovered from the crash site and is placed to match the aircraft's wingspan.",
   "narrative": "A USAAF B-17 Flying Fortress was lost over Reigate Hill, Surrey, carrying both regular aircrew and US Air Attach\u00e9 Colonel Dan Benson. Pilot Robert S Griffin, 24 years old, was in command; co-pilot Herbert S Geller, Royal Runyon, Robert Manbeck, Thomas Hickey, and Philip were also among those aboard. The cause of the crash is not recorded in available sources. All crew members were killed. The site is today marked by a memorial sculpture titled *Wing Tips*, created by Surrey artist Roger Day, honouring those who died here.",
   "inscription": "PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF\nTHE NINE U.S. AIRMEN WHO DIED HERE IN 1945\n",
   "remembrance": {
@@ -149,11 +149,6 @@
   },
   "community_connection": "Molten metal recovered from the crash site is incorporated into the sculpture.",
   "crew": [
-    {
-      "name": "Philip",
-      "rank": null,
-      "fate": "Unknown"
-    },
     {
       "name": "Robert Manbeck Robert Manbeck",
       "rank": null,
@@ -197,21 +192,16 @@
       "fate": "Unknown",
       "role": "Pilot",
       "age": 24
-    },
-    {
-      "name": "Griffins",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Hickey",
-      "rank": null,
-      "fate": "Unknown"
     }
   ],
   "crash_category": "unknown",
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet",
   "last_validated": "2026-04-13",
-  "crash_date_review": "Auto-corrected to 1945 but reverted \u2014 just a year, not a date"
+  "crash_date_review": "Auto-corrected to 1945 but reverted \u2014 just a year, not a date",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/40/774/large_73208a_david_ayling_sept_2017.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/40/776/large_73208c_david_ayling_sept_2017.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/40/775/large_73208b_david_ayling_sept_2017.jpg"
+  ]
 }

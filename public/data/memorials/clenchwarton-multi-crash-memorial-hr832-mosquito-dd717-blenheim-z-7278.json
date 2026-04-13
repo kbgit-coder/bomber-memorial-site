@@ -216,5 +216,11 @@
   ],
   "crash_category": "takeoff-landing",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/98/952/large_64994_ian_bridge_11_august_2020.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/834/large_64994a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/835/large_64994b.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/836/large_64994c.jpg"
+  ]
 }

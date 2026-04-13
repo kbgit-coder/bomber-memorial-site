@@ -122,7 +122,7 @@
   "longitude": -1.3335,
   "cause_of_loss": "Engine fire; flew into cloud without wireless operator; crashed attempting forced landing",
   "operation_type": "Training",
-  "memorial_details": "Name: Vickers Wellington BK517\nType: Board / Plaque / Tablet\nDescription: Large block of Hornton stone incorporating an engraved bronze plaque with RAF insignia badge at top centre. The whole memorial is enclosed by a circular metal railing fence.\nInscription: RAF badge : PER ARDUA AD ASTRA / Inscription : THIS MEMORIAL IS DEDICATED TO THE AIRMEN / WHO TRAGICALLY LOST THEIR LIVES / ON 28th DECEMBER 1942 / WHILST FLYING THEIR WELLINGTON BOMBER BK517 / WHICH CAME DOWN NEAR THIS SITE / (6 Names)\nLocation: Approx. 400 metres south across 2 fields from Wykham Lane, Wellington Bomber BK517 Memorial Permissive access from Wykham Lane, Bodicote Cherwell Oxfordshire OX15 4DW England\nGrid Ref: SP 45743 37656\nCoordinates: 52.035432015626,-1.334570119734\nPhotos: https://media.iwm.org.uk/ciim5/memorials/79/189/large_2019_10_24_08_37_51.jpg; https://media.iwm.org.uk/ciim5/memorials/175/336/large_63182.jpg; https://media.iwm.org.uk/ciim5/memorials/175/337/large_63182a.jpg\n\nA memorial was dedicated in June 2012 near the crash site to remember the crew members who were killed.\n\nThe memorial consists of a large boulder with an inscribed plaque, located approximately 400 metres south across two fields from Wykham Lane.\n\nDedication of Crash Site Memorial (June 2012): A large boulder with a plaque was placed near the crash site to remember the crew of Wellington Bomber BK517.\n\nIt is made of Horton stone with rough lettering on a plaque.\n\nMemorial Display: The memorial displays the Vickers Wellington BK517 aircraft, which is likely commemorating WW2 personnel or events related to this type of aircraft.",
+  "memorial_details": "Large block of Hornton stone incorporating an engraved bronze plaque with RAF insignia badge at top centre. The whole memorial is enclosed by a circular metal railing fence.\n\nA memorial was dedicated in June 2012 near the crash site to remember the crew members who were killed.\n\nThe memorial consists of a large boulder with an inscribed plaque, located approximately 400 metres south across two fields from Wykham Lane.\n\nDedication of Crash Site Memorial (June 2012): A large boulder with a plaque was placed near the crash site to remember the crew of Wellington Bomber BK517.\n\nIt is made of Horton stone with rough lettering on a plaque.\n\nMemorial Display: The memorial displays the Vickers Wellington BK517 aircraft, which is likely commemorating WW2 personnel or events related to this type of aircraft.",
   "maintainer": {
     "organisation": "Bodicote Parish Council",
     "maintainer_type": "parish-council",
@@ -245,5 +245,10 @@
   },
   "community_connection": "",
   "crash_category": "training",
-  "narrative_quality_score": 5
+  "narrative_quality_score": 5,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/79/189/large_2019_10_24_08_37_51.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/336/large_63182.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/337/large_63182a.jpg"
+  ]
 }

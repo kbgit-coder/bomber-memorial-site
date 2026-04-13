@@ -87,11 +87,6 @@
       "fate": "Unknown"
     },
     {
-      "name": "Baker",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
       "name": "Thomas Gedling",
       "rank": null,
       "fate": "Unknown"
@@ -125,7 +120,7 @@
     "207 Squadron",
     "207 Sqdn."
   ],
-  "memorial_details": "Name: Avro Lancaster DV361\nType: Cairn\nDescription: Cairn with rectangular stone fixed to front. Metal inscription plaque fixed to top. Stone bears simple cross carved on front. Lancaster bomber top centre of inscription plaque flanked by RAF Badge on left and Squadron Badge on right. To the left of the memorial stone is a large coloured display board giving full details of the aircraft crash.\nInscription: Plaque: IN MEMORY OF/ [crew names inscribed on memorial]/ Who lost their lives when Lancaster DV 361 of 207 Squadron/ crashed nearby on 22nd December 1943/ WE WILL REMEMBER THEM/ Small metal tag below plaque: DEDICATED 16-09-98\nLocation: At entrance to Lyveden Airfield Harley Way Lyveden East Northamptonshire Northamptonshire NN14 3JD England\nGrid Ref: SP 96378 85876\nCoordinates: 52.462331000000,-0.582878890000\nPhotos: https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg; https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg; https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg; https://media.iwm.org.uk/ciim5/memorials/175/62/large_37442a.jpg\n\nMemorial Display: The memorial displays the Avro Lancaster DV361, a type of bomber used during World War II.\n\nMemorial Unveiling (1998-09-16): Unveiled by Sqn Ldr John Mitchell DFC, who was Signals Leader on 207 Sqn at RAF Spilsby at the time of the crash. A fly past was performed by the BBMF Lancaster, Hurricane and a Spitfire.",
+  "memorial_details": "Cairn with rectangular stone fixed to front. Metal inscription plaque fixed to top. Stone bears simple cross carved on front. Lancaster bomber top centre of inscription plaque flanked by RAF Badge on left and Squadron Badge on right. To the left of the memorial stone is a large coloured display board giving full details of the aircraft crash.\n\nMemorial Display: The memorial displays the Avro Lancaster DV361, a type of bomber used during World War II.\n\nMemorial Unveiling (1998-09-16): Unveiled by Sqn Ldr John Mitchell DFC, who was Signals Leader on 207 Sqn at RAF Spilsby at the time of the crash. A fly past was performed by the BBMF Lancaster, Hurricane and a Spitfire.",
   "narrative": "On a cross-country test flight from RAF Spilsby, Lancaster DV361 of 207 Squadron developed an engine fire that the crew could not extinguish, forcing them to bail out over Northamptonshire. The aircraft came down near Brigstock, on the Duke of Gloucester's estate. Three crew members did not survive: F/Sgt Cecil Ryall, an Australian Wireless Operator/Air Gunner; Sgt Thomas Higgins, Rear Gunner; and Sgt George O'Neill, Mid Upper Gunner. Those who successfully bailed out did not long outlive their crewmates \u2014 they were subsequently killed in action. The three men are commemorated by a memorial close to the crash site, unveiled in September 1998.",
   "remembrance": {
     "events": []
@@ -133,5 +128,11 @@
   "community_connection": "The memorial likely commemorates a specific Lancaster bomber or its crew members, contributing to the broader community connection with WW2 history. The memorial commemorating them was erected close to the crash site on the Duke of Gloucester's estate with permission from the Duke and through community effort. It was unveiled on September 16th, 1998 by Sqn Ldr John Mitchell DFC, who was Signals Leader on 207 Sqn at RAF Spilsby during the crash.",
   "crash_category": "mid-air-collision",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/62/large_37442a.jpg"
+  ]
 }

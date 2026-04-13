@@ -132,7 +132,7 @@
   "longitude": -0.8009,
   "cause_of_loss": "Con rod broke on inner starboard engine; fire spread; undercarriage lowered causing loss of control",
   "operation_type": "Training",
-  "memorial_details": "Name: Avro Lancaster W4270\nType: Trophy / Relic\nDescription: A Lancaster propeller blade mounted on local limestone top stone with pointed stone plinth base. Two slate tablets with incised lettering and double straight line border, mounted flat in front of propeller.\nInscription: Tablet, left: This memorial is to/ commemorate the lives of/ the crew of Lancaster W4270/ which crashed one mile/ North West of this site/ on the 18th February 1943/ \"Per Purum Tonates\"/ \"Thundering through the clean air\" Tablet, right: [crew names inscribed on memorial]\nLocation: In the new burial grounds down the Church Walk St Marys Church High Street Staunton-in-the-vale Newark And Sherwood Nottinghamshire NG13 9PE England\nGrid Ref: SK 805 438\nCoordinates: 52.985503594181,-0.802330104399\nPhotos: https://media.iwm.org.uk/ciim5/memorials/8/918/large_ukniwm_61723_cdi_ablewhite_1.jpg; https://media.iwm.org.uk/ciim5/memorials/8/919/large_ukniwm_61723_cdi_ablewhite_2.jpg; https://media.iwm.org.uk/ciim5/memorials/175/330/large_61723a.jpg\n\nMemorial Display: The Avro Lancaster W4270 is a memorial item displayed at the Imperial War Museums. It commemorates the service and sacrifice of those who flew in Lancasters during World War II.",
+  "memorial_details": "A Lancaster propeller blade mounted on local limestone top stone with pointed stone plinth base. Two slate tablets with incised lettering and double straight line border, mounted flat in front of propeller.\n\nMemorial Display: The Avro Lancaster W4270 is a memorial item displayed at the Imperial War Museums. It commemorates the service and sacrifice of those who flew in Lancasters during World War II.",
   "maintainer": {
     "organisation": "Staunton in the Vale Parish Meeting",
     "maintainer_type": "parish-council",
@@ -265,5 +265,10 @@
   },
   "community_connection": "Di Ablewhite, a community member, created and shared an image of the Avro Lancaster W4270 memorial.",
   "crash_category": "training",
-  "narrative_quality_score": 5
+  "narrative_quality_score": 5,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/8/918/large_ukniwm_61723_cdi_ablewhite_1.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/8/919/large_ukniwm_61723_cdi_ablewhite_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/330/large_61723a.jpg"
+  ]
 }

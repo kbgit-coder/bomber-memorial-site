@@ -114,7 +114,7 @@
   "cause_of_loss": "Aircraft damaged by flak and enemy fighter fire over target; engine trouble; attempted two approaches to Wattisham Airfield but crashed into a pond on third attempt",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing raid on Mainz, Germany",
-  "memorial_details": "Name: Short Stirling N3756\nType: Other structure\nDescription: Aluminium Plaque on oak posts on edge of crater caused by crash\nInscription: THIS FENCE HAS BEEN ERECTED / IN REMEMBRANCE OF THE / BRAVE CREW OF YOUNG AIRMEN / WHO WERE KILLED AFTER A / SUCCESSFUL BOMBING RAID ON / MAINZ, 12TH AUGUST 1942 / THEY WERE OF 15 SQUADRON BASED AT / WYTON, CAMBRIDGESHIRE. THEY WERE FLYING / STIRLING BOMBER LS-C. N3756 / CREW / (6 NAMES) / (1 *NAME) / *SOLE SURVIVOR / THE AIRCRAFT WAS DAMAGED BY FLAK AND ENEMY FIGHTER FIRE. / AFTER MAKING TWO ATTEMPTS TO LAND AT WATTISHAM / AIRFIELD, DUE TO ENGINE TROUBLE AND INJURIES TO SOME OF / THE CREW, THE AIRCRAFT FINALLY CRASH LANDED IN THIS POND / WHILST MAKING ONE FINAL ATTEMPT TO REACH WATTISHAM. / LET US REMEMBER THEM. / P.RYAN - GWENT / J.B.HAMMOND - SUFFOLK / 1993\nLocation: Francis House Brettenham Babergh Suffolk IP7 7NZ England\nGrid Ref: TL 97563 54245\nCoordinates: 52.151133150674,0.886355138844\nPhotos: https://media.iwm.org.uk/ciim5/memorials/66/944/large_img_2585a.jpg; https://media.iwm.org.uk/ciim5/memorials/66/945/large_img_2587a.jpg",
+  "memorial_details": "Aluminium Plaque on oak posts on edge of crater caused by crash",
   "maintainer": {
     "organisation": "Brettenham Parish Council",
     "maintainer_type": "parish-council"
@@ -173,5 +173,9 @@
     "15 Sqdn."
   ],
   "crash_category": "operational-combat",
-  "narrative_quality_score": 5
+  "narrative_quality_score": 5,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/66/944/large_img_2585a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/66/945/large_img_2587a.jpg"
+  ]
 }

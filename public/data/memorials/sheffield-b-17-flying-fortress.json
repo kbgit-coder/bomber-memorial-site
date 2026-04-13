@@ -151,7 +151,7 @@
   "cause_of_loss": "Heavily damaged by enemy fighters over Denmark; engines failing; pilot aborted landing approach to avoid children playing in park",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing mission over Aalborg, Denmark",
-  "memorial_details": "Name: B-17 &quot;Mi Amigo&quot; 42-31322 - 305th Bomb Group USAAF\nType: Stone of remembrance\nDescription: Rough stone of remembrance with two attached plaques- the upper being the dedication plaque, the lower for the names. Lettering in low relief. Ten associated American Oak trees. In 2019 the memorial was supplemented by a new flagpole and an additional American Oak.\nInscription: ERECTED BY/ SHEFFIELD R.A.F. ASSOCIATION/ IN MEMORY OF/ THE TEN CREW OF U.S.A.A.F. BOMBER/ WHICH CRASHED IN THIS PARK/ 22-2-1944/ PER ARDUA AD ASTRA\nLocation: 77 Endcliffe Park Rustlings Road Sheffield Sheffield South Yorkshire S11 7AB England\nGrid Ref: SK 32729 85768\nCoordinates: 53.367773675892,-1.509582544048\nPhotos: https://media.iwm.org.uk/ciim5/memorials/174/248/27509_raf_association_r.jpg; https://media.iwm.org.uk/ciim5/memorials/164/454/large_27509_raf_association_sheffield_branch_august_2023_2.jpg; https://media.iwm.org.uk/ciim5/memorials/70/768/large_img_6501_0.jpg; https://media.iwm.org.uk/ciim5/memorials/70/769/large_img_6505.jpg; https://media.iwm.org.uk/ciim5/memorials/78/78/large_mamemorial150919.jpg\n\nMemorial Display: A display commemorating the B-17 'Mi Amigo' 42-31322 of the 305th Bomb Group USAAF.",
+  "memorial_details": "Rough stone of remembrance with two attached plaques- the upper being the dedication plaque, the lower for the names. Lettering in low relief. Ten associated American Oak trees. In 2019 the memorial was supplemented by a new flagpole and an additional American Oak.\n\nMemorial Display: A display commemorating the B-17 'Mi Amigo' 42-31322 of the 305th Bomb Group USAAF.",
   "latitude": 53.3686,
   "longitude": -1.5045,
   "maintainer": {
@@ -268,5 +268,12 @@
   },
   "community_connection": "",
   "crash_category": "operational-combat",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/174/248/27509_raf_association_r.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/164/454/large_27509_raf_association_sheffield_branch_august_2023_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/70/768/large_img_6501_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/70/769/large_img_6505.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/78/78/large_mamemorial150919.jpg"
+  ]
 }

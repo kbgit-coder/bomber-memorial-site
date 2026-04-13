@@ -125,11 +125,6 @@
       "rank": "\u2014"
     },
     {
-      "name": "Marsden",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
       "name": "Hubert Terry Air Bomber",
       "rank": null,
       "fate": "Unknown"
@@ -148,7 +143,7 @@
   "cause_of_loss": "Shot down by Ju88C night fighter during Operation Gisela (Luftwaffe intruder operation over England)",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing Ladbergen aqueducts (Dortmund-Ems Canal)",
-  "memorial_details": "Name: Crew Of Lancaster Aircraft (Serial # MK 442)\nType: Board / Plaque / Tablet\nDescription: A copper and bronze plaque mounted on a wood backboard affixed to a tree.\nInscription: WELLINGTONIA GIGANTEA/ THIS TREE WAS STRUCK BY LANCASTER MK III 442 V / OF BOMBER COMMAND R.A.F. SHOT DOWN IN FLAMES / BY A JU 188 ON THE NIGHT OF 3/4 MARCH 1945 / THE ENTIRE CREW OF THE LANCASTER PERISHED./ THE CREW COMPRISED/ [crew names inscribed on memorial]/ MAY THEY REST IN PEACE\nLocation: On private land near the approach to Humberside airfield. Brocklesby Estate Park Brocklesby West Lindsey Lincolnshire DN41 8PJ England\nGrid Ref: TA 13700 10800\nCoordinates: 53.581474457804,-0.284046770841\nPhotos: https://media.iwm.org.uk/ciim5/memorials/16/700/large_34838_1_d_deptford.jpg; https://media.iwm.org.uk/ciim5/memorials/106/934/large_34834.jpg; https://media.iwm.org.uk/ciim5/memorials/16/701/large_34838_2_d_deptford.jpg\n\nMemorial Dedication: Dedication of the memorial for the crew of Lancaster Aircraft (Serial # MK 442)",
+  "memorial_details": "A copper and bronze plaque mounted on a wood backboard affixed to a tree.\n\nMemorial Dedication: Dedication of the memorial for the crew of Lancaster Aircraft (Serial # MK 442)",
   "latitude": 53.5853,
   "longitude": -0.2754,
   "maintainer": {
@@ -254,5 +249,10 @@
   "community_connection": "The Crew Of Lancaster Aircraft (Serial # MK 442) memorial was created and shared by D Deptford and Matty Crudas. With help from 44 (R) Sqn Association, including its Chairman Gp Capt (Retd) John Laycock and Secretary Sqn Ldr Henry Horscoft, they contacted Lord Yarborough\u2019s Brocklesby Estate Office and Flt Lt Terry Marsden RAFVR (Retd), the local RAFA representative at Kirmington. Due to ill health and rough terrain, the Association's Chairman and Secretary couldn't attend, so the author represented them and made the introduction.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/16/700/large_34838_1_d_deptford.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/106/934/large_34834.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/16/701/large_34838_2_d_deptford.jpg"
+  ]
 }

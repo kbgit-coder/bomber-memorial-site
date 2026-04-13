@@ -25,7 +25,7 @@
   "cause_of_loss": "Pilot lost control on takeoff; aircraft stalled, inverted and crashed",
   "operation_type": "Operational",
   "operation_target": "Operational -- bombing Berlin",
-  "memorial_details": "Name: Avro Lancaster ED393\nType: Stone of remembrance\nDescription: Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\nInscription: ON 27TH NOVEMBER 1943 AT 02:15/ LANCASTER BOMBER ED393 VN-K/CRASHED NEAR THIS SPOT./ AIRBORNE FROM SKELLINGTHORPE FOR BERLIN AT 17:08/ BUT DIVERTED ON ITS RETURN DUE TO FOG,/ FIRST TO MELBOURNE AND THEN POCKLINGTON/ BEFORE RUNNING OUT OF FUEL, STRIKING TREES, A FARMHOUSE/ AND CRASHING INTO INGS HOUSE./ [crew names inscribed on memorial]/ DEDICATED TO THEIR MEMORY BY/ HH 'CHARLIE' ROSS/ WITNESS AND SON OF ONE OF THE RESCUERS\nLocation: Canal Head picnic area Off York Road (A1079 Pocklington East Yorkshire Antrim YO42 1NW England\nGrid Ref: SE 79980 47340\nCoordinates: 53.916043339688,-0.783782294012\nPhotos: https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg; https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg; https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg\n\nWar Memorial Unveiling: Unveiling of the Pocklington War Memorial",
+  "memorial_details": "Large piece of rough-cut limestone with one finished, diagonal face, into which a circular, black, slate tablet is inset. The dedication is depicted in raised, white capital letters.\n\nWar Memorial Unveiling: Unveiling of the Pocklington War Memorial",
   "latitude": 53.9311,
   "longitude": -0.7778,
   "maintainer": {
@@ -188,5 +188,10 @@
   "community_connection": "Civilian casualties: Gertrude Bird, C. B. Corbett, Percy Paulucy Hopkinson were killed when the aircraft crashed into houses near Melbourne airfield. This memorial serves as a tangible link to the war, fostering a sense of community connection through remembrance. This story highlights the community's collective experience of fear and resilience during wartime.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/127/279/large_ey_canal_head_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/127/280/large_ey_canal_head_3.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/127/281/large_ey_canal_head_1.jpg"
+  ]
 }

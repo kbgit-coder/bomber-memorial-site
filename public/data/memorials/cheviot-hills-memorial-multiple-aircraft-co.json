@@ -150,7 +150,7 @@
       "rank": "\u2014"
     }
   ],
-  "memorial_details": "Name: Allied Airmen Killed On The Cheviot Hills WW2\nType: Stone of remembrance\nDescription: Originally polished slate plinth with gilt capital lettering forming the dedication. The memorial is surrounded by a low stone wall. After refurbishment/rededication the stone was replaced by black marble plinth with an accompanying descriptive plaque dedicated to all airmen killed on the Cheviot Hills.\nInscription: Original memorial: IN/ MEMORY/ OF/ THE ALLIED/ AIRMEN/ WHO LOST THEIR/ LIVES ON THE CHEVIOTS/ 1939-1945/PER ARDUA AD ASTRA After 2015 refurbishment: DEDICATED/ TO/ THE MEMORY/ OF THE AIRMEN/ WHO LOST THEIR LIVES/ ON THE CHEVIOT HILLS/ AS A RESULT/ OF/ THE SECOND WORLD WAR /PER ARDUA AD ASTRA\nLocation: Near Cuddystone Hall Memorial to airmen killed in WW2 Unnamed Hethpool Berwick Upon Tweed Northumberland NE71 6TR England\nGrid Ref: NT 88780 25170\nCoordinates: 55.520152032952,-2.179240798230\nPhotos: https://media.iwm.org.uk/ciim5/memorials/82/115/large_image0.jpg; https://media.iwm.org.uk/ciim5/memorials/108/623/large_csm_5.jpg; https://media.iwm.org.uk/ciim5/memorials/108/622/large_csm_3.jpg\n\nMemorial Unveiling: The memorial commemorates Allied airmen killed on the Cheviot Hills during World War 2.\n\nMemorial Rededication (6th September 2018): Rededicated after a \u00a325,000 project to repair and upgrade the monument, led by the Alnwick and Rothbury branches of the RAF Association.\n\nThe IWM is an organisation dedicated to preserving and sharing stories from World Wars I and II, making it a fitting home for such a memorial.",
+  "memorial_details": "Originally polished slate plinth with gilt capital lettering forming the dedication. The memorial is surrounded by a low stone wall. After refurbishment/rededication the stone was replaced by black marble plinth with an accompanying descriptive plaque dedicated to all airmen killed on the Cheviot Hills.\n\nMemorial Unveiling: The memorial commemorates Allied airmen killed on the Cheviot Hills during World War 2.\n\nMemorial Rededication (6th September 2018): Rededicated after a \u00a325,000 project to repair and upgrade the monument, led by the Alnwick and Rothbury branches of the RAF Association.\n\nThe IWM is an organisation dedicated to preserving and sharing stories from World Wars I and II, making it a fitting home for such a memorial.",
   "narrative": "During the Second World War, the Cheviot Hills claimed a number of Allied aircraft, brought down by poor weather, low visibility, and the unforgiving remoteness of the Northumbrian uplands. The Cheviot Hills Memorial commemorates 58 airmen lost in these crashes, among them P. A. F. Addie, P. A. Allen, W. H. Allworth, V. H. Ayres, C. D. Ball, R. E. Bellamy, H. Bradley, E. L. Brown, D. Campbell, and K. Carter \u2014 all killed. Fragments of wreckage remain scattered across the moorland, undisturbed for decades, serving as silent markers where no formal graves exist. The memorial stands as a collective tribute to the crews of multiple squadrons and nations who never returned from these hills.",
   "inscription": "Original memorial: IN\nMEMORY\nOF\nTHE ALLIED\nAIRMEN\nWHO LOST THEIR\nLIVES ON THE CHEVIOTS\n1939-1945\nPER ARDUA AD ASTRA After 2015 refurbishment: DEDICATED\nTO\nTHE MEMORY\nOF THE AIRMEN\nWHO LOST THEIR LIVES\nON THE CHEVIOT HILLS\nAS A RESULT\nOF\nTHE SECOND WORLD WAR\nPER ARDUA AD ASTRA",
   "remembrance": {
@@ -161,5 +161,10 @@
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet",
   "last_validated": "2026-04-12",
-  "crash_date_review": "Auto-corrected to 1939-1945 but reverted \u2014 not ISO format"
+  "crash_date_review": "Auto-corrected to 1939-1945 but reverted \u2014 not ISO format",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/82/115/large_image0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/108/623/large_csm_5.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/108/622/large_csm_3.jpg"
+  ]
 }

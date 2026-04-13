@@ -153,7 +153,7 @@
       "nationality": "British"
     }
   ],
-  "memorial_details": "Name: Short Stirling BK784\nType: Board / Plaque / Tablet\nDescription: Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.\nInscription: + IN MEMORY OF / (7 NAMES) / CREW OF STIRLING BOMBER / BK 784 / CRASHED HERE 23.5.1944 / LEST WE FORGET\nLocation: Approx. co-ordinates and postcode memorial stands on private farmland, Stirling bomber aircraft memorial off Badlingham Road Chippenham East Cambridgeshire Cambridgeshire CB7 5QQ England\nGrid Ref: TL 67088 70229\nCoordinates: 52.304759168978,0.449275969114\nPhotos: https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg; https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg\n\nThe memorial was erected 'to the memory of the men of this Parish who gave their lives in the Great War 1914-1919'.\n\nChippenham War Memorial: World War 1 and 2 memorial with 21 names for WW1 and 5 names for WW2. Located in the Churchyard of St Margaret's Church, Chippenham.",
+  "memorial_details": "Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.\n\nThe memorial was erected 'to the memory of the men of this Parish who gave their lives in the Great War 1914-1919'.\n\nChippenham War Memorial: World War 1 and 2 memorial with 21 names for WW1 and 5 names for WW2. Located in the Churchyard of St Margaret's Church, Chippenham.",
   "narrative": "On 23 May 1944, Stirling BK784 of 90 Squadron, based at Tuddenham, came down at Chippenham, Cambridgeshire. All seven crew members aboard were killed, including the pilot, Flight Sergeant J. Whyte, alongside R. Aston, H. Eggbeer, P. Mccrory, B. Pearce, L. Sharpen, and W. Walley. Also killed in the crash was James Henry Bowden, a 24-year-old British Private, whose family were from Chippenham. The fates of two further individuals associated with the aircraft, Gerard Prideaux Tharp and Sidney Howard Jordan, remain unknown. The crash claimed at least eight lives in total.",
   "inscription": "+ IN MEMORY OF\n(7 NAMES)\nCREW OF STIRLING BOMBER\nBK 784\nCRASHED HERE 23.5.1944\nLEST WE FORGET",
   "community_connection": "The detailed information about each man, including their birthplace, enlistment location, and burial location, highlights the personal connections to the community.",
@@ -178,5 +178,10 @@
   },
   "crash_category": "unknown",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg"
+  ]
 }

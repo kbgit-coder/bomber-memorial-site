@@ -95,38 +95,7 @@
       }
     ]
   },
-  "crew": [
-    {
-      "name": "Brumby",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Newton",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Jenner",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Brathwaite",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Crompton",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Rowe",
-      "rank": null,
-      "fate": "Unknown"
-    }
-  ],
+  "crew": [],
   "crash_category": "training",
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet",

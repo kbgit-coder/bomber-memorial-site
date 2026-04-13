@@ -127,7 +127,7 @@
     "617 Squadron",
     "617 Sqdn."
   ],
-  "memorial_details": "Name: Avro Lancaster DV382\nType: Board / Plaque / Tablet\nDescription: Incised black stone tablet atop a short raised brick pedestal. Gold inscription text.\nInscription: Badge: SQUADRON/ 617 617/ ROYAL AIR FORCE/ APRES MOI LE DELUGE/ Inscription: THIS IS THE SITE/ WHERE A LANCASTER BOMBER DV382/ 617 DAMBUSTER SQUADRON/ CRASHED ON 13 FEBRUARY 1944/ WITH THE LOSS OF LIFE OF ALL THE CREW./ [crew names inscribed on memorial]/ STRANGER, WHEN PASSING REMEMBER, IF IT WAS NOT/ FOR HEROES LIKE THESE, WE WOULD NOT BE HERE TODAY.\nLocation: At edge of woodland north of village. North Down Upwaltham Chichester West Sussex GU28 0LY England\nGrid Ref: SU 94034 14877\nCoordinates: 50.926180246395,-0.662065744400\nPhotos: https://media.iwm.org.uk/ciim5/memorials/162/487/large_ws_waltham_down_1.jpg; https://media.iwm.org.uk/ciim5/memorials/162/488/large_ws_waltham_down_3.jpg; https://media.iwm.org.uk/ciim5/memorials/162/489/large_ws_waltham_down_4_r.jpg; https://media.iwm.org.uk/ciim5/memorials/168/552/large_106342_jo_brown_november_2023_r.jpg\n\nMemorial Dedication: The memorial is dedicated to the Avro Lancaster DV382 aircraft and its crew.\n\nUnveiling of the memorial (February 1944): Dedication to Dambuster John Pulford and his 617 Squadron crew, killed on their return from an operation.",
+  "memorial_details": "Incised black stone tablet atop a short raised brick pedestal. Gold inscription text.\n\nMemorial Dedication: The memorial is dedicated to the Avro Lancaster DV382 aircraft and its crew.\n\nUnveiling of the memorial (February 1944): Dedication to Dambuster John Pulford and his 617 Squadron crew, killed on their return from an operation.",
   "narrative": "Lancaster DV382, coded KC-J and assigned to 617 Squadron, was on an operation when it crashed near Upwaltham in Sussex on 13 February 1944. All eight crew members were killed. Among those lost was John Pulford, a veteran of 617 Squadron's Dambuster raids of the previous year. Flight Sergeant John Paul Riches, the aircraft's air gunner, was 22 years old at the time of his death. Charles Whitworth and Gus Walker also died in the crash. No one aboard survived.",
   "remembrance": {
     "events": [
@@ -162,5 +162,11 @@
   ],
   "crash_category": "unknown",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/162/487/large_ws_waltham_down_1.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/162/488/large_ws_waltham_down_3.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/162/489/large_ws_waltham_down_4_r.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/168/552/large_106342_jo_brown_november_2023_r.jpg"
+  ]
 }

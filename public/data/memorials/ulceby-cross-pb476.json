@@ -143,7 +143,7 @@
       "rank": "\u2014"
     }
   ],
-  "memorial_details": "Name: Crew Of Lancaster PB476, 12 Squadron RAF\nType: Stone of remembrance\nDescription: Small granite stone of remembrance with squadron badge at top\nInscription: In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ [crew names inscribed on memorial]/ IN GRATEFUL REMEMBRANCE\nLocation: Unclassified road off the A16 at junction of road to Brinkhill and Harrington Ulceby Cross East Lindsey Lincolnshire LN13 0EY England\nGrid Ref: TF 40629 73344\nCoordinates: 53.238317227385,0.105819746192\nPhotos: https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg\n\nDedicated in March 2005 on the 60th anniversary of the crash, the small granite stone of remembrance bears the squadron badge and the names of all seven crew.\n\nA memorial to the crew of Lancaster PB476 stands at Ulceby Cross, to the west of the village.\n\nMemorial Dedication (March 2005): 60th anniversary dedication ceremony at the crash site.",
+  "memorial_details": "Small granite stone of remembrance with squadron badge at top\n\nDedicated in March 2005 on the 60th anniversary of the crash, the small granite stone of remembrance bears the squadron badge and the names of all seven crew.\n\nA memorial to the crew of Lancaster PB476 stands at Ulceby Cross, to the west of the village.\n\nMemorial Dedication (March 2005): 60th anniversary dedication ceremony at the crash site.",
   "narrative": "",
   "inscription": "In the early hours\nof March 4th, 1945\nLancaster PB 476 (PH \"Y\") of No. 12 Squadron\nR.A.F. Wickenby,\ncrashed near this spot,\nthe victim of\na Luftwaffe intruder.\nThis memorial is placed here, on\nthe 50th anniversary of the crash,\nto commemorate the crew members\nwho died.\n[crew names inscribed on memorial]\nIN GRATEFUL REMEMBRANCE",
   "community_connection": "commemoration of crew members who died",
@@ -152,5 +152,8 @@
     "events": []
   },
   "crash_category": "operational-combat",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg"
+  ]
 }

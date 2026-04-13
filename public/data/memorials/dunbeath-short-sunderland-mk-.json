@@ -205,7 +205,7 @@
   ],
   "cause_of_loss": "Navigational error leading to controlled flight into terrain in fog",
   "operation_type": "Ferry/VIP transport",
-  "memorial_details": "Name: Eagles Rock - Duke of Kent (Short Sunderland Flying Boat W4026 Air Crash)\nType: Cross\nDescription: Latin cross set on a tapering plinth and step with the inscription on the 6o'clock face and the names on the 3o'clock.\nInscription: IN MEMORY OF/AIR CORE H.R.H. THE DUKE OF KENT/K.G. K.T. G.C.M.G. G.C.V.O./AND HIS COMPANIONS/WHO LOST THEIR LIVES ON ACTIVE SERVICE/DURING A FLIGHT TO ICELAND ON A SPECIAL MISSION/THE 25TH OF AUGUST 1942/\"MAY THEY REST IN PEACE\"\nLocation: to the north of Berriedale Water between Berriedale and Braemore about 3 miles west of Borgue and 4 miles SW of Dunbeath Caithness Highland KW6 6EX Scotland\nGrid Ref: ND 11059 28377\nCoordinates: 58.235113720171,-3.516340609830\nPhotos: https://media.iwm.org.uk/ciim5/memorials/106/493/6051_anon_4_january_2021.jpg\n\nThe memorial was not established through a specific community connection story, but rather as a tribute to those lost during this period.",
+  "memorial_details": "Latin cross set on a tapering plinth and step with the inscription on the 6o'clock face and the names on the 3o'clock.\n\nThe memorial was not established through a specific community connection story, but rather as a tribute to those lost during this period.",
   "latitude": 58.249,
   "longitude": -3.43,
   "external_narratives": [
@@ -322,5 +322,8 @@
   },
   "community_connection": "",
   "crash_category": "weather",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/493/6051_anon_4_january_2021.jpg"
+  ]
 }

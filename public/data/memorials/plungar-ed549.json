@@ -209,7 +209,7 @@
       "rank": "Unknown"
     }
   ],
-  "memorial_details": "Name: Avro Lancaster ED549\nType: Stone of remembrance\nDescription: Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\nInscription: IN MEMORY OF / THE CREW OF / LANCASTER BOMBER ED549 / WHICH CRASHED CLOSE TO / THIS SITE ON RETURNING / FROM OPERATIONS IN FRANCE/ 5TH MARCH 1943 / [crew names inscribed on memorial] / [name inscribed on memorial] / WAS THE / SOLE SURVIVOR / WE WILL REMEMBER THEM\nLocation: Opposite Grange Farm on the Grantham Canal Plungar Melton Leicestershire NG13 0JJ England\nGrid Ref: SK 76582 34275\nCoordinates: 52.900471341632,-0.862924895393\nPhotos: https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg; https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg\n\nMemorial Unveiling: The unveiling of the Avro Lancaster ED549 memorial.",
+  "memorial_details": "Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\n\nMemorial Unveiling: The unveiling of the Avro Lancaster ED549 memorial.",
   "narrative": "On March 5, 1943, Lancaster bomber ED549, belonging to 100 Squadron, tragically crashed near this site upon its return from operations in France. Among the crew, only one individual survived - the sole survivor. This memorial honors the remaining members of the crew who perished that day.",
   "inscription": "IN MEMORY OF\nTHE CREW OF\nLANCASTER BOMBER ED549\nWHICH CRASHED CLOSE TO\nTHIS SITE ON RETURNING\nFROM OPERATIONS IN FRANCE\n5TH MARCH 1943\n[names of crew who perished inscribed on memorial]\n[name of sole survivor inscribed on memorial]\nWAS THE\nSOLE SURVIVOR\nWE WILL REMEMBER THEM",
   "remembrance": {
@@ -217,5 +217,10 @@
   },
   "community_connection": "This event is commemorated through a memorial unveiled in 2012 to honor the crew.",
   "crash_category": "operational-return",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg"
+  ]
 }
