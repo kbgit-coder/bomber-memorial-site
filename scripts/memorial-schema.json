@@ -297,8 +297,7 @@
         "type": "object",
         "required": [
           "source_site",
-          "original_url",
-          "summary"
+          "original_url"
         ],
         "additionalProperties": false,
         "properties": {
@@ -336,6 +335,26 @@
           },
           "link_description": {
             "type": "string"
+          },
+          "bot_blocked": {
+            "type": "boolean",
+            "description": "True if link returns 403 due to bot protection but works in browser"
+          },
+          "link_check_note": {
+            "type": "string",
+            "description": "Note about link status from automated checks"
+          },
+          "dormant": {
+            "type": "boolean",
+            "description": "True if link was live but is currently down — kept for periodic recheck"
+          },
+          "dormant_since": {
+            "type": "string",
+            "description": "ISO date when link was first detected as down"
+          },
+          "last_http_status": {
+            "type": "integer",
+            "description": "Last HTTP status code from automated check"
           }
         }
       }
