@@ -58,7 +58,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Dataset",
               "name": "Bomber Command Memorial Register",
-              "description": "Database of 224+ WW2 Bomber Command memorials, crash sites, and crew records across the United Kingdom and Europe.",
+              "description": "Database of 400+ WW2 Bomber Command memorials, crash sites, and crew records across the United Kingdom and Europe.",
               "url": "https://bombermemorial.co.uk",
               "license": "https://opendatacommons.org/licenses/odbl/",
               "creator": {
