@@ -114,11 +114,6 @@
   ],
   "crew": [
     {
-      "name": "Gertrude Bird",
-      "fate": "Killed",
-      "rank": "\u2014"
-    },
-    {
       "name": "Stanley Chapman",
       "fate": "Killed",
       "rank": "F/Sgt",
@@ -133,16 +128,6 @@
       "role": "Bomb Aimer",
       "age": 21,
       "burial_location": "Heworth Churchyard, Durham"
-    },
-    {
-      "name": "C. B. Corbett",
-      "fate": "Killed",
-      "rank": "\u2014"
-    },
-    {
-      "name": "Percy Paulucy Hopkinson",
-      "fate": "Killed",
-      "rank": "\u2014"
     },
     {
       "name": "Reginald Walter Laws",
@@ -175,19 +160,10 @@
       "burial_location": "Greenford Park Cemetery, Middlesex"
     },
     {
-      "name": "Flight Sergeant Joh Ralph",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
-      "name": "Stanley Chapamn",
-      "rank": null,
-      "fate": "Unknown"
-    },
-    {
       "name": "George Boulton",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "role": ""
     },
     {
       "name": "C R Corbe",
@@ -203,38 +179,13 @@
     "last_known_event": "2026",
     "events": [
       {
-        "name": "2026 Memorial Service at Skellingthorpe",
-        "date": "7 June 2026",
-        "description": "Annual service at Birchwood memorial (11:30) and village memorial (14:00). AGM Saturday 6 June at 17:00."
-      },
-      {
         "name": "Memorial Service",
         "date": "2026-06-07",
         "description": "Service at Birchwood memorial at 11.30, followed by service at the village memorial at 14.00"
-      },
-      {
-        "name": "AGM",
-        "date": "2026-06-06",
-        "description": "Annual General Meeting at Skellingthorpe Community Centre, followed by refreshments and a bite to eat at a local hostelry"
-      },
-      {
-        "name": "D-Day memories",
-        "date": null,
-        "description": "Recollections of D-Day"
-      },
-      {
-        "name": "That Fateful Night",
-        "date": null,
-        "description": "Refers to a significant event during World War II, but the exact nature is not specified in the text"
-      },
-      {
-        "name": "VE day",
-        "date": null,
-        "description": "Victory in Europe Day commemoration"
       }
     ]
   },
-  "community_connection": "This memorial serves as a tangible link to the war, fostering a sense of community connection through remembrance. This story highlights the community's collective experience of fear and resilience during wartime.",
+  "community_connection": "Civilian casualties: Gertrude Bird, C. B. Corbett, Percy Paulucy Hopkinson were killed when the aircraft crashed into houses near Melbourne airfield. This memorial serves as a tangible link to the war, fostering a sense of community connection through remembrance. This story highlights the community's collective experience of fear and resilience during wartime.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet"
