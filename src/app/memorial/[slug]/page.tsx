@@ -1111,47 +1111,64 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* Sources */}
-      {memorial.sources && memorial.sources.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Sources</h2>
-          <ul style={{ ...cardBox, paddingLeft: "2.5rem", listStyle: "disc" }}>
-            {memorial.sources.map((source, i) => (
-              <li key={i} style={{ marginBottom: "0.5rem" }}>
-                {source.url ? (
-                  <a href={source.url} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>{source.title}</a>
-                ) : (
-                  source.title
-                )}
-                {source.type && <span style={{ fontSize: "0.75rem", color: "#999", marginLeft: "0.5rem", fontStyle: "italic" }}>({source.type})</span>}
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
-
-      {/* Credits Box */}
-      {(memorial.contributor || (memorial.additional_contributors && memorial.additional_contributors.length > 0) || (memorial.sources && memorial.sources.length > 0)) && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Credits &amp; Acknowledgements</h2>
-          <div style={{
-            backgroundColor: "#1a2332",
-            border: "1px solid #8b7355",
-            borderRadius: 8,
-            padding: "1.5rem 2rem",
-            color: "#c9b98a",
-          }}>
-            {memorial.contributor && (
+      {/* Sources, Credits & Acknowledgements — unified section */}
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={sectionHeading}>Sources</h2>
+        <div style={{
+          backgroundColor: "#1a2332",
+          border: "1px solid #8b7355",
+          borderRadius: 8,
+          padding: "1.5rem 2rem",
+          color: "#c9b98a",
+        }}>
+          {/* Heritage sources from external narratives */}
+          {memorial.external_narratives && memorial.external_narratives.length > 0 && (
+            <div style={{ marginBottom: "1rem" }}>
+              {memorial.external_narratives.map((n, i) => (
+                <div key={i} style={{ fontSize: "0.9rem", marginBottom: "0.25rem" }}>
+                  <a href={n.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>
+                    {n.source_site}
+                  </a>
+                  {n.date_retrieved && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> (retrieved {n.date_retrieved})</span>}
+                </div>
+              ))}
+            </div>
+          )}
+          {/* Additional sources from sources array (deduplicated against external_narratives) */}
+          {memorial.sources && memorial.sources.length > 0 && (() => {
+            const narrativeSites = new Set((memorial.external_narratives || []).map(n => n.source_site?.toLowerCase()));
+            const uniqueSources = memorial.sources.filter(s => !narrativeSites.has(s.title?.toLowerCase()));
+            return uniqueSources.length > 0 ? (
               <div style={{ marginBottom: "1rem" }}>
-                <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.6)", marginBottom: "0.3rem" }}>
+                {uniqueSources.map((source, i) => (
+                  <div key={i} style={{ fontSize: "0.9rem", marginBottom: "0.25rem" }}>
+                    {source.url ? (
+                      <a href={source.url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>{source.title}</a>
+                    ) : (
+                      <span>{source.title}</span>
+                    )}
+                    {source.type && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> ({source.type})</span>}
+                  </div>
+                ))}
+              </div>
+            ) : null;
+          })()}
+          {/* Credits */}
+          <div style={{ borderTop: "1px solid rgba(139,115,85,0.3)", paddingTop: "0.75rem", marginTop: "0.5rem" }}>
+            <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.6)", marginBottom: "0.3rem" }}>
+              Credits &amp; Acknowledgements
+            </div>
+            {memorial.contributor && (
+              <div style={{ marginBottom: "0.5rem" }}>
+                <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.4)", marginBottom: "0.15rem" }}>
                   Record compiled by
                 </div>
                 <div style={{ fontSize: "1rem", fontWeight: 600 }}>{memorial.contributor}</div>
               </div>
             )}
             {memorial.additional_contributors && memorial.additional_contributors.length > 0 && (
-              <div style={{ marginBottom: "1rem" }}>
-                <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.6)", marginBottom: "0.3rem" }}>
+              <div style={{ marginBottom: "0.5rem" }}>
+                <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.4)", marginBottom: "0.15rem" }}>
                   With thanks to
                 </div>
                 {memorial.additional_contributors.map((c, i) => (
@@ -1162,29 +1179,14 @@ export default function MemorialPage({ params }: Props) {
                 ))}
               </div>
             )}
-            {memorial.external_narratives && memorial.external_narratives.length > 0 && (
-              <div style={{ marginBottom: "0.5rem" }}>
-                <div style={{ fontSize: "0.7rem", textTransform: "uppercase", letterSpacing: "0.1em", color: "rgba(201,185,138,0.6)", marginBottom: "0.3rem" }}>
-                  Heritage sources
-                </div>
-                {memorial.external_narratives.map((n, i) => (
-                  <div key={i} style={{ fontSize: "0.9rem", marginBottom: "0.25rem" }}>
-                    <a href={n.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>
-                      {n.source_site}
-                    </a>
-                    {n.date_retrieved && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> (retrieved {n.date_retrieved})</span>}
-                  </div>
-                ))}
-              </div>
-            )}
-            {memorial.last_updated && (
-              <div style={{ fontSize: "0.8rem", color: "rgba(201,185,138,0.5)", marginTop: "1rem", borderTop: "1px solid rgba(139,115,85,0.3)", paddingTop: "0.75rem" }}>
-                Last updated {memorial.last_updated}
-              </div>
-            )}
           </div>
-        </section>
-      )}
+          {memorial.last_updated && (
+            <div style={{ fontSize: "0.8rem", color: "rgba(201,185,138,0.5)", marginTop: "0.75rem", borderTop: "1px solid rgba(139,115,85,0.3)", paddingTop: "0.75rem" }}>
+              Last updated {memorial.last_updated}
+            </div>
+          )}
+        </div>
+      </section>
 
       {/* Suggest a Correction */}
       <section style={{

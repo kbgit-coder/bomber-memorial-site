@@ -218,8 +218,10 @@
         "American Air Museum reference 11782"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore detailed history and specifications of WWII B-17G bomber at American Air Museum."
+      "still_live": true,
+      "link_description": "Explore detailed history and specifications of WWII B-17G bomber at American Air Museum.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Imperial War Museums",

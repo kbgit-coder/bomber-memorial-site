@@ -57,17 +57,6 @@
       "link_description": "RAF Halifax memorial at Manea, Cambridgeshire in IWM's comprehensive register."
     },
     {
-      "source_site": "Manea Matters",
-      "original_url": "https://www.maneamatters.co.uk/halifax",
-      "summary": "Local community page documenting the Halifax LK789 crash and memorial, with news updates about the site near Manea village.",
-      "key_details": [
-        "Local community involvement in memorial upkeep"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore local news updates on the Halifax LK789 crash and memorial at Manea village."
-    },
-    {
       "source_site": "Bureau of Aircraft Accidents Archives",
       "original_url": "https://www.baaa-acro.com/crash/crash-handley-page-hp57-halifax-iii-near-manea-6-killed",
       "summary": "BAAA archive entry confirming six killed in the crash of Halifax III LK789 near Manea. The aircraft was built at the Fairey Engineering factory at Stockport and delivered to 76 Squadron on 22 February 1944.",
@@ -79,6 +68,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Tragic aircraft accident details: six fatalities in Halifax III LK789 crash near Manea."
+    },
+    {
+      "source_site": "Manea Matters",
+      "original_url": "https://www.maneamatters.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

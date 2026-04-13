@@ -38,8 +38,10 @@
         "All 7 Lancaster crew killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed account of mid-air collision involving Lancaster LM130 and Hurricane PZ740, including crew information and exercise context."
+      "still_live": true,
+      "link_description": "Detailed account of mid-air collision involving Lancaster LM130 and Hurricane PZ740, including crew information and exercise context.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Aviation Safety Network (Hurricane)",
@@ -51,8 +53,10 @@
         "1690 Bomber Defence Training Flight"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed account of mid-air collision involving Hurricane PZ740 and Lancaster LM130, including crew information and circumstances leading to the tragic event."
+      "still_live": true,
+      "link_description": "Detailed account of mid-air collision involving Hurricane PZ740 and Lancaster LM130, including crew information and circumstances leading to the tragic event.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",

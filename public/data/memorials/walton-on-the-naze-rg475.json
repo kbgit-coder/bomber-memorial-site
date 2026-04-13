@@ -48,12 +48,12 @@
     },
     {
       "source_site": "432 Squadron RCAF Association",
-      "original_url": "https://www.rcafassociation.ca/heritage/history/rcaf-and-the-crucible-of-war/432-squadron/",
-      "summary": "Official RCAF Association heritage page for 432 (Leaside) Squadron, documenting the unit's wartime history operating from East Moor as part of 6 Group (RCAF) Bomber Command.",
-      "key_details": "432 Squadron was part of the all-Canadian 6 Group, Bomber Command. Operated Halifax aircraft from RAF East Moor, Yorkshire. The squadron suffered significant losses in the final months of the war.",
-      "date_retrieved": "2026-03-23",
+      "original_url": "https://432squadron.com/",
       "still_live": false,
-      "link_description": "Explore the historical significance and wartime operations of 432 Squadron RCAF at Walton-on-the-Naze VII Memorial."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

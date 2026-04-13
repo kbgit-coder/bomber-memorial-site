@@ -51,8 +51,10 @@
         "Total death toll approximately 36"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore American Air Museum's detailed records of Arizona Rambler B-24H and 41-28590 collision incident at Henham Park Memorial."
+      "still_live": true,
+      "link_description": "Explore American Air Museum's detailed records of Arizona Rambler B-24H and 41-28590 collision incident at Henham Park Memorial.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Traces of War",
@@ -63,8 +65,10 @@
         "Located on private estate, limited public access"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Henham Park's Memorial: Sixth Earl's tribute to collision victims' 50th anniversary."
+      "still_live": true,
+      "link_description": "Henham Park's Memorial: Sixth Earl's tribute to collision victims' 50th anniversary.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "US War Memorials",
@@ -153,5 +157,7 @@
   ],
   "crash_category": "mid-air-collision",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "42-110033 and 41-28590",
+  "last_validated": "2026-04-13"
 }

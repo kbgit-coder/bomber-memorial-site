@@ -41,20 +41,6 @@
       "link_description": "The poignant Memorial: Westborough Lancaster Memorial honoring fallen crew members."
     },
     {
-      "source_site": "Rock Enterprises Column",
-      "original_url": "https://rockenterprises.co.uk/memorial-to-crew-of-lancaster-lm619-westborough/",
-      "summary": "Detailed article about the LM619 memorial at Westborough. The Lancaster departed Bottesford at 18:20 for routine night bombing practice, conducted an overshoot of the airfield, then crashed in a field at the edge of Westborough for unknown reasons. The rear gunner, Sgt Ashby, was the sole survivor.",
-      "key_details": [
-        "Departed Bottesford at 18:20 on 15 January 1945",
-        "Crashed after conducting overshoot of airfield",
-        "Rear gunner Sgt Ashby sole survivor",
-        "Enquiry blamed loss of control in haze and poor visibility"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Explore detailed account of LM619 Lancaster Memorial's crash site at Westborough during night bombing practice."
-    },
-    {
       "source_site": "International Bomber Command Centre (Facebook)",
       "original_url": "https://www.facebook.com/InternationalBomberCommandCentre/posts/westborough-lincolnshireat-1820-on-the-evening-of-150145-lancaster-lm619-of-no-1/1411971188855120/",
       "summary": "International Bomber Command Centre post detailing the circumstances of the Lancaster LM619 crash at Westborough, Lincolnshire on 15 January 1945. Confirms the aircraft was from 1668 Heavy Conversion Unit and was on a training exercise.",
@@ -75,7 +61,7 @@
         "LM619 was the last fatal crash at the station"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
+      "still_live": true,
       "link_description": "Explore WWII air accident history in 'On the Wings of the Morning' chapter 17."
     },
     {
@@ -88,6 +74,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore detailed accounts of aviation incidents and historical operations at Westborough Lancaster Memorial."
+    },
+    {
+      "source_site": "Rock Enterprises Column",
+      "original_url": "https://www.rockenterprises.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

@@ -75,20 +75,6 @@
       "link_description": "Detailed records of 61 Squadron's R5703 crash, including crew members' identities and roles."
     },
     {
-      "source_site": "Bleasby Community Website",
-      "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
-      "summary": "The Bleasby community website documents the aircrew memorial project led by resident Ken Ogilvie, with the memorial dedicated on 1 September 2018. The stone memorial is designed as a scale replica of a Lancaster tail section, located on Glebe Field next to St Mary's Church.",
-      "key_details": [
-        "Memorial dedicated 1 September 2018",
-        "Led by Ken Ogilvie",
-        "Stone seat shaped as Lancaster tail section",
-        "Located on Glebe Field, next to St Mary's Church"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Detailed account of Bleasby's Lancaster tail section replica memorial, including its creation and dedication."
-    },
-    {
       "source_site": "No. 50 & No. 61 Squadrons Association",
       "original_url": "http://www.no-50-and-no-61-squadrons-association.co.uk/the-memorials/uk-european-memorials/r5703-qr-d-gunthorpe-memorial/",
       "summary": "Lancaster R5703 QR-D",
@@ -100,6 +86,15 @@
       "date_retrieved": "2026-04-09",
       "still_live": true,
       "link_description": "Detailed account of Lancaster R5703 QR-D, including crew information, mission details, and memorial status at Bleasby."
+    },
+    {
+      "source_site": "Bleasby Community Website",
+      "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

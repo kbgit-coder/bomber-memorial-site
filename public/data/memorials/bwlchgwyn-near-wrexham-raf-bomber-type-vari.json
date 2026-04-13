@@ -152,20 +152,19 @@
         "All 8 killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed accident report and crew obituaries; honoring Armstrong Whitworth Whitley LA766's loss in 1943."
+      "still_live": true,
+      "link_description": "Detailed accident report and crew obituaries; honoring Armstrong Whitworth Whitley LA766's loss in 1943.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Wrexham History",
       "original_url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
-      "summary": "Wrexham History documents the Bwlchgwyn War Memorial which includes reference to the 1943 aircraft crash. The memorial garden was created for VE Day 1994 at the junction of Glascoed Road and Ruthin Road.",
-      "key_details": [
-        "Memorial garden at junction of Glascoed Road and Ruthin Road",
-        "Created for VE Day 1994"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Detailed account of Bwlchgwyn War Memorial, including its creation for VE Day 1994 and connection to a 1943 aircraft crash."
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

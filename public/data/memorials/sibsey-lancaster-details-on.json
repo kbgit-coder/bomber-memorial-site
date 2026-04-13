@@ -39,7 +39,7 @@
         "Heritage monument reference MLI116028"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
+      "still_live": true,
       "link_description": "Explore Heritage Record: Discover Avro Lancaster Aircraft Crash Site & War Memorial Details at Sibsey Northlands."
     },
     {
@@ -70,15 +70,12 @@
     },
     {
       "source_site": "Horncastle News",
-      "original_url": "https://www.horncastlenews.co.uk/news/lasting-tribute-for-brave-bomber-crew-1-853230",
-      "summary": "Local newspaper article about the lasting tribute to the Lancaster bomber crew at Sibsey. One crewman was thrown clear of the crash and his remains were collected for burial in his hometown of Dalkeith, Scotland.",
-      "key_details": [
-        "One crewman thrown clear of crash site",
-        "Buried in hometown of Dalkeith, Scotland"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Local history: Learn about Sibsey memorial honoring Lancaster bomber crew's tragic sacrifice."
+      "original_url": "https://www.horncastlenews.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

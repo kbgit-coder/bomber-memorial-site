@@ -42,8 +42,10 @@
       "summary": "IWM American Air Museum archive page for the 447th Bomb Group, which operated B-17 Flying Fortresses from Rattlesden, Suffolk, from late 1943 to 1945. Records the group's operational history and losses.",
       "key_details": "The 447th BG flew over 250 missions from Rattlesden. The group suffered significant losses including multiple crashes in the surrounding Suffolk countryside.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore American Air Museum archive for 447th Bomb Group's operational history and losses."
+      "still_live": true,
+      "link_description": "Explore American Air Museum archive for 447th Bomb Group's operational history and losses.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "US Mil Awards",

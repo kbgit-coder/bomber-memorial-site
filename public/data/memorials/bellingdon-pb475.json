@@ -52,21 +52,19 @@
         "Tail gunner Bill Heart survived"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed crash report including flight path, time, and cause; crew information and aircraft specifications."
+      "still_live": true,
+      "link_description": "Detailed crash report including flight path, time, and cause; crew information and aircraft specifications.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "RAF Halton - Mainpoint Online",
       "original_url": "http://www.mainpointonline.co.uk/crashed-lancaster/",
-      "summary": "Article documenting the PB475 crash at Bloomfield Farm, noting the aircraft was just 10 minutes from landing when the target indicator ignited. The stone and plaque memorial was dedicated on 13 May 2012.",
-      "key_details": [
-        "Only 10 minutes from landing",
-        "Memorial dedicated 13 May 2012",
-        "Crew included Barnett, Ross Denbigh, Gould, Hemsworth, Ralph, and Torr"
-      ],
-      "date_retrieved": "2026-03-23",
       "still_live": false,
-      "link_description": "Detailed account of PB475 crash, including memorial dedication on 13 May 2012 at Bellingdon Lancaster Memorial."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

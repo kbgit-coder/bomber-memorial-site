@@ -4,7 +4,7 @@ BMR Inscription Validator — Gate 10: Content Truth
 Reads every inscription as a primary source document and validates
 the structured JSON data against what the inscription actually says.
 
-Uses Granite 8B (local Ollama) for comprehension.
+Uses Claude (via PAI Inference tool) for comprehension.
 Outputs a correction report with severity ratings.
 
 Usage: python3 scripts/inscription-validator.py [--apply] [--limit N]
@@ -19,7 +19,7 @@ import os
 import re
 import sys
 import time
-import requests
+import subprocess
 from datetime import datetime
 from collections import Counter
 
@@ -31,8 +31,7 @@ for i, arg in enumerate(sys.argv):
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'public', 'data', 'memorials')
 REPORT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
-OLLAMA_URL = 'http://localhost:11434/api/generate'
-MODEL = 'granite4:3b'
+INFERENCE_TOOL = os.path.expanduser('~/.claude/PAI/Tools/Inference.ts')
 
 REPORT_FILE = os.path.join(REPORT_DIR, 'inscription-validation-report.md')
 CORRECTIONS_FILE = os.path.join(REPORT_DIR, 'inscription-corrections.json')
@@ -47,9 +46,11 @@ def log(msg):
         f.write(line + '\n')
 
 
-def query_granite(inscription: str, current_data: dict) -> dict:
-    """Send inscription + current data to Granite for comprehension."""
-    prompt = f"""You are a WW2 aviation historian verifying memorial data. Read this inscription carefully and extract ONLY facts explicitly stated in the text.
+def query_claude(inscription: str, current_data: dict) -> dict:
+    """Send inscription + current data to Claude for comprehension via PAI Inference."""
+    system_prompt = "You are a WW2 aviation historian verifying memorial data. Read inscriptions carefully and extract ONLY facts explicitly stated in the text. Return ONLY valid JSON with no markdown formatting. All dates must be ISO 8601 format (YYYY-MM-DD). Crash dates must fall within WW2 range (1939-09-01 to 1945-09-02). If a date is outside this range, set crash_date to null and note the discrepancy."
+
+    user_prompt = f"""Read this inscription carefully and extract ONLY facts explicitly stated in the text.
 
 INSCRIPTION TEXT:
 {inscription}
@@ -62,47 +63,66 @@ CURRENT DATABASE RECORD:
 - crew count: {len(current_data.get('crew', []))}
 - community_connection: {current_data.get('community_connection', '')}
 
-Return ONLY valid JSON:
+Return ONLY this JSON structure (no markdown, no explanation):
 {{
-  "crash_date": "YYYY-MM-DD of the AIRCRAFT CRASH specifically (not other deaths/events on this memorial). null if not stated.",
-  "crash_date_reasoning": "exact quote from inscription with the crash date",
+  "crash_date": "YYYY-MM-DD of the AIRCRAFT CRASH specifically (not other deaths/events). null if not stated.",
+  "crash_date_reasoning": "exact quote from inscription containing the date",
   "aircraft_type": "aircraft type if mentioned. null if not.",
   "serial_number": "aircraft serial if mentioned. null if not.",
   "squadron": "squadron or unit if mentioned. null if not.",
-  "crew_names_in_inscription": true or false,
-  "crew_count_in_inscription": number of individual crew named, 0 if names redacted/placeholder,
-  "civilian_casualties": true or false,
-  "civilian_details": "ages, relationship to community if mentioned. null if none.",
-  "multiple_events_on_memorial": true or false,
-  "is_local_crash_site": true or false,
-  "is_ftr_memorial": true or false,
-  "community_impact": "any community connection mentioned (local people affected, who erected it, local organisations). null if none.",
-  "corrections_needed": ["list each specific field that is WRONG in the current database, with what it should be"]
+  "crew_names_in_inscription": true,
+  "crew_count_in_inscription": 0,
+  "crew_names_extracted": ["list of crew names found in inscription, empty if none"],
+  "civilian_casualties": false,
+  "civilian_details": "null if none",
+  "multiple_events_on_memorial": false,
+  "is_local_crash_site": true,
+  "is_ftr_memorial": false,
+  "community_impact": "null if none",
+  "corrections_needed": []
 }}"""
 
     try:
-        resp = requests.post(OLLAMA_URL, json={
-            'model': MODEL,
-            'prompt': prompt,
-            'stream': False,
-            'options': {'temperature': 0.1, 'num_predict': 600}
-        }, timeout=120)
+        result = subprocess.run(
+            ['bun', INFERENCE_TOOL, '--level', 'standard', '--json',
+             system_prompt, user_prompt],
+            capture_output=True, text=True, timeout=120
+        )
 
-        text = resp.json().get('response', '')
-        # Extract JSON from response — handle common Granite formatting issues
+        if result.returncode != 0:
+            log(f'  Claude inference error: {result.stderr[:200]}')
+            return None
+
+        text = result.stdout.strip()
+        # Extract JSON from response
         start = text.find('{')
         end = text.rfind('}')
         if start >= 0 and end > start:
             json_str = text[start:end + 1]
-            # Fix common JSON issues from Granite
             json_str = re.sub(r',\s*}', '}', json_str)  # trailing commas
             json_str = re.sub(r',\s*]', ']', json_str)  # trailing commas in arrays
-            json_str = json_str.replace('\n', ' ')  # newlines in strings
-            return json.loads(json_str)
+            parsed = json.loads(json_str)
+
+            # Enforce WW2 date range
+            crash_date = parsed.get('crash_date')
+            if crash_date and crash_date != 'null':
+                try:
+                    dt = datetime.strptime(crash_date, '%Y-%m-%d')
+                    if dt < datetime(1939, 9, 1) or dt > datetime(1945, 9, 2):
+                        log(f'  Date outside WW2 range: {crash_date} — setting to null')
+                        parsed['crash_date'] = None
+                        parsed['corrections_needed'] = parsed.get('corrections_needed', []) + [f'Date {crash_date} outside WW2 range']
+                except ValueError:
+                    log(f'  Non-ISO date from Claude: {crash_date} — setting to null')
+                    parsed['crash_date'] = None
+
+            return parsed
     except json.JSONDecodeError as e:
-        log(f'  Granite JSON parse error: {e}')
+        log(f'  Claude JSON parse error: {e}')
+    except subprocess.TimeoutExpired:
+        log(f'  Claude inference timeout')
     except Exception as e:
-        log(f'  Granite error: {e}')
+        log(f'  Claude error: {e}')
 
     return None
 
@@ -118,86 +138,86 @@ def validate_memorial(slug: str, data: dict) -> dict:
         'issues': [],
         'corrections': [],
         'severity': 'clean',  # clean, low, medium, high, critical
-        'granite_response': None,
+        'claude_response': None,
     }
 
     if not inscription or len(inscription) < 20:
         return result
 
-    # Query Granite for comprehension
-    granite = query_granite(inscription, data)
-    if not granite:
-        result['issues'].append('Granite query failed')
+    # Query Claude for comprehension
+    claude = query_claude(inscription, data)
+    if not claude:
+        result['issues'].append('Claude query failed')
         result['severity'] = 'low'
         return result
 
-    result['granite_response'] = granite
+    result['claude_response'] = claude
 
     # === VALIDATE CRASH DATE ===
-    granite_date = granite.get('crash_date')
+    claude_date = claude.get('crash_date')
     current_date = data.get('crash_date', '')
 
-    if granite_date and current_date and granite_date != current_date:
-        result['issues'].append(f'CRASH DATE MISMATCH: DB has {current_date}, inscription says {granite_date}. Reasoning: {granite.get("crash_date_reasoning", "")}')
+    if claude_date and current_date and claude_date != current_date:
+        result['issues'].append(f'CRASH DATE MISMATCH: DB has {current_date}, inscription says {claude_date}. Reasoning: {claude.get("crash_date_reasoning", "")}')
         result['corrections'].append({
             'field': 'crash_date',
             'current': current_date,
-            'should_be': granite_date,
-            'reasoning': granite.get('crash_date_reasoning', ''),
+            'should_be': claude_date,
+            'reasoning': claude.get('crash_date_reasoning', ''),
             'confidence': 'high',
         })
-    elif granite_date and not current_date:
-        result['issues'].append(f'CRASH DATE MISSING: inscription states {granite_date}')
+    elif claude_date and not current_date:
+        result['issues'].append(f'CRASH DATE MISSING: inscription states {claude_date}')
         result['corrections'].append({
             'field': 'crash_date',
             'current': '',
-            'should_be': granite_date,
-            'reasoning': granite.get('crash_date_reasoning', ''),
+            'should_be': claude_date,
+            'reasoning': claude.get('crash_date_reasoning', ''),
             'confidence': 'high',
         })
 
     # === VALIDATE AIRCRAFT TYPE ===
-    granite_aircraft = granite.get('aircraft_type')
+    claude_aircraft = claude.get('aircraft_type')
     current_aircraft = data.get('aircraft_type', '')
 
-    if granite_aircraft and not current_aircraft:
-        result['issues'].append(f'AIRCRAFT TYPE MISSING: inscription mentions {granite_aircraft}')
+    if claude_aircraft and not current_aircraft:
+        result['issues'].append(f'AIRCRAFT TYPE MISSING: inscription mentions {claude_aircraft}')
         result['corrections'].append({
             'field': 'aircraft_type',
             'current': '',
-            'should_be': granite_aircraft,
+            'should_be': claude_aircraft,
             'confidence': 'high',
         })
 
     # === VALIDATE SERIAL NUMBER ===
-    granite_serial = granite.get('serial_number')
+    claude_serial = claude.get('serial_number')
     current_serial = data.get('serial_number', '')
 
-    if granite_serial and not current_serial:
-        result['issues'].append(f'SERIAL NUMBER MISSING: inscription mentions {granite_serial}')
+    if claude_serial and not current_serial:
+        result['issues'].append(f'SERIAL NUMBER MISSING: inscription mentions {claude_serial}')
         result['corrections'].append({
             'field': 'serial_number',
             'current': '',
-            'should_be': granite_serial,
+            'should_be': claude_serial,
             'confidence': 'high',
         })
 
     # === VALIDATE SQUADRON ===
-    granite_sqn = granite.get('squadron')
+    claude_sqn = claude.get('squadron')
     current_sqn = data.get('squadron', '')
 
-    if granite_sqn and not current_sqn:
-        result['issues'].append(f'SQUADRON MISSING: inscription mentions {granite_sqn}')
+    if claude_sqn and not current_sqn:
+        result['issues'].append(f'SQUADRON MISSING: inscription mentions {claude_sqn}')
         result['corrections'].append({
             'field': 'squadron',
             'current': '',
-            'should_be': granite_sqn,
+            'should_be': claude_sqn,
             'confidence': 'medium',
         })
 
     # === CREW DATA ===
-    crew_in_insc = granite.get('crew_names_in_inscription', False)
-    crew_count_insc = granite.get('crew_count_in_inscription', 0)
+    crew_in_insc = claude.get('crew_names_in_inscription', False)
+    crew_count_insc = claude.get('crew_count_in_inscription', 0)
     current_crew = data.get('crew', [])
 
     if crew_in_insc and crew_count_insc > 0 and len(current_crew) == 0:
@@ -210,8 +230,8 @@ def validate_memorial(slug: str, data: dict) -> dict:
         })
 
     # === CIVILIAN CASUALTIES ===
-    has_civilian = granite.get('civilian_casualties', False)
-    civilian_details = granite.get('civilian_details')
+    has_civilian = claude.get('civilian_casualties', False)
+    civilian_details = claude.get('civilian_details')
     current_cc = data.get('community_connection', '')
 
     if has_civilian and not current_cc:
@@ -224,7 +244,7 @@ def validate_memorial(slug: str, data: dict) -> dict:
         })
 
     # === COMMUNITY CONNECTION ===
-    community = granite.get('community_impact')
+    community = claude.get('community_impact')
     if community and not current_cc:
         result['issues'].append(f'COMMUNITY CONNECTION MISSING: {community}')
         result['corrections'].append({
@@ -235,15 +255,15 @@ def validate_memorial(slug: str, data: dict) -> dict:
         })
 
     # === FTR CHECK ===
-    is_ftr = granite.get('is_ftr_memorial', False)
-    is_local = granite.get('is_local_crash_site', True)
+    is_ftr = claude.get('is_ftr_memorial', False)
+    is_local = claude.get('is_local_crash_site', True)
 
     if is_ftr and not is_local:
-        result['issues'].append('FTR MEMORIAL: Granite identifies this as a Failed to Return memorial, not a local crash site')
+        result['issues'].append('FTR MEMORIAL: Claude identifies this as a Failed to Return memorial, not a local crash site')
         result['severity'] = 'critical'
 
     # === MULTIPLE EVENTS ===
-    multi = granite.get('multiple_events_on_memorial', False)
+    multi = claude.get('multiple_events_on_memorial', False)
     if multi:
         result['issues'].append('MULTIPLE EVENTS: memorial commemorates more than one event — verify crash_date is for the correct event')
 
@@ -332,8 +352,8 @@ def main():
             if apply_corrections(slug, data, result['corrections']):
                 applied += 1
 
-        # Rate limit Ollama
-        time.sleep(0.5)
+        # Rate limit Claude inference calls
+        time.sleep(1.0)
 
     end = datetime.now()
     duration = (end - start).total_seconds()

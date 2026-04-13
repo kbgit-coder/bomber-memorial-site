@@ -43,8 +43,10 @@
       "summary": "International war sites database entry for the Lancaster PB476 memorial at Ulceby Cross. Records the location of the memorial stone and the crew details.",
       "key_details": "Memorial is catalogued in the international Traces of War database. Crew: Fg Off Ansdell (Pilot), Fg Off Heath (Air Bomber), Fg Off Hunter (Navigator), Sgt Mellor (Air Gunner), Sgt Parry (Wireless Operator), Sgt Shafer (Flight Engineer), Sgt Walker (Air Gunner).",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "International war sites database entry with location details and memorial photographs"
+      "still_live": true,
+      "link_description": "International war sites database entry with location details and memorial photographs",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -61,7 +63,7 @@
       "summary": "Lincolnshire County Council heritage record for the memorial to Lancaster PB476 at Ulceby Cross. Notes the memorial was unveiled in 1995 on land near the crash site.",
       "key_details": "Monument reference MLI125556. Memorial unveiled 1995. The Lancaster dived almost vertically into the ground with such force that the engines were found buried 10 feet deep.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
+      "still_live": true,
       "link_description": "County heritage record with grid references, monument classification, and historical context"
     }
   ],

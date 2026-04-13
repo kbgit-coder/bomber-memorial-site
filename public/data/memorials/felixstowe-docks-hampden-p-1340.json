@@ -95,8 +95,10 @@
       "summary": "Memorial listing for the crew of Hampden I P1340 at Felixstowe. Documents the memorial stone donated by the Felixstowe Dock and Railway Company near the crash site on the north side of the River Orwell.",
       "key_details": "Memorial stone donated by Felixstowe Dock and Railway Company. Located near the Orwell estuary where the aircraft came down.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "The Memorial: Felixstowe Docks P.1340, honoring Hampden I crew at TracesOfWar.com."
+      "still_live": true,
+      "link_description": "The Memorial: Felixstowe Docks P.1340, honoring Hampden I crew at TracesOfWar.com.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [

@@ -60,8 +60,10 @@
       "summary": "International war sites database entry for the Lancaster DV382 crash site at Upwaltham, documenting the 617 Squadron loss and the memorial location on the South Downs.",
       "key_details": "Aircraft code KC-J. The crash occurred while departing RAF Ford after an operational landing. S/L Lloyd DSO was a passenger, bringing the total aboard to eight.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the Lancaster DV382 crash site at Upwaltham and its poignant memorial in this Traces of War entry."
+      "still_live": true,
+      "link_description": "Explore the Lancaster DV382 crash site at Upwaltham and its poignant memorial in this Traces of War entry.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [

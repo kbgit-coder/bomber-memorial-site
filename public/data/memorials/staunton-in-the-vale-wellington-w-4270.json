@@ -149,22 +149,15 @@
       "link_description": "Comprehensive crew biographies, service records, and burial details for Lancaster W4270's seven airmen on this detailed Aircrew Remembered page."
     },
     {
-      "source_site": "Our Nottinghamshire",
-      "original_url": "http://www.ournottinghamshire.org.uk/page.aspx?id=1139",
-      "summary": "Local history account of the crash and memorial at Staunton-in-the-Vale. Details the 2010 rededication ceremony when new plaques replaced the degraded originals, with relatives of the crew attending.",
-      "key_details": "Memorial originally built for the millennium exhibition. Contact was made with the last surviving relatives during the 2010 rededication.",
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore local history account of the 2010 crash and memorial at Staunton-in-the-Vale, including rededicated plaques and family attendance."
-    },
-    {
       "source_site": "Traces of War",
       "original_url": "https://www.tracesofwar.com/sights/83518/Memorial-Crash-Lancaster-W4270.htm",
       "summary": "International crash site database entry documenting the Lancaster W4270 memorial at Staunton in the Vale, with location details and basic incident information.",
       "key_details": "Lists the memorial as a crash site marker type with location coordinates and connection to 61 Squadron RAF Syerston.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed documentation on Lancaster W4270 memorial at Staunton in the Vale through Traces of War's comprehensive database entry."
+      "still_live": true,
+      "link_description": "Detailed documentation on Lancaster W4270 memorial at Staunton in the Vale through Traces of War's comprehensive database entry.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -196,6 +189,15 @@
       "date_retrieved": "2026-04-09",
       "still_live": true,
       "link_description": "Historical details about W4270 QR-T memorial at Staunton in the Vale."
+    },
+    {
+      "source_site": "Our Nottinghamshire",
+      "original_url": "https://www.ournottinghamshire.org.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

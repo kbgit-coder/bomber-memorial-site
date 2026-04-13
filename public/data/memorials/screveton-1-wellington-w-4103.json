@@ -216,8 +216,10 @@
         "Commemorates all 11 men from both aircraft"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "The international memorial database entry for the Screveton aircraft collision memorial at TracesOfWar.com."
+      "still_live": true,
+      "link_description": "The international memorial database entry for the Screveton aircraft collision memorial at TracesOfWar.com.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Visit Nottinghamshire",

@@ -37,8 +37,10 @@
         "Crashed in fields south of Kessingland village"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the American Air Museum's detailed record of B-24H Liberator 'Repulser', commemorating its heroic role and tragic end during WWII."
+      "still_live": true,
+      "link_description": "Explore the American Air Museum's detailed record of B-24H Liberator 'Repulser', commemorating its heroic role and tragic end during WWII.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",

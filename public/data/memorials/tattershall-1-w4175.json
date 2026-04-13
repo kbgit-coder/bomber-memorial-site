@@ -138,7 +138,7 @@
       "summary": "Heritage record for the crash site of Lancaster W4175 at the Tattershall and Coningsby Gas Works. Documents the aircraft crashing while circling RAF Woodhall Spa after returning from a Berlin raid on 30 March 1943.",
       "key_details": "Monument reference MLI125799. The heritage record notes the crash occurred on the gas works site. All seven crew killed.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
+      "still_live": true,
       "link_description": "Explore Lancaster Memorial: Discover history of WWII aircraft crash site near Tattershall and Coningsby Gas Works."
     },
     {
@@ -147,8 +147,10 @@
       "summary": "Accident database entry for Avro Lancaster Mk I W4175 of 97 Squadron, recording the crash on 30 March 1943 at Tattershall while returning from operations.",
       "key_details": "Aircraft designated OF-U. Based at RAF Woodhall Spa. Crashed on the gas works during circuit.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore detailed accident report of Lancaster Mk I W4175 crash in Tattershall on 30th March 1943."
+      "still_live": true,
+      "link_description": "Explore detailed accident report of Lancaster Mk I W4175 crash in Tattershall on 30th March 1943.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",

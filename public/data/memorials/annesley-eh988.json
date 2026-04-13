@@ -124,8 +124,10 @@
         "Located close to original crash site on Musters Estate"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed documentation of Annesley Stirling Memorial near EH988 crash site, including its establishment by the Stirling Memorial Group in the late 1990s."
+      "still_live": true,
+      "link_description": "Detailed documentation of Annesley Stirling Memorial near EH988 crash site, including its establishment by the Stirling Memorial Group in the late 1990s.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "RAF Commands",
@@ -186,8 +188,10 @@
         "Fragments stored at Newark Air Museum"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Historical account of Annesley Stirling crash, including recovery details and aircraft fragment preservation."
+      "still_live": true,
+      "link_description": "Historical account of Annesley Stirling crash, including recovery details and aircraft fragment preservation.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [

@@ -33,15 +33,12 @@
     },
     {
       "source_site": "The Washington Post",
-      "original_url": "https://www.washingtonpost.com/news/magazine/wp/2018/11/09/feature/a-downed-world-war-ii-plane-a-dutch-village-and-the-art-of-remembering/",
-      "summary": "Feature article on how Dutch villages remember downed WWII bomber crews, including through street naming and annual memorial ceremonies. Illustrates the deep cultural connection between Dutch communities and the Allied airmen who fell over their territory.",
-      "key_details": [
-        "Dutch communities maintain strong tradition of remembering Allied airmen",
-        "Street naming is common form of commemoration in Netherlands"
-      ],
-      "date_retrieved": "2026-03-23",
+      "original_url": "https://www.washingtonpost.com/",
       "still_live": false,
-      "link_description": "Explore Dutch village memorials honoring World War II B-17 bomber crew members' sacrifices."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "what3words": "demoted.thin.attends",

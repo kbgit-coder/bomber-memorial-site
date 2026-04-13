@@ -33,7 +33,9 @@
       "key_details": "Both aircraft were flying without lights due to a red alert. Collision at approximately 7,000 feet at 23:30 hours. Eight USAAF crew and one RAF passenger killed; two USAAF waist gunners survived. Both Beaufighter crew killed.",
       "date_retrieved": "2026-03-23",
       "still_live": true,
-      "link_description": "Detailed account of B-17 'Eager Eagle' mid-air collision at Foulsham, Norfolk in 1943."
+      "link_description": "Detailed account of B-17 'Eager Eagle' mid-air collision at Foulsham, Norfolk in 1943.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Heroes of Our Time",

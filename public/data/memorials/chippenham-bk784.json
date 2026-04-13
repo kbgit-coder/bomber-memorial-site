@@ -45,13 +45,11 @@
     {
       "source_site": "Roll of Honour",
       "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
-      "summary": "Roll of Honour entry for Chippenham, Cambridgeshire, including the crew of Stirling BK784 from 90 Squadron who were killed in the crash on 23 May 1944.",
-      "key_details": [
-        "All seven crew listed on local roll of honour"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Roll of Honour's Memorial page for Chippenham Stirling BK784 crew tragedy on May 23, 1944."
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

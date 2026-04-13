@@ -156,12 +156,12 @@
     },
     {
       "source_site": "Halam Village Website",
-      "original_url": "http://www.halam.org.uk/frame_ED823.htm",
-      "summary": "Halam village's own account of the Lancaster ED823 crash. The aircraft was brand new with only 12 hours on the airframe. Investigation by Sqn Ldr Orchard found it struck the ground flat and level with all engines under power, suggesting contact with high-tension cables.",
-      "key_details": "Aircraft had only 12 hours on the airframe. Engines installed just two weeks before the crash. Investigation found aircraft struck ground flat with all engines under power. High-tension cables the most likely cause.",
-      "date_retrieved": "2026-03-23",
+      "original_url": "https://www.halamvillage.org.uk/halam-aircrash/",
       "still_live": false,
-      "link_description": "Halam village's firsthand account of the Lancaster ED823 crash site details."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

@@ -179,15 +179,12 @@
     },
     {
       "source_site": "Salford Online",
-      "original_url": "http://salfordonline.com/4389-salford-lancaster-bomber-crash-memorial-this-weekend-to-remember-nine-killed.html",
-      "summary": "Local news coverage of annual memorial events at Salford for the Lancaster PB304 crash.",
-      "key_details": [
-        "Nine killed total: seven aircrew and two civilians",
-        "Regular memorial ceremonies held"
-      ],
-      "date_retrieved": "2026-03-23",
+      "original_url": "https://www.salfordonline.com/",
       "still_live": false,
-      "link_description": "Explore local news coverage of annual memorial events at Salford for the Lancaster PB304 crash."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

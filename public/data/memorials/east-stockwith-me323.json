@@ -34,8 +34,10 @@
       "summary": "Lancaster ME323 PH-P of 12 Squadron was shot down by a Luftwaffe intruder aircraft during Operation Gisela on the night of 3/4 March 1945. Lt Gunther Wolf of IX/NJG5 intercepted the bomber as it returned from operations, recording it as his 4th victory.",
       "key_details": "Part of Operation Gisela, the Luftwaffe's last major intruder operation over England. Crew included Flt Sgt George Edward Davis (age 20, RAAF) and Flt Sgt Ronald Leslie Horstmann (navigator, age 22). The memorial incorporates a propeller blade from the actual aircraft.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Poignant memorial details for Lancaster ME323 PH-P from 12 Squadron's tragic Operation Gisela incident in 1945."
+      "still_live": true,
+      "link_description": "Poignant memorial details for Lancaster ME323 PH-P from 12 Squadron's tragic Operation Gisela incident in 1945.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Geograph",

@@ -36,8 +36,10 @@
         "Engine trouble on return to West Raynham"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed account of Blenheim V5455 crash site memorial in Brisley, Norfolk."
+      "still_live": true,
+      "link_description": "Detailed account of Blenheim V5455 crash site memorial in Brisley, Norfolk.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Waymarking",
@@ -49,8 +51,10 @@
         "Crew: P/O John Graham (21), Sgt Michael Beaufoy (19), Sgt Leslie Harrowell (22)"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Crew's Operation Millennium participation and crash site memorial details, including 2000 installation."
+      "still_live": true,
+      "link_description": "Crew's Operation Millennium participation and crash site memorial details, including 2000 installation.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Norfolk Heritage Explorer",

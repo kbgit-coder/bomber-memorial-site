@@ -42,20 +42,6 @@
       "link_description": "Attend Memorial Service for Halifax Bomber Crew at South Kyme Golf Club."
     },
     {
-      "source_site": "WW2 History (ww2history.eu)",
-      "original_url": "https://ww2history.eu/air-force-operations/airplanes-allies-and-axis-lost/halifax/18828-LK9541943-11-04",
-      "summary": "Database entry for Halifax V LK954 NA-E lost on a mission to Dusseldorf on 4 November 1943. The bomb door fell off, removing a large part of the tailplane, and the aircraft crashed due to the resulting structural damage.",
-      "key_details": [
-        "Halifax V variant",
-        "Aircraft code NA-E",
-        "Bomb door fell off removing tailplane section",
-        "Mission target: Dusseldorf"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Explore Halifax Memorial: WW2 History Database Entry for Lost Aircraft Details."
-    },
-    {
       "source_site": "Imperial War Museums",
       "original_url": "https://www.iwm.org.uk/memorials/item/memorial/92485",
       "summary": "IWM War Memorials Register entry for Halifax LK954 NA-E memorial. National-level memorial registration for the 428 (Ghost) Squadron RCAF aircraft.",
@@ -103,6 +89,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore in-depth analysis and biographical information on Halifax LK954 crew from Bombercrew.com Forum discussion."
+    },
+    {
+      "source_site": "WW2 History (ww2history.eu)",
+      "original_url": "https://ww2history.eu/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

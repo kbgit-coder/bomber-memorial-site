@@ -76,6 +76,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore detailed account of 1944 Lancaster I R5672 accident, its nine victims, and subsequent air test mission at RAF Hemswell."
+    },
+    {
+      "source_site": "Lincolnshire World",
+      "original_url": "https://www.lincolnshireworld.com/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [
@@ -164,5 +173,7 @@
   },
   "crash_category": "training",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "R5672",
+  "last_validated": "2026-04-13"
 }

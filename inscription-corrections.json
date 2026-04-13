@@ -1,139 +1,24 @@
 [
   {
-    "field": "crash_date",
-    "current": "1943-08-24",
-    "should_be": "1944-03-24",
-    "reasoning": "exact quote from inscription with the crash date",
-    "confidence": "high",
-    "slug": "305th-bomb-group-b17-flying-fortress-42-97578-crash",
-    "title": "305th Bomb Group - B17 Flying Fortress (42-97578) Crash"
-  },
-  {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "(CHILD'S NAME), AGED 14 YEARS. (CHILD'S NAME), AGED 4 YEARS",
-    "confidence": "high",
-    "slug": "305th-bomb-group-b17-flying-fortress-42-97578-crash",
-    "title": "305th Bomb Group - B17 Flying Fortress (42-97578) Crash"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "of Yelden",
+    "should_be": "422nd Squadron, 305th Bomb Group",
     "confidence": "medium",
     "slug": "305th-bomb-group-b17-flying-fortress-42-97578-crash",
     "title": "305th Bomb Group - B17 Flying Fortress (42-97578) Crash"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "killing all the aircrew",
-    "confidence": "high",
-    "slug": "61-squadron-handley-page-hampden-crew",
-    "title": "61 Squadron Handley Page Hampden Crew"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Bluestone plantation, community connection mentioned through www.cawstonheritage.co.uk",
-    "confidence": "medium",
-    "slug": "61-squadron-handley-page-hampden-crew",
-    "title": "61 Squadron Handley Page Hampden Crew"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "16th May 1943",
-    "reasoning": "When 19 Lancasters of 617 Sqd RAF/ ATTACKED THE RUHR DAMS AT LOW LEVEL",
-    "confidence": "high",
-    "slug": "617-squadron-aircrew-derwent-valley",
-    "title": "617 Squadron Aircrew - Derwent Valley"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "617-squadron-aircrew-derwent-valley",
-    "title": "617 Squadron Aircrew - Derwent Valley"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Also REMEMBERED HERE ARE THE/ 204 617 SQD. AIRCREW WHO LAID DOWN/ THEIR LIVES BETWEEN 1943 - 1945",
-    "confidence": "medium",
-    "slug": "617-squadron-aircrew-derwent-valley",
-    "title": "617 Squadron Aircrew - Derwent Valley"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1915-05-07",
-    "reasoning": "The inscription states '7TH MAY 1915' which corresponds to May 7th, 1915.",
-    "confidence": "high",
-    "slug": "a-and-d-lancaster",
-    "title": "A and D Lancaster"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "a-and-d-lancaster",
-    "title": "A and D Lancaster"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'Keelby Manor', indicating a local connection.",
-    "confidence": "medium",
-    "slug": "a-and-d-lancaster",
-    "title": "A and D Lancaster"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Dedicated by the Aircrew Association, Norwich and District Branch to honour all comrades who gave their lives.",
-    "confidence": "medium",
-    "slug": "aircrew-1939-1945",
-    "title": "Aircrew 1939-1945"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "A CRASH NEAR THIS CHURCH",
-    "confidence": "high",
-    "slug": "aircrew-of-lancaster-pb512",
-    "title": "Aircrew of Lancaster  PB512"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This CHURCH",
-    "confidence": "medium",
-    "slug": "aircrew-of-lancaster-pb512",
-    "title": "Aircrew of Lancaster  PB512"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "workmen from Beaumanor, passengers from a passing bus and villagers",
-    "confidence": "high",
-    "slug": "aircrew-of-wellington-r1801",
-    "title": "Aircrew of Wellington R1801"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "IN GREATFUL REMEMBRANCE FROM LOCAL PEOPLE; WENT THE DAY WELL? WE DIED AND NEVER KNEW, BUT, WELL OR ILL, FREEDOM, WE DIED FOR YOU",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "3 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "aircrew-of-wellington-r1801",
     "title": "Aircrew of Wellington R1801"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Unveiled by Group Captain Roxley McNellan, Air Force Adviser of the Australian High Commission, London on 16th May 1995. Donated by Joan (...) Bannenberg, a niece of the late Squadron Leader, B.A. Grace (DFC), RAAF.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "5397 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "australian-aircrew-lost-over-europe",
     "title": "Australian Aircrew Lost Over Europe"
@@ -141,79 +26,31 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "avro-lancaster-biii-ja915",
-    "title": "Avro Lancaster BIII JA915"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Green Farm, Kenninghall",
-    "confidence": "medium",
-    "slug": "avro-lancaster-biii-ja915",
-    "title": "Avro Lancaster BIII JA915"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Memorial data indicates local connection, but specific community impact details are not provided.",
-    "confidence": "medium",
-    "slug": "avro-lancaster-dv334",
-    "title": "Avro Lancaster DV334"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial was dedicated on 16-09-98, suggesting a connection to the local community or possibly commemorating the event in a significant way.",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "avro-lancaster-dv361",
     "title": "Avro Lancaster DV361"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "617/ ROYAL AIR FORCE",
-    "confidence": "medium",
-    "slug": "avro-lancaster-dv382",
-    "title": "Avro Lancaster DV382"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "This is the site where a Lancaster bomber crashed, implying it was in a location significant to those involved or their community.",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "avro-lancaster-dv382",
-    "title": "Avro Lancaster DV382"
+    "slug": "avro-lancaster-jb286",
+    "title": "Avro Lancaster JB286"
   },
   {
     "field": "squadron",
     "current": "",
-    "should_be": "XV SQUADRON",
+    "should_be": "R.C.A.F. from Gransden Lodge",
     "confidence": "medium",
-    "slug": "avro-lancaster-hk773",
-    "title": "Avro Lancaster HK773"
+    "slug": "avro-lancaster-jb477",
+    "title": "Avro Lancaster JB477"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is for the crew of XV SQUADRON, indicating a strong connection to local military community.",
-    "confidence": "medium",
-    "slug": "avro-lancaster-hk773",
-    "title": "Avro Lancaster HK773"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Honouring the Memory of MY GRANDFATHER AND HIS CREW",
-    "confidence": "medium",
-    "slug": "avro-lancaster-jb284",
-    "title": "Avro Lancaster JB284"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "We will remember them. Community connection mentioned as being buried at Cambridge City Cemetery.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancaster-jb477",
     "title": "Avro Lancaster JB477"
@@ -221,7 +58,15 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Erected and Maintained by Friends of Metheringham Airfield - metheringhamairfield.com",
+    "should_be": "Crew buried at Cambridge City Cemetery; memorial inscription states 'We will remember them'",
+    "confidence": "medium",
+    "slug": "avro-lancaster-jb477",
+    "title": "Avro Lancaster JB477"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancaster-jb534-damaged-early-2025-currently-removed-for-repair",
     "title": "Avro Lancaster JB534 (Damaged early 2025, currently removed for repair)"
@@ -229,7 +74,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The memorial was erected by the Sandon & District Royal British Legion, indicating a local connection.",
+    "should_be": "Memorial erected in 1999 by the Sandon & District Royal British Legion",
     "confidence": "medium",
     "slug": "avro-lancaster-kb879",
     "title": "Avro Lancaster KB879"
@@ -237,23 +82,31 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "avro-lancaster-ll686",
-    "title": "Avro Lancaster LL686"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial was erected by the villagers of Aldborough to commemorate the 50th anniversary of their noble sacrifice.",
+    "should_be": "Memorial erected by the villagers of Aldborough to commemorate the 50th anniversary of the crew's sacrifice; the pilot deliberately steered away from the village before coming down on Studforth Hill",
     "confidence": "medium",
     "slug": "avro-lancaster-ll686",
     "title": "Avro Lancaster LL686"
   },
   {
+    "field": "squadron",
+    "current": "",
+    "should_be": "467 RAAF Squadron",
+    "confidence": "medium",
+    "slug": "avro-lancaster-lm311",
+    "title": "Avro Lancaster LM311"
+  },
+  {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "avro-lancaster-lm311",
+    "title": "Avro Lancaster LM311"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Inscription explicitly states both crew and civilians were killed in the crash",
     "confidence": "high",
     "slug": "avro-lancaster-lm616",
     "title": "Avro Lancaster LM616"
@@ -261,7 +114,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Their names will live for ever more",
+    "should_be": "Aircraft crashed into West End Farm Great Offley killing both crew and local civilians indicating direct community impact",
     "confidence": "medium",
     "slug": "avro-lancaster-lm616",
     "title": "Avro Lancaster LM616"
@@ -269,18 +122,10 @@
   {
     "field": "squadron",
     "current": "",
-    "should_be": "1668 HCU",
+    "should_be": "1653 HCU, RAF North Luffenham",
     "confidence": "medium",
-    "slug": "avro-lancaster-lm619",
-    "title": "Avro Lancaster LM619"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "no specific community connection mentioned",
-    "confidence": "medium",
-    "slug": "avro-lancaster-lm619",
-    "title": "Avro Lancaster LM619"
+    "slug": "avro-lancaster-lm719",
+    "title": "Avro Lancaster LM719"
   },
   {
     "field": "crew",
@@ -293,23 +138,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Who perished near this place",
-    "confidence": "medium",
-    "slug": "avro-lancaster-lm719",
-    "title": "Avro Lancaster LM719"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Dedicated to the MEMORY OF THE CREW OF THE ABOVE AIRCRAFT WHO DIED",
-    "confidence": "medium",
-    "slug": "avro-lancaster-lm720",
-    "title": "Avro Lancaster LM720"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial was commissioned by the Lincolnshire Aircraft Recovery Group.",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "avro-lancaster-nd820",
     "title": "Avro Lancaster ND820"
@@ -317,23 +146,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "avro-lancaster-pb304",
-    "title": "Avro Lancaster PB304"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "community affected by the crash, local people erected it",
-    "confidence": "medium",
-    "slug": "avro-lancaster-pb304",
-    "title": "Avro Lancaster PB304"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Memorial for crew members of Lancaster aircraft PB355, likely from a local community.",
+    "should_be": "Nine road names are listed, some of which may honour individuals (Callon Drive, Essenhigh Drive, Moore Close, Rees Close, Thompson Close, Varey Road, Bourne Close) and one references a squadron (Squadron Drive), suggesting a memorial street-naming scheme, but no individuals are explicitly identified as crew members in the inscription text",
     "confidence": "medium",
     "slug": "avro-lancaster-pb355",
     "title": "Avro Lancaster PB355"
@@ -342,80 +155,80 @@
     "field": "crash_date",
     "current": "",
     "should_be": "1944-12-24",
-    "reasoning": "Christmas Eve 1944",
+    "reasoning": "CHRISTMAS EVE 44",
     "confidence": "high",
-    "slug": "avro-lancaster-pb366-pillar",
-    "title": "Avro Lancaster PB366 - Pillar"
+    "slug": "avro-lancaster-pb366-cross",
+    "title": "Avro Lancaster PB366 - Cross"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is in Great Paxton, indicating a local connection.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancaster-pb366-pillar",
     "title": "Avro Lancaster PB366 - Pillar"
   },
   {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-11-26",
-    "reasoning": "26-11-1944",
-    "confidence": "high",
-    "slug": "avro-lancaster-pb432",
-    "title": "Avro Lancaster PB432"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "Great lives cut short. Royal Air Force (3 Names). Royal Australian Air Force (3 Names). Community connection to the airmen.",
+    "should_be": "Aircraft crashed within the community of Great Paxton",
+    "confidence": "medium",
+    "slug": "avro-lancaster-pb366-pillar",
+    "title": "Avro Lancaster PB366 - Pillar"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancaster-pb475",
     "title": "Avro Lancaster PB475"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "RAF SANDTOFT, IN MEMORY OF THE CREW",
+    "should_be": "1667 HCU",
     "confidence": "medium",
     "slug": "avro-lancaster-pb565",
     "title": "Avro Lancaster PB565"
   },
   {
+    "field": "crash_date",
+    "current": "",
+    "should_be": "1942-08-16",
+    "reasoning": "crashed at Branston at 19 - 15 hrs on Sunday, 16th August, 1942",
+    "confidence": "high",
+    "slug": "avro-lancaster-r5489",
+    "title": "Avro Lancaster R5489"
+  },
+  {
     "field": "squadron",
     "current": "",
-    "should_be": "1653 HCU",
+    "should_be": "44 (Rhodesia) Squadron, Waddington",
     "confidence": "medium",
-    "slug": "avro-lancaster-pd431",
-    "title": "Avro Lancaster PD431"
+    "slug": "avro-lancaster-r5489",
+    "title": "Avro Lancaster R5489"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription is located in a community setting, indicating local significance.",
+    "should_be": "Memorial made and presented by Frank Walshaw (Wireless Operator), a survivor of the crash",
     "confidence": "medium",
-    "slug": "avro-lancaster-pd431",
-    "title": "Avro Lancaster PD431"
+    "slug": "avro-lancaster-r5489",
+    "title": "Avro Lancaster R5489"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This farm",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
     "confidence": "medium",
-    "slug": "avro-lancaster-r5676",
-    "title": "Avro Lancaster R5676"
+    "slug": "avro-lancaster-r5694",
+    "title": "Avro Lancaster R5694"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "avro-lancaster-w4319",
-    "title": "Avro Lancaster W4319"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions the crash occurred off the North German coast, indicating a connection to local communities.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancaster-w4319",
     "title": "Avro Lancaster W4319"
@@ -423,43 +236,34 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "avro-lancasters-me473-and-nd572",
-    "title": "Avro Lancasters ME473 and ND572"
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "avro-lancaster-w4319",
+    "title": "Avro Lancaster W4319"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is in Cambridge City Cemetery, indicating a local connection.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "2 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "avro-lancasters-me473-and-nd572",
     "title": "Avro Lancasters ME473 and ND572"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "local people affected, who erected it: WE SHALL REMEMBER THEM AND THEIR COMRADES OF 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK.",
-    "confidence": "medium",
-    "slug": "b-17-flying-fortress-z9a-no-519-squadron-raf",
-    "title": "B-17 Flying Fortress Z9A - No. 519 Squadron RAF"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "in the common cause of freedom",
+    "should_be": "392nd BG, USAAF",
     "confidence": "medium",
     "slug": "b-24h-liberator-usaaf-crew-tablet",
     "title": "B-24H Liberator USAAF Crew Tablet"
   },
   {
-    "field": "crash_date",
-    "current": "WW2",
-    "should_be": "1945-03-06",
-    "reasoning": "Six young airmen died at this spot on 6 March 1945.",
-    "confidence": "high",
-    "slug": "bellingdon-pb475",
-    "title": "Bellingdon Lancaster Memorial"
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Local community members aided survivors; inscription explicitly thanks those who aided the survivors in the common cause of freedom",
+    "confidence": "medium",
+    "slug": "b-24h-liberator-usaaf-crew-tablet",
+    "title": "B-24H Liberator USAAF Crew Tablet"
   },
   {
     "field": "crew",
@@ -470,35 +274,18 @@
     "title": "Burn \u2014 578 Squadron RAF Memorial Panels, Burn Methodist Chapel"
   },
   {
-    "field": "crew",
-    "current": "0 crew",
-    "should_be": "1 crew (extract from inscription)",
-    "confidence": "medium",
-    "slug": "cairnsmore-of-fleet-local-air-crashes",
-    "title": "Cairnsmore of Fleet Local Air Crashes"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "The memorial is erected by NG 1 Staffel of Kampfgeschwader 4, indicating a strong connection to the local community and their defense efforts.",
+    "should_be": "219 aircrew killed, 79 taken as POW, 45 aircraft lost during squadron service January 1944 to March 1945 operating from RAF Burn",
     "confidence": "medium",
-    "slug": "cairnsmore-of-fleet-local-air-crashes",
-    "title": "Cairnsmore of Fleet Local Air Crashes"
+    "slug": "burn-chapel-578-sqn-panels",
+    "title": "Burn \u2014 578 Squadron RAF Memorial Panels, Burn Methodist Chapel"
   },
   {
-    "field": "crash_date",
-    "current": "WW2",
-    "should_be": "1940-08-08",
-    "reasoning": "First Crash: LEUTNANT A ZEISS AGE 25 UNTEROFFIZIER G T VON TURCKHEIM AGE 31 UNTEROFFIZIER W HAJESCH AGE 21 UNTEROFFIZIER W MECHSNER AGE 23 FROM NG 1 STAFFEL OF KAMPFGESCHWADER 4 SOESTERBURG AIR BASE HOLLAND THE AIRCRAFT A HEINKEL III H4 CRASHED ON 8TH AUGUST 1940",
-    "confidence": "high",
-    "slug": "cairnsmore-of-fleet-ww2-crashes-1-post-war-commemorated-",
-    "title": "Cairnsmore of Fleet Memorial (7 Wartime Crashes)"
-  },
-  {
-    "field": "squadron",
+    "field": "serial_number",
     "current": "",
-    "should_be": "82 OTU",
-    "confidence": "medium",
+    "should_be": "LN181",
+    "confidence": "high",
     "slug": "canadian-crew-of-wellington-bomber",
     "title": "Canadian Crew of Wellington Bomber"
   },
@@ -511,49 +298,6 @@
     "title": "Canadian Crew of Wellington Bomber"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "To the MEMORY OF/ AND IN THANKSGIVING FOR",
-    "confidence": "medium",
-    "slug": "canadian-crew-of-wellington-bomber",
-    "title": "Canadian Crew of Wellington Bomber"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1961-11-21",
-    "reasoning": "18:50 HOURS 21ST NOVEMBER 1961",
-    "confidence": "high",
-    "slug": "canberra-bomber-crash-tiverton",
-    "title": "Canberra Bomber Crash, Tiverton"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "We will remember them",
-    "confidence": "medium",
-    "slug": "canberra-bomber-crash-tiverton",
-    "title": "Canberra Bomber Crash, Tiverton"
-  },
-  {
-    "field": "crash_date",
-    "current": "1944-04-12",
-    "should_be": "1944-04-01",
-    "reasoning": "The inscription states 'SHOT DOWN AT 0125 HRS ON 1 APRIL 1944'",
-    "confidence": "high",
-    "slug": "caythorpe-heath-lj450",
-    "title": "Caythorpe Heath Stirling Memorial"
-  },
-  {
-    "field": "crash_date",
-    "current": "WW2",
-    "should_be": "1939-1945",
-    "reasoning": "PER ARDUA AD ASTRA After 2015 refurbishment: DEDICATED TO THE MEMORY OF THE AIRMEN WHO LOST THEIR LIVES ON THE CHEVIOT HILLS AS A RESULT OF THE SECOND WORLD WAR",
-    "confidence": "high",
-    "slug": "cheviot-hills-memorial-multiple-aircraft-co",
-    "title": "Cheviot Hills Memorial commemorated Memorial"
-  },
-  {
     "field": "crew",
     "current": "0 crew",
     "should_be": "8 crew (extract from inscription)",
@@ -562,94 +306,60 @@
     "title": "Chipping Norton - Oxford and Wellington Crews - WW2"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'IN MEMORY OF THE AIRCREWS', indicating a community connection, likely local people affected or those who erected the memorial.",
-    "confidence": "medium",
-    "slug": "chipping-norton-oxford-and-wellington-crews-ww2",
-    "title": "Chipping Norton - Oxford and Wellington Crews - WW2"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Normanton on Soar",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "crew-of-28-otu-wellington-mf200",
     "title": "Crew of 28 OTU Wellington MF200"
   },
   {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1942-01-21",
-    "reasoning": "21 1 1942",
-    "confidence": "high",
-    "slug": "crew-of-handley-page-hampden-ae381-2",
-    "title": "Crew Of Handley Page Hampden Ae381 (2)"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription does not specify the community impact.",
-    "confidence": "medium",
-    "slug": "crew-of-handley-page-hampden-ae381-2",
-    "title": "Crew Of Handley Page Hampden Ae381 (2)"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'THE ENTIRE CREW OF THE LANCASTER PERISHED' and the community connection is implied by the memorial being erected for those who died.",
-    "confidence": "medium",
-    "slug": "crew-of-lancaster-aircraft-serial-mk-442",
-    "title": "Crew Of Lancaster Aircraft (Serial # MK 442)"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-08-25",
-    "reasoning": "crashed into the sea in view of this place on 25th August, 1944",
-    "confidence": "high",
-    "slug": "crew-of-lancaster-bomber-lm258",
-    "title": "Crew of Lancaster Bomber LM258"
-  },
-  {
     "field": "squadron",
     "current": "",
-    "should_be": "HA-Q",
+    "should_be": "No.16 Operational Training Unit, RAF Upper Heyford",
     "confidence": "medium",
-    "slug": "crew-of-lancaster-bomber-lm258",
-    "title": "Crew of Lancaster Bomber LM258"
+    "slug": "crew-of-hampden-p5303",
+    "title": "Crew of Hampden P5303"
+  },
+  {
+    "field": "serial_number",
+    "current": "",
+    "should_be": "AE381",
+    "confidence": "high",
+    "slug": "crew-of-handley-page-hampden-ae381-2",
+    "title": "Crew Of Handley Page Hampden Ae381 (2)"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This place",
-    "confidence": "medium",
-    "slug": "crew-of-lancaster-bomber-lm258",
-    "title": "Crew of Lancaster Bomber LM258"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'FOR THE BRAVE YOUNG LADS OF THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT RETURN WE DEDICATE THIS SIMPLE PLAQUE.' and the community connection is shown as 'THIS HISTORIC OPERATION PUT NORTH KILLINGHOLME ON THE MAP'.",
+    "should_be": "North Killingholme is explicitly named as the departure airfield for the first D-Day strike aircraft; the inscription states this operation 'put North Killingholme on the map'",
     "confidence": "medium",
     "slug": "crew-of-lancaster-ll811-bq-j-and-their-comrades",
     "title": "Crew Of Lancaster Ll811 Bq J And Their Comrades"
   },
   {
-    "field": "community_connection",
+    "field": "serial_number",
     "current": "",
-    "should_be": "The memorial is for a local community, as indicated by the connection to the squadron and aircraft type.",
-    "confidence": "medium",
+    "should_be": "ND714",
+    "confidence": "high",
     "slug": "crew-of-lancaster-nd-714-60-t",
     "title": "Crew of Lancaster ND 714 60-T"
   },
   {
-    "field": "community_connection",
+    "field": "aircraft_type",
     "current": "",
-    "should_be": "This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died.",
+    "should_be": "Lincoln Bomber",
+    "confidence": "high",
+    "slug": "crew-of-lincoln-bomber-re373-of-97-squadron",
+    "title": "Crew of Lincoln Bomber RE373 of 97 Squadron"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "11 OTU",
     "confidence": "medium",
-    "slug": "crew-of-lancaster-pb476-12-squadron-raf",
-    "title": "Crew Of Lancaster PB476, 12 Squadron RAF"
+    "slug": "crew-of-wellington-bomber-ln482",
+    "title": "Crew of Wellington Bomber LN482"
   },
   {
     "field": "crew",
@@ -662,88 +372,39 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription mentions a church nearby, indicating the crash site's connection to the local community.",
+    "should_be": "One named survivor is commemorated on the memorial, described as the only survivor who suffered serious injuries",
     "confidence": "medium",
-    "slug": "crew-of-wellington-bomber-ln482",
-    "title": "Crew of Wellington Bomber LN482"
+    "slug": "crew-of-wellington-ln281",
+    "title": "Crew of Wellington LN281"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Soldiers of Poland",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "3 crew (extract from inscription)",
     "confidence": "medium",
-    "slug": "crew-of-wellington-w5557",
-    "title": "Crew of Wellington W5557"
+    "slug": "crew-of-wellington-w5444",
+    "title": "Crew of Wellington W5444"
   },
   {
-    "field": "community_connection",
+    "field": "serial_number",
     "current": "",
-    "should_be": "Silsden Moor",
-    "confidence": "medium",
+    "should_be": "1489",
+    "confidence": "high",
     "slug": "crew-of-whitley-mk-5-no-1489",
     "title": "Crew of Whitley Mk 5 No 1489"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "No 5 Lancaster finishing school./ No 5 Group/ Royal Air Force Bomber Command",
-    "confidence": "medium",
-    "slug": "crews-of-lancaster-4103-and-oxford-lb415",
-    "title": "Crews of Lancaster 4103 and Oxford LB415"
-  },
-  {
-    "field": "aircraft_type",
-    "current": "",
-    "should_be": "Lancaster Bomber",
-    "confidence": "high",
-    "slug": "crews-of-lancasters-jb678-and-jb674",
-    "title": "Crews of Lancasters JB678 and JB674"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "Over GRAINSBY",
-    "confidence": "medium",
-    "slug": "crews-of-lancasters-jb678-and-jb674",
-    "title": "Crews of Lancasters JB678 and JB674"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'UNVEILED BY THE RELATIVES FOR THE 70TH ANNIVERSARY' and the plaque origin information panel states it is an identical copy unveiled near the crash site at Cloot House Farm Crowland.",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "crews-of-lancasters-me625-and-nd981",
     "title": "Crews of Lancasters ME625 and ND981"
   },
   {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1943-10-12",
-    "reasoning": "LH Column: 82 OTU Wellington X HE201 12TH OCT 1943/ T/O GAMSTON 1448, CRASHED CRESWELL PLANTATION",
-    "confidence": "high",
-    "slug": "crews-of-two-wellington-bombers",
-    "title": "Crews of Two Wellington Bombers"
-  },
-  {
     "field": "squadron",
     "current": "",
-    "should_be": "82 OTU",
-    "confidence": "medium",
-    "slug": "crews-of-two-wellington-bombers",
-    "title": "Crews of Two Wellington Bombers"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "names of the crew members are redacted/placeholder, indicating local community connection",
-    "confidence": "medium",
-    "slug": "crews-of-two-wellington-bombers",
-    "title": "Crews of Two Wellington Bombers"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "IN SWANLAND IN A HALIFAX BOMBER",
+    "should_be": "Royal Air Force",
     "confidence": "medium",
     "slug": "flight-lieutenant-l-cumberworth-and-flying-officer-j-easdale-handley-page-halifa",
     "title": "Handley Page Halifax LL362"
@@ -751,107 +412,24 @@
   {
     "field": "crash_date",
     "current": "",
-    "should_be": "2003-11-16",
-    "reasoning": "The inscription states 'ON THIS 60TH ANNIVERSARY OF THEIR CRASH 16/11/2003'.",
-    "confidence": "high",
-    "slug": "flight-sergeant-j-timperon-r-a-a-f-and-vickers-wellington-z8799",
-    "title": "Vickers Wellington Z8799"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Sister Mary, Sister-in-law Shirley, and family members in South Australia",
-    "confidence": "medium",
-    "slug": "flight-sergeant-j-timperon-r-a-a-f-and-vickers-wellington-z8799",
-    "title": "Vickers Wellington Z8799"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "flight-sergeant-l-lissette-and-crew-of-avro-lancaster-nd556",
-    "title": "Avro Lancaster ND556"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This tree commemorates the crew members and indicates a local connection, suggesting it was erected by community members affected.",
-    "confidence": "medium",
-    "slug": "flight-sergeant-l-lissette-and-crew-of-avro-lancaster-nd556",
-    "title": "Avro Lancaster ND556"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-01-05",
-    "reasoning": "The twist of a screwdriver not only dislodged the stuck bomb but/410 gallons of auxiliary fuel. The crew began the trip home, knowing/ that they did not have enough fuel for the return journey and anything/ that could be thrown out of the aeroplane was jettisoned.",
-    "confidence": "high",
-    "slug": "flying-fortress-lucky-strike-crew-and-emergency-services",
-    "title": "Flying Fortress \"Lucky Strike\" Crew and Emergency Services"
-  },
-  {
-    "field": "serial_number",
-    "current": "",
-    "should_be": "29923",
-    "confidence": "high",
-    "slug": "flying-fortress-lucky-strike-crew-and-emergency-services",
-    "title": "Flying Fortress \"Lucky Strike\" Crew and Emergency Services"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The crew began the trip home, knowing/ that they did not have enough fuel for the return journey and anything/ that could be thrown out of the aeroplane was jettisoned. As it dropped/ in altitude, frost began to build up and even the windshield and/ instruments iced over. \"Lucky Strike\" crashed on land at Church Farm,/ Cawston, narrowly missing the church.",
-    "confidence": "medium",
-    "slug": "flying-fortress-lucky-strike-crew-and-emergency-services",
-    "title": "Flying Fortress \"Lucky Strike\" Crew and Emergency Services"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "19.7.1944",
-    "reasoning": "The inscription states 'and the crew of Lancaster PB171 BH-K / Forever in my thoughts and missed by / the family he never knew.' The date 19.7.1944 is explicitly mentioned as the death date.",
+    "should_be": "1944-07-19",
+    "reasoning": "15.11.1922 - 19.7.1944 \u2014 the second date is the death date of the named crew member, most likely corresponding to the crash date",
     "confidence": "high",
     "slug": "flying-officer-j-j-bregman-and-crew-of-avro-lancaster-pb171",
     "title": "Avro Lancaster PB171"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "The inscription mentions 'the family he never knew', indicating a local connection and impact.",
+    "should_be": "BH (squadron code derived from aircraft identifier BH-K)",
     "confidence": "medium",
     "slug": "flying-officer-j-j-bregman-and-crew-of-avro-lancaster-pb171",
     "title": "Avro Lancaster PB171"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "THE AIRCRAFT CRASHED IN THE BACK GARDEN OF THE LAMB INN. THIS PLAQUE INSTALLED WITH THE KIND PERMISSION OF THE LAMB INN OWNER, MR CLEVERLEY.",
-    "confidence": "medium",
-    "slug": "great-rissington-lamb-inn-r1028",
-    "title": "Great Rissington (Lamb Inn) Wellington Memorial"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-06-08",
-    "reasoning": "Thursday 8th June, 1944",
-    "confidence": "high",
-    "slug": "halifax-bomber-ll459",
-    "title": "Halifax Bomber LL459"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "halifax-bomber-ll459",
-    "title": "Halifax Bomber LL459"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is located opposite this church, indicating a strong community connection.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "halifax-bomber-ll459",
     "title": "Halifax Bomber LL459"
@@ -859,15 +437,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "hampden-p1294",
-    "title": "Hampden P1294"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions the crash site is opposite a field, indicating it was likely in a local area. The community connection implies local people were affected by this event.",
+    "should_be": "Crew attempted to land burning and badly damaged aircraft without injury to others; all crew were killed when the tree added an additional obstacle to the fatal crash in the field opposite",
     "confidence": "medium",
     "slug": "hampden-p1294",
     "title": "Hampden P1294"
@@ -875,105 +445,24 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "from Topcliffe",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-bb216",
-    "title": "Handley Page Halifax BB216"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Community connection mentioned as Royal Air Force Volunteer Reserve and Royal Canadian Air Force",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-bb320",
-    "title": "Handley Page Halifax BB320"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-halifax-dg358",
-    "title": "Handley Page Halifax DG358"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Their bodies rested at Bwlch-y--ffridd Institute on the evening of the 23rd.",
+    "should_be": "Bodies of the airmen rested at Bwlch-y-ffridd Institute on the evening of 23rd January 1944, indicating local community received and cared for the deceased",
     "confidence": "medium",
     "slug": "handley-page-halifax-dg358",
     "title": "Handley Page Halifax DG358"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-halifax-dg412",
-    "title": "Handley Page Halifax DG412"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This stone is to the memory of these brave men who died so young. The community connection implies a local impact.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-dg412",
-    "title": "Handley Page Halifax DG412"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "A MILK LORRY WHO WAS PASSING ALONG THIS ROAD WERE KILLED",
-    "confidence": "high",
-    "slug": "handley-page-halifax-dk192",
-    "title": "Handley Page Halifax DK192"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "ERECTED BY THEIR COMRADE (Name)",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-dk192",
-    "title": "Handley Page Halifax DK192"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial is to all those who served in 427 Squadron and in 6 BOMBER GROUP RCAF.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-dk253",
-    "title": "Handley Page Halifax DK253"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Names",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-dt669",
-    "title": "Handley Page Halifax DT669"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Their names LIVETH FOR EVERMORE.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-dt696",
-    "title": "Handley Page Halifax DT696"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "ATLEY HILL, SOUTH COWTON/ YORKSHIRE",
+    "should_be": "1664 HCU",
     "confidence": "medium",
     "slug": "handley-page-halifax-eb199",
     "title": "Handley Page Halifax EB199"
   },
   {
-    "field": "crash_date",
+    "field": "squadron",
     "current": "",
-    "should_be": "1944-04-15",
-    "reasoning": "crashed near this site at 23.25 hours on the night of Saturday 15th April / 1944.",
-    "confidence": "high",
+    "should_be": "1664 HCU (RCAF) Dishforth",
+    "confidence": "medium",
     "slug": "handley-page-halifax-eb203",
     "title": "Handley Page Halifax EB203"
   },
@@ -988,39 +477,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This plaque is erected to the memory of the crew",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-eb203",
-    "title": "Handley Page Halifax EB203"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-halifax-hx181",
-    "title": "Handley Page Halifax HX181"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "RAF MELBOURNE, YORKS",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-hx181",
-    "title": "Handley Page Halifax HX181"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "No specific community connection mentioned.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-hx351",
-    "title": "Handley Page Halifax HX351"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
+    "should_be": "Civilian parishioners lost their lives when the aircraft struck the church spire and fell on nearby buildings",
     "confidence": "high",
     "slug": "handley-page-halifax-jb798",
     "title": "Handley Page Halifax JB798"
@@ -1028,7 +485,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The names of those who then lost their lives are inscribed below. RESTORATION/ OF THE BUILDING WAS BEGUN ON 10TH MAY. 1949 AND THE CHURCH/ WAS RE-DEDICATED ON 11TH DECEMBER .1950",
+    "should_be": "Spire demolished; extensive damage to church and adjoining buildings; civilian parishioners and RAAF crew killed; restoration begun 10 May 1949; church re-dedicated 11 December 1950",
     "confidence": "medium",
     "slug": "handley-page-halifax-jb798",
     "title": "Handley Page Halifax JB798"
@@ -1036,31 +493,15 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The memorial is erected by the community of Elvington, indicating a strong local connection.",
+    "should_be": "Squadron based at Elvington; memorial erected near crash site",
     "confidence": "medium",
     "slug": "handley-page-halifax-jb863",
     "title": "Handley Page Halifax JB863"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "memorial to the AIRCREWS OF ALL ALLIED NATIONS",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-jd105-and-f86-sabre-xd733",
-    "title": "Handley Page Halifax JD105 and F86 Sabre XD733"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Two local residents lost their lives.",
-    "confidence": "high",
-    "slug": "handley-page-halifax-jp137",
-    "title": "Handley Page Halifax JP137"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Organised by the Moortown 2010 Committee as a contribution to the Bicentenary of Bournemouth.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-jp137",
     "title": "Handley Page Halifax JP137"
@@ -1074,17 +515,9 @@
     "title": "Handley Page Halifax JP190"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Erected 1st April 1994 by Nos. 2465 (Currie & Balarno) Squ./ 1007 (Duns) Squ. Air Training Corps, and the Forestry Commission.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-jp190",
-    "title": "Handley Page Halifax JP190"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This plaque is a memorial to the crew of RAF Halifax LK789/ of 76 Squadron Holme-on-Spalding Moor",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-lk789",
     "title": "Handley Page Halifax LK789"
@@ -1092,15 +525,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-halifax-lk794",
-    "title": "Handley Page Halifax LK794"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'MIRACULOUSLY THE CANADIAN REAR GUNNER MANAGED TO PARACHUTE TO SAFETY BUT THE REST OF THE CREW WERE LOST WITHOUT TRACE' and refers to the area as 'THIS IS HALLOWED GROUND', indicating a local connection.",
+    "should_be": "Pilot deliberately manoeuvred to avoid the heavily populated areas of Reading and Maidenhead before the aircraft exploded",
     "confidence": "medium",
     "slug": "handley-page-halifax-lk794",
     "title": "Handley Page Halifax LK794"
@@ -1108,23 +533,23 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "names of crew members listed, indicating local connection",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lk839",
-    "title": "Handley Page Halifax LK839"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions cherry trees for each member of the crew, indicating a strong community connection.",
+    "should_be": "7 cherry trees planted for each member of the crew and 1300 crocus bulbs were planted along with more daffodils around the stone",
     "confidence": "medium",
     "slug": "handley-page-halifax-lk844",
     "title": "Handley Page Halifax LK844"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "local people affected, who erected it",
+    "should_be": "1659 H.C.U. Topcliffe",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-lk878",
+    "title": "Handley Page Halifax LK878"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "9 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-lk878",
     "title": "Handley Page Halifax LK878"
@@ -1132,10 +557,10 @@
   {
     "field": "squadron",
     "current": "",
-    "should_be": "428 (GHOST) Squadron Royal Canadian Air Force",
+    "should_be": "No 1664 HCU Squadron",
     "confidence": "medium",
-    "slug": "handley-page-halifax-lk954-2019",
-    "title": "Handley Page Halifax LK954 (2019)"
+    "slug": "handley-page-halifax-lk930",
+    "title": "Handley Page Halifax LK930"
   },
   {
     "field": "crew",
@@ -1148,119 +573,99 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "From No. 1659 HCU Topcliffe",
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-lk954-2019",
+    "title": "Handley Page Halifax LK954 (2019)"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-lk954",
+    "title": "Handley Page Halifax LK954"
+  },
+  {
+    "field": "crash_date",
+    "current": "",
+    "should_be": "1944-04-27",
+    "reasoning": "on the night of 27th/28th April , 1944",
+    "confidence": "high",
+    "slug": "handley-page-halifax-ll356",
+    "title": "Handley Page Halifax LL356"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "No. 138 (SD) Squadron RAF Tempsford",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-ll356",
+    "title": "Handley Page Halifax LL356"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-ll356",
+    "title": "Handley Page Halifax LL356"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-ll356",
+    "title": "Handley Page Halifax LL356"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "No. 1659 HCU Topcliffe",
     "confidence": "medium",
     "slug": "handley-page-halifax-ll505",
     "title": "Handley Page Halifax LL505"
   },
   {
-    "field": "squadron",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-ll505",
+    "title": "Handley Page Halifax LL505"
+  },
+  {
+    "field": "community_connection",
     "current": "",
-    "should_be": "427 LION SQN RCAF/ROYAL CANADIAN AIR FORCE",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "handley-page-halifax-lv836",
     "title": "Handley Page Halifax LV836"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial is also dedicated to all members of BOMBER COMMAND who gave their lives in the defence of freedom 1939 - 1945",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lv836",
-    "title": "Handley Page Halifax LV836"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND GAVE THEIR LIVES",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lv905",
-    "title": "Handley Page Halifax LV905"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "community_connection",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-lv955",
     "title": "Handley Page Halifax LV955"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": {
-      "ages": null,
-      "relationship_to_community": "A CHILD was fatally injured when some wreckage fell on a house 'HOKANG' Pinfold Hill."
-    },
-    "confidence": "high",
-    "slug": "handley-page-halifax-lw115",
-    "title": "Handley Page Halifax LW115"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is for the community of Pinfold Hill where a child was fatally injured by wreckage from the crashed aircraft.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lw115",
-    "title": "Handley Page Halifax LW115"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "578 / Squadron Royal Air Force",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-lw478",
     "title": "Handley Page Halifax LW478"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is located in North Yorkshire, indicating a local connection to the community affected by the disaster.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lw478",
-    "title": "Handley Page Halifax LW478"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-03-31",
-    "reasoning": "KILLED IN ACTION 31.3.1944",
-    "confidence": "high",
-    "slug": "handley-page-halifax-lw579",
-    "title": "Handley Page Halifax LW579"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "426 (CANADIAN) SQUADRON",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-lw598-ow-j-johnnie",
     "title": "Handley Page Halifax (LW598) / OW-J 'Johnnie'"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Who erected it: NAMES (6) MEMBERS OF 426 (CANADIAN) SQUADRON",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lw598-ow-j-johnnie",
-    "title": "Handley Page Halifax (LW598) / OW-J 'Johnnie'"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-06-09",
-    "reasoning": "4.00 a.m. 9th June, 1944.",
-    "confidence": "high",
-    "slug": "handley-page-halifax-lw598",
-    "title": "Handley Page Halifax LW598"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "426 (CANADIAN) SQUADRON",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lw598",
-    "title": "Handley Page Halifax LW598"
   },
   {
     "field": "crew",
@@ -1273,50 +678,26 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "From LINTON on OUSE",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-lw598",
-    "title": "Handley Page Halifax LW598"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "No specific community connection mentioned.",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "handley-page-halifax-mz454",
     "title": "Handley Page Halifax MZ454"
   },
   {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Aircraft hit trees close to the village of Alne causing an explosion; the altar window of a local church was damaged and restored with new stained glass in 1958; pilot F/O Joseph R.J.M. Desmaris DFC credited with saving massive casualties",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-mz538",
+    "title": "Handley Page Halifax MZ538"
+  },
+  {
     "field": "squadron",
     "current": "",
-    "should_be": "NO. 578/ SQUADRON OF THE ROYAL AIR FORCE",
+    "should_be": "434",
     "confidence": "medium",
-    "slug": "handley-page-halifax-mz519",
-    "title": "Handley Page Halifax MZ519"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "the village of Farnsfield where the crash occurred",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-mz519",
-    "title": "Handley Page Halifax MZ519"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-halifax-mz538",
-    "title": "Handley Page Halifax MZ538"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "THE EXPLOSION CAUSED THE LOSS OF ALL EIGHT CREW MEMBERS. IT WAS BY THE SKILL OF THE PILOT F/O JOSEPH R.J.M. DESMARIS DFC THAT MASSIVE CASUALTIES WERE SAVED./ THE ALTAR WINDOW WAS DAMAGED AND WAS RESTORED WITH NEW STAINED GLASS IN 1958. THE CANADIAN CREW ARE BURIED SIDE BY SIDE IN THE COMMONWEALTH WAR GRAVES COMMISSION'S PLOT AT STONEFALL CEMETERY, HARROGATE.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-mz538",
-    "title": "Handley Page Halifax MZ538"
+    "slug": "handley-page-halifax-mz920",
+    "title": "Handley Page Halifax MZ920"
   },
   {
     "field": "crew",
@@ -1329,19 +710,10 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "in the Parish of Dunchurch",
+    "should_be": "They are remembered by the people of Helperby and Brafferton",
     "confidence": "medium",
-    "slug": "handley-page-halifax-mz920",
-    "title": "Handley Page Halifax MZ920"
-  },
-  {
-    "field": "crash_date",
-    "current": "1945-03-03",
-    "should_be": "1945-03-04",
-    "reasoning": "On return to Base, while waiting to land, they were hit by gunfire from a Luftwaffe JU-88 night fighter. NR179 caught fire and crashed at 0110 hrs on 4th March 1945.",
-    "confidence": "high",
-    "slug": "handley-page-halifax-nr179",
-    "title": "Handley Page Halifax NR179"
+    "slug": "handley-page-halifax-na612",
+    "title": "Handley Page Halifax NA612"
   },
   {
     "field": "crew",
@@ -1352,66 +724,73 @@
     "title": "Handley Page Halifax NR179"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "347 (Tunisie) Sqn",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-nr287",
-    "title": "Handley Page Halifax NR287"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription mentions the plaque was attached to a tree against which the Halifax came to rest until it fell and the plaque was moved to the church porch here in Scawton.",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "handley-page-halifax-nr287",
-    "title": "Handley Page Halifax NR287"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1945-03-05",
-    "reasoning": "The inscription states the crash occurred on 'MARCH 5/6 1945'",
-    "confidence": "high",
-    "slug": "handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f",
-    "title": "Handley Page Halifax RG475 and local men and women who served in the Royal Air Force"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial was erected by the Frinton and Walton Royal Air Forces Association to commemorate the formation of the RAF and the branch, dedicated to all local men and women who have served in the RAF.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f",
-    "title": "Handley Page Halifax RG475 and local men and women who served in the Royal Air Force"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions the crash was during a mission to airdrop supplies to the snow-bound communities of Grindon and the surrounding areas.",
-    "confidence": "high",
-    "slug": "handley-page-halifax-rt922",
-    "title": "Handley Page Halifax RT922"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The crash site is adjacent to this cairn, erected by the Leek Branch of The Royal Air Force Association as a result of a project led by them. It was supported by Mount Harry Beecroft (landowner), Staffordshire Moorlands District Council & Grindon Parish Council.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-rt922",
-    "title": "Handley Page Halifax RT922"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "local people affected, HULL BRIDGE, TICKTON",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-s-bb373-and-jb874",
-    "title": "Handley Page Halifax's BB373 and JB874"
+    "slug": "handley-page-halifax-nr179",
+    "title": "Handley Page Halifax NR179"
   },
   {
     "field": "crew",
     "current": "0 crew",
-    "should_be": "5 crew (extract from inscription)",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-nr287",
+    "title": "Handley Page Halifax NR287"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "The memorial plaque was originally attached to the tree against which the Halifax came to rest, approximately half a mile from Scawton church. After the tree fell, the plaque was relocated to the church porch at Scawton, establishing a lasting community connection.",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-nr287",
+    "title": "Handley Page Halifax NR287"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-r9438",
+    "title": "Handley Page Halifax R9438"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f",
+    "title": "Handley Page Halifax RG475 and local men and women who served in the Royal Air Force"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Memorial dedicated to all local men and women who have served in the Royal Air Force, in addition to commemorating the Halifax crew",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-rg475-and-local-men-and-women-who-served-in-the-royal-air-f",
+    "title": "Handley Page Halifax RG475 and local men and women who served in the Royal Air Force"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Passengers described explicitly as Press Photographers; inscription states crew and passengers were ALL KILLED",
+    "confidence": "high",
+    "slug": "handley-page-halifax-rt922",
+    "title": "Handley Page Halifax RT922"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Mission to airdrop supplies to the snow-bound communities of Grindon and the surrounding areas; cairn erected 1999 by Leek Branch of Royal Air Force Association, supported by Staffordshire Moorlands District Council and Grindon Parish Council",
+    "confidence": "medium",
+    "slug": "handley-page-halifax-rt922",
+    "title": "Handley Page Halifax RT922"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "13 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-halifax-s-jp201-and-ll137",
     "title": "Handley Page Halifax's JP201 and LL137"
@@ -1419,26 +798,18 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This memorial was erected to their honour on November 6th 1994",
+    "should_be": "The memorial was erected by the local parish community, indicating a community connection to the crash site over their parish",
     "confidence": "medium",
     "slug": "handley-page-halifax-s-jp201-and-ll137",
     "title": "Handley Page Halifax's JP201 and LL137"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions the crew of Halifax W1228 from 76 Squadron, indicating a connection to local community or unit.",
-    "confidence": "medium",
-    "slug": "handley-page-halifax-w1228",
-    "title": "Handley Page Halifax W1228"
   },
   {
     "field": "squadron",
     "current": "",
-    "should_be": "No 8 Group PFF NTU / RAF Upwood",
+    "should_be": "Coastal Command",
     "confidence": "medium",
-    "slug": "handley-page-halifax-w7823",
-    "title": "Handley Page Halifax W7823"
+    "slug": "handley-page-halifax-s-ll186-and-ll296-raf-tiree",
+    "title": "Handley Page Halifax's LL186 and LL296 RAF Tiree"
   },
   {
     "field": "crew",
@@ -1451,47 +822,23 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The crew of R.A.A.F. (Royal Australian Air Force)",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "handley-page-hampden-ad783",
-    "title": "Handley Page Hampden AD783"
+    "slug": "handley-page-halifax-w7823",
+    "title": "Handley Page Halifax W7823"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "TANGMERE MILITARY AVIATION MUSEUM; FELPHAM PARISH COUNCIL; SNOOKS CORNER COMMUNITY CENTRE; ANONYMOUS DONOR; RAF ASSOCIATION - BOGNOR REGIS BRANCH",
-    "confidence": "medium",
-    "slug": "handley-page-hampden-at110",
-    "title": "Handley Page Hampden AT110"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "RCAF SQUADRON 420",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-hampden-at219",
     "title": "Handley Page Hampden AT219"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is located at RAF Waddington, which suggests a strong connection to the local community and its military presence.",
-    "confidence": "medium",
-    "slug": "handley-page-hampden-at219",
-    "title": "Handley Page Hampden AT219"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-hampden-l4173",
-    "title": "Handley Page Hampden L4173"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions the community connection, but specific details are not provided.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "2 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-hampden-l4173",
     "title": "Handley Page Hampden L4173"
@@ -1499,51 +846,67 @@
   {
     "field": "crew",
     "current": "0 crew",
-    "should_be": "4 crew (extract from inscription)",
+    "should_be": "3 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "handley-page-hampden-p4313",
     "title": "Handley Page Hampden P4313"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Erected by THE MANX AVIATION PRESERVATION SOCIETY",
-    "confidence": "medium",
-    "slug": "handley-page-hampden-p4313",
-    "title": "Handley Page Hampden P4313"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "handley-page-hampden-p4399",
-    "title": "Handley Page Hampden P4399"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Dartford Borough Council, Councillor Jeremy Kite",
-    "confidence": "medium",
-    "slug": "handley-page-hampden-p4399",
-    "title": "Handley Page Hampden P4399"
   },
   {
     "field": "crash_date",
     "current": "",
-    "should_be": "1941-11-08",
-    "reasoning": "LOST ON OPERATIONS 8 NOV 1941",
+    "should_be": "1940-09-28",
+    "reasoning": "FEB 22 1920 - SEPT 28 1940 \u2014 the second date is a death date for PO Dudley Snooke; no crash date is explicitly stated, but this death date (1940-09-28) falls within WW2 range and is the only operational date present",
     "confidence": "high",
-    "slug": "hp-hampden-p1206",
-    "title": "HP Hampden P1206"
+    "slug": "handley-page-hampden-p4392",
+    "title": "Handley Page Hampden P4392"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "1 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-hampden-p4392",
+    "title": "Handley Page Hampden P4392"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "3 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "handley-page-hampden-p4399",
+    "title": "Handley Page Hampden P4399"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The remains were donated by the Royal Netherlands Air Force",
+    "should_be": "3 civilians of Dartford killed in the crash",
+    "confidence": "high",
+    "slug": "handley-page-hampden-p4399",
+    "title": "Handley Page Hampden P4399"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "3 civilians of Dartford were killed in the crash alongside 3 RAF aircrew; memorial dedicated by the Leader of Dartford Borough Council",
     "confidence": "medium",
-    "slug": "hp-hampden-p1206",
-    "title": "HP Hampden P1206"
+    "slug": "handley-page-hampden-p4399",
+    "title": "Handley Page Hampden P4399"
+  },
+  {
+    "field": "serial_number",
+    "current": "",
+    "should_be": "42-110033 and 41-28590",
+    "confidence": "high",
+    "slug": "henham-park-multiple-incidents-b-24-42-110033-arizo",
+    "title": "Henham Park (multiple incidents) 41-28590 Memorial"
+  },
+  {
+    "field": "serial_number",
+    "current": "",
+    "should_be": "L7523",
+    "confidence": "high",
+    "slug": "holmpton-avro-manchester-l-75",
+    "title": "Holmpton L.7523 Memorial"
   },
   {
     "field": "crew",
@@ -1556,31 +919,23 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The memorial is for Allied Mosquito Air and Ground Crews who served on worldwide operations during and after World War II. It was sponsored by the Mosquito Aircrew Association.",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "international-mosquito-air-and-ground-crew-memorial",
-    "title": "International Mosquito Air and Ground Crew Memorial"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "3 LFS",
-    "confidence": "medium",
-    "slug": "lancaster-bomber-nd958",
-    "title": "Lancaster Bomber ND958"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "names / IN MEMEMRY OF THE CREW WHO DIED",
-    "confidence": "medium",
-    "slug": "lancaster-bomber-nd958",
-    "title": "Lancaster Bomber ND958"
+    "slug": "hull-bridge-halifax-mid-air-collision",
+    "title": "Hull Bridge Halifax Mid-Air Collision Memorial"
   },
   {
     "field": "crew",
     "current": "0 crew",
     "should_be": "14 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "lancaster-bombers-ed730-and-nd327",
+    "title": "Lancaster Bombers ED730 and ND327"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "lancaster-bombers-ed730-and-nd327",
     "title": "Lancaster Bombers ED730 and ND327"
@@ -1596,51 +951,19 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This plaque has been donated by Caistor and District Lions",
+    "should_be": "Aircraft crashed on school site in Leicester",
     "confidence": "medium",
-    "slug": "lancaster-r5672",
-    "title": "Lancaster R5672"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "in the parish of Ulceby",
-    "confidence": "medium",
-    "slug": "lancasters-jb670-and-lm332",
-    "title": "Lancasters JB670 and LM332"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "unveiled by the relatives for the 70th anniversary",
-    "confidence": "medium",
-    "slug": "lancasters-me625-and-nd981",
-    "title": "Lancasters ME625 and ND981"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "integrated into the community_connection field",
-    "confidence": "medium",
-    "slug": "laughterton-1-eh940",
-    "title": "Laughterton (1) Stirling Memorial"
+    "slug": "leicester-pa269",
+    "title": "Leicester Lancaster Memorial"
   },
   {
     "field": "crash_date",
-    "current": "04/02/1946 (post-war)",
-    "should_be": "1946-02-04",
-    "reasoning": "OVER LEICESTER ON 4th FEBRUARY 1946",
+    "current": "1941-07-26",
+    "should_be": "1941-07-22",
+    "reasoning": "\"ON JULY 22 1941 AT THE GREESTONES\" \u2014 this date is explicitly stated and applies to the events at the Greestones and Greestone Stairs including the four airmen",
     "confidence": "high",
-    "slug": "leicester-pa269",
-    "title": "Leicester Lancaster Memorial"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This plaque has been erected in memory of the Airmen",
-    "confidence": "medium",
-    "slug": "leicester-pa269",
-    "title": "Leicester Lancaster Memorial"
+    "slug": "lincoln-high-school-ww2-aircrash-memorial",
+    "title": "Lincoln High School WW2 Aircrash Memorial"
   },
   {
     "field": "crew",
@@ -1651,25 +974,26 @@
     "title": "Lincoln High School WW2 Aircrash Memorial"
   },
   {
-    "field": "community_connection",
+    "field": "crash_date",
     "current": "",
-    "should_be": "GREESTONES",
-    "confidence": "medium",
-    "slug": "lincoln-high-school-ww2-aircrash-memorial",
-    "title": "Lincoln High School WW2 Aircrash Memorial"
+    "should_be": "1944-03-26",
+    "reasoning": "ON 26TH MARCH 1944",
+    "confidence": "high",
+    "slug": "location-via-iwm-handley-page-halifax",
+    "title": "(Location via IWM) (WW2) Memorial"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "Organised by the Moortown 2010 Committee as a contribution to the Bicentenary of Bournemouth.",
+    "should_be": "No. 425 Squadron Royal Canadian Air Force",
     "confidence": "medium",
-    "slug": "moordown-jp137",
-    "title": "Moordown Halifax Memorial"
+    "slug": "location-via-iwm-handley-page-halifax",
+    "title": "(Location via IWM) (WW2) Memorial"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Normanton on Soar",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "normanton-on-soar-bomber-crash",
     "title": "Normanton on Soar - Bomber crash"
@@ -1677,112 +1001,63 @@
   {
     "field": "serial_number",
     "current": "",
-    "should_be": "44-6137, 43-38746",
+    "should_be": "R5672",
     "confidence": "high",
-    "slug": "north-lopham-mid-air-collision-b-17-44-6137-the-abo",
-    "title": "North Lopham (mid-air collision) 43-38746 Memorial"
+    "slug": "north-kelsey-moor-lancaster-r-5672",
+    "title": "North Kelsey Moor R.5672 Memorial"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "SNETTERTON HEATH",
-    "confidence": "medium",
-    "slug": "north-lopham-mid-air-collision-b-17-44-6137-the-abo",
-    "title": "North Lopham (mid-air collision) 43-38746 Memorial"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial was erected by Lillian Brindley, indicating a local connection and impact.",
+    "should_be": "A poem titled 'My Rose' attributed to Lillian Brindley is inscribed on the memorial, indicating a personal or community connection to the crew members",
     "confidence": "medium",
     "slug": "pilot-officer-h-e-rath-and-sergeant-k-m-miegel",
     "title": "Vickers Wellington T2834"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "REMEMBERED WITH PRIDE BY THEIR SONS AND FAMILIES.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "2 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "pilot-officers-b-w-jobling-and-f-w-weston",
     "title": "de Havilland Mosquito DZ739"
   },
   {
-    "field": "serial_number",
-    "current": "",
-    "should_be": "R1535",
-    "confidence": "high",
-    "slug": "polish-aircrew-1943-dunmoor-hill",
-    "title": "Polish Aircrew 1943 Dunmoor Hill"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "301 POMERANIAN SQN.",
-    "confidence": "medium",
-    "slug": "polish-aircrew-1943-dunmoor-hill",
-    "title": "Polish Aircrew 1943 Dunmoor Hill"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription is for a crash site of an aircraft, indicating the community's connection to those who served in the Pomeranian Squadron.",
-    "confidence": "medium",
-    "slug": "polish-aircrew-1943-dunmoor-hill",
-    "title": "Polish Aircrew 1943 Dunmoor Hill"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This plaque has been erected in memory of the Airmen",
+    "should_be": "Aircraft crashed onto a school site in Leicester; plaque erected at the crash location",
     "confidence": "medium",
     "slug": "polish-aircrew-avro-lancaster-pa269",
     "title": "Polish aircrew - Avro Lancaster PA269"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "No 24 O.T.U",
-    "confidence": "medium",
-    "slug": "raf-bomber-a-w-whitley-z6639-and-crew",
-    "title": "RAF Bomber A W Whitley Z6639 and Crew"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "R.A.F HONEYBOURNE WORCS",
-    "confidence": "medium",
-    "slug": "raf-bomber-a-w-whitley-z6639-and-crew",
-    "title": "RAF Bomber A W Whitley Z6639 and Crew"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "WITHINGTON / ON",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "raf-wellington-aircrew",
     "title": "RAF Wellington Aircrew"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "This memorial was donated by Mr. Joseph Arthur Plant/ IN MEMORY OF HIS CLOSE FRIEND - RAF PILOT OFFICER/ HERBERT SYDNEY KEETON OF CRESWELL/",
+    "should_be": "RAF Gamston (base/station only, no squadron number stated)",
     "confidence": "medium",
     "slug": "rcaf-crew-of-raf-wellington-he821-and-pilot-officer-h-s-keeton",
     "title": "Vickers Wellington HE821"
   },
   {
-    "field": "crash_date",
-    "current": "WW2",
-    "should_be": "1945",
-    "reasoning": "INSCRIPTION TEXT: ... IN MEMORY OF THE NINE U.S. AIRMEN WHO DIED HERE IN 1945",
-    "confidence": "high",
-    "slug": "reigate-hill-b-17-flying-fortress",
-    "title": "Reigate Hill Fortress Memorial"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "memorial for those who lost their lives on this site",
+    "should_be": "The aeroplane crashed within the parish itself, and the crew are commemorated alongside local parish men on the same memorial, indicating a direct community connection to the crash site.",
+    "confidence": "medium",
+    "slug": "revesby-nd415",
+    "title": "Revesby Lancaster Memorial"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "royal-canadian-air-force-crew-vickers-wellington-bk387",
     "title": "Royal Canadian Air Force Crew - Vickers Wellington BK387"
@@ -1790,15 +1065,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "ryhope-sunderland-barton-vc",
-    "title": "Ryhope, Sunderland \u2014 Cyril Joe Barton VC Memorial"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "sacrificed his life to save others",
+    "should_be": "Barton crash-landed south-west of Hollycarrside specifically to avoid Ryhope, sacrificing his life to protect the community",
     "confidence": "medium",
     "slug": "ryhope-sunderland-barton-vc",
     "title": "Ryhope, Sunderland \u2014 Cyril Joe Barton VC Memorial"
@@ -1806,7 +1073,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Highgate Farm Scrodington, a local area",
+    "should_be": "null",
     "confidence": "medium",
     "slug": "scredington-ed439",
     "title": "Scredington Lancaster Memorial"
@@ -1814,86 +1081,19 @@
   {
     "field": "crash_date",
     "current": "",
-    "should_be": "22nd OCTOBER 1943",
-    "reasoning": "AT 9:20 PM/ ON THE NIGHT OF 22ND OCTOBER/ 1943",
+    "should_be": "1943-10-22",
+    "reasoning": "SGT A J SMITH WHO AT 9:20 PM ON THE NIGHT OF 22ND OCTOBER 1943",
     "confidence": "high",
     "slug": "sergeant-a-j-smith-and-short-stirling-ef352",
     "title": "Short Stirling EF352"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "VILLAGE AT PRESTON WYNNE HEREFORD",
-    "confidence": "high",
-    "slug": "sergeant-a-j-smith-and-short-stirling-ef352",
-    "title": "Short Stirling EF352"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "LEAVING A WIDOW AND THREE SONS IN HEDGE END. COMMUNITY CONNECTION: OF HEDGE END",
-    "confidence": "medium",
-    "slug": "sergeant-a-j-smith-and-short-stirling-ef352",
-    "title": "Short Stirling EF352"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions that the crash site is close to where the surviving crew members landed, indicating a local connection.",
-    "confidence": "medium",
-    "slug": "sergeant-f-rowney-and-flight-sergeant-t-barker-and-handley-page-hampden-ad854",
-    "title": "Handley Page Hampden AD854"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1943-01-30",
-    "reasoning": "KILLED ON THIS SPOT AT 0245 30/1/43",
-    "confidence": "high",
-    "slug": "sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538",
-    "title": "Vickers Wellington R1538"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Wymeswold",
-    "confidence": "medium",
-    "slug": "sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538",
-    "title": "Vickers Wellington R1538"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1943-04-09",
-    "reasoning": "9TH APRIL 1943",
-    "confidence": "high",
-    "slug": "short-stirling-bk770",
-    "title": "Short Stirling BK770"
   },
   {
     "field": "squadron",
     "current": "",
-    "should_be": "75 (NZ) Squadron R.A.F",
+    "should_be": "28 O.T.U. R.A.F. WYMESWOLD",
     "confidence": "medium",
-    "slug": "short-stirling-bk770",
-    "title": "Short Stirling BK770"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This oak tree was planted on/7TH APRIL 1991 in memory of the AIRCREW",
-    "confidence": "medium",
-    "slug": "short-stirling-bk770",
-    "title": "Short Stirling BK770"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-05-23",
-    "reasoning": "23.5.1944",
-    "confidence": "high",
-    "slug": "short-stirling-bk784",
-    "title": "Short Stirling BK784"
+    "slug": "sergeant-t-butterley-and-sergeant-a-priest-vickers-wellington-r1538",
+    "title": "Vickers Wellington R1538"
   },
   {
     "field": "crew",
@@ -1904,194 +1104,97 @@
     "title": "Short Stirling BK784"
   },
   {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-eh940-and-avro-lancaster-lm292",
+    "title": "Short Stirling EH940 and Avro Lancaster LM292"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "1654 HBCU",
+    "confidence": "medium",
+    "slug": "short-stirling-lj450",
+    "title": "Short Stirling LJ450"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-lj930",
+    "title": "Short Stirling LJ930"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-lk116",
+    "title": "Short Stirling LK116"
+  },
+  {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription mentions 'CREW OF STIRLING BOMBER', indicating a local connection to the community.",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "short-stirling-bk784",
-    "title": "Short Stirling BK784"
+    "slug": "short-stirling-lk276",
+    "title": "Short Stirling LK276"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-n3756",
+    "title": "Short Stirling N3756"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Memorial fence erected in 1993 by P. Ryan (Gwent) and J.B. Hammond (Suffolk)",
+    "confidence": "medium",
+    "slug": "short-stirling-n3756",
+    "title": "Short Stirling N3756"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-r9329",
+    "title": "Short Stirling R9329"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-w7441",
+    "title": "Short Stirling W7441"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "short-stirling-w7467",
+    "title": "Short Stirling W7467"
   },
   {
     "field": "crew",
     "current": "0 crew",
     "should_be": "5 crew (extract from inscription)",
     "confidence": "medium",
-    "slug": "short-stirling-eh940-and-avro-lancaster-lm292",
-    "title": "Short Stirling EH940 and Avro Lancaster LM292"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "killed in action at Kettlethorpe",
-    "confidence": "medium",
-    "slug": "short-stirling-eh940-and-avro-lancaster-lm292",
-    "title": "Short Stirling EH940 and Avro Lancaster LM292"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "1660 Heavy Conversion Unit",
-    "confidence": "medium",
-    "slug": "short-stirling-eh977",
-    "title": "Short Stirling EH977"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Based at RAF Swinderby. Commissioned and erected by the Lincolnshire Aircraft Recovery Group for the 70th Anniversary on behalf of the families.",
-    "confidence": "medium",
-    "slug": "short-stirling-eh977",
-    "title": "Short Stirling EH977"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "In MEMORY OF/ IN FRIENDSHIP AND IN SERVICE",
-    "confidence": "medium",
-    "slug": "short-stirling-eh988",
-    "title": "Short Stirling EH988"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "erected by Theaker Family and GP CAPT MP. COLLEY, STATION COMMANDER RAF CRANWELL",
-    "confidence": "medium",
-    "slug": "short-stirling-lj450",
-    "title": "Short Stirling LJ450"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1945-04-20",
-    "reasoning": "ON THE 20th APRIL, 1945.",
-    "confidence": "high",
-    "slug": "short-stirling-lj930",
-    "title": "Short Stirling LJ930"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "WINDLESHAM, SURREY",
-    "confidence": "medium",
-    "slug": "short-stirling-lj930",
-    "title": "Short Stirling LJ930"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "ADJACENT TO THE RIVER CHELMER / IN THE FIELDS BEHIND OAKROYD AVENUE",
-    "confidence": "medium",
-    "slug": "short-stirling-lk116",
-    "title": "Short Stirling LK116"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "XV Squadron",
-    "confidence": "medium",
-    "slug": "short-stirling-n3703",
-    "title": "Short Stirling N3703"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "honours their sacrifice, and all those who flew with XV Squadron, and recognises the service they gave to their country in its time of need",
-    "confidence": "medium",
-    "slug": "short-stirling-n3703",
-    "title": "Short Stirling N3703"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "75 (NZ) SQUADRON RAF",
-    "confidence": "medium",
-    "slug": "short-stirling-r9245",
-    "title": "Short Stirling R9245"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Ake Ake KIA KAHA",
-    "confidence": "medium",
-    "slug": "short-stirling-r9245",
-    "title": "Short Stirling R9245"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "We Will Remember Them",
-    "confidence": "medium",
-    "slug": "short-stirling-r9329",
-    "title": "Short Stirling R9329"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial is dedicated to the memory of all airmen and airwomen who were injured, reported missing, or died while in service of their country. It was erected by SAC(T) Jamie Fowler.",
-    "confidence": "medium",
-    "slug": "short-stirling-w7441",
-    "title": "Short Stirling W7441"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The people of Earith, 7 Squadron Association and this Stone remember them",
-    "confidence": "medium",
-    "slug": "short-stirling-w7467",
-    "title": "Short Stirling W7467"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The parish of Clenchwarton, Stirling W 7473",
-    "confidence": "medium",
-    "slug": "short-stirling-w7473-handley-page-halifax-hr832-and-bristol-blenheim-z7278",
-    "title": "Short Stirling W7473, Handley Page Halifax HR832 and Bristol Blenheim Z7278"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is for those killed in the crash of a Stirling bomber at Cliffe, indicating local community connection.",
-    "confidence": "medium",
-    "slug": "short-stirling-w7628",
-    "title": "Short Stirling W7628"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The crew were among the first British to land in Oslo, Norway at the end of hostilities and were also involved in the repatriation of POWs as the Allies advanced on Germany.",
-    "confidence": "medium",
-    "slug": "short-stirling-x9-y-worry",
-    "title": "Short Stirling X9-Y (Worry!)"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "24 OTU, RAF Honeybourne",
-    "confidence": "medium",
     "slug": "st-egwin-s-church-norton-and-lenchwick-ww2-wellington-memorial",
     "title": "St Egwin's Church, Norton and Lenchwick - WW2 Wellington Memorial"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This village",
-    "confidence": "medium",
-    "slug": "st-egwin-s-church-norton-and-lenchwick-ww2-wellington-memorial",
-    "title": "St Egwin's Church, Norton and Lenchwick - WW2 Wellington Memorial"
-  },
-  {
-    "field": "serial_number",
-    "current": "",
-    "should_be": "V5851",
-    "confidence": "high",
-    "slug": "stow-bedon-blenheim-v-5851",
-    "title": "Stow Bedon V.5851 Memorial"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is for the community of Watton, likely a local response to the loss of these young men.",
+    "should_be": "Eyewitness account states the pilot deliberately put the nose down to crash into a field rather than hit a house, saving all occupants inside",
     "confidence": "medium",
     "slug": "stow-bedon-blenheim-v-5851",
     "title": "Stow Bedon V.5851 Memorial"
@@ -2099,23 +1202,15 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "the-gunthorpe-fallen-and-lancaster-r5703",
-    "title": "The Gunthorpe Fallen and Lancaster R5703"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "In Memory of the Bomber Crew who died in the Parish of Gunthorpe",
+    "should_be": "Memorial located in Gunthorpe Parish commemorates both WWI fallen (Plaque 1) and a WW2 bomber crew who died within the parish (Plaque 2), indicating community recognition of both conflicts.",
     "confidence": "medium",
     "slug": "the-gunthorpe-fallen-and-lancaster-r5703",
     "title": "The Gunthorpe Fallen and Lancaster R5703"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "The memorial was erected in grateful appreciation of their sacrifice by George and Alma Sparrow, indicating a local connection.",
+    "should_be": "Royal Air Force (no specific squadron stated)",
     "confidence": "medium",
     "slug": "two-avro-lancaster-crews-st-peter-ad-vincula",
     "title": "Two Avro Lancaster Crews - St Peter ad Vincula"
@@ -2123,34 +1218,10 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "commemoration of crew members who died",
+    "should_be": "Memorial erected by George and Alma Sparrow in grateful appreciation of the crews' sacrifice",
     "confidence": "medium",
-    "slug": "ulceby-cross-pb476",
-    "title": "Ulceby Cross Lancaster Memorial"
-  },
-  {
-    "field": "aircraft_type",
-    "current": "",
-    "should_be": "DE HAVILLAND MOSQUITO NFXIII",
-    "confidence": "high",
-    "slug": "vautour-mitchell-crash-site",
-    "title": "Vautour - Mitchell crash site"
-  },
-  {
-    "field": "serial_number",
-    "current": "",
-    "should_be": "NFXIII-MM573",
-    "confidence": "high",
-    "slug": "vautour-mitchell-crash-site",
-    "title": "Vautour - Mitchell crash site"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "409 (RCAF) Squadron",
-    "confidence": "medium",
-    "slug": "vautour-mitchell-crash-site",
-    "title": "Vautour - Mitchell crash site"
+    "slug": "two-avro-lancaster-crews-st-peter-ad-vincula",
+    "title": "Two Avro Lancaster Crews - St Peter ad Vincula"
   },
   {
     "field": "crew",
@@ -2161,33 +1232,9 @@
     "title": "Vautour - Mitchell crash site"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "This memorial is dedicated to the memory of the crew members and their connection to the community.",
-    "confidence": "medium",
-    "slug": "vautour-mitchell-crash-site",
-    "title": "Vautour - Mitchell crash site"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Memorial to crash site",
-    "confidence": "medium",
-    "slug": "vickers-wellington-bj697",
-    "title": "Vickers Wellington BJ697"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "vickers-wellington-bj879",
-    "title": "Vickers Wellington BJ879"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Donated by ANGLIAN WATER SERVICES LTD",
+    "should_be": "26 OTU",
     "confidence": "medium",
     "slug": "vickers-wellington-bj879",
     "title": "Vickers Wellington BJ879"
@@ -2195,148 +1242,122 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Wellington Bomber of 17 0TU RAF Turweston",
+    "should_be": "Aircraft crashed into the local water tower; memorial donated by Anglian Water Services Ltd, successor organisation to the water authority responsible for the tower",
+    "confidence": "medium",
+    "slug": "vickers-wellington-bj879",
+    "title": "Vickers Wellington BJ879"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-bk157",
+    "title": "Vickers Wellington BK157"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "17 OTU RAF Turweston",
     "confidence": "medium",
     "slug": "vickers-wellington-bk352",
     "title": "Vickers Wellington BK352"
   },
   {
-    "field": "community_connection",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-bk352",
+    "title": "Vickers Wellington BK352"
+  },
+  {
+    "field": "squadron",
     "current": "",
-    "should_be": "Nash End Farm",
+    "should_be": "26 OTU",
     "confidence": "medium",
     "slug": "vickers-wellington-bk491",
     "title": "Vickers Wellington BK491"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "donated by the members of the ROYAL BRITISH LEGION. The Australian High Commission have donated this Eucalyptus Tree as a symbol/ of the homeland of these countrymen who perished here in the course of duty.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-bk491",
+    "title": "Vickers Wellington BK491"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-bk517",
+    "title": "Vickers Wellington BK517"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-dv697",
     "title": "Vickers Wellington DV697"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "Sgt McCord in Argadh, Ireland",
-    "confidence": "high",
-    "slug": "vickers-wellington-dv717",
-    "title": "Vickers Wellington DV717"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "erected by community connection (Ollerton Cemetery)",
+    "should_be": "RNAF (likely RNZAF - Royal New Zealand Air Force, suggested by M\u0101ori language on lower plaque)",
     "confidence": "medium",
     "slug": "vickers-wellington-dv717",
     "title": "Vickers Wellington DV717"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "memorial to the crew of Wellington bomber DV771",
+    "should_be": "28 OTU",
     "confidence": "medium",
     "slug": "vickers-wellington-dv771",
     "title": "Vickers Wellington DV771"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "18 O.T.U. RAF WORKSOP (south side); 425 (ALOUETTE) SQUADRON RCAF / RAF THOLTHORPE (north side)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-he818-and-handley-page-halifax-na581",
+    "title": "Vickers Wellington HE818 and Handley Page Halifax NA581"
+  },
+  {
+    "field": "squadron",
+    "current": "",
+    "should_be": "84 Operational Training Unit, Bomber Command, RAF Desborough",
+    "confidence": "medium",
+    "slug": "vickers-wellington-hf570",
+    "title": "Vickers Wellington HF570"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Memorial also recognises other airmen who lost their lives during training at RAF Desborough, indicating broader community remembrance beyond single crash",
+    "confidence": "medium",
+    "slug": "vickers-wellington-hf570",
+    "title": "Vickers Wellington HF570"
   },
   {
     "field": "crew",
     "current": "0 crew",
     "should_be": "5 crew (extract from inscription)",
     "confidence": "medium",
-    "slug": "vickers-wellington-dv930",
-    "title": "Vickers Wellington DV930"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "THE PEOPLE OF CHEDISTON",
-    "confidence": "medium",
-    "slug": "vickers-wellington-dv930",
-    "title": "Vickers Wellington DV930"
+    "slug": "vickers-wellington-hf613",
+    "title": "Vickers Wellington HF613"
   },
   {
     "field": "squadron",
     "current": "",
-    "should_be": "424(TIGER) SQUADRON RCAF",
+    "should_be": "82 OTU",
     "confidence": "medium",
-    "slug": "vickers-wellington-he159",
-    "title": "Vickers Wellington HE159"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "UNVEILED ON THE 6OTH ANNIVERSARY BY THE GRATEFUL PEOPLES OF CANADA AND ROLVENDEN AND PAID FOR BY PUBLIC SUBSCRIPTION",
-    "confidence": "medium",
-    "slug": "vickers-wellington-he159",
-    "title": "Vickers Wellington HE159"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-01-09",
-    "reasoning": "9th. January 1944",
-    "confidence": "high",
-    "slug": "vickers-wellington-he320",
-    "title": "Vickers Wellington HE320"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "of Rainham, Essex. / of Big River, Saskatchewan,/ Canada",
-    "confidence": "medium",
-    "slug": "vickers-wellington-he320",
-    "title": "Vickers Wellington HE320"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "In memory of the crew",
-    "confidence": "medium",
-    "slug": "vickers-wellington-he702",
-    "title": "Vickers Wellington HE702"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "BLYTH; HODSOCK",
-    "confidence": "medium",
-    "slug": "vickers-wellington-he818-and-handley-page-halifax-na581",
-    "title": "Vickers Wellington HE818 and Handley Page Halifax NA581"
-  },
-  {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1944-09-05",
-    "reasoning": "ON THE 5TH OF SEPTEMBER 1944",
-    "confidence": "high",
-    "slug": "vickers-wellington-hf570",
-    "title": "Vickers Wellington HF570"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The memorial is erected at RAF Desborough, indicating a strong community connection.",
-    "confidence": "medium",
-    "slug": "vickers-wellington-hf570",
-    "title": "Vickers Wellington HF570"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "over Roade",
-    "confidence": "medium",
-    "slug": "vickers-wellington-hf641",
-    "title": "Vickers Wellington HF641"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The Fallen/ They have passed beyond the stress and storm of mortal strife/ through the gateways of the morning to a wider life/ asking only this of us, that we with faith/ and pride/ remember in the after years the things for/ which they died.",
-    "confidence": "medium",
-    "slug": "vickers-wellington-hz251",
-    "title": "Vickers Wellington HZ251"
+    "slug": "vickers-wellington-ln181",
+    "title": "Vickers Wellington LN181"
   },
   {
     "field": "crew",
@@ -2347,33 +1368,49 @@
     "title": "Vickers Wellington LN181"
   },
   {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Memorial dedicated to the Canadian crew who crashed in the local community of Yardly Gobion",
+    "confidence": "medium",
+    "slug": "vickers-wellington-ln181",
+    "title": "Vickers Wellington LN181"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "15 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-ln660-and-short-stirling-eh989",
+    "title": "Vickers Wellington LN660 and Short Stirling EH989"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Memorial at Westcott Airfield dedicated to all units and personnel based there; unveiled 28.09.2012 on 70th anniversary of No. 11 OTU's initial arrival",
+    "confidence": "medium",
+    "slug": "vickers-wellington-ln660-and-short-stirling-eh989",
+    "title": "Vickers Wellington LN660 and Short Stirling EH989"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
+    "confidence": "medium",
+    "slug": "vickers-wellington-lp397",
+    "title": "Vickers Wellington LP397"
+  },
+  {
     "field": "squadron",
     "current": "",
-    "should_be": "RAF WYMESWOLD / NO 93 GROUP BOMBER",
-    "confidence": "medium",
-    "slug": "vickers-wellington-lp397",
-    "title": "Vickers Wellington LP397"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "RAF WYMESWOLD / Heritage Group 2011",
-    "confidence": "medium",
-    "slug": "vickers-wellington-lp397",
-    "title": "Vickers Wellington LP397"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "With Thanks To All The Young Men And Women Who Came From Foreign Shores To Help Our Country In A Time Of Need",
+    "should_be": "82 O.T.U. - Ossington",
     "confidence": "medium",
     "slug": "vickers-wellington-lp841-stone",
     "title": "Vickers Wellington LP841 - Stone"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "82 O.T.U.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "4 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-lp841-tablet",
     "title": "Vickers Wellington LP841 - Tablet"
@@ -2381,18 +1418,10 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "LAXTON",
+    "should_be": "Crash occurred in South Field Laxton, suggesting direct local impact on the community of Laxton",
     "confidence": "medium",
     "slug": "vickers-wellington-lp841-tablet",
     "title": "Vickers Wellington LP841 - Tablet"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "26 OTU, R.A.F. WING, OXFORDSHIRE",
-    "confidence": "medium",
-    "slug": "vickers-wellington-mf116",
-    "title": "Vickers Wellington MF116"
   },
   {
     "field": "crew",
@@ -2403,74 +1432,33 @@
     "title": "Vickers Wellington MF116"
   },
   {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1943-08-24",
-    "reasoning": "AT 11-48 PM 24-8-1943 / WHILST ON ANTI-SUBMARINE PATROL / A WELLINGTON BOMBER CRASHED NEAR / THIS STONE.",
-    "confidence": "high",
-    "slug": "vickers-wellington-mp624",
-    "title": "Vickers Wellington MP624"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This stone marks the 50th anniversary of their sacrifice.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-mp624",
     "title": "Vickers Wellington MP624"
   },
   {
-    "field": "squadron",
-    "current": "",
-    "should_be": "27 OTU / RAF Lichfield",
-    "confidence": "medium",
-    "slug": "vickers-wellington-n2749",
-    "title": "Vickers Wellington N2749"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "community_connection: The Royal British Legion Milford Haven Branch erected this memorial for the Pembrokeshire Aviation Group.",
-    "confidence": "medium",
-    "slug": "vickers-wellington-n2749",
-    "title": "Vickers Wellington N2749"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "null",
-    "confidence": "high",
-    "slug": "vickers-wellington-n2848",
-    "title": "Vickers Wellington N2848"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The PARKER FAMILY AND LOCAL PEOPLE",
-    "confidence": "medium",
-    "slug": "vickers-wellington-n2848",
-    "title": "Vickers Wellington N2848"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The crash site was at RAF Langham, which is a local airfield.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "7 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-nb824",
     "title": "Vickers Wellington NB824"
   },
   {
-    "field": "squadron",
+    "field": "community_connection",
     "current": "",
-    "should_be": "304 POLISH SQUADRON",
+    "should_be": "Three survivors were assisted by two American soldiers and Leading Aircraftwoman Ivy Cross, who was later awarded the British Empire Medal for bravery. Plaque unveiled 28th March 2015 in the presence of many relatives of the crew.",
     "confidence": "medium",
-    "slug": "vickers-wellington-nz-n",
-    "title": "Vickers Wellington NZ-N"
+    "slug": "vickers-wellington-nb824",
+    "title": "Vickers Wellington NB824"
   },
   {
     "field": "crew",
     "current": "0 crew",
-    "should_be": "4 crew (extract from inscription)",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-nz-n",
     "title": "Vickers Wellington NZ-N"
@@ -2478,81 +1466,48 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": {
-      "names": [
-        "EDWIN WILLIAMS",
-        "his wife ANNIE JANE"
-      ],
-      "relationship_to_community": null
-    },
-    "confidence": "high",
-    "slug": "vickers-wellington-r1461",
-    "title": "Vickers Wellington R1461"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": {
-      "erected_by": null,
-      "local_organisations": null
-    },
+    "should_be": "Memorial is displayed in a pub, suggesting local community connection, but no explicit community impact is stated in the inscription text.",
     "confidence": "medium",
-    "slug": "vickers-wellington-r1461",
-    "title": "Vickers Wellington R1461"
+    "slug": "vickers-wellington-r1028",
+    "title": "Vickers Wellington R1028"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription mentions that the memorial is for those who died, indicating a local connection and community impact.",
+    "should_be": "Crew explicitly identified as Canadian; community_connection field in database is blank and should be updated to reflect Canadian nationality of crew",
     "confidence": "medium",
     "slug": "vickers-wellington-r1465",
     "title": "Vickers Wellington R1465"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "Mr & Mrs Titmarsh SURVIVED.",
-    "confidence": "high",
-    "slug": "vickers-wellington-r1474",
-    "title": "Vickers Wellington R1474"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The occupants were Mr & Mrs Titmarsh, indicating a local connection.",
-    "confidence": "medium",
-    "slug": "vickers-wellington-r1474",
-    "title": "Vickers Wellington R1474"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Six crew members lie at rest with the Commonwealth Graves Commission Reservation, Dyce Old Churchyard, Aberdeen and two in their home cemeteries in England.",
+    "should_be": "20 Operational Training Unit, RAF Lossiemouth",
     "confidence": "medium",
     "slug": "vickers-wellington-r1646-and-all-other-aircrew-killed-over-the-cairngorms",
     "title": "Vickers Wellington R1646 and all other Aircrew Killed over The Cairngorms"
   },
   {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions 'ALL WERE KILLED', indicating a significant local impact and community connection.",
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "8 crew (extract from inscription)",
     "confidence": "medium",
+    "slug": "vickers-wellington-r1646-and-all-other-aircrew-killed-over-the-cairngorms",
+    "title": "Vickers Wellington R1646 and all other Aircrew Killed over The Cairngorms"
+  },
+  {
+    "field": "crash_date",
+    "current": "1940-12-09",
+    "should_be": "1940-12-10",
+    "reasoning": "CRASHED HERE 10.12.1940",
+    "confidence": "high",
     "slug": "vickers-wellington-t2520",
     "title": "Vickers Wellington T2520"
   },
   {
-    "field": "crash_date",
+    "field": "squadron",
     "current": "",
-    "should_be": "1941-02-08",
-    "reasoning": "8TH FEB 1941",
-    "confidence": "high",
-    "slug": "vickers-wellington-w5365",
-    "title": "Vickers Wellington W5365"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Commonside, Old Leake",
+    "should_be": "14 OTU Cottesmore",
     "confidence": "medium",
     "slug": "vickers-wellington-w5667",
     "title": "Vickers Wellington W5667"
@@ -2560,16 +1515,16 @@
   {
     "field": "crash_date",
     "current": "",
-    "should_be": "20.10.1944",
-    "reasoning": "DISINTEGRATED OVER BRIDGEMERE 20.10.1944",
+    "should_be": "1944-10-20",
+    "reasoning": "DISINTEGRATED OVER BRIDGEMERE 20. 10. 1944",
     "confidence": "high",
     "slug": "vickers-wellington-x-hf465",
     "title": "Vickers Wellington X HF465"
   },
   {
-    "field": "community_connection",
+    "field": "squadron",
     "current": "",
-    "should_be": "The memorial is for a crash site in Bridgmere, indicating local community connection.",
+    "should_be": "12 O.T.U.",
     "confidence": "medium",
     "slug": "vickers-wellington-x-hf465",
     "title": "Vickers Wellington X HF465"
@@ -2577,23 +1532,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "vickers-wellington-x3707",
-    "title": "Vickers Wellington X3707"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "at Craiglockhart View",
-    "confidence": "medium",
-    "slug": "vickers-wellington-x3707",
-    "title": "Vickers Wellington X3707"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
+    "should_be": "Winslow residents and evacuees are explicitly named among those who lost their lives alongside aircrew",
     "confidence": "high",
     "slug": "vickers-wellington-x3790",
     "title": "Vickers Wellington X3790"
@@ -2601,7 +1540,7 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "To the memory of those Winslow residents, evacuees and aircrew",
+    "should_be": "Winslow residents and evacuees lost their lives in the crash alongside aircrew, indicating a significant local civilian impact",
     "confidence": "medium",
     "slug": "vickers-wellington-x3790",
     "title": "Vickers Wellington X3790"
@@ -2615,26 +1554,9 @@
     "title": "Vickers Wellington Z8397"
   },
   {
-    "field": "crash_date",
-    "current": "",
-    "should_be": "1943-11-12",
-    "reasoning": "A WELLINGTON BOMBER CRASHED ON THESE MOORS ON NOV. 12TH 1943.",
-    "confidence": "high",
-    "slug": "vickers-wellington-z8799",
-    "title": "Vickers Wellington Z8799"
-  },
-  {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "vickers-wellington-z8799",
-    "title": "Vickers Wellington Z8799"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "ERECTED BY THE ROTARY CLUB OF HORWICH",
+    "should_be": "Memorial erected by the Rotary Club of Horwich in June 1955; family members traveled from South Australia to attend the 60th anniversary commemoration on 16 November 2003",
     "confidence": "medium",
     "slug": "vickers-wellington-z8799",
     "title": "Vickers Wellington Z8799"
@@ -2642,7 +1564,15 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This memorial is dedicated to the crew of Wellington Mk 1c Z8863 KO-G of 115 Squadron",
+    "should_be": "null",
+    "confidence": "medium",
+    "slug": "vickers-wellington-z8860",
+    "title": "Vickers Wellington Z8860"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "9 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "vickers-wellington-z8863",
     "title": "Vickers Wellington Z8863"
@@ -2650,31 +1580,32 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Dutch, Canadian and British Airmen",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "vickers-wellingtons-hf517-and-mf589",
-    "title": "Vickers Wellingtons HF517 and MF589"
+    "slug": "vickers-wellington-z8863",
+    "title": "Vickers Wellington Z8863"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The memorial is in Whittlebury, indicating a local connection",
+    "should_be": "Memorial erected in Whittlebury (MMXVII=2017), the crash site community, commemorating both incidents",
     "confidence": "medium",
     "slug": "vickers-wellingtons-ln532-and-lp172",
     "title": "Vickers Wellingtons LN532 and LP172"
   },
   {
-    "field": "community_connection",
+    "field": "crash_date",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
+    "should_be": "1944-01-09",
+    "reasoning": "Who died when their Wellington Bomber Crashed in Ford On 9th January, 1944",
     "confidence": "high",
-    "slug": "walton-on-the-naze-rg475",
-    "title": "Walton-on-the-Naze VII Memorial"
+    "slug": "victor-george-bailey-and-louis-grover-martin-wellington-crash-ford",
+    "title": "Ford Vickers Wellington"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "The inscription mentions: 'THIS MEMORIAL WAS ERECTED IN 1979 BY THE FRINTON AND WALTON ROYAL AIR FORCES ASSOCIATION TO COMMEMORATE THE 60TH ANNIVERSARY OF THE FORMATION OF THE ROYAL AIR FORCE AND THE 30th OF THE BRANCH.'",
+    "should_be": "Memorial dedicated to all local men and women who have served in the Royal Air Force, in addition to the Halifax crew",
     "confidence": "medium",
     "slug": "walton-on-the-naze-rg475",
     "title": "Walton-on-the-Naze VII Memorial"
@@ -2682,42 +1613,10 @@
   {
     "field": "crew",
     "current": "0 crew",
-    "should_be": "4 crew (extract from inscription)",
+    "should_be": "3 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "weasenham-r-a-f-aircrew-ww-ii",
     "title": "Weasenham R.A.F. Aircrew WW II"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "North American Mitchell II, FL206, 98 Sqn. Flt. Sgt. D.C. Tanner RAFVR Sgt. E.H. Boreham RAFVR Sgt. L.H. Horton RAFVR LAC. F.E. Barnett RAFVR Douglas Boston III, AL285, 342 'Lorraine' Sqn.",
-    "confidence": "medium",
-    "slug": "weasenham-r-a-f-aircrew-ww-ii",
-    "title": "Weasenham R.A.F. Aircrew WW II"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "near the village of Westbury",
-    "confidence": "medium",
-    "slug": "wellington-bomber-crash-westbury-may-1943",
-    "title": "Wellington Bomber Crash Westbury - May 1943"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "This memorial was erected to their honour in 1988",
-    "confidence": "medium",
-    "slug": "wellington-bomber-crash",
-    "title": "Wellington Bomber Crash"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "UNIT 11 O.T.U. AT WESTCOTT",
-    "confidence": "medium",
-    "slug": "wellington-bomber-he740",
-    "title": "Wellington Bomber - HE740"
   },
   {
     "field": "crew",
@@ -2730,15 +1629,15 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Presented to the museum by Sgt Mullis' daughter / on October 4th 2000",
+    "should_be": "null",
     "confidence": "medium",
-    "slug": "wellington-bomber-he746",
-    "title": "Wellington Bomber HE746"
+    "slug": "wellington-bomber-he740",
+    "title": "Wellington Bomber - HE740"
   },
   {
-    "field": "serial_number",
+    "field": "aircraft_type",
     "current": "",
-    "should_be": "MF509",
+    "should_be": "Wellington X",
     "confidence": "high",
     "slug": "wellington-bomber-mk-x-mf509",
     "title": "Wellington Bomber Mk.X, MF509"
@@ -2747,23 +1646,15 @@
     "field": "crew",
     "current": "0 crew",
     "should_be": "6 crew (extract from inscription)",
-    "confidence": "medium",
-    "slug": "wellington-bomber-mk-x-mf509",
-    "title": "Wellington Bomber Mk.X, MF509"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "RAGLAN BAY, APPRENTICES",
     "confidence": "medium",
     "slug": "wellington-bomber-mk-x-mf509",
     "title": "Wellington Bomber Mk.X, MF509"
   },
   {
     "field": "crash_date",
-    "current": "",
-    "should_be": "1940-12-18",
-    "reasoning": "The inscription states 'THIS WAS THE FIRST MAJOR ENCOUNTER OF THE WAR BETWEEN THE ROYAL AIR FORCE AND THE LUFTWAFFE. FROM A FORCE OF 22 WELLINGTONS DRAWN FROM 149, 9 AND 37 SQUADRONS, THE LUFTWAFFE SHOT DOWN 12./ IT WAS A DIRECT RESULT OF THIS DAYLIGHT RAID ON WILHELMSHAVEN THAT BOMBER COMMAND ABANDONED/ PRE-WAR POLICY OF DAYLIGHT RAIDS ON TACTICAL TARGETS AND SWITCHED TO NIGHT OPERATIONS. THE THEORY LONG/ CHERISHED, THAT THE BOMBER WILL ALWAYS GET THROUGH, PERISHED THAT DAY ALONG WITH THE 12 WIMPYS.'",
+    "current": "1940-12-18",
+    "should_be": "1940-12-31",
+    "reasoning": "it ditched on Loch Ness during a snow storm on New Years Eve",
     "confidence": "high",
     "slug": "wellington-bomber-n2980",
     "title": "Wellington Bomber N2980"
@@ -2771,79 +1662,39 @@
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "wellington-bomber-n2980",
-    "title": "Wellington Bomber N2980"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "The inscription mentions that the memorial was erected by the Loch Ness Wellington Association, Ltd. and unveiled by pupils from Drumsna School.",
+    "should_be": "Plaque erected by the Loch Ness Wellington Assoc. Ltd on 60th anniversary of Battle of Heligoland Bight (18th Dec 1989); unveiled by pupils from Drumsmittal School; manufactured by Newmill Castings Ltd, Elgin. Second plaque dedicated June 29 2002 regarding sonar discovery.",
     "confidence": "medium",
     "slug": "wellington-bomber-n2980",
     "title": "Wellington Bomber N2980"
-  },
-  {
-    "field": "squadron",
-    "current": "",
-    "should_be": "304 POLISH SQUADRON",
-    "confidence": "medium",
-    "slug": "wellington-r1392-crash",
-    "title": "Wellington (R1392) crash"
-  },
-  {
-    "field": "crew",
-    "current": "0 crew",
-    "should_be": "4 crew (extract from inscription)",
-    "confidence": "medium",
-    "slug": "wellington-r1392-crash",
-    "title": "Wellington (R1392) crash"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Port of Boulogne where it had been hit and badly damaged",
-    "confidence": "medium",
-    "slug": "wellington-r1392-crash",
-    "title": "Wellington (R1392) crash"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "Civilian casualties mentioned in inscription",
-    "confidence": "high",
-    "slug": "wellington-t2962",
-    "title": "Wellington T2962"
-  },
-  {
-    "field": "community_connection",
-    "current": "",
-    "should_be": "DIED IN LLANGROVE",
-    "confidence": "medium",
-    "slug": "wellington-t2962",
-    "title": "Wellington T2962"
-  },
-  {
-    "field": "serial_number",
-    "current": "",
-    "should_be": "X HE 324",
-    "confidence": "high",
-    "slug": "wellington-x-he-324-crash",
-    "title": "Wellington X HE 324 crash"
   },
   {
     "field": "crew",
     "current": "0 crew",
     "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
-    "slug": "wellington-x-he-324-crash",
-    "title": "Wellington X HE 324 crash"
+    "slug": "wellington-r1392-crash",
+    "title": "Wellington (R1392) crash"
   },
   {
     "field": "community_connection",
     "current": "",
-    "should_be": "This field",
+    "should_be": "Civilian names are present in the inscription alongside military names; all died in Llangrove as a result of the crash. Exact civilian names not recoverable from transcription as provided.",
+    "confidence": "high",
+    "slug": "wellington-t2962",
+    "title": "Wellington T2962"
+  },
+  {
+    "field": "community_connection",
+    "current": "",
+    "should_be": "Both military personnel and civilians died in the local community of Llangrove as a direct result of the crash, indicating significant community impact.",
+    "confidence": "medium",
+    "slug": "wellington-t2962",
+    "title": "Wellington T2962"
+  },
+  {
+    "field": "crew",
+    "current": "0 crew",
+    "should_be": "6 crew (extract from inscription)",
     "confidence": "medium",
     "slug": "wellington-x-he-324-crash",
     "title": "Wellington X HE 324 crash"

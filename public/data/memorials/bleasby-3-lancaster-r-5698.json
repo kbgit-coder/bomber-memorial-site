@@ -51,18 +51,6 @@
       "link_description": "Detailed account of mid-air collision and subsequent loss of Lancaster R5698 crew during WW2 training mission."
     },
     {
-      "source_site": "Bleasby Community Website",
-      "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
-      "summary": "The R5698 crew is commemorated on the Bleasby Aircrew Memorial dedicated on 1 September 2018, exactly 75 years after the mid-air collision. The memorial honours 14 airmen from this single collision event.",
-      "key_details": [
-        "Memorial dedicated exactly 75 years after collision",
-        "14 airmen from collision commemorated"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Detailed accounts of the R5698 crew members, their tragic collision, and the unveiling of the Bleasby Aircrew Memorial in 2018."
-    },
-    {
       "source_site": "Newark Advertiser",
       "original_url": "https://www.newarkadvertiser.co.uk/news/memorial-honours-those-who-made-the-ultimate-sacrifice-9043629/",
       "summary": "Local newspaper coverage of the memorial dedication ceremony, describing the community-led project to honour the approximately 40 airmen who perished near Bleasby during the war.",
@@ -73,6 +61,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Community-led dedication ceremony for Bleasby WW2 airmen memorial, honoring approximately 40 fallen airmen."
+    },
+    {
+      "source_site": "Bleasby Community Website",
+      "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

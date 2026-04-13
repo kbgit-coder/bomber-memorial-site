@@ -140,19 +140,6 @@
       "link_description": "Explore detailed account of McLennan crew's 'Black Thursday' mission on Lancaster JB477 LQ-O during WWII."
     },
     {
-      "source_site": "Fred Vogels WW2 Database",
-      "original_url": "https://ww2.fredvogels.com/the-history/air-force-operations/airplanes-allies-and-axis-lost/lancaster/19676-JB4771943-12-17.html",
-      "summary": "WW2 aviation database entry recording the loss of Avro Lancaster III JB477 LQ-O on 17 December 1943 during a mission to Berlin. Provides technical and operational details of the loss.",
-      "key_details": [
-        "Confirms aircraft as Lancaster III",
-        "Mission target was Berlin",
-        "Lost due to fuel exhaustion in adverse weather"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore WWII aviation history: Discover Avro Lancaster III JB477 LQ-O's tragic loss in Berlin mission on 17 Dec 1943."
-    },
-    {
       "source_site": "Aviation Trails",
       "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-31-southern-cambridgeshire-part-2/",
       "summary": "Aviation Trails Southern Cambridgeshire trail includes the JB477 crash site at Yelling as part of a wider tour of WW2 aviation heritage in the region, providing visitor access information and historical context about RAF Gransden Lodge operations.",
@@ -163,6 +150,15 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore WWII aviation heritage with visitor info on Yelling Lancaster Memorial's crash site."
+    },
+    {
+      "source_site": "Fred Vogels WW2 Database",
+      "original_url": "http://www.fredvogels.nl/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

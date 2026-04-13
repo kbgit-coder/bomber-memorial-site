@@ -38,8 +38,10 @@
         "Memorial located at Broadway, Worcestershire"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Poignant memorial honoring five fallen Whitley bomber crew members in Honeybourne area."
+      "still_live": true,
+      "link_description": "Poignant memorial honoring five fallen Whitley bomber crew members in Honeybourne area.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Wartime Memories Project",

@@ -64,14 +64,11 @@
     {
       "source_site": "Bleasby Community Website",
       "original_url": "https://www.bleasbycommunity.uk/community/bleasby-parish-council-10159/aircrews-memorial-2018/",
-      "summary": "The W4232 crew is commemorated on the Bleasby Aircrew Memorial, a stone seat shaped as a Lancaster tail section on Glebe Field, with crew names inscribed on the vertical tail fin surfaces.",
-      "key_details": [
-        "Names inscribed on memorial tail fin surfaces",
-        "Part of multi-crash Bleasby memorial"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Crew Profiles and Memorial Details: Explore the Bleasby Aircrew Memorial, honoring W4232's full crew, complete with inscriptions and photographs."
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

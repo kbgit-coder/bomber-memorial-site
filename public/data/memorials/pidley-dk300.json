@@ -44,16 +44,12 @@
     },
     {
       "source_site": "RAF Pathfinders Archive - Training Units",
-      "original_url": "https://raf-pathfinders.com/pff-training-units/",
-      "summary": "Overview of Pathfinder Force training units including 1655 MTU at Warboys. The unit moved to Upper Heyford on 12 December 1944 and was renamed 16 OTU on 1 January 1945. Documents the role of Mosquito training in preparing crews for Pathfinder operations.",
-      "key_details": [
-        "1655 MTU moved to Upper Heyford 12 Dec 1944",
-        "Renamed 16 OTU on 1 Jan 1945",
-        "Pathfinder Force training role"
-      ],
-      "date_retrieved": "2026-03-23",
+      "original_url": "https://www.raf-pathfinders.com/training-units/",
       "still_live": false,
-      "link_description": "Explore RAF Pathfinders Archive's detailed account of Pathfinder Force training units' history at Pidley Mosquito Memorial."
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

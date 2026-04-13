@@ -37,8 +37,10 @@
         "No. 3 position in Low Squadron formation"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore American Air Museum archive detailing B-24 42-50790 'Little King' crash history and loss."
+      "still_live": true,
+      "link_description": "Explore American Air Museum archive detailing B-24 42-50790 'Little King' crash history and loss.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Royal British Legion (Harleston Branch)",
@@ -63,8 +65,10 @@
         "446th Bomb Group based at Flixton"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore archive entry detailing B-24 42-51909's collision incident, crew records, and crash aftermath at American Air Museum in Britain."
+      "still_live": true,
+      "link_description": "Explore archive entry detailing B-24 42-51909's collision incident, crew records, and crash aftermath at American Air Museum in Britain.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "446th Bomb Group Aviation Museum",

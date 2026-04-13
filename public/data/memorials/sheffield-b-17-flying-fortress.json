@@ -182,8 +182,10 @@
         "Crew personnel records linked"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the detailed service history and crew records of the American Air Museum's B-17G \"Mi Amigo\" from the 305th Bomb Group."
+      "still_live": true,
+      "link_description": "Explore the detailed service history and crew records of the American Air Museum's B-17G \"Mi Amigo\" from the 305th Bomb Group.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Imperial War Museums",
@@ -205,8 +207,10 @@
         "Listed in international TracesOfWar database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the international memorial database entry for the Sheffield \"Mi Amigo\" crash memorial at TracesOfWar.com."
+      "still_live": true,
+      "link_description": "Explore the international memorial database entry for the Sheffield \"Mi Amigo\" crash memorial at TracesOfWar.com.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "aircrashsites.co.uk",

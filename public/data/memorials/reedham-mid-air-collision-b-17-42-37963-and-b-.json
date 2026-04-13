@@ -37,8 +37,10 @@
         "Part of 900-plane mission returning from Germany"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "American Air Museum's archive entry for Reedham War Memorial: mid-air collision of B-17G Flying Fortresses in 21st century summary."
+      "still_live": true,
+      "link_description": "American Air Museum's archive entry for Reedham War Memorial: mid-air collision of B-17G Flying Fortresses in 21st century summary.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "US War Memorials",
@@ -87,8 +89,10 @@
         "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed personnel records of American WWII bomber pilots involved in mid-air collision at Reedham Marshes."
+      "still_live": true,
+      "link_description": "Detailed personnel records of American WWII bomber pilots involved in mid-air collision at Reedham Marshes.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [

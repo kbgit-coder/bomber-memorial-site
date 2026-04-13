@@ -49,8 +49,10 @@
         "Aircraft was returning from mine-laying operation over France"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the Lancaster Memorial at Plungar: International crash site database entry for ED549, detailing the 100 Squadron's tragic loss during a mine-laying mission."
+      "still_live": true,
+      "link_description": "Explore the Lancaster Memorial at Plungar: International crash site database entry for ED549, detailing the 100 Squadron's tragic loss during a mine-laying mission.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",
@@ -67,31 +69,6 @@
       "link_description": "The Plungar Lancaster Memorial: A community-maintained granite tribute unveiled in 2012 after a solemn service at St Helen's Church."
     },
     {
-      "source_site": "Leicestershire War Memorials",
-      "original_url": "http://www.leicestershirewarmemorials.co.uk/war/memorials/view/2276",
-      "summary": "County-level memorial register entry recording the RAF Lancaster Bomber crash memorial at Plungar, with local historical context for the Leicestershire area.",
-      "key_details": [
-        "Listed in Leicestershire county memorial register"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Explore the Plungar Lancaster Memorial's history and its significance in Leicestershire War Memorials collection."
-    },
-    {
-      "source_site": "Air Crash Victims of World War II (tr4ce.co.uk)",
-      "original_url": "http://tr4ce.co.uk/aircrash/?page_id=73",
-      "summary": "Detailed crew listing for Lancaster ED549 HW-S of 100 Squadron. Records crew ages: Flt Sgt Avey RCAF (21), Sgt Hallett (23), Sgt Spence (32), Sgt Cumberbatch (21), Sgt Robinson (34), Flt Sgt Landry RCAF (23), with Sgt D.S. Davies as the sole survivor.",
-      "key_details": [
-        "Two crew members were RCAF (Canadian)",
-        "Sgt Grey Doyle Cumberbatch aged 21",
-        "Sole survivor was Sgt D.S. Davies",
-        "Aircraft code was HW-S"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true,
-      "link_description": "Detailed crew listing for Lancaster ED549 HW-S of 100 Squadron, including ages and ranks."
-    },
-    {
       "source_site": "Aviation Safety Network",
       "original_url": "https://aviation-safety.net/wikibase/205323",
       "summary": "Aviation accident database entry for Lancaster ED549. Records the aircraft attempted to land at Langar aerodrome in poor visibility but sank into ground in semi-stalled condition, aggravated by port inner engine failure and communication failure.",
@@ -104,6 +81,24 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore aviation safety incident details of Lancaster ED549 landing mishap at Langar aerodrome."
+    },
+    {
+      "source_site": "Leicestershire War Memorials",
+      "original_url": "http://www.leicestershirewarmemorials.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
+    },
+    {
+      "source_site": "Air Crash Victims of World War II (tr4ce.co.uk)",
+      "original_url": "http://www.tr4ce.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

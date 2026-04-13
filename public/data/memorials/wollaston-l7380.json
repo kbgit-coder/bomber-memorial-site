@@ -146,20 +146,6 @@
   },
   "external_narratives": [
     {
-      "source_site": "Royal Air Force",
-      "original_url": "https://www.raf.mod.uk/news/articles/new-memorial-to-world-war-ii-bomber-crew-killed-in-crash-unveiled-in-northamptonshire/",
-      "summary": "Official RAF news article about the unveiling of the Wollaston memorial on 22 June 2021, the 80th anniversary of the crash. The memorial commemorates the seven crew of Manchester L7314 shot down by a Beaufighter night fighter in a tragic friendly fire incident while returning from bombing Boulogne.",
-      "key_details": [
-        "Memorial unveiled 22 June 2021 on 80th anniversary",
-        "Attended by relatives of five crew members",
-        "Representatives of today's 207 Squadron present",
-        "Official RAF acknowledgment of the friendly fire incident"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Unveiling of the Wollaston Memorial honors Manchester's fallen crew on its 80th anniversary."
-    },
-    {
       "source_site": "Forces News",
       "original_url": "https://www.forces.net/news/memorial-unveiled-honouring-ww2-bomber-crew-killed-crash",
       "summary": "Forces News coverage of the memorial unveiling at Wollaston, reporting on the tragic circumstances of the Manchester bomber being shot down by friendly forces and the 80-year campaign to commemorate the crew.",
@@ -169,33 +155,6 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Forces News' comprehensive coverage of the Wollaston Manchester Memorial unveiling, including the tragic bombing incident and the ongoing tribute efforts."
-    },
-    {
-      "source_site": "Northants Telegraph",
-      "original_url": "https://www.northantstelegraph.co.uk/news/people/wollaston-victims-of-second-world-war-friendly-fire-bomber-crash-memorial-honour-3263215",
-      "summary": "Local newspaper article detailing the friendly fire circumstances. German aircraft were active over Lincolnshire and one followed a course overlapping L7314's track. No. 10 Group Fighter Command scrambled Beaufighters from 25 Squadron at RAF Wittering, and the ground controller mistakenly vectored them onto the Manchester.",
-      "key_details": [
-        "Ground controller insisted target was hostile and ordered shoot-down",
-        "Beaufighter pilot was 'in two minds' but fired cannon and machine guns",
-        "Beaufighter crew (P/O Smith and P/O Lusty) were court-martialled",
-        "Blame also apportioned to the ground control station",
-        "Only traces of five bodies recovered from crash"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore local newspaper account of Wollaston Manchester Memorial incident involving friendly fire and German aircraft activity in Lincolnshire."
-    },
-    {
-      "source_site": "Northants Telegraph",
-      "original_url": "https://www.northantstelegraph.co.uk/news/people/wollaston-bomber-crash-the-avro-manchester-the-legend-behind-the-lancaster-3263223",
-      "summary": "Background article about the Avro Manchester aircraft type and its role as the predecessor to the Lancaster. Only 200 Manchesters were built before being replaced by the four-engined Lancaster, making their crews particularly vulnerable.",
-      "key_details": [
-        "Only 200 Manchesters built before type replaced by Lancaster",
-        "Provides context on the notoriously unreliable aircraft"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the history of Avro Manchester aircraft and its transition into Lancaster."
     },
     {
       "source_site": "Hatton Rotary Club",
@@ -220,6 +179,24 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Detailed records of the 1941 Manchester I crash at Wollaston, including seven tragic fatalities and aircraft specifics."
+    },
+    {
+      "source_site": "Royal Air Force",
+      "original_url": "https://www.raf.mod.gov.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
+    },
+    {
+      "source_site": "Northants Telegraph",
+      "original_url": "https://www.northantstelegraph.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
     }
   ],
   "local_contacts": [

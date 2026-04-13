@@ -206,7 +206,7 @@
         "LL867 crashed near Ely at 02:48"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
+      "still_live": true,
       "link_description": "Explore Lancaster Memorial's poignant archive documenting tragic double crash in Coveney parish on April 19, 1944."
     },
     {
@@ -230,8 +230,10 @@
         "Shot down near home base"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore detailed account of Lancaster Mk II LL667's tragic crash in Coveney on 19th April 1944 due to enemy interception."
+      "still_live": true,
+      "link_description": "Explore detailed account of Lancaster Mk II LL667's tragic crash in Coveney on 19th April 1944 due to enemy interception.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "115 Squadron RAF (Belgian archive)",

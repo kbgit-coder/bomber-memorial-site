@@ -78,8 +78,10 @@
         "Australian casualties recorded in VWMA"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the memorial dedicated to Australian pilot PO Cummings at Scredington Lancaster Memorial on Virtual War Memorial Australia."
+      "still_live": true,
+      "link_description": "Explore the memorial dedicated to Australian pilot PO Cummings at Scredington Lancaster Memorial on Virtual War Memorial Australia.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [

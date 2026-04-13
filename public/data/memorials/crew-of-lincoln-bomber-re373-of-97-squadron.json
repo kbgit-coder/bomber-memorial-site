@@ -4,7 +4,7 @@
   "location_name": "Mautby, Great Yarmouth",
   "county": "Norfolk",
   "country": "United Kingdom",
-  "aircraft_type": "",
+  "aircraft_type": "Lincoln Bomber",
   "serial_number": "RE373",
   "squadron": "97 Squadron",
   "crash_date": "1947-09-24",
@@ -33,5 +33,6 @@
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/136/653/large_maultby_bomber_command_0.jpg"
-  ]
+  ],
+  "last_validated": "2026-04-13"
 }

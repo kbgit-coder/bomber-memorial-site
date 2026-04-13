@@ -63,8 +63,10 @@
         "Memorial documented on international war heritage site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "The poignant story of the Low Bradley Mk.XI Memorial dedicated to the brave Polish crew."
+      "still_live": true,
+      "link_description": "The poignant story of the Low Bradley Mk.XI Memorial dedicated to the brave Polish crew.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "yorkshire-aircraft.co.uk",

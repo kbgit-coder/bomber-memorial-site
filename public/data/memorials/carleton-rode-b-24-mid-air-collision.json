@@ -42,8 +42,10 @@
         "Pilot: 1Lt James E. Rhine"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Carleton Rode's Memorial: Glory\" at American Air Museum, honoring B-24J 'Old Glory'."
+      "still_live": true,
+      "link_description": "Carleton Rode's Memorial: Glory\" at American Air Museum, honoring B-24J 'Old Glory'.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "American Air Museum",
@@ -56,8 +58,10 @@
         "Memorial board at All Saints Church, Carleton Rode"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore Carleton Rode (2) McGoon's Memorial at American Air Museum: Learn about B-24J Earthquake McGoon and its tragic collision in 1944."
+      "still_live": true,
+      "link_description": "Explore Carleton Rode (2) McGoon's Memorial at American Air Museum: Learn about B-24J Earthquake McGoon and its tragic collision in 1944.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "crew": [

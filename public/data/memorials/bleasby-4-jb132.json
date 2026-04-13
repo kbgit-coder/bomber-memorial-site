@@ -59,8 +59,10 @@
         "Classified as mid-air collision"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed accident report of Lancaster III JB132's mid-air collision on 1 September 1943, including operational context."
+      "still_live": true,
+      "link_description": "Detailed accident report of Lancaster III JB132's mid-air collision on 1 September 1943, including operational context.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",

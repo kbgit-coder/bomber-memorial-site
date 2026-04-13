@@ -163,8 +163,10 @@
       "summary": "TracesOfWar entry for the Halifax LL505 'S for Sugar' crash site. Substantial wreckage remains visible including undercarriage components. Two Rolls-Royce Merlin engines were recovered by RAF helicopter; one is on display at the Ruskin Museum, Coniston.",
       "key_details": "Six of seven Canadians are buried at Blacon Cemetery, Chester. The sole British crew member (Sgt Ferguson) is buried at New Monkland Cemetery, Lanarkshire. Site is within the Lake District UNESCO World Heritage Site.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the preserved wreckage and two recovered Rolls-Royce Merlin engines at Halifax LL505 'S for Sugar' crash site."
+      "still_live": true,
+      "link_description": "Explore the preserved wreckage and two recovered Rolls-Royce Merlin engines at Halifax LL505 'S for Sugar' crash site.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Yorkshire Aircraft",

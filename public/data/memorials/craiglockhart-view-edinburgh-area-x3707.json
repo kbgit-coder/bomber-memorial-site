@@ -119,8 +119,10 @@
         "Timed for 70th anniversary and Remembrance Sunday"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore the poignant story behind the Wellington Memorial's unveiling at CraigLockhart View."
+      "still_live": true,
+      "link_description": "Explore the poignant story behind the Wellington Memorial's unveiling at CraigLockhart View.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",

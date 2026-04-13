@@ -33,8 +33,10 @@
       "summary": "Record for B-24H Liberator 42-95160 of the 856th Bomb Squadron, 492nd Bomb Group. The aircraft was lost on 4 June 1944 during a mission to bomb the airfield at Avord, France, when an evasive manoeuvre to avoid mid-air collision caused a structural failure.",
       "key_details": "Lt Raymond Sachtleben was the pilot. A wing tip separated during an evasive manoeuvre, causing the aircraft to stall. Last seen falling inverted through clouds. All ten crew killed.",
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed records of B-24H Liberator 42-95160's wartime service and tragic loss in June 1944."
+      "still_live": true,
+      "link_description": "Detailed records of B-24H Liberator 42-95160's wartime service and tragic loss in June 1944.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "US War Memorials",

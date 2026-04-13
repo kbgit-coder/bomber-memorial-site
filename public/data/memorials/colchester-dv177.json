@@ -38,8 +38,10 @@
         "Crashed in flames, now Severalls Business Park site"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Explore detailed records of Lancaster DV177's tragic crash site in Colchester from TracesOfWar."
+      "still_live": true,
+      "link_description": "Explore detailed records of Lancaster DV177's tragic crash site in Colchester from TracesOfWar.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",

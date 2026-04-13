@@ -64,8 +64,10 @@
         "Aircraft carried four bombs"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": false,
-      "link_description": "Detailed account of RAF Lockheed Hudson crash, including victim identities and circumstances."
+      "still_live": true,
+      "link_description": "Detailed account of RAF Lockheed Hudson crash, including victim identities and circumstances.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
     {
       "source_site": "Key Aero Forum",
@@ -88,7 +90,9 @@
       ],
       "date_retrieved": "2026-03-23",
       "still_live": true,
-      "link_description": "Detailed records of Bacton Hudson crash memorial, including images and historical context."
+      "link_description": "Detailed records of Bacton Hudson crash memorial, including images and historical context.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     }
   ],
   "local_contacts": [
