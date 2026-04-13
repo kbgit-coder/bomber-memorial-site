@@ -160,24 +160,27 @@
       "nationality": "Canadian"
     },
     {
-      "name": "Flt.Sgt. Norman Angus MacKenzie R86313",
+      "name": "Norman Angus MacKenzie",
       "rank": "Sgt",
       "fate": "Survived",
       "role": "Flight Engineer",
       "age": 20,
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "R/86313"
     },
     {
-      "name": "Joseph Anthony Kaucharik C85909",
+      "name": "Joseph Anthony Kaucharik",
       "rank": "Sgt",
-      "fate": "Injured"
+      "fate": "Injured",
+      "service_number": "C/85909"
     },
     {
-      "name": "Flt.Sgt. Louis Donald Dawdy R90329",
+      "name": "Louis Donald Dawdy",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Air Gunner",
-      "age": 20
+      "age": 20,
+      "service_number": "R/90329"
     },
     {
       "name": "Flt.Sgt. J.Alexander RAF",

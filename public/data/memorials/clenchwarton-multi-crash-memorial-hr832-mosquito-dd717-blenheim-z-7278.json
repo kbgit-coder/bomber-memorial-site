@@ -160,51 +160,58 @@
       "age": 21
     },
     {
-      "name": "Sergeant Shirley Vincent Davidge RAFVR 1186826",
+      "name": "Shirley Vincent Davidge",
       "rank": null,
       "fate": "Killed",
       "role": "Pilot",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "1186826"
     },
     {
-      "name": "Sergeant Willem Joseph Gerard Paul Rieter RAFVR 1271309",
+      "name": "Willem Joseph Gerard Paul Rieter",
       "rank": "2nd Pilot",
-      "fate": "Killed"
+      "fate": "Killed",
+      "service_number": "1271309"
     },
     {
-      "name": "Sergeant Abson Squires RAF 545944",
+      "name": "Abson Squires",
       "rank": null,
       "fate": "Killed",
       "role": "Flight Engineer",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "545944"
     },
     {
-      "name": "Sergeant John Hartley RAFVR 989820",
+      "name": "John Hartley",
       "rank": null,
       "fate": "Killed",
       "role": "Observer",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "989820"
     },
     {
-      "name": "Sergeant Jamie Kitchener Wendle Paul RAFVR 1380822",
+      "name": "Jamie Kitchener Wendle Paul",
       "rank": "Unknown",
       "fate": "Killed",
       "role": "Wireless Operator / Air Gunner",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "1380822"
     },
     {
-      "name": "Sergeant Archibald John Thorburn RAFVR 960871",
+      "name": "Archibald John Thorburn",
       "rank": "Unknown",
       "fate": "Killed",
       "role": "Wireless Operator / Air Gunner",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "960871"
     },
     {
-      "name": "Sergeant William James Cook RAF 540952",
+      "name": "William James Cook",
       "rank": null,
       "fate": "Killed",
       "role": "Rear Gunner",
-      "nationality": "British"
+      "nationality": "British",
+      "service_number": "540952"
     }
   ],
   "crash_category": "takeoff-landing",
