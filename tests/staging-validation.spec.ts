@@ -389,15 +389,15 @@ test.describe("4. Features", () => {
 // ---------------------------------------------------------------------------
 
 test.describe("5. Data Integrity", () => {
-  test("Homepage stats show 222 memorials", async ({ page }) => {
+  test("Homepage stats show 406 memorials", async ({ page }) => {
     await page.goto("/");
     // The stats section displays the count as plain text. Match the number.
     const body = page.locator("body");
     const text = (await body.textContent()) ?? "";
     expect(
       text,
-      "Could not find '222' on the homepage stats"
-    ).toContain("222");
+      "Could not find '406' on the homepage stats"
+    ).toContain("406");
   });
 
   test("All nav links on homepage return HTTP 200", async ({ page }) => {

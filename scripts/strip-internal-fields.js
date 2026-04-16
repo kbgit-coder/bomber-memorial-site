@@ -29,7 +29,7 @@ const path = require('path');
 const MEMORIALS_DIR = path.join(__dirname, '..', 'public', 'data', 'memorials');
 
 const LC_INTERNAL_FIELDS = ['verification_notes', 'sources', 'score'];
-const CONTACT_PII_FIELDS = ['contact_email', 'contact_phone', 'contact_name'];
+const CONTACT_PII_FIELDS = ['contact_email', 'contact_phone', 'contact_name', 'email', 'phone'];
 const MAINTAINER_PII_FIELDS = ['contact_email', 'contact_phone'];
 
 function processFile(filePath) {
