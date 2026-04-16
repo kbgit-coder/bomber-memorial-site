@@ -54,6 +54,11 @@ function getSquadronSlugs() {
     .sort();
 }
 
+// Stub region codes: countries with genuine BC memorials (squadron/general type)
+// that are out of crash-site scope. Pages are generated so external links
+// don't 404 — they show a research-in-progress stub with contribution CTA.
+const STUB_REGION_CODES = ['belgium', 'canada', 'france', 'new-zealand'];
+
 function getRegionCodes() {
   const countries = new Map();
   for (const slug of getMemorialSlugs()) {
@@ -64,6 +69,12 @@ function getRegionCodes() {
         countries.set(code, (countries.get(code) || 0) + 1);
       }
     } catch {}
+  }
+  // Add stub regions that aren't already present from active memorial data
+  for (const code of STUB_REGION_CODES) {
+    if (!countries.has(code)) {
+      countries.set(code, 0);
+    }
   }
   return [...countries.keys()].sort();
 }

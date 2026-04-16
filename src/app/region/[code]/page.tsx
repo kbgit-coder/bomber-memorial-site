@@ -12,6 +12,8 @@ interface Props {
 }
 
 export async function generateStaticParams() {
+  // getCountryCodes() already includes stub regions (Canada, France, NZ, Belgium)
+  // with count: 0 — so static pages are generated for them even with no active data.
   const codes = getCountryCodes();
   return codes.map((c) => ({ code: c.code }));
 }
@@ -51,10 +53,20 @@ export default function RegionPage({ params }: Props) {
             marginBottom: "0.5rem",
           }}
         >
-          {regionName}
+          Bomber Command Memorials in {regionName}
         </h1>
         <p style={{ color: "#666", marginBottom: "2rem" }}>
-          No memorials have been recorded for this region yet.
+          0 crash-site memorials recorded · research in progress
+        </p>
+        <p style={{
+          color: "#444",
+          lineHeight: 1.75,
+          marginBottom: "2rem",
+          fontSize: "1rem",
+        }}>
+          Bomber Command memorials in {regionName} — we&apos;re researching memorials
+          in this region. If you have information about Bomber Command crash sites
+          or memorials in {regionName}, we&apos;d love to hear from you.
         </p>
         <div style={{
           backgroundColor: "#faf8f4",
@@ -65,7 +77,7 @@ export default function RegionPage({ params }: Props) {
           marginBottom: "2rem",
         }}>
           <p style={{ color: "#8b7355", fontStyle: "italic", lineHeight: 1.7, marginBottom: "0.75rem" }}>
-            Do you know of a Bomber Command memorial in {regionName}? We welcome contributions from researchers, local communities, and families.
+            Do you know of a Bomber Command crash site or memorial in {regionName}? We welcome contributions from researchers, local communities, veterans&apos; families and aviation historians.
           </p>
           <a
             href={`mailto:admin@bombermemorial.co.uk?subject=Memorial%20suggestion%3A%20${encodeURIComponent(regionName)}&body=I%20would%20like%20to%20suggest%20a%20memorial%20in%20${encodeURIComponent(regionName)}%3A%0A%0A`}
@@ -81,7 +93,7 @@ export default function RegionPage({ params }: Props) {
               letterSpacing: "0.03em",
             }}
           >
-            Suggest a memorial
+            Contribute to this region
           </a>
         </div>
         <Link href="/" style={{ color: "#2c5f8a", fontSize: "0.9rem" }}>

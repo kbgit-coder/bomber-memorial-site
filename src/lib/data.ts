@@ -42,15 +42,35 @@ export function getMemorialsByCountry(): Record<string, Memorial[]> {
   return grouped;
 }
 
+// Stub regions: countries with genuine Bomber Command memorials that are
+// squadron/general memorials (out of crash-site scope for v3.3.0).
+// These stub pages are generated even when no active memorial data exists,
+// so visitors reaching these URLs get a proper page not a 404.
+const STUB_REGION_CODES: { code: string; name: string }[] = [
+  { code: 'canada', name: 'Canada' },
+  { code: 'france', name: 'France' },
+  { code: 'new-zealand', name: 'New Zealand' },
+  { code: 'belgium', name: 'Belgium' },
+];
+
 export function getCountryCodes(): { code: string; name: string; count: number }[] {
   const byCountry = getMemorialsByCountry();
-  return Object.entries(byCountry)
+  const activeCodes = Object.entries(byCountry)
     .map(([name, memorials]) => ({
       code: name.toLowerCase().replace(/\s+/g, '-'),
       name,
       count: memorials.length,
-    }))
-    .sort((a, b) => b.count - a.count);
+    }));
+
+  // Merge stub regions — add any that aren't already present from active data
+  const existingCodes = new Set(activeCodes.map((c) => c.code));
+  for (const stub of STUB_REGION_CODES) {
+    if (!existingCodes.has(stub.code)) {
+      activeCodes.push({ code: stub.code, name: stub.name, count: 0 });
+    }
+  }
+
+  return activeCodes.sort((a, b) => b.count - a.count);
 }
 
 export function getMemorialsByRegionCode(code: string): Memorial[] {
@@ -62,11 +82,18 @@ export function getMemorialsByRegionCode(code: string): Memorial[] {
 }
 
 export function getRegionName(code: string): string {
+  // Check active data first
   const byCountry = getMemorialsByCountry();
   const entry = Object.entries(byCountry).find(
     ([name]) => name.toLowerCase().replace(/\s+/g, '-') === code
   );
-  return entry ? entry[0] : code;
+  if (entry) return entry[0];
+
+  // Fall back to stub region names
+  const stub = STUB_REGION_CODES.find((s) => s.code === code);
+  if (stub) return stub.name;
+
+  return code;
 }
 
 export function getFeaturedMemorials(): Memorial[] {

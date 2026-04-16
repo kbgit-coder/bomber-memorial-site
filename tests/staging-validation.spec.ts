@@ -113,17 +113,6 @@ test.describe("2. Memorial Pages", () => {
     expect(count).toBeLessThanOrEqual(8);
   });
 
-  test.skip("Kirmington 166 Sqn memorial garden loads with correct title — SKIPPED: removed to removed-squadron-memorials", async ({
-    page,
-  }) => {
-    const response = await page.goto(
-      "/memorial/kirmington-166-sqn-memorial-garden"
-    );
-    expect(response?.status()).toBe(200);
-    const title = await page.title();
-    expect(title).toMatch(/166 Squadron/i);
-  });
-
   test("Ryhope Barton VC memorial loads and contains 'Victoria Cross'", async ({
     page,
   }) => {
@@ -212,6 +201,32 @@ test.describe("2. Memorial Pages", () => {
     }
     await apiContext.dispose();
   });
+});
+
+// ---------------------------------------------------------------------------
+// 2b. Stub Region Pages
+// ---------------------------------------------------------------------------
+
+test.describe("2b. Stub Region Pages", () => {
+  const STUB_REGIONS = [
+    { code: "canada", name: "Canada" },
+    { code: "france", name: "France" },
+    { code: "new-zealand", name: "New Zealand" },
+    { code: "belgium", name: "Belgium" },
+  ];
+
+  for (const region of STUB_REGIONS) {
+    test(`Stub region page loads for ${region.name}`, async ({ page }) => {
+      const response = await page.goto(`/region/${region.code}`);
+      expect(response?.status()).toBe(200);
+      const body = page.locator("body");
+      await expect(body).toContainText(region.name);
+      // Stub messaging
+      await expect(body).toContainText(/researching memorials/i);
+      // Contribution CTA present
+      await expect(body).toContainText(/contribute/i);
+    });
+  }
 });
 
 // ---------------------------------------------------------------------------

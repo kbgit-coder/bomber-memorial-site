@@ -37,6 +37,83 @@ RewriteRule ^(.*)$ $1.html [L]
 # Custom 404 page
 ErrorDocument 404 /404.html
 
+# 301 Redirects — removed memorials (scoped out of v3.3.0, redirect to homepage)
+# These slugs were deliberately removed from the active dataset. External links
+# pointing to old memorial URLs will be redirected to the homepage gracefully.
+Redirect 301 /memorial/109-and-582-squadrons-raf-bomber-command /
+Redirect 301 /memorial/15-squadron-bomber-command /
+Redirect 301 /memorial/571-mosquito-squadron /
+Redirect 301 /memorial/57-squadron-royal-air-force-lancaster-crew /
+Redirect 301 /memorial/613-city-of-manchester-squadron /
+Redirect 301 /memorial/626-squadron-bomber-command /
+Redirect 301 /memorial/aircrew-1939-1945 /
+Redirect 301 /memorial/amsterdam-war-memorial /
+Redirect 301 /memorial/auckland-bomber-command-memorial /
+Redirect 301 /memorial/avro-lancaster-r5676 /
+Redirect 301 /memorial/beinn-edra-b-17g-flying-fortres /
+Redirect 301 /memorial/berlin-bomber-command-memorial /
+Redirect 301 /memorial/blythburgh-liberator-42-110007- /
+Redirect 301 /memorial/british-and-allied-aircrew-ww2 /
+Redirect 301 /memorial/brussels-bomber-command-memorial /
+Redirect 301 /memorial/cairnsmore-of-fleet-local-air-crashes-DUPLICATE /
+Redirect 301 /memorial/canberra-bomber-crash-tiverton /
+Redirect 301 /memorial/carn-bica-mountain-ev881 /
+Redirect 301 /memorial/commonwealth-air-crews /
+Redirect 301 /memorial/easby-moor-hudson-n-7294 /
+Redirect 301 /memorial/east-moor-near-sutton-on-the-forest-general-memorial-to- /
+Redirect 301 /memorial/eindhoven-bomber-command-memorial /
+Redirect 301 /memorial/faldingworth-300-sqn-memorial /
+Redirect 301 /memorial/fiskerton-airfield-49-sqn /
+Redirect 301 /memorial/fiskerton-church-49-sqn /
+Redirect 301 /memorial/flight-lieutenant-c-s-chatten-dso-dfc-and-british-and-allied-aircrews /
+Redirect 301 /memorial/flight-sergeant-j-hannah-vc-rose-garden /
+Redirect 301 /memorial/florennes-raf-memorial /
+Redirect 301 /memorial/flying-officer-a-d-s-snell /
+Redirect 301 /memorial/flying-officer-l-t-manser-vc /
+Redirect 301 /memorial/flying-officer-p-pease /
+Redirect 301 /memorial/flying-officer-r-mcg-waterston /
+Redirect 301 /memorial/great-dun-fell-blea-crag-bb310 /
+Redirect 301 /memorial/great-steeping-207-sqn-plaque /
+Redirect 301 /memorial/handley-page-halifax-rt922 /
+Redirect 301 /memorial/helperby-brafferton-rcaf-memorial /
+Redirect 301 /memorial/higher-shelf-stones-boeing-rb-29a-superf /
+Redirect 301 /memorial/hiroshima-peace-memorial /
+Redirect 301 /memorial/hp-hampden-x3027-relics /
+Redirect 301 /memorial/ingham-polish-bomber-sqns /
+Redirect 301 /memorial/international-mosquito-air-and-ground-crew-memorial /
+Redirect 301 /memorial/kinder-scout-2-aircraft-polish-crew /
+Redirect 301 /memorial/kirmington-166-sqn-memorial-garden /
+Redirect 301 /memorial/lincoln-high-school-ww2-aircrash-memorial /
+Redirect 301 /memorial/longside-edge-wellington-unknown-s /
+Redirect 301 /memorial/mepal-75-nz-sqn-memorial /
+Redirect 301 /memorial/metheringham-airfield-106-sqn-memorial /
+Redirect 301 /memorial/moordown-jp137 /
+Redirect 301 /memorial/mosquito-aircrew-association /
+Redirect 301 /memorial/nanton-bomber-command-museum /
+Redirect 301 /memorial/nma-49-sqn-2018 /
+Redirect 301 /memorial/normandy-bomber-crew-memorial /
+Redirect 301 /memorial/paris-bomber-command-memorial /
+Redirect 301 /memorial/pilot-officer-h-r-case /
+Redirect 301 /memorial/polish-bomber-squadron-crews-of-lincolnshire /
+Redirect 301 /memorial/raf-east-kirkby-station-ground-crew /
+Redirect 301 /memorial/royal-canadian-air-force-403-squadron-pilots /
+Redirect 301 /memorial/rushup-edge-hampden-mk-i /
+Redirect 301 /memorial/scawton-near-helmsley-halifax-free-french- /
+Redirect 301 /memorial/seething-airfield-448-bg-memorial /
+Redirect 301 /memorial/seething-church-448-bg-memorial /
+Redirect 301 /memorial/sergeant-r-bolitho /
+Redirect 301 /memorial/severalls-626-sqn-lancaster /
+Redirect 301 /memorial/slieveanee-mountain-t9328 /
+Redirect 301 /memorial/succoth-glen-b-29-superfortress-p /
+Redirect 301 /memorial/tigers-marsh-b-17-flying-fortress /
+Redirect 301 /memorial/tinian-north-field-memorial /
+Redirect 301 /memorial/tintwistle-knarr-pa411 /
+Redirect 301 /memorial/trenton-rcaf-memorial /
+Redirect 301 /memorial/vickers-wellington-lp397 /
+Redirect 301 /memorial/wellington-he324-crash-site-he324 /
+Redirect 301 /memorial/welton-william-farr-school-44-sqn /
+Redirect 301 /memorial/west-okement-valley-pb4y-1-liberator-639 /
+
 # Prevent directory listing
 Options -Indexes
 
