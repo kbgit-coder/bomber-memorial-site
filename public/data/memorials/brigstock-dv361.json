@@ -10,7 +10,7 @@
   "serial_number": "DV361",
   "squadron": "207 Squadron",
   "station": "Spilsby",
-  "crew_summary": "3 killed; others bailed out",
+  "crew_summary": "6 crew — 3 killed, 3 unknown fate",
   "memorial_type": "Memorial marker",
   "sources": [
     {
@@ -130,9 +130,9 @@
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet",
   "iwm_photo_urls": [
-    "https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg;",
-    "https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg;",
-    "https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/60/566/large_37442.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/64/large_37442c.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/175/63/large_37442b.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/175/62/large_37442a.jpg"
   ]
 }
