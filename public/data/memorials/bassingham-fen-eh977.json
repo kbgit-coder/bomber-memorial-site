@@ -20,9 +20,9 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.233781020856014,
-  "longitude": -0.2688925890516705,
+  "data_quality": "Comprehensive",
+  "latitude": 53.130941,
+  "longitude": -0.632355,
   "maintainer": {
     "organisation": "Bassingham Parish Council",
     "maintainer_type": "parish-council"
@@ -39,7 +39,8 @@
         "Post-accident investigation found wrong engine was feathered"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed record of Bassingham Fen Stirling Memorial, including crash site and crew information from a routine 1944 training flight."
     },
     {
       "source_site": "Scarlet Boy Tumblr (Research Blog)",
@@ -52,7 +53,8 @@
         "Possible crew inexperience cited"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of 1940s crash investigation linked to Bassingham Fen Stirling Memorial"
     }
   ],
   "local_contacts": [
@@ -68,7 +70,7 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "targeted.loyal.disco",
+  "what3words": "smelter.poetry.mailers",
   "photos": [
     {
       "filename": "bassingham-fen-eh977/5d2196eed32ca_LI_Bassingham_Fen_1_547x410.JPG",
@@ -85,5 +87,20 @@
       "caption": "LI Bassingham Fen 4",
       "credit": "Tony Hibberd / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1660 HCU",
+  "squadron_aliases": [
+    "1660 HCU"
+  ],
+  "narrative": "During a routine night conversion training flight from Swinderby, the Stirling aircraft EH977 'Z' suffered an in-flight engine failure. Instead of the failed engine being feathered (reduced drag position), another correctly functioning engine was feathered. This action, possibly due to crew inexperience, led to the aircraft banking and crashing at approximately 0240 on 05/11/44 near Bassingham Fen.",
+  "community_connection": "A memorial plaque at Linga Lane, Bassingham Fen, Lincoln LN5 9LD England remembers the crew of 1660 HCU Stirling EH977 'Z'.",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

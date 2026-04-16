@@ -1,91 +1,169 @@
 {
-    "id": "henham-park-multiple-incidents-b-24-42-110033-arizo",
-    "title": "Henham Park (multiple incidents) 41-28590 Memorial",
-    "location_name": "Henham Park (multiple incidents), Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-006",
-    "crash_date": "1944-03-29",
-    "aircraft_type": "B-24 42-110033 \"Arizona Rambler\" and B-24 41-28590",
-    "squadron": "93rd BG",
-    "station": "Hardwick (USAAF)",
-    "crew_summary": "19 killed + 5 rescuers honoured",
-    "memorial_type": "Park monument",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.26565723636674,
-    "longitude": 1.1603798530347222,
-    "maintainer": {
-        "organisation": "Wangford with Henham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "henham-park-multiple-incidents-b-24-42-110033-arizo",
+  "title": "Henham Park (multiple incidents) 41-28590 Memorial",
+  "location_name": "Henham Park (multiple incidents), Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-006",
+  "crash_date": "1944-03-29",
+  "aircraft_type": "B-24 42-110033 \"Arizona Rambler\" and B-24 41-28590",
+  "squadron": "93rd BG",
+  "station": "Hardwick (USAAF)",
+  "crew_summary": "19 killed + 5 rescuers honoured",
+  "memorial_type": "Park monument",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.3490531,
+  "longitude": 1.5997968,
+  "maintainer": {
+    "organisation": "Wangford with Henham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20621",
+      "summary": "IWM registers this memorial commemorating B-24 Liberators 42-110033 and 41-28590 of the 93rd Bomb Group USAAF. The two aircraft collided while forming up for a mission to Brunswick on 29 March 1944 and crashed onto the Henham estate.",
+      "key_details": [
+        "IWM memorial reference 20621",
+        "Mission target was Brunswick, Germany",
+        "Mid-air collision during formation assembly"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Memorial honoring B-24 Liberators 42-110033 and 41-28590 in Henham Park from USAAF's 93rd Bomb Group."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20621",
-            "summary": "IWM registers this memorial commemorating B-24 Liberators 42-110033 and 41-28590 of the 93rd Bomb Group USAAF. The two aircraft collided while forming up for a mission to Brunswick on 29 March 1944 and crashed onto the Henham estate.",
-            "key_details": [
-                "IWM memorial reference 20621",
-                "Mission target was Brunswick, Germany",
-                "Mid-air collision during formation assembly"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "American Air Museum",
-            "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-110033",
-            "summary": "The American Air Museum records 42-110033 'Arizona Rambler' as a B-24H from the 330th Bomb Squadron, 93rd Bomb Group ('The Travelling Circus'). The aircraft collided with 41-28590 during assembly over Henham Park. Only three of the 20 airmen survived the initial crash, and a subsequent explosion during rescue operations killed 19 additional personnel from rescue, medical, and fire-fighting units at nearby Holton Airfield.",
-            "key_details": [
-                "330th Bomb Squadron, 93rd BG 'The Travelling Circus'",
-                "Only 3 of 20 aircrew survived",
-                "19 rescue/medical/fire personnel also killed in secondary explosion",
-                "Total death toll approximately 36"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Traces of War",
-            "original_url": "https://www.tracesofwar.com/sights/89658/Memorial-Crash-B-24-Liberators.htm",
-            "summary": "Traces of War documents the memorial erected by the Sixth Earl of Stradbroke to mark the 50th anniversary of the collision. The memorial stands on a private estate and is only accessible on open days or by arrangement.",
-            "key_details": [
-                "Memorial erected for 50th anniversary by Earl of Stradbroke",
-                "Located on private estate, limited public access"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US War Memorials",
-            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2062&MemID=2711",
-            "summary": "Listed in the US War Memorials registry as the Henham Park B-24 Collision Memorial, commemorating one of the deadliest non-combat incidents involving the 93rd Bomb Group in the UK.",
-            "key_details": [
-                "Registered in US War Memorials database"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-110033",
+      "summary": "The American Air Museum records 42-110033 'Arizona Rambler' as a B-24H from the 330th Bomb Squadron, 93rd Bomb Group ('The Travelling Circus'). The aircraft collided with 41-28590 during assembly over Henham Park. Only three of the 20 airmen survived the initial crash, and a subsequent explosion during rescue operations killed 19 additional personnel from rescue, medical, and fire-fighting units at nearby Holton Airfield.",
+      "key_details": [
+        "330th Bomb Squadron, 93rd BG 'The Travelling Circus'",
+        "Only 3 of 20 aircrew survived",
+        "19 rescue/medical/fire personnel also killed in secondary explosion",
+        "Total death toll approximately 36"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore American Air Museum's detailed records of Arizona Rambler B-24H and 41-28590 collision incident at Henham Park Memorial.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://www.tracesofwar.com/sights/89658/Memorial-Crash-B-24-Liberators.htm",
+      "summary": "Traces of War documents the memorial erected by the Sixth Earl of Stradbroke to mark the 50th anniversary of the collision. The memorial stands on a private estate and is only accessible on open days or by arrangement.",
+      "key_details": [
+        "Memorial erected for 50th anniversary by Earl of Stradbroke",
+        "Located on private estate, limited public access"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Henham Park's Memorial: Sixth Earl's tribute to collision victims' 50th anniversary.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2062&MemID=2711",
+      "summary": "Listed in the US War Memorials registry as the Henham Park B-24 Collision Memorial, commemorating one of the deadliest non-combat incidents involving the 93rd Bomb Group in the UK.",
+      "key_details": [
+        "Registered in US War Memorials database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The tragic Henham Park B-24 Collision Memorial honoring the 93rd Bomb Group's deadliest non-combat incident at US War Memorials."
+    },
+    {
+      "source_site": "93rd Bomb Group Association",
+      "original_url": "https://www.93bg.com",
+      "summary": "93rd Bomb Group Association \u2014 official association website with group history, Roll of Honor, crew photos, and memorial information",
+      "key_details": [
+        "93rd BG based at RAF Hardwick (Station 104), Norfolk",
+        "328th, 329th, 330th, 409th Bombardment Squadrons",
+        "391 missions flown, 670 KIA, 100 aircraft MIA",
+        "First B-24 group in 8th Air Force to bomb occupied Europe"
+      ],
+      "date_retrieved": "2026-04-09",
+      "still_live": true,
+      "link_description": "Explore the 93rd Bomb Group Association's website for comprehensive historical details, Roll of Honor, crew photographs, and Memorial information at Henham Park."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Beccles Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Wangford with Henham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "gossiping.lives.urgent",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "93rd Bomb Group USAAF",
+  "squadron_aliases": [
+    "93rd BG"
+  ],
+  "memorial_details": "Two black marble plaques, one horizontal and one upright. Upright stone has irregular shape with smooth front and is set on a base of slate chippings, surrounded by wooden fence. Upright: Commemorative inscription in white lettering below badge of USAAF 8th Air Force with silhouette of Liberator below. Coat of Arms of 6th Earl of Stradbroke alongside detail of memorial erection. Horizontal: Details of those who died.\n\nThe memorial was first erected in 1994 after a request from an airman who had missed a flight on one of the ill-fated B24 Liberators, as well as money from the Earl of Stradbroke at that time.\n\nThis memorial was erected by the 8th Earl of Stradbroke in 1994, marking the 50th anniversary of a tragedy involving two Liberator bombers from the 93rd Bomb Group based at Hardwick.\n\nMemorial Erection (1994): The memorial was first erected after a request from an airman who had missed a flight on one of the ill-fated B24 Liberators, as well as money from the Earl of Stradbroke.\n\nA memorial of two inscribed stones now stands at Henham Park, maintained by local volunteers, commemorating all those killed in what became one of the 93rd Bomb Group's deadliest non-combat incidents.",
+  "narrative": "On 29 March 1944, two B-24 Liberators of the 93rd Bomb Group, based at Hardwick, departed on a bombing mission to the St Nazaire U-boat pens. Over Henham Park in Suffolk, B-24J 42-110033 *Arizona Rambler* and B-24 41-28590 collided in mid-air. The disaster claimed nineteen lives, among them 2nd Lieutenant Max E. Dailey, aged 21. The two aircraft were crewed by McFetrick's crew aboard 41-28590 and Makinster's crew aboard *Arizona Rambler*.",
+  "inscription": "[Upright plaque]: OVER THIS AREA ON 29TH MARCH 1944 TWO FULLY ARMED LIBERATOR\nBOMBERS FROM THE 93RD BOMB GROUP BASED AT HARDWICK\nCOLLIDED AND CRASHED ON THE HENHAM PARK ESTATE.\n17 AIRMEN FROM THE LIBERATORS DIED IN THE CRASH.\nIN THE SUBSEQUENT MASSIVE EXPLOSION OF BOMBS\n19 USAAF PERSONNEL FROM RESCUE, MEDICAL AND FIRE FIGHTING UNITS FROM HOLTON AIRFIELD DIED.\nTHIS MEMORIAL HONOURS THOSE WHO GAVE THEIR LIVES\nIN THE CAUSE OF FREEDOM AND MARKS THE ENDURING REGARD IN WHICH THE US 8TH AIR FORCE IS HELD IN EAST ANGLIA.\nERECTED BY THE 8TH EARL OF STRADBROKE 1994\nTO MARK THE 50TH ANNIVERSARY OF THE TRAGEDY. [Horizontal plaque]: ROLL OF HONOUR OF THOSE WHO DIED\nB24 J42-110033\n2ND LT R L McFETRICK \u00b7 2ND LT H CASSEL JR \u00b7 2ND LT W H LOWRY\nA BOMBARDIER KNOWN UNTO GOD \u00b7 S. SGT C J MEAD \u00b7 S. SGT C E WHITE\nSGT O J WATSON \u00b7 SGT W R BLOOM\n\nB24 H41-28590\n2ND LT C D MAKINSTER \u00b7 2ND LT R M TRASK \u00b7 2ND LT R J POE\n2ND LT E J MORRIS \u00b7 S. SGT H B LARSON \u00b7 S. SGT T O BYRD\nSGT W J FRANKE \u00b7 SGT S REINIAS \u00b7 SGT S T CLOVIS\n\nSTATION 365 HOLTON. 19 U.S.A.A.F. PERSONNEL DIED\nCAPT S B MORRILL \u00b7 CPL B CALA \u00b7 SGT \u00b7 TREMBLAY\n\nTHE REMAINDER KNOWN UNTO GOD",
+  "community_connection": "It honors those who lost their lives and commemorates the enduring regard for the US 8th Air Force in East Anglia.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial Renovation",
+        "date": null,
+        "description": "Halesworth Lions volunteered to renovate the memorial with help from local firms after noticing it had fallen into a dilapidated state."
+      },
+      {
+        "name": "93rd Bomb Group Reunion",
+        "date": "November 5th-9th, 2026",
+        "description": "Annual reunion event for the 93rd Bomb Group Association"
+      },
+      {
+        "name": "Remembrance of 2Lt. Max E. Dailey",
+        "date": "August 1, 1943",
+        "description": "Commemoration of 2Lt. Max E. Dailey who was lost during Operation Tidal Wave"
+      }
     ],
-    "local_contacts": [
-        {
-            "org_name": "Beccles Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Wangford with Henham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "kilowatt.rats.airliners"
+    "annual_service": true,
+    "service_date": "November 5th-9th, 2026"
+  },
+  "crew": [
+    {
+      "name": "Max E. Dailey",
+      "rank": "2nd Lieutenant",
+      "fate": "Killed",
+      "role": "unknown (presumed pilot or crew member)",
+      "age": 21
+    }
+  ],
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "42-110033 and 41-28590",
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/174/236/large_dsc01420.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/174/235/large_dsc01422a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/174/238/20621a_dsc01422a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/174/237/20621b_dsc01422a.jpg"
+  ]
 }

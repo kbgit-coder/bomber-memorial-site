@@ -32,81 +32,97 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Comprehensive",
-  "narrative": "On the night of 11 January 1943, Whitley LA766 took off from RAF Tilstock near Whitchurch in Shropshire on a night navigation exercise. The crew of eight included several trainee navigators, as was typical for 81 OTU flights. The heavy bomber flew into the hillside at Gwernto Bach, between the villages of Bwlchgwyn and Rhydtalog, at about 20:45. All eight men were killed. The youngest, Sergeant David Blackburn Lister, was just 18 years old. There is a local account that one airman — possibly Sergeant Alex Taylor Strachan, aged 19 — was still alive when found but died at the scene before help could arrive. The pilot, Warrant Officer David Rozell Roberts, was Canadian, serving with the RCAF. The crash occurred in relatively low-lying terrain compared to the Snowdonia crashes, emphasising that the hazards of night flying in wartime affected even the more modest hills of North-East Wales.",
+  "narrative": "Warrant Officer First Class Roberts, a 22-year-old Canadian, was the pilot. Eight crew members were killed: Flight Sergeant William Henry Stewart, Flight Sergeant Robert Smeaton, Pilot Officer Ronald James Binham, Sergeant Cyril Edgar Aaron, Sergeant Alexander Taylor Strachan, Sergeant David Blackburn Lister, Sergeant Michael John Buckle, and Roberts himself. The youngest among the dead, Sergeant Lister, was just eighteen years old.",
   "crew": [
     {
       "rank": "WO1",
       "name": "David Rozell Roberts",
-      "service_number": "R/80174",
       "age": 22,
       "role": "Pilot",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed when Whitley LA766 flew into the hillside at Gwernto Bach during a night navigation exercise.",
       "cwgc_verified": true,
-      "bio": "WO1 Roberts was a 22-year-old Canadian serving with the RCAF."
+      "bio": "WO1 Roberts was a 22-year-old Canadian serving with the RCAF.",
+      "burial_location": "Wrexham Cemetery",
+      "service_number": "R/80174",
+      "nationality": "Canadian"
     },
     {
       "rank": "F/Sgt",
-      "name": "William H. Stewart",
-      "nationality": "British",
+      "name": "William Henry STEWART",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "age": 30,
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "F/Sgt",
       "name": "Robert Smeaton",
       "age": 28,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "At 28, one of the older crew members. Killed in the crash.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Ronald James Binham",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "Wrexham Cemetery",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Cyril Edgar Aaron",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "City of London Cemetery & Crematorium",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
-      "name": "Alex Taylor Strachan",
+      "name": "Alexander Taylor STRACHAN",
       "age": 19,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Local accounts suggest Strachan may have been alive when found at the crash scene but died before help could arrive.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "Edinburgh (Seafield) Crematorium",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "David Blackburn Lister",
       "age": 18,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "At just 18, the youngest member of the crew.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "Golcar Baptist Chapelyard",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Michael John Buckle",
       "age": 20,
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Gwernto Bach.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "role": "Unknown",
+      "burial_location": "York Cemetery",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Aircraft flew into hillside in darkness during navigation exercise",
@@ -124,7 +140,8 @@
         "81 OTU based at RAF Tilstock"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of RAF Whitley LA766 crash, including crew information and site location."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -135,18 +152,19 @@
         "All 8 killed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed accident report and crew obituaries; honoring Armstrong Whitworth Whitley LA766's loss in 1943.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Wrexham History",
       "original_url": "https://www.wrexham-history.com/war-memorials/bwlchgwyn-war-memorial/",
-      "summary": "Wrexham History documents the Bwlchgwyn War Memorial which includes reference to the 1943 aircraft crash. The memorial garden was created for VE Day 1994 at the junction of Glascoed Road and Ruthin Road.",
-      "key_details": [
-        "Memorial garden at junction of Glascoed Road and Ruthin Road",
-        "Created for VE Day 1994"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 — may return, check periodically"
     }
   ],
   "local_contacts": [
@@ -154,10 +172,28 @@
       "org_name": "Wrexham Royal British Legion",
       "org_type": "british_legion",
       "role": "Local remembrance and memorial support",
-      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+      "website": "https://counties.britishlegion.org.uk/counties/wales/membership/"
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/81.jpg",
   "squadron_motto": "Peace Through Strength",
-  "what3words": "hoot.owes.rewriting"
+  "what3words": "hoot.owes.rewriting",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "81 OTU",
+  "squadron_aliases": [
+    "81 OTU"
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "Site of RAF bomber crash, Bwlchgwyn - History Points Bwlchgwyn: RAF bomber crash site Bridge 46 to Five Locks Canal Group Deganwy Beach Shelter Restoration Place-names unbundled: Menai Bridge Powys War Memorials Project 2014-19 Cof Lechi Caernarfon Slate Plaques Holy Island Landscape Partnership The Clwyd Family History Society Clwyd-Powys Archaeological Trust Discovering Old Welsh Houses Group Royal National Institute of Blind People Royal National Lifeboat Institution Wildlife Trust of South and West Wales Caerphilly Local History Society The Carmarthenshire Antiquarian Society Llandudno & Colwyn Bay History Society Friends of St Julitta's, Capel Curig Llanrwst and District Historical Society Llandudno & Colwyn Bay Tramway Society Tywyn and District History Society Abergavenny Local History Society In Neath Porth Talbot county borough Pembroke & Monkton Local History Society Crickhowell & District History Society Breconshire Local and Family History Society Crickhowell District Archive Centre The Merchant Navy Association (Wales) Western Front Association in Wales The Royal Institution of South Wales Amwlch: First comprehensive school Amlwch: St Eilian’s Church, Llaneilian Amlwch: Watchtower and lighthouse Holyhead: Former Eagle and Child Inn Holyhead: Former air-raid shelter Holyhead: Former Stanley toll house Holyhead: Stena Line ferry terminal Llanfaethlu: Former Borthwen Farm South Stack: Old lookout building Trearddur Bay: Lifeboat station Beaumaris: Cae Bricks housing estate Beaumaris: Church of Ss Mary & Nicholas Llanfairpwll: Former ironmonger’s shop Llanfairpwll: Home of Britain’s first WI Llangefni: Former railway goods shed Menai Bridge: The Anglesey Arms Menai Bridge: Former National School Menai Bridge: Former Prince’s Pier warehouse Menai Bridge: St Tysilio’s Church Penmynydd: St Gredifael’s Church Menai Bridge: Old steamer ticket office Abertillery: Ebenezer Baptist Church Abertillery: Former Bon Marché dept store Abertillery: Former Trinity chapel",
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

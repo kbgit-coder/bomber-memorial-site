@@ -1,0 +1,42 @@
+{
+  "id": "avro-lancaster-pb366-pillar",
+  "title": "Avro Lancaster PB366 - Pillar",
+  "location_name": "Great Paxton, Huntingdon",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB366",
+  "squadron": "",
+  "crash_date": "1944-12-24",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "A 4 sided rough hewn stone pillar with a pyramidal top mounted on a concrete base in a surround of white stones. At the top of the pillar is a metal sculpture of an eagle with wings aloft, and on the front face a bronze plaque bearing the dedication and names of the crew.",
+  "inscription": "Plaque: (RAF crest)/ Dedicated to the memory and bravery/ of the crew of Lancaster PB366/ which crashed in Great Paxton on/ Christmas Eve 1944/ with the loss of all seven young lives./ (Names)/ The bright beloved marauders of the sky/ PER ARDUA AD ASTRA",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101430",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 52.262194898486,
+  "longitude": -0.228988538027,
+  "grid_ref": "TL 20964",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/138/488/large_pb366_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/490/large_pb366_crash_memorial_pillar_in_context_prior_to_plaque_and_eagle_fitment.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/138/489/large_pb366_crash_memorial_pillar_prior_to_plaque_and_eagle_fitment.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/170/793/large_101430.jpg"
+  ],
+  "last_validated": "2026-04-12",
+  "community_connection": ""
+}

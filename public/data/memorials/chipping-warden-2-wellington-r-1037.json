@@ -1,70 +1,393 @@
 {
-    "id": "chipping-warden-2-wellington-r-1037",
-    "title": "Chipping Warden (2) R.1037 Memorial",
-    "location_name": "Chipping Warden (2), Northamptonshire",
-    "county": "Northamptonshire",
-    "country": "United Kingdom",
-    "region_code": "NH-005",
-    "crash_date": "1941-10-20",
-    "aircraft_type": "Wellington R.1037",
-    "squadron": "12 OTU",
-    "station": "Chipping Warden",
-    "crew_summary": "2 killed, 3 survived",
-    "memorial_type": "Memorial plaque",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.337351425528894,
-    "longitude": -0.8604153834316527,
-    "maintainer": {
-        "organisation": "Chipping Warden and Edgcote Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "chipping-warden-2-wellington-r-1037",
+  "title": "Chipping Warden (2) R.1037 Memorial",
+  "location_name": "Chipping Warden (2), Northamptonshire",
+  "county": "Northamptonshire",
+  "country": "United Kingdom",
+  "region_code": "NH-005",
+  "crash_date": "1941-10-20",
+  "aircraft_type": "Wellington R.1037",
+  "squadron": "12 OTU",
+  "station": "Chipping Warden",
+  "crew_summary": "2 killed, 3 survived",
+  "memorial_type": "Memorial plaque",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.136,
+  "longitude": -1.272,
+  "maintainer": {
+    "organisation": "Chipping Warden and Edgcote Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "RAF Info (Chorley Losses)",
+      "original_url": "http://www.rafinfo.org.uk/BCWW2Losses/OTU.htm",
+      "summary": "RAF Bomber Command losses record referencing Wellington R.1037 of 12 OTU at Chipping Warden. The aircraft crashed on 20 October 1941 with two crew killed and three surviving.",
+      "key_details": [
+        "Reference OTU/079 in Chorley losses",
+        "12 OTU based at Chipping Warden from July 1941"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "RAF Bomber Command's Wellington R.1037 crash details from Chipping Warden, including fatalities and survivors in October 1941."
     },
-    "external_narratives": [
-        {
-            "source_site": "RAF Info (Chorley Losses)",
-            "original_url": "http://www.rafinfo.org.uk/BCWW2Losses/OTU.htm",
-            "summary": "RAF Bomber Command losses record referencing Wellington R.1037 of 12 OTU at Chipping Warden. The aircraft crashed on 20 October 1941 with two crew killed and three surviving.",
-            "key_details": [
-                "Reference OTU/079 in Chorley losses",
-                "12 OTU based at Chipping Warden from July 1941"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Wikipedia - RAF Chipping Warden",
-            "original_url": "https://en.wikipedia.org/wiki/RAF_Chipping_Warden",
-            "summary": "Overview of RAF Chipping Warden airfield which opened in July 1941 and hosted 12 OTU until June 1945, operating Avro Ansons and Vickers Wellingtons for bomber crew training. Multiple training accidents occurred during this period.",
-            "key_details": [
-                "Airfield opened July 1941",
-                "12 OTU operated Wellingtons and Ansons",
-                "Active as OTU until June 1945"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Daventry & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
-        },
-        {
-            "org_name": "Chipping Warden and Edgcote Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
-    "squadron_motto": "Leads the field",
-    "what3words": "mimes.convey.asking"
+    {
+      "source_site": "Wikipedia - RAF Chipping Warden",
+      "original_url": "https://en.wikipedia.org/wiki/RAF_Chipping_Warden",
+      "summary": "Overview of RAF Chipping Warden airfield which opened in July 1941 and hosted 12 OTU until June 1945, operating Avro Ansons and Vickers Wellingtons for bomber crew training. Multiple training accidents occurred during this period.",
+      "key_details": [
+        "Airfield opened July 1941",
+        "12 OTU operated Wellingtons and Ansons",
+        "Active as OTU until June 1945"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "RAF Chipping Warden's history: WWII airfield training base for Avro Ansons and Vickers Wellingtons from 1941-45."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Daventry & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
+    },
+    {
+      "org_name": "Chipping Warden and Edgcote Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
+  "squadron_motto": "Leads the field",
+  "what3words": "wanderers.expropriate.spiders",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "12 OTU",
+  "squadron_aliases": [
+    "12 OTU"
+  ],
+  "narrative": "Wellington R.1037 was on a training sortie from RAF Chipping Warden, Northamptonshire, operated by 12 Operational Training Unit, which prepared aircrew for frontline bomber service. On 20 October 1941, the aircraft came down near the station itself. Those aboard included crew members Brumby, Newton, Jenner, Brathwaite, and Crompton, among others. Two of the crew were killed; three survived. The cause of the crash is not recorded in the available sources.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Addition/Amendment for P/O Barnett",
+        "date": "Not specified",
+        "description": "P/O Barnett was the younger brother of Wing Commander Denis Barnett (later Air Chief Marshal), who commanded 40 Squadron between 4 June and 23 December 1940."
+      },
+      {
+        "name": "Amendment for OTU/013 crew matrix and summary",
+        "date": "Not specified",
+        "description": "Crew matrix amended to include Sgt A E Hall, Sgt A C Catton, Sgt F Graham, LAC G H James. Summary amended to include details of a Blenheim incident at Carnedd Llewellyn, Snowdonia on an unspecified date."
+      }
+    ]
+  },
+  "crew": [],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Denman",
+      "rank": null
+    },
+    {
+      "name": "Anderson",
+      "rank": null
+    },
+    {
+      "name": "Parry",
+      "rank": null
+    },
+    {
+      "name": "Miller",
+      "rank": null
+    },
+    {
+      "name": "Paterson",
+      "rank": null
+    },
+    {
+      "name": "Rockel",
+      "rank": null
+    },
+    {
+      "name": "Gilmour",
+      "rank": null
+    },
+    {
+      "name": "Topp",
+      "rank": null
+    },
+    {
+      "name": "Fitch",
+      "rank": null
+    },
+    {
+      "name": "Mackley",
+      "rank": null
+    },
+    {
+      "name": "Henderson",
+      "rank": null
+    },
+    {
+      "name": "Dunbar",
+      "rank": null
+    },
+    {
+      "name": "Zietkiewicz",
+      "rank": null
+    },
+    {
+      "name": "Ball",
+      "rank": null
+    },
+    {
+      "name": "Coe",
+      "rank": null
+    },
+    {
+      "name": "Ian George Medwin",
+      "rank": null
+    },
+    {
+      "name": "Kilburn",
+      "rank": null
+    },
+    {
+      "name": "Greenbank",
+      "rank": null
+    },
+    {
+      "name": "Lumsdaine",
+      "rank": null
+    },
+    {
+      "name": "Hickman",
+      "rank": null
+    },
+    {
+      "name": "Bion",
+      "rank": null
+    },
+    {
+      "name": "Keane",
+      "rank": null
+    },
+    {
+      "name": "Lyons",
+      "rank": null
+    },
+    {
+      "name": "Foltz",
+      "rank": null
+    },
+    {
+      "name": "Burke",
+      "rank": null
+    },
+    {
+      "name": "Taffs",
+      "rank": null
+    },
+    {
+      "name": "F Graham",
+      "rank": null
+    },
+    {
+      "name": "Leng",
+      "rank": null
+    },
+    {
+      "name": "Ferguson",
+      "rank": null
+    },
+    {
+      "name": "Duffill",
+      "rank": null
+    },
+    {
+      "name": "Bakewell",
+      "rank": null
+    },
+    {
+      "name": "Shirley",
+      "rank": null
+    },
+    {
+      "name": "Howson",
+      "rank": null
+    },
+    {
+      "name": "Mason",
+      "rank": null
+    },
+    {
+      "name": "Drayton",
+      "rank": null
+    },
+    {
+      "name": "Lennox",
+      "rank": null
+    },
+    {
+      "name": "Hoey",
+      "rank": null
+    },
+    {
+      "name": "Sharp",
+      "rank": null
+    },
+    {
+      "name": "Tvrdeich",
+      "rank": null
+    },
+    {
+      "name": "Gavin",
+      "rank": null
+    },
+    {
+      "name": "Robinson",
+      "rank": null
+    },
+    {
+      "name": "Cooksley",
+      "rank": null
+    },
+    {
+      "name": "Belcher",
+      "rank": null
+    },
+    {
+      "name": "Noble",
+      "rank": null
+    },
+    {
+      "name": "Hatchard",
+      "rank": null
+    },
+    {
+      "name": "Page",
+      "rank": null
+    },
+    {
+      "name": "Watson",
+      "rank": null
+    },
+    {
+      "name": "Woodward",
+      "rank": null
+    },
+    {
+      "name": "Harrington",
+      "rank": null
+    },
+    {
+      "name": "Elkins",
+      "rank": null
+    },
+    {
+      "name": "Post",
+      "rank": null
+    },
+    {
+      "name": "Breslau",
+      "rank": null
+    },
+    {
+      "name": "Chester",
+      "rank": null
+    },
+    {
+      "name": "Widdowson",
+      "rank": null
+    },
+    {
+      "name": "Semark",
+      "rank": null
+    },
+    {
+      "name": "Bilke",
+      "rank": null
+    },
+    {
+      "name": "Baxter",
+      "rank": null
+    },
+    {
+      "name": "Clark",
+      "rank": null
+    },
+    {
+      "name": "Gilmore",
+      "rank": null
+    },
+    {
+      "name": "Tate",
+      "rank": null
+    },
+    {
+      "name": "Spearin",
+      "rank": null
+    },
+    {
+      "name": "Smith",
+      "rank": null
+    },
+    {
+      "name": "Smallwood",
+      "rank": null
+    },
+    {
+      "name": "John Hawarth Heath",
+      "rank": null
+    },
+    {
+      "name": "Muggeridge",
+      "rank": null
+    },
+    {
+      "name": "Macadam",
+      "rank": null
+    },
+    {
+      "name": "Kennedy",
+      "rank": null
+    },
+    {
+      "name": "Last",
+      "rank": null
+    },
+    {
+      "name": "Rickard",
+      "rank": null
+    },
+    {
+      "name": "A E Hall",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "A C Catton",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "G H James",
+      "rank": "Leading Aircraftman"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 78 to 6. 72 additional names from station/OTU roll of honour moved to station_roll_names."
 }

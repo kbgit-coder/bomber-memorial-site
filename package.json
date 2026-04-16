@@ -4,25 +4,29 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/clean-narratives.js && node scripts/filter-narrative-depth.js && python3 scripts/section-relevancy-scorer.py && node scripts/strip-internal-fields.js && node scripts/generate-sitemap.js && node scripts/validate-consistency.js",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postbuild": "npx pagefind --site out --glob \"**/*.html\""
   },
   "dependencies": {
-    "@types/leaflet": "^1.9.21",
-    "leaflet": "^1.9.4",
+    "maplibre-gl": "^5.22.0",
     "next": "14.2.35",
     "posthog-js": "^1.364.7",
     "react": "^18",
     "react-dom": "^18",
-    "react-leaflet": "^5.0.0"
+    "recharts": "^3.8.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.59.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "ajv": "^8.18.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.35",
+    "pagefind": "^1.5.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"

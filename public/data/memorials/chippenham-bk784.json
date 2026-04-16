@@ -1,71 +1,187 @@
 {
-    "id": "chippenham-bk784",
-    "title": "Chippenham Stirling Memorial",
-    "location_name": "Chippenham, Cambridgeshire",
-    "county": "Cambridgeshire",
-    "country": "United Kingdom",
-    "region_code": "CB-002",
-    "os_grid_reference": "TL6770",
-    "crash_date": "1944-05-23",
-    "aircraft_type": "Stirling",
-    "serial_number": "BK784",
-    "squadron": "90 Squadron",
-    "station": "Tuddenham",
-    "crew_summary": "7 killed including pilot Flt Sgt. John Whyte",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Cambridgeshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.16649840252392,
-    "longitude": 0.22847096388490734,
-    "maintainer": {
-        "organisation": "Chippenham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "chippenham-bk784",
+  "title": "Chippenham Stirling Memorial",
+  "location_name": "Chippenham, Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-002",
+  "os_grid_reference": "TL6770",
+  "crash_date": "1944-05-23",
+  "aircraft_type": "Stirling",
+  "serial_number": "BK784",
+  "squadron": "90 Squadron",
+  "station": "Tuddenham",
+  "crew_summary": "7 killed including pilot Flt Sgt. John Whyte",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.302,
+  "longitude": 0.437,
+  "maintainer": {
+    "organisation": "Chippenham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
+      "summary": "Imperial War Museums register entry for the Stirling Bomber BK784 crash site memorial at Chippenham, Cambridgeshire. A stone tablet set into the ground near the crash site on private farmland off Badlingham Road commemorates the seven crew who died on 23 May 1944.",
+      "key_details": [
+        "IWM memorial reference 63962",
+        "Stone tablet on private farmland off Badlingham Road",
+        "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Memorial: Explore Chippenham Stirling Bomber BK784 Crash Site Memorial."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63962",
-            "summary": "Imperial War Museums register entry for the Stirling Bomber BK784 crash site memorial at Chippenham, Cambridgeshire. A stone tablet set into the ground near the crash site on private farmland off Badlingham Road commemorates the seven crew who died on 23 May 1944.",
-            "key_details": [
-                "IWM memorial reference 63962",
-                "Stone tablet on private farmland off Badlingham Road",
-                "Crew names: Aston, Eggbeer, McCrory, Pearce, Sharpen, Walley, Whyte"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Roll of Honour",
-            "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
-            "summary": "Roll of Honour entry for Chippenham, Cambridgeshire, including the crew of Stirling BK784 from 90 Squadron who were killed in the crash on 23 May 1944.",
-            "key_details": [
-                "All seven crew listed on local roll of honour"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Soham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-        },
-        {
-            "org_name": "Chippenham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
-    "squadron_motto": "Caelestiibus idem",
-    "what3words": "moves.lawful.bookmark"
+    {
+      "source_site": "Roll of Honour",
+      "original_url": "https://www.roll-of-honour.com/Cambridgeshire/Chippenham.html",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Soham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Chippenham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/90.jpg",
+  "squadron_motto": "Celer",
+  "what3words": "gardens.attends.expensive",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "90 Squadron RAF",
+  "squadron_aliases": [
+    "90 Squadron",
+    "90 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "R. Aston",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "H. Eggbeer",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "P. Mccrory",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "B. Pearce",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "L. Sharpen",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "W. Walley",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "J. Whyte",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Gerard Prideaux Tharp",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Sidney Howard Jordan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Henry Bowden",
+      "rank": "unknown",
+      "fate": "Killed",
+      "role": "Private",
+      "age": 24,
+      "burial_location": "LONDON CEMETERY AND EXTENSION, LONGUEVAL, Somme, France",
+      "nationality": "British"
+    },
+    {
+      "name": "Ernest Clayden [Listed as Ernest CLAYDON]",
+      "rank": "Private",
+      "fate": "Killed",
+      "role": "unknown",
+      "burial_location": "Savy British Cemetery F.672",
+      "nationality": "British"
+    },
+    {
+      "name": "John Robert Taylor (Served under the surname Taylor)",
+      "rank": "Private",
+      "fate": "Died of wounds",
+      "role": "unknown",
+      "age": 20,
+      "burial_location": "LA CLYTTE MILITARY CEMETERY, West-Vlaanderen, Belgium. Plot I. Row E. Grave 10.",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Stone tablet set into the ground close to the crash site of a Short Stirling bomber aircraft. Incised inscription and names of crew members.\n\nThe memorial was erected 'to the memory of the men of this Parish who gave their lives in the Great War 1914-1919'.\n\nChippenham War Memorial: World War 1 and 2 memorial with 21 names for WW1 and 5 names for WW2. Located in the Churchyard of St Margaret's Church, Chippenham.",
+  "narrative": "On 23 May 1944, Stirling BK784 of 90 Squadron, based at Tuddenham, came down at Chippenham, Cambridgeshire. All seven crew members aboard were killed, including the pilot, Flight Sergeant J. Whyte, alongside R. Aston, H. Eggbeer, P. Mccrory, B. Pearce, L. Sharpen, and W. Walley. Also killed in the crash was James Henry Bowden, a 24-year-old British Private, whose family were from Chippenham. The fates of two further individuals associated with the aircraft, Gerard Prideaux Tharp and Sidney Howard Jordan, remain unknown. The crash claimed at least eight lives in total.",
+  "inscription": "+ IN MEMORY OF\n(7 NAMES)\nCREW OF STIRLING BOMBER\nBK 784\nCRASHED HERE 23.5.1944\nLEST WE FORGET",
+  "community_connection": "The detailed information about each man, including their birthplace, enlistment location, and burial location, highlights the personal connections to the community.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Bowden Memorial",
+        "date": null,
+        "description": "James Henry Bowden, Private 13835, 9th Battalion, Suffolk Regiment. Killed in action on 16th September 1916. Age 24."
+      },
+      {
+        "name": "Clayden Memorial",
+        "date": null,
+        "description": "Ernest Clayden (listed as Ernest CLAYDON), Private 26412, 2nd Battalion, The Bedfordshire Regiment. Killed in action at Savy on the 21st March 1918."
+      },
+      {
+        "name": "Cole Memorial",
+        "date": null,
+        "description": "John Robert Cole (served under surname Taylor), Private 12758, 2nd Battalion, Suffolk Regiment. Died of wounds on 11th April 1915. Aged 20."
+      }
+    ]
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/173/86/large_20190520_chippenham_10_001.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/87/large_20190520_chippenham_12_001.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/88/large_20190520_chippenham_13_001.jpg"
+  ]
 }

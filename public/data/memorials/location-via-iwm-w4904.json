@@ -1,70 +1,140 @@
 {
-    "id": "location-via-iwm-w4904",
-    "title": "(Location via IWM) Lancaster Memorial",
-    "location_name": "(Location via IWM), IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PN-007",
-    "crash_date": "1943-09-28",
-    "aircraft_type": "Lancaster",
-    "serial_number": "W4904",
-    "memorial_type": "Upright limestone cairn with incised black tablet",
-    "sources": [
-        {
-            "title": "IWM (memorial/65480)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.86133774572582,
-    "longitude": -1.891070306819895,
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65480",
-            "summary": "IWM War Memorials Register entry for Lancaster W4904 memorial. The limestone cairn commemorates the crew of a Lancaster bomber that crashed on 28 September 1943.",
-            "key_details": [
-                "IWM reference 65480",
-                "Upright limestone cairn with incised black tablet"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US War Memorials",
-            "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2845&MemID=3837",
-            "summary": "Lancaster W4904 from 1667 Heavy Conversion Unit crashed after encountering icing conditions during a Bullseye training flight from Faldingworth. The aircraft entered a steep unrecoverable dive and suffered structural break-up in mid-air, with wreckage scattered over two miles near Moor Monkton and Marston Moor.",
-            "key_details": [
-                "1667 HCU training flight from Faldingworth",
-                "Icing conditions caused loss of control",
-                "Aircraft broke up in air during steep dive",
-                "Wreckage over two-mile track near Moor Monkton",
-                "One crew member was American RCAF"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Wednesfield History Society",
-            "original_url": "https://wednesfieldhistory.org/the-lancaster-memorial-project/",
-            "summary": "The Lancaster Memorial Project documents the cairn memorial which was rededicated in September 2023 in a new location, commemorating the crew who died in the W4904 crash.",
-            "key_details": [
-                "Memorial rededicated September 2023",
-                "Relocated to new position"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Glossop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "serves.cyber.cowboys"
+  "id": "location-via-iwm-w4904",
+  "title": "(Location via IWM) Lancaster Memorial",
+  "location_name": "Peak District",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "region_code": "PN-007",
+  "crash_date": "1943-09-28",
+  "aircraft_type": "Lancaster",
+  "serial_number": "W4904",
+  "memorial_type": "Upright limestone cairn with incised black tablet",
+  "sources": [
+    {
+      "title": "IWM (memorial/65480)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.86133774572582,
+  "longitude": -1.891070306819895,
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65480",
+      "summary": "IWM War Memorials Register entry for Lancaster W4904 memorial. The limestone cairn commemorates the crew of a Lancaster bomber that crashed on 28 September 1943.",
+      "key_details": [
+        "IWM reference 65480",
+        "Upright limestone cairn with incised black tablet"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The poignant Lancaster Memorial at IWM, honoring fallen crew from tragic WWII crash."
+    },
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://www.uswarmemorials.org/html/monument_details.php?SiteID=2845&MemID=3837",
+      "summary": "Lancaster W4904 from 1667 Heavy Conversion Unit crashed after encountering icing conditions during a Bullseye training flight from Faldingworth. The aircraft entered a steep unrecoverable dive and suffered structural break-up in mid-air, with wreckage scattered over two miles near Moor Monkton and Marston Moor.",
+      "key_details": [
+        "1667 HCU training flight from Faldingworth",
+        "Icing conditions caused loss of control",
+        "Aircraft broke up in air during steep dive",
+        "Wreckage over two-mile track near Moor Monkton",
+        "One crew member was American RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Lancaster Memorial's poignant tribute to fallen heroes at IWM via US War Memorials."
+    },
+    {
+      "source_site": "Wednesfield History Society",
+      "original_url": "https://wednesfieldhistory.org/the-lancaster-memorial-project/",
+      "summary": "The Lancaster Memorial Project documents the cairn memorial which was rededicated in September 2023 in a new location, commemorating the crew who died in the W4904 crash.",
+      "key_details": [
+        "Memorial rededicated September 2023",
+        "Relocated to new position"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The rededicated Lancaster Memorial at IWM, honoring fallen crew from the W4904 crash."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Glossop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "serves.cyber.cowboys",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "crew": [
+    {
+      "name": "Douglas Roy Brown",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Reginald Eric Butler",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Arthur Howell",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Adam William Joseph Mullen",
+      "fate": "Killed",
+      "rank": "Adam Mullen"
+    },
+    {
+      "name": "Martin Raymond Pearce",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Lawrence Richard William Turley",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Roger Pickering Weston",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Adam Mullen RCAF (R/154030)",
+      "rank": "Flying Sergeant",
+      "fate": "Killed",
+      "role": "unknown",
+      "burial_location": "Churchyard, York"
+    }
+  ],
+  "memorial_details": "Upright limestone cairn supporting a landscape oriented incised black tablet incorporating badges and motto of the R.C.A.F. / R.A.F. in the top corners.\n\nThe memorial is made of a cairn bearing a rectangular plaque commemorating and listing the crew of the aircraft.\n\nOn September 23, 2023, a rededicated memorial was placed in its new location.\n\nRededication of Memorial (September 23, 2023): The memorial was rededicated to its new location in the churchyard.\n\nMemorial Display: The memorial displays the Avro Lancaster W4904, a World War II bomber.",
+  "narrative": "On the night of 27\u201328 September 1943, the crew of Lancaster W4904 departed Faldingworth airfield at 20:10 hours on a Bullseye training exercise with the 1667 Heavy Conversion Unit. The flight required them to navigate to a British city and conduct a simulated bombing run, testing both aircrew and ground-based tracking personnel. Four hours into the flight, the aircraft was approaching the western side of York in cloud when severe icing conditions compromised its control surfaces. It is believed Flying Sergeant Adam Mullen lost control of the aircraft as a result. All seven crew members were killed: Douglas Roy Brown, Reginald Eric Butler, Arthur Howell, Adam William Joseph Mullen, Martin Raymond Pearce, Lawrence Richard William Turley, and Roger Pickering Weston. Mullen, an American serving with the RCAF, was from Upper Darby, Pennsylvania.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "Critchlow, highlighting the community connection through their preservation efforts. The dedication ceremony brought together the community to honor the fallen crew members.",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/166/817/large_230921_front_a_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/131/205/large_65480_martyn_a_critchlow_30_january_2022.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/131/204/large_65480b_martyn_a_critchlow_30_january_2022.jpg"
+  ]
 }

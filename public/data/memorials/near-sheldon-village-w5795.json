@@ -2,7 +2,7 @@
   "id": "near-sheldon-village-w5795",
   "title": "Near Sheldon village Wellington Memorial",
   "location_name": "Near Sheldon village, Peak District (Derbyshire / South Pennines)",
-  "county": "Peak District (Derbyshire / South Pennines)",
+  "county": "Derbyshire",
   "country": "United Kingdom",
   "region_code": "PD-003",
   "crash_date": "1942-07-12",
@@ -21,57 +21,55 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Comprehensive",
-  "narrative": "This was no ordinary training accident. Wellington Mk.VI W5795 was a specialised high-altitude variant with a pressurised cabin, being tested from the Aeroplane and Armament Experimental Establishment at Boscombe Down, Wiltshire. The crew was flying at 35,000 feet — an extraordinary altitude for a Wellington — testing whether it was possible to fly above the ceiling of German fighters. During the flight, a propeller sheared off and tore through the pressurised cabin, causing catastrophic decompression and structural failure. The aircraft crashed into farmland in Stanley parish near Ilkeston. All five aboard were killed, including civilian test observer Clifford Abbott, aged 23. The presence of a DFM holder (Flight Sergeant Arthur Smith) and a Squadron Leader among the dead speaks to the calibre of men involved in this classified test programme. The Wellington VI was one of the rarest marks produced, with only around 64 built, designed specifically for high-altitude operations.",
+  "narrative": "Conducting a high-altitude pressurisation trial over Derbyshire, Wellington W5795 was lost on 12 July 1942 after a propeller sheared away at 35,000 feet and tore through the aircraft's cabin. Squadron Leader Colmore was piloting the development flight when the stricken bomber came down near Sheldon village in the Peak District. Five were killed: S/Ldr Cyril Colmore, P/O Kenneth Radford, Fl/Sgt Ronald Gillott, Fl/Sgt Arthur Smith DFM, and civilian test observer Clifford Abbott — who had joined the crew in a non-military capacity and was aged just 23.",
   "crew": [
     {
       "rank": "S/Ldr",
       "name": "Cyril L.F. Colmore",
-      "service_number": "37651 RAF",
       "age": 29,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "—",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed when the pressurised cabin was breached at 32,500 feet after a propeller blade sheared off, causing catastrophic decompression.",
       "bio": "Squadron Leader and pilot, aged 29. Led the classified high-altitude pressurisation test programme from A&AEE Boscombe Down.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "37651 RAF",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Kenneth Radford",
-      "service_number": "123492 RAFVR",
       "age": 27,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "—",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the catastrophic decompression and subsequent crash.",
       "bio": "Pilot Officer serving with the RAFVR as second pilot, aged 27.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "123492 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Ronald P. Gillott",
-      "service_number": "650284 RAF",
       "age": 22,
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "—",
       "fate": "Killed",
       "cwgc_verified": true,
       "fate_detail": "Killed in the crash. The aircraft disintegrated, with wreckage spread between Dale Abbey and Ockbrook.",
       "bio": "Flight Sergeant serving with the RAF, aged 22.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "650284 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Arthur J. Smith DFM",
-      "service_number": "755349 RAF",
       "age": 23,
       "role": "Crew",
-      "nationality": "British",
       "burial_location": "—",
       "fate": "Killed",
       "cwgc_verified": true,
@@ -79,25 +77,27 @@
       "bio": "Flight Sergeant serving with the RAF, aged 23. Holder of the Distinguished Flying Medal, indicating exceptional operational service before his posting to the test programme.",
       "decorations": [
         "DFM"
-      ]
+      ],
+      "service_number": "755349 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Mr",
       "name": "Clifford V. Abbott",
-      "service_number": "— (civilian)",
       "age": 23,
       "role": "Civilian Test Observer",
-      "nationality": "British",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. A civilian technical observer monitoring the pressurisation test.",
       "bio": "Civilian test observer aged 23, attached to the experimental programme at Boscombe Down. One of the rare civilian casualties among these memorial records.",
-      "decorations": []
+      "decorations": [],
+      "service_number": "— (civilian)",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Propeller sheared off at 35,000ft, tore through pressurised cabin",
   "operation_type": "Training",
-  "memorial_details": "A polished grey granite tablet featuring the Royal Air Force badge was unveiled on 11 July 2004 in St Andrew's Churchyard, Stanley. The War Memorials Trust contributed towards the memorial costs. The inscription reads: \"In Memory of The Crew of Wellington Mk VI W5795 Who Tragically Lost Their Lives On 12th July 1942 In A Crash In the Quarry Farm Area Of This Parish.\" Publicly accessible in the churchyard.",
+  "memorial_details": "A polished grey granite tablet featuring the Royal Air Force badge was unveiled on 11 July 2004 in St Andrew's Churchyard, Stanley. The War Memorials Trust contributed towards the memorial costs. The inscription reads: \"In Memory of The Crew of Wellington Mk VI W5795 Who Tragically Lost Their Lives On 12th July 1942 In A Crash In the Quarry Farm Area Of This Parish.\" Publicly accessible in the churchyard.\n\nMemorial Unveiling (11th July 2004): A service was held to unveil the new memorial stone in St Andrew's Churchyard in Stanley Village, commemorating the 5 men lost in the Wellington Bomber W5795 crash.\n\nMemorial Dedication (2004-07-11): Dedication of the memorial in St Andrew's Churchyard, Stanley, near Derby. This was the 72nd anniversary of the crash.",
   "latitude": 53.17301352158918,
   "longitude": -1.824359179371043,
   "maintainer": {
@@ -115,7 +115,8 @@
         "Memorial in St Andrew's Churchyard, Stanley"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed documentation of Wellington Mk VI W5795 Memorial at St Andrew's Churchyard, Stanley."
     },
     {
       "source_site": "War Memorials Trust",
@@ -126,7 +127,8 @@
         "Unveiled 11 July 2004"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical details on the unveiling of the Sheldon village Wellington Memorial in 2004."
     },
     {
       "source_site": "Midlands Air Crash Research",
@@ -139,7 +141,8 @@
         "Only approximately 64 Wellington Mk VI built"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore MACR's technical account of Wellington W5795 air crash at Boscombe Down."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -150,7 +153,8 @@
         "Classified as Mk IV in some records"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Review aviation safety network's accident report of Wellington Mk IV W5795 crash in 1942."
     }
   ],
   "local_contacts": [
@@ -173,5 +177,23 @@
       "caption": "Near Sheldon village Wellington Memorial — photograph",
       "credit": "Mike Coyle / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "Bomber Command (test flight)",
+  "squadron_aliases": [
+    "Bomber Command (test flight)"
+  ],
+  "community_connection": "It was funded by a c£1500 grant from the War Memorials Trust and private donations. It was unveiled at a service on 11th July 2004. No community connection stories about a WW2 memorial were found in the provided text.",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

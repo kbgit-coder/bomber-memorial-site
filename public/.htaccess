@@ -2,6 +2,19 @@
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# Clean URLs — serve .html files without extension
+# Next.js static export generates .html files but links use clean URLs
+# Handle directory URLs that have a matching .html file (e.g. /squadron → squadron.html)
+# Must fire BEFORE Options -Indexes catches the directory request
+RewriteCond %{REQUEST_URI} ^/([^.]+)/?$
+RewriteCond %{DOCUMENT_ROOT}/%1.html -f
+RewriteRule ^(.+?)/?$ /$1.html [L]
+# Handle non-directory clean URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
 
 # Serve .html files for extensionless URLs (Next.js static export)
 RewriteCond %{REQUEST_FILENAME} !-f
@@ -20,6 +33,9 @@ RewriteRule ^(.*)$ $1.html [L]
     Header always unset Server
     Header always unset X-Powered-By
 </IfModule>
+
+# Custom 404 page
+ErrorDocument 404 /404.html
 
 # Prevent directory listing
 Options -Indexes

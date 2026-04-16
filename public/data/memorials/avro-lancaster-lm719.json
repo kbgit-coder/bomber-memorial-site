@@ -1,0 +1,39 @@
+{
+  "id": "avro-lancaster-lm719",
+  "title": "Avro Lancaster LM719",
+  "location_name": "Stoke Rochford, South Kesteven",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM719",
+  "squadron": "",
+  "crash_date": "1945-04-28",
+  "memorial_type": "Other structure",
+  "memorial_details": "Tree and associated plaque. (There appears to be two recorded versions of the plaque displaying six and seven names. Flight Sergeant D R Wilson. RCAF is omitted on one plaque).",
+  "inscription": "In Memory Of / (7 Names) / crew of / Lancaster Mk III. LM719. H4-M for \"Mother\" / 1653 HCU, RAF North Luffenham / Who perished near this place 28th April 1945 / WE WILL REMEMBER THEM",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/108249",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 52.842283605571,
+  "longitude": -0.63819475,
+  "grid_ref": "SK 91826",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/173/645/large_108249a.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/173/644/large_108249b.jpg"
+  ],
+  "community_connection": "Who perished near this place"
+}

@@ -20,8 +20,8 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
-  "latitude": 52.050019071587954,
-  "longitude": 1.0672512551933167,
+  "latitude": 52.4197397,
+  "longitude": 1.7122444,
   "maintainer": {
     "organisation": "Kessingland Parish Council",
     "maintainer_type": "parish-council"
@@ -37,7 +37,10 @@
         "Crashed in fields south of Kessingland village"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the American Air Museum's detailed record of B-24H Liberator 'Repulser', commemorating its heroic role and tragic end during WWII.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",
@@ -48,7 +51,8 @@
         "Located at St Edmund's Church alongside village war memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial: Kessingland \"Repulser\" Memorial on War Memorials Online, honoring USAAF B-24 Liberator crash and 715th Bomber Group crew."
     },
     {
       "source_site": "Lowestoft Journal",
@@ -59,7 +63,8 @@
         "Local community commemoration"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Witness the solemn memorial ceremony honoring brave USAAF airmen at Kessingland's \"Repulser\" Memorial."
     },
     {
       "source_site": "East Anglian Daily Times",
@@ -69,7 +74,8 @@
         "Annual memorial service held at Kessingland"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Attend memorial service honoring Kessingland's \"Repulser\" victims of WWII air raid."
     }
   ],
   "local_contacts": [
@@ -85,7 +91,7 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "science.speedily.interest",
+  "what3words": "gurgled.recruiter.credible",
   "photos": [
     {
       "filename": "kessingland-b-24-liberator-41-28/geograph-4425734-by-Adrian-S-Pye_547x410.jpg",
@@ -112,5 +118,44 @@
       "caption": "20201001 170218",
       "credit": "Adrian S Pye (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "715th Squadron USAAF",
+  "squadron_aliases": [
+    "715th Squadron"
+  ],
+  "narrative": "The crew of B-24 Liberator *Repulser* departed from Seething on 22 April 1944, flying with the 715th Squadron on a wartime mission over England. The aircraft came down at Kessingland, Suffolk, before it could return to base. All ten men aboard were killed, including the pilot, 2nd Lieutenant Eugene V. Pulcipher. No survivors are recorded. A memorial at Kessingland now marks the site where the crew of *Repulser* was lost.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "American Aircraft Crew memorial",
+        "date": "23 Nov 2017",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "USAF Bomber Crew.1",
+        "date": "24 Aug 2020",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "USAF Bomber Crew.2",
+        "date": "24 Aug 2020",
+        "description": "Photograph taken of the memorial"
+      },
+      {
+        "name": "Liberator Memorial",
+        "date": "01 Oct 2020",
+        "description": "Photograph taken of the memorial"
+      }
+    ]
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 1,
+  "narrative_source": "generated-claude-sonnet"
 }

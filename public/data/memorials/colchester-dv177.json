@@ -1,81 +1,147 @@
 {
-    "id": "colchester-dv177",
-    "title": "Colchester Lancaster Memorial",
-    "location_name": "Colchester, Essex",
-    "county": "Essex",
-    "country": "United Kingdom",
-    "region_code": "EX-002",
-    "crash_date": "1944-04-25",
-    "aircraft_type": "Lancaster",
-    "serial_number": "DV177",
-    "squadron": "626 Squadron",
-    "station": "Wickenby",
-    "crew_summary": "8 killed including pilot Plt Off. Murray L. McPherson",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph Essex",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.72897946546229,
-    "longitude": 0.36943751531365476,
-    "maintainer": {
-        "organisation": "Colchester City Council",
-        "maintainer_type": "parish-council"
+  "id": "colchester-dv177",
+  "title": "Colchester Lancaster Memorial",
+  "location_name": "Colchester, Essex",
+  "county": "Essex",
+  "country": "United Kingdom",
+  "region_code": "EX-002",
+  "crash_date": "1944-04-25",
+  "aircraft_type": "Lancaster",
+  "serial_number": "DV177",
+  "squadron": "626 Squadron",
+  "station": "Wickenby",
+  "crew_summary": "8 killed including pilot Plt Off. Murray L. McPherson",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph Essex",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 51.8897,
+  "longitude": 0.8993,
+  "maintainer": {
+    "organisation": "Colchester City Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "TracesOfWar",
+      "original_url": "https://www.tracesofwar.com/sights/75179/Memorial-Lancaster-DV177.htm",
+      "summary": "Memorial database entry for Lancaster DV177 at Colchester. The 626 Squadron aircraft from Wickenby crashed on 25 April 1944 at 04:10 after being attacked by a German intruder near Diss, Norfolk, while returning from operations.",
+      "key_details": [
+        "Attacked by German intruder near Diss",
+        "Attempted emergency landing at Boxted (USAAF station)",
+        "Crashed in flames, now Severalls Business Park site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed records of Lancaster DV177's tragic crash site in Colchester from TracesOfWar.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
-    "external_narratives": [
-        {
-            "source_site": "TracesOfWar",
-            "original_url": "https://www.tracesofwar.com/sights/75179/Memorial-Lancaster-DV177.htm",
-            "summary": "Memorial database entry for Lancaster DV177 at Colchester. The 626 Squadron aircraft from Wickenby crashed on 25 April 1944 at 04:10 after being attacked by a German intruder near Diss, Norfolk, while returning from operations.",
-            "key_details": [
-                "Attacked by German intruder near Diss",
-                "Attempted emergency landing at Boxted (USAAF station)",
-                "Crashed in flames, now Severalls Business Park site"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/69872",
-            "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster UM-K2 (DV177) at Colchester, Essex. Commemorates all eight crew killed.",
-            "key_details": [
-                "IWM memorial reference 69872",
-                "Squadron code UM-K2"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Gazette News (Colchester)",
-            "original_url": "https://www.gazette-news.co.uk/news/20085146.colchester-memorial-raf-airmen-died-war/",
-            "summary": "News report on remembrance service for the crew of Lancaster DV177. Memorial unveiled near the crash location on 25 April 2013. Crew included Canadian and British airmen of 626 Squadron.",
-            "key_details": [
-                "Memorial unveiled 25 April 2013",
-                "Crew included RCAF pilot P/O McPherson and RCAF W/O Cameron",
-                "Annual remembrance services held"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Colchester Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
-        },
-        {
-            "org_name": "Colchester City Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "dates.zones.lovely"
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/69872",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster UM-K2 (DV177) at Colchester, Essex. Commemorates all eight crew killed.",
+      "key_details": [
+        "IWM memorial reference 69872",
+        "Squadron code UM-K2"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The Memorial: Colchester Lancaster Memorial, honoring crew's sacrifice in IWM War Memorials Register."
+    },
+    {
+      "source_site": "Gazette News (Colchester)",
+      "original_url": "https://www.gazette-news.co.uk/news/20085146.colchester-memorial-raf-airmen-died-war/",
+      "summary": "News report on remembrance service for the crew of Lancaster DV177. Memorial unveiled near the crash location on 25 April 2013. Crew included Canadian and British airmen of 626 Squadron.",
+      "key_details": [
+        "Memorial unveiled 25 April 2013",
+        "Crew included RCAF pilot P/O McPherson and RCAF W/O Cameron",
+        "Annual remembrance services held"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Attend remembrance service at Colchester Lancaster Memorial site for crew members."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Colchester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+    },
+    {
+      "org_name": "Colchester City Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "boots.stones.camp",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "626 Squadron RAF",
+  "squadron_aliases": [
+    "626 Squadron",
+    "626 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "Robert E H Cameron",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Ernest J Fancy",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Francis W Gunn",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "James D Mayger",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Murray L Mcpherson",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Dennis Randle",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "John L Shell",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "A square plinth sits on the flat stone base platform, on top with the rectangular tablet which depicts the event and lists the seven casualties. Another tablet is surmounted at the front of the plinth which decorates with emblem of RAF regiment. There are two plaques surmounted at the sides of the plinth which depict the history of the memorial.\n\nThe memorial was erected by various businesses and individuals, including David Davies (Business Manager, Space Maker SafeStore Trading Ltd), Susan Ho (Managing Director, Seven Seas Marble & Granite Ltd), Jim Moran (Stonemason, JSM Essex Ltd), Susan Moran (Seven Seas Marble & Granite Ltd), Chris King (Collier & Catchpole Builders Merchants), D.Baxter of DB Concrete, Roy (Loftie) Tolhurst, Carl Jackson (On Signs For You Ltd), Historian Nigel Julian, Michael Heath, Chris Stanfield, N.E.",
+  "narrative": "On April 25, 1944, at 04:10 AM, RAF Lancaster DV177 of 626 Squadron, based near Wickenby, crashed close to this location, resulting in the loss of all seven crew members. The aircraft, piloted by P/O Murray L McPherson (RCAF), Flight Engineer James D Mayger (RAF), Navigator Francis W Gunn (RCAF), Air Bomber John L Shell (RAF), Wireless Operator Dennis Randle (RAF), Air Gunner Ernest J Fancy (RAF), and another Air Gunner Robert E H Cameron (RCAF), was last seen in the skies above. This memorial stands as a tribute to their sacrifice.",
+  "inscription": "TOP TABLET: THIS MEMORIAL IS DEDICATED TO THE CREW OF\nRAF LANCASTER UM-K2 SERIAL NO. DV 177\nOF 626 SQUADRON WICKENBY WHICH CRASHED\nCLOSE TO THIS LOCATION 25TH APRIL 1944\nAT 0410 HOURS WITH LOSS OF ALL SEVEN CREWMEN.\nP\nO MURRAY L McPHERSON RCAF PILOT AGE 22\nF\nS JAMES D MAYGER RAF FLIGHT ENGINEER AGE 21\nP\nO FRANCIS W GUNN RCAF NAVIGATOR AGE 29\nF\nS JOHN L SHELL RAF AIR BOMBER AGE 23\nSGT DENNIS RANDLE RAF WIRELESS OPERATOR AGE 22\nSGT ERNEST J FANCY RAF AIR GUNNER AGE 22\nW\nO 1 ROBERT E H CAMERON RCAF AIR GUNNER AGE 20\nWE WILL REMEMBER THEM PLAQUE ON THE RIGHT: THIS MEMORIAL WAS MADE POSSIBLE BY THE GOOD WILL\nAND SUPPORT OF THE FOLLOWING BUSINESSES AND INDIVIDUALS\nDAVID DAVIES BUSINESS MANAGER SPACE MAKER SAFESTORE TRADING LTD\nSUSAN HO MANAGING DIRECTOR SEVEN SEAS MARBLE & GRANITE LTD\nJIM MORAN STONEMASON JSM ESSEX LTD\nSUSAN MORAN SEVEN SEAS MARBLE & GRANITE LTD\nCHRIS KING COLLIER & CATCHPOLE BUILDERS MERCHANTS\nD.BAXTER OF DB CONCRETE\nROY (LOFTY) TOLHURST\nCARL JACKSON ON SIGNS FOR YOU LTD\nINITIAL RESEARCH\nINFORMATION PROVIDED BY\nHISTORIAN NIGEL JULIAN\nMICHAEL HEATH\nMAIN RESEARCH AND ASSISTANCE PROVIDED BY\nCHRIS STANFIELD\nN.E. MACFARLANE LONDON ONTARIO CANADA\nDAVID MACKIE SMITH ROYAL CANADIAN AIR FORCE ASS. 427 LONDON WING\nMEMBERS OF WW2TALK.COM FORUM\nANNE LAW & TIM BRETT WICKENBY MEMORIAL MUSEUM\nSIMON GALLUP LANGHAM\nTHE MEMORIAL CAME INTO BEING DUE TO THE RECOLLECTIONS AND MEMORIES OF\nDEREK BLOWERS 1930 - 2011\nMICHAEL HEATH\nDAVID SEABORN PLAQUE ON THE LEFT: THIS MEMORIAL WAS UNVEILED ON\n25TH APRIL 2013 BY MICHAEL HEATH,\nAND DAVID SEABORN, WITH\nPETER POTTER AND SIR BOB RUSSEL M.P.\nIN ATTENDANCE. MICHAEL AND DAVID\nVISITED THE SITE ON THE MORNING OF THE CRASH.\nPETER WAS A MEMBER OF THE SAME SQUADRON\nAS THE LANCASTER (626) THEN SERVING AS\nAN AIR GUNNER. SIR BOB RUSSEL STRIVES\nTO MAINTAIN AN AWARENESS OF BOXTED AIRFIELD'S\nHISTORY AND EVENTS RELATING TO THIS PERIOD.\nTHE MEMORIAL WAS UNVEILED AND DEDICATED\nIN THE PRESENCE OF RELATIVES OF THE CREW\nFROM BOTH THE U.K. AND CANADA.",
+  "community_connection": "MacFarlane London Ontario Canada, David Mackie Smith (Royal Canadian Air Force Ass. 427 London Wing), members of WW2Talk.com Forum, Anne Law & Tim Brett (Wickenby Memorial Museum), Simon Gallup Langham, and Derek Blowers (1930 - 2011). The memorial came into being due",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/9/838/large_lancaster_dv177_crash_colchester_cchris_stanfield5_2013.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/9/839/large_lancaster_dv177_crash_colchester_cchris_stanfield4_2013.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/9/840/large_lancaster_dv177_crash_colchester_cchris_stanfield6_2013.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/9/841/large_lancaster_dv177_crash_colchester_cchris_stanfield3_2013.jpg"
+  ]
 }

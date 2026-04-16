@@ -19,10 +19,10 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-04-09",
   "data_quality": "Partial",
-  "latitude": 53.267074278742655,
-  "longitude": -0.1718037630975404,
+  "latitude": 53.27475331864182,
+  "longitude": -0.7449671407874179,
   "maintainer": {
     "organisation": "Laughterton Parish Meeting",
     "maintainer_type": "parish-council"
@@ -39,7 +39,8 @@
         "Shares memorial cairn with EH940"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed history and information about Laughterton Trentside Memorial honoring Lancaster aircraft at War Memorials Online."
     },
     {
       "source_site": "Geograph",
@@ -51,7 +52,8 @@
         "Brown and Corless stayed to control aircraft"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Photographic record of Lancaster LM292 crash memorial plaque at Laughterton."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -62,7 +64,8 @@
         "Dual memorial unveiled 16 July 1994"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The unveiling of the Laughterton Memorial in Lancaster, honoring Stirling EH940 and Lancaster LM292 crash victims from IWM War Memorials Register."
     }
   ],
   "local_contacts": [
@@ -76,11 +79,17 @@
       "org_name": "Laughterton Parish Meeting",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Local research on EH940 and LM292 crashes",
+      "email": "via chris.smith@kettlethorpe-pc.gov.uk",
+      "org_name": "Laughterton Historic Society",
+      "org_type": "History Society"
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/103.jpg",
   "squadron_motto": "Noli me tangere",
-  "what3words": "cattle.shortens.padlock",
+  "what3words": "photos.earpiece.last",
   "photos": [
     {
       "filename": "laughterton-2-lm292/5e143980d4e59_Laughterton_547x410.jpg",
@@ -117,5 +126,32 @@
       "caption": "LI Laughterton 4",
       "credit": "Charles J Anderson / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "103 Squadron RAF",
+  "squadron_aliases": [
+    "103 Sqdn.",
+    "103 Squadron"
+  ],
+  "additional_contributors": [
+    {
+      "name": "Paul Lawrence (Laughterton Historic Society)",
+      "role": "Local historian — PowerPoint presentation covering Stirling EH940 and Lancaster LM292 (requested April 2026)",
+      "date": "2026-04-09"
+    }
+  ],
+  "narrative": "Whilst flying at 1800ft, the aircraft suffered an in-flight engine fire. The aircraft dived and banked before it crashed at Park Farm, Kettlethorpe at 1738. Five of the crew were killed, three were injured.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "memorial_details": "The memorial was unveiled on the 16th July 1994 by the side of the A1133 and a unclassified road, erected by the local community.\n\nMemorial Display: A display featuring Short Stirling EH940 and Avro Lancaster LM292 aircraft from World War II.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
 }

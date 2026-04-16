@@ -1,0 +1,41 @@
+{
+  "id": "avro-lancaster-lm311",
+  "title": "Avro Lancaster LM311",
+  "location_name": "Long Bennington, South Kesteven",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM311",
+  "squadron": "",
+  "crash_date": "1943-07-13",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A metal plaque attached to a backboard, mounted on a rough hewn stone on a concrete base. Lettering is incised and picked out in black. The plaque refers to a memorial tree, probably a Eucalyptus planted in 1995. By 2015 an immature sapling was recorded, presumably having replaced the original tree. By December 2020 the sapling was no longer in evidence (presumed dead).",
+  "inscription": "467 RAAF SQUADRON ASSOCIATION/ This tree was planted in memory of/ the Crew of Lancaster PO-L LM311/ which crashed on return from Turin/ 13th July 1943/ (Names)/ We shall Cherish their Memory",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/99212",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Partial",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 52.98907951488,
+  "longitude": -0.769560881003,
+  "grid_ref": "SK 82693",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/127/811/large_lm311_memorial_stone.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/813/large_lm311_memorial.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/129/910/large_li_long_bennington_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/812/large_lm311_plaque_detail.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/127/814/large_lm311_memorial_in_context.jpg"
+  ]
+}

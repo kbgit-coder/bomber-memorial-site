@@ -1,99 +1,150 @@
 {
-    "id": "stoke-holy-cross-blenheim-z-7304",
-    "title": "Stoke Holy Cross Z.7304 Memorial",
-    "location_name": "Stoke Holy Cross, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-022",
-    "crash_date": "1942-07-18",
-    "aircraft_type": "Blenheim Z.7304",
-    "squadron": "18 (Burma) Squadron",
-    "station": "Wattisham",
-    "crew_summary": "3 crew + 1 civilian meteorologist killed",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.67719092801924,
-    "longitude": 0.9522137402302457,
-    "maintainer": {
-        "organisation": "Stoke Holy Cross Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "stoke-holy-cross-blenheim-z-7304",
+  "title": "Stoke Holy Cross Z.7304 Memorial",
+  "location_name": "Stoke Holy Cross, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-022",
+  "crash_date": "1942-07-18",
+  "aircraft_type": "Blenheim Z.7304",
+  "squadron": "18 (Burma) Squadron",
+  "station": "Wattisham",
+  "crew_summary": "3 crew + 1 civilian meteorologist killed",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.5662,
+  "longitude": 1.2959,
+  "maintainer": {
+    "organisation": "Stoke Holy Cross Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/lowther-philip.html",
+      "summary": "Detailed account of the crash of Blenheim Z7304 from 18 Squadron. The aircraft was on an air test from Wattisham when the pilot flew to the coast in poor visibility, hitting a radar pylon at Stoke Holy Cross just 10 feet from its top.",
+      "key_details": "Crew: P/O Philip Henry Lowther (pilot, age 20, RAFVR 104490), Sgt Kenneth Custance Ellis (navigator, age 32, RAFVR 1259306), Sgt George Bernard Crawford (WOp/AG, age 21, RAFVR 1178840). Also killed was Ken Tagg, an 18-year-old civilian meteorological assistant who was an unofficial passenger.",
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "link_description": "Explore detailed account of Blenheim Z7304 crash from 18 Squadron, including air test and tragic collision at Stoke Holy Cross Memorial."
     },
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered",
-            "original_url": "https://aircrewremembered.com/lowther-philip.html",
-            "summary": "Detailed account of the crash of Blenheim Z7304 from 18 Squadron. The aircraft was on an air test from Wattisham when the pilot flew to the coast in poor visibility, hitting a radar pylon at Stoke Holy Cross just 10 feet from its top.",
-            "key_details": "Crew: P/O Philip Henry Lowther (pilot, age 20, RAFVR 104490), Sgt Kenneth Custance Ellis (navigator, age 32, RAFVR 1259306), Sgt George Bernard Crawford (WOp/AG, age 21, RAFVR 1178840). Also killed was Ken Tagg, an 18-year-old civilian meteorological assistant who was an unofficial passenger.",
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 18.07.1942 No 18 Squadron Blenheim IV Z7304 P/O. Philip Lowther Operation: Air Test\n\nDate: 18th July 1942 (Saturday)\n\nUnit: No. 18 Squadron\n\nBase: RAF Wattisham, Suffolk\n\nLocation: Stoke Holy Cross, Norfolk\n\nPilot: P/O. Philip Henry Lowther 104490 RAFVR Age 20. Killed\n\nObserver: Sgt. Kenneth Custance Ellis 1259306 RAFVR Age 32. Killed\n\nW/Op/Air/ Gnr: Sgt. George Bernard Crawford 1178840 RAFVR Age 21. Killed\n\nPassenger: Mr. Kenneth T. Tagg Civilian Meteorologist Age 18. Killed\n\nDuring an air test and flying in poor visibility the Blenheim IV crashed into a radar pylon at Stoke Holy Cross (Poringland, Norwich) at 15.00 hrs.\n\nMr Kenneth T. Tagg a Civilian Meteorologist accompanied the flight for some air experience. He is buried in Norwich, but very sadly he does not have a headstone, neither is he listed by the CWGC as a civilian casualty?\n\n(1) Blenheim IV Z7283 Flown by Sgt. John Kenneth Jones and his observer Sgt. Herbert Dawson were killed when one of the engines began to misfire and Sgt. Jones ordered the crew to bail out but as the aircraft was now below 1000 ft. Sgt. Dawson decided to remain in the aircraft and risk a forced landing - Sgt. Crawford complied however and he survived jumping when the aircraft was only at 750 ft. landing in a tree with nothing more than a sprained left ankle and of course, suffering from shock.\n\nThe aircraft eventually crashed at 00.15 hrs at Hough-on-the-Hill into a cottage killing the two crew members and also 72 year old Mr John Ayto and his 70 year old wife, Annie Sophia Ayto who lived in the cottage.\n\nP/O. Philip Henry Lowther. Bideford Public Cemetery. Sec B. Grave 159. Son of John Henry and Mary Louisa Lowther, of Bideford, England.\n\nGrave shown right (courtesy Glenn Christodoulou )\n\nSgt. Kenneth Custance Ellis. Comberton (St. Mary) Churchyard. Son of Bernard William and Florence Hilda Ellis, of Comberton, husband of Doris Irene Ellis, of Cambridge, England.\n\nSgt. George Bernard Crawford. Brookwood Military Cemetery 24.B.10. Known to be from Redruth, Cornwall - worked in a department store in Plymouth. Next of Kin details currently not available - are you able to assist completion of these and any other information?\n\nMr. Kenneth T. Tagg. ( pictured left ) Buried at the Earlham Road Cemetery, Norwich. Born on the 24th March 1924 in Lewisham. Son to Mrs. (née Tilfts) Tagg. In the 1939 Register he was at school in Uckfield, Sussex.\n\nResearched with the assistance of Derek Bales for the relatives of the crew. Acknowledgments, to the following: Derek Bales, Glenn Christodoulou for grave photo, sent in to us in September 2017. Thanks to John Jones for the Next of Kin details for Mr. Tagg. Bill Chorley - \"Bomber Command Losses\".\n\nRS 07.06.2019 - Update to NoK details for Mr. Tagg\n\nKTY - 11.09.2017 - Map and grave photo added\n\nRS 07.06.2019 - Update to NoK details for Mr. Tagg\n\n- 18 Squadron Blenheim IV Z7304 P/O. Lowther Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/206141",
-            "summary": "Accident database entry for Bristol Blenheim Mk IV Z7304, recording the crash on 18 July 1942 at Stoke Holy Cross, Norfolk, during an air test flight.",
-            "key_details": "Aircraft struck a radar pylon in low cloud. The air test should have been conducted near Wattisham but the pilot elected to fly to the coast.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Poringland Archive",
-            "original_url": "https://sites.google.com/a/poringlandarchive.co.uk/poringland-archive/stoke-holy-cross/raf-stoke-holy-cross",
-            "summary": "Local archive page documenting the history of RAF Stoke Holy Cross radar station, including the 1942 Blenheim crash into the radar pylon. A memorial plaque was placed on the old pylon base on 18 July 1992, the 50th anniversary.",
-            "key_details": "Memorial plaque unveiled on 50th anniversary in 1992. The radar station at Stoke Holy Cross was an important Chain Home installation during the Battle of Britain.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Norwich Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Stoke Holy Cross Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
-    "squadron_motto": "With courage and faith",
-    "what3words": "sued.dozens.boats",
-    "photos": [
-        {
-            "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-w800-w800.jpg",
-            "caption": "18 squadron blenheim iv z7304",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-memorial-w640h480.jpg",
-            "caption": "18 squadron blenheim iv z7304 memorial",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-memorial-inscription-w640h480.jpg",
-            "caption": "18 squadron blenheim iv z7304 memorial inscription",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "stoke-holy-cross-blenheim-z-7304/po-philip-henry-lowther-grave-w800-w800.jpg",
-            "caption": "po philip henry lowther grave",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-mr-kenneth-tagg-w640h480.jpg",
-            "caption": "18 squadron blenheim iv z7304 mr kenneth tagg",
-            "credit": "Aircrew Remembered"
-        }
-    ]
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/206141",
+      "summary": "Accident database entry for Bristol Blenheim Mk IV Z7304, recording the crash on 18 July 1942 at Stoke Holy Cross, Norfolk, during an air test flight.",
+      "key_details": "Aircraft struck a radar pylon in low cloud. The air test should have been conducted near Wattisham but the pilot elected to fly to the coast.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Bristol Blenheim Mk IV Z7304's accident history from 18th July 1942 at Stoke Holy Cross, Norfolk.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "Poringland Archive",
+      "original_url": "https://sites.google.com/a/poringlandarchive.co.uk/poringland-archive/stoke-holy-cross/raf-stoke-holy-cross",
+      "summary": "Local archive page documenting the history of RAF Stoke Holy Cross radar station, including the 1942 Blenheim crash into the radar pylon. A memorial plaque was placed on the old pylon base on 18 July 1992, the 50th anniversary.",
+      "key_details": "Memorial plaque unveiled on 50th anniversary in 1992. The radar station at Stoke Holy Cross was an important Chain Home installation during the Battle of Britain.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore RAF Stoke Holy Cross radar station history and its 1942 Blenheim crash via local archive page."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Norwich Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Stoke Holy Cross Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
+  "squadron_motto": "With courage and faith",
+  "what3words": "downward.soups.rots",
+  "photos": [
+    {
+      "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-w800-w800.jpg",
+      "caption": "18 squadron blenheim iv z7304",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-memorial-w640h480.jpg",
+      "caption": "18 squadron blenheim iv z7304 memorial",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-memorial-inscription-w640h480.jpg",
+      "caption": "18 squadron blenheim iv z7304 memorial inscription",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "stoke-holy-cross-blenheim-z-7304/po-philip-henry-lowther-grave-w800-w800.jpg",
+      "caption": "po philip henry lowther grave",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "stoke-holy-cross-blenheim-z-7304/18-squadron-blenheim-iv-z7304-mr-kenneth-tagg-w640h480.jpg",
+      "caption": "18 squadron blenheim iv z7304 mr kenneth tagg",
+      "credit": "Aircrew Remembered"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "18 (Burma) Squadron RAF",
+  "squadron_aliases": [
+    "18 (Burma) Squadron",
+    "18 Squadron",
+    "18 Sqdn."
+  ],
+  "narrative": "During an air test and flying in poor visibility the Blenheim IV crashed into a radar pylon at Stoke Holy Cross (Poringland, Norwich) at 15.00 hrs.\nAlso it is thought that the pilot had an earlier narrow escape flying a 1444 FTF Hudson during a spectacular crash landing at Arminghall, Norfolk. Amazing in that Sgt. Crawford survived a crash of another Blenheim IV Z7283 earlier that year on 9th June at 00.15 hrs. during a night training exercise. (1)\nMr Kenneth T. Tagg a Civilian Meteorologist acc",
+  "crew": [
+    {
+      "name": "George Bernard Crawford",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Wireless Operator",
+      "age": 21
+    },
+    {
+      "name": "Philip Henry Lowther",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 20
+    },
+    {
+      "name": "Kenneth Custance Ellis",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "age": 32,
+      "burial_location": "Comberton (St Mary) Churchyard",
+      "nationality": "British"
+    },
+    {
+      "name": "Kenneth Thomas Tagg",
+      "rank": "Station Meteorological Officer",
+      "fate": "Killed",
+      "burial_location": "Earlham Road Cemetery Norwich Unmarked Grave",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

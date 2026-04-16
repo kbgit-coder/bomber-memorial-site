@@ -1,81 +1,149 @@
 {
-    "id": "north-lopham-mid-air-collision-b-17-44-6137-the-abo",
-    "title": "North Lopham (mid-air collision) 43-38746 Memorial",
-    "location_name": "North Lopham (mid-air collision), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-017",
-    "crash_date": "1945-01-29",
-    "aircraft_type": "B-17 44-6137 \"The Abortion Queen\" and B-17 43-38746",
-    "squadron": "96th BG",
-    "station": "Snetterton Heath (USAAF)",
-    "crew_summary": "18 killed (9 each aircraft)",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.62239581465276,
-    "longitude": 0.863567907225761,
-    "maintainer": {
-        "organisation": "North Lopham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "north-lopham-mid-air-collision-b-17-44-6137-the-abo",
+  "title": "North Lopham (mid-air collision) 43-38746 Memorial",
+  "location_name": "North Lopham (mid-air collision), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-017",
+  "crash_date": "1945-01-29",
+  "aircraft_type": "B-17 44-6137 \"The Abortion Queen\" and B-17 43-38746",
+  "squadron": "96th BG",
+  "station": "Snetterton Heath (USAAF)",
+  "crew_summary": "18 killed (9 each aircraft)",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.4077,
+  "longitude": 0.9891,
+  "maintainer": {
+    "organisation": "North Lopham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/2015/11/22/two-b17s-collide-near-raf-snetterton-heath-station-138/",
+      "summary": "Detailed account of the mid-air collision on 29 January 1945. Two B-17s from the 96th Bomb Group collided over North Lopham while departing RAF Snetterton Heath (Station 138) for Mission 811 to bomb the Bielefeld marshalling yards at Kassel. 2nd Lt Alex Philipovitch's aircraft flew across the path of 2nd Lt George Peretti's B-17; Peretti's port wing struck the first aircraft causing it to explode, while his own aircraft was split in half. All 18 crew members were killed.",
+      "key_details": [
+        "Mission 811 to Bielefeld marshalling yards",
+        "2nd Lt Philipovitch and 2nd Lt Peretti were pilots",
+        "Philipovitch's aircraft exploded on impact",
+        "Peretti's aircraft split in half",
+        "337th Bomb Squadron involved"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed account of mid-air collision on 29 January 1945 at Aviation Trails' Memorial page."
     },
-    "external_narratives": [
-        {
-            "source_site": "Aviation Trails",
-            "original_url": "https://aviationtrails.co.uk/2015/11/22/two-b17s-collide-near-raf-snetterton-heath-station-138/",
-            "summary": "Detailed account of the mid-air collision on 29 January 1945. Two B-17s from the 96th Bomb Group collided over North Lopham while departing RAF Snetterton Heath (Station 138) for Mission 811 to bomb the Bielefeld marshalling yards at Kassel. 2nd Lt Alex Philipovitch's aircraft flew across the path of 2nd Lt George Peretti's B-17; Peretti's port wing struck the first aircraft causing it to explode, while his own aircraft was split in half. All 18 crew members were killed.",
-            "key_details": [
-                "Mission 811 to Bielefeld marshalling yards",
-                "2nd Lt Philipovitch and 2nd Lt Peretti were pilots",
-                "Philipovitch's aircraft exploded on impact",
-                "Peretti's aircraft split in half",
-                "337th Bomb Squadron involved"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/56245",
-            "summary": "IWM War Memorials Register entry for the 96th Bomb Group B-17 Flying Fortresses 43-38746 and 44-6137 mid-air collision memorial at North Lopham, Norfolk.",
-            "key_details": [
-                "IWM memorial reference 56245",
-                "Both aircraft serials confirmed: 43-38746 and 44-6137"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "American Air Museum",
-            "original_url": "https://www.americanairmuseum.com/archive/unit/96th-bomb-group",
-            "summary": "American Air Museum archive entry for the 96th Bomb Group based at Snetterton Heath (Station 138), documenting the unit's operations and losses including the North Lopham collision.",
-            "key_details": [
-                "96th Bomb Group at Station 138 (Snetterton Heath)",
-                "Unit history documented in American Air Museum"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "North Walsham & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "North Lopham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "roadways.youths.gushes"
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/56245",
+      "summary": "IWM War Memorials Register entry for the 96th Bomb Group B-17 Flying Fortresses 43-38746 and 44-6137 mid-air collision memorial at North Lopham, Norfolk.",
+      "key_details": [
+        "IWM memorial reference 56245",
+        "Both aircraft serials confirmed: 43-38746 and 44-6137"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of 96th Bomb Group's aircraft collision memorial in North Lopham, Norfolk."
+    },
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/unit/96th-bomb-group",
+      "summary": "American Air Museum archive entry for the 96th Bomb Group based at Snetterton Heath (Station 138), documenting the unit's operations and losses including the North Lopham collision.",
+      "key_details": [
+        "96th Bomb Group at Station 138 (Snetterton Heath)",
+        "Unit history documented in American Air Museum"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the American Air Museum's detailed archive on the 96th Bomb Group, featuring their operations and tragic North Lopham mid-air collision.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "North Walsham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "North Lopham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "snoozing.preheated.homes",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "96th Bomb Group USAAF",
+  "squadron_aliases": [
+    "96th BG"
+  ],
+  "crew": [
+    {
+      "name": "W. Brauner",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "N. E. Ellington",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "M. A. Faux",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "J. E. Flora",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "R. I. Good",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Alex Philipovitch",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Peretti",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "memorial_details": "Tablet with images of American and Union flags displayed either side of an image of a B-17 Flying Fortress aircraft. The inscription is below images.\n\nThe memorial is a board/plaque/tablet located in North Lopham, Breckland, Norfolk, England.",
+  "narrative": "Flying with the 96th Bomb Group from Snetterton Heath, two B-17 Flying Fortresses \u2014 44-6137 *The Abortion Queen* and 43-38746 \u2014 suffered a mid-air collision over North Lopham, Norfolk, on 29 January 1945. Both aircraft were destroyed in the impact, with no survivors from either crew. All nine men aboard each aircraft were killed, eighteen airmen in total. Among those who died were W. Brauner, N. E. Ellington, M. A. Faux, J. E. Flora, and R. I. Good. The wreckage came down near North Lopham, where the loss of both complete crews was recorded.",
+  "inscription": "96TH BOMBARDMENT GROUP SNETTERTON HEATH\nCOMMEMORATING THE AMERICAN AIRMEN WHO DIED\nWHEN TWO AIRCRAFT COLLIDED OVER THIS VILLAGE\n29TH JANUARY 1945\nAIRCRAFT 44-6137 337 SQUADRON\n[crew names inscribed on memorial]\nAIRCRAFT 43-38746 338 SQUADRON\n[crew names inscribed on memorial]\nTheir names will live for evermore",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "SNETTERTON HEATH",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "44-6137, 43-38746",
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/101/335/large_n_lopham_b17_crash_memorial.jpg"
+  ]
 }

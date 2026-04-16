@@ -19,10 +19,10 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.14335754993044,
-  "longitude": -0.33485480038051646,
+  "last_updated": "2026-04-09",
+  "data_quality": "Comprehensive",
+  "latitude": 53.27475331864182,
+  "longitude": -0.7449671407874179,
   "maintainer": {
     "organisation": "Laughterton Parish Meeting",
     "maintainer_type": "parish-council"
@@ -40,7 +40,8 @@
         "Crashed at Park Farm, Kettlethorpe"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Laughterton (1) Stirling Memorial: a stone cairn adorned with a propeller blade and reduction gear, honoring those who served in Stirling EH940."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -52,7 +53,8 @@
         "Unveiled 16 July 1994 on village green"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Historical memorials honoring Shorts Stirling EH940 and Avro Lancaster LM292 at Laughterton Village Green."
     },
     {
       "source_site": "Traces of War",
@@ -63,7 +65,10 @@
         "Stirling bomber conversion training losses"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Laughterton (1) Stirling Memorial's history in Traces of War archives.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     }
   ],
   "local_contacts": [
@@ -77,9 +82,15 @@
       "org_name": "Laughterton Parish Meeting",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Local research on EH940 and LM292 crashes",
+      "email": "via chris.smith@kettlethorpe-pc.gov.uk",
+      "org_name": "Laughterton Historic Society",
+      "org_type": "History Society"
     }
   ],
-  "what3words": "twigs.niece.feared",
+  "what3words": "photos.earpiece.last",
   "photos": [
     {
       "filename": "laughterton-1-eh940/5e143980d4e59_Laughterton_547x410.jpg",
@@ -116,5 +127,75 @@
       "caption": "LI Laughterton 4",
       "credit": "Charles J Anderson / War Memorials Online"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1661 HCU",
+  "squadron_aliases": [
+    "1661 HCU"
+  ],
+  "crew": [
+    {
+      "name": "F. S. Bradbury",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. C. Brown",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. R. Clayton",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. Corless",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. A. Micallef",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. H. Miller",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. W. Rankin",
+      "fate": "Killed",
+      "rank": "—"
+    }
+  ],
+  "memorial_details": "Flat-topped pyramid base of rough hewn stone, mounted in a grassed area, surmounted by single propeller blade and reduction gear. A dedicatory plaque is placed on face 1 in relation to EH940 and on face 3 for LM292.\n\nThe memorial was unveiled on the 16th July 1994 by the side of the A1133 and a unclassified road, erected by the local community.\n\nUnveiling Ceremony (16th July 1994): The monument and plaques were unveiled to remember those lost in two local aircraft crashes during WWII.\n\nMemorial Display: A display featuring Short Stirling EH940 and Avro Lancaster LM292 aircraft from World War II.",
+  "narrative": "On June 21, 1944, a Short Stirling EH940 from Laughterton (1) HCU based at RAF Winthorpe was tragically lost in action over Kettlethorpe. The crew of five perished that day. In a separate incident on August 8, 1944, a Lancaster LM292 from 103 Squadron, also based at RAF Elsham Wold, was brought down near Fenton, claiming the lives of two more crew members. Their spirits soared on sun-kissed wings, now forever part of the vast, unmeasured sky.",
+  "additional_contributors": [
+    {
+      "name": "Paul Lawrence (Laughterton Historic Society)",
+      "role": "Local historian — PowerPoint presentation covering Stirling EH940 and Lancaster LM292 (requested April 2026)",
+      "date": "2026-04-09"
+    }
+  ],
+  "inscription": "Face 1 plaque: IN MEMORY OF\n(5 names)\nCREW OF SHORT STIRLING EH940 BASED AT RAF WINTHORPE\nKILLED IN ACTION AT KETTLETHORPE\n21st JUNE 1944\nFace 2 tablet: IN MEMORY OF\n(2 names)\nCREW OF LANCASTER LM 292 FROM 103 SQUADRON\nRAF ELSHAM WOLD\nKILLED IN ACTION NEAR FENTON\n8th AUGUST 1944\nON SUN TIPPED WINGS THEY LOVED TO FLY,\nINTO THE WIDE UNMEASURED SKY",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "integrated into the community_connection field",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/130/31/large_shorts_stirling_eh940_and_avro_lancaster_lm292_in_context.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/130/33/large_shorts_stirling_eh940_and_avro_lancaster_lm292_memorial.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/130/32/large_face_1_tablet_short_stirling_eh940.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/175/359/large_laugherton_memorial_face_3.jpg"
   ]
 }

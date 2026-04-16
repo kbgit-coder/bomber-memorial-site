@@ -75,24 +75,34 @@ export default function Footer() {
               Home
             </Link>
             <Link
-              href="/region/united-kingdom"
+              href="/faq"
               style={{
                 color: "rgba(201, 185, 138, 0.7)",
                 fontSize: "0.875rem",
                 textDecoration: "none",
               }}
             >
-              United Kingdom
+              FAQ
             </Link>
             <Link
-              href="/about"
+              href="/contact"
               style={{
                 color: "rgba(201, 185, 138, 0.7)",
                 fontSize: "0.875rem",
                 textDecoration: "none",
               }}
             >
-              About This Project
+              Contact
+            </Link>
+            <Link
+              href="/terms"
+              style={{
+                color: "rgba(201, 185, 138, 0.7)",
+                fontSize: "0.875rem",
+                textDecoration: "none",
+              }}
+            >
+              Site Terms
             </Link>
           </div>
         </div>

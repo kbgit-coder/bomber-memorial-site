@@ -1,69 +1,110 @@
 {
-    "id": "thorpe-morieux-1-b-17-42-3108",
-    "title": "Thorpe Morieux (1) 42-3108 Memorial",
-    "location_name": "Thorpe Morieux (1), Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-011",
-    "crash_date": "1944-04-12",
-    "aircraft_type": "B-17 42-3108",
-    "squadron": "447th BG",
-    "station": "Rattlesden (USAAF)",
-    "crew_summary": "10 killed; pilot 2Lt. Philip D. King",
-    "memorial_type": "Crash site plaques",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.26108674962668,
-    "longitude": 1.2308363769675437,
-    "maintainer": {
-        "organisation": "Thorpe Morieux Parish Meeting",
-        "maintainer_type": "parish-council"
+  "id": "thorpe-morieux-1-b-17-42-3108",
+  "title": "Thorpe Morieux (1) 42-3108 Memorial",
+  "location_name": "Thorpe Morieux (1), Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-011",
+  "crash_date": "1944-04-12",
+  "aircraft_type": "B-17 42-3108",
+  "squadron": "447th BG",
+  "station": "Rattlesden (USAAF)",
+  "crew_summary": "10 killed; pilot 2Lt. Philip D. King",
+  "memorial_type": "Crash site plaques",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.1451,
+  "longitude": 0.8365,
+  "maintainer": {
+    "organisation": "Thorpe Morieux Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/5519479",
+      "summary": "Photograph and location record of the B-17 crash site memorial at Thorpe Morieux, Suffolk, with two plaques commemorating 447th Bomb Group crews who died at this location.",
+      "key_details": "Memorial consists of crash site plaques. The 447th BG was based at USAAF Station Rattlesden, Suffolk.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Poignant memorials honoring fallen crew members from the 447th Bomb Group at Thorpe Morieux, Suffolk."
     },
-    "external_narratives": [
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/5519479",
-            "summary": "Photograph and location record of the B-17 crash site memorial at Thorpe Morieux, Suffolk, with two plaques commemorating 447th Bomb Group crews who died at this location.",
-            "key_details": "Memorial consists of crash site plaques. The 447th BG was based at USAAF Station Rattlesden, Suffolk.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "American Air Museum (IWM)",
-            "original_url": "https://www.americanairmuseum.com/archive/unit/447th-bomb-group",
-            "summary": "IWM American Air Museum archive page for the 447th Bomb Group, which operated B-17 Flying Fortresses from Rattlesden, Suffolk, from late 1943 to 1945. Records the group's operational history and losses.",
-            "key_details": "The 447th BG flew over 250 missions from Rattlesden. The group suffered significant losses including multiple crashes in the surrounding Suffolk countryside.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US Mil Awards",
-            "original_url": "https://usmilawards.uk/2024/01/14/tragedy-over-kettlebaston/",
-            "summary": "Detailed account of 447th Bomb Group losses near Thorpe Morieux and Kettlebaston, Suffolk. Documents the B-17 crash on 12 April 1944 involving the 711th Bomb Squadron.",
-            "key_details": "B-17 serial 42-31088 'Heaven Can Wait' from 711th BS crashed on 12 April 1944. Ten crew killed in the crash near Thorpe Morieux.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Stowmarket & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Thorpe Morieux Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "pump.subsystem.timidly"
+    {
+      "source_site": "American Air Museum (IWM)",
+      "original_url": "https://www.americanairmuseum.com/archive/unit/447th-bomb-group",
+      "summary": "IWM American Air Museum archive page for the 447th Bomb Group, which operated B-17 Flying Fortresses from Rattlesden, Suffolk, from late 1943 to 1945. Records the group's operational history and losses.",
+      "key_details": "The 447th BG flew over 250 missions from Rattlesden. The group suffered significant losses including multiple crashes in the surrounding Suffolk countryside.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore American Air Museum archive for 447th Bomb Group's operational history and losses.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "US Mil Awards",
+      "original_url": "https://usmilawards.uk/2024/01/14/tragedy-over-kettlebaston/",
+      "summary": "Detailed account of 447th Bomb Group losses near Thorpe Morieux and Kettlebaston, Suffolk. Documents the B-17 crash on 12 April 1944 involving the 711th Bomb Squadron.",
+      "key_details": "B-17 serial 42-31088 'Heaven Can Wait' from 711th BS crashed on 12 April 1944. Ten crew killed in the crash near Thorpe Morieux.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed account of 447th Bomb Group's tragic losses at Thorpe Morieux and Kettlebaston, including a specific B-17 crash incident on 12 April 1944."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Stowmarket & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Thorpe Morieux Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "abruptly.animates.plotted",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "447th Bomb Group USAAF",
+  "squadron_aliases": [
+    "447th BG"
+  ],
+  "narrative": "On 12 April 1944, a B-17 (42-3108) from the 447th Bomb Group lifted off from Rattlesden on a wartime mission over occupied Europe. The aircraft crashed at Thorpe Morieux in Suffolk, coming down within miles of its home station. All ten men aboard were killed, among them the pilot, 2nd Lieutenant Philip D. King, and crew members including Eldon Henningsen, Clifford, Leach, Wilders, Eliot, Mishler, Norman, Ciriaco, and Carl. The cause of the crash is not recorded in available sources. The 447th Bomb Group, flying B-17s identified by a square K tail marking, suffered the loss of the entire crew that day.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Bombing mission over Kassel, Germany",
+        "date": "October 2, 1944",
+        "description": "The 447th Bomb Group, part of the 3rd Air Division flying B17s with a tail marking of the letter K in a square, was dispatched for a mission targeting an industrial armoured truck factory in Kassel, Germany. The mission also included other industrial targets at Wiesbaden and Gesecke."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Eldon Henningsen",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Pete Ebersole",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

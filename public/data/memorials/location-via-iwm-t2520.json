@@ -1,57 +1,106 @@
 {
-    "id": "location-via-iwm-t2520",
-    "title": "(Location via IWM) Wellington Memorial",
-    "location_name": "(Location via IWM), IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PN-006",
-    "aircraft_type": "Wellington",
-    "serial_number": "T2520",
-    "memorial_type": "Cairn with large wooden Latin cross and smaller wooden cross with metal plaque; refreshed annually on anniversary",
-    "sources": [
-        {
-            "title": "IWM (memorial/65500)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.36529463368664,
-    "longitude": -0.7010829870978885,
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65500",
-            "summary": "IWM War Memorials Register entry for Wellington T2520 crash memorial. The cairn marks the site where all six crew were killed on return from a bombing mission to Bordeaux on 9-10 December 1940.",
-            "key_details": [
-                "All six crew killed",
-                "Returning from Bordeaux bombing mission",
-                "Crashed 9-10 December 1940",
-                "Cairn with wooden cross and metal plaque"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/1842984",
-            "summary": "Photographic record of the memorial at the Wellington T2520 crash site, showing the cairn structure with crosses and commemorative plaque in its landscape setting.",
-            "key_details": [
-                "Memorial photographed and documented on Geograph",
-                "Cairn visible at crash location"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Glossop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "student.feuds.denim"
+  "id": "location-via-iwm-t2520",
+  "title": "(Location via IWM) Wellington Memorial",
+  "location_name": "Peak District",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "region_code": "PN-006",
+  "aircraft_type": "Wellington",
+  "serial_number": "T2520",
+  "memorial_type": "Cairn with large wooden Latin cross and smaller wooden cross with metal plaque; refreshed annually on anniversary",
+  "sources": [
+    {
+      "title": "IWM (memorial/65500)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.36529463368664,
+  "longitude": -0.7010829870978885,
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/65500",
+      "summary": "IWM War Memorials Register entry for Wellington T2520 crash memorial. The cairn marks the site where all six crew were killed on return from a bombing mission to Bordeaux on 9-10 December 1940.",
+      "key_details": [
+        "All six crew killed",
+        "Returning from Bordeaux bombing mission",
+        "Crashed 9-10 December 1940",
+        "Cairn with wooden cross and metal plaque"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Wellington Memorial: A solemn tribute commemorating six crew members who tragically lost their lives in a post-bombing mission crash on December 9-10, 1940."
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/1842984",
+      "summary": "Photographic record of the memorial at the Wellington T2520 crash site, showing the cairn structure with crosses and commemorative plaque in its landscape setting.",
+      "key_details": [
+        "Memorial photographed and documented on Geograph",
+        "Cairn visible at crash location"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore photographic documentation of Wellington Memorial's striking cairn structure adorned with crosses and commemorative plaque amidst its natural surroundings."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Glossop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "student.feuds.denim",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "crew": [
+    {
+      "name": "R. (sgt.) Brown",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Hilton Daniel (sgt.) Ellis",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "S.g (sgt.) Howard",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "D. (sgt.) Mills",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "A. (p/o) Tindall",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Cairn comprising various sized boulders, leading up to a peak. At top centre a large wooden Latin cross.. At the base a smaller wooden cross with metal plaque, date inscribed thereon.\n\n10th December 1940 (inscribed on upper cross.)\n\nA cairn bearing crosses and a commemorative plaque now stands at the site to mark where they fell.",
+  "narrative": "Pilot Officer Tindall and his crew were on a bombing operation when Wellington T2520 came down in the Peak/Pennines on the night of 9\u201310 December 1940. The precise cause of the crash is not recorded in available sources. All on board were killed: Sergeant Brown, Sergeant Hilton Daniel Ellis, Sergeant Howard, Sergeant Mills, and Pilot Officer Tindall. Records indicate six lives were lost in total, though five crew members are identified by name.",
+  "community_connection": "The specific details of the community connection or story behind this memorial are not provided in the text.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/616/large_65500a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/106/617/large_65500b.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/106/618/large_65500c_1.jpg"
+  ]
 }

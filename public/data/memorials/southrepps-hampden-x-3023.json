@@ -7,7 +7,7 @@
   "region_code": "NF-021",
   "crash_date": "1940-11-20",
   "aircraft_type": "Hampden X.3023",
-  "squadron": "44 Squadron",
+  "squadron": "44 (Rhodesia) Squadron RAF",
   "station": "Waddington",
   "crew_summary": "3 killed (1 survived); including Sgt. Jack Leonard Frederick Ottaway",
   "memorial_type": "Memorial stone",
@@ -29,15 +29,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Comprehensive",
-  "narrative": "In the early hours of 20 November 1940, Hampden X3023 of 44 Squadron took off from RAF Waddington in Lincolnshire for a long-range bombing mission against an oil refinery at Lutzkendorf near Leipzig in central Germany. The Hampden was one of Bomber Command's principal medium bombers in the early war years, a narrow-fuselage aircraft that earned the nickname \"the flying suitcase\" for its cramped crew positions. On the return flight, navigational difficulties -- compounded by darkness and poor weather -- led the aircraft far off course over Norfolk. The aircraft had also been hit by machine gun fire over the Dutch coast, causing the starboard engine to fail. At approximately 06:20 hours, the Hampden crashed into woodland in the grounds of Templewood House at Northrepps, a shooting lodge near the Norfolk coast. Three of the four crew members -- pilot Sergeant Jack Ottaway, navigator Pilot Officer Archie Kerr, and wireless operator/air gunner Sergeant Stanley Elliott -- were killed on impact. The fourth crew member, Sergeant Stanley Hird, an air gunner, survived the crash and went on to serve with the RAF for the remainder of the war, eventually being awarded the DFC.",
+  "data_quality": "Partial",
+  "narrative": "On the night of 20 November 1940, Hampden X3023 of 44 (Rhodesia) Squadron departed RAF Waddington on a bombing sortie to the oil refinery at Lutzkendorf, near Leipzig. The aircraft was struck by machine gun fire over the Dutch coast, causing the starboard engine to fail. On the return flight, navigational error compounded the damage, and in poor visibility the aircraft struck trees near Southrepps, Norfolk. Sergeant Jack Leonard Frederick Ottaway, the pilot, was 25 years old; he was killed alongside navigator Pilot Officer Archie Ronald Kerr and wireless operator Sergeant Stanley Frederick Elliott. The sole survivor, air gunner Sergeant Stanley Hird, was injured in the crash.",
   "crew": [
     {
       "rank": "Sgt",
       "name": "Jack Leonard Frederick Ottaway",
       "age": 25,
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the Hampden crashed into woodland at Templewood House, Northrepps. Demonstrated exceptional airmanship nursing the crippled aircraft back across the North Sea on one engine.",
       "burial_location": "Norwich Cemetery, Section 54, Grave 556",
@@ -45,45 +44,46 @@
       "cwgc_verified": true,
       "bio": "From Norwich, married to Barbara with a two-year-old daughter Virginia -- named after her father's favourite brand of tobacco. Despite losing the starboard engine to enemy fire over the Dutch coast, he nursed the aircraft back across the North Sea.",
       "hometown": "Norwich, Norfolk",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Archie Ronald Kerr",
       "role": "Navigator/Observer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact in the crash at Templewood House. Had previously survived a ditching off Lowestoft earlier in 1940.",
       "cwgc_verified": true,
       "bio": "Navigator who had already survived one close call -- a ditching off Lowestoft earlier in the same year. His luck ran out over Norfolk.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Stanley Frederick Elliott",
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact in the crash at Templewood House, Northrepps.",
       "cwgc_verified": true,
       "bio": "Wireless operator and air gunner serving with 44 Squadron.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Stanley Hird",
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Survived the crash at Templewood House and went on to serve with the RAF until the end of the war. Subsequently awarded the Distinguished Flying Cross.",
       "bio": "Air gunner who survived the crash and continued to serve throughout the war, eventually earning the DFC. His survival from the wreckage of the Hampden was remarkable given the severity of the impact.",
       "decorations": [
         "DFC"
-      ]
+      ],
+      "nationality": "British"
     }
   ],
-  "latitude": 52.9018,
-  "longitude": 1.3306,
+  "latitude": 52.8798,
+  "longitude": 1.3493,
   "cause_of_loss": "Hit by machine gun fire over Dutch coast causing starboard engine failure; navigational error on return; aircraft struck trees in poor visibility",
   "operation_type": "Operational",
   "operation_target": "Bombing sortie to oil refinery at Lutzkendorf, near Leipzig",
@@ -103,7 +103,8 @@
         "Plaque mounted on tree stump from original impact"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Attendees unveil Memorial plaque at Southrepps/Northrepps crash site anniversary dedication."
     },
     {
       "source_site": "44 Squadron Association",
@@ -116,7 +117,8 @@
         "Starboard engine failed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of 44 Squadron's Hampden X3023 crew and tragic loss in newsletter article."
     },
     {
       "source_site": "Southrepps History Hub",
@@ -127,7 +129,8 @@
         "Community-maintained historical record"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore local WWII aircraft incidents at Southrepps History Hub's Memorial page."
     },
     {
       "source_site": "Bureau of Aircraft Accidents Archives",
@@ -138,7 +141,8 @@
         "3 killed confirmed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed records of an International aviation accident involving three fatalities and a Handley Page HP.52 Hampden I at Southrepps."
     }
   ],
   "local_contacts": [
@@ -155,6 +159,175 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
-  "squadron_motto": "The king's thunderbolts",
-  "what3words": "decide.rave.awesome"
+  "squadron_motto": "Fulmina regis iusta",
+  "what3words": "hedgehog.gears.tops",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "44 Squadron RAF",
+  "squadron_aliases": [
+    "44 Squadron",
+    "44 Sqdn."
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Vickers Supermarine Spitfire Mk.Vb W3255",
+        "date": "10th July 1941",
+        "description": "Made a forced landing in the 110 acre field NE of Hill."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "March 2022"
+  },
+  "crash_category": "weather",
+  "narrative_quality_score": 5,
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Sgt Jack Leonard Frederick Ottoway",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Shikenjanski",
+      "rank": null
+    },
+    {
+      "name": "Thomas Lavar Anderson",
+      "rank": null
+    },
+    {
+      "name": "Sgt Stanley Frederick Elliot",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Bickerstaff",
+      "rank": null
+    },
+    {
+      "name": "Summers",
+      "rank": null
+    },
+    {
+      "name": "Jope",
+      "rank": null
+    },
+    {
+      "name": "Holtzman",
+      "rank": null
+    },
+    {
+      "name": "Nowak",
+      "rank": null
+    },
+    {
+      "name": "Elkin",
+      "rank": null
+    },
+    {
+      "name": "Balca",
+      "rank": null
+    },
+    {
+      "name": "Cunningham",
+      "rank": null
+    },
+    {
+      "name": "Bethke",
+      "rank": null
+    },
+    {
+      "name": "Nielsen",
+      "rank": null
+    },
+    {
+      "name": "Nielson",
+      "rank": null
+    },
+    {
+      "name": "Marcouiler",
+      "rank": null
+    },
+    {
+      "name": "Leland",
+      "rank": null
+    },
+    {
+      "name": "Cook",
+      "rank": null
+    },
+    {
+      "name": "Marshall",
+      "rank": null
+    },
+    {
+      "name": "James Jacobs",
+      "rank": null
+    },
+    {
+      "name": "Elmer Schmidt",
+      "rank": null
+    },
+    {
+      "name": "Earl",
+      "rank": null
+    },
+    {
+      "name": "Earle",
+      "rank": null
+    },
+    {
+      "name": "Everal Anthony Guimond",
+      "rank": null
+    },
+    {
+      "name": "Stephen",
+      "rank": null
+    },
+    {
+      "name": "Gene Foster Cornell",
+      "rank": null
+    },
+    {
+      "name": "Harold Perry",
+      "rank": null
+    },
+    {
+      "name": "Francis Guillory",
+      "rank": null
+    },
+    {
+      "name": "Tommy",
+      "rank": null
+    },
+    {
+      "name": "Clifford",
+      "rank": null
+    },
+    {
+      "name": "Neil",
+      "rank": null
+    },
+    {
+      "name": "Edward Mire",
+      "rank": null
+    },
+    {
+      "name": "Lee Witzenburg",
+      "rank": null
+    },
+    {
+      "name": "Harry Mundy",
+      "rank": null
+    },
+    {
+      "name": "Henry Miller",
+      "rank": null
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 39 to 4. 35 additional names from station/OTU roll of honour moved to station_roll_names."
 }

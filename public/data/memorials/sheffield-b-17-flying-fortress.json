@@ -35,7 +35,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
   "narrative": "On 22 February 1944, the B-17 Flying Fortress \"Mi Amigo\" was returning from a bombing mission over Aalborg, Denmark, having been severely damaged by Luftwaffe fighters en route. With engines failing and the aircraft barely controllable, First Lieutenant Kriegshauser nursed the crippled bomber across the North Sea and over the English coast. By the time the B-17 reached Sheffield, at around 5pm, it was clear the aircraft could not reach any airfield. Kriegshauser prepared for a crash landing and began his final approach towards open ground. Then he saw them: a large group of children playing in Endcliffe Park below. Without hesitation, Kriegshauser aborted the landing, hauling the dying aircraft over the park and into the trees beyond. All ten crew members were killed in the resulting crash. The children were saved. Their sacrifice -- choosing certain death over the risk of killing children -- has made the Mi Amigo one of the most emotionally powerful war memorial stories in Britain.",
   "crew": [
@@ -44,7 +44,6 @@
       "name": "John Glennon Kriegshauser",
       "age": 23,
       "role": "Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed when the B-17 crashed into trees beyond Endcliffe Park after he deliberately overflew the park to avoid children playing below.",
       "burial_location": "Cambridge American Cemetery, Madingley (initially); later repatriated to USA",
@@ -56,7 +55,6 @@
       "rank": "2nd Lt",
       "name": "Lyle J. Curtis",
       "role": "Co-Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Idaho Falls, Idaho.",
@@ -67,7 +65,6 @@
       "rank": "2nd Lt",
       "name": "John W. Humphrey",
       "role": "Navigator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Wyoming, Illinois.",
@@ -78,7 +75,6 @@
       "rank": "2nd Lt",
       "name": "Melchor Hernandez",
       "role": "Bombardier",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Had been unable to release bombs over Aalborg due to cloud cover; the bombs were jettisoned over the North Sea on the return.",
       "bio": "From Los Angeles, California.",
@@ -89,7 +85,6 @@
       "rank": "T/Sgt",
       "name": "George M. Williams",
       "role": "Waist Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Faxon, Oklahoma.",
@@ -100,7 +95,6 @@
       "rank": "S/Sgt",
       "name": "Harry W. Estabrooks",
       "role": "Flight Engineer/Top Turret",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Mound Valley, Kansas.",
@@ -111,7 +105,6 @@
       "rank": "S/Sgt",
       "name": "Robert E. Mayfield",
       "role": "Radio Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Raymond, Illinois.",
@@ -122,7 +115,6 @@
       "rank": "Sgt",
       "name": "Charles H. Tuttle",
       "role": "Ball Turret Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Raceland, Kentucky.",
@@ -133,7 +125,6 @@
       "rank": "Sgt",
       "name": "Vito R. Ambrosio",
       "role": "Waist Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Brooklyn, New York.",
@@ -144,20 +135,25 @@
       "rank": "Sgt",
       "name": "Maurice D. Robbins",
       "role": "Tail Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed in the crash at Endcliffe Park.",
       "bio": "From Manor, Texas.",
       "hometown": "Manor, Texas, USA",
       "decorations": []
+    },
+    {
+      "name": "Krieghauser",
+      "rank": "First Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot"
     }
   ],
   "cause_of_loss": "Heavily damaged by enemy fighters over Denmark; engines failing; pilot aborted landing approach to avoid children playing in park",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing mission over Aalborg, Denmark",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial boulder with twin bronze plaques; grove of 10 scarlet oak trees (one per crew member) | | **Dedicated** | 30 November 1969 (plaque and original trees) | | **Ceremony** | Lord Mayor of Sheffield (Alderman Daniel O'Neill), Bishop of Sheffield (John Taylor), Major General John Bell (Commander, 3rd US Air Force in Britain) | | **Maintenance** | Tony Foulds (local man, maintained memorial for decades; witnessed the crash as a child); military cadets; Friends of Porter Valley; Sheffield Parks Department | | **2019 Flypast** | After Tony Foulds' story went viral on BBC, the USAF and RAF organised a joint flypast of F-15 Eagles and Typhoons over Endcliffe Park on 22 February 2019, the 75th anniversary | | **80th Anniversary** | 2024 ceremony with fighter jet flypast | | **Condition** | Excellent; actively maintained and annually commemorated | | **Access** | Endcliffe Park, Rustlings Road, Sheffield S11; free public access |",
-  "latitude": 53.806208436610675,
-  "longitude": -1.390804084937897,
+  "memorial_details": "Rough stone of remembrance with two attached plaques- the upper being the dedication plaque, the lower for the names. Lettering in low relief. Ten associated American Oak trees. In 2019 the memorial was supplemented by a new flagpole and an additional American Oak.\n\nMemorial Display: A display commemorating the B-17 'Mi Amigo' 42-31322 of the 305th Bomb Group USAAF.",
+  "latitude": 53.3686,
+  "longitude": -1.5045,
   "maintainer": {
     "organisation": "Sheffield City Council",
     "maintainer_type": "parish-council",
@@ -174,7 +170,8 @@
         "One of Britain's most well-known WWII crash memorials"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the captivating history of Sheffield's \"Mi Amigo\" Memorial on Wikipedia."
     },
     {
       "source_site": "American Air Museum in Britain",
@@ -185,7 +182,10 @@
         "Crew personnel records linked"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed service history and crew records of the American Air Museum's B-17G \"Mi Amigo\" from the 305th Bomb Group.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Imperial War Museums",
@@ -196,7 +196,8 @@
         "Registered as 305th Bomb Group memorial"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Sheffield's \"Mi Amigo\" Memorial honoring the fallen USAAF bomber crew from the 305th Bomb Group."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -206,7 +207,10 @@
         "Listed in international TracesOfWar database"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the international memorial database entry for the Sheffield \"Mi Amigo\" crash memorial at TracesOfWar.com.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "aircrashsites.co.uk",
@@ -218,7 +222,8 @@
         "Aircraft pursued by enemy fighters"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Sheffield \"Mi Amigo\" Memorial: Detailed narrative of its final flight at aircrashsites.co.uk."
     },
     {
       "source_site": "Key Aero",
@@ -229,7 +234,8 @@
         "Ongoing annual commemorations"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Witness USAF flypast honoring Sheffield's 80th anniversary B-17 crash memorial service."
     }
   ],
   "local_contacts": [
@@ -237,7 +243,7 @@
       "org_name": "Sheffield Royal British Legion",
       "org_type": "british_legion",
       "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/south-yorkshire/"
+      "website": "https://counties.britishlegion.org.uk/counties/south-west-yorkshire"
     },
     {
       "org_name": "Sheffield City Council",
@@ -245,5 +251,29 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "presented.reserved.digitally"
+  "what3words": "edges.lies.text",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "364th Bomb Squadron USAAF",
+  "squadron_aliases": [
+    "364th Bomber Squadron, 305th Bomb Group"
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/174/248/27509_raf_association_r.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/164/454/large_27509_raf_association_sheffield_branch_august_2023_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/70/768/large_img_6501_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/70/769/large_img_6505.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/78/78/large_mamemorial150919.jpg"
+  ]
 }

@@ -1,4 +1,10 @@
+"use client";
+
 import Link from "next/link";
+
+function trackNav(destination: string) {
+  (window as { posthog?: { capture: (e: string, p?: Record<string, unknown>) => void } }).posthog?.capture("nav_click", { destination });
+}
 
 export default function Header() {
   return (
@@ -43,6 +49,7 @@ export default function Header() {
         >
           <Link
             href="/"
+            onClick={() => trackNav("home")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -51,12 +58,16 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Home
           </Link>
           <Link
             href="/region/united-kingdom"
+            onClick={() => trackNav("regions")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -65,12 +76,16 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             Regions
           </Link>
           <Link
-            href="/map"
+            href="/squadron"
+            onClick={() => trackNav("squadrons")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -79,12 +94,52 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
-            Map
+            Squadrons
+          </Link>
+          <Link
+            href="/search"
+            onClick={() => trackNav("search")}
+            style={{
+              color: "#c9b98a",
+              fontFamily: "'Helvetica Neue', Arial, sans-serif",
+              fontSize: "0.875rem",
+              textTransform: "uppercase",
+              letterSpacing: "0.1em",
+              textDecoration: "none",
+              opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
+            }}
+          >
+            Search
+          </Link>
+          <Link
+            href="/insights"
+            onClick={() => trackNav("insights")}
+            style={{
+              color: "#c9b98a",
+              fontFamily: "'Helvetica Neue', Arial, sans-serif",
+              fontSize: "0.875rem",
+              textTransform: "uppercase",
+              letterSpacing: "0.1em",
+              textDecoration: "none",
+              opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
+            }}
+          >
+            Insights
           </Link>
           <Link
             href="/about"
+            onClick={() => trackNav("about")}
             style={{
               color: "#c9b98a",
               fontFamily: "'Helvetica Neue', Arial, sans-serif",
@@ -93,6 +148,9 @@ export default function Header() {
               letterSpacing: "0.1em",
               textDecoration: "none",
               opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
             }}
           >
             About

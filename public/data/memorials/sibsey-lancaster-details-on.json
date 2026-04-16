@@ -1,89 +1,168 @@
 {
-    "id": "sibsey-lancaster-details-on",
-    "title": "Sibsey memorial) Memorial",
-    "location_name": "Sibsey, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-042",
-    "crash_date": "WW2",
-    "aircraft_type": "Lancaster (details on memorial)",
-    "squadron": "Bomber Command",
-    "memorial_type": "Sibsey Lancaster Memorial (families funded memorial at crash site)",
-    "sources": [
-        {
-            "title": "Coningsby Town Council / Sibsey Lancaster Memorial Trust",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.079095756047714,
-    "longitude": -0.3682049961325308,
-    "maintainer": {
-        "organisation": "Sibsey Lancaster Memorial Trust",
-        "maintainer_type": "local-history-group",
-        "notes": "Families funded memorial at crash site."
+  "id": "sibsey-lancaster-details-on",
+  "title": "Sibsey Lancaster Memorial",
+  "location_name": "Sibsey, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-042",
+  "crash_date": "WW2",
+  "aircraft_type": "Lancaster (details on memorial)",
+  "squadron": "Bomber Command",
+  "memorial_type": "Sibsey Lancaster Memorial (families funded memorial at crash site)",
+  "sources": [
+    {
+      "title": "Coningsby Town Council / Sibsey Lancaster Memorial Trust",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.038,
+  "longitude": 0.0167,
+  "maintainer": {
+    "organisation": "Sibsey Lancaster Memorial Trust",
+    "maintainer_type": "local-history-group",
+    "notes": "Families funded memorial at crash site."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Lincolnshire Heritage Explorer",
+      "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI116028",
+      "summary": "Heritage record for the Avro Lancaster aircraft crash site and war memorial at Sibsey Northlands. The Lancaster ED503 of 9 Squadron crashed on 29 January 1943 during an engine and airframe test flight, killing all six crew. The aircraft dived into a field for no apparent reason.",
+      "key_details": [
+        "Lancaster ED503 of 9 Squadron",
+        "Crash date: 29 January 1943",
+        "Engine and airframe test flight",
+        "Aircraft dived into field without apparent cause",
+        "6 crew killed",
+        "Heritage monument reference MLI116028"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Heritage Record: Discover Avro Lancaster Aircraft Crash Site & War Memorial Details at Sibsey Northlands."
     },
-    "external_narratives": [
-        {
-            "source_site": "Lincolnshire Heritage Explorer",
-            "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI116028",
-            "summary": "Heritage record for the Avro Lancaster aircraft crash site and war memorial at Sibsey Northlands. The Lancaster ED503 of 9 Squadron crashed on 29 January 1943 during an engine and airframe test flight, killing all six crew. The aircraft dived into a field for no apparent reason.",
-            "key_details": [
-                "Lancaster ED503 of 9 Squadron",
-                "Crash date: 29 January 1943",
-                "Engine and airframe test flight",
-                "Aircraft dived into field without apparent cause",
-                "6 crew killed",
-                "Heritage monument reference MLI116028"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Coningsby Town Council",
-            "original_url": "https://coningsby.parish.lincolnshire.gov.uk/parish-information/sibsey-lancaster-memorial-trust/1",
-            "summary": "Sibsey Lancaster Memorial Trust page on the Coningsby Town Council website. The Trust maintains the memorial and holds annual remembrance services for the crew.",
-            "key_details": [
-                "Memorial Trust maintains the site",
-                "Annual remembrance services held"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Airshows Present",
-            "original_url": "https://www.airshowspresent.com/sibsey-northlands-lancaster-memorial.html",
-            "summary": "Page about the Sibsey Northlands Lancaster Memorial with photographs. The memorial was built and consecrated in 1947, taking the form of a stone cross inscribed with the names of the crew: F/L Robert Lind (pilot), P/O Charles Cocks, Sgt John Doran, Sgt Thomas Henry, and Sgt Donald Brown.",
-            "key_details": [
-                "Memorial consecrated 1947",
-                "Stone cross form",
-                "Crew names inscribed",
-                "Pilot: F/L Robert Lind"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Horncastle News",
-            "original_url": "https://www.horncastlenews.co.uk/news/lasting-tribute-for-brave-bomber-crew-1-853230",
-            "summary": "Local newspaper article about the lasting tribute to the Lancaster bomber crew at Sibsey. One crewman was thrown clear of the crash and his remains were collected for burial in his hometown of Dalkeith, Scotland.",
-            "key_details": [
-                "One crewman thrown clear of crash site",
-                "Buried in hometown of Dalkeith, Scotland"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
+    {
+      "source_site": "Coningsby Town Council",
+      "original_url": "https://coningsby.parish.lincolnshire.gov.uk/parish-information/sibsey-lancaster-memorial-trust/1",
+      "summary": "Sibsey Lancaster Memorial Trust page on the Coningsby Town Council website. The Trust maintains the memorial and holds annual remembrance services for the crew.",
+      "key_details": [
+        "Memorial Trust maintains the site",
+        "Annual remembrance services held"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Sibsey Lancaster Memorial Trust's page for details about their maintained memorial and annual crew remembrance services."
+    },
+    {
+      "source_site": "Airshows Present",
+      "original_url": "https://www.airshowspresent.com/sibsey-northlands-lancaster-memorial.html",
+      "summary": "Page about the Sibsey Northlands Lancaster Memorial with photographs. The memorial was built and consecrated in 1947, taking the form of a stone cross inscribed with the names of the crew: F/L Robert Lind (pilot), P/O Charles Cocks, Sgt John Doran, Sgt Thomas Henry, and Sgt Donald Brown.",
+      "key_details": [
+        "Memorial consecrated 1947",
+        "Stone cross form",
+        "Crew names inscribed",
+        "Pilot: F/L Robert Lind"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The Sibsey Northlands Lancaster Memorial's history, featuring poignant photographs and crew names."
+    },
+    {
+      "source_site": "Horncastle News",
+      "original_url": "https://www.horncastlenews.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Boston & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    }
+  ],
+  "what3words": "wanderers.expropriate.spiders",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "Bomber Command",
+  "squadron_aliases": [
+    "Bomber Command"
+  ],
+  "narrative": "On 29 January 1943, the six-man crew of No. 9 Squadron Lancaster ED503 were on a flight that ended in catastrophe over the Lincolnshire Fens at Sibsey Northlands. The cause of the crash remains unknown \u2014 the aircraft suddenly lost height and plunged into the field, creating a crater in the quicksand and subsoil. Despite pumping efforts by the fire service, it proved impossible to recover the crew or wreckage. All six men were killed: Flight Lieutenant Robert Frood Lind, Pilot Officer Charles W H Cocks, Sergeant Donald A Brown, Sergeant John Doran, Sergeant Thomas Henry, and Sergeant Thomas Wishart. Wishart alone was thrown clear and is buried in Scotland; the remaining five lie where they fell. In 1947, the families of the crew paid for a memorial to be consecrated on the crash site, bearing the names of all six men.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Service of Commemoration",
+        "date": "Every year at 2.30pm",
+        "description": "A service held at the memorial site to remember the crew members who died in the crash."
+      }
     ],
-    "local_contacts": [
-        {
-            "org_name": "Boston & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        }
-    ],
-    "what3words": "processes.wimp.wanted"
+    "annual_service": true,
+    "service_date": "2.30pm"
+  },
+  "crew": [
+    {
+      "name": "Donald A Brown",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "burial_location": "not specified",
+      "nationality": "British"
+    },
+    {
+      "name": "Robert Frood Lind",
+      "rank": "Flight Lieutenant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "burial_location": "not specified",
+      "nationality": "British"
+    },
+    {
+      "name": "Charles W H Cocks",
+      "rank": "Pilot Officer",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "burial_location": "not specified",
+      "nationality": "British"
+    },
+    {
+      "name": "John Doran",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "burial_location": "not specified",
+      "nationality": "British"
+    },
+    {
+      "name": "Thomas Henry",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator",
+      "burial_location": "not specified",
+      "nationality": "British"
+    },
+    {
+      "name": "Thomas Wishart",
+      "rank": "Sergeant",
+      "fate": "Killed/buried in scotland",
+      "role": "Rear Gunner",
+      "burial_location": "Scotland",
+      "nationality": "British"
+    }
+  ],
+  "community_connection": "",
+  "memorial_details": "The other 5 bodies remained on the site, and a war memorial was later erected to commemorate the accident.\n\nWar Memorial Erection (1947): A war memorial, a granite stone cross inscribed with the names of the deceased, was constructed to commemorate the accident.\n\nMemorial Placement (1947): The families of the crew members paid for a Memorial to be placed on the site of the Crash, with the names of all six members inscribed.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 5,
+  "narrative_source": "generated-claude-sonnet"
 }

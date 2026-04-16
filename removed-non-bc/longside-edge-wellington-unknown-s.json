@@ -1,0 +1,134 @@
+{
+  "id": "longside-edge-wellington-unknown-s",
+  "title": "Longside Edge Wellington Memorial",
+  "location_name": "Longside Edge, Keswick, Cumbria / Lake District",
+  "county": "Cumbria",
+  "country": "United Kingdom",
+  "region_code": "NW-002",
+  "crash_date": "1942-12-16",
+  "aircraft_type": "Vickers Wellington",
+  "squadron": "RAF Pershore",
+  "crew_summary": "6 killed \u2014 night navigation exercise, 40 miles off course, struck Longside Edge ridge on Skiddaw",
+  "memorial_type": "Memorial marker at ridge crash site",
+  "sources": [
+    {
+      "title": "chriswaldron.co.uk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-13",
+  "data_quality": "Partial",
+  "latitude": 54.51567234929973,
+  "longitude": -2.7732698105080726,
+  "external_narratives": [
+    {
+      "source_site": "aircrashsites.co.uk",
+      "original_url": "https://aircrashsites.co.uk/5-jpgd/",
+      "summary": "Wellington X3336 took off from RAF Pershore at 1838 on 16 December 1942 on a navigation exercise and crashed on Longside Edge on Skiddaw at approximately 2325. The crew had missed a turn point, possibly over Lancaster, and were about 40 miles off track over high ground when the bomber struck the ridge top and exploded.",
+      "key_details": [
+        "Serial identified as X3336",
+        "Took off from RAF Pershore at 1838",
+        "Crashed at 2325 on Longside Edge, Skiddaw",
+        "40 miles off track",
+        "Navigation exercise"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The memorial site of Wellington X3336 crash on Longside Edge in Skiddaw."
+    },
+    {
+      "source_site": "Flickr / Historical Record",
+      "original_url": "https://www.flickr.com/photos/pasujoba44/8749586273",
+      "summary": "Photographic documentation of the Wellington X3336 crash site on Longside Edge. The crew included F/Sgt Reginald Bellew (pilot), P/O Anthony Higgins RCAF (navigator), P/O Ronald Goodwin (navigator), Sgt Arthur Dubben (observer), Sgt George Hicks (W/Op AG), and Sgt Richard Lawton RCAF (air gunner). Only fragments and .303 ammunition remain at the site.",
+      "key_details": [
+        "Crew of six all killed",
+        "Two RCAF members: Higgins and Lawton",
+        "Wreckage fragments and .303 rounds still present at site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore photographic documentation of Wellington X3336 crash site on Longside Edge, featuring crew members F/Sgt Reginald Bellew and others from RCAF."
+    },
+    {
+      "source_site": "Military Aircraft Crash Sites blog",
+      "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/lake-district.html",
+      "summary": "Listed among Lake District military aircraft crash sites with details of the crash location on Longside Edge near Keswick.",
+      "key_details": [
+        "Catalogued as Lake District crash site"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed information about the military aircraft crash at Longside Edge in the Lake District."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Kendal Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cumbria/"
+    }
+  ],
+  "what3words": "spud.frozen.march",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF Pershore",
+  "squadron_aliases": [
+    "RAF Pershore"
+  ],
+  "narrative": "On 16 December 1942, Wellington X3336, operating from RAF Pershore, came down on Longside Edge on the slopes of Skiddaw in the Lake District. The aircraft's pilot was Sergeant Reginald V W Bellew. The crew included airmen from the RCAF as well as Polish aircrew among their number, among them Zigmunt Hohne and Stanislaw Karubin. The cause of the crash is not recorded in available sources. All crew members aboard were killed.\n\n**Note:** The raw text supplied describes an entirely different crash \u2014 a 1959 aircraft accident on Iron Crag \u2014 and contains no usable facts about Wellington X3336 or its crew. This narrative draws solely from the memorial data fields and source summaries provided. Key details such as cause of crash, total crew count, and individual circumstances remain absent from the available record and have been omitted rather than assumed.",
+  "crew": [
+    {
+      "name": "Reginald V.W. Bellew",
+      "rank": "Flight Sergeant",
+      "role": "Pilot",
+      "fate": "Killed"
+    },
+    {
+      "name": "Arthur J. Dubben",
+      "rank": "Sergeant",
+      "role": "Observer",
+      "fate": "Killed"
+    },
+    {
+      "name": "Anthony Higgins",
+      "rank": "Pilot Officer",
+      "role": "Navigator",
+      "fate": "Killed",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Ronald S. Goodwin",
+      "rank": "Pilot Officer",
+      "role": "Navigator",
+      "fate": "Killed"
+    },
+    {
+      "name": "George W. Hicks",
+      "rank": "Sergeant",
+      "role": "Wireless Op/Air Gunner",
+      "fate": "Killed"
+    },
+    {
+      "name": "Richard W. Lawton",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "nationality": "Canadian"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "X3336",
+  "data_notes": [
+    "Previous crew count of 17 was an aggregation error \u2014 multiple crashes from the same source page were merged."
+  ],
+  "last_validated": "2026-04-13"
+}

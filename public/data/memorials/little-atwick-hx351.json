@@ -19,10 +19,10 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.774203360130464,
-  "longitude": -1.2418600948329128,
+  "last_updated": "2026-04-09",
+  "data_quality": "Comprehensive",
+  "latitude": 53.939855178772326,
+  "longitude": -0.18787810708275837,
   "maintainer": {
     "organisation": "Atwick Parish Council",
     "maintainer_type": "parish-council"
@@ -39,7 +39,8 @@
         "823 aircraft detailed for Leipzig that night, 78 failed to return"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Memorial of Little Atwick Halifax, honoring P/O Jennings and crew from 158 Squadron Association."
     },
     {
       "source_site": "War Memorials Online",
@@ -49,7 +50,8 @@
         "Memorial reference 258620"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Halifax's war memorial history for 158 Squadron at RAF Lissett on War Memorials Online."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -59,7 +61,8 @@
         "IWM memorial reference 34867"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Halifax HX351 158 Squadron Memorial honoring seven crew members who tragically perished in a crash near Lissett."
     },
     {
       "source_site": "Yorkshire Aircraft",
@@ -71,7 +74,8 @@
         "Full bombload exploded on impact"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed Halifax HX351 accident report from Yorkshire Aircraft, revealing potential loss of control due to cloud entry and tailplane structure issues."
     }
   ],
   "local_contacts": [
@@ -89,7 +93,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/158.jpg",
   "squadron_motto": "Strength in unity",
-  "what3words": "valued.pretty.arrow",
+  "what3words": "torch.rectangular.rugs",
   "photos": [
     {
       "filename": "little-atwick-hx351/5b201920ccfba_DSC03204_547x410.JPG",
@@ -156,5 +160,103 @@
       "caption": "Little Atwick Halifax Memorial — photograph",
       "credit": "nobody aka Ian S / War Memorials Online"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "158 Squadron RAF",
+  "squadron_aliases": [
+    "158 Squadron",
+    "158 Sqdn."
+  ],
+  "memorial_details": "BLACK MARBLE TABLET SET UPRIGHT INTO THE GROUND. CARVED LETTERING. SURROUNDED BY LOW CHAIN FENCE.\n\nThe memorial was dedicated on 7th September 1994 and rededicated on 8th September 1996, both ceremonies attended by local clergy/dignitaries.\n\nDedication Ceremony (07th September 1994): The Handley Page Halifax HX351 memorial was dedicated during this ceremony. Local clergy/dignitaries attended.\n\nMemorial Erection (Not specified in the text): A Memorial was erected on or close to the site of the crash.\n\nIt consists of a stone tablet or plaque fixed to a stile about 50 yards north where the path joins Bewholme Road.",
+  "narrative": "On the night of 19/20 February 1944, Halifax HX351 of 158 Squadron took off from RAF Lissett bound for Leipzig as part of a large Bomber Command raid. Disaster struck shortly after take-off when the aircraft crashed at Little Atwick, East Riding of Yorkshire, with the loss of all seven crew members. The cause is believed to have been loss of control following cloud entry, possibly compounded by tailplane structural issues. Pilot Officer Peter Milton Jennings, aged 28, was killed alongside his crew: Charles Joseph Seymour, Norman Caffery, Harold Elfed Jones, George Frank Gillings, Samual Price 'Jack' Morris, and Gerald Robert Fitzsimmons. The crew were experienced, having completed 23 operations together since joining 158 Squadron at Lissett in July 1943. Among them, Jones was from Penmaenmawr, Caernarvonshire, and Morris had trained in Canada under the British Commonwealth Air Training Plan.",
+  "inscription": "IN LOVING MEMORY\n[crew names inscribed on memorial]\n158 SQD R.A.F.\nWHO\nPERISHED HERE\n20TH FEBRUARY 1944",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": ". Harold Elfed Jones",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "George Frank Gillings",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Wireless Operator / Air Gunner",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": ". Samual Price 'Jack' Morris",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 21,
+      "nationality": "British"
+    },
+    {
+      "name": "Gerald Robert Fitzsimmons",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 22
+    },
+    {
+      "name": "Norma Caffrey",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Charles Seymore",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter Milton Jennings",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "",
+      "age": 28,
+      "burial_location": "Little Milton Churchyard, Oxfordshire",
+      "nationality": "British",
+      "service_number": "157100"
+    },
+    {
+      "name": "Charles Joseph Seymour",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "",
+      "age": 22,
+      "burial_location": "Rolvenden Churchyard, Kent",
+      "nationality": "British",
+      "service_number": "160592"
+    },
+    {
+      "name": "Norman Caffery",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "",
+      "age": 21,
+      "burial_location": "Kimblesworth Churchyard, Durham",
+      "nationality": "British",
+      "service_number": "169502"
+    }
+  ],
+  "community_connection": "The image of this memorial was created and shared by Jo Jameson.",
+  "crash_category": "takeoff-landing",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/17/520/large_34867_jo_jameson.jpg"
   ]
 }

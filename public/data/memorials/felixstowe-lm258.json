@@ -40,90 +40,96 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
-  "narrative": "On 25 August 1944, Lancaster LM258 HA-Q of 218 (Gold Coast) Squadron took off from RAF Methwold at 18:55 hours on a mission to strike a V-1 flying bomb launch site at Vincly, France. The crew successfully dropped their mix of 1,000lb and 500lb bombs on the target, but on the return leg the aircraft was struck by flak from the anti-aircraft batteries at St Omer. Badly damaged, the Lancaster attempted to reach the emergency landing ground at RAF Woodbridge in Suffolk. At 21:15 hours, East Suffolk Police received reports of the Lancaster approaching Felixstowe at a dangerously low altitude. Witnesses saw the aircraft circling the town with its undercarriage lowered before it crashed into the sea approximately a quarter mile south-east of Felixstowe's New Pier. The wreckage was quickly consumed by flames and sank in twelve feet of water. An RAF Walrus amphibian from 277 Air-Sea Rescue Squadron and two High-Speed Launches from Felixstowe Dock arrived at the scene within minutes. Only three of the seven crew members were recovered from the sea, all of whom had died. Rear gunner Sgt Angus Craig, aged 19, was still alive when found but succumbed to his injuries three hours later. Pilot Flt Lt Doug Haggis was washed up at Fagbury Beach, Trimley St Martin, on 1 September 1944. Four crew members are buried in Cambridge City Cemetery.",
+  "narrative": "Flying from RAF Methwold on the evening of 25 August 1944, Lancaster LM258 of 218 (Gold Coast) Squadron attacked a V-1 flying bomb launch site at Vincly, France. On the return flight, the aircraft was struck by anti-aircraft flak near St Omer, losing two engines. The crew attempted to reach the emergency landing ground at RAF Woodbridge but could not maintain height, and the aircraft came down into the sea a quarter of a mile off Felixstowe. Flight Lieutenant Douglas Charles Haggis and seven crew members were killed, including Sergeant Angus Craig, the rear gunner, who was just nineteen years old. Among those lost was Flight Officer Charles Bryce Oxenham, a New Zealander serving as bomb aimer, alongside six British airmen ranging in age from twenty to twenty-six.",
   "crew": [
     {
       "rank": "F/Lt",
       "name": "Douglas Charles Haggis",
-      "service_number": "RAFVR",
       "age": 25,
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Body washed up at Fagbury Beach, Trimley St Martin, on 1 September 1944, a week after the crash.",
       "burial_location": "Cambridge City Cemetery",
       "bio": "A 25-year-old pilot from Britain, Haggis was commanding Lancaster LM258 on what would be his last mission against V-1 launch sites in France.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Glyn Davies Mathias",
-      "service_number": "RAFVR",
       "age": 25,
       "role": "Flight Engineer",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster LM258 crashed into the sea off Felixstowe.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "William Augustus Dyer",
-      "service_number": "RAFVR",
       "age": 20,
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Body found in Harwich Harbour on 1 September 1944.",
       "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Charles Bryce Oxenham",
-      "service_number": "424063 RNZAF",
       "age": 20,
       "role": "Bomb Aimer",
-      "nationality": "New Zealander",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster LM258 crashed into the sea off Felixstowe. One of many Commonwealth airmen serving with 218 Squadron.",
       "bio": "A 20-year-old New Zealander serving with the RNZAF, Oxenham was the bomb aimer aboard LM258. His story is told on the CWGC For Evermore website.",
       "cwgc_url": "https://www.cwgc.org/stories/stories/flying-officer-charles-bryce-oxenham-424063-royal-new-zealand-air-force-218-gold-coast-squadron/",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "burial_location": "Cambridge City Cemetery",
+      "service_number": "424063 RNZAF",
+      "nationality": "New Zealander"
     },
     {
       "rank": "F/Sgt",
       "name": "Ernest George Murray",
       "age": 26,
       "role": "Wireless Operator",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster LM258 crashed into the sea off Felixstowe.",
       "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "George Covell",
       "age": 20,
       "role": "Mid Upper Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster LM258 crashed into the sea off Felixstowe.",
       "burial_location": "Cambridge City Cemetery",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Angus Craig",
       "age": 19,
       "role": "Rear Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Craig was still alive when recovered from the sea but died three hours later from his injuries. The youngest crew member at just 19.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
+    },
+    {
+      "name": "Unknown",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "latitude": 51.9569,
@@ -131,7 +137,7 @@
   "cause_of_loss": "Flak damage from anti-aircraft batteries at St Omer on return from V-1 site attack; crashed into sea off Felixstowe",
   "operation_type": "Operational",
   "operation_target": "V-1 flying bomb launch site, Vincly, France",
-  "memorial_details": "A granite memorial was unveiled at Felixstowe Town Hall in 2001 to commemorate the seven crew of 218 (Gold Coast) Squadron who died when Lancaster LM258 crashed off the town. The 80th anniversary was commemorated in August 2024.",
+  "memorial_details": "Tablet with Royal Air Force Bomber Squadron insignia top centre.\n\nMemorial Unveiling: The memorial commemorates the crew of Lancaster Bomber LM258. It is not explicitly stated when or how this memorial was unveiled.\n\nA memorial plaque to the crew is installed in the brickwork of the Town Hall in Felixstowe.",
   "maintainer": {
     "organisation": "Felixstowe Town Council",
     "maintainer_type": "parish-council"
@@ -143,7 +149,8 @@
       "summary": "Imperial War Museum register entry for the Lancaster LM258 memorial at Felixstowe Town Hall. Records the granite memorial unveiled in 2001 to commemorate the seven crew of 218 (Gold Coast) Squadron.",
       "key_details": "Memorial reference 57032. Granite memorial unveiled at Felixstowe Town Hall in 2001.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant tribute: a granite memorial honoring the seven crew members of Lancaster LM258 at Felixstowe Town Hall."
     },
     {
       "source_site": "Felixstowe Town Council",
@@ -151,7 +158,8 @@
       "summary": "Felixstowe Town Council announcement of the 80th anniversary commemoration of Lancaster LM258. The aircraft was struck by flak near St Omer returning from a V-1 site attack at Vincly, France, and crashed into the sea near the town's New Pier on 25 August 1944.",
       "key_details": "Aircraft attempted to reach RAF Woodbridge emergency landing ground. Witnessed circling Felixstowe with undercarriage lowered before crashing into the sea. Pilot Flt Lt Doug Haggis (age 25) was washed up at Fagbury Beach on 1 September 1944.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Felixstowe Town Council's 80th anniversary commemoration of Lancaster LM258."
     },
     {
       "source_site": "CWGC / For Evermore",
@@ -159,7 +167,8 @@
       "summary": "CWGC story of F/O Charles Bryce Oxenham, RNZAF bomb aimer aboard Lancaster LM258. Oxenham was 20 years old and from New Zealand, one of many Commonwealth airmen serving with 218 Squadron.",
       "key_details": "Crew included New Zealand and British personnel. Oxenham was RNZAF, serving with 218 (Gold Coast) Squadron.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore CWGC story of F/O Charles Bryce Oxenham, RNZAF bomb aimer aboard Lancaster LM258, commemorating his sacrifice and service in WWII."
     },
     {
       "source_site": "IBCC Digital Archive",
@@ -167,7 +176,8 @@
       "summary": "International Bomber Command Centre loss record for Lancaster LM258 HA-Q, listing Flt Lt Douglas Charles Haggis as pilot. Records the loss on 25 August 1944 during operations against V-1 sites.",
       "key_details": "Aircraft code HA-Q. IBCC loss reference 211503.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Felixstowe Lancaster Memorial: IBCC Digital Archive records Flt Lt Douglas Charles Haggis' tragic loss in LM258 HA-Q on 25 Aug 1944."
     }
   ],
   "local_contacts": [
@@ -185,5 +195,46 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/218.jpg",
   "squadron_motto": "In time",
-  "what3words": "playoffs.resolves.expanded"
+  "what3words": "playoffs.resolves.expanded",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "218 (Gold Coast) Squadron RAF",
+  "squadron_aliases": [
+    "218 (Gold Coast) Squadron",
+    "218 Squadron",
+    "218 Sqdn."
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial Service",
+        "date": "06/07/2024",
+        "description": "Commemoration event held at Cambridge City Cemetery to remember Flying Officer Charles Bryce Oxenham and the other crew members who died in the crash."
+      },
+      {
+        "name": "Commemorative Service",
+        "date": "25 August 1944",
+        "description": "Marking the 80th anniversary of the tragic loss of Lancaster Bomber LM258, HA-Q and its seven heroic crew members."
+      },
+      {
+        "name": "Burial/Memorial",
+        "date": "25-08-1944",
+        "description": "Funeral service and burial at City of London Cemetery and Crematorium, Manor Park. Grave reference: Square 278. Grave 111894."
+      }
+    ]
+  },
+  "community_connection": "",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/20/254/large_img_5962a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/143/505/large_fstowe_museum_lancaster_display_0_r.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/143/504/large_fstowe_museum_lancaster_story_0_r.jpg"
+  ]
 }

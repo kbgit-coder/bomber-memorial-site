@@ -1,91 +1,182 @@
 {
-    "id": "north-kelsey-moor-lancaster-r-5672",
-    "title": "North Kelsey Moor R.5672 Memorial",
-    "location_name": "North Kelsey Moor, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-017",
-    "crash_date": "1944-04-08",
-    "aircraft_type": "Lancaster R.5672",
-    "squadron": "1 LFS",
-    "station": "Hemswell",
-    "crew_summary": "9 killed (3 aircrew, 6 ground crew) including Wg Cdr. Eric Frank Knowles Campling, DSO, DFC",
-    "memorial_type": "Garden wall plaque",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.31850769461658,
-    "longitude": -0.22565337907673227,
-    "maintainer": {
-        "organisation": "North Kelsey Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "north-kelsey-moor-lancaster-r-5672",
+  "title": "North Kelsey Moor R.5672 Memorial",
+  "location_name": "North Kelsey Moor, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-017",
+  "crash_date": "1944-04-08",
+  "aircraft_type": "Lancaster R.5672",
+  "squadron": "1 LFS",
+  "station": "Hemswell",
+  "crew_summary": "9 killed (3 aircrew, 6 ground crew) including Wg Cdr. Eric Frank Knowles Campling, DSO, DFC",
+  "memorial_type": "Garden wall plaque",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.5015,
+  "longitude": -0.386,
+  "maintainer": {
+    "organisation": "North Kelsey Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Lincolnshire World",
+      "original_url": "https://www.lincolnshireworld.com/news/people/a-tragic-accident-in-april-1944-at-caistor-2039002",
+      "summary": "Detailed account of the Lancaster R5672 crash on 8 April 1944. The aircraft from No. 1 Lancaster Finishing School at RAF Hemswell was seen performing a low turn over RAF Caistor before a massive explosion caused total disintegration near the Caistor-to-Kelsey Road at 1640 hours. Wing Commander Eric Campling DSO DFC and all eight others aboard were killed.",
+      "key_details": [
+        "Crashed at 1640 hrs on SE corner of RAF Caistor",
+        "Low turn over RAF Caistor before explosion",
+        "Aircraft disintegrated above tree tops",
+        "W/C Campling had twin sister Marjorie Stonehouse who attended memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "The tragic story of Lancaster R5672 crash near North Kelsey Moor in April 1944."
     },
-    "external_narratives": [
-        {
-            "source_site": "Lincolnshire World",
-            "original_url": "https://www.lincolnshireworld.com/news/people/a-tragic-accident-in-april-1944-at-caistor-2039002",
-            "summary": "Detailed account of the Lancaster R5672 crash on 8 April 1944. The aircraft from No. 1 Lancaster Finishing School at RAF Hemswell was seen performing a low turn over RAF Caistor before a massive explosion caused total disintegration near the Caistor-to-Kelsey Road at 1640 hours. Wing Commander Eric Campling DSO DFC and all eight others aboard were killed.",
-            "key_details": [
-                "Crashed at 1640 hrs on SE corner of RAF Caistor",
-                "Low turn over RAF Caistor before explosion",
-                "Aircraft disintegrated above tree tops",
-                "W/C Campling had twin sister Marjorie Stonehouse who attended memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/68189",
-            "summary": "IWM War Memorials Register entry for the Lancaster R5672 memorial plaque at North Kelsey Moor, Lincolnshire.",
-            "key_details": [
-                "IWM memorial reference 68189"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "International Bomber Command Centre",
-            "original_url": "https://losses.internationalbcc.co.uk/loss/103618/",
-            "summary": "IBCC digital archive loss record for W/C Eric Frank Knowles Campling DSO DFC in Lancaster R5672 from No. 1 Lancaster Finishing School, RAF Hemswell.",
-            "key_details": [
-                "IBCC loss reference 103618",
-                "No. 1 Lancaster Finishing School confirmed",
-                "Duty was air test"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "North Lincs Web",
-            "original_url": "https://www.northlincsweb.net/RAFElshamWolds/html/8th_april_1944_-_no_1_lancaster_finishing_school_raf_hemswell_-_.html",
-            "summary": "Detailed record of the 8 April 1944 accident involving Lancaster I R5672 from No. 1 LFS at RAF Hemswell. Lists all nine casualties including W/C Campling and documents the air test mission that ended in catastrophe.",
-            "key_details": [
-                "Nine casualties listed: Campling, Freer, Killick, King, Quinton, Regan, Spiller, Steverton, Whittal",
-                "Mission was a duty air test"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Kirton-In-Lindsey Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "North Kelsey Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "committed.replays.dignity"
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/68189",
+      "summary": "IWM War Memorials Register entry for the Lancaster R5672 memorial plaque at North Kelsey Moor, Lincolnshire.",
+      "key_details": [
+        "IWM memorial reference 68189"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the detailed history of Lancaster R5672 memorial plaque at North Kelsey Moor, Lincolnshire."
+    },
+    {
+      "source_site": "International Bomber Command Centre",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/103618/",
+      "summary": "IBCC digital archive loss record for W/C Eric Frank Knowles Campling DSO DFC in Lancaster R5672 from No. 1 Lancaster Finishing School, RAF Hemswell.",
+      "key_details": [
+        "IBCC loss reference 103618",
+        "No. 1 Lancaster Finishing School confirmed",
+        "Duty was air test"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed records of lost bomber crews at IBCC digital archive."
+    },
+    {
+      "source_site": "North Lincs Web",
+      "original_url": "https://www.northlincsweb.net/RAFElshamWolds/html/8th_april_1944_-_no_1_lancaster_finishing_school_raf_hemswell_-_.html",
+      "summary": "Detailed record of the 8 April 1944 accident involving Lancaster I R5672 from No. 1 LFS at RAF Hemswell. Lists all nine casualties including W/C Campling and documents the air test mission that ended in catastrophe.",
+      "key_details": [
+        "Nine casualties listed: Campling, Freer, Killick, King, Quinton, Regan, Spiller, Steverton, Whittal",
+        "Mission was a duty air test"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed account of 1944 Lancaster I R5672 accident, its nine victims, and subsequent air test mission at RAF Hemswell."
+    },
+    {
+      "source_site": "Lincolnshire World",
+      "original_url": "https://www.lincolnshireworld.com/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 403,
+      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Kirton-In-Lindsey Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "North Kelsey Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "overheard.examiner.cycled",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1 LFS",
+  "squadron_aliases": [
+    "1 LFS"
+  ],
+  "crew": [
+    {
+      "name": "Eric Frank Knowles Campling",
+      "fate": "Killed",
+      "rank": null,
+      "age": 23,
+      "burial_location": "St. George (St. George) Churchyard, Grave Reference North part. Grave 417.",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "Ronald Percy Freer",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "George Killick",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Thomas King",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Harold Quinton",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Lancelot Thomas Daniel Regan",
+      "fate": "Killed",
+      "rank": null,
+      "role": "Flight Engineer"
+    },
+    {
+      "name": "Alfred Spiller",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Edward Steverton",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Taniya Whittal",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Oblong brass plaque mounted on wooden backing plate\n\nDedication Ceremony (5 April 2014): The Lancaster R5672 memorial was dedicated during this ceremony.\n\nRoyal Air Force Volunteer Reserve (RAFO) Roadside location, North Kelsey Moor, Lincolnshire Inscribed metal plaque on brick wall In memory of the crew and passengers of 1 LFS Lancaster R5672 which crashed during an air test on 8th April 1944 Bawtry Hall, Bawtry, South Yorkshire In memory of those who did not return 1939 - 1945 There is a commemorative plaque at the crash site near Caistor bearing the names of the crew.",
+  "narrative": "Lancaster R5672 lifted off from RAF Hemswell on a routine air test, carrying Wing Commander Eric Frank Knowles Campling, DSO, DFC, and eight others. At approximately 1700 hours, the aircraft was observed to dive steeply from an estimated height of 1,000 feet before striking the ground near Caistor, Lincolnshire. The Lancaster was so completely destroyed that accident investigators were unable to determine the cause. All nine aboard were killed \u2014 three aircrew, including pilot Lancelot Thomas Daniel Regan and Ronald Percy Freer, and six ground crew. Campling, just 23 years old and the son of Frank and Emily Campling of Clapham, London, had accumulated 1,672 solo flying hours and completed numerous operations, including four attacks on Berlin. His DSO citation had praised him as \"a first class pilot\" who pressed home his attacks \"with a determination which is deserving of high praise.",
+  "inscription": "IN MEMORY OF THE CREW OF LANCASTER R5672\nWHICH CRASHED CLOSE TO THIS POINT\n8th APRIL 1944\n[9 NAMES]\nTHIS PLAQUE HAS BEEN DONATED BY CAISTOR AND DISTRICT LIONS",
+  "community_connection": "This Plaque Has Been Donated by Caistor And District Lions",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "serial_number": "R5672",
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/12/189/large_caistor_lancaster_r5672_nortch_kelsey_rd_lincs_ccharles_anderson.jpg"
+  ]
 }

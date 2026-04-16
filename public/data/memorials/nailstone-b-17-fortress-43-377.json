@@ -18,15 +18,14 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
-  "data_quality": "Comprehensive",
-  "narrative": "The B-17 \"Heavenly Body\" was on a night navigation training flight from its home base at Eye in Suffolk — a long way from the operational missions over Germany that the 490th Bomb Group normally flew. Twelve men were aboard, including three passengers along for the ride. Over NW Leicestershire, while executing a turn near Nailstone, the nose dropped and the port wing struck the ground. The aircraft was completely destroyed by fire and explosion. All twelve men were killed. Five were subsequently buried at Cambridge American Cemetery at Madingley, near Cambridge; the other seven were repatriated to the United States after the war. This was the single deadliest crash in Leicestershire during the war. The \"Heavenly Body\" name and the fact that these men died on a training flight far from their base — not in combat — adds to the tragedy.",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "narrative": "The bomber was on a training flight from Eye to Liverpool when it ran into trouble near Desford aerodrome. It was fully loaded with bombs and ammunition. Trying to turn to reach Desfords runway it flew low over Barlestone and over the edge of Nailstone before hitting a tree on farmland and exploding, killing all 12 airmen. The aircraft was destroyed in the explosion and subsequent fire. The cause of the problem is not known. Source of information: www.warmemorialsonline.org.uk, Imperial War Museum War Memorials Register, www.leicestermercury.co.uk Source of photos: www.leicestershirewarmemorials.co.uk, Imperial War Museum War Memorials Register IN MEMORY OF OUR FALLEN COMRADES 490TH BOMB GROUP FLIGHT CREW ON THE B17 FLYING FORTRESS APTLY NAMED HEAVENLY BODY. ON 27TH SEPTEMBER 1944 ALL CREWMEMBERS LOST THEIR LIVES IN THEY SHALL MOUNT UP WITH WINGS AS EAGLES, THEY SHALL RUN, AND NOT BE WEARY, AND THEY SHALL WALK, AND NOT FAINT 849th Bomber Squadron, 490th Bombardment Group, Heavy @2008 American War Memorials Overseas, Inc.",
   "crew": [
     {
       "rank": "1st Lt",
       "name": "Michael H. Primus",
       "role": "Pilot",
-      "nationality": "American",
       "burial_location": "5 buried at Cambridge American Cemetery; 7 repatriated to USA",
       "fate": "Killed",
       "fate_detail": "Killed when the B-17 struck a tree during a low-altitude turn near Nailstone and exploded. All twelve aboard died.",
@@ -37,7 +36,6 @@
       "rank": "1st Lt",
       "name": "Louis G. Deputy",
       "role": "Co-pilot",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion at Nailstone.",
@@ -48,7 +46,6 @@
       "rank": "2nd Lt",
       "name": "Richard J. Hermann",
       "role": "Navigator",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -59,7 +56,6 @@
       "rank": "2nd Lt",
       "name": "Robert C. Simmons",
       "role": "Bomb Aimer",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -70,7 +66,6 @@
       "rank": "T/Sgt",
       "name": "Roy E. Griswold",
       "role": "Flight Engineer",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -81,7 +76,6 @@
       "rank": "T/Sgt",
       "name": "Claude Keele",
       "role": "Radio Operator",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -92,7 +86,6 @@
       "rank": "S/Sgt",
       "name": "Harry Stoever",
       "role": "Ball Turret Gunner",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -103,7 +96,6 @@
       "rank": "S/Sgt",
       "name": "Lawrence I. Richter",
       "role": "Waist Gunner",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -114,7 +106,6 @@
       "rank": "S/Sgt",
       "name": "Americo Vergili",
       "role": "Tail Gunner",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
@@ -125,7 +116,6 @@
       "rank": "S/Sgt",
       "name": "John C. Barry",
       "role": "Passenger",
-      "nationality": "American",
       "burial_location": "—",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Was a passenger along for the night navigation exercise.",
@@ -136,7 +126,6 @@
       "rank": "S/Sgt",
       "name": "Ralph W. Franke",
       "role": "Passenger",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. One of three passengers aboard.",
@@ -147,19 +136,36 @@
       "rank": "S/Sgt",
       "name": "Edward Shively",
       "role": "Passenger",
-      "nationality": "American",
       "burial_location": "Cambridge American Cemetery",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. One of three passengers aboard.",
       "bio": "Staff Sergeant, a passenger.",
       "decorations": []
+    },
+    {
+      "name": "Rich Herman",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "Roy Griswould",
+      "rank": "Unknown",
+      "fate": "Killed",
+      "role": "Flight engineer/top turret gunner"
+    },
+    {
+      "name": "Americo Virgili",
+      "rank": "Unknown",
+      "fate": "Killed",
+      "role": "Tail gunner"
     }
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",
   "operation_type": "Training",
-  "memorial_details": "A memorial stands in the Memorial Garden in the Church Gardens at Nailstone, on the A447 between Nailstone and Ibstock. The memorial commemorates all twelve men and is maintained by the local community. It is the only memorial to American aircrew in the East Midlands region covered by this report.",
-  "latitude": 52.51471364896893,
-  "longitude": -1.213497746857146,
+  "memorial_details": "Stone of remembrance with attached plaque.\n\nThe plaque is inscribed in English inscribed with a dedication message followed by the list of names of the crew.\n\nThe memorial was originally located at a site nearer to where the plane crashed on Elmside Farm but has been moved for better access, where it was dedicated in 2002.\n\nDedication (2002-01-01): The memorial was dedicated after being moved to its current location for better access.\n\nPRIVATE CITIZENS SUPPORTING AMERICA'S HERITAGE B-17 'Heavenly Body' (43-37776) Memorial A rough-hewn stone with an attached metal plaque to its front.\n\nMemorial Display: A memorial displaying the B-17 Flying Fortress Crew, commemorating World War II.",
+  "latitude": 52.659868946558454,
+  "longitude": -1.3856301201029853,
   "maintainer": {
     "organisation": "Nailstone Parish Council",
     "maintainer_type": "parish-council"
@@ -175,7 +181,8 @@
         "Memorial Garden location"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The US War Memorials database entry for Nailstone's 'Heavenly Body' (43-37776) B-17 memorial, honoring its crew in the Memorial Garden."
     },
     {
       "source_site": "Peak District Air Accident Research",
@@ -188,7 +195,8 @@
         "Trying to reach Desford aerodrome"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed account of B-17G 43-37776 crash at Nailstone in Peak District Air Accident Research."
     },
     {
       "source_site": "B-17 Flying Fortress database",
@@ -199,7 +207,8 @@
         "490th Bomb Group assignment confirmed"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed history of WWII bomber 'Heavenly Body' in Nailstone crash."
     },
     {
       "source_site": "American Air Museum",
@@ -209,7 +218,10 @@
         "American Air Museum reference 11782"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history and specifications of WWII B-17G bomber at American Air Museum.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Imperial War Museums",
@@ -219,7 +231,8 @@
         "IWM memorial reference 50741"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the detailed history of the Nailstone B-17 Flying Fortress crew memorial on this IWM page."
     }
   ],
   "local_contacts": [
@@ -235,5 +248,29 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "paving.octagonal.outfitter"
+  "what3words": "ending.light.corporate",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "490th Bomb Group USAAF",
+  "squadron_aliases": [
+    "490th Bomb Group",
+    "490th BG"
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/17/180/large_50741.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/254/large_50741a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/86/568/3_nailstone.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/86/569/4_nailstone_1.jpg"
+  ]
 }

@@ -1,59 +1,112 @@
 {
-    "id": "bury-lv971",
-    "title": "Bury Halifax Memorial",
-    "location_name": "Bury, Cambridgeshire",
-    "county": "Cambridgeshire",
-    "country": "United Kingdom",
-    "region_code": "CB-001",
-    "os_grid_reference": "TL 2871 8377",
-    "crash_date": "1944-04-18",
-    "aircraft_type": "Halifax",
-    "serial_number": "LV971",
-    "squadron": "433 (Porcupine) Squadron",
-    "station": "Skipton",
-    "crew_summary": "7 killed including pilot Flt Lt. Gerald Boyd Edmonds",
-    "memorial_type": "Church memorial",
-    "sources": [
-        {
-            "title": "Geograph Cambridgeshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.30909530356591,
-    "longitude": 0.23386529363161396,
-    "maintainer": {
-        "organisation": "Bury Parish Council",
-        "maintainer_type": "church",
-        "notes": "Church memorial."
+  "id": "bury-lv971",
+  "title": "Bury Halifax Memorial",
+  "location_name": "Bury, Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-001",
+  "os_grid_reference": "TL 2871 8377",
+  "crash_date": "1944-04-18",
+  "aircraft_type": "Halifax",
+  "serial_number": "LV971",
+  "squadron": "433 (Porcupine) Squadron",
+  "station": "Skipton",
+  "crew_summary": "7 killed including pilot Flt Lt. Gerald Boyd Edmonds",
+  "memorial_type": "Church memorial",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Good",
+  "latitude": 52.437,
+  "longitude": -0.117,
+  "maintainer": {
+    "organisation": "Bury Parish Council",
+    "maintainer_type": "church",
+    "notes": "Church memorial."
+  },
+  "external_narratives": [
+    {
+      "source_site": "Find a Grave",
+      "original_url": "https://www.findagrave.com/memorial/143365988/halifax_bomber_crash_memorial",
+      "summary": "Find a Grave records the Halifax Bomber Crash Memorial at Bury, Cambridgeshire. The memorial commemorates the crew of Halifax LV971 of 433 (Porcupine) Squadron RCAF who were killed on 18 April 1944.",
+      "key_details": [
+        "Find a Grave memorial reference: 143365988",
+        "433 (Porcupine) Squadron RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Crew Details and Memorial Description: Explore Find a Grave's comprehensive records for Halifax LV971's crew, including biographies, crash site, and memorial specifics in Bury, Cambridgeshire."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Cambridge City Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
     },
-    "external_narratives": [
-        {
-            "source_site": "Find a Grave",
-            "original_url": "https://www.findagrave.com/memorial/143365988/halifax_bomber_crash_memorial",
-            "summary": "Find a Grave records the Halifax Bomber Crash Memorial at Bury, Cambridgeshire. The memorial commemorates the crew of Halifax LV971 of 433 (Porcupine) Squadron RCAF who were killed on 18 April 1944.",
-            "key_details": [
-                "Find a Grave memorial reference: 143365988",
-                "433 (Porcupine) Squadron RCAF"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Cambridge City Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-        },
-        {
-            "org_name": "Bury Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "locked.dizzy.wasps"
+    {
+      "org_name": "Bury Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "wanderers.expropriate.spiders",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "433 Squadron RCAF",
+  "squadron_aliases": [
+    "433 (Porcupine) Squadron"
+  ],
+  "narrative": "Halifax LV971, flying with 433 (Porcupine) Squadron from Skipton, came down near Bury, Cambridgeshire on 18 April 1944. The aircraft was lost with all seven crew aboard. Pilot Flight Lieutenant Gerald Boyd Edmonds and his crew \u2014 William Wallace, Bruce Tees, Ronald Movold, George Walker, John Evans, James Murie, and George Pidgeon \u2014 did not survive. There were no survivors. The cause of the loss is not recorded in available sources.",
+  "crew": [
+    {
+      "name": "William Wallace",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bruce Tees",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ronald Movold",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Walker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Evans",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Murie",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "George Pidgeon",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

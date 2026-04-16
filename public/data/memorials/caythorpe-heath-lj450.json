@@ -1,87 +1,156 @@
 {
-    "id": "caythorpe-heath-lj450",
-    "title": "Caythorpe Heath Stirling Memorial",
-    "location_name": "Caythorpe Heath, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-006",
-    "crash_date": "1944-04-12",
-    "aircraft_type": "Stirling",
-    "serial_number": "LJ450",
-    "squadron": "1654 HCU",
-    "station": "Wigsley",
-    "crew_summary": "4 killed (1 survived); pilot Flt Sgt. Joseph John Gordon Nicholson",
-    "memorial_type": "Stone memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.24855703658211,
-    "longitude": -0.4481332838634158,
-    "maintainer": {
-        "organisation": "Caythorpe and Frieston Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "caythorpe-heath-lj450",
+  "title": "Caythorpe Heath Stirling Memorial",
+  "location_name": "Caythorpe Heath, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-006",
+  "crash_date": "1944-04-01",
+  "aircraft_type": "Stirling",
+  "serial_number": "LJ450",
+  "squadron": "1654 HCU",
+  "station": "Wigsley",
+  "crew_summary": "4 killed (1 survived); pilot Flt Sgt. Joseph John Gordon Nicholson",
+  "memorial_type": "Stone memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.0271,
+  "longitude": -0.548,
+  "maintainer": {
+    "organisation": "Caythorpe and Frieston Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/179360",
+      "summary": "Memorial record for the crew of Stirling LJ450 at Caythorpe Heath. The aircraft from 1654 HCU was shot down by a Luftwaffe Me410 intruder during a night navigation and bombing exercise on 12 April 1944.",
+      "key_details": [
+        "Shot down by Me410 intruder piloted by Hptm Dietrich Puttfarken (II/KG51)",
+        "Memorial plaque unveiled 7 July 2004",
+        "Night navigation exercise with bombing practice on Bassingham Fen range"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The poignant memorial record for Stirling LJ450 crew at Caythorpe Heath."
     },
-    "external_narratives": [
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/179360",
-            "summary": "Memorial record for the crew of Stirling LJ450 at Caythorpe Heath. The aircraft from 1654 HCU was shot down by a Luftwaffe Me410 intruder during a night navigation and bombing exercise on 12 April 1944.",
-            "key_details": [
-                "Shot down by Me410 intruder piloted by Hptm Dietrich Puttfarken (II/KG51)",
-                "Memorial plaque unveiled 7 July 2004",
-                "Night navigation exercise with bombing practice on Bassingham Fen range"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Lincolnshire Heritage Explorer",
-            "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI116375",
-            "summary": "Official heritage record for the Short Stirling aircraft crash site and memorial at Caythorpe. Crash site covered by a small copse maintained as a memorial to the crew.",
-            "key_details": [
-                "Heritage monument reference MLI116375",
-                "Crash site copse preserved as memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/54193",
-            "summary": "Imperial War Museums register entry for the memorial to the crew of Short Stirling III LJ450 at Caythorpe, Lincolnshire.",
-            "key_details": [
-                "IWM memorial reference 54193",
-                "Four killed, four survived by bailing out"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Sleaford & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Caythorpe and Frieston Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "summaries.flicks.intervals",
-    "photos": [
-        {
-            "filename": "caythorpe-heath-lj450/Old_Machine_Pics_4979_547x410.jpg",
-            "caption": "Old Machine Pics 4979 547x410",
-            "credit": "MGF / War Memorials Online"
-        }
-    ]
+    {
+      "source_site": "Lincolnshire Heritage Explorer",
+      "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI116375",
+      "summary": "Official heritage record for the Short Stirling aircraft crash site and memorial at Caythorpe. Crash site covered by a small copse maintained as a memorial to the crew.",
+      "key_details": [
+        "Heritage monument reference MLI116375",
+        "Crash site copse preserved as memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Short Stirling Aircraft Memorial at Caythorpe Heath in Lincolnshire Heritage Explorer."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/54193",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Short Stirling III LJ450 at Caythorpe, Lincolnshire.",
+      "key_details": [
+        "IWM memorial reference 54193",
+        "Four killed, four survived by bailing out"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Caythorpe Heath Stirling Memorial honoring aircraft's crew in IWM War Memorials Register."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sleaford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Caythorpe and Frieston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "occupy.remix.searcher",
+  "photos": [
+    {
+      "filename": "caythorpe-heath-lj450/Old_Machine_Pics_4979_547x410.jpg",
+      "caption": "Old Machine Pics 4979 547x410",
+      "credit": "MGF / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1654 HCU",
+  "squadron_aliases": [
+    "1654 HCU"
+  ],
+  "crew": [
+    {
+      "name": "Durham",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Hamilton",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Howell",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Gwilym John Lewis",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "John Ernest Lowe",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Kenneth Lowe Macfarlane",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Joseph John Gordon Nicholson",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Rowland",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Metal plaque with engraved lettering on a wooden backboard and stand.\n\nThe memorial was unveiled on July 7, 2004, by Mr.\n\nThis memorial was unveiled on 7 July 2004 by Mr David Theaker and GP Capt MP Colley, Station Commander RAF Cranwell.\n\nUnveiling Ceremony (07 July 2004): The Short Stirling LJ450 memorial was unveiled during this ceremony.\n\nMemorial Erection/Unveiling (7 Jul 2004): Erected and unveiled of the inscribed anodised aluminium plate with wooden frame on a wooden post on the edge of a spinney on the farm.",
+  "narrative": "This memorial honors the crew of \"Auben Fox,\" a Stirling Mk Heavy Bomber, registration LJ450, from 1654 HCU. On April 1, 1944, at 0125 hours, during a routine training flight, it was shot down by a Messerschmitt BF109 from 11/KG51's \"Immelmann Squadron.\" Despite the loss of their aircraft, all crew members safely bailed out and sustained no injuries. David Theaker and Group Captain MP Colley, Station Commander RAF Cranwell. It stands as a tribute, left undisturbed at the crash site, in respect for their sacrifice, witnessed by the Theaker family.",
+  "inscription": "THIS MEMORIAL IS DEDICATED TO THE CREW OF THE \"AUBEN FOX\" A STIRLING,\nMk HEAVY BOMBER, No LJ450 OF 1654 HBCU SHOT DOWN AT\n0125 Hrs ON 1 APRIL 1944 BY A ME BF410 FROM 11\nKG51 \"IMMELMAN\nSQUADRON, DURING A ROUTINE TRAINING FLIGHT.\n[crew names inscribed on memorial]\nALL BAILED OUT AND WERE UNINJURED\nTHIS MEMORIAL WAS UNVEILED ON 7 JULY 2004 BY Mr DAVID THEAKER AND\nGP CAPT MP. COLLEY, STATION COMMANDER RAF CRANWELL. THIS COPS HAS\nBEEN LEFT AS A MEMORIAL SITE BY THE THEAKER FAMILY WHO WITNESSED\nTHE CRASH AND IN RESPECT FOR THOSE WHO SACRIFICED SO MUCH.",
+  "community_connection": "It was erected by the Theaker family who witnessed the crash and in respect for those who sacrificed much.",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 5,
+  "last_validated": "2026-04-12",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/93/392/large_caythorpe_hill_top_farm.jpg"
+  ]
 }

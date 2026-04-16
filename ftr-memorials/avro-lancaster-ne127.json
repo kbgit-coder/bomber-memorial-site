@@ -1,0 +1,38 @@
+{
+  "id": "avro-lancaster-ne127",
+  "title": "Avro Lancaster NE127",
+  "location_name": "East Kirkby, East Lindsey",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "NE127",
+  "squadron": "57 Squadron",
+  "crash_date": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Tree with associated dedicatory Plaque",
+  "inscription": "In memory of 57 Sqn. R.A.F/ Lancaster crew lost, May 22/23 1944/ (Names)/ Survivors/ (Names)/ We cherish their memory",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/92360",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 53.139285200239,
+  "longitude": -0.002707016907,
+  "grid_ref": "TF337621",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 5,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/97/778/large_lancaster__ne127_dx_j_57_sdn_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/97/777/large_lancaster__ne127_dx_j_57_sdn.jpg"
+  ]
+}

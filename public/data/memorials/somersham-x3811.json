@@ -22,8 +22,8 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
-  "latitude": 52.16282422252873,
-  "longitude": 0.11548696563955149,
+  "latitude": 52.3826,
+  "longitude": -0.0022,
   "maintainer": {
     "organisation": "Somersham Parish Council",
     "maintainer_type": "parish-council"
@@ -38,7 +38,8 @@
         "156 Squadron Wellington"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Memorial: Somersham Wellington Memorial - War Memorials Online records 11 civilian casualties from crashed 156 Squadron Wellington aircraft."
     },
     {
       "source_site": "Geograph Britain and Ireland",
@@ -50,7 +51,8 @@
         "Bad weather and severe icing caused crew to lose control"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Photographic records of eleven Somersham civilians memorialized for their loss due to Wellington aircraft crash in 1942."
     },
     {
       "source_site": "Geograph Britain and Ireland (Whitehall)",
@@ -61,7 +63,8 @@
         "Building now used as a school"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "View historical photograph capturing Wellington Memorial's aftermath in Somersham, Whitehall."
     }
   ],
   "local_contacts": [
@@ -79,7 +82,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/156.jpg",
   "squadron_motto": "We light the way",
-  "what3words": "melons.loft.mourner",
+  "what3words": "isolated.rebounder.limitless",
   "photos": [
     {
       "filename": "somersham-x3811/5d16695497501_Somersham_1_547x410.JPG",
@@ -91,5 +94,24 @@
       "caption": "Somersham 2",
       "credit": "Tony Hibberd / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "156 Squadron RAF",
+  "squadron_aliases": [
+    "156 Squadron",
+    "156 Sqdn."
+  ],
+  "narrative": "The Wellington X3811 GT-? of 156 Sqn, having departed Warboys at 1910 for Ops Aachen, iced up and suffered an in-flight fire. The crew abandoned the aircraft and safely bailed out. Tragically, the aircraft crashed onto a row of houses in the village of Somersham, resulting in heavy loss of civilian life.",
+  "remembrance": {
+    "events": []
+  },
+  "memorial_details": "Photograph Taken (07 Oct 2013): Tony Hibberd took a photograph of the memorial plaque at Carpenters Court, High Street, Somersham.",
+  "crash_category": "weather",
+  "narrative_quality_score": 4
 }

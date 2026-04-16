@@ -20,8 +20,8 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
   "data_quality": "Partial",
-  "latitude": 53.12388206481441,
-  "longitude": -0.39833470751239203,
+  "latitude": 53.3148,
+  "longitude": -0.6647,
   "maintainer": {
     "organisation": "Sturton by Stow Parish Council",
     "maintainer_type": "parish-council"
@@ -33,7 +33,8 @@
       "summary": "Registry entry for the Lancaster R5676 memorial at Lancaster Farm, Sturton by Stow. The memorial was commissioned by farm owner Jacqueline Gorman and designed by her son John Gorman.",
       "key_details": "Memorial located on the wall at the entrance to Lancaster Farm on Tillbridge Road. Privately commissioned memorial on the crash site.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Lancaster R5676 Memorial's registry entry: a tribute from Jacqueline Gorman to her son John Gorman at Sturton by Stow."
     },
     {
       "source_site": "RAF Commands",
@@ -41,7 +42,8 @@
       "summary": "RAF Commands archive record for Flying Officer Sydney Rhys Jones and the crew of Lancaster R5676 from 1660 HCU. The Lancaster broke up in flight at 1005 hours on 12 February 1943, with the starboard wing failing first.",
       "key_details": "Aircraft suffered structural failure — starboard wing broke away in flight. Crashed at Oldfield's Farm, 8 miles NW of Lincoln. Crew of eight included Fg Off Jones (age 25), Sgt Raeside (age 26), Fg Off Hoy (age 31), Sgt Westwood (age 22), Sgt Jackson (age 23), Fg Off Krish (age 26), F/Sgt Kennedy (age 20), and Sgt Redfern (age 23).",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "RAF Commands archive record for Flying Officer Sydney Rhys Jones and crew of Lancaster R5676, detailing aircraft breakdown mid-flight in 1943."
     },
     {
       "source_site": "Geograph",
@@ -49,7 +51,8 @@
       "summary": "Photograph and description of the memorial to the crew of Lancaster R5676 at Sturton by Stow, showing the stone memorial on the wall of Lancaster Farm.",
       "key_details": "Memorial is publicly visible on the roadside wall of the farm. The farm itself was renamed 'Lancaster Farm' in honour of the crew.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "View photograph and learn about the Lancaster R5676 crew memorial at Sturton by Stow."
     }
   ],
   "local_contacts": [
@@ -65,7 +68,7 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "flopping.velocity.deny",
+  "what3words": "verve.shadowing.fades",
   "photos": [
     {
       "filename": "sturton-by-stow-lancaster-r-5676/5cc01f8782609_Lancaster_Farm_1_547x410.jpg",
@@ -87,5 +90,87 @@
       "caption": "Jackie Gorman 03.04.2023",
       "credit": "Charles J Anderson / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1660 HCU",
+  "squadron_aliases": [
+    "1660 HCU"
+  ],
+  "narrative": "",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Kennedy (Bunny)",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "burial_location": "Thurlby (St. Germain) Churchyard",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "S. Hoy",
+      "rank": "unknown",
+      "fate": "Buried in hull eastern cemetery (with his brother)",
+      "role": "Unknown",
+      "burial_location": "Hull Eastern Cemetery",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Sydney Rhys Jones",
+      "rank": "Flying Officer (Pilot)",
+      "fate": "Killed",
+      "role": "Pilot",
+      "burial_location": "Thurlby (St. Germain)Churchyard",
+      "nationality": "British"
+    },
+    {
+      "name": "WT. Raeside",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "FM. Krish",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "J. Westwood",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "GW. Kennedy RCAF",
+      "rank": "Flying Officer (Observer)",
+      "fate": "Killed",
+      "role": "Observer",
+      "burial_location": "Thurlby (St. Germain)Churchyard",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "TH. Jackson",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "ER. Redfern",
+      "rank": "Leading Aircraftman",
+      "fate": "Killed",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Memorial Unveiling (2003-05-12): Commissioned by Jacqueline Gorman, designed and made by her son John Gorman. The memorial consists of an allegory of a Lancaster bomber inset into a railing on the top of the wall, below which is a blue laminated plate with white lettering.",
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

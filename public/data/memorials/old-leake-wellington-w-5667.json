@@ -1,80 +1,113 @@
 {
-    "id": "old-leake-wellington-w-5667",
-    "title": "Old Leake W.5667 Memorial",
-    "location_name": "Old Leake, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-020",
-    "crash_date": "1943-02-06",
-    "aircraft_type": "Wellington W.5667",
-    "squadron": "14 OTU",
-    "station": "Saltby",
-    "crew_summary": "5 killed including pilot WO Hugh Murray",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.23404817123929,
-    "longitude": -0.4005927048767325,
-    "maintainer": {
-        "organisation": "Old Leake Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "old-leake-wellington-w-5667",
+  "title": "Old Leake W.5667 Memorial",
+  "location_name": "Old Leake, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-020",
+  "crash_date": "1943-02-06",
+  "aircraft_type": "Wellington W.5667",
+  "squadron": "14 OTU",
+  "station": "Saltby",
+  "crew_summary": "5 killed \u2014 stall recovery failure at Grant's Farm, Old Leake Commonside. Only Sgt John Sykes named in available sources. Full crew list may be in National Archives AIR29/652 or Chorley Vol.7.",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-13",
+  "data_quality": "Partial",
+  "latitude": 53.03122,
+  "longitude": 0.09869,
+  "maintainer": {
+    "organisation": "Old Leake Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Bombercrew.com Forum",
+      "original_url": "https://100548.activeboard.com/t59855755/wellington-crash-at-old-leake-lincs-7-february-1943/",
+      "summary": "Forum discussion documenting the Wellington crash at Old Leake on 6-7 February 1943, with contributions from researchers and local historians providing details about the crew and circumstances.",
+      "key_details": [
+        "Crash date confirmed as February 1943",
+        "14 OTU unit confirmed",
+        "Five crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore forum discussion on Wellington crash at Old Leake in Feb 1943, featuring expert insights and historical context."
     },
-    "external_narratives": [
-        {
-            "source_site": "Bombercrew.com Forum",
-            "original_url": "https://100548.activeboard.com/t59855755/wellington-crash-at-old-leake-lincs-7-february-1943/",
-            "summary": "Forum discussion documenting the Wellington crash at Old Leake on 6-7 February 1943, with contributions from researchers and local historians providing details about the crew and circumstances.",
-            "key_details": [
-                "Crash date confirmed as February 1943",
-                "14 OTU unit confirmed",
-                "Five crew killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "yorkshire-aircraft.co.uk",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york41/w5667.html",
-            "summary": "Yorkshire Aircraft database entry for Wellington W5667, recording the aircraft's history including construction by Vickers Armstrongs at Weybridge, reception by 22 MU on 13 March 1941, and transfer to 14 OTU at Cottesmore on 6 November 1942 before its loss.",
-            "key_details": [
-                "Built by Vickers Armstrongs, Weybridge",
-                "Received by 22 MU on 13 March 1941",
-                "Transferred to 14 OTU Cottesmore 6 November 1942",
-                "Cat.E2/FA Burnt damage classification"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/7",
-            "summary": "Geograph article on East Anglia WW2 aircrew crash memorials including the Old Leake Wellington memorial, as part of a comprehensive survey of Lincolnshire bomber crash sites.",
-            "key_details": [
-                "Listed among Lincolnshire crash memorials survey"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Boston & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Old Leake Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "lovely.statement.according"
+    {
+      "source_site": "yorkshire-aircraft.co.uk",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york41/w5667.html",
+      "summary": "Yorkshire Aircraft database entry for Wellington W5667, recording the aircraft's history including construction by Vickers Armstrongs at Weybridge, reception by 22 MU on 13 March 1941, and transfer to 14 OTU at Cottesmore on 6 November 1942 before its loss.",
+      "key_details": [
+        "Built by Vickers Armstrongs, Weybridge",
+        "Received by 22 MU on 13 March 1941",
+        "Transferred to 14 OTU Cottesmore 6 November 1942",
+        "Cat.E2/FA Burnt damage classification"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the historical journey of the Wellington W5667 aircraft in this detailed Yorkshire Aircraft database entry."
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/7",
+      "summary": "Geograph article on East Anglia WW2 aircrew crash memorials including the Old Leake Wellington memorial, as part of a comprehensive survey of Lincolnshire bomber crash sites.",
+      "key_details": [
+        "Listed among Lincolnshire crash memorials survey"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Historical details about the Old Leake Wellington Memorial in this Geograph article on East Anglia WW2 aircrew crash memorials."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Boston & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Old Leake Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "finishing.tungsten.buzzer",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "14 OTU",
+  "squadron_aliases": [
+    "14 OTU"
+  ],
+  "narrative": "Wellington W5667, operating from Saltby with 14 OTU, was on a training flight on the morning of Sunday 6 February 1943 when the aircraft failed to recover from a stall, struck the ground at Grant's Farm, Old Leake Commonside, Lincolnshire, and burst into flames. Five of the crew were killed; Sgt Thomas Joseph Pugh survived. Among those who died was bomb-aimer Sgt John Sykes, who had trained in Canada and had become RCAF Table Tennis Champion there in late 1942. Also killed were Sgt Arthur Percy Gainsford of the Royal New Zealand Air Force and Sgt Patrick Clement Geary.",
+  "crew": [
+    {
+      "name": "John Sykes",
+      "rank": "Sergeant",
+      "role": "Bomb Aimer",
+      "fate": "Killed"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "data_notes": [
+    "Previous crew count of 14 was an aggregation error \u2014 combined 1941 operational crew (6) with 1943 crash crew.",
+    "Only Sgt John Sykes (bomb-aimer, trained in Canada) is named in publicly available sources.",
+    "5 fatalities confirmed. Full crew list not publicly available \u2014 National Archives AIR29/652 or Chorley Vol.7 may have it.",
+    "Date: yorkshire-aircraft.co.uk says 6 February, forum initially said 7th then corrected to 6th."
+  ],
+  "last_validated": "2026-04-13"
 }

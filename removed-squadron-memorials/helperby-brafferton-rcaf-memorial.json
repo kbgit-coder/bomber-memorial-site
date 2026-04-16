@@ -1,0 +1,64 @@
+{
+  "id": "helperby-brafferton-rcaf-memorial",
+  "title": "Helperby Brafferton RCAF Memorial",
+  "location_name": "Helperby Brafferton, North Yorkshire",
+  "county": "North Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "UK-NE",
+  "memorial_type": "Memorial",
+  "narrative": "",
+  "memorial_details": "",
+  "crew": [],
+  "crew_summary": "",
+  "photos": [],
+  "sources": [
+    {
+      "title": "Anthony Prowde (Sutton-on-the-Forest Village)",
+      "type": "Community contributor",
+      "date": "2026-04-09"
+    }
+  ],
+  "external_narratives": [],
+  "local_contacts": [
+    {
+      "org_name": "Sutton-on-the-Forest Village",
+      "org_type": "Community group",
+      "role": "Anthony Prowde — organises memorial service programme, RCAF liaison",
+      "email": "prowde@suttonontheforestvillage.org.uk"
+    }
+  ],
+  "additional_contributors": [
+    {
+      "name": "Anthony Prowde",
+      "role": "Local organiser — provided memorial details, photos from services, RCAF connections including 415 Squadron officers",
+      "date": "2026-04-09"
+    }
+  ],
+  "remembrance": {
+    "annual_service": true,
+    "service_description": "Part of the East Moor memorial programme. When RCAF representatives attend the annual service, additional events are organised including visits to Commonwealth War Graves near Harrogate and guided tours of Sutton Hall (wartime officers' mess). Three officers from 415 Squadron attended in 2025.",
+    "events": [
+      {
+        "name": "RCAF Memorial Visit — Helperby Brafferton",
+        "date": "May 2025",
+        "description": "Canadian officers from 415 Squadron visited as part of the East Moor memorial service programme"
+      }
+    ]
+  },
+  "contributor": "Keith Binley",
+  "data_quality": "Stub",
+  "last_updated": "2026-04-09",
+  "latitude": 54.135,
+  "longitude": -1.343,
+  "what3words": "",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-09",
+    "notes": "Village-level coordinates for Helperby Brafferton. Exact memorial position TBC from Anthony Prowde.",
+    "community_submissions": 0
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
+}

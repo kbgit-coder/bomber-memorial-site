@@ -30,174 +30,184 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
-  "narrative": "On the afternoon of 25 August 1942, Sunderland W4026 took off from the seaplane base at RAF Invergordon on the Cromarty Firth at 13:05, bound for Reykjavik, Iceland. On board was HRH Prince George, Duke of Kent -- the fourth son of King George V, younger brother of the reigning King George VI, and an Air Commodore on active RAF duty -- along with his private secretary and batman, and the Sunderland's crew led by the 228 Squadron CO, Wing Commander Moseley. Fog persisted and the aircraft, flying on instruments, veered off its planned flight path. Just 37 minutes after take-off, at 13:42, the Sunderland flew into Eagle's Rock (Creag na h-Iolaire), a headland near Dunbeath in Caithness. Fourteen of the fifteen on board were killed. The sole survivor was Flt Sgt Andrew Jack, the rear gunner, who was thrown clear. Confused, disorientated, and suffering from burns to his face and body, Jack wandered aimlessly in the mist before being discovered the following day by the Sutherland family at their remote croft at Rinsary. The Duke of Kent became the first member of the Royal Family killed on active service since 1453. A Royal Air Force Board of Inquiry attributed the crash to navigational error.",
+  "narrative": "On the afternoon of 25 August 1942, Sunderland W4026 took off from the seaplane base at RAF Invergordon on the Cromarty Firth at 13:05, bound for Reykjavik, Iceland. Fog persisted and the aircraft, flying on instruments, veered off its planned flight path. Just 37 minutes after take-off, at 13:42, the Sunderland flew into Eagle's Rock (Creag na h-Iolaire), a headland near Dunbeath in Caithness. Fourteen of the fifteen on board were killed. The sole survivor was Flt Sgt Andrew Jack, the rear gunner, who was thrown clear. Confused, disorientated, and suffering from burns to his face and body, Jack wandered aimlessly in the mist before being discovered the following day by the Sutherland family at their remote croft at Rinsary. The Duke of Kent became the first member of the Royal Family killed on active service since 1453. A Royal Air Force Board of Inquiry attributed the crash to navigational error.",
   "crew": [
     {
       "rank": "Flt Lt",
       "name": "Frank McKenzie Goyen",
-      "service_number": "42057 RAF",
       "role": "Captain/Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock. Blamed by the Board of Inquiry for the navigational error, though questions remain about whether he was actually at the controls or whether Wg Cdr Moseley was flying.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
       "bio": "An Australian pilot serving with the RAF, Goyen was the official captain of Sunderland W4026. The investigation blamed him for the navigational error, but it remains disputed whether he or Wg Cdr Moseley was at the controls.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "42057 RAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Wg Cdr",
       "name": "Thomas Lawton Moseley",
-      "service_number": "33064 RAF",
       "role": "CO 228 Sqn / 1st Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. As Commanding Officer of 228 Squadron, Moseley outranked Goyen and questions persist about who was actually flying the aircraft.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
       "bio": "Commanding Officer of 228 Squadron. His presence as a senior officer aboard raised questions about the chain of command during the fatal flight.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "33064 RAF",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "Sydney Wood Smith",
-      "service_number": "403961 RAAF",
       "role": "2nd Pilot",
-      "nationality": "Australian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "403961 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "P/O",
       "name": "George Richard Saunders",
-      "service_number": "126975 RAFVR",
       "role": "Navigator",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Responsible for the navigation that the Board of Inquiry found to be in error.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "126975 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "P/O",
       "name": "The Hon. Michael Strutt",
-      "service_number": "J15062 RCAF",
       "role": "Air Gunner",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
       "burial_location": "Oban (Pennyfuir) Cemetery",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "J15062 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Flt Sgt",
       "name": "William Royston Jones",
-      "service_number": "523047 RAF",
       "role": "Flight Mechanic/Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "523047 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Charles Norman Lewis",
-      "service_number": "517386 RAF",
       "role": "Airframe Fitter",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "517386 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Ernest James Hewerdine",
-      "service_number": "566884 RAF",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "566884 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Flt Sgt",
       "name": "Andrew Simpson Wilson Jack",
-      "service_number": "970168 RAFVR",
       "role": "Rear Air Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Sole survivor. Jack was manning the rear gun turret which was torn free on impact, throwing him clear. Burned and disorientated, he wandered the moor before being found by the Sutherland family at Rinsary croft the following day. He was forced to sign the Official Secrets Act and refused to discuss the accident for the rest of his life. He felt the injustice of the pilot being blamed deeply affected him. He died in 1978.",
       "bio": "Andrew Simpson Wilson Jack (1921-1978) was from Grangemouth, Scotland. He was 21 at the time of the crash. The sole survivor, he was haunted by survivor's guilt and the perceived injustice of the official findings for the rest of his life. He refused to discuss the crash until his death in 1978.",
       "hometown": "Grangemouth, Scotland",
-      "age": 21
+      "age": 21,
+      "service_number": "970168 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Edward Francis Blacklock",
-      "service_number": "405467 RNZAF",
       "role": "W/Op Air Gunner",
-      "nationality": "New Zealander",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "405467 RNZAF",
+      "nationality": "New Zealander"
     },
     {
       "rank": "Sgt",
       "name": "Arthur Rowland Catt",
-      "service_number": "1252994 RAFVR",
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1252994 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Leonard Edward Sweett",
-      "service_number": "570678 RAF",
       "role": "Fitter",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "570678 RAF",
+      "nationality": "British"
     },
     {
       "rank": "Air Cdre",
       "name": "HRH Prince George, Duke of Kent",
       "role": "VIP Passenger",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "The Duke of Kent became the first member of the Royal Family killed on active service since 1453. His body was initially interred in the Royal Vault of St George's Chapel, Windsor, before being reburied in the Royal Burial Ground, Frogmore in 1968.",
       "burial_location": "Royal Burial Ground, Frogmore, Windsor",
       "bio": "Prince George, Duke of Kent (1902-1942), was the fourth son of King George V and younger brother of King George VI. An Air Commodore on active service, he was 39 years old. He left behind his wife Princess Marina and three children, including Prince Michael of Kent.",
-      "age": 39
+      "age": 39,
+      "nationality": "British"
     },
     {
       "rank": "Lt",
       "name": "John Crowther",
-      "service_number": "RNVR",
       "role": "Private Secretary to Duke",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock while serving as the Duke of Kent's private secretary.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "service_number": "RNVR",
+      "nationality": "British"
     },
     {
       "rank": "LAC",
       "name": "John Walter Holes",
       "role": "Batman to Duke",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Eagle's Rock while serving as the Duke of Kent's batman (personal attendant).",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
+    },
+    {
+      "name": "J. W. Hales",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. A. Lowther",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Navigational error leading to controlled flight into terrain in fog",
   "operation_type": "Ferry/VIP transport",
-  "memorial_details": "Two memorials were erected in 1946 by the Ministry of Works. The primary monument is a Latin cross set on a tapering plinth and step, bearing the names of all fourteen who died. A secondary marker to the north denotes where the Duke of Kent's remains were discovered. The memorials are located between Berriedale and Braemore, approximately 3 miles west of Borgue and 4 miles SW of Dunbeath. Access is on foot across moorland.",
-  "latitude": 57.36615025722391,
-  "longitude": -5.121957111034671,
+  "memorial_details": "Latin cross set on a tapering plinth and step with the inscription on the 6o'clock face and the names on the 3o'clock.\n\nThe memorial was not established through a specific community connection story, but rather as a tribute to those lost during this period.",
+  "latitude": 58.249,
+  "longitude": -3.43,
   "external_narratives": [
     {
       "source_site": "Wikipedia",
@@ -210,7 +220,8 @@
         "Sole survivor Flt Sgt Andrew Jack, rear gunner"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Dunbeath Mk.III Memorial and tragic air crash involving Prince George, Duke of Kent."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -222,7 +233,8 @@
         "Erected 1946 by Ministry of Works"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Imperial War Museums register entry for Dunbeath Mk.III Memorial honoring Duke of Kent and Sunderland W4026 crew."
     },
     {
       "source_site": "Aircrew Remembered",
@@ -236,7 +248,7 @@
       ],
       "date_retrieved": "2026-03-24",
       "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. Mysterious Crash With HRH Duke of Kent Onboard The Dunbeath air crash - more commonly referred to as The Eagle's Rock Crash - involved the loss of Sunderland Mk III W4026 of 228 Squadron (Coastal Command) that crashed in the Scottish Highlands on a headland known as Eagle's Rock (Creag na h-Iolaire) near Dunbeath, Caithness on 25th August 1942. The crash killed 14 of 15 passengers and crew, including Prince George, Duke of Kent, who was on duty as an Air Commodore in the Royal Air Force on a mission to Reykjavik; a message of condolence was proposed in Parliament by the British Prime Minister. A Royal Air Force Board of Inquiry determined that the crash was the result of a navigational error by the crew. But to many this looked like a whitewash.\n\nThe Sunderland had not long taken off from its base at 228 Squadron (Coastal Command) in the Cromarty Firth. The crash had ignited the aircraft's newly topped-up fuel tanks and the subsequent fireball had virtually destroyed everything. Such incidents were apparently not rare. The North Highlands, with its mountainous terrain and challenging weather systems, had claimed numerous other victims during the war years. What singled out this accident, above all others, was the the death of HRH the Duke of Kent.\n\nThe aircraft and crew were assigned a VIP transport mission to RAF Reykjavik, specifically to transport Prince George, Duke of Kent to Iceland. The aircraft departed from a seaplane base at RAF Invergordon on the Cromarty Firth at 13:05 GMT on Sunday 25th August 1942 into foggy weather. The Sunderland (flying on instruments) veered off its flight plan track and crashed into the remote Eagle's Rock at 13:42 GMT. The official board of inquiry concluded that the plane crashed into the hillside due to an error of navigation; i.e. there was not enough allowance made for wind that caused the aircraft to drift off its planned track up the eastern coast of Scotland. Fourteen of the fifteen crew and passengers, including HRH The Duke of Kent, perished in the crash.\n\nOn the day of the crash, the aircraft had taken off from the Cromarty Firth at Invergordon, and then flown up the coast. The flight plan was for the aircraft to fly parallel with the east coast of Sutherland and Caithness until it reached Duncansby Head, where it would turn north west and head directly for Iceland.\n\nTake-off: RAF Invergordon - Planned turn point: Duncansby Head - Crash Site: Eagle's Rock\n\nIt remains a mystery why the aircraft turned inland when it did, and it is a still greater mystery why it had descended to 700ft by the time it struck the ground. The crew on board was hand-picked and highly unlikely to make a navigational error of the scale necessary to suggest they simply turned north west too early. And while there was patchy cloud around, visibility ought to have been sufficient for the crew to see they were flying into hills.\n\nOnce described by Prime Minister Winston Churchill as a ‘gallant and handsome prince’, George Edward Alexander Edmund, the popular Duke of Kent, was the youngest brother of the reigning monarch, King George VI. Fifth in line to the throne, the duke had much to live for; he and his wife, Princess Marina, had just celebrated the birth of their son, Michael, only seven weeks previously. In his position as an air commodore he had responsibility of the welfare of RAF personnel and, as the inscription on the memorial at Eagle's Rock records, he was killed on a ‘special mission’.\n\nSir Archibald Sinclair, then Secretary for Air, reported to the House of Commons the official investigations had revealed: ‘First, that the accident had occurred because the aircraft was flown on a track other than that indicated on the flight plan given to the pilot and at too low an altitude to clear the rising ground on the track; secondly, that the responsibility for this serious mistake in airmanship lies with the captain of the aircraft; thirdly, that the weather encountered should have presented no difficulties to an experienced pilot; fourthly, that the examination of the propellers showed that the engines were under power when the aircraft struck the ground; and fifthly, that all the occupants of the aircraft were on duty at the time of the accident.’\n\nHowever, a number of issues remained unresolved. The flight crew were all hand-picked and vastly experienced aviators."
+      "link_description": "Explore the detailed account of the Eagle's Rock crash on this Memorial page."
     },
     {
       "source_site": "Undiscovered Scotland",
@@ -248,7 +260,8 @@
         "Access on foot across moorland"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore Eagle's Rock Memorial: Discover remote Caithness site via moorland trek from Berriedale to Braemore."
     }
   ],
   "local_contacts": [
@@ -261,7 +274,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/228.jpg",
   "squadron_motto": "We seek far",
-  "what3words": "proudest.curls.crumble",
+  "what3words": "unscathed.enhanced.blown",
   "photos": [
     {
       "filename": "dunbeath-short-sunderland-mk-/short-sunderlandlll-w800-w800.jpg",
@@ -283,5 +296,34 @@
       "caption": "eagles rock memorial sunderland w4026",
       "credit": "Aircrew Remembered"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "228 Squadron RAF",
+  "squadron_aliases": [
+    "228 Squadron, Coastal Command",
+    "228 Squadron , Coastal Command",
+    "228 Sqdn.",
+    "228 Squadron"
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Eagles Rock - Duke of Kent (Short Sunderland Flying Boat W4026 Air Crash)",
+        "date": null,
+        "description": "A memorial commemorating the air crash of a Short Sunderland Flying Boat (W4026) carrying the Duke of Kent and other personnel. The incident occurred near Eagles Rock, about 3 miles west of Borgue, and 4 miles SW of Dunbeath in Caithness, Scotland during World War II."
+      }
+    ]
+  },
+  "community_connection": "",
+  "crash_category": "weather",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/106/493/6051_anon_4_january_2021.jpg"
   ]
 }

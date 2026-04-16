@@ -1,45 +1,107 @@
 {
-    "id": "canberra-bomber-command-memorial",
-    "title": "Bomber Command Memorial, Canberra",
-    "location_name": "Canberra, ACT",
-    "country": "Australia",
-    "narrative": "Australia's national memorial to the thousands of Australians who served in Bomber Command. Over 3,000 Australians died serving with Bomber Command.",
-    "memorial_type": "National memorial",
-    "data_quality": "Stub",
-    "contributor": "Charlie Leitheiser",
-    "last_updated": "2026-03-21",
-    "sources": [
-        {
-            "title": "Charlie Leitheiser hackathon research",
-            "type": "personal_research"
-        }
+  "id": "canberra-bomber-command-memorial",
+  "title": "Bomber Command Memorial, Canberra",
+  "location_name": "Canberra, ACT",
+  "country": "Australia",
+  "narrative": "",
+  "memorial_type": "National memorial",
+  "data_quality": "Light",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": -35.2799,
+  "longitude": 149.1468,
+  "external_narratives": [
+    {
+      "source_site": "Bomber Command Commemorative Day Foundation",
+      "original_url": "https://bccdf.org.au/",
+      "summary": "The Bomber Command Commemorative Day Foundation organises the annual memorial service at the Australian War Memorial in Canberra. The first ceremony was held in 2008 and it has become one of the most well-attended commemorative events at the AWM, second only to ANZAC Day and Remembrance Day.",
+      "key_details": [
+        "First ceremony held 2008",
+        "One of most attended events at AWM",
+        "Over 4,000 Australian aircrew lost in Bomber Command"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Attend an annual memorial service honoring Bomber Command's fallen heroes at Australia's War Memorial."
+    },
+    {
+      "source_site": "Australian War Memorial",
+      "original_url": "https://www.awm.gov.au/commemoration/speeches/bomber-command-service",
+      "summary": "The Australian War Memorial hosts the annual Bomber Command Memorial Service in honour of the thousands of Australians who served with Bomber Command during World War II. Over 3,000 Australians died and one in five of Australia's combat deaths were in Bomber Command.",
+      "key_details": [
+        "Located in Western Sculpture Garden at AWM",
+        "Lancaster 'G for George' (460 Squadron, 90+ missions) displayed as centrepiece"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Attend the annual Bomber Command Memorial Service at Australian War Memorial for honoring fallen service members."
+    }
+  ],
+  "what3words": "cliff.types.laws",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Annual Bomber Command Memorial Service",
+        "date": "5th of June 2022",
+        "description": "Address given by Mr Matt Anderson PSM, Director, Australian War Memorial. Honouring the life and loss of Flying Officer Jack Pierce HUTCHINSON, DFC, 626 Squadron RAF Wickenby, who was killed in action on 25 February 1944. Acknowledging the 80th anniversary of RAAF Squadrons operating within Bomber Command as individual squadrons."
+      },
+      {
+        "name": "Last Post Ceremony",
+        "date": "25 February 1944",
+        "description": "Honouring the life and loss of Flying Officer Jack Pierce HUTCHINSON, DFC, 626 Squadron RAF Wickenby."
+      },
+      {
+        "name": "Bomber Command Commemorative Wreath-laying Ceremony",
+        "date": "2026-06-07T11:00:00",
+        "description": "A ceremony to pay tribute to RAAF aircrew and ground staff who made the supreme sacrifice, and all those who served in Bomber Command during the 1939 \u2013 1945 conflict."
+      },
+      {
+        "name": "Dinner at the Officers\u2019 Mess Australian Defence Force Academy",
+        "date": "2026-06-06T18:00:00",
+        "description": "A dinner event held at the Australian Defence Force Academy."
+      }
     ],
-    "latitude": -35.28,
-    "longitude": 149.13,
-    "external_narratives": [
-        {
-            "source_site": "Bomber Command Commemorative Day Foundation",
-            "original_url": "https://bccdf.org.au/",
-            "summary": "The Bomber Command Commemorative Day Foundation organises the annual memorial service at the Australian War Memorial in Canberra. The first ceremony was held in 2008 and it has become one of the most well-attended commemorative events at the AWM, second only to ANZAC Day and Remembrance Day.",
-            "key_details": [
-                "First ceremony held 2008",
-                "One of most attended events at AWM",
-                "Over 4,000 Australian aircrew lost in Bomber Command"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Australian War Memorial",
-            "original_url": "https://www.awm.gov.au/commemoration/speeches/bomber-command-service",
-            "summary": "The Australian War Memorial hosts the annual Bomber Command Memorial Service in honour of the thousands of Australians who served with Bomber Command during World War II. Over 3,000 Australians died and one in five of Australia's combat deaths were in Bomber Command.",
-            "key_details": [
-                "Located in Western Sculpture Garden at AWM",
-                "Lancaster 'G for George' (460 Squadron, 90+ missions) displayed as centrepiece"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "what3words": "casual.dangers.disbelieving"
+    "annual_service": true,
+    "service_date": "05 June"
+  },
+  "crew": [
+    {
+      "name": "Frederic Walker",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Stanley Abbott",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Terrence Dent",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bevil Glover",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "general-memorial",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
 }

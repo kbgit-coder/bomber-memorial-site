@@ -1,0 +1,173 @@
+{
+  "id": "moordown-jp137",
+  "title": "Moordown Halifax Memorial",
+  "location_name": "Moordown, Bournemouth, Dorset",
+  "county": "Dorset",
+  "country": "United Kingdom",
+  "region_code": "SE-005",
+  "crash_date": "1944-03-21",
+  "aircraft_type": "Halifax",
+  "serial_number": "JP137",
+  "squadron": "No. 3 Overseas Aircraft Dispatch Unit",
+  "station": "Hurn",
+  "crew_summary": "7 aircrew killed; 2 civilians killed; 4 cottages destroyed",
+  "memorial_type": "Dedicated memorial stone",
+  "dedication_date": "10/07/2011",
+  "sources": [
+    {
+      "title": "warmemorialsonline.org.uk (memorial/255340); IWM (memorial/66526); jp137.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 50.75389166644557,
+  "longitude": -1.8713726813737561,
+  "maintainer": {
+    "organisation": "Bournemouth, Christchurch and Poole Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "jp137.com",
+      "original_url": "https://www.jp137.com/",
+      "summary": "Dedicated memorial website for Halifax JP137. The aircraft took off from Hurn Aerodrome shortly after 0100 on 21 March 1944 and experienced a serious engine malfunction within the first few minutes of flight. The pilot, 20-year-old Denis Evans, turned to head back following Wimborne Road while flying precariously low. Official reports blamed the pilot, but it is now believed a known Halifax design issue was the primary cause.",
+      "key_details": [
+        "Pilot was 20-year-old Denis Evans",
+        "Known Halifax design fault now believed to be cause",
+        "Official report blamed pilot despite eyewitness accounts of engine failure",
+        "Dedicated memorial website maintained"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore dedicated Halifax JP137 memorial website at jp137.com honoring tragic air disaster."
+    },
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/Moordown_air_disaster",
+      "summary": "Wikipedia article on the Moordown air disaster of 21 March 1944, documenting the crash of Halifax JP137 into the Bournemouth suburb, the loss of seven aircrew and two civilians, and the destruction of four cottages.",
+      "key_details": [
+        "Event has its own Wikipedia article",
+        "Two civilians killed in addition to seven aircrew",
+        "Four cottages destroyed on impact"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Details about the Moordown Halifax Memorial commemorating tragic air disaster victims."
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/255340",
+      "summary": "War Memorials Online entry for the Moordown Halifax Bomber Crash memorial, unveiled and dedicated on 10 July 2011 in memory of the nine people who lost their lives.",
+      "key_details": [
+        "WMO reference 255340",
+        "Memorial dedicated 10 July 2011"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The unveiling of Moordown Halifax Memorial: honoring nine victims from 2011 bomber crash dedication."
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/66526",
+      "summary": "IWM War Memorials Register entry for the Halifax JP137 memorial at Moordown, Bournemouth.",
+      "key_details": [
+        "IWM memorial reference 66526"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Halifax JP137 Memorial's history and significance in Moordown, Bournemouth on this comprehensive Imperial War Museums page."
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/89576/Memorial-Crash-Halifax-JP-137.htm",
+      "summary": "International heritage database entry for the Halifax JP137 crash memorial at Moordown with photographs and location coordinates.",
+      "key_details": [
+        "Documented on international war heritage database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "Explore Halifax JP137 Crash Memorial's detailed photographic record and precise location data on TracesOfWar.com."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Dorchester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/dorset/"
+    },
+    {
+      "org_name": "Bournemouth, Christchurch and Poole Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "echo.neon.fixed",
+  "photos": [
+    {
+      "filename": "moordown-jp137/5a2b04efce2c6_Moordown_Halifax_547x410.jpg",
+      "caption": "5a2b04efce2c6 Moordown Halifax 547x410",
+      "credit": "Chris Downer (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "No. 3 Overseas Aircraft Dispatch Unit",
+  "squadron_aliases": [
+    "No. 3 Overseas Aircraft Dispatch Unit"
+  ],
+  "crew": [
+    {
+      "name": "George A Alexander",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Stanley A Appleton",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Denis R Evans",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Stanley F Gent",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Kenneth Green",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Reginald R Mcgregor",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Henry W Roberts",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Name: Handley Page Halifax JP137\nType: Stone of remembrance\nDescription: Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.\nInscription: MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ [crew names inscribed on memorial]/ 'LEST WE FORGET'/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.\nLocation: Wimborne Road Moordown Bournemouth Dorset BH9 2BU England\nGrid Ref: SZ 09055 95223\nCoordinates: 50.756537502895,-1.872981603635\nPhotos: https://media.iwm.org.uk/ciim5/memorials/10/203/moordown_halifax_memorial_croger_shore.jpg; https://media.iwm.org.uk/ciim5/memorials/40/446/large_66526_mark_newton__3_march_2016.jpg\n\nThe memorial is a stone of remembrance with lettering inscribed on a plaque.\n\nMemorial Unveiling (3 March 2016): Unveiling of the Handley Page Halifax JP137 memorial by Mark Newton.",
+  "narrative": "Halifax JP137, operating from Hurn with No. 3 Overseas Aircraft Dispatch Unit, came down over the residential district of Moordown, Bournemouth, on 21 March 1944. All seven aircrew aboard were killed: George Alexander, Stanley Appleton, Denis Evans, Stanley Gent, Kenneth Green, Reginald Mcgregor, and Henry Roberts. The aircraft struck the surrounding area with devastating force, destroying four cottages and claiming the lives of two local civilians. Nine people in total died as a result of the crash. A memorial at Moordown was dedicated in 2011 to honour all nine victims.",
+  "inscription": "MOORDOWN\nHALIFAX MEMORIAL\nIN MEMORY OF THE TWO LOCAL RESIDENTS\nAND SEVEN AIRCREW WHO LOST THEIR LIVES\nIN THE CAUSE OF FREEDOM\nWHEN RAF HALIFAX BOMBER JP 137 CRASHED\nAT THIS LOCATION ON 21st MARCH 1944.\n[crew names inscribed on memorial]\n'LEST WE FORGET'\nORGANISED BY THE MOORTOWN 2010 COMMITTEE\nAS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "Organised by the Moortown 2010 Committee as a contribution to the Bicentenary of Bournemouth.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
+}

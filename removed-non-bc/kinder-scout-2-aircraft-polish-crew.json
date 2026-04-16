@@ -1,0 +1,286 @@
+{
+  "id": "kinder-scout-2-aircraft-polish-crew",
+  "title": "Kinder Scout (2) Avro Anson Memorial",
+  "location_name": "Kinder Scout (2), Peak District (Derbyshire / South Pennines)",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "region_code": "PD-006",
+  "crash_date": "1944-12-11",
+  "aircraft_type": "Avro Anson Mk.I",
+  "serial_number": "N9853",
+  "squadron": "No. 16 Flying Training School",
+  "station": "RAF Newton",
+  "crew_summary": "All survived; Flt Lt Chelstowski and crew received minor injuries",
+  "memorial_type": "Crash site marker; engine and panels remain",
+  "sources": [
+    {
+      "title": "Peak District Air Accident Research",
+      "url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/peak-district/avro-anson-n9853-edale-moor/",
+      "type": "website"
+    },
+    {
+      "title": "Air Crash Sites UK",
+      "url": "https://aircrashsites.co.uk/air-crash-sites-5/avro-anson-n9853-kinder-scout-2/",
+      "type": "website"
+    },
+    {
+      "title": "Aviation Safety Network",
+      "url": "https://asn.flightsafety.org/wikibase/wiki.php?id=144774",
+      "type": "database"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Good",
+  "narrative": "On a training flight in December 1944, Avro Anson Mk.I N9853 from No. 16 Flying Training School at RAF Newton came to grief on the snow-covered slopes of Kinder Scout in the Peak District. Flight Lieutenant Aleksander Chelstowski descended below cloud in poor visibility, misjudging his position over the high moorland and striking the snow-covered ground. The aircraft, crewed entirely by Polish airmen, was on a routine training exercise rather than an operational mission. Remarkably, all crew members survived the impact, with Flight Lieutenant Chelstowski and those aboard sustaining only minor injuries.",
+  "crew": [
+    {
+      "rank": "Flt Lt",
+      "name": "Aleksander Chelstowski",
+      "role": "Pilot",
+      "fate": "Survived",
+      "fate_detail": "Survived with minor injuries. Found guilty of gross negligence by the subsequent inquiry, but went on to be decorated four times during the remainder of the war.",
+      "bio": "An experienced Polish pilot serving with the RAF. Despite being found guilty of gross negligence for this crash and his CO recommending he never fly again, Chelstowski went on to have a distinguished career and was decorated four times.",
+      "nationality": "Polish"
+    },
+    {
+      "rank": "Unknown",
+      "name": "Second crew member (name not recorded in available sources)",
+      "role": "Crew",
+      "fate": "Survived",
+      "fate_detail": "Survived with minor injuries. Treated at RAF Hospital Wilmslow.",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Stefan Pasinski",
+      "rank": "Sergeant",
+      "fate": "Unknown",
+      "role": "Wireless Operator",
+      "nationality": "Polish"
+    },
+    {
+      "name": "Melcinski",
+      "rank": "Flight Lieutenant",
+      "fate": "Unknown",
+      "role": "passenger",
+      "nationality": "Polish"
+    }
+  ],
+  "cause_of_loss": "Pilot descended below cloud in poor visibility and struck snow-covered moor; navigational error",
+  "operation_type": "Training",
+  "memorial_details": "Engine and panel remains are still visible at the crash site on Edale Moor, Kinder Scout. The site is accessible to experienced fell walkers via routes from Edale. An RAF recovery team cleaned up some wreckage in 1955 at the request of the Peak District National Park Authority.",
+  "latitude": 53.394,
+  "longitude": -1.874,
+  "maintainer": {
+    "organisation": "Peak District National Park Authority",
+    "website": "https://www.peakdistrict.gov.uk",
+    "maintainer_type": "national-park"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Air Crash Sites UK",
+      "original_url": "https://aircrashsites.co.uk/air-crash-sites-5/avro-anson-n9853-kinder-scout-2/",
+      "summary": "Research indicates this relates to an Avro Anson crash on Kinder Scout involving Polish crew from a flying exercise on 11 December 1944. Flt Lt Aleksander Chelstowski took off from RAF Newton near Nottingham but became lost in low cloud. He descended below the cloud but struck the snow-covered moor. All crew survived the crash.",
+      "key_details": [
+        "Aircraft was an Avro Anson Mk.I, serial N9853",
+        "Departed RAF Newton near Nottingham",
+        "All crew survived",
+        "Chelstowski found guilty of gross negligence but later decorated four times"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Details about an Avro Anson crash site on Kinder Scout in 1944 involving Polish crew members."
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/peak-district/avro-anson-n9853-edale-moor/",
+      "summary": "Crash database entry for Avro Anson N9853 on Edale Moor, Kinder Scout. Unit: No. 16 FTS, RAF Newton. Four of those onboard received minor injuries. After treatment at RAF Hospital Wilmslow they were returned to Newton.",
+      "key_details": [
+        "Unit: No. 16 Flying Training School",
+        "Flying from RAF Newton to Millom",
+        "Four occupants received minor injuries",
+        "Treated at RAF Hospital Wilmslow"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Avro Anson N9853 crash details on Kinder Scout from Peak District Air Accident Research."
+    },
+    {
+      "source_site": "Military Aircraft Crash Sites",
+      "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/peak-district.html",
+      "summary": "Comprehensive listing of Peak District aircraft crash sites including the Kinder Scout Polish crew incident. The blog documents engine and panel remains still visible at the site and provides grid references for walkers.",
+      "key_details": [
+        "Engine and panels remain at crash site",
+        "Grid references provided for walkers"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed accounts of Avro Anson aircraft crashes in Kinder Scout area."
+    }
+  ],
+  "what3words": "wanderers.expropriate.spiders",
+  "local_contacts": [
+    {
+      "org_name": "Hayfield Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "No. 16 Flying Training School",
+  "squadron_aliases": [
+    "No. 16 Flying Training School"
+  ],
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Wotold Siuda",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Jan LKlimczak",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "Darnaby",
+      "rank": null
+    },
+    {
+      "name": "Landon",
+      "rank": null
+    },
+    {
+      "name": "Harry Stroud\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Co",
+      "rank": null
+    },
+    {
+      "name": "Staff Sergeant Gene",
+      "rank": null
+    },
+    {
+      "name": "Kennington John Hythe Harris",
+      "rank": null
+    },
+    {
+      "name": "First Class William",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Jack Sherwood Thompson",
+      "rank": null
+    },
+    {
+      "name": "Peter Maurice Maskell",
+      "rank": null
+    },
+    {
+      "name": "Flight Sergeant Robert Smith",
+      "rank": null
+    },
+    {
+      "name": "Vincent Graham",
+      "rank": null
+    },
+    {
+      "name": "Thomas Lowerth Johnson",
+      "rank": null
+    },
+    {
+      "name": "Earl Tilley",
+      "rank": null
+    },
+    {
+      "name": "Percival Harold Charles Parrott",
+      "rank": null
+    },
+    {
+      "name": "Joseph Arthur Haswell\u00a0 Pilot",
+      "rank": null
+    },
+    {
+      "name": "Jack Douglas Evelle\u00a0 Nav",
+      "rank": null
+    },
+    {
+      "name": "Frederick Kenneth Webber",
+      "rank": null
+    },
+    {
+      "name": "Sgt Dennis Aloysius Monk",
+      "rank": null
+    },
+    {
+      "name": "Sgt Evelle",
+      "rank": null
+    },
+    {
+      "name": "Fredrick",
+      "rank": null
+    },
+    {
+      "name": "Allen",
+      "rank": null
+    },
+    {
+      "name": "Chadwick",
+      "rank": null
+    },
+    {
+      "name": "Howard Keel Photographic Advisor",
+      "rank": null
+    },
+    {
+      "name": "George Ingram",
+      "rank": null
+    },
+    {
+      "name": "David Merryweather Leach",
+      "rank": null
+    },
+    {
+      "name": "Hauxwell",
+      "rank": null
+    },
+    {
+      "name": "Anthony",
+      "rank": null
+    },
+    {
+      "name": "Williams",
+      "rank": null
+    },
+    {
+      "name": "Jacob Henry Roden",
+      "rank": null
+    },
+    {
+      "name": "Thomas William Rodgers",
+      "rank": null
+    },
+    {
+      "name": "Adam Wladyslaw Mecinski",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Witold Ludwik Suida",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Jan Zygmunt Kilmczak",
+      "rank": "Flying Officer"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 38 to 4. 34 additional names from station/OTU roll of honour moved to station_roll_names."
+}

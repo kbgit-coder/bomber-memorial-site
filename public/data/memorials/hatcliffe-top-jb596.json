@@ -1,84 +1,166 @@
 {
-    "id": "hatcliffe-top-jb596",
-    "title": "Hatcliffe Top Lancaster Memorial",
-    "location_name": "Hatcliffe Top, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-012",
-    "crash_date": "1943-12-17",
-    "aircraft_type": "Lancaster",
-    "serial_number": "JB596",
-    "squadron": "100 Sqdn.",
-    "station": "Grimsby",
-    "crew_summary": "4 killed; pilot Flg Off. Robert Laval Proudfoot",
-    "memorial_type": "Memorial plaque",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.26383070885704,
-    "longitude": -0.17243849310908513,
-    "maintainer": {
-        "organisation": "Hatcliffe Parish Meeting",
-        "maintainer_type": "parish-council"
+  "id": "hatcliffe-top-jb596",
+  "title": "Hatcliffe Top Lancaster Memorial",
+  "location_name": "Hatcliffe Top, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-012",
+  "crash_date": "1943-12-17",
+  "aircraft_type": "Lancaster",
+  "serial_number": "JB596",
+  "squadron": "100 Sqdn.",
+  "station": "Grimsby",
+  "crew_summary": "4 killed; pilot Flg Off. Robert Laval Proudfoot",
+  "memorial_type": "Memorial plaque",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.4981343,
+  "longitude": -0.1493446,
+  "maintainer": {
+    "organisation": "Hatcliffe Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/51672",
+      "summary": "The IWM register lists this memorial as commemorating Lancaster JB596 of 100 Squadron. The crash occurred on 17 December 1943, part of the notorious 'Black Thursday' Berlin raid when thick fog caused heavy losses among returning crews.",
+      "key_details": [
+        "IWM memorial reference 51672",
+        "Part of Black Thursday losses 16-17 December 1943",
+        "25 Lancasters lost on Berlin operation plus 31 more on return due to fog"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Memorial: Hatcliffe Top Lancaster Memorial dedicated to fallen WWII aviator."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/51672",
-            "summary": "The IWM register lists this memorial as commemorating Lancaster JB596 of 100 Squadron. The crash occurred on 17 December 1943, part of the notorious 'Black Thursday' Berlin raid when thick fog caused heavy losses among returning crews.",
-            "key_details": [
-                "IWM memorial reference 51672",
-                "Part of Black Thursday losses 16-17 December 1943",
-                "25 Lancasters lost on Berlin operation plus 31 more on return due to fog"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/6513949",
-            "summary": "Photographic record of the memorial stone at Hatcliffe Top showing it incorporates a piece of the aircraft's skin and relics from the crash. The Lancaster hit a tree close to the memorial site and crashed into the pine trees behind.",
-            "key_details": [
-                "Memorial incorporates aircraft skin fragment",
-                "Aircraft hit treetop before crashing into pine plantation"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "CWGC",
-            "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
-            "summary": "CWGC records confirm crew details for the Black Thursday losses. The pilot Flg Off. Robert Laval Proudfoot was aged 24. Four crew were killed (Proudfoot, Sgt Sidney David Viggers aged 19, Sgt John Bamford aged 23, Sgt Bernard Heaton aged 21) while three crew survived with serious injuries. A farm worker was severely burned rescuing survivors from the blaze.",
-            "key_details": [
-                "Pilot aged 24",
-                "Three crew survived with serious injuries",
-                "Farm worker burned during rescue attempt",
-                "Flight engineer Viggers was only 19"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Great Grimsby Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Hatcliffe Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/100.jpg",
-    "squadron_motto": "Sarang tebuan jangan dijolok",
-    "what3words": "unopposed.segmented.scarf"
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6513949",
+      "summary": "Photographic record of the memorial stone at Hatcliffe Top showing it incorporates a piece of the aircraft's skin and relics from the crash. The Lancaster hit a tree close to the memorial site and crashed into the pine trees behind.",
+      "key_details": [
+        "Memorial incorporates aircraft skin fragment",
+        "Aircraft hit treetop before crashing into pine plantation"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore photographic documentation of a Lancaster Memorial at Hatcliffe Top in Lancaster, featuring an aircraft skin fragment and crash remnants."
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
+      "summary": "CWGC records confirm crew details for the Black Thursday losses. The pilot Flg Off. Robert Laval Proudfoot was aged 24. Four crew were killed (Proudfoot, Sgt Sidney David Viggers aged 19, Sgt John Bamford aged 23, Sgt Bernard Heaton aged 21) while three crew survived with serious injuries. A farm worker was severely burned rescuing survivors from the blaze.",
+      "key_details": [
+        "Pilot aged 24",
+        "Three crew survived with serious injuries",
+        "Farm worker burned during rescue attempt",
+        "Flight engineer Viggers was only 19"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "CWGC records detailing Memorial: Hatcliffe Top Lancaster's crew fatalities on Black Thursday."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Grimsby Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Hatcliffe Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/100.jpg",
+  "squadron_motto": "Sarang tebuan jangan dijolok",
+  "what3words": "subsets.laminate.punks",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "100 Squadron RAF",
+  "squadron_aliases": [
+    "100 Sqdn.",
+    "100 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "J. Bamford",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "B. Heaton",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "L. Noyes",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "B. Phillips",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "R. L. Proudfoot",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "F. H. Taylor",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "S. D. Viggers",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Unknown",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Edward Platt",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Navigator",
+      "age": 29,
+      "burial_location": "BURY CEMETERY, REDVALES",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Memorial in the form of a grave with rectangular stone of Remembrance at head and kerb stones bordering the area. Two dedicatory plaques placed on the stone and one at the foot of the kerbstones. Names of the dead marked with a cross and the injured with an asterisk. Coloure Crest of 100 Squadron at top and silhouette of a Lancaster Bomber at centre.\n\nMemorial Unveiling: The unveiling of the Avro Lancaster JB596 memorial.",
+  "narrative": "On the night of the 23rd August 1943, Edward Platt was again the navigator on Halifax BB373 which took off from Breighton at 20:12 hours, detailed to bomb Berlin. On return from the mission, Flt Sgt Bell, along with Flying Officer Keirl piloting Halifax JB874 of the same squadron, were instructed to divert to RAF Leconfield near Beverley due to poor weather at Breighton. The accident record card for the aircraft states that 'Leconfield, unable to deal with these aircraft, diverted them to Hutton Cranswick and the aircraft collided shortly afterwards and crashed'.",
+  "inscription": "PLAQUE ONE: REMEMBERING THE CREW OF AVRO LANCASTER MKIII\nJB 596 HW - H - 100 SQDN\nCRASHED ON THIS SITE\nDEC 17TH 1943 ON RETURN\nFROM BERLIN\n[crew names inscribed on memorial] PLAQUE TWO: NOW HARVESTS OF GOLD CORN HERE ARE GATHERED\nNO SWORDS NOW BUT PLOUGHSHARES INSTEAD\nAND THE TREES OF PINE STAND SENTINAL (SIC)\nOVER THE FIELD WHER LIFESBLOOD WAS SHED\nKATHYRYN REID A.L.A.M. (HONS)\n PLAQUE THREE: PRAY PAUSE BY THIS MEMORIAL\nAND BEFORE YOU GO\nREMEMBER\nTHE DEBT TO BRAVE BOMBER COMMAND AIRMENT\nWE WILL FOREVER OWE\nKR & RS",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "The Avro Lancaster JB596 memorial was created and shared by Dougster G and dd.",
+  "crash_category": "operational-return",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/127/662/large_51672a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/103/94/large_hatcliff_top_1.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/103/95/large_hatcliff_top_3.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/103/104/large_hatcliff_top_9.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/103/105/large_hatcliff_top_8.jpg"
+  ]
 }

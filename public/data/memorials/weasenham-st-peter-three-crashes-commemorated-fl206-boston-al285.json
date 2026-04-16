@@ -1,106 +1,231 @@
 {
-    "id": "weasenham-st-peter-three-crashes-commemorated-fl206-boston-al285",
-    "title": "Weasenham St. Peter (three crashes commemorated) Mitchell Memorial",
-    "location_name": "Weasenham St. Peter (three crashes commemorated), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-024",
-    "crash_date": "1942-1943",
-    "aircraft_type": "Blenheim L.8800 / Mitchell",
-    "serial_number": "FL206 / Boston AL285",
-    "squadron": "114 Sqdn West Raynham / 98 Sqdn / 342 (Lorraine) Sqdn",
-    "crew_summary": "Multiple crews killed",
-    "memorial_type": "Memorial stones",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.71973547233028,
-    "longitude": 0.8771965807151378,
-    "maintainer": {
-        "organisation": "Weasenham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "weasenham-st-peter-three-crashes-commemorated-fl206-boston-al285",
+  "title": "Weasenham St. Peter (three crashes commemorated) Mitchell Memorial",
+  "location_name": "Weasenham St. Peter (three crashes commemorated), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-024",
+  "crash_date": "1942-1943",
+  "aircraft_type": "Blenheim L.8800 / Mitchell",
+  "serial_number": "FL206 / Boston AL285",
+  "squadron": "114 Squadron, 98 Squadron, 342 (Lorraine) Squadron (Free French)",
+  "crew_summary": "11 aircrew killed across 3 separate crashes: Blenheim L8800 (3 killed, 5 Jun 1942), Mitchell FL206 (4 killed, 17 Oct 1942), Boston AL285 (4 killed, 22 May 1943). A local farmer was also killed in the Boston crash.",
+  "memorial_type": "Memorial stones",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-13",
+  "data_quality": "Good",
+  "latitude": 52.76458607343168,
+  "longitude": 0.7431604896527024,
+  "maintainer": {
+    "organisation": "Weasenham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-22-north-norfolk-part-3/",
+      "summary": "The pyramid memorial at Weasenham St Peter commemorates 11 airmen from three separate crashes. Blenheim L8800 of 114 Sqn crashed on 5 June 1942 killing three crew; Mitchell FL206 of 98 Sqn crashed on 17 October 1942 killing four; and Boston AL285 of 342 (Lorraine) Sqn crashed on 22 May 1943 killing four Free French aircrew.",
+      "key_details": [
+        "Memorial is a pyramid-shaped stone",
+        "Blenheim crew included Sgt Eric Kitcher, whose daughter Margaret Hennessy later researched the crash",
+        "Mitchell FL206 crew: Flt Sgt D. Tanner, Sgt E. Boreham, Sgt L. Horton, LAC F. Barnett",
+        "Boston AL285 crew were Free French: Lt M. Le Bivic, Lt R. Jacquinot, Sgt L. Cohen, Cpl J. Desertlaux",
+        "Weasenham Aircrew Memorial Group formed to create lasting tribute",
+        "Villagers had placed small wooden crosses and read names on Remembrance Day"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Memorial: Weasenham St. Peter (three crashes commemorated) Mitchell Memorial dedicated to fallen aviators from Aviation Trails source."
     },
-    "external_narratives": [
-        {
-            "source_site": "Aviation Trails",
-            "original_url": "https://aviationtrails.co.uk/choose-your-trail/trail-22-north-norfolk-part-3/",
-            "summary": "The pyramid memorial at Weasenham St Peter commemorates 11 airmen from three separate crashes. Blenheim L8800 of 114 Sqn crashed on 5 June 1942 killing three crew; Mitchell FL206 of 98 Sqn crashed on 17 October 1942 killing four; and Boston AL285 of 342 (Lorraine) Sqn crashed on 22 May 1943 killing four Free French aircrew.",
-            "key_details": [
-                "Memorial is a pyramid-shaped stone",
-                "Blenheim crew included Sgt Eric Kitcher, whose daughter Margaret Hennessy later researched the crash",
-                "Mitchell FL206 crew: Flt Sgt D. Tanner, Sgt E. Boreham, Sgt L. Horton, LAC F. Barnett",
-                "Boston AL285 crew were Free French: Lt M. Le Bivic, Lt R. Jacquinot, Sgt L. Cohen, Cpl J. Desertlaux",
-                "Weasenham Aircrew Memorial Group formed to create lasting tribute",
-                "Villagers had placed small wooden crosses and read names on Remembrance Day"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Roll of Honour",
-            "original_url": "http://www.roll-of-honour.com/Norfolk/WeasenhamRAF.html",
-            "summary": "The Roll of Honour website lists the RAF crews who died in the three crashes at Weasenham St Peter, Norfolk. It provides names and service details for all 11 airmen killed across the three incidents between June 1942 and May 1943.",
-            "key_details": [
-                "Comprehensive listing of all crew names across three crashes",
-                "All crashes occurred within a mile of the village"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aerosteles",
-            "original_url": "https://www.aerosteles.net/stelefr-weasenham-lebivic",
-            "summary": "French-language memorial site documenting the Boston AL285 crash of 342 (Lorraine) Squadron at Weasenham St Peters on 22 May 1943. The crew were Free French Air Force personnel who died serving with the RAF.",
-            "key_details": [
-                "Dedicated French memorial page for the Lorraine Squadron crew",
-                "Documents the Free French dimension of the Weasenham memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Norfolk Heritage Explorer",
-            "original_url": "https://www.heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
-            "summary": "Norfolk Historic Environment Record entry for the Bristol Blenheim L8800 crash site at Weasenham. Records the archaeological and heritage significance of the crash location near the village school.",
-            "key_details": [
-                "Official Norfolk heritage record for the Blenheim crash site",
-                "Crash occurred behind the village school"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
-            "summary": "Geograph article on East Anglia WW2 aircrew crash memorials includes the Weasenham St Peter pyramid memorial among the Norfolk entries, providing photographic documentation and grid reference.",
-            "key_details": [
-                "Part of wider East Anglia crash memorials survey",
-                "Photographic record of the memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Litcham Tittishall & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Weasenham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/114.jpg",
-    "squadron_motto": "With speed I strike",
-    "what3words": "froth.widen.switched"
+    {
+      "source_site": "Roll of Honour",
+      "original_url": "http://www.roll-of-honour.com/Norfolk/WeasenhamRAF.html",
+      "summary": "The Roll of Honour website lists the RAF crews who died in the three crashes at Weasenham St Peter, Norfolk. It provides names and service details for all 11 airmen killed across the three incidents between June 1942 and May 1943.",
+      "key_details": [
+        "Comprehensive listing of all crew names across three crashes",
+        "All crashes occurred within a mile of the village"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Roll of Honour website to discover RAF crews' names and service details from three Weasenham St Peter crashes in Norfolk."
+    },
+    {
+      "source_site": "Aerosteles",
+      "original_url": "https://www.aerosteles.net/stelefr-weasenham-lebivic",
+      "summary": "French-language memorial site documenting the Boston AL285 crash of 342 (Lorraine) Squadron at Weasenham St Peters on 22 May 1943. The crew were Free French Air Force personnel who died serving with the RAF.",
+      "key_details": [
+        "Dedicated French memorial page for the Lorraine Squadron crew",
+        "Documents the Free French dimension of the Weasenham memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed documentation and memorials for three tragic crashes of the Boston AL285 crash in Weasenham St. Peter."
+    },
+    {
+      "source_site": "Norfolk Heritage Explorer",
+      "original_url": "https://www.heritage.norfolk.gov.uk/record-details?MNF46398-Bristol-Blenheim-crash-site=",
+      "summary": "Norfolk Historic Environment Record entry for the Bristol Blenheim L8800 crash site at Weasenham. Records the archaeological and heritage significance of the crash location near the village school.",
+      "key_details": [
+        "Official Norfolk heritage record for the Blenheim crash site",
+        "Crash occurred behind the village school"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore historical memorial commemorating three crashes at Weasenham St. Peter, including Bristol Blenheim L8800 incident site."
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/article/East-Anglia-World-War-Two-Aircrew-Crash-Memorials/8",
+      "summary": "Geograph article on East Anglia WW2 aircrew crash memorials includes the Weasenham St Peter pyramid memorial among the Norfolk entries, providing photographic documentation and grid reference.",
+      "key_details": [
+        "Part of wider East Anglia crash memorials survey",
+        "Photographic record of the memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Historical photographs of Memorial: Weasenham St. Peter (three crashes commemorated) Mitchell Memorial on Geograph.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Litcham Tittishall & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Weasenham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/114.jpg",
+  "squadron_motto": "With speed I strike",
+  "what3words": "alerting.abstracts.marine",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "114 Squadron RAF",
+  "squadron_aliases": [
+    "114 Sqdn West Raynham / 98 Sqdn / 342 (Lorraine) Sqdn",
+    "114 Squadron West Raynham / 98 Sqdn / 342 (Lorraine) Sqdn",
+    "114 Sqdn.",
+    "114 Squadron"
+  ],
+  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft \u2014 a Bristol Blenheim, a Mitchell, and a Boston \u2014 went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "Frank Oswald Cooke",
+      "rank": "Sergeant",
+      "role": "Pilot",
+      "fate": "Killed",
+      "service_number": "655317",
+      "fate_detail": "Aircraft: Blenheim L8800. Crash: 1942-06-05"
+    },
+    {
+      "name": "Jack Mayne Wallbridge",
+      "rank": "Sergeant",
+      "role": "Observer",
+      "fate": "Killed",
+      "service_number": "963001",
+      "fate_detail": "Aircraft: Blenheim L8800. Crash: 1942-06-05"
+    },
+    {
+      "name": "Eric Kitcher",
+      "rank": "Flight Sergeant",
+      "role": "Wireless Op/Air Gunner",
+      "fate": "Killed",
+      "service_number": "1360287",
+      "fate_detail": "Aircraft: Blenheim L8800. Crash: 1942-06-05"
+    },
+    {
+      "name": "Donald Charles Tanner",
+      "rank": "Sergeant",
+      "role": "Pilot",
+      "fate": "Killed",
+      "service_number": "1254033",
+      "fate_detail": "Aircraft: Mitchell FL206. Crash: 1942-10-17"
+    },
+    {
+      "name": "Eric Herbert Boreham",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "service_number": "1377082",
+      "fate_detail": "Aircraft: Mitchell FL206. Crash: 1942-10-17"
+    },
+    {
+      "name": "Leonard Harlow Horton",
+      "rank": "Sergeant",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "service_number": "1264120",
+      "fate_detail": "Aircraft: Mitchell FL206. Crash: 1942-10-17"
+    },
+    {
+      "name": "Frank Ernest Barnett",
+      "rank": "LAC",
+      "fate": "Killed",
+      "service_number": "1041484",
+      "fate_detail": "Aircraft: Mitchell FL206. Crash: 1942-10-17"
+    },
+    {
+      "name": "Marcel Alexis Le Bivic",
+      "rank": "Lieutenant",
+      "role": "Pilot",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: Boston AL285. Crash: 1943-05-22",
+      "nationality": "French"
+    },
+    {
+      "name": "Roland Robert Jacquinot",
+      "rank": "Lieutenant",
+      "role": "Observer/Navigator",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: Boston AL285. Crash: 1943-05-22",
+      "nationality": "French"
+    },
+    {
+      "name": "L\u00e9once Cohen",
+      "rank": "Sergeant",
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: Boston AL285. Crash: 1943-05-22",
+      "nationality": "French"
+    },
+    {
+      "name": "John Desertlaux",
+      "rank": "Corporal",
+      "role": "Chief Photographer",
+      "fate": "Killed",
+      "fate_detail": "Aircraft: Boston AL285. Crash: 1943-05-22",
+      "nationality": "French"
+    }
+  ],
+  "community_connection": "A local farmer was killed in the Boston AL285 crash on 22 May 1943.",
+  "memorial_details": "A memorial was placed at the site in 2000 to honor these young airmen.\n\nMemorial placement (2000): Memorial placed on site in 2000",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "data_notes": [
+    "Three separate crashes commemorated on single granite pyramid memorial.",
+    "Previous crew count of 9 was an undercount \u2014 Mitchell and Boston each had 4 crew, not 3.",
+    "Boston crew were Free French Air Force (342 'Lorraine' Squadron).",
+    "A civilian farmer was also killed in the Boston crash \u2014 name not found in available sources."
+  ],
+  "last_validated": "2026-04-13"
 }

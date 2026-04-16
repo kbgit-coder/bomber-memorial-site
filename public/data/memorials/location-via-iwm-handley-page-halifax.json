@@ -1,43 +1,67 @@
 {
-    "id": "location-via-iwm-handley-page-halifax",
-    "title": "(Location via IWM) (WW2) Memorial",
-    "location_name": "(Location via IWM), IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "county": "IWM-Registered Bomber Crash Memorials (Peak/Pennines)",
-    "country": "United Kingdom",
-    "region_code": "PN-005",
-    "aircraft_type": "Handley Page Halifax (WW2)",
-    "memorial_type": "IWM registered memorial",
-    "sources": [
-        {
-            "title": "IWM (memorial/24276)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.20320183061082,
-    "longitude": -1.7690008193585556,
-    "external_narratives": [
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/24276",
-            "summary": "IWM War Memorials Register entry for a Handley Page Halifax bomber crash memorial. The register records this as a WW2 memorial associated with a Halifax crash site in the Peak/Pennines region.",
-            "key_details": [
-                "IWM reference number 24276",
-                "Registered as WW2 Halifax bomber crash memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Glossop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
-        }
-    ],
-    "what3words": "observes.abstracts.awaiting"
+  "id": "location-via-iwm-handley-page-halifax",
+  "title": "(Location via IWM) (WW2) Memorial",
+  "location_name": "Bradford on Avon",
+  "county": "Wiltshire",
+  "country": "United Kingdom",
+  "region_code": "PN-005",
+  "aircraft_type": "Handley Page Halifax (WW2)",
+  "memorial_type": "IWM registered memorial",
+  "sources": [
+    {
+      "title": "IWM (memorial/24276)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "latitude": 52.20320183061082,
+  "longitude": -1.7690008193585556,
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/24276",
+      "summary": "IWM War Memorials Register entry for a Handley Page Halifax bomber crash memorial. The register records this as a WW2 memorial associated with a Halifax crash site in the Peak/Pennines region.",
+      "key_details": [
+        "IWM reference number 24276",
+        "Registered as WW2 Halifax bomber crash memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore WW2 Memorial: Handley Page Halifax Bomber Crash Site Register Entry."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Glossop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "observes.abstracts.awaiting",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "memorial_details": "A wall-mounted brass plaque.\n\nMemorial Unveiling: The unveiling of the Handley Page Halifax LW693 memorial.",
+  "narrative": "This memorial honors the crew of Handley Page Halifax bomber 'V', belonging to No. 425 Squadron of the Royal Canadian Air Force, who perished in a crash at Bradford on Avon, Wiltshire, on March 26, 1944.",
+  "inscription": "TO COMMEMORATE THE CREW OF\nTHE HANDLEY PAGE HALIFAX BOMBER 'V' FOR VICTOR\nOF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE\nWHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE\nON 26TH MARCH 1944\n[crew names inscribed on memorial]",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "crash_date": "1944-03-26",
+  "last_validated": "2026-04-13",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/84/93/2_58.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/178/661/large_24276.jpg"
+  ]
 }

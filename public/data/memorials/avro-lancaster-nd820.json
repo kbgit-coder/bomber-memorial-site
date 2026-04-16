@@ -1,0 +1,42 @@
+{
+  "id": "avro-lancaster-nd820",
+  "title": "Avro Lancaster ND820",
+  "location_name": "Bicker, Boston",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "ND820",
+  "squadron": "635 Squadron",
+  "crash_date": "1944-04-10",
+  "memorial_type": "Pillar / Column",
+  "memorial_details": "Rectangular brick pillar surmounted by a white cross, set on slabs and surrounded by posts and chain links . Dedicatory plaque placed on Face 1 with a smaller plaque above it depicting the squadron badge.\n\nThis memorial was commissioned by the Lincolnshire Aircraft Recovery Group.",
+  "inscription": "+/ To the Glory of God/ and in honoured memory of/ (Names)/ Who lost their lives when Avro Lancaster (ND820) 635 Squadron/ crashed here while on a flight from RAF Downham Market/ Monday 10th April 1944/ Who now lie at rest in the surrounding fields./ Their names are commemorated on the/ Runnymede Memorial to the Missing./ Also in memory of crew member/ (Name) Buried in Stonefall Cemetery, Harrogate./ This memorial was commissioned by the/ Lincolnshire Aircraft Recovery Group.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/59226",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 52.914639676605,
+  "longitude": -0.177945389835,
+  "grid_ref": "TF 22614",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/128/34/large_nd820_memorial_plaque_inscription.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/128/33/large_nd820_memorial_plaques.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/47/905/large_59226.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/128/32/large_nd820_memorial.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/128/35/large_nd820_memorial_in_context.jpg"
+  ],
+  "community_connection": ""
+}

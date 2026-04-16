@@ -1,70 +1,155 @@
 {
-    "id": "cave-hill-b-17-flying-fortress",
-    "title": "Cave Hill 42-97862 Memorial",
-    "location_name": "Cave Hill, Belfast, Moray",
-    "county": "Moray",
-    "country": "United Kingdom",
-    "region_code": "NI-001",
-    "crash_date": "1944-06-01",
-    "aircraft_type": "B-17 Flying Fortress 42-97862",
-    "squadron": "USAAF",
-    "crew_summary": "10 killed; buried at Lisnabreeny American Cemetery",
-    "memorial_type": "Repainted memorial stone on Cave Hill (listed as historic landmark by NI Environment Agency, May 2016)",
-    "sources": [
-        {
-            "title": "wartimeni.com; belfastentries.com",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.452569707922294,
-    "longitude": -0.6252294004502252,
-    "external_narratives": [
-        {
-            "source_site": "WartimeNI",
-            "original_url": "https://wartimeni.com/article/aviation-incidents/boeing-b-17-42-97862/",
-            "summary": "Detailed account of B-17 Flying Fortress 42-97862 crashing on Cave Hill, Belfast on 1 June 1944. The aircraft was transferring from 401st Bomb Group to 306th Bomb Group at Nutts Corner when thick fog caused disorientation. All 10 crew killed.",
-            "key_details": [
-                "En route from Gander, Newfoundland",
-                "Diverted to Nutts Corner due to fog",
-                "All 10 buried at Lisnabreeny American Cemetery"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Belfast Entries",
-            "original_url": "https://www.belfastentries.com/places/crash/",
-            "summary": "Local history account of the B-17 crash on Cave Hill. Notes the memorial stone was repainted and listed as a historic landmark by the NI Environment Agency in May 2016.",
-            "key_details": [
-                "Memorial listed as historic landmark May 2016",
-                "Memorial located within Belfast Zoo area"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Amazon (book reference)",
-            "original_url": "https://www.amazon.com/42-97862-Flying-Fortress-Belfasts-during/dp/0957399332",
-            "summary": "Book '42-97862' by William Lindsay and Alfred Montgomery tells the full story of the crash. Montgomery found crew member Lawrence Dundon's wedding ring at the crash site in 1991 and returned it to his widow, inspiring Richard Attenborough's film 'Closing The Ring'.",
-            "key_details": [
-                "Wedding ring found at site in 1991 by Alfred Montgomery",
-                "Inspired film 'Closing The Ring' by Richard Attenborough",
-                "Published book documenting full story"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Elgin Branch, Legion Scotland",
-            "org_type": "legion_scotland",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.legionscotland.org.uk/branches-and-clubs"
-        }
-    ],
-    "what3words": "sunset.stared.insurance"
+  "id": "cave-hill-b-17-flying-fortress",
+  "title": "Cave Hill 42-97862 Memorial",
+  "location_name": "Cave Hill, Belfast, Moray",
+  "county": "Moray",
+  "country": "United Kingdom",
+  "region_code": "NI-001",
+  "crash_date": "1944-06-01",
+  "aircraft_type": "B-17 Flying Fortress 42-97862",
+  "squadron": "USAAF",
+  "crew_summary": "10 killed; buried at Lisnabreeny American Cemetery",
+  "memorial_type": "Repainted memorial stone on Cave Hill (listed as historic landmark by NI Environment Agency, May 2016)",
+  "sources": [
+    {
+      "title": "wartimeni.com; belfastentries.com",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 54.634,
+  "longitude": -5.928,
+  "external_narratives": [
+    {
+      "source_site": "WartimeNI",
+      "original_url": "https://wartimeni.com/article/aviation-incidents/boeing-b-17-42-97862/",
+      "summary": "Detailed account of B-17 Flying Fortress 42-97862 crashing on Cave Hill, Belfast on 1 June 1944. The aircraft was transferring from 401st Bomb Group to 306th Bomb Group at Nutts Corner when thick fog caused disorientation. All 10 crew killed.",
+      "key_details": [
+        "En route from Gander, Newfoundland",
+        "Diverted to Nutts Corner due to fog",
+        "All 10 buried at Lisnabreeny American Cemetery"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed account of B-17 Flying Fortress 42-97862 crash on Cave Hill in Belfast."
+    },
+    {
+      "source_site": "Belfast Entries",
+      "original_url": "https://www.belfastentries.com/places/crash/",
+      "summary": "Local history account of the B-17 crash on Cave Hill. Notes the memorial stone was repainted and listed as a historic landmark by the NI Environment Agency in May 2016.",
+      "key_details": [
+        "Memorial listed as historic landmark May 2016",
+        "Memorial located within Belfast Zoo area"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore local history of B-17 crash at Cave Hill Memorial, now a historic landmark."
+    },
+    {
+      "source_site": "Amazon (book reference)",
+      "original_url": "https://www.amazon.com/42-97862-Flying-Fortress-Belfasts-during/dp/0957399332",
+      "summary": "Book '42-97862' by William Lindsay and Alfred Montgomery tells the full story of the crash. Montgomery found crew member Lawrence Dundon's wedding ring at the crash site in 1991 and returned it to his widow, inspiring Richard Attenborough's film 'Closing The Ring'.",
+      "key_details": [
+        "Wedding ring found at site in 1991 by Alfred Montgomery",
+        "Inspired film 'Closing The Ring' by Richard Attenborough",
+        "Published book documenting full story"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The detailed account of the Cave Hill Memorial crash and its significance in '42-97862'."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Elgin Branch, Legion Scotland",
+      "org_type": "legion_scotland",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.legionscotland.org.uk/branches-and-clubs"
+    }
+  ],
+  "what3words": "declaring.affords.unabashedly",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "USAAF",
+  "squadron_aliases": [
+    "USAAF"
+  ],
+  "narrative": "On 1 June 1944, B-17 Flying Fortress 42-97862 was on a transfer flight from Gander Bay, Newfoundland, bound for Nutts Corner Airfield, Co. Antrim, where the crew were to be reassigned from the 401st to the 306th Bomb Group. While holding for clearance to land, the aircraft descended into heavy fog and struck the slopes of Cave Hill, Belfast. The bomber burst into flames on impact, and exploding ammunition drove back both rescuers and nearby residents. All ten crew members were killed, among them Pilot Lester Bryan Brooks, Co-Pilot Jeremiah C. Murphy, and Bombardier Leighton B. McKenzie. United States Army soldiers sealed the crash site in the immediate aftermath. The dead were laid to rest at Lisnabreeny American Cemetery.",
+  "crew": [
+    {
+      "name": "Edward Ewing Mc",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph V. Nobilione",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Navigator"
+    },
+    {
+      "name": "D. Brewer",
+      "rank": "Wilbur",
+      "fate": "Unknown",
+      "role": "Top Turret Gunner"
+    },
+    {
+      "name": "Lawrence E. Dundon",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Radio Operator"
+    },
+    {
+      "name": "Robert L. Graves Jr.",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Ball Turret Gunner"
+    },
+    {
+      "name": "A. Hibbler",
+      "rank": "Howard",
+      "fate": "Unknown",
+      "role": "Left Waist Gunner"
+    },
+    {
+      "name": "Lester Bryan Brooks",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "Jeremiah C. Murphy",
+      "rank": "co-pilot",
+      "fate": "Killed",
+      "role": "Co-Pilot"
+    },
+    {
+      "name": "Leighton B. McKenzie",
+      "rank": null,
+      "fate": "Killed",
+      "role": "Bombardier"
+    },
+    {
+      "name": "Edward Ewing McGill",
+      "rank": "Unknown",
+      "fate": "Killed",
+      "role": "Rear Waist Gunner"
+    },
+    {
+      "name": "Lawrence R. McGrane",
+      "rank": "tail gunner",
+      "fate": "Killed",
+      "role": "Tail Gunner"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

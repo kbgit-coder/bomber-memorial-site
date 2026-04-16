@@ -2,7 +2,7 @@
   "id": "kinder-scout-1-w5719",
   "title": "Kinder Scout (1) Wellington Memorial",
   "location_name": "Kinder Scout (1), Peak District (Derbyshire / South Pennines)",
-  "county": "Peak District (Derbyshire / South Pennines)",
+  "county": "Derbyshire",
   "country": "United Kingdom",
   "region_code": "PD-005",
   "crash_date": "1941-07-31",
@@ -32,71 +32,78 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Comprehensive",
-  "narrative": "On the night of 30/31 July 1941, No. 150 Squadron at RAF Snaith was ordered to provide eight Wellington bombers for a raid on Cologne. The weather in England that night was poor, with low cloud and rain. Wellington W5719 was the first aircraft to take off, departing at 23:25. The crew was unable to find the target in cloud-covered Germany and aborted the mission, returning towards RAF Snaith with their bomb load still aboard. In the murky conditions over England, the Wellington overshot its base in Yorkshire and continued westward towards the Pennines. At approximately 04:05, still in cloud and misjudging their altitude -- the crew believed they were still 2,000 feet above sea level -- the aircraft flew into the steeply rising ground on the northern side of Grindsbrook Clough, near Upper Tor on Kinder Scout. The crash was catastrophic. The bomber's unexpended bombs exploded on impact, killing five of the six crew instantly. However, in a remarkable stroke of fortune, rear gunner Sergeant Earl Tilley survived -- his tail turret was torn free from the fuselage by the force of the explosion and flung into Grindsbrook Clough. Injured but alive, Tilley was able to extricate himself and make his way down to the village of Edale to raise the alarm.",
+  "narrative": "Crew of Wellington W5719 departed RAF Snaith on the night of 30–31 July 1941, bound for Cologne with seven men aboard. Unable to locate the target through heavy cloud, they turned back with their bomb load still on board. Returning towards base in deteriorating conditions, Sergeant Parrott's crew overshot RAF Snaith and continued westward into the Pennines, descending too low in cloud. The aircraft struck the steeply rising ground on the northern side of Grindsbrook Clough on Kinder Scout, and the unexpended bombs exploded on impact. Five crew were killed: Sergeants Parrott, Haswell, Evelle, Webber, and Monk. Rear gunner Sergeant Earl Tilley survived when the tail turret was torn clear by the blast; injured but alive, he made his way down to the village of Edale to raise the alarm.",
   "crew": [
     {
       "rank": "Sgt",
-      "name": "Percival Harold Charles Parrott",
+      "name": "Sergeant Percival Harold Charles Parrott",
       "role": "Pilot",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed instantly when Wellington W5719 struck Upper Tor on Kinder Scout and the bomb load exploded on impact.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
-      "name": "Joseph Arthur Haswell",
+      "name": "Sergeant Joseph Arthur Haswell",
       "role": "2nd Pilot (supernumerary)",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact. Commemorated on the screen wall at Manchester Southern Cemetery adjacent to the war graves plot.",
       "burial_location": "Manchester Southern Cemetery (commemorated on screen wall)",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
-      "name": "Jack Douglas Evelle",
+      "name": "Sergeant Jack Douglas Evelle",
       "role": "Observer / Navigator",
-      "nationality": "Canadian",
       "fate": "Killed",
       "fate_detail": "A Canadian serving with the RCAF, Evelle was killed on impact and buried at Manchester Southern Cemetery.",
       "burial_location": "Manchester Southern Cemetery",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
-      "name": "Frederick Kenneth Webber",
+      "name": "Sergeant Frederick Kenneth Webber",
       "role": "Wireless Operator / Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed when the aircraft struck Upper Tor and the bomb load exploded.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
-      "name": "Dennis Aloysius Monk",
+      "name": "Sergeant Dennis Aloysius Monk",
       "role": "Air Gunner",
-      "nationality": "British",
       "fate": "Killed",
       "fate_detail": "Killed on impact at Upper Tor, Kinder Scout.",
-      "cwgc_verified": false
+      "cwgc_verified": false,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Earl Tilley",
       "role": "Rear Gunner",
-      "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Sole survivor. Tilley was manning the rear gun turret which was torn free from the fuselage by the bomb explosion and flung into Grindsbrook Clough. Though suffering from shock and concussion, he was able to make his way down to Edale village to raise the alarm. He was hospitalised for treatment.",
-      "bio": "Sgt Earl Tilley's survival was extraordinary -- his tail turret was ripped free by the force of the bomb explosion and hurled clear of the burning wreckage. Despite injuries, he descended from the moor to Edale to get help."
+      "bio": "Sgt Earl Tilley's survival was extraordinary -- his tail turret was ripped free by the force of the bomb explosion and hurled clear of the burning wreckage. Despite injuries, he descended from the moor to Edale to get help.",
+      "nationality": "British"
+    },
+    {
+      "name": "id on Koln Percival Harold Charles Parrot",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Overshot base on return from aborted operations; descended too low in cloud and flew into the steeply rising ground on the northern side of Grindsbrook Clough. Bombs exploded on impact.",
   "operation_type": "Operational",
   "operation_target": "Cologne (aborted -- unable to find target in cloud)",
   "memorial_details": "Wreckage fragments remain at the site near Upper Tor, Kinder Scout. The crash site is accessible via walking routes from Edale in the Peak District.",
-  "latitude": 53.380942294143644,
-  "longitude": -1.551334270273853,
+  "latitude": 53.3848179,
+  "longitude": -1.8739001,
   "maintainer": {
     "organisation": "Peak District National Park Authority",
     "website": "https://www.peakdistrict.gov.uk",
@@ -113,7 +120,8 @@
         "Bombs exploded on impact, hurling tail turret into Grindsbrook Clough"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore comprehensive crash investigation details of Wellington Mk.IC W5719 at RAF Snaith."
     },
     {
       "source_site": "Air Crash Sites UK",
@@ -124,7 +132,8 @@
         "Walking route information provided"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore photographic documentation and detailed walking directions to the historic crash site of Sergeant Tilley on Kinder Scout."
     }
   ],
   "local_contacts": [
@@ -136,6 +145,21 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/150.jpg",
-  "squadron_motto": "In night and storm we bomb",
-  "what3words": "asks.solar.enjoyable"
+  "squadron_motto": "Αιει Φθανομεν (Aiei Phthanomen)",
+  "what3words": "insurers.writing.puddings",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "150 Squadron RAF",
+  "squadron_aliases": [
+    "150 Squadron",
+    "150 Sqdn."
+  ],
+  "crash_category": "weather",
+  "narrative_quality_score": 5,
+  "narrative_source": "generated-claude-sonnet"
 }

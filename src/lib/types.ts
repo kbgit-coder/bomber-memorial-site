@@ -1,14 +1,3 @@
-export type LocationConfidenceStatus = 'verified' | 'confirmed' | 'approximate' | 'estimated';
-
-export interface LocationConfidence {
-  status: LocationConfidenceStatus;
-  score: 0 | 1 | 2 | 3;
-  sources: string[];
-  verified_by: string | null;
-  verification_date: string | null;
-  community_submissions: number;
-}
-
 export interface CrewMember {
   rank?: string;
   name: string;
@@ -24,6 +13,7 @@ export interface CrewMember {
   bio?: string;
   hometown?: string;
   decorations?: string;
+  photo?: string;
 }
 
 export interface Source {
@@ -57,6 +47,7 @@ export interface ExternalNarrative {
   summary?: string;
   key_details?: string;
   full_narrative?: string;
+  link_description?: string;
   date_retrieved?: string;
   still_live?: boolean;
 }
@@ -75,6 +66,35 @@ export interface AdditionalContributor {
   date?: string;
 }
 
+export interface LocationConfidence {
+  status: 'confirmed' | 'approximate' | 'estimated';
+  score?: number;
+  sources?: string[];
+  verified_by?: string;
+  verification_date?: string;
+  verification_notes?: string;
+  community_submissions?: number;
+  last_reviewed?: string;
+  // Legacy field names (kept for compatibility)
+  level?: 'verified' | 'approximate' | 'estimated';
+  method?: string;
+  notes?: string;
+}
+
+export interface RemembranceEvent {
+  name: string;
+  date?: string;
+  description?: string;
+}
+
+export interface Remembrance {
+  annual_service?: boolean;
+  service_date?: string;
+  service_description?: string;
+  last_known_event?: string;
+  events?: RemembranceEvent[];
+}
+
 export interface Memorial {
   id: string;
   title: string;
@@ -85,6 +105,7 @@ export interface Memorial {
   country?: string;
   region_code?: string;
   what3words?: string;
+  os_grid_reference?: string;
   crash_date?: string;
   aircraft_type?: string;
   serial_number?: string;
@@ -103,6 +124,8 @@ export interface Memorial {
   memorial_name?: string;
   memorial_address?: string;
   memorial_access_notes?: string;
+  memorial_details?: string;
+  inscription?: string;
   erected_by?: string;
   dedication_date?: string;
   condition?: string;
@@ -111,9 +134,16 @@ export interface Memorial {
   local_contacts?: LocalContact[];
   external_narratives?: ExternalNarrative[];
   sources?: Source[];
-  location_confidence?: LocationConfidence;
   contributor?: string;
   additional_contributors?: AdditionalContributor[];
+  community_connection?: string;
+  remembrance?: Remembrance;
   last_updated?: string;
   data_quality?: 'Comprehensive' | 'Partial' | 'Stub';
+  location_confidence?: LocationConfidence;
+  crash_category?: string;
+  narrative_quality_score?: number;
+  narrative_source?: string;
+  squadron_display_name?: string;
+  squadron_aliases?: string[];
 }

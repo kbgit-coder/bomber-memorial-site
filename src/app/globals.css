@@ -20,6 +20,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.7;
+  font-size: 19px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,17 +41,193 @@ a:hover {
   text-decoration: underline;
 }
 
-.leaflet-container {
-  height: 450px;
-  width: 100%;
-  border-radius: 8px;
-  border: 2px solid var(--color-gold-border);
-}
 
 @layer utilities {
   .heritage-container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 1.5rem;
+  }
+}
+
+/* ============================================================
+   ACCESSIBILITY — Focus styles, touch targets, contrast
+   ============================================================ */
+
+/* Keyboard navigation: visible focus ring on all interactive elements */
+:focus-visible {
+  outline: 3px solid #2c5f8a;
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+/* Remove default outline only when focus-visible is supported */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Minimum 44px touch targets for links and buttons */
+a,
+button {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Restore inline display for anchors that should flow with text */
+p a,
+li a,
+td a,
+figcaption a,
+nav a {
+  display: inline;
+  min-height: unset;
+}
+
+/* Memorial card hover state — accessible with keyboard */
+.memorial-card:focus-within {
+  box-shadow: 0 0 0 3px #2c5f8a;
+  border-color: #2c5f8a;
+}
+
+/* ============================================================
+   PRINT STYLESHEET
+   ============================================================ */
+
+@media print {
+  /* Global print reset */
+  *,
+  *::before,
+  *::after {
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.5;
+    background: white !important;
+  }
+
+  /* Hide navigation, interactive and map elements */
+  header,
+  footer,
+  nav,
+  [aria-label*="Map"],
+  [aria-label*="map"],
+  [class*="MemorialMap"],
+  [class*="memorial-map"],
+  [class*="StubCTA"],
+  [class*="stub-cta"],
+  .leaflet-container,
+  .search-bar,
+  button {
+    display: none !important;
+  }
+
+  /* Hide the Suggest a Correction section — identified by its mailto link */
+  section:has(a[href^="mailto:"]) {
+    display: none !important;
+  }
+
+  /* Show memorial title prominently */
+  h1 {
+    font-size: 22pt;
+    color: black !important;
+    margin-bottom: 6pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    color: black !important;
+    border-bottom: 1pt solid #999 !important;
+    margin-top: 18pt;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 12pt;
+    color: black !important;
+    page-break-after: avoid;
+  }
+
+  /* Narrative — keep readable */
+  [style*="borderLeft"] {
+    border-left: 2pt solid #666 !important;
+    padding-left: 12pt;
+  }
+
+  /* Crew table — keep on page where possible */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9pt;
+    page-break-inside: auto;
+  }
+
+  th,
+  td {
+    border: 0.5pt solid #999 !important;
+    padding: 4pt 6pt;
+  }
+
+  thead {
+    background: #eee !important;
+    color: black !important;
+    display: table-header-group;
+  }
+
+  tr {
+    page-break-inside: avoid;
+  }
+
+  /* Sources list */
+  ul {
+    padding-left: 18pt;
+  }
+
+  /* Links — show URL after link text */
+  a[href]::after {
+    content: " (" attr(href) ")";
+    font-size: 8pt;
+    color: #555 !important;
+  }
+
+  /* But not for nav or internal links that would be noisy */
+  a[href^="/"]::after,
+  a[href^="#"]::after {
+    content: "";
+  }
+
+  /* Printed-from footer */
+  @page {
+    margin: 15mm 15mm 20mm;
+  }
+
+  body::after {
+    content: "Printed from bombermemorial.co.uk";
+    display: block;
+    font-size: 8pt;
+    color: #555 !important;
+    text-align: center;
+    margin-top: 24pt;
+    border-top: 0.5pt solid #ccc;
+    padding-top: 6pt;
+  }
+
+  /* Page breaks */
+  section {
+    page-break-inside: avoid;
+  }
+
+  figure {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100%;
+    page-break-inside: avoid;
   }
 }

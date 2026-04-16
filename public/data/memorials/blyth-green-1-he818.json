@@ -1,81 +1,336 @@
 {
-    "id": "blyth-green-1-he818",
-    "title": "Blyth Green (1) Wellington Memorial",
-    "location_name": "Blyth Green (1), Nottinghamshire",
-    "county": "Nottinghamshire",
-    "country": "United Kingdom",
-    "region_code": "NT-008",
-    "crash_date": "1944-03-07",
-    "aircraft_type": "Wellington",
-    "serial_number": "HE818",
-    "squadron": "18 OTU",
-    "station": "Worksop",
-    "crew_summary": "4 killed including Plt Off. Frank Reginald Bedford",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.07646481682967,
-    "longitude": -0.8792028732948124,
-    "maintainer": {
-        "organisation": "Blyth Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "blyth-green-1-he818",
+  "title": "Blyth Green (1) Wellington Memorial",
+  "location_name": "Blyth Green (1), Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-008",
+  "crash_date": "1944-03-07",
+  "aircraft_type": "Wellington",
+  "serial_number": "HE818",
+  "squadron": "18 OTU",
+  "station": "Worksop",
+  "crew_summary": "4 killed including Plt Off. Frank Reginald Bedford",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Good",
+  "latitude": 53.0918575,
+  "longitude": -1.0403268,
+  "maintainer": {
+    "organisation": "Blyth Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
+      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+      "summary": "The Nottinghamshire Aviation Memorials guide documents the memorial at Blyth village green for Wellington HE818 of 18 OTU (RAF Worksop), which crashed approximately 200 metres from the memorial site on 7 March 1944.",
+      "key_details": [
+        "Crashed 200m from memorial site",
+        "18 OTU based at RAF Worksop",
+        "Memorial on Blyth village green"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of Wellington bomber crash, including memorial site information and historical context."
     },
-    "external_narratives": [
-        {
-            "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
-            "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
-            "summary": "The Nottinghamshire Aviation Memorials guide documents the memorial at Blyth village green for Wellington HE818 of 18 OTU (RAF Worksop), which crashed approximately 200 metres from the memorial site on 7 March 1944.",
-            "key_details": [
-                "Crashed 200m from memorial site",
-                "18 OTU based at RAF Worksop",
-                "Memorial on Blyth village green"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Key Aero Forum",
-            "original_url": "https://www.key.aero/forum/historic-aviation/123626-otu-wellington-x-crash-1944-incident",
-            "summary": "Aviation forum discussion researching the Wellington HE818 crash from 18 OTU at Worksop, with contributors sharing details of the crew and circumstances of the crash near Blyth.",
-            "key_details": [
-                "Community research into crash details",
-                "4 crew killed including P/O Bedford"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Archaeology (Midlands Crashes)",
-            "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
-            "summary": "Aviation Archaeology records Wellington HE818 in its 1944 military crashes listing for the south-west Midlands region, confirming the crash near Blyth on 7 March 1944.",
-            "key_details": [
-                "Listed in Midlands military crash database"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Worksop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-        },
-        {
-            "org_name": "Blyth Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
-    "squadron_motto": "With courage and faith",
-    "what3words": "opened.neckline.builders"
+    {
+      "source_site": "Key Aero Forum",
+      "original_url": "https://www.key.aero/forum/historic-aviation/123626-otu-wellington-x-crash-1944-incident",
+      "summary": "Aviation forum discussion researching the Wellington HE818 crash from 18 OTU at Worksop, with contributors sharing details of the crew and circumstances of the crash near Blyth.",
+      "key_details": [
+        "Community research into crash details",
+        "4 crew killed including P/O Bedford"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed forum discussion on Wellington HE818 crash near Blyth, including crew information and circumstances."
+    },
+    {
+      "source_site": "Aviation Archaeology (Midlands Crashes)",
+      "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
+      "summary": "Aviation Archaeology records Wellington HE818 in its 1944 military crashes listing for the south-west Midlands region, confirming the crash near Blyth on 7 March 1944.",
+      "key_details": [
+        "Listed in Midlands military crash database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed crash report and memorial information for Wellington HE818 at Blyth Green."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Worksop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Blyth Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/18.jpg",
+  "squadron_motto": "With courage and faith",
+  "what3words": "mainframe.skillet.presides",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "18 OTU",
+  "squadron_aliases": [
+    "18 OTU"
+  ],
+  "narrative": "Wellington HE818 was on a training sortie from RAF Worksop with 18 Operational Training Unit when it came down at Blyth Green, Nottinghamshire, on 7 March 1944. The crew were airmen still working toward front-line qualification when the aircraft was lost. Four men were killed in the crash, among them Pilot Officer Frank Reginald Bedford. The specific cause of the accident has not been confirmed in the records available to this memorial.",
+  "remembrance": {
+    "events": []
+  },
+  "crew": [
+    {
+      "name": "George Ehrreich",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Malcolm",
+      "rank": null
+    },
+    {
+      "name": "Mary Ethell Chubb",
+      "rank": null
+    },
+    {
+      "name": "Shellter",
+      "rank": null
+    },
+    {
+      "name": "Jones",
+      "rank": null
+    },
+    {
+      "name": "Dolter",
+      "rank": null
+    },
+    {
+      "name": "Matthews",
+      "rank": null
+    },
+    {
+      "name": "S Withingham",
+      "rank": "Sgt"
+    },
+    {
+      "name": "Tait",
+      "rank": null
+    },
+    {
+      "name": "Eagle",
+      "rank": null
+    },
+    {
+      "name": "Spearing",
+      "rank": null
+    },
+    {
+      "name": "Hoffman",
+      "rank": null
+    },
+    {
+      "name": "Cope",
+      "rank": null
+    },
+    {
+      "name": "Lowick",
+      "rank": null
+    },
+    {
+      "name": "Jackson",
+      "rank": null
+    },
+    {
+      "name": "Craigs",
+      "rank": null
+    },
+    {
+      "name": "Sneddon",
+      "rank": null
+    },
+    {
+      "name": "Webb",
+      "rank": null
+    },
+    {
+      "name": "Orrin",
+      "rank": null
+    },
+    {
+      "name": "Durward",
+      "rank": null
+    },
+    {
+      "name": "Griffin",
+      "rank": null
+    },
+    {
+      "name": "Savard",
+      "rank": null
+    },
+    {
+      "name": "Ratter",
+      "rank": null
+    },
+    {
+      "name": "Driver",
+      "rank": null
+    },
+    {
+      "name": "Dawes",
+      "rank": null
+    },
+    {
+      "name": "Edmond",
+      "rank": null
+    },
+    {
+      "name": "Pratt",
+      "rank": null
+    },
+    {
+      "name": "Harper",
+      "rank": null
+    },
+    {
+      "name": "Emery",
+      "rank": null
+    },
+    {
+      "name": "Rusell",
+      "rank": null
+    },
+    {
+      "name": "Hulme",
+      "rank": null
+    },
+    {
+      "name": "Lockyer",
+      "rank": null
+    },
+    {
+      "name": "Fullerton",
+      "rank": null
+    },
+    {
+      "name": "Hale",
+      "rank": null
+    },
+    {
+      "name": "Garrett",
+      "rank": null
+    },
+    {
+      "name": "Tallentine",
+      "rank": null
+    },
+    {
+      "name": "Board",
+      "rank": null
+    },
+    {
+      "name": "Gillies",
+      "rank": null
+    },
+    {
+      "name": "Kidston",
+      "rank": null
+    },
+    {
+      "name": "Badstead",
+      "rank": null
+    },
+    {
+      "name": "Clothier",
+      "rank": null
+    },
+    {
+      "name": "Dustin",
+      "rank": null
+    },
+    {
+      "name": "John Clear Jr",
+      "rank": null
+    },
+    {
+      "name": "Cooley",
+      "rank": null
+    },
+    {
+      "name": "Oris",
+      "rank": null
+    },
+    {
+      "name": "Jack",
+      "rank": null
+    },
+    {
+      "name": "Hannon",
+      "rank": null
+    },
+    {
+      "name": "Millet",
+      "rank": null
+    },
+    {
+      "name": "Wales",
+      "rank": null
+    },
+    {
+      "name": "Roy Tester",
+      "rank": null
+    },
+    {
+      "name": "Gorner",
+      "rank": null
+    },
+    {
+      "name": "Clifford Hendrickson",
+      "rank": null
+    },
+    {
+      "name": "Walter Graves",
+      "rank": null
+    },
+    {
+      "name": "Edmund",
+      "rank": null
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown"
+    },
+    {
+      "name": "F/Sgt G B Hollings RAAF",
+      "rank": null
+    },
+    {
+      "name": "W/O E R Lumsdaine",
+      "rank": null
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 62 to 6. 56 additional names from station/OTU roll of honour moved to station_roll_names."
 }

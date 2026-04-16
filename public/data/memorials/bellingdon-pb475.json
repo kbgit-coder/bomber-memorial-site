@@ -1,83 +1,168 @@
 {
-    "id": "bellingdon-pb475",
-    "title": "Bellingdon Lancaster Memorial",
-    "location_name": "Bellingdon, Chilterns, Buckinghamshire",
-    "county": "Buckinghamshire",
-    "country": "United Kingdom",
-    "region_code": "SE-002",
-    "crash_date": "WW2",
-    "aircraft_type": "Lancaster",
-    "serial_number": "PB475",
-    "squadron": "Bomber Command",
-    "crew_summary": "Crew killed at Bloomfield Farm",
-    "memorial_type": "Blue circular plaque with central illustration of Lancaster in flight, set into large stone",
-    "sources": [
-        {
-            "title": "IWM (memorial/63847)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.649169570694006,
-    "longitude": -0.7821848704855314,
-    "maintainer": {
-        "organisation": "Chartridge Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "bellingdon-pb475",
+  "title": "Bellingdon Lancaster Memorial",
+  "location_name": "Bellingdon, Chilterns, Buckinghamshire",
+  "county": "Buckinghamshire",
+  "country": "United Kingdom",
+  "region_code": "SE-002",
+  "crash_date": "1945-03-06",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB475",
+  "squadron": "Bomber Command",
+  "crew_summary": "Crew killed at Bloomfield Farm",
+  "memorial_type": "Blue circular plaque with central illustration of Lancaster in flight, set into large stone",
+  "sources": [
+    {
+      "title": "IWM (memorial/63847)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 51.7369,
+  "longitude": -0.6445,
+  "maintainer": {
+    "organisation": "Chartridge Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63847",
+      "summary": "IWM records the Lancaster PB475 memorial at Bellingdon, Buckinghamshire, noting the stone and plaque memorial dedicated to the crew who died at Bloomfield Farm.",
+      "key_details": [
+        "IWM memorial reference 63847",
+        "Located at Bloomfield Farm, Bellingdon"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed Register Entry: This includes the Lancaster PB475's memorial at Bellingdon, Buckinghamshire, featuring stone and plaque, honoring the crew who perished at Bloomfield Farm."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/63847",
-            "summary": "IWM records the Lancaster PB475 memorial at Bellingdon, Buckinghamshire, noting the stone and plaque memorial dedicated to the crew who died at Bloomfield Farm.",
-            "key_details": [
-                "IWM memorial reference 63847",
-                "Located at Bloomfield Farm, Bellingdon"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/159300",
-            "summary": "ASN records Lancaster PB475 crashed on 6 March 1945 at 01:00 hours near Bellingdon, Buckinghamshire. The aircraft departed RAF Little Staughton at 17:33 for a bombing raid on Chemnitz. A hung-up target indicator ignited in the bomb bay during the return flight.",
-            "key_details": [
-                "Departed RAF Little Staughton at 17:33",
-                "Target: Chemnitz",
-                "Hung-up target indicator ignited in bomb bay",
-                "Crashed 01:00 on 6 March 1945",
-                "Six of seven crew killed",
-                "Tail gunner Bill Heart survived"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Halton - Mainpoint Online",
-            "original_url": "http://www.mainpointonline.co.uk/crashed-lancaster/",
-            "summary": "Article documenting the PB475 crash at Bloomfield Farm, noting the aircraft was just 10 minutes from landing when the target indicator ignited. The stone and plaque memorial was dedicated on 13 May 2012.",
-            "key_details": [
-                "Only 10 minutes from landing",
-                "Memorial dedicated 13 May 2012",
-                "Crew included Barnett, Ross Denbigh, Gould, Hemsworth, Ralph, and Torr"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Aylesbury Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/buckinghamshire/"
-        },
-        {
-            "org_name": "Chartridge Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "carbon.flight.cube"
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/159300",
+      "summary": "ASN records Lancaster PB475 crashed on 6 March 1945 at 01:00 hours near Bellingdon, Buckinghamshire. The aircraft departed RAF Little Staughton at 17:33 for a bombing raid on Chemnitz. A hung-up target indicator ignited in the bomb bay during the return flight.",
+      "key_details": [
+        "Departed RAF Little Staughton at 17:33",
+        "Target: Chemnitz",
+        "Hung-up target indicator ignited in bomb bay",
+        "Crashed 01:00 on 6 March 1945",
+        "Six of seven crew killed",
+        "Tail gunner Bill Heart survived"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed crash report including flight path, time, and cause; crew information and aircraft specifications.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "RAF Halton - Mainpoint Online",
+      "original_url": "http://www.mainpointonline.co.uk/crashed-lancaster/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Aylesbury Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/buckinghamshire/"
+    },
+    {
+      "org_name": "Chartridge Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "shredder.rushed.hunt",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "Bomber Command",
+  "squadron_aliases": [
+    "Bomber Command"
+  ],
+  "crew": [
+    {
+      "name": "Ross Frederick Barnett",
+      "fate": "Killed",
+      "rank": "Flight Sergeant",
+      "role": "Navigator",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/417794",
+      "nationality": "Australian"
+    },
+    {
+      "name": "Arnold Denbigh",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
+    },
+    {
+      "name": "John Charles Gould",
+      "fate": "Killed",
+      "rank": "Flying Officer",
+      "role": "Pilot",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
+    },
+    {
+      "name": "Ellis Wilby Hemsworth",
+      "fate": "Killed",
+      "rank": "Warrant Officer",
+      "role": "Wireless Operator",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/423730",
+      "nationality": "Australian"
+    },
+    {
+      "name": "Gerald John Price Ralph",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Mid-Upper Gunner",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "nationality": "British"
+    },
+    {
+      "name": "Glen Torr",
+      "fate": "Killed",
+      "rank": "Warrant Officer",
+      "role": "Bomb Aimer",
+      "burial_location": "Oxford (Botley) Cemetery",
+      "service_number": "RAAF Aus/417533",
+      "nationality": "Australian"
+    },
+    {
+      "name": "G Hart",
+      "rank": "Sergeant",
+      "fate": "Survived",
+      "role": "Rear Gunner",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Small blue circular plaque with central illustration of a Lancaster in flight, set into a large stone. White coloured inscription, names, drawing and border edgings.",
+  "narrative": "On March 6, 1945, a Lancaster bomber from Bomber Command, registered as PB475, tragically crashed near Bellingdon in the Chilterns, Buckinghamshire. This aircraft, part of a larger mission during World War II, was lost along with its six-member crew. The crew consisted of three members from the Royal Air Force and three from the Royal Australian Air Force. Their lives were senselessly cut short in this tragic event, a stark reminder of the human cost of war.",
+  "inscription": "Six young airmen\ndied at this spot on\n6 March 1945.\nParticipants in, and victims of the\nhuman preoccupation with war.\nGreat lives cut short\nRoyal Air Force\n(3 Names)\nRoyal Australian Air Force\n(3 Names)\nWe remember them.",
+  "community_connection": "The image of the Avro Lancaster PB475 memorial was created and shared by Matthew Robins. The specific details about the community connection or the purpose of this particular memorial are not explicitly stated in the provided text.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "last_validated": "2026-04-12",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/95/827/large_63847b.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/828/large_63847a.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/829/large_63847c.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/830/large_63847d.jpg"
+  ]
 }

@@ -1,85 +1,168 @@
 {
-    "id": "earith-mid-air-collision-w7467-and-hurricane-v6865",
-    "title": "Earith (mid-air collision) Stirling Memorial",
-    "location_name": "Earith (mid-air collision), Cambridgeshire",
-    "county": "Cambridgeshire",
-    "country": "United Kingdom",
-    "region_code": "CB-004",
-    "os_grid_reference": "TL3874",
-    "crash_date": "1942-01-17",
-    "aircraft_type": "Stirling",
-    "serial_number": "W7467 and Hurricane V6865",
-    "squadron": "7 Squadron",
-    "station": "Oakington / 56 OCU, Sutton Bridge",
-    "crew_summary": "9 killed (8 on Stirling + Hurricane pilot)",
-    "memorial_type": "Mid-air collision memorial",
-    "sources": [
-        {
-            "title": "Geograph Cambridgeshire",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.183019545530065,
-    "longitude": 0.01589533194844428,
-    "maintainer": {
-        "organisation": "Earith Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "earith-mid-air-collision-w7467-and-hurricane-v6865",
+  "title": "Earith (mid-air collision) Stirling Memorial",
+  "location_name": "Earith (mid-air collision), Cambridgeshire",
+  "county": "Cambridgeshire",
+  "country": "United Kingdom",
+  "region_code": "CB-004",
+  "os_grid_reference": "TL3874",
+  "crash_date": "1942-01-17",
+  "aircraft_type": "Stirling",
+  "serial_number": "W7467 and Hurricane V6865",
+  "squadron": "7 Squadron",
+  "station": "Oakington / 56 OCU, Sutton Bridge",
+  "crew_summary": "9 killed (8 on Stirling + Hurricane pilot)",
+  "memorial_type": "Mid-air collision memorial",
+  "sources": [
+    {
+      "title": "Geograph Cambridgeshire",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.3538,
+  "longitude": 0.0311,
+  "maintainer": {
+    "organisation": "Earith Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Stirling Aircraft Society",
+      "original_url": "https://stirlingaircraftsociety.org/memorial-to-w7467/",
+      "summary": "Memorial page for Stirling W7467 of 7 Squadron. On 17 January 1942, the Stirling was rammed by Hurricane V6865 from 56 OTU during a mock attack north of Earith Bridge. The Stirling dived into the ground to a depth of 15 feet at Haddenham Drain. All eight Stirling crew and the Hurricane pilot killed.",
+      "key_details": [
+        "Hurricane carried out mock attack on Stirling",
+        "Stirling buried 15 feet deep at Haddenham Drain",
+        "Remains of Sgt Mankelow never recovered",
+        "Memorial erected 1999 by Parish Council and 7 Squadron Association"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Memorial page for Stirling W7467 at Stirling Aircraft Society's site."
     },
-    "external_narratives": [
-        {
-            "source_site": "Stirling Aircraft Society",
-            "original_url": "https://stirlingaircraftsociety.org/memorial-to-w7467/",
-            "summary": "Memorial page for Stirling W7467 of 7 Squadron. On 17 January 1942, the Stirling was rammed by Hurricane V6865 from 56 OTU during a mock attack north of Earith Bridge. The Stirling dived into the ground to a depth of 15 feet at Haddenham Drain. All eight Stirling crew and the Hurricane pilot killed.",
-            "key_details": [
-                "Hurricane carried out mock attack on Stirling",
-                "Stirling buried 15 feet deep at Haddenham Drain",
-                "Remains of Sgt Mankelow never recovered",
-                "Memorial erected 1999 by Parish Council and 7 Squadron Association"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/46478",
-            "summary": "Imperial War Museums register entry for the memorial to Stirling W7467 and its crew at Earith, Cambridgeshire. Nine personnel commemorated (eight Stirling crew plus Hurricane pilot P/O Browne).",
-            "key_details": [
-                "IWM memorial reference 46478",
-                "Nine personnel commemorated"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "TracesOfWar",
-            "original_url": "https://www.tracesofwar.com/sights/24582/Memorial-Aircraft-Collission-Earith.htm",
-            "summary": "International memorial database entry for the aircraft collision memorial at Earith. Documents the mid-air collision between a 7 Squadron Stirling from Oakington and a Hurricane from 56 OCU Sutton Bridge.",
-            "key_details": [
-                "Stirling from RAF Oakington",
-                "Hurricane from 56 OCU Sutton Bridge",
-                "Collision north of Earith Bridge"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Earith, Bluntisham & Colne Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
-        },
-        {
-            "org_name": "Earith Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/7.jpg",
-    "squadron_motto": "Per diem per noctem",
-    "what3words": "enlighten.vocally.group"
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/46478",
+      "summary": "Imperial War Museums register entry for the memorial to Stirling W7467 and its crew at Earith, Cambridgeshire. Nine personnel commemorated (eight Stirling crew plus Hurricane pilot P/O Browne).",
+      "key_details": [
+        "IWM memorial reference 46478",
+        "Nine personnel commemorated"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the Memorial: Earith (mid-air collision) Stirling, honoring nine personnel including Stirling crew and Hurricane pilot P/O Browne."
+    },
+    {
+      "source_site": "TracesOfWar",
+      "original_url": "https://www.tracesofwar.com/sights/24582/Memorial-Aircraft-Collission-Earith.htm",
+      "summary": "International memorial database entry for the aircraft collision memorial at Earith. Documents the mid-air collision between a 7 Squadron Stirling from Oakington and a Hurricane from 56 OCU Sutton Bridge.",
+      "key_details": [
+        "Stirling from RAF Oakington",
+        "Hurricane from 56 OCU Sutton Bridge",
+        "Collision north of Earith Bridge"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The international memorial database entry for the Earith Stirling Memorial commemorating the tragic aircraft collision.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Earith, Bluntisham & Colne Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cambridgeshire/cambridgeshire-branches/"
+    },
+    {
+      "org_name": "Earith Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/7.jpg",
+  "squadron_motto": "Per diem per noctem",
+  "what3words": "legend.finger.gobbles",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "7 Squadron RAF",
+  "squadron_aliases": [
+    "7 Squadron",
+    "7 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "D. M. Browne",
+      "fate": "Killed",
+      "rank": "Browne",
+      "role": "Hurricane Pilot"
+    },
+    {
+      "name": "Sergeant Francis",
+      "fate": "Killed",
+      "rank": null
+    },
+    {
+      "name": "Alan J Low",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "John W Mahler",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Walter Mankelow",
+      "fate": "Killed",
+      "rank": "Mankelow",
+      "role": "Unknown (Crew Member)",
+      "burial_location": "Haddenham Drain"
+    },
+    {
+      "name": "James Mccarley",
+      "fate": "Killed",
+      "rank": "Sergeant",
+      "role": "Unknown (Crew Member)",
+      "burial_location": "Haddenham Drain"
+    },
+    {
+      "name": "Ronald W Taylor",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "James W Waddell",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Black granite tablet with incised inscription and names finished in gilt, set flush into a purpose-built brick wall. Coloured squadron badge at top of tablet. The whole memorial stands within an enclosed roadside corner plot.\n\nCharles left no stone unturned approaching the Home Office, the Commonwealth War Graves Commission, AHB (RAF) the County Police Headquarters in Cambridgeshire, RAF Innsworth, Cambridgeshire County Council, Seven Squadron Association and all local cemeteries and Parish Councils, all to no avail.\n\nIn 1999 a Memorial was erected\n\nRemains Discovery (1959): Work on Haddenham Drain uncovered further remains, assumed to be those of the lost airman. No identity could be established and the bones were disposed of by the police.",
+  "narrative": "On 17 January 1942, Stirling W7467 of 7 Squadron departed RAF Oakington when it was struck by a Hurricane from 56 Operational Training Unit just north of Earith Bridge, Cambridgeshire. The collision sent the Stirling diving into the ground to a depth of fifteen feet at the Haddenham Drain, where it burned for several days before the crater filled with water. All eight crew aboard the Stirling were killed, as was the Hurricane pilot, Pilot Officer Browne \u2014 nine dead in total. The remains of Sergeant McCarley and Sergeant Walter Mankelow could not be recovered from the flooded crater. In 1959, further remains were found during drainage work but could not be identified, and no relatives were contacted. The fate of Sergeant Mankelow's remains was never formally resolved.",
+  "community_connection": "Flagg, highlighting the community's connection to preserving war history through personal contributions.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Investigation",
+        "date": "1996",
+        "description": "Charles Lofthouse conducted a thorough investigation on behalf of the family, approaching various institutions for information. No new leads were discovered."
+      }
+    ]
+  },
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/73/370/large_p1010407_1_0.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/170/716/large_46478.jpg"
+  ]
 }

@@ -1,83 +1,137 @@
 {
-    "id": "dry-doddington-pb432",
-    "title": "Dry Doddington Lancaster Memorial",
-    "location_name": "Dry Doddington, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-009",
-    "crash_date": "1944-11-26",
-    "aircraft_type": "Lancaster",
-    "serial_number": "PB432",
-    "squadron": "49 Sqdn.",
-    "station": "Fulbeck",
-    "crew_summary": "2 of 7 killed including Sgt. Norman Isaac Langley",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.07267393266296,
-    "longitude": -0.2000071386602407,
-    "maintainer": {
-        "organisation": "Dry Doddington Parish Meeting",
-        "maintainer_type": "parish-council"
+  "id": "dry-doddington-pb432",
+  "title": "Dry Doddington Lancaster Memorial",
+  "location_name": "Dry Doddington, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-009",
+  "crash_date": "1944-11-26",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB432",
+  "squadron": "49 Squadron RAF",
+  "station": "Fulbeck",
+  "crew_summary": "2 of 7 killed including Sgt. Norman Isaac Langley",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.0107,
+  "longitude": -0.7323,
+  "maintainer": {
+    "organisation": "Dry Doddington Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "49 Squadron Association",
+      "original_url": "https://www.49squadron.co.uk/memorials/memorial_doddington",
+      "summary": "49 Squadron Association memorial page for Lancaster PB432 EA-O at Dry Doddington Church. The aircraft crashed on 26 November 1944 shortly after take-off from Fulbeck for a mission to Munich, laden with bombs and fuel. Two of seven crew killed: Sgt Langley (W/OP) and Sgt Blake (mid-upper gunner).",
+      "key_details": [
+        "Aircraft coded EA-O 'O-Oboe'",
+        "Crashed shortly after take-off for Munich raid",
+        "Pilot F/O Le Marquand survived with slight injuries",
+        "Memorial in Dry Doddington Church"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore the poignant Memorial of Lancaster PB432 EA-O at Dry Doddington Church."
     },
-    "external_narratives": [
-        {
-            "source_site": "49 Squadron Association",
-            "original_url": "https://www.49squadron.co.uk/memorials/memorial_doddington",
-            "summary": "49 Squadron Association memorial page for Lancaster PB432 EA-O at Dry Doddington Church. The aircraft crashed on 26 November 1944 shortly after take-off from Fulbeck for a mission to Munich, laden with bombs and fuel. Two of seven crew killed: Sgt Langley (W/OP) and Sgt Blake (mid-upper gunner).",
-            "key_details": [
-                "Aircraft coded EA-O 'O-Oboe'",
-                "Crashed shortly after take-off for Munich raid",
-                "Pilot F/O Le Marquand survived with slight injuries",
-                "Memorial in Dry Doddington Church"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "49 Squadron Association (PDF)",
-            "original_url": "https://www.49squadron.co.uk/assets/pdf/the_fulbeck_tragedy.pdf",
-            "summary": "Detailed PDF account titled 'The Fulbeck Tragedy' documenting the circumstances of Lancaster PB432's crash. Provides crew details and the sequence of events leading to the failed take-off.",
-            "key_details": [
-                "Detailed crew listing with injuries",
-                "Sgt Wade (F/E) seriously injured",
-                "F/S Ransom (NAV) slightly injured"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/name/1552671",
-            "summary": "Imperial War Museums register entries for the crew of Lancaster PB432 commemorated at Dry Doddington, including Sgt Blake and Sgt Langley.",
-            "key_details": [
-                "IWM casualty register entries for Blake and Langley"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Grantham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Dry Doddington Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
-    "squadron_motto": "Cave canem",
-    "what3words": "graphics.overruns.almost"
+    {
+      "source_site": "49 Squadron Association (PDF)",
+      "original_url": "https://www.49squadron.co.uk/assets/pdf/the_fulbeck_tragedy.pdf",
+      "summary": "Detailed PDF account titled 'The Fulbeck Tragedy' documenting the circumstances of Lancaster PB432's crash. Provides crew details and the sequence of events leading to the failed take-off.",
+      "key_details": [
+        "Detailed crew listing with injuries",
+        "Sgt Wade (F/E) seriously injured",
+        "F/S Ransom (NAV) slightly injured"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed PDF account on 49 Squadron Association: The Fulbeck Tragedy - Lancaster PB432's crash narrative, crew information, and event sequence."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/name/1552671",
+      "summary": "Imperial War Museums register entries for the crew of Lancaster PB432 commemorated at Dry Doddington, including Sgt Blake and Sgt Langley.",
+      "key_details": [
+        "IWM casualty register entries for Blake and Langley"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore detailed records of Lancaster PB432's crew members, particularly Sgt. Blake and Sgt. Langley, from Imperial War Museums' register."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Grantham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Dry Doddington Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
+  "squadron_motto": "Cave canem",
+  "what3words": "sharpens.prefer.decoded",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "49 Squadron RAF",
+  "squadron_aliases": [
+    "49 Sqdn.",
+    "49 Squadron"
+  ],
+  "memorial_details": "Name: Blake, E. G.\nLocation: Avro Lancaster PB432 (WMR 92263) Dry Doddington Lincolnshire",
+  "narrative": "Lancaster PB432 of 49 Squadron RAF departed Fulbeck on operations on 26 November 1944, with pilot Le Marquand at the controls. The aircraft came down at Dry Doddington, Lincolnshire, a short distance from its home station. Of the seven crew members aboard, two were killed: Sergeant E. G. Blake, air gunner, and Sergeant Norman Isaac Langley, wireless operator. The remaining five, including navigator R.E. Ransom and flight engineer W.S. Wade, survived.",
+  "crew": [
+    {
+      "name": "E. G. Blake",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "burial_location": "Dry Doddington, England",
+      "nationality": "British"
+    },
+    {
+      "name": "G.H. Le Marquand",
+      "rank": "Le Marquand",
+      "fate": "Unknown",
+      "role": "Pilot"
+    },
+    {
+      "name": "W.S. Wade",
+      "rank": null,
+      "fate": "Survived",
+      "role": "F/E"
+    },
+    {
+      "name": "R.E. Ransom",
+      "rank": null,
+      "fate": "Survived",
+      "role": "NAV"
+    },
+    {
+      "name": "N.I. Langley",
+      "rank": null,
+      "fate": "Killed",
+      "role": "W/OP"
+    }
+  ],
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

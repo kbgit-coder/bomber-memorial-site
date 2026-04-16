@@ -19,10 +19,10 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 52.57723625617651,
-  "longitude": -0.9879469360313861,
+  "last_updated": "2026-04-09",
+  "data_quality": "Comprehensive",
+  "latitude": 52.8971,
+  "longitude": -0.8592,
   "maintainer": {
     "organisation": "Plungar Parish Meeting",
     "maintainer_type": "parish-council"
@@ -37,7 +37,8 @@
         "Memorial catalogued in national War Memorials Register"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Plungar Lancaster Memorial honoring fallen crew from IWM War Memorials Register."
     },
     {
       "source_site": "TracesOfWar.com",
@@ -48,7 +49,10 @@
         "Aircraft was returning from mine-laying operation over France"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Lancaster Memorial at Plungar: International crash site database entry for ED549, detailing the 100 Squadron's tragic loss during a mine-laying mission.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "War Memorials Online",
@@ -61,30 +65,8 @@
         "Championed by local historian Tim Chamberlain"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Leicestershire War Memorials",
-      "original_url": "http://www.leicestershirewarmemorials.co.uk/war/memorials/view/2276",
-      "summary": "County-level memorial register entry recording the RAF Lancaster Bomber crash memorial at Plungar, with local historical context for the Leicestershire area.",
-      "key_details": [
-        "Listed in Leicestershire county memorial register"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Air Crash Victims of World War II (tr4ce.co.uk)",
-      "original_url": "http://tr4ce.co.uk/aircrash/?page_id=73",
-      "summary": "Detailed crew listing for Lancaster ED549 HW-S of 100 Squadron. Records crew ages: Flt Sgt Avey RCAF (21), Sgt Hallett (23), Sgt Spence (32), Sgt Cumberbatch (21), Sgt Robinson (34), Flt Sgt Landry RCAF (23), with Sgt D.S. Davies as the sole survivor.",
-      "key_details": [
-        "Two crew members were RCAF (Canadian)",
-        "Sgt Grey Doyle Cumberbatch aged 21",
-        "Sole survivor was Sgt D.S. Davies",
-        "Aircraft code was HW-S"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The Plungar Lancaster Memorial: A community-maintained granite tribute unveiled in 2012 after a solemn service at St Helen's Church."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -97,7 +79,26 @@
         "Semi-stalled condition on approach"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore aviation safety incident details of Lancaster ED549 landing mishap at Langar aerodrome."
+    },
+    {
+      "source_site": "Leicestershire War Memorials",
+      "original_url": "http://www.leicestershirewarmemorials.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 — may return, check periodically"
+    },
+    {
+      "source_site": "Air Crash Victims of World War II (tr4ce.co.uk)",
+      "original_url": "http://www.tr4ce.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 404,
+      "link_check_note": "HTTP 404 on 2026-04-13 — may return, check periodically"
     }
   ],
   "local_contacts": [
@@ -115,7 +116,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/100.jpg",
   "squadron_motto": "Sarang tebuan jangan dijolok",
-  "what3words": "shades.reflector.firepower",
+  "what3words": "spill.everyone.skyrocket",
   "photos": [
     {
       "filename": "plungar-ed549/5bf1ba3656199_20181118_150554_547x410.jpg",
@@ -152,5 +153,74 @@
       "caption": "20200630 132411",
       "credit": "Richard Macfarlane / War Memorials Online"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "100 Squadron RAF",
+  "squadron_aliases": [
+    "100 Sqdn.",
+    "100 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "G. R. Avey",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "G. D. Cumberbatch",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Ds. Davies",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "B. T. Hallett",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. R. Landry",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. Robinson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. H. Spence",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "(sole survivor)",
+      "fate": "Survived",
+      "fate_detail": "Sole survivor of the crash, name inscribed on memorial",
+      "rank": "Unknown"
+    }
+  ],
+  "memorial_details": "Granite headstone shaped stone dedicated to the memory of 6 aircrew who died when the aircraft crash landed just to the north of the memorial on the 5 March 1943 after engine trouble following a mine laying operation over France. Flanked by two wooden posts and an information board about the incident.\n\nMemorial Unveiling: The unveiling of the Avro Lancaster ED549 memorial.",
+  "narrative": "On March 5, 1943, Lancaster bomber ED549, belonging to 100 Squadron, tragically crashed near this site upon its return from operations in France. Among the crew, only one individual survived - the sole survivor. This memorial honors the remaining members of the crew who perished that day.",
+  "inscription": "IN MEMORY OF\nTHE CREW OF\nLANCASTER BOMBER ED549\nWHICH CRASHED CLOSE TO\nTHIS SITE ON RETURNING\nFROM OPERATIONS IN FRANCE\n5TH MARCH 1943\n[names of crew who perished inscribed on memorial]\n[name of sole survivor inscribed on memorial]\nWAS THE\nSOLE SURVIVOR\nWE WILL REMEMBER THEM",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "This event is commemorated through a memorial unveiled in 2012 to honor the crew.",
+  "crash_category": "operational-return",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/53/854/large_80471.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/173/257/large_80471.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/53/855/large_80471_inscr_lancaster_crash_plungar.jpg"
   ]
 }

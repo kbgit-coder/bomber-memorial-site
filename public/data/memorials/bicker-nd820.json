@@ -34,95 +34,100 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
-  "narrative": "Lancaster ND820 took off from RAF Downham Market in Norfolk at 10:58 on the morning of 10 April 1944 for a bombing practice flight. The brand-new aircraft had only 6 hours of airtime. Just 22 minutes later, the aircraft was in serious trouble. Over Swineshead, witnesses saw the Lancaster catch fire. The auto-pilot is suspected of having malfunctioned, causing the aircraft to enter a diving turn at 8,000 feet. As the stricken bomber crossed over the village of Bicker, a figure was seen bailing out — this was F/O Thomas Ferguson Wilson, the 26-year-old Canadian navigator from Lucknow, Ontario. Wilson's parachute opened, but he was already dead or dying when he reached the ground. He is buried at Stonefall Cemetery in Harrogate. The Lancaster crashed in flames at Bicker, and the remaining six crew were killed. The fire was so intense that their remains could not be recovered; they are commemorated on the Runnymede Memorial. For decades, the people of Bicker honoured the seven men in an annual ceremony — and Wilson's family in Canada had no idea. It was not until recently that Canadian journalist CBC News connected the family with the Bicker community. The reunion of family and village was deeply emotional.",
+  "narrative": "Flying a training operation from Downham Market, the crew of Lancaster ND820 never reached enemy skies. A suspected autopilot malfunction caused the brand-new aircraft — with only six hours of airtime — to enter a diving turn at 8,000 feet, catch fire, and crash near Bicker, Lincolnshire on 10 April 1944. Flight Sergeant Joseph Bernard Bannan, aged 24, was among the seven crew members killed. The youngest aboard, Sergeant John William Nixon, was just 19 years old. Assigned to 635 Squadron, the Lancaster was lost before flying a single operational sortie.",
   "crew": [
     {
       "rank": "Fl/Sgt",
       "name": "Joseph Bernard Bannan",
       "age": 24,
       "role": "Pilot",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed when Lancaster ND820 crashed in flames at Bicker. Remains unrecovered due to intensity of fire; commemorated on the Runnymede Memorial.",
       "cwgc_verified": true,
-      "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type."
+      "bio": "Fl/Sgt Bannan was 24 years old. He had 254 hours total flying time with only 15 hours on the Lancaster type.",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Douglas James Farrant",
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Anthony Ivor Hunter",
       "age": 28,
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "W/O",
       "name": "Roland Thornton Lord",
       "age": 25,
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Reuben Horace Malthouse",
       "age": 23,
       "role": "Wireless Operator",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "John William Nixon",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Runnymede Memorial (unrecovered)",
       "fate": "Killed",
       "fate_detail": "At 19, the youngest crew member. Killed in the crash. Remains unrecovered; commemorated on the Runnymede Memorial.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "nationality": "British"
     },
     {
       "rank": "F/O",
       "name": "Thomas Ferguson Wilson",
       "age": 26,
       "role": "Navigator",
-      "nationality": "Canadian",
       "burial_location": "Harrogate (Stonefall) Cemetery",
       "fate": "Killed",
       "fate_detail": "Bailed out as the Lancaster went down but was already dead or dying when his parachute brought him to earth. The only crew member whose body was recovered. Buried at Stonefall Cemetery, Harrogate.",
       "cwgc_verified": true,
       "bio": "F/O Wilson was 26 years old, from Lucknow, Ontario, Canada. For decades his family had no idea that the village of Bicker held annual commemoration ceremonies in his honour. CBC News recently connected the family with the Bicker community in a deeply emotional reunion.",
-      "hometown": "Lucknow, Ontario, Canada"
+      "hometown": "Lucknow, Ontario, Canada",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "J. B. Barran",
+      "fate": "Killed",
+      "rank": "—"
     }
   ],
   "cause_of_loss": "Suspected auto-pilot malfunction; aircraft entered diving turn at 8,000 feet and caught fire; brand-new aircraft with only 6 hours airtime",
   "operation_type": "Training",
-  "memorial_details": "A stone memorial plaque set into a brick cairn supporting a cross was unveiled on 10 April 2004 — the 60th anniversary, built directly over the impact point by the Lincolnshire Aircraft Recovery Group (LARG). Located on Eaudike Road, Bicker. Annual commemoration ceremonies have been held ever since. Condition: good.",
-  "latitude": 53.26158353430527,
-  "longitude": -0.41295830365201025,
+  "memorial_details": "Rectangular brick pillar surmounted by a white cross, set on slabs and surrounded by posts and chain links . Dedicatory plaque placed on Face 1 with a smaller plaque above it depicting the squadron badge.\n\nMemorial Display: The memorial displays the Avro Lancaster ND820, a type of bomber used extensively during World War II.\n\nUnveiling Ceremony (10 April 2004): 60th anniversary of the crash, commemorating the site with a red brick built pier and white cross",
+  "latitude": 52.911049,
+  "longitude": -0.178319,
   "maintainer": {
     "organisation": "Bicker Parish Council",
     "maintainer_type": "parish-council"
@@ -139,7 +144,8 @@
         "Pilot Farrant had 254 hours total, 15 on type"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Lancaster ND820's tragic crash during WW2, including suspected auto-pilot malfunction and crew information."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -149,7 +155,8 @@
         "IWM memorial reference 59226"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed War Memorial Register entry for Lancaster ND820, including crash site and 60th anniversary memorial."
     },
     {
       "source_site": "War Memorials Online",
@@ -161,7 +168,8 @@
         "Unveiled 10 April 2004, 60th anniversary"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Bicker Lancaster Memorial's construction, unveiling, and historical context."
     },
     {
       "source_site": "CBC News Canada",
@@ -174,7 +182,8 @@
         "Reunion described as deeply emotional"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Emotional Reunion at Bicker Lancaster Memorial: Unveiling a Decades-Long Honour for F/O Thomas Ferguson Wilson, Remembered by the Community in Lincolnshire, England."
     }
   ],
   "local_contacts": [
@@ -188,9 +197,15 @@
       "org_name": "Bicker Parish Council",
       "org_type": "parish_council",
       "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Memorial liaison — Dave Stubley (referred by parish clerk)",
+      "email": "bickerpc@gmail.com",
+      "org_name": "Bicker Parish Council",
+      "org_type": "Parish Council"
     }
   ],
-  "what3words": "ditched.reliving.nightcap",
+  "what3words": "juggler.event.though",
   "photos": [
     {
       "filename": "bicker-nd820/5d22645618588_LI_Bicker_3_547x410.JPG",
@@ -217,5 +232,37 @@
       "caption": "Bicker Lancaster",
       "credit": "Tony Hibberd / War Memorials Online"
     }
+  ],
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "635 Squadron RAF",
+  "squadron_aliases": [
+    "635 Sqdn.",
+    "635 Squadron"
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial event",
+        "date": "April 2026",
+        "description": "Memorial event held at Bicker (reported by parish council, exact date TBC)"
+      }
+    ]
+  },
+  "community_connection": "The Avro Lancaster ND820 memorial was created and shared by Gary Johnson. Another image of the same memorial was also contributed by Colin Murray, further emphasizing the community connection and shared interest in preserving this piece of history. The memorial at Bicker Fen, England, is a red brick built pier with a white cross on top, featuring plaques on the front face.",
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/47/905/large_59226.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/128/32/large_nd820_memorial.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/128/33/large_nd820_memorial_plaques.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/128/34/large_nd820_memorial_plaque_inscription.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/128/35/large_nd820_memorial_in_context.jpg"
   ]
 }

@@ -1,68 +1,178 @@
 {
-    "id": "little-yeldham-hf471",
-    "title": "Little Yeldham Wellington Memorial",
-    "location_name": "Little Yeldham, Essex",
-    "county": "Essex",
-    "country": "United Kingdom",
-    "region_code": "EX-004",
-    "crash_date": "1944-04-11",
-    "aircraft_type": "Wellington",
-    "serial_number": "HF471",
-    "squadron": "30 OTU",
-    "station": "Hixon",
-    "crew_summary": "7 killed including Plt Off. Charles Henry Gale",
-    "memorial_type": "Monument",
-    "sources": [
-        {
-            "title": "Geograph Essex",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 51.6997372648629,
-    "longitude": 0.587451491671461,
-    "maintainer": {
-        "organisation": "Little Yeldham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "little-yeldham-hf471",
+  "title": "Little Yeldham Wellington Memorial",
+  "location_name": "Little Yeldham, Essex",
+  "county": "Essex",
+  "country": "United Kingdom",
+  "region_code": "EX-004",
+  "crash_date": "1944-04-11",
+  "aircraft_type": "Wellington",
+  "serial_number": "HF471",
+  "squadron": "30 OTU",
+  "station": "Hixon",
+  "crew_summary": "7 killed including Plt Off. Charles Henry Gale",
+  "memorial_type": "Monument",
+  "sources": [
+    {
+      "title": "Geograph Essex",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Good",
+  "latitude": 52.02571,
+  "longitude": 0.591859,
+  "maintainer": {
+    "organisation": "Little Yeldham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/hf471.html",
+      "summary": "Records Wellington HF471 of 30 OTU as having crashed during a training flight. One crew member, Sgt Ronald Victor Smith (aged 21), was the wireless operator/air gunner and was buried at Little Yeldham Churchyard, Essex -- suggesting the aircraft crashed in or near the village. Plt Off Charles Henry Gale received his commission on 6 April 1944, shortly before the fatal flight.",
+      "key_details": [
+        "Sgt Ronald Victor Smith aged 21, buried Little Yeldham Churchyard",
+        "Gale commissioned 6 April 1944, days before crash"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The memorial honoring Sgt Ronald Victor Smith's tragic loss in a training flight crash."
     },
-    "external_narratives": [
-        {
-            "source_site": "Yorkshire Aircraft",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/hf471.html",
-            "summary": "Records Wellington HF471 of 30 OTU as having crashed during a training flight. One crew member, Sgt Ronald Victor Smith (aged 21), was the wireless operator/air gunner and was buried at Little Yeldham Churchyard, Essex -- suggesting the aircraft crashed in or near the village. Plt Off Charles Henry Gale received his commission on 6 April 1944, shortly before the fatal flight.",
-            "key_details": [
-                "Sgt Ronald Victor Smith aged 21, buried Little Yeldham Churchyard",
-                "Gale commissioned 6 April 1944, days before crash"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Archaeology (Midlands)",
-            "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
-            "summary": "The Midlands Aircraft Recovery Group's 1944 crash list includes Wellington HF471 among the training losses from 30 OTU at RAF Hixon in Staffordshire. The unit suffered significant attrition during the training programme, with crashes occurring across a wide area of central and eastern England.",
-            "key_details": [
-                "Listed in MARG 1944 crash records",
-                "30 OTU based at RAF Hixon, Staffordshire"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Wickford & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
-        },
-        {
-            "org_name": "Little Yeldham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "culling.puddings.impaled"
+    {
+      "source_site": "Aviation Archaeology (Midlands)",
+      "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
+      "summary": "The Midlands Aircraft Recovery Group's 1944 crash list includes Wellington HF471 among the training losses from 30 OTU at RAF Hixon in Staffordshire. The unit suffered significant attrition during the training programme, with crashes occurring across a wide area of central and eastern England.",
+      "key_details": [
+        "Listed in MARG 1944 crash records",
+        "30 OTU based at RAF Hixon, Staffordshire"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Details about the 1944 Wellington HF471 aircraft loss site at Little Yeldham Wellington Memorial."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Wickford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/essex/contact-us/"
+    },
+    {
+      "org_name": "Little Yeldham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "commands.alert.poets",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Adrian Corder-Birch (local historian), Holly (PAI geocoding)",
+    "verification_date": "2026-04-06",
+    "community_submissions": 1,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "30 OTU",
+  "squadron_aliases": [
+    "30 OTU"
+  ],
+  "narrative": "On 11th April 1944 the crew of this 30 Operational Training Unit aircraft took off from Hixon airfield to undertake a night cross-country training flight. The course of the flight took them over the Goole area and at 21.00hrs the aircraft flying through cloud when it dived into ground. The aircraft crashed into a field near Sand Hall Farm, around a mile south-east of Goole and unfortunately all on board were killed. This webpage is very basic but as learn more about the incident and crew I will develop it. Pilot - P/O Charles Henry George Gale RAFVR (174617), aged 31, of Herringfleet. Buried Herringfleet Churchyard, Suffolk. Navigator - P/O Francis George Newell RAFVR (168745), aged 34, of Sands, High Wycombe. Buried High Wycombe Cemetery, Buckinghamshire.",
+  "crew": [
+    {
+      "name": "Charles Henry George Gale",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 31,
+      "burial_location": "Herringfleet Churchyard, Suffolk"
+    },
+    {
+      "name": "Francis George Newell",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Navigator",
+      "age": 34,
+      "burial_location": "High Wycombe Cemetery, Buckinghamshire"
+    },
+    {
+      "name": "Robert Charles Smith",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "age": 20,
+      "burial_location": "Nottingham Northern Cemetery (E18/4)"
+    },
+    {
+      "name": "Sydney Philip",
+      "rank": "Sgt",
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 21,
+      "burial_location": "New Pitsligo Churchyard, Aberdeenshire"
+    },
+    {
+      "name": "Armel Gordon O'Connor",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "age": 19,
+      "burial_location": "Guildford Cemetery, Surrey"
+    },
+    {
+      "name": "E R Lumsdaine",
+      "rank": "W/O",
+      "fate": "Killed",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "S Withingham",
+      "rank": "Pupil pilot",
+      "fate": "Survived",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown",
+      "fate": "Unknown",
+      "role": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "G B Hollings RAAF",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Australian"
+    }
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Memorial Service",
+        "date": null,
+        "description": "A service held by Howden Youth Centre members as part of a Duke of Edinburgh Award project in May 1999 to confirm the crash location. Assisted by historians Ken Reast, Albert Pritchard and Eric Barton."
+      },
+      {
+        "name": "Beaufighter T3088 of 63 OTU",
+        "date": "02/01/1944",
+        "description": "Starboard tyre burst on take off from Honiley; undercarriage retracted to stop. Pupil pilot Sgt S Withingham was unhurt."
+      },
+      {
+        "name": "Oxford LW820 of 18 PAFU",
+        "date": "03/01/1944",
+        "description": "Flew into a radio mast at night at Hillmorton. Pilot F/Sgt G B Hollings RAAF was killed."
+      },
+      {
+        "name": "Mosquito LR259 of 464 Squadron",
+        "date": "06/01/1944",
+        "description": "Hit the ground and a hangar while beating up Chipping Warden airfield. The pilot, F/Sgt K R Russell RAAF and navigator, W/O E R Lumsdaine were both killed."
+      }
+    ]
+  },
+  "crash_category": "training",
+  "narrative_quality_score": 5
 }

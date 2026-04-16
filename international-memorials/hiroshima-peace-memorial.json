@@ -1,0 +1,75 @@
+{
+  "id": "hiroshima-peace-memorial",
+  "title": "Hiroshima Peace Memorial",
+  "location_name": "Hiroshima",
+  "country": "Japan",
+  "narrative": "Hiroshima Peace Memorial Museum A single atomic bomb indiscriminately killed tens of thousands of people, profoundly disrupting and altering the lives of the survivors. The museum is open today 7:30-19:00 (Last entry is 30 min. before closing time) For the safety of the visitors, admission may be temporarily restricted when the museum is crowded. WEB ticket purchase is required to enter the museum at 7:30-8:30 or 17:30-18:30. The ticket counter is closed during these time slots. WEB tickets may be sold out before the last entry (18:30). ------------------------------------------------------ The museum currently receives a large number of visitors, and can become very crowded depending on the time of your visit. March-July & September-November: 7:30–8:30 and 17:30–19:00 (ticket counter and vending machines close at 17:30) August: 7:30–8:30 and 18:30–20:00 (ticket counter and vending machines close at 18:30) December-February: 7:30–8:30 and 16:30–18:00 (ticket counter and vending machines close at 16:30) Web ticket purchase and congestion guidelines Flyer \"Visitor Guide for the Main Building\" – Explore in about 30 Minutes Visitors with other purposes* may enter the museum without waiting in line for tickets. (*Attending special exhibit",
+  "memorial_type": "UNESCO World Heritage Site",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": 34.3931714,
+  "longitude": 132.4523008,
+  "external_narratives": [
+    {
+      "source_site": "UNESCO World Heritage Centre",
+      "original_url": "https://whc.unesco.org/en/list/775/",
+      "summary": "The Hiroshima Peace Memorial (Genbaku Dome) was inscribed on the UNESCO World Heritage List in December 1996. It is the only structure left standing near the hypocentre of the atomic bomb detonated on 6 August 1945, preserved in its post-explosion condition as a symbol of peace and nuclear disarmament.",
+      "key_details": [
+        "UNESCO World Heritage Site since 1996",
+        "Only structure surviving near bomb hypocentre",
+        "Preserved in post-explosion condition"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "Explore Hiroshima's poignant Peace Memorial, a haunting testament to nuclear devastation and peace advocacy."
+    },
+    {
+      "source_site": "Hiroshima Peace Memorial Museum",
+      "original_url": "http://hpmmuseum.jp/?lang=eng",
+      "summary": "The Hiroshima Peace Memorial Museum provides the official interpretive context for the Genbaku Dome and the broader peace memorial park. Three conservation projects (1967, 1989-1990, 2002-2003) have used minimal reinforcement to preserve the dome's condition.",
+      "key_details": [
+        "Three conservation projects undertaken",
+        "Official museum and interpretive centre"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Hiroshima Peace Memorial Museum's official interpretations of Genbaku Dome and peace memorials."
+    }
+  ],
+  "what3words": "rollers.points.woods",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Museum Opening Hours",
+        "date": "Daily",
+        "description": "The museum is open from 7:30 AM to 7:00 PM (last entry 30 minutes before closing time)."
+      },
+      {
+        "name": "WEB Ticket Purchase Requirement",
+        "date": "7:30-8:30 AM and 5:30-6:30 PM",
+        "description": "WEB tickets are required for entry during these time slots. The ticket counter is closed during these periods."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "Not explicitly stated"
+  },
+  "community_connection": "Thank you for your understanding and cooperation.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4
+}

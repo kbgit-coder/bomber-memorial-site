@@ -1,0 +1,41 @@
+{
+  "id": "avro-lancaster-lm720",
+  "title": "Avro Lancaster LM720",
+  "location_name": "Salthouse, North Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM720",
+  "squadron": "61 Squadron",
+  "crash_date": "1945-01-15",
+  "memorial_type": "Other memorial",
+  "memorial_details": "Wall-hung paper scroll mounted on black backboard. Hand-drawn side elevation of Lancaster at top with handwritten dedication and names below. 61 Squadron crest and drawing of Home-Chain radar tower at bottom left.",
+  "inscription": "LANCASTER MK III LM720, 61 SQUADRON/SKELLINGTHORPE/ DEDICATED TO THE MEMORY OF THE CREW/ OF THE ABOVE AIRCRAFT WHO DIED/ WHEN IT CRASHED INTO BARD HILL CHEL/ RADAR PYLON RETURNING FROM A RAID / ON MERSEBURG, ON 15TH JANUARY 1945. (Names)",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/56361",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 52.95032385118,
+  "longitude": 1.089064678768,
+  "grid_ref": "TG 07621",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "St Nicolas' Church",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/132/279/large_nf_salthouse_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/281/large_nf_salthouse_4.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/132/280/large_nf_salthouse_3.jpg"
+  ],
+  "community_connection": "Dedicated to The Memory of The Crew of The Above Aircraft Who Died"
+}

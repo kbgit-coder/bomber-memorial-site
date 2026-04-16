@@ -3,8 +3,13 @@
 
 import json
 import os
+import sys
 
-MEMORIALS_DIR = "/nas2/Holly/Projects/bomber-memorial-site/public/data/memorials"
+# Module import for provenance logging
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scrape_provenance import ProvenanceLog
+
+MEMORIALS_DIR = "/root/repos/bomber-memorial-site/public/data/memorials"
 SCRAPED_FILE = "/tmp/aircrew-scraped-all.json"
 
 def truncate_content(content, max_chars=5000):
@@ -69,6 +74,36 @@ def main():
         print(f"  OK: {item['filename']} ({len(truncate_content(content))} chars)")
 
     print(f"\nDone: {updated} memorials enriched with narrative content")
+
+    # Update provenance stats — count actual full_narrative entries per domain
+    if updated > 0:
+        log = ProvenanceLog()
+        # Recount from the now-updated files to get accurate stats
+        from collections import Counter
+        domain_full_text = Counter()
+        domain_memorials = Counter()
+        import glob
+        for fp in glob.glob(os.path.join(MEMORIALS_DIR, "*.json")):
+            with open(fp) as fh:
+                data = json.load(fh)
+            slug = os.path.basename(fp).replace(".json", "")
+            for n in data.get("external_narratives", []):
+                url = n.get("original_url", "")
+                if "://" not in url:
+                    continue
+                domain = url.split("://")[1].split("/")[0].replace("www.", "")
+                if n.get("full_narrative"):
+                    domain_full_text[domain] += 1
+                    domain_memorials[domain] += 1
+        # Update domains that were touched
+        for domain in domain_full_text:
+            log.update_domain_stats(
+                domain,
+                memorials_linked=domain_memorials[domain],
+                entries_with_full_text=domain_full_text[domain],
+            )
+        log.save()
+        print("Provenance stats updated")
 
 if __name__ == "__main__":
     main()

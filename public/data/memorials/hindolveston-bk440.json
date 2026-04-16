@@ -1,80 +1,141 @@
 {
-    "id": "hindolveston-bk440",
-    "title": "Hindolveston Wellington Memorial",
-    "location_name": "Hindolveston, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-025",
-    "crash_date": "1943-12-11",
-    "aircraft_type": "Wellington",
-    "serial_number": "BK440",
-    "squadron": "16 OTU",
-    "station": "Little Horwood",
-    "crew_summary": "6 killed including Flt Sgt. Arthur Merridew",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.73157625322716,
-    "longitude": 1.0604324616059828,
-    "maintainer": {
-        "organisation": "Hindolveston Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "hindolveston-bk440",
+  "title": "Hindolveston Wellington Memorial",
+  "location_name": "Hindolveston, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-025",
+  "crash_date": "1943-12-11",
+  "aircraft_type": "Wellington",
+  "serial_number": "BK440",
+  "squadron": "16 OTU",
+  "station": "Little Horwood",
+  "crew_summary": "6 killed including Flt Sgt. Arthur Merridew",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.8230822,
+  "longitude": 1.020159,
+  "maintainer": {
+    "organisation": "Hindolveston Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101339",
+      "summary": "The IWM registers the memorial to the crew of Wellington BK440 at Hindolveston. The aircraft was on a navigation training sortie from RAF Little Horwood when it crashed near Park Farm, Hindolveston, approximately 8 miles ESE of Fakenham, exploding at about 0800 hours on 11 December 1943.",
+      "key_details": [
+        "IWM memorial reference 101339",
+        "Crashed near Park Farm, Hindolveston",
+        "Exploded at approximately 0800 hours",
+        "Navigation training sortie"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The IWM War Memorials Register entry for Hindolveston Wellington Memorial."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101339",
-            "summary": "The IWM registers the memorial to the crew of Wellington BK440 at Hindolveston. The aircraft was on a navigation training sortie from RAF Little Horwood when it crashed near Park Farm, Hindolveston, approximately 8 miles ESE of Fakenham, exploding at about 0800 hours on 11 December 1943.",
-            "key_details": [
-                "IWM memorial reference 101339",
-                "Crashed near Park Farm, Hindolveston",
-                "Exploded at approximately 0800 hours",
-                "Navigation training sortie"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Heroes of Our Time",
-            "original_url": "https://heroesofourtime.co.uk/hindolveston-wellington-crash-.html",
-            "summary": "Local history website created by Donna Gray based on war research by her late father Richard of Hindolveston. Documents the Wellington BK440 crash and its impact on the rural Norfolk community, providing personal accounts and local context.",
-            "key_details": [
-                "Local family research project",
-                "Personal accounts from Hindolveston residents"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Hindolveston Village",
-            "original_url": "https://hindolvestonparishcouncil.norfolkparishes.gov.uk/the-village/world-war-rememberance-links/",
-            "summary": "The Hindolveston parish council maintains a World War remembrance links page that includes reference to the Wellington BK440 crash memorial as part of the village's WW2 heritage.",
-            "key_details": [
-                "Parish council maintains remembrance page"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Holt Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Hindolveston Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "bullion.taken.instructs"
+    {
+      "source_site": "Heroes of Our Time",
+      "original_url": "https://heroesofourtime.co.uk/hindolveston-wellington-crash-.html",
+      "summary": "Local history website created by Donna Gray based on war research by her late father Richard of Hindolveston. Documents the Wellington BK440 crash and its impact on the rural Norfolk community, providing personal accounts and local context.",
+      "key_details": [
+        "Local family research project",
+        "Personal accounts from Hindolveston residents"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore local history through detailed accounts of the Wellington BK440 crash's profound impact on rural Norfolk community."
+    },
+    {
+      "source_site": "Hindolveston Village",
+      "original_url": "https://hindolvestonparishcouncil.norfolkparishes.gov.uk/the-village/world-war-rememberance-links/",
+      "summary": "The Hindolveston parish council maintains a World War remembrance links page that includes reference to the Wellington BK440 crash memorial as part of the village's WW2 heritage.",
+      "key_details": [
+        "Parish council maintains remembrance page"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Hindolveston's WWII Heritage and Wellington BK440 Crash Memorial on Parish Council's Remembrance Page."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Holt Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Hindolveston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "tribes.carrots.derailed",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "16 OTU",
+  "squadron_aliases": [
+    "16 OTU"
+  ],
+  "crew": [
+    {
+      "name": "E. W. Brown",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "N. Doherty",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "A. W. Ellis",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "W. E. Martin",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "A. Merridew",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "S. Wilson",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Large piece of pre-cast cement (origin unknown) with a light-metal plaque fixed to a sloping face on the right-hand side. The plaque features a side elevation of a Wellington bomber and names of the crew printed in black, upper and lower-case letters. A concrete flower pot is placed on the top (horizontal) face at the left-hand side of the memorial. This memorial is located within the railings of the village WW1 memorial cross (ref: 1318).\n\nMemorial Unveiling: The unveiling of the Vickers Wellington BK440 memorial by IBCC (Imperial War Museums).\n\nWorld War I Remembrance (Summer 2014): Full size figures of soldiers who lived in the village and died in WW1 were placed where they lived, along with audio commentaries of their life and service. An exhibition with displays, songs, readings, and a 1914 tea was also held.",
+  "narrative": "On the night of 11 December 1943, Wellington BK440 departed RAF Little Horwood on a training flight with 16 OTU. The aircraft came down near Hindolveston, Norfolk, killing all six crew members on board. Flight Sergeant A. Merridew was among those lost, alongside E. W. Brown, N. Doherty, A. W. Ellis, W. E. Martin, and S. Wilson. There were no survivors. The crash site is commemorated by the village of Hindolveston, which maintains a memorial to the crew in remembrance of their sacrifice.",
+  "inscription": "IN MEMORY OF THOSE WHO LOST THEIR LIVES ON 11TH DECEMBER 1943\nWHEN WELLINGTON BK440 CRASHED NEAR PARK FARM, HINDOLVESTON.\n[crew names inscribed on memorial]",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "The Vickers Wellington BK440 memorial was captured in an image by Tony Hibberd and shared with the IBCC.",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/138/165/large_nf_hindolveston_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/138/166/large_nf_hindolveston_3.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/138/167/large_nf_hindolveston_1.jpg"
+  ]
 }

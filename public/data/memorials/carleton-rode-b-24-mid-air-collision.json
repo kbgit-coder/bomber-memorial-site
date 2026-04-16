@@ -1,0 +1,105 @@
+{
+  "id": "carleton-rode-b-24-mid-air-collision",
+  "title": "Carleton Rode B-24 Mid-Air Collision Memorial",
+  "location_name": "Carleton Rode (1), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-008",
+  "crash_date": "1944-11-21",
+  "aircraft_type": "B-24 Liberator",
+  "squadron": "389th BG",
+  "station": "Hethel (USAAF)",
+  "crew_summary": "1 crew recorded; 1 killed",
+  "memorial_type": "Mid-Air Collision Memorial",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    },
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.4913,
+  "longitude": 1.1114,
+  "maintainer": {
+    "organisation": "Carleton Rode Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/44-10513",
+      "summary": "The American Air Museum records B-24J 44-10513 'Old Glory' of the 565th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft was destroyed in a mid-air collision with 42-50452 'Earthquake McGoon' during formation assembly on 21 November 1944, while preparing for a mission to bomb oil plants at Hamburg.",
+      "key_details": [
+        "565th Bomb Squadron, 389th Bomb Group",
+        "Mid-air collision during formation assembly",
+        "Target was oil plants at Hamburg",
+        "Pilot: 1Lt James E. Rhine"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Carleton Rode's Memorial: Glory\" at American Air Museum, honoring B-24J 'Old Glory'.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "American Air Museum",
+      "original_url": "https://www.americanairmuseum.com/archive/aircraft/42-50452",
+      "summary": "The American Air Museum records B-24J 42-50452 'Earthquake McGoon' of the 566th Bomb Squadron, 389th Bomb Group based at Hethel. The aircraft collided with 44-10513 'Old Glory' during formation assembly on 21 November 1944. Pilot Lt Alfred Brooks was the sole survivor from this aircraft, with 17 total killed across both planes.",
+      "key_details": [
+        "566th Bomb Squadron, 389th Bomb Group",
+        "Pilot Lt Alfred Brooks was sole survivor from this aircraft",
+        "17 total killed across both aircraft",
+        "Memorial board at All Saints Church, Carleton Rode"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Carleton Rode (2) McGoon's Memorial at American Air Museum: Learn about B-24J Earthquake McGoon and its tragic collision in 1944.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    }
+  ],
+  "crew": [
+    {
+      "name": "James Edward Rhine",
+      "rank": "1Lt",
+      "role": "Pilot (44-10513 \"Old Glory\")",
+      "fate": "Killed"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Attleborough Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Carleton Rode Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "website.teardrop.revives",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "389th Bomb Group USAAF",
+  "squadron_aliases": [
+    "389th BG"
+  ],
+  "narrative": "Flying from RAF Hethel with the 389th Bombardment Group, 1st Lieutenant James Edward Rhine piloted B-24J Liberator \"Old Glory\" on 21 November 1944. The aircraft was lost in a mid-air collision over Norfolk, an event also linked that same day to the loss of a second B-24J known as \"Earthquake McGoon.\" \"Old Glory\" came down near Carleton Rode, Norfolk. Lieutenant Rhine was killed; he is the sole crew member documented in surviving records for this aircraft.",
+  "community_connection": "",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
+}

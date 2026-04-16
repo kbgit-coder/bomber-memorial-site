@@ -19,10 +19,10 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.059126877920164,
-  "longitude": -0.19764640350098459,
+  "last_updated": "2026-04-09",
+  "data_quality": "Comprehensive",
+  "latitude": 53.13357673310234,
+  "longitude": -0.05762544248204891,
   "maintainer": {
     "organisation": "Revesby Parish Meeting",
     "maintainer_type": "parish-council"
@@ -37,7 +37,8 @@
         "Registered crash site in county heritage record"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the Revesby Lancaster Memorial: Discover heritage records of an Avro Lancaster aircraft crash site, now a registered monument in Lincolnshire's historic environment."
     },
     {
       "source_site": "Airshows Present",
@@ -50,7 +51,8 @@
         "Memorial inside St Lawrence Church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed history and significance of the Avro Lancaster III ND415 memorial at St Lawrence Church in Revesby."
     },
     {
       "source_site": "War Memorials Online",
@@ -61,7 +63,8 @@
         "Memorial plaque in St Lawrence Church"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Community-maintained Memorial page for Revesby Lancaster ND415 crew on War Memorials Online."
     },
     {
       "source_site": "Imperial War Museums",
@@ -73,7 +76,8 @@
         "Military service badges attached to wooden panel"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Revesby Lancaster Memorial honoring WWII heroes on this IWM War Memorials Register page."
     },
     {
       "source_site": "RAF Memorial Flight Club",
@@ -84,7 +88,8 @@
         "Part of 97 Squadron's intensive pre-D-Day operations from Coningsby"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore article on Lancaster Memorial at Revesby, detailing RAF Coningsby losses and 97 Squadron's pre-D-Day missions."
     }
   ],
   "local_contacts": [
@@ -102,7 +107,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
   "squadron_motto": "Achieve your aim",
-  "what3words": "mooring.collides.walks",
+  "what3words": "speared.redeeming.refrained",
   "photos": [
     {
       "filename": "revesby-nd415/5cf6a5890e4b5_Revesby_WW2._547x410.jpg",
@@ -129,5 +134,108 @@
       "caption": "LI Revesby Church 4",
       "credit": "Mike Peck / War Memorials Online"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "97 Squadron RAF",
+  "squadron_aliases": [
+    "97 Sqdn.",
+    "97 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "R. C. W. G. Baker",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "R. Dawson",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "A. Dunae",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "D. O. Ellis",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "H. T. Gilbert",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "P. Horton",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "W. B. Jardine",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. P. Olive",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. W. Paige",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "J. J. Phillips",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Herbert Rieger",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Albert Chambers",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ron Conley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Edward James 'Jimmy' Carter",
+      "rank": "Wing Commander",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "Wooden panel dedicated to the men of the parish who gave their lives in WW2. Also a memorial to the crew of Avro Lancaster III ND415 of 97 Squadron. Badges of the Army, Royal Navy and Royal Air Force are attached to the panel on three sides of the names.\n\nRevesby WW2 and Lancaster ND415 Memorial: A memorial dedicated to the WW2 efforts and specifically to the Lancaster ND415 aircraft.",
+  "narrative": "Lancaster ND415 departed RAF Coningsby on a pre-D-Day operation, part of 97 Squadron's intensive programme of missions in the weeks before the Normandy landings. On 23 May 1944, the aircraft came down near Revesby, Lincolnshire, a short distance from its home station. Flying Officer Wallace Bell Jardine was at the controls when the Lancaster crashed, killing all seven crew members aboard. Among those lost were R. C. W. G. Baker, R. Dawson, A. Dunae, D. O. Ellis, H. T. Gilbert, and P. Horton. A memorial to the crew stands at St Lawrence Church in Revesby and is today a registered monument in Lincolnshire's historic environment.",
+  "inscription": "IN PROUD MEMORY OF THE MEN\nFROM THIS PARISH WHO MADE\nTHE SUPREME SACRIFICE DURING\nTHE WORLD WAR. 1939-1945\n[crew names inscribed on memorial]\nALSO OF\n[crew names inscribed on memorial]\nWHO WERE KILLED ON OPERATIONAL DUTIES\nWHEN THEIR AEROPLANE CRASHED IN THIS PARISH.",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/5/333/large_ukniwm_43199_ccharles_anderson_2.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/74/328/large_revesby_ww2_lancaster_board_in_context.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/74/327/large_1939_1945_lancaster_crew_of_nd415.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/74/326/large_1939_1945_lancaster_crew_of_nd415_text.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/74/325/large_1939_1945_lancaster_crew_of_nd415_a.jpg"
   ]
 }

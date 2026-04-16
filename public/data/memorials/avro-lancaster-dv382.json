@@ -1,0 +1,41 @@
+{
+  "id": "avro-lancaster-dv382",
+  "title": "Avro Lancaster DV382",
+  "location_name": "Upwaltham, Chichester",
+  "county": "West Sussex",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "DV382",
+  "squadron": "617/ ROYAL AIR FORCE",
+  "crash_date": "1944-02-13",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Incised black stone tablet atop a short raised brick pedestal. Gold inscription text.",
+  "inscription": "Badge: SQUADRON/ 617 617/ ROYAL AIR FORCE/ APRES MOI LE DELUGE/ Inscription: THIS IS THE SITE/ WHERE A LANCASTER BOMBER DV382/ 617 DAMBUSTER SQUADRON/ CRASHED ON 13 FEBRUARY 1944/ WITH THE LOSS OF LIFE OF ALL THE CREW./ (Names)/ STRANGER, WHEN PASSING REMEMBER, IF IT WAS NOT/ FOR HEROES LIKE THESE, WE WOULD NOT BE HERE TODAY.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/106342",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 50.926180246395,
+  "longitude": -0.6620657444,
+  "grid_ref": "SU 94034",
+  "photos": [],
+  "names_on_memorial": 8,
+  "died_count": 8,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/162/489/large_ws_waltham_down_4_r.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/162/488/large_ws_waltham_down_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/162/487/large_ws_waltham_down_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/168/552/large_106342_jo_brown_november_2023_r.jpg"
+  ],
+  "community_connection": "This is the site where a Lancaster bomber crashed, implying it was in a location significant to those involved or their community."
+}

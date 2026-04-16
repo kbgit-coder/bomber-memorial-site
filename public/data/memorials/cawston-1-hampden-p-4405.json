@@ -1,82 +1,148 @@
 {
-    "id": "cawston-1-hampden-p-4405",
-    "title": "Cawston (1) P.4405 Memorial",
-    "location_name": "Cawston (1), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-010",
-    "crash_date": "1941-02-10",
-    "aircraft_type": "Hampden P.4405",
-    "squadron": "61 Squadron",
-    "station": "Hemswell",
-    "crew_summary": "4 killed including Flt Lt. Walter Eric Frutiger",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.79731845919374,
-    "longitude": 1.0217871589748988,
-    "maintainer": {
-        "organisation": "Cawston Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "cawston-1-hampden-p-4405",
+  "title": "Cawston (1) P.4405 Memorial",
+  "location_name": "Cawston (1), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-010",
+  "crash_date": "1941-02-10",
+  "aircraft_type": "Hampden P.4405",
+  "squadron": "61 Squadron",
+  "station": "Hemswell",
+  "crew_summary": "4 killed including Flt Lt. Walter Eric Frutiger",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.7706,
+  "longitude": 1.1641,
+  "maintainer": {
+    "organisation": "Cawston Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "North Norfolk News",
+      "original_url": "https://www.northnorfolknews.co.uk/news/four-airmen-whose-plane-crashed-in-norfolk-during-the-war-1625112",
+      "summary": "News article about the memorial to the four airmen of Hampden P4405 who crashed in Norfolk. The crew, Flt Lt Frutiger, Sgt Chanin, Sgt Hill, and Flt Sgt Gapp of 61 Squadron, were returning from a mission to Wilhelmshaven on 10 February 1941.",
+      "key_details": [
+        "Returning from Wilhelmshaven raid",
+        "Crashed at Bluestone Plantation between Heydon and Cawston",
+        "Took off from Hemswell at 0220, crashed at 0650"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "News article about Cawston Memorial honoring four airmen of Hampden P4405 who tragically crashed in Norfolk."
     },
-    "external_narratives": [
-        {
-            "source_site": "North Norfolk News",
-            "original_url": "https://www.northnorfolknews.co.uk/news/four-airmen-whose-plane-crashed-in-norfolk-during-the-war-1625112",
-            "summary": "News article about the memorial to the four airmen of Hampden P4405 who crashed in Norfolk. The crew, Flt Lt Frutiger, Sgt Chanin, Sgt Hill, and Flt Sgt Gapp of 61 Squadron, were returning from a mission to Wilhelmshaven on 10 February 1941.",
-            "key_details": [
-                "Returning from Wilhelmshaven raid",
-                "Crashed at Bluestone Plantation between Heydon and Cawston",
-                "Took off from Hemswell at 0220, crashed at 0650"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Cawston Heritage",
-            "original_url": "https://cawstonheritage.co.uk/items/show/314",
-            "summary": "Local heritage record of the Hampden bomber crash at Bluestone Plantation near Cawston. Documents the crash of P4405 from 61 Squadron RAF Hemswell during a forced landing attempt after returning from operations over Germany.",
-            "key_details": [
-                "Crash at Bluestone Plantation",
-                "Squadron code QR",
-                "Forced landing attempt"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "RAF Commands",
-            "original_url": "https://www.rafcommands.com/database/wardead/details.php?qnum=80978",
-            "summary": "RAF Commands casualty database entry for Sergeant J.E. Hill (935567), one of the four crew killed in the Hampden P4405 crash at Cawston on 10 February 1941.",
-            "key_details": [
-                "Sgt Hill service number 935567",
-                "Official casualty record"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Aylsham & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Cawston Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
-    "squadron_motto": "Per ardua ad aethera tendo",
-    "what3words": "uttering.adopting.cello"
+    {
+      "source_site": "Cawston Heritage",
+      "original_url": "https://cawstonheritage.co.uk/items/show/314",
+      "summary": "Local heritage record of the Hampden bomber crash at Bluestone Plantation near Cawston. Documents the crash of P4405 from 61 Squadron RAF Hemswell during a forced landing attempt after returning from operations over Germany.",
+      "key_details": [
+        "Crash at Bluestone Plantation",
+        "Squadron code QR",
+        "Forced landing attempt"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore local heritage: Discover the story behind Hampden bomber crash at Bluestone Plantation near Cawston."
+    },
+    {
+      "source_site": "RAF Commands",
+      "original_url": "https://www.rafcommands.com/database/wardead/details.php?qnum=80978",
+      "summary": "RAF Commands casualty database entry for Sergeant J.E. Hill (935567), one of the four crew killed in the Hampden P4405 crash at Cawston on 10 February 1941.",
+      "key_details": [
+        "Sgt Hill service number 935567",
+        "Official casualty record"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed RAF commands casualty data about Sergeant J.E. Hill's tragic loss in a 1941 Hampden aircraft crash at Cawston."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Aylsham & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Cawston Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    },
+    {
+      "role": "Correct parish council for Cawston, Norwich \u2014 previous contact was Cawston, Warwickshire (wrong parish)",
+      "email": "TBC \u2014 need to find correct Norfolk Cawston PC email",
+      "org_name": "Cawston Parish Council (Norfolk)",
+      "org_type": "Parish Council"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
+  "squadron_motto": "Per purum tonantes",
+  "what3words": "adopt.procured.outsmart",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "61 Squadron RAF",
+  "squadron_aliases": [
+    "61 Squadron",
+    "61 Sqdn."
+  ],
+  "crew": [
+    {
+      "name": "John Edward HILL",
+      "rank": "Sergeant",
+      "role": "Wireless Operator",
+      "burial_location": "Grave 707. at Crowle Cemetery, United Kingdom",
+      "fate": "Killed",
+      "service_number": "935567",
+      "nationality": "British"
+    },
+    {
+      "name": "John Frutiger",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "age": 20,
+      "nationality": "British"
+    },
+    {
+      "name": "Robert Gapp",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Robert Chanin",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "unknown",
+      "age": 21,
+      "nationality": "British"
+    }
+  ],
+  "narrative": "On the night of 10 February 1941, Hampden P4405 of 61 Squadron departed RAF Hemswell on operations. Returning from their mission, the aircraft came down while attempting an emergency landing, crashing into Bluestone Plantation near Cawston, Norfolk. All four crew members were killed: Flight Lieutenant Frutiger, Flight Sergeant Robert Gapp, Sergeant John Hill, and Sergeant Robert Chanin. It was Sergeant Chanin's 21st birthday. The four men are commemorated by a memorial in Cawston, unveiled in a ceremony attended by relatives of the airmen and representatives of the Royal British Legion.",
+  "community_connection": "In 2018, some Cawston parishioners remembered the crash.",
+  "remembrance": {
+    "events": [],
+    "annual_service": true,
+    "service_date": "2 September"
+  },
+  "memorial_details": "At a ceremony in Cawston on Sunday 2 September, a plaque was unveiled in memory of the four young airmen in their early twenties of 61 Squadron, set off from RAF Hemswell on a bombing mission to\u00a0Wilhelmshaven in Germany.\n\nA plaque was unveiled in memory of the four young airmen on Sunday 2 September at a ceremony in Cawston.\n\nCasualty Page: A page dedicated to remembering Sergeant J E HILL (935567) of the Royal Air Force who was killed during World War 2.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

@@ -1,0 +1,40 @@
+{
+  "id": "avro-lancaster-jb284",
+  "title": "Avro Lancaster JB284",
+  "location_name": "East Kirkby, East Lindsey",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "JB284",
+  "squadron": "83 Squadron",
+  "crash_date": "1943-11-23",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted, landscape orientated brass plaque, incised inscription picked out in black.",
+  "inscription": "IN MEMORY OF THE CREW OF LANCASTER JB284,/ 83 SQUADRON PATHFINDERS, KILLED IN ACTION 23RD NOVEMBER 1943./ (Names)/ HONOURING THE MEMORY OF MY GRANDFATHER AND HIS CREW,/ MAY 2017, DON CHISOLM",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/104100",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Good",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 53.139348,
+  "longitude": -0.0016276279,
+  "grid_ref": "TF 33773",
+  "photos": [],
+  "names_on_memorial": 7,
+  "died_count": 7,
+  "custodian": "Lincolnshire Aviation Heritage Centre",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/150/304/large_avro_lancaster_jb284_plaque.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/150/305/large_avro_lancaster_jb284_plaque_in_context.jpg"
+  ],
+  "community_connection": "Honouring The Memory of my Grandfather And His Crew"
+}

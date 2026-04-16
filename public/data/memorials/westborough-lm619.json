@@ -20,9 +20,9 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.32670390501352,
-  "longitude": -0.18978868780526562,
+  "data_quality": "Comprehensive",
+  "latitude": 52.99422637593134,
+  "longitude": -0.7332240214240744,
   "maintainer": {
     "organisation": "Westborough and Dry Doddington Parish Council",
     "maintainer_type": "parish-council"
@@ -37,20 +37,8 @@
         "Last fatal aircraft accident at Bottesford during WWII"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
-    },
-    {
-      "source_site": "Rock Enterprises Column",
-      "original_url": "https://rockenterprises.co.uk/memorial-to-crew-of-lancaster-lm619-westborough/",
-      "summary": "Detailed article about the LM619 memorial at Westborough. The Lancaster departed Bottesford at 18:20 for routine night bombing practice, conducted an overshoot of the airfield, then crashed in a field at the edge of Westborough for unknown reasons. The rear gunner, Sgt Ashby, was the sole survivor.",
-      "key_details": [
-        "Departed Bottesford at 18:20 on 15 January 1945",
-        "Crashed after conducting overshoot of airfield",
-        "Rear gunner Sgt Ashby sole survivor",
-        "Enquiry blamed loss of control in haze and poor visibility"
-      ],
-      "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant Memorial: Westborough Lancaster Memorial honoring fallen crew members."
     },
     {
       "source_site": "International Bomber Command Centre (Facebook)",
@@ -61,7 +49,8 @@
         "Confirms 1668 HCU training flight details"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The details of the tragic Lancaster LM619 crash at Westborough, Lincolnshire in this International Bomber Command Centre post."
     },
     {
       "source_site": "Bottesford Living History",
@@ -72,7 +61,8 @@
         "LM619 was the last fatal crash at the station"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore WWII air accident history in 'On the Wings of the Morning' chapter 17."
     },
     {
       "source_site": "Aviation Trails",
@@ -82,7 +72,17 @@
         "Contextualises LM619 within broader Bottesford accident history"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accounts of aviation incidents and historical operations at Westborough Lancaster Memorial."
+    },
+    {
+      "source_site": "Rock Enterprises Column",
+      "original_url": "https://www.rockenterprises.co.uk/",
+      "still_live": false,
+      "dormant": true,
+      "dormant_since": "2026-04-13",
+      "last_http_status": 0,
+      "link_check_note": "HTTP 0 on 2026-04-13 — may return, check periodically"
     }
   ],
   "local_contacts": [
@@ -98,7 +98,7 @@
       "role": "Local authority responsible for memorial upkeep"
     }
   ],
-  "what3words": "hindered.vertical.hiking",
+  "what3words": "legroom.hurricane.shaky",
   "photos": [
     {
       "filename": "westborough-lm619/5d2b7ad43ec4d_LI_Westborough_1_547x410.JPG",
@@ -145,5 +145,66 @@
       "caption": "Westborough Lancaster Memorial — photograph",
       "credit": "Tony Hibberd / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "1668 HCU",
+  "squadron_aliases": [
+    "1668 HCU"
+  ],
+  "narrative": "Flying Officer Ivan Lindsay Thompson was at the controls of Lancaster LM619 on a night bombing practice flight from Bottesford when the aircraft came down near Westborough, Lincolnshire on 15 January 1945. The crew were assigned to 1668 Heavy Conversion Unit, undergoing the advanced training required before operational service. Six of those aboard were killed in the crash. The source data does not confirm the cause of the accident or the fate of the remaining crew members. A memorial at Westborough today marks the site where LM619 fell, preserving the names of those who did not survive.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "RAF Bottesford opening",
+        "date": "1941",
+        "description": "Under the control of No. 5 Group, RAF Bottesford opened as a new bomber airfield with concrete surfaces."
+      },
+      {
+        "name": "Bizarre accident at RAF Bottesford",
+        "date": "Not specified in the text",
+        "description": "An accident occurred that resulted in the death of five airmen."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "Harold Curson",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Robert Sinden",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Derek Arnold Booth",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Paxton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ken Batchelor",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Don Moore",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

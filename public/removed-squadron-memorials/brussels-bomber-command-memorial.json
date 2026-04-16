@@ -1,0 +1,52 @@
+{
+  "id": "brussels-bomber-command-memorial",
+  "title": "Brussels Bomber Command Memorial",
+  "location_name": "Brussels",
+  "country": "Belgium",
+  "memorial_type": "Memorial",
+  "data_quality": "Stub",
+  "contributor": "Charlie Leitheiser",
+  "last_updated": "2026-03-21",
+  "sources": [
+    {
+      "title": "Charlie Leitheiser hackathon research",
+      "type": "personal_research"
+    }
+  ],
+  "latitude": 50.85,
+  "longitude": 4.35,
+  "external_narratives": [
+    {
+      "source_site": "RAF Benevolent Fund",
+      "original_url": "https://www.rafbf.org/bomber-command-memorial/about-memorial",
+      "summary": "The Bomber Command Memorial in London incorporates aluminium recovered from a Halifax III bomber shot down over Belgium on 12 May 1944. While this is the London memorial, it has a direct connection to Belgium where eight crew were killed. Three crew members were found still at their stations when the aircraft was excavated in 1997 and buried in Belgium with full military honours.",
+      "key_details": [
+        "Halifax III shot down over Belgium, 12 May 1944",
+        "Aircraft excavated in Belgium in 1997",
+        "Three crew found at stations and buried in Belgium with military honours"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Crew tributes and Belgian burial details linked to London's Bomber Command Memorial."
+    }
+  ],
+  "what3words": "helper.spill.balanced",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "narrative": "",
+  "community_connection": "",
+  "remembrance": {
+    "events": []
+  },
+  "memorial_details": "About the Memorial | Bomber Command Memorial Located in London's Green Park, the Bomber Command Memorial has been built to be modern, yet classical, in Portland stone.\n\nThe memorial was officially unveiled by Her Majesty The Queen on 28 June 2012.\n\nThe Bomber Command Memorial, located in London's Green Park, was built with Portland stone and features bronze sculptures of a Bomber Command aircrew at its heart.\n\nThe memorial was officially unveiled by Her Majesty The Queen on 28 June 2012.\n\nOfficial Unveiling (2012-06-28): Her Majesty The Queen officially unveiled the Bomber Command Memorial.",
+  "crash_category": "general-memorial",
+  "narrative_quality_score": 0,
+  "narrative_source": "claude-refusal-insufficient-data"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "a-and-d-lancaster",
+  "title": "A and D Lancaster",
+  "location_name": "Keelby, West Lindsey",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "",
+  "squadron": "",
+  "crash_date": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "Wall mounted, portrait orientated, plain brass plaque. A single line incised border surrounds a Latin cross at top centre, above the names and dedication. All detail is incised and picked out in black.",
+  "inscription": "+/ In Loving Memory of/ Annie Lancaster,/ and/ Dorothy Lancaster,/ of Keelby Manor,/ WHO LOST THEIR LIVES THROUGH/ THE SINKING OF THE \"LUSITANIA\"/ 7TH MAY 1915.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/48922",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Partial",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 53.573233339701,
+  "longitude": -0.242106645051,
+  "grid_ref": "TA 16499",
+  "photos": [],
+  "names_on_memorial": 2,
+  "died_count": 2,
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/103/910/large_keelby_pcd.jpg"
+  ],
+  "community_connection": "Annie Lancaster and Dorothy Lancaster, both from Keelby Manor",
+  "last_validated": "2026-04-12",
+  "crash_date_review": "Auto-corrected to 1915-05-07 but reverted \u2014 year 1915 outside WW2 range"
+}

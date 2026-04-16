@@ -1,103 +1,207 @@
 {
-    "id": "reedham-mid-air-collision-b-17-42-37963-and-b-",
-    "title": "Reedham (mid-air collision) 42-31370 Memorial",
-    "location_name": "Reedham (mid-air collision), Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-019",
-    "crash_date": "1944-02-21",
-    "aircraft_type": "B-17 42-37963 and B-17 42-31370",
-    "squadron": "385th BG",
-    "station": "Great Ashfield (USAAF)",
-    "crew_summary": "21 killed combined",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.682684312427895,
-    "longitude": 1.0836126783453695,
-    "maintainer": {
-        "organisation": "Reedham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "reedham-mid-air-collision-b-17-42-37963-and-b-",
+  "title": "Reedham (mid-air collision) 42-31370 Memorial",
+  "location_name": "Reedham (mid-air collision), Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-019",
+  "crash_date": "1944-02-21",
+  "aircraft_type": "B-17 42-37963 and B-17 42-31370",
+  "squadron": "385th BG",
+  "station": "Great Ashfield (USAAF)",
+  "crew_summary": "21 killed combined",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 52.5594,
+  "longitude": 1.5684,
+  "maintainer": {
+    "organisation": "Reedham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "American Air Museum in Britain",
+      "original_url": "https://www.americanairmuseum.com/archive/place/reedham-war-memorial",
+      "summary": "American Air Museum archive entry for the Reedham War Memorial, documenting the mid-air collision of two B-17G Flying Fortresses from the 549th and 550th Bomb Squadrons of the 385th Bomb Group on 21 February 1944.",
+      "key_details": [
+        "549th and 550th Bomb Squadrons involved",
+        "Both crews of ten killed",
+        "Part of 900-plane mission returning from Germany"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "American Air Museum's archive entry for Reedham War Memorial: mid-air collision of B-17G Flying Fortresses in 21st century summary.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
-    "external_narratives": [
-        {
-            "source_site": "American Air Museum in Britain",
-            "original_url": "https://www.americanairmuseum.com/archive/place/reedham-war-memorial",
-            "summary": "American Air Museum archive entry for the Reedham War Memorial, documenting the mid-air collision of two B-17G Flying Fortresses from the 549th and 550th Bomb Squadrons of the 385th Bomb Group on 21 February 1944.",
-            "key_details": [
-                "549th and 550th Bomb Squadrons involved",
-                "Both crews of ten killed",
-                "Part of 900-plane mission returning from Germany"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "US War Memorials",
-            "original_url": "https://uswarmemorials.org/html/monument_details.php?MemID=2638&SiteID=2001",
-            "summary": "US War Memorials registry entry for the B-17 42-37963 and 42-31370 memorial at Reedham. Documents the memorial stone listing all fallen crew members from the collision.",
-            "key_details": [
-                "Memorial stone lists all 21 crew names",
-                "US War Memorials reference MemID 2638"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Great Yarmouth Mercury",
-            "original_url": "https://www.greatyarmouthmercury.co.uk/news/24102950.reedham-war-memorial-remember-tragic-1944-bomber-crash/",
-            "summary": "Local newspaper coverage of remembrance events at the Reedham War Memorial. The aircraft were returning from a raid on Diepholz in North West Germany and collided in cloud just minutes from landing at Great Ashfield.",
-            "key_details": [
-                "Returning from Diepholz raid",
-                "Collision occurred in cloud",
-                "Aircraft minutes from landing",
-                "Lt Warren J. Pease was pilot of 42-37963"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Channel 4 / Time Team",
-            "original_url": "https://www.channel4.com/programmes/time-team/on-demand/25721-008",
-            "summary": "Time Team Series 6, Episode 8 documented the archaeological excavation of B-17 42-37963 crash site at Reedham Marshes in 1999. The television excavation brought national attention to the crash site.",
-            "key_details": [
-                "Time Team excavated crash site in 1999",
-                "Series 6 Episode 8",
-                "Brought national attention to the memorial"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "American Air Museum in Britain (personnel)",
-            "original_url": "https://www.americanairmuseum.com/archive/person/warren-jay-pease",
-            "summary": "Personnel record for Lieutenant Warren Jay Pease, pilot of B-17G 42-37963 who apparently lost control in cloud and collided with another Fortress in the formation over Reedham Marshes.",
-            "key_details": [
-                "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Acle and District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Reedham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "crockery.hoot.trap"
+    {
+      "source_site": "US War Memorials",
+      "original_url": "https://uswarmemorials.org/html/monument_details.php?MemID=2638&SiteID=2001",
+      "summary": "US War Memorials registry entry for the B-17 42-37963 and 42-31370 memorial at Reedham. Documents the memorial stone listing all fallen crew members from the collision.",
+      "key_details": [
+        "Memorial stone lists all 21 crew names",
+        "US War Memorials reference MemID 2638"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The names of fallen crew members in this US War Memorials registry entry for B-17s 42-37963 and 42-31370 at Reedham."
+    },
+    {
+      "source_site": "Great Yarmouth Mercury",
+      "original_url": "https://www.greatyarmouthmercury.co.uk/news/24102950.reedham-war-memorial-remember-tragic-1944-bomber-crash/",
+      "summary": "Local newspaper coverage of remembrance events at the Reedham War Memorial. The aircraft were returning from a raid on Diepholz in North West Germany and collided in cloud just minutes from landing at Great Ashfield.",
+      "key_details": [
+        "Returning from Diepholz raid",
+        "Collision occurred in cloud",
+        "Aircraft minutes from landing",
+        "Lt Warren J. Pease was pilot of 42-37963"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Read about local newspaper's coverage of remembrance events at the Reedham War Memorial."
+    },
+    {
+      "source_site": "Channel 4 / Time Team",
+      "original_url": "https://www.channel4.com/programmes/time-team/on-demand/25721-008",
+      "summary": "Time Team Series 6, Episode 8 documented the archaeological excavation of B-17 42-37963 crash site at Reedham Marshes in 1999. The television excavation brought national attention to the crash site.",
+      "key_details": [
+        "Time Team excavated crash site in 1999",
+        "Series 6 Episode 8",
+        "Brought national attention to the memorial"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Time Team's documentary on the WWII aircraft crash site at Reedham Marshes."
+    },
+    {
+      "source_site": "American Air Museum in Britain (personnel)",
+      "original_url": "https://www.americanairmuseum.com/archive/person/warren-jay-pease",
+      "summary": "Personnel record for Lieutenant Warren Jay Pease, pilot of B-17G 42-37963 who apparently lost control in cloud and collided with another Fortress in the formation over Reedham Marshes.",
+      "key_details": [
+        "Capt John H. Hutchison in B-17 42-31370 was on his 25th and final mission"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed personnel records of American WWII bomber pilots involved in mid-air collision at Reedham Marshes.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Acle and District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Reedham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "mainly.imperious.overpower",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "385th Bomb Group USAAF",
+  "squadron_aliases": [
+    "385th BG"
+  ],
+  "additional_contributors": [
+    {
+      "name": "Mary Blanche",
+      "role": "Local contributor \u2014 memorial information and photographs",
+      "date": "2026-04-09"
+    }
+  ],
+  "narrative": "Crews of two B-17 Flying Fortresses from the 385th Bomb Group were flying a wartime mission from their base at Great Ashfield when the two aircraft collided in mid-air over Reedham Marshes, Norfolk, on 21 February 1944. Commander John Hutchison led one aircraft; Commander Warren Pease, of the 449th Bomber Squadron, commanded the other. The collision proved catastrophic: 21 of the 22 airmen aboard both aircraft were killed. Among those lost were William Gill Jr and John Terrace. Only one man survived the disaster.",
+  "community_connection": "The story is connected to a memorial dedicated to these bombers and their crews.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "Diversionary Raid on Diepholz Aircraft Depot",
+        "date": "February 21, 1944",
+        "description": "34 aircraft from the 385th Bomber Group, 4th Bombardment Wing, 8th Air Force carried out a raid on Diepholz aircraft depot in N.W. Germany while the main force attacked an aircraft components works at Brunswick in Lower Saxony."
+      }
+    ]
+  },
+  "crew": [
+    {
+      "name": "William Gill Jr",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Hutchison",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Commander"
+    },
+    {
+      "name": "Warren Pease",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Commander (449th Bomber Squadron)"
+    },
+    {
+      "name": "John Terrace",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eugene St",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bernard Kaplan Navigator",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Peter Bobulsky Jr Waist",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bernard Kaplan",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Clarence Soucek",
+      "rank": "1st Lieutenant",
+      "fate": "Killed",
+      "role": "Bombardier (temporary)"
+    },
+    {
+      "name": "Ed Gamble",
+      "rank": "Unknown",
+      "fate": "Unknown",
+      "role": "Bombardier (original)"
+    },
+    {
+      "name": "Bud Creegan",
+      "rank": "Unknown",
+      "fate": "Killed",
+      "role": "Cameraman"
+    }
+  ],
+  "memorial_details": "From the flat plains of Norfolk to the volcanic island of Nevis in the West Indies, the Time Team dig up secrets of the past, and dispell a few myths along the way Burslem, Stoke on Trent: Time Team investigate the site of Josiah Wedgwood's first ever factory First shown: Sun 3 Jan 1999 | 51 mins Papcastle, Cumbria: Papcastle, a small village outside Cockermouth in Cumbria, boasts a Roman fort First shown: Sun 10 Jan 1999 | 51 mins Thetford, Norfolk: The site of Thetford Grammar School in Norfolk stands on the site of a Dominican friary First shown: Sun 17 Jan 1999 | 51 mins Cheddar Gorge, Somerset: Tony and the Team look for evidence of Stone Age man at Cooper's Hole in Cheddar Gorge First shown: Sun 24 Jan 1999 | 51 mins Plympton, Devon: Tony and the Team dig up back gardens near Plympton in Devon's ruined Norman castle First shown: Sun 31 Jan 1999 | 51 mins Smallhythe, Kent: Tony and the Team search for Henry V's lost dockyard, miles from the sea First shown: Sun 7 Feb 1999 | 51 mins Beauport Park, East Sussex: Why is there a well-preserved Roman bathhouse on a Sussex golf course?",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

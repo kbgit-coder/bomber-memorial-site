@@ -1,0 +1,264 @@
+{
+  "id": "wellington-he324-crash-site-he324",
+  "title": "Wellington HE324 Crash Site X Memorial",
+  "location_name": "Peak District",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "region_code": "PN-008",
+  "crash_date": "1943-09-18",
+  "aircraft_type": "Wellington X",
+  "serial_number": "HE324",
+  "squadron": "RAF Silverstone",
+  "crew_summary": "6 killed (training exercise)",
+  "memorial_type": "Memorial marker",
+  "sources": [
+    {
+      "title": "warmemorialsonline.org.uk (memorial/256651)",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Partial",
+  "narrative": "",
+  "cause_of_loss": "Not confirmed \u2014 crash-landed in barley field",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing raid on Bremen",
+  "latitude": 53.1190161159707,
+  "longitude": -1.8297357592239334,
+  "external_narratives": [
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/256651",
+      "summary": "War Memorials Online entry for the Wellington X HE324 crash site memorial. The memorial is a vertical square tablet with RAF badge and black lettering, dedicated in September 2013 after research to identify and notify surviving relatives of the six crew members.",
+      "key_details": [
+        "Memorial dedicated September 2013",
+        "Vertical square tablet with RAF badge",
+        "Crash occurred in a field near Horwood, North Devon",
+        "Aircraft was on a training exercise from RAF Silverstone"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Wellington's X HE324 Crash Site Memorial on War Memorials Online."
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/74678",
+      "summary": "IWM War Memorials Register entry for the Wellington HE324 crash memorial. Located half a mile east of Horwood church in North Devon, the stone of remembrance commemorates six airmen who died when the Wellington crashed in flames on 18 September 1943.",
+      "key_details": [
+        "IWM reference number 74678",
+        "Located near Horwood church, North Devon, EX39 4PE",
+        "Aircraft was seen on fire over Lovacott and East Barton before crashing"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "A poignant Memorial honoring six airmen at the Wellington HE324 crash site near Horwood Church in North Devon."
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/160696",
+      "summary": "Aviation Safety Network database entry for the Wellington HE324 accident on 18 September 1943. Records the aircraft type, date, and circumstances of the fatal training flight crash.",
+      "key_details": [
+        "Formal accident database record",
+        "Six crew from multiple Commonwealth nations killed",
+        "Crew included RAAF, RCAF, and RAFVR personnel"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": false,
+      "link_description": "Explore Aviation Safety Network's Wellington HE324 Crash Site X Memorial details."
+    },
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/pennines/",
+      "summary": "Peak District Air Accident Research catalogues military aircraft crash sites across the Pennines region. While HE324 is listed among their records, the actual crash location was in North Devon rather than the Peak District.",
+      "key_details": [
+        "Cross-referenced in Pennines crash site database"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Wellington's historical air accident site X memorial and its significance in aviation history."
+    }
+  ],
+  "crew": [
+    {
+      "name": "Norman 'Norm' Dunn",
+      "rank": "F/Sgt",
+      "age": 25,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Heanton Punchardon, North Devon",
+      "nationality": "Australian"
+    },
+    {
+      "name": "Johnnie Donnachie",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Wishaw, Scotland",
+      "nationality": "British"
+    },
+    {
+      "name": "Hiram Farrer",
+      "rank": "P/O",
+      "age": 26,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Heanton Punchardon, North Devon",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Raymond Dolling",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Llanelli, Wales",
+      "nationality": "British"
+    },
+    {
+      "name": "James Hallam",
+      "rank": "Sgt",
+      "age": 18,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Unknown",
+      "nationality": "British"
+    },
+    {
+      "name": "Henry 'Arthur' Newnham",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "Crew",
+      "fate": "Killed",
+      "burial_location": "Unknown",
+      "nationality": "Australian"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Bakewell & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
+    }
+  ],
+  "what3words": "crypt.firelight.imported",
+  "photos": [
+    {
+      "filename": "wellington-he324-crash-site-he324/5a8ae1b0c2c61_Horwood_Wellington_Crash_547x410.jpg",
+      "caption": "5a8ae1b0c2c61 Horwood Wellington Crash 547x410",
+      "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
+    },
+    {
+      "filename": "wellington-he324-crash-site-he324/6884a62c31088_PXL_20250725_104527394_547x410.jpg",
+      "caption": "6884a62c31088 PXL 20250725 104527394 547x410",
+      "credit": "https://www.horwooddevon.co.uk/air-crash-memorial/ / War Memorials Online"
+    }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF Silverstone",
+  "squadron_aliases": [
+    "RAF Silverstone"
+  ],
+  "memorial_details": "Name: Wellington X HE 324 crash\nType: Stone of remembrance\nDescription: A vertical square tablet with the RAF badge in the top right corner and black lettering.\nInscription: TO COMMEMORATE THE SIX / BRAVE AIRMEN / WHO LOST THEIR LIVES / WHEN WELLINGTON X HE 324 / CRASHED IN THIS FIELD / BEHIND THIS STONE / ON SEPTEMBER 18TH 1943 // (6 names)\nLocation: Half mile east of Horwood church Roadside Horwood North Devon Devon EX39 4PE England\nGrid Ref: SS 51190 27540\nCoordinates: 51.027918688474,-4.123393368419\nPhotos: https://media.iwm.org.uk/ciim5/memorials/105/332/large_74678_neil_webster_27_november_2020.jpg\n\nThe Wellington X HE 324 crash memorial is a stone of remembrance located half a mile east of Horwood church in North Devon, England.\n\nThe memorial was dedicated on the 18th of September 2013.\n\nThe memorial was dedicated in September 2013 after much research to identify and notify surviving relatives of the six victims.\n\nDedication Ceremony (18th September 2013): The memorial was dedicated during this ceremony.",
+  "remembrance": {
+    "events": [
+      {
+        "name": "26th October 1935 Dragon G-ADEE Railway Air Services",
+        "date": "1935-10-26",
+        "description": "The aircraft was being flown from Liverpools Speke airport to Ronaldsway on the Isle of Man via Blackpool."
+      },
+      {
+        "name": "20th June 1939 Dragon Rapide G-AERE British American Air Services",
+        "date": "1939-06-20",
+        "description": "British American Air Services had been chartered to provide an aircraft to fly John Crouch, a jockey retained to ride horses belonging to HM King George VI, from Heston in London."
+      },
+      {
+        "name": "18th July 1939 Spitfire Mk.I K9888 No.41 Sqn, RAF",
+        "date": "1939-07-18",
+        "description": "Not specified in the provided text."
+      }
+    ]
+  },
+  "community_connection": "",
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "station_roll_names": [
+    {
+      "name": "yford in Oxfordshire John Owen Sowerbutts",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "ight from Squires Gate Norman Jack Sharpe",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "om Clifton near York Sohlto Paton Marlatt",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "y on Eden near Carlisle Herman Joe Carver",
+      "rank": "Flying Officer"
+    },
+    {
+      "name": "Thomas Stanley Taylor",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "y flight from Turweston Edward Cyril Cole",
+      "rank": "Warrant Officer"
+    },
+    {
+      "name": "James Mann",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "Arthur John Griffiths",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "light from RAF Leeming Walter Fred Conley",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "Arnold Emerson Stinson",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "ght from RAF Leeming Thomas Abel Roskilly",
+      "rank": "Flight Lieutenant"
+    },
+    {
+      "name": "Sidney Arthur Whiting",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "and running out of fuel John David Briggs",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "Raymond Edgar DOLLING (1337861)",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "John DONNACHIE (1554638)",
+      "rank": "Sergeant"
+    },
+    {
+      "name": "Norman Neville DUNN (Aus.415315)",
+      "rank": "Flying Sergeant"
+    },
+    {
+      "name": "James William HALLAM (1819415)",
+      "rank": "Sergeant"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 23 to 6. 17 additional names from station/OTU roll of honour moved to station_roll_names."
+}

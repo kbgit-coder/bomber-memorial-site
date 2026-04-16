@@ -1,44 +1,62 @@
 {
-    "id": "ffridd-rhosfarch-wellington",
-    "title": "Ffridd Rhosfarch Wellington Memorial",
-    "location_name": "Ffridd Rhosfarch, Other Wales",
-    "county": "Other Wales",
-    "country": "United Kingdom",
-    "region_code": "WA-009",
-    "crash_date": "1941",
-    "aircraft_type": "Wellington",
-    "squadron": "21 OTU",
-    "station": "Moreton-in-Marsh",
-    "crew_summary": "All killed (training flight from Gloucestershire)",
-    "memorial_type": "Crash site marker",
-    "sources": [
-        {
-            "title": "wellingtonaviation.org",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.019930652376694,
-    "longitude": -3.4536686905494345,
-    "external_narratives": [
-        {
-            "source_site": "wellingtonaviation.org / local research",
-            "original_url": "https://historypoints.org/index.php?page=pennal-war-memorials",
-            "summary": "Reference to Wellington crash sites in the Ffridd Rhosfarch area of Wales. The Wellington from 21 OTU Moreton-in-Marsh crashed into the hillside at approximately 11:40am during a cross-country training flight in 1941, killing all aboard.",
-            "key_details": "Crew likely mistook the Dyfi estuary for the sea, leading to navigational error in poor visibility. Cross-country training flight from RAF Moreton-in-Marsh, Gloucestershire.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Wrexham Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
-        }
-    ],
-    "what3words": "curvy.balanced.apprehend"
+  "id": "ffridd-rhosfarch-wellington",
+  "title": "Ffridd Rhosfarch Wellington Memorial",
+  "location_name": "Ffridd Rhosfarch, Other Wales",
+  "county": "Gwynedd",
+  "country": "United Kingdom",
+  "region_code": "WA-009",
+  "crash_date": "1941",
+  "aircraft_type": "Wellington",
+  "squadron": "21 OTU",
+  "station": "Moreton-in-Marsh",
+  "crew_summary": "All killed (training flight from Gloucestershire)",
+  "memorial_type": "Crash site marker",
+  "sources": [
+    {
+      "title": "wellingtonaviation.org",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 52.6048,
+  "longitude": -3.9411,
+  "external_narratives": [
+    {
+      "source_site": "wellingtonaviation.org / local research",
+      "original_url": "https://historypoints.org/index.php?page=pennal-war-memorials",
+      "summary": "Reference to Wellington crash sites in the Ffridd Rhosfarch area of Wales. The Wellington from 21 OTU Moreton-in-Marsh crashed into the hillside at approximately 11:40am during a cross-country training flight in 1941, killing all aboard.",
+      "key_details": "Crew likely mistook the Dyfi estuary for the sea, leading to navigational error in poor visibility. Cross-country training flight from RAF Moreton-in-Marsh, Gloucestershire.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Wellington Memorial's crash site details in Ffridd Rhosfarch area of Wales."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Wrexham Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    }
+  ],
+  "what3words": "tweed.allows.drop",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "21 OTU",
+  "squadron_aliases": [
+    "21 OTU"
+  ],
+  "narrative": "A Wellington bomber from 21 Operational Training Unit departed Moreton-in-Marsh, Gloucestershire, on a training flight in 1941. The aircraft came down at Ffridd Rhosfarch in Wales under circumstances that have not been fully recorded. All crew members aboard were killed. Robert Thomas is among those identified as having died in the crash. The cause of the accident is not confirmed in available records.",
+  "community_connection": "",
+  "crew": [],
+  "crash_category": "training",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet"
 }

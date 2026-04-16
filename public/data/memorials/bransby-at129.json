@@ -1,115 +1,158 @@
 {
-    "id": "bransby-at129",
-    "title": "Bransby Hampden Memorial",
-    "location_name": "Bransby, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-004",
-    "crash_date": "1942-01-25",
-    "aircraft_type": "Hampden",
-    "serial_number": "AT129",
-    "squadron": "49 Sqdn.",
-    "station": "Scampton",
-    "crew_summary": "4 killed including pilot Sgt. Charles Duncan Stuart Stewart",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.18549953094035,
-    "longitude": -0.39011813435287457,
-    "maintainer": {
-        "organisation": "Bransby Parish Meeting",
-        "maintainer_type": "parish-council"
+  "id": "bransby-at129",
+  "title": "Bransby Hampden Memorial",
+  "location_name": "Bransby, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-004",
+  "crash_date": "1942-01-25",
+  "aircraft_type": "Hampden",
+  "serial_number": "AT129",
+  "squadron": "49 Squadron RAF",
+  "station": "Scampton",
+  "crew_summary": "4 killed including pilot Sgt. Charles Duncan Stuart Stewart",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.3028,
+  "longitude": -0.6516,
+  "maintainer": {
+    "organisation": "Bransby Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20274",
+      "summary": "IWM records the memorial to Hampden AT129 which crashed at Bransby on 25 January 1942. The aircraft was coded EA-O of 49 Squadron based at RAF Scampton.",
+      "key_details": [
+        "IWM reference: memorial/20274",
+        "Aircraft code: EA-O"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed record of Bransby Hampden Memorial, including crash site, aircraft details, and squadron information."
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20274",
-            "summary": "IWM records the memorial to Hampden AT129 which crashed at Bransby on 25 January 1942. The aircraft was coded EA-O of 49 Squadron based at RAF Scampton.",
-            "key_details": [
-                "IWM reference: memorial/20274",
-                "Aircraft code: EA-O"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/6503447",
-            "summary": "Photograph and description of the memorial to Hampden AT129 at Bransby. The memorial is within a wooden shelter at the Bransby Equestrian Centre, commemorating the four crew of 49 Squadron who were killed.",
-            "key_details": [
-                "Memorial within wooden shelter at Bransby Equestrian Centre"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "49 Squadron Association",
-            "original_url": "https://www.49squadron.co.uk/personnel_index/detail/West_GL",
-            "summary": "The 49 Squadron Association personnel index records details of the crew lost in Hampden AT129. The aircraft suffered double engine failure shortly after departing Scampton for operations over Brest, banked steeply to port and crashed.",
-            "key_details": [
-                "Double engine failure on departure for Brest operations",
-                "Crew: Sgt Stewart (23), Sgt Northrop (22), Sgt Hibbitt (21), Sgt Jardine (20)",
-                "Sgt Jardine was on attachment from 408 Squadron"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "crew": [
-        {
-            "name": "Charles Duncan Stuart Stewart",
-            "rank": "Sgt",
-            "age": 23,
-            "role": "Pilot",
-            "nationality": "British",
-            "fate": "Killed"
-        },
-        {
-            "name": "Kenneth Edward Northrop",
-            "rank": "Sgt",
-            "age": 22,
-            "role": "Observer",
-            "nationality": "British",
-            "fate": "Killed"
-        },
-        {
-            "name": "Albert Hibbitt",
-            "rank": "Sgt",
-            "age": 21,
-            "role": "W/Op Air Gunner",
-            "nationality": "British",
-            "fate": "Killed"
-        },
-        {
-            "name": "Leonard Arthur Jardine",
-            "rank": "Sgt",
-            "age": 20,
-            "role": "Air Gunner",
-            "nationality": "British",
-            "fate": "Killed"
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Gainsborough & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Bransby Parish Meeting",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
-    "squadron_motto": "Cave canem",
-    "what3words": "editor.trainer.grins"
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6503447",
+      "summary": "Photograph and description of the memorial to Hampden AT129 at Bransby. The memorial is within a wooden shelter at the Bransby Equestrian Centre, commemorating the four crew of 49 Squadron who were killed.",
+      "key_details": [
+        "Memorial within wooden shelter at Bransby Equestrian Centre"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed Memorial Description and Location: Explore photos, history of Bransby Hampden AT129's tribute at Bransby Equestrian Centre."
+    },
+    {
+      "source_site": "49 Squadron Association",
+      "original_url": "https://www.49squadron.co.uk/personnel_index/detail/West_GL",
+      "summary": "The 49 Squadron Association personnel index records details of the crew lost in Hampden AT129. The aircraft suffered double engine failure shortly after departing Scampton for operations over Brest, banked steeply to port and crashed.",
+      "key_details": [
+        "Double engine failure on departure for Brest operations",
+        "Crew: Sgt Stewart (23), Sgt Northrop (22), Sgt Hibbitt (21), Sgt Jardine (20)",
+        "Sgt Jardine was on attachment from 408 Squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Crew Profiles and Operational Details: The 49 Squadron Association's index provides comprehensive information on the lost crew of Hampden AT129, which crashed during a mission over Brest in WW2."
+    }
+  ],
+  "crew": [
+    {
+      "name": "Charles Duncan Stuart Stewart",
+      "rank": "Sgt",
+      "age": 23,
+      "role": "Pilot",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "Kenneth Edward Northrop",
+      "rank": "Sgt",
+      "age": 22,
+      "role": "Observer",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "Albert Hibbitt",
+      "rank": "Sgt",
+      "age": 21,
+      "role": "W/Op Air Gunner",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "Leonard Arthur Jardine",
+      "rank": "Sgt",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "nationality": "British"
+    },
+    {
+      "name": "Geoffrey Llewellyn West",
+      "rank": "Geoffrey West",
+      "fate": "Unknown",
+      "role": "Pilot",
+      "age": 21,
+      "burial_location": "Norwood West Cemetery, Lambeth, London",
+      "nationality": "British"
+    },
+    {
+      "name": "George Atkins",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Wireless Operator",
+      "nationality": "British"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Gainsborough & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Bransby Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
+  "squadron_motto": "Cave canem",
+  "what3words": "boast.results.fidget",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "49 Squadron RAF",
+  "squadron_aliases": [
+    "49 Sqdn.",
+    "49 Squadron"
+  ],
+  "memorial_details": "A Brass plaque mounted on a backboard attached to the back wall of an open fronted shed.\n\nUnveiling Ceremony (25 January 1992): The Handley Page Hampden AT129 memorial was unveiled during this ceremony. Relatives of the crew attended.\n\nDedication (25th January 1992): The memorial was dedicated on this date. Paddy Andy McMullan RAF Scampton attended.",
+  "narrative": "49 Squadron Association : Personnel Index - Detail Norwood West Cemetery, Lambeth, London 6 January, 1942;\u00a0CRASH AT SOUTH CARLTON: At 07.00hrs on the morning of Tuesday 6th, Hampden AD896 M-Mother, approached Scampton to land after night training. As the aircraft passed over the small hamlet of South Carlton, one of the engines suddenly cut out. The aircraft stalled then fell into Middle Street killing two of the crew including the pilot, Sgt Geoffrey West. Also killed in this tragic accident was wireless operator, Sgt George Atkins. Fortunately there were no civilian casualties in the village. It cannot be established if these were the only two airmen aboard the aircraft that fatal morning.",
+  "inscription": "IN MEMORY OF THE CREW OF A HANDLEY PAGE HAMPDEN BOMBER\nWHO LOST THEIR LIVES WHEN THE PLANE\nCRASHED IN THIS FIELD AFTER TAKING OFF FROM\nSCAMPTON RAF STATION ON 25TH JANUARY 1942\n[crew names inscribed on memorial]",
+  "remembrance": {
+    "events": []
+  },
+  "community_connection": "It was unveiled on 25 January 1992 and dedicated to the crew of this aircraft lost during World War II.",
+  "crash_category": "training",
+  "narrative_quality_score": 5,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/175/530/large_3__hp_hampden_crew_plaque_location_in_right_hand_shed.jpg"
+  ]
 }

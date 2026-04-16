@@ -1,58 +1,203 @@
 {
-    "id": "mynydd-mawr-aircraft-type-varies",
-    "title": "Mynydd Mawr source) Memorial",
-    "location_name": "Mynydd Mawr, Snowdonia, Snowdonia",
-    "county": "Snowdonia",
-    "country": "United Kingdom",
-    "region_code": "WA-004",
-    "crash_date": "WW2",
-    "aircraft_type": "Aircraft (type varies by source)",
-    "squadron": "RAF",
-    "crew_summary": "All killed (10 minutes after takeoff, flew into summit)",
-    "memorial_type": "Crash site cairn",
-    "sources": [
-        {
-            "title": "peakdistrictaircrashes.co.uk/wales",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 52.15401924340301,
-    "longitude": -1.524729718691888,
-    "external_narratives": [
-        {
-            "source_site": "Peak District Air Accident Research",
-            "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/wales/",
-            "summary": "Listed among Welsh crash sites documented by Peak District Air Accident Research. Mynydd Mawr in Snowdonia has multiple aircraft crash sites from the WW2 era, though the exact aircraft type for this memorial remains uncertain across sources.",
-            "key_details": [
-                "Aircraft type disputed between sources",
-                "Crash site cairn on Mynydd Mawr summit area",
-                "Multiple WW2 crash sites in Snowdonia"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Military Aircraft Crash Sites blog",
-            "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/crash-sites-in-wales.html",
-            "summary": "Comprehensive listing of military aircraft crash sites in Wales including Snowdonia locations. Mynydd Mawr is referenced among sites with wreckage and memorial cairns from WW2 aircraft losses in the mountainous terrain.",
-            "key_details": [
-                "Part of extensive Wales crash site catalogue",
-                "Mountain terrain contributed to multiple losses"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Bangor Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
-        }
-    ],
-    "what3words": "unstated.skies.blown"
+  "id": "mynydd-mawr-aircraft-type-varies",
+  "title": "Mynydd Mawr Memorial",
+  "location_name": "Mynydd Mawr, Snowdonia, Snowdonia",
+  "county": "Gwynedd",
+  "country": "United Kingdom",
+  "region_code": "WA-004",
+  "crash_date": "WW2",
+  "aircraft_type": "Aircraft (type varies by source)",
+  "squadron": "RAF",
+  "crew_summary": "All killed (10 minutes after takeoff, flew into summit)",
+  "memorial_type": "Crash site cairn",
+  "sources": [
+    {
+      "title": "peakdistrictaircrashes.co.uk/wales",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 53.0695576,
+  "longitude": -4.1811294,
+  "external_narratives": [
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/category/crash_sites/wales/",
+      "summary": "Listed among Welsh crash sites documented by Peak District Air Accident Research. Mynydd Mawr in Snowdonia has multiple aircraft crash sites from the WW2 era, though the exact aircraft type for this memorial remains uncertain across sources.",
+      "key_details": [
+        "Aircraft type disputed between sources",
+        "Crash site cairn on Mynydd Mawr summit area",
+        "Multiple WW2 crash sites in Snowdonia"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore Welsh WWII Aircraft Crash Sites: Discover Mynydd Mawr's Historical Air Accidents."
+    },
+    {
+      "source_site": "Military Aircraft Crash Sites blog",
+      "original_url": "https://militaryaircraftcrashsites.blogspot.com/p/crash-sites-in-wales.html",
+      "summary": "Comprehensive listing of military aircraft crash sites in Wales including Snowdonia locations. Mynydd Mawr is referenced among sites with wreckage and memorial cairns from WW2 aircraft losses in the mountainous terrain.",
+      "key_details": [
+        "Part of extensive Wales crash site catalogue",
+        "Mountain terrain contributed to multiple losses"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore comprehensive listings of WWII military aircraft crash sites in Wales, featuring Mynydd Mawr's wreckage memorials."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Bangor Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+    }
+  ],
+  "what3words": "rich.fall.scorched",
+  "location_confidence": {
+    "status": "confirmed",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "RAF",
+  "squadron_aliases": [
+    "RAF"
+  ],
+  "narrative": "On the night of 12 October 1956, Sub-Lieutenant R. Davies of the Fleet Air Arm took off from RAF Valley on Anglesey in a De Havilland Vampire VZ874, briefed to fly locally and practice instrument circuits. Davies was in training on the type and had accumulated 110 hours on Vampires, having only recently begun night flying. Just ten minutes after takeoff, the aircraft struck the western face of Mynydd Mawr's summit in Snowdonia. The Vampire exploded on impact, scattering wreckage across the summit and into the cwm below to the east. Sub-Lieutenant Davies was killed. Fragments of engine and airframe spars remain recoverable in Cwm Planwydd today.",
+  "crew": [
+    {
+      "name": "R. Davies",
+      "rank": "Davies",
+      "fate": "Unknown",
+      "role": "pilot (Fleet Air Arm)",
+      "nationality": "British"
+    },
+    {
+      "name": "Harold Neilsen\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Air Gunner",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Maurice Charles Cotterell Pilot",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Seddon Appleby",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ernest Hartley Green",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joe Lupton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "James Alexander Johnston",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Eloi Joseph Emile Beaudry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Lawrence Fullerton",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Archibald Sidney Clegg",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Kenneth Charles Frederick Shelley",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Raymond Baldock",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "William Albert Bell\u00a0 Pilot",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Mervyn Sims",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harold Longworth",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ernest Andrew Hoagg",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "John Hedgley Lewis",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Leslie John Hill",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Marek Slonski",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Paul Riches",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Ronald Jesse Harbour Observer",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Bristol Blenhiem",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Simpson",
+      "rank": "A/P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British"
+    },
+    {
+      "name": "MacEwan",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot or Observer",
+      "nationality": "British"
+    }
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

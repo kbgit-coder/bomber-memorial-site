@@ -1,94 +1,172 @@
 {
-    "id": "blankney-mid-air-collision-lm130",
-    "title": "Blankney (mid-air collision) Lancaster Memorial",
-    "location_name": "Blankney (mid-air collision), Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-003",
-    "crash_date": "1945-03-11",
-    "aircraft_type": "Lancaster",
-    "serial_number": "LM130",
-    "squadron": "463 Sqdn.",
-    "station": "Waddington",
-    "crew_summary": "7 crew killed; plus Hurricane PZ740 pilot Flg Off. Sidney Frederick Parlato, DFC",
-    "memorial_type": "Joint memorial",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.26980269576635,
-    "longitude": -0.2478160551283405,
-    "maintainer": {
-        "organisation": "Blankney Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "blankney-mid-air-collision-lm130",
+  "title": "Blankney (mid-air collision) Lancaster Memorial",
+  "location_name": "Blankney (mid-air collision), Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-003",
+  "crash_date": "1945-03-11",
+  "aircraft_type": "Lancaster",
+  "serial_number": "LM130",
+  "squadron": "463 Sqdn.",
+  "station": "Waddington",
+  "crew_summary": "7 crew killed; plus Hurricane PZ740 pilot Flg Off. Sidney Frederick Parlato, DFC",
+  "memorial_type": "Joint memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.129,
+  "longitude": -0.4017,
+  "maintainer": {
+    "organisation": "Blankney Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://asn.flightsafety.org/wikibase/476703",
+      "summary": "ASN records the mid-air collision on 11 March 1945 between Lancaster LM130 of 463 Squadron RAAF (based at RAF Waddington) and Hurricane PZ740 of 1690 BDTF during a fighter affiliation exercise at night. All seven Lancaster crew were killed.",
+      "key_details": [
+        "Fighter affiliation exercise at night",
+        "Lancaster piloted by P/O H. Orchard RAAF",
+        "All 7 Lancaster crew killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of mid-air collision involving Lancaster LM130 and Hurricane PZ740, including crew information and exercise context.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
     },
-    "external_narratives": [
-        {
-            "source_site": "Aviation Safety Network",
-            "original_url": "https://asn.flightsafety.org/wikibase/476703",
-            "summary": "ASN records the mid-air collision on 11 March 1945 between Lancaster LM130 of 463 Squadron RAAF (based at RAF Waddington) and Hurricane PZ740 of 1690 BDTF during a fighter affiliation exercise at night. All seven Lancaster crew were killed.",
-            "key_details": [
-                "Fighter affiliation exercise at night",
-                "Lancaster piloted by P/O H. Orchard RAAF",
-                "All 7 Lancaster crew killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Safety Network (Hurricane)",
-            "original_url": "https://asn.flightsafety.org/wikibase/164036",
-            "summary": "ASN records Hurricane PZ740 of 1690 Flight piloted by Flg Off Sidney Frederick Parlato DFC RNZAF, who was also killed in the mid-air collision with Lancaster LM130.",
-            "key_details": [
-                "Hurricane pilot was NZ national",
-                "Parlato held DFC",
-                "1690 Bomber Defence Training Flight"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/91741",
-            "summary": "IWM records the joint memorial for Lancaster LM130 and Hurricane PZ740 at Blankney, Lincolnshire, commemorating all eight personnel killed in the mid-air collision.",
-            "key_details": [
-                "IWM memorial reference 91741",
-                "Joint memorial for both aircraft crews",
-                "Eight total killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Flickr (Memorial Photos)",
-            "original_url": "https://www.flickr.com/photos/151928544@N03/albums/72177720316491696/",
-            "summary": "Photo album documenting the Blankney Fen memorial, showing a wooden cross with silhouettes of a Lancaster and Hurricane, located on a footpath from the Blankney Stepping Out car park.",
-            "key_details": [
-                "Wooden cross memorial with aircraft silhouettes",
-                "Located on footpath from car park",
-                "Crash site was 'The Asholt Field' at Blankney village"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Sleaford & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Blankney Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "originals.broad.rekindle"
+    {
+      "source_site": "Aviation Safety Network (Hurricane)",
+      "original_url": "https://asn.flightsafety.org/wikibase/164036",
+      "summary": "ASN records Hurricane PZ740 of 1690 Flight piloted by Flg Off Sidney Frederick Parlato DFC RNZAF, who was also killed in the mid-air collision with Lancaster LM130.",
+      "key_details": [
+        "Hurricane pilot was NZ national",
+        "Parlato held DFC",
+        "1690 Bomber Defence Training Flight"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of mid-air collision involving Hurricane PZ740 and Lancaster LM130, including crew information and circumstances leading to the tragic event.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/91741",
+      "summary": "IWM records the joint memorial for Lancaster LM130 and Hurricane PZ740 at Blankney, Lincolnshire, commemorating all eight personnel killed in the mid-air collision.",
+      "key_details": [
+        "IWM memorial reference 91741",
+        "Joint memorial for both aircraft crews",
+        "Eight total killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed Register Entry: This includes full crew details, aircraft histories, and precise Blankney location information for the World War II mid-air collision memorial."
+    },
+    {
+      "source_site": "Flickr (Memorial Photos)",
+      "original_url": "https://www.flickr.com/photos/151928544@N03/albums/72177720316491696/",
+      "summary": "Photo album documenting the Blankney Fen memorial, showing a wooden cross with silhouettes of a Lancaster and Hurricane, located on a footpath from the Blankney Stepping Out car park.",
+      "key_details": [
+        "Wooden cross memorial with aircraft silhouettes",
+        "Located on footpath from car park",
+        "Crash site was 'The Asholt Field' at Blankney village"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Photographic documentation of Blankney Fen Lancaster Memorial, showcasing a wooden cross with silhouettes."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Sleaford & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Blankney Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "dustbin.mule.slippers",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "463 Squadron RAF",
+  "squadron_aliases": [
+    "463 Sqdn.",
+    "463 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "David Charles",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "William Elcome",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Reginald Neale",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Norman Orchard",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Sidney Frederick Parlato",
+      "fate": "Killed",
+      "rank": "Flying Officer",
+      "role": "Pilot",
+      "burial_location": "Cambridge City Cemetery Grave 15368",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "Bernard Patch",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Harold Rollins",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Harold Shaw",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "A wooden cross with attached dedicatory laminated label, the left arm of the cross has the silhouette of a Lancaster and the right a Hurricane; also a wooden board mounted on a metal shaft with a dedicatory plaque. Both are placed within a black propeller shaped kerbing filled with black stones, the tips of the propeller shape and their stones are painted yellow.",
+  "narrative": "On March 11, 1945, Lancaster bomber LM130 of 463 Squadron, based in Lincolnshire, was involved in a tragic mid-air collision near Blankney. The exact circumstances of the accident remain unclear, but it resulted in a catastrophic loss of life. This incident marks a somber reminder of the risks faced by aircrews during World War II, underscoring the sacrifice made by these brave individuals in service to their country.",
+  "inscription": "Wooden board plaque: In Loving Memory\n11th March 1945.\nThe Families of [crew names inscribed on memorial]\nhold these men and their sacrifice in our hearts.\nLest We Forget\nLancaster LM130 & Hurricane PZ740\n23rd September 2014 Wooden Cross label: LINCOLNSHIRE AIRCRAFT\nRECOVERY GROUP\n(Lancaster depiction)\nIn Memory Of The Crew Of Avro Lancaster LM130 JO-N\nAnd\nThe Pilot Of Hawker Hurricane PZ740",
+  "community_connection": "The Avro Lancaster LM130 and Hurricane PZ740 memorial was created and shared by Colin Murray.",
+  "crash_category": "mid-air-collision",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/95/130/large_lancaster_lm130_and_hurricane_pz740_memorial.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/131/large_lancaster_lm130_and_hurricane_pz740_detail.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/132/large_lancaster_lm130_and_hurricane_pz740_plaque_detail.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/133/large_lancaster_lm130_and_hurricane_pz740_cross.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/95/134/large_cross_and_laminated_label.jpg"
+  ]
 }

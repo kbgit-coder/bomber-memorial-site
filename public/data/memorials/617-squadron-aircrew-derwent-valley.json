@@ -1,0 +1,44 @@
+{
+  "id": "617-squadron-aircrew-derwent-valley",
+  "title": "617 Squadron Aircrew - Derwent Valley",
+  "location_name": "Upper Derwent Valley, High Peak",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "aircraft_type": "Lancaster",
+  "serial_number": "",
+  "squadron": "617 Squadron",
+  "crash_date": "",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "A rectangular brass plaque with polished narrow raised border and inscription in upright capital Roman lettering against a stippled ground. The stone of remembrance (our reference 14270) is about 18 inches below.",
+  "inscription": "THIS PLAQUE UNVEILED ON 16TH MAY 1988/ COMMEMORATES THE NIGHT OF/ 16TH 17TH MAY 1943/ WHEN 19 LANCASTERS OF 617 SQD R.A.F./ ATTACKED THE RUHR DAMS AT LOW LEVEL/ ALSO REMEMBERED HERE ARE THE/ 204 617 SQD. AIRCREW WHO LAID DOWN/ THEIR LIVES BETWEEN 1943 - 1945",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/14271",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Partial",
+  "narrative": "",
+  "crew": [],
+  "contributor": "IWM War Memorials Register",
+  "last_updated": "2026-04-12",
+  "latitude": 53.40480141756,
+  "longitude": -1.743198523402,
+  "grid_ref": "SK 16885",
+  "photos": [],
+  "custodian": "The building forms part of the structure of Derwent Dam, owned by Severn Trent Water Ltd.",
+  "external_narratives": [],
+  "what3words": "",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/172/678/large_derwent_dambusters___3_of_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/89/594/large_14271_fairholmes_2.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/172/677/large_derwent_dambusters___2_of_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/172/676/large_derwent_dambusters___1_of_3.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/89/593/large_14271_fairholmes_1.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/75/172/large_617_0.jpg"
+  ],
+  "community_connection": "",
+  "last_validated": "2026-04-12",
+  "crash_date_review": "Auto-corrected to 16th May 1943 but reverted \u2014 text date, not ISO"
+}

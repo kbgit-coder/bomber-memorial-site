@@ -1,0 +1,139 @@
+{
+  "id": "easby-moor-hudson-n-7294",
+  "title": "Easby Moor N.7294 Memorial",
+  "location_name": "Easby Moor, North Yorkshire",
+  "county": "North Yorkshire",
+  "country": "United Kingdom",
+  "region_code": "NY-004",
+  "crash_date": "1940-02-11",
+  "aircraft_type": "Hudson N.7294",
+  "squadron": "220 Squadron",
+  "station": "Thornaby",
+  "crew_summary": "3 killed; 1 survived (LAC Atholl Barker)",
+  "memorial_type": "Air crash memorial",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Partial",
+  "latitude": 54.482,
+  "longitude": -1.0917,
+  "maintainer": {
+    "organisation": "Easby Parish Meeting",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Peak District Air Accident Research",
+      "original_url": "https://www.peakdistrictaircrashes.co.uk/crash_sites/north-yorkshire-moors/lockheed-hudson-n7294-easby-moor/",
+      "summary": "Crash site investigation for Hudson N7294 of 220 Squadron at Easby Moor on 11 February 1940. Three Hudsons took off from Thornaby for an operational flight to the Heligoland area; the lead aircraft's windscreen iced up and it struck Easby Moor near the Captain Cook Monument.",
+      "key_details": [
+        "Part of three-aircraft formation to Heligoland",
+        "Windscreen icing blocked forward vision",
+        "Crashed near Captain Cook Monument on Easby Moor",
+        "Flew through a stone wall on impact"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore crash site investigation details of Hudson N7294 at Easby Moor on 11 February 1940."
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/planes/40/n7294.html",
+      "summary": "Record of Hudson N7294 crash at Easby Moor, Great Ayton on 11 February 1940. Three crew killed; LAC Atholl Barker survived with injuries and later returned to service with 220 Squadron.",
+      "key_details": [
+        "F/O Tom Parker (pilot) age 21, buried Thornaby",
+        "Sgt Harold Bleksley age 24, buried Bristol",
+        "Cpl Norman Drury age 23, buried North Walsham",
+        "LAC Barker survived, returned to 220 Squadron"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "The tragic Hudson N7294 crash at Easby Moor in Yorkshire Aircraft's record."
+    },
+    {
+      "source_site": "Aviation Safety Network",
+      "original_url": "https://aviation-safety.net/wikibase/22443",
+      "summary": "Accident record for Lockheed Hudson Mk I N7294 on 11 February 1940. Documents the crash circumstances including icing conditions and impact location on Easby Moor.",
+      "key_details": [
+        "One of earliest WW2 crash sites in North Yorkshire",
+        "Hudson Mk I variant"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Explore accident details of Lockheed Hudson Mk I N7294 at Easby Moor in February 1940."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Guisborough Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/north-east-yorkshire-county/county-branches/"
+    },
+    {
+      "org_name": "Easby Parish Meeting",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "graph.boss.breezes",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "220 Squadron RAF",
+  "squadron_aliases": [
+    "220 Squadron",
+    "220 Sqdn."
+  ],
+  "narrative": "The winter of 1939-40 was a severe one. On the night of Sunday, 11th February 1940, three Hudson's belonging to 220 Squadron took off from Thornaby to undertake an operational flight to Heligoland area, an area of sea off the German coastline. This was a cold night and snow was already covering the hills in the area south and east of Middlesbrough. The lead Hudson failed to gain enough height on take off, probably due to the effects of icing conditions on the aircraft's wings and it flew very low over Great Ayton. It was thought the pilot pulled the nose of the aircraft up just before impact which avoided a complete nose-on impact with the side of the hill. The crash ripped the underside of the aircraft off and it ploughed it's way across the snow cover",
+  "crew": [
+    {
+      "name": "Tom MacKinlay Parker",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 21
+    },
+    {
+      "name": "Harold Francis Bleksley",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 24
+    },
+    {
+      "name": "Atholl Barker",
+      "rank": "LAC",
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 26
+    },
+    {
+      "name": "Norman Rrichard Drury",
+      "rank": "Corporal",
+      "fate": "Killed",
+      "role": "Wireless Operator"
+    }
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "Special night patrol mission",
+        "date": "10-11 February 1940",
+        "description": "Three Hudsons of 220 Sqn RAF were planned to fly due east from Thornaby to Horns Reef, then sweep south into the Heligoland Bight for a low-level bombing attack on enemy ships at first light."
+      }
+    ]
+  },
+  "memorial_details": "It then crashed into the first piece of high ground it came to on the North Yorkshire Moors, having flown into the moor just below a stone wall it travelled up through the wall and then onto the hill top near to Captain Cook's Monument.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4
+}

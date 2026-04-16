@@ -30,15 +30,14 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Comprehensive",
-  "narrative": "One month after VE Day, fifteen young Americans boarded a B-24 Liberator at Prestwick, bound for home. The planned route should have taken them over Stornoway and out across the North Atlantic. Instead, the aircraft veered inland over Wester Ross. Whether navigational error, mechanical failure, or the dense cloud cover was responsible remains unknown. The Liberator began descending through heavy overcast, its crew likely disoriented. The aircraft struck the upper slopes of Slioch, tearing off bomb bay doors, then broke through the clouds above Loch Gairloch. Seconds later it struck the hills above the Fairy Lochs at high speed, shattering across the hillside and into the water. No one survived. The wreckage -- including landing gear, airframe sections, propellers, and engines, some partially submerged in the loch -- remains scattered across the site to this day. The area is classified as a war grave, and visitors are expected not to disturb the remains. The site has become one of the most visited and photographed WW2 crash sites in Scotland, accessible via a 2-3 mile walk from Gairloch.",
+  "data_quality": "Partial",
+  "narrative": "On 13 June 1945, a B-24 Liberator departed Prestwick carrying a crew of nine and six passengers, returning home following the end of the war in Europe. The aircraft should have routed over Stornoway, but a navigational error brought it inland over the Scottish Highlands instead. Flying through heavy cloud, the Liberator struck the summit of Slioch before breaking through the cloud base over Gairloch. The crew circled the loch once — possibly searching for a place to ditch — before attempting a final approach that failed to clear the rocky spurs beside the Fairy Lochs. All fifteen men aboard were killed, among them the pilot, 1st Lieutenant Jack B. Ketchum, who was 22 years old.",
   "crew": [
     {
       "rank": "1st Lt",
       "name": "Jack B. Ketchum",
       "age": 22,
       "role": "Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact when the B-24 struck the hills above the Fairy Lochs at high speed. Although only 22, Ketchum had completed 33 combat missions and had been declared 'missing in action' twice after crash landings in Belgium and Russia.",
       "bio": "A 22-year-old veteran pilot with 33 combat missions. He and his crew were ferrying the B-24 back to the US and had jumped at the chance to get home early. He had survived two previous crash landings."
@@ -47,7 +46,6 @@
       "rank": "1st Lt",
       "name": "Jack H. Spencer",
       "role": "Co-Pilot",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -55,7 +53,6 @@
       "rank": "2nd Lt",
       "name": "Richard J. Robak",
       "role": "Navigator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact. As navigator, he would have been responsible for the planned route via Stornoway and out across the North Atlantic."
     },
@@ -63,7 +60,6 @@
       "rank": "T/Sgt",
       "name": "Hillburn L. Cheek",
       "role": "Engineer",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -71,7 +67,6 @@
       "rank": "T/Sgt",
       "name": "James C. Stammer",
       "role": "Radio Operator",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -79,7 +74,6 @@
       "rank": "S/Sgt",
       "name": "Eldon J. Gilles",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -87,7 +81,6 @@
       "rank": "S/Sgt",
       "name": "Herman Riefen",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -95,7 +88,6 @@
       "rank": "S/Sgt",
       "name": "Raymond E. Davis",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -103,7 +95,6 @@
       "rank": "S/Sgt",
       "name": "Albert L. Natkin",
       "role": "Gunner",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "Killed on impact at the Fairy Lochs crash site."
     },
@@ -111,7 +102,6 @@
       "rank": "S/Sgt",
       "name": "John H. Hallissey",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command hitching a ride home to the US."
     },
@@ -119,7 +109,6 @@
       "rank": "S/Sgt",
       "name": "Robert J. Francis",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -127,7 +116,6 @@
       "rank": "S/Sgt",
       "name": "Emil Einarsen",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -135,7 +123,6 @@
       "rank": "S/Sgt",
       "name": "John B. Ellis Jr.",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -143,7 +130,6 @@
       "rank": "S/Sgt",
       "name": "James D. Harvey",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     },
@@ -151,7 +137,6 @@
       "rank": "S/Sgt",
       "name": "Alexander W. Hastings",
       "role": "Passenger (Air Transport Command)",
-      "nationality": "American",
       "fate": "Killed",
       "fate_detail": "One of six passengers from the Air Transport Command."
     }
@@ -168,7 +153,8 @@
       "summary": "Comprehensive article on the Fairy Lochs (Na Lochan Sgeireach) crash site. On 13 June 1945, B-24 Liberator 42-95095 from Warton Aerodrome crashed while returning to the US via Iceland. The aircraft struck the summit of Slioch before crashing into the lochs.",
       "key_details": "The site is a designated US war grave. Wreckage including propellers, engines, and fuselage sections remain scattered across the site. Accessible via a 2-3 mile walk from the B8021 road near Gairloch.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Comprehensive history of Fairy Lochs (USAAF) Memorial crash site on June 13, 1945."
     },
     {
       "source_site": "Highland Historic Environment Record",
@@ -176,7 +162,8 @@
       "summary": "Official heritage record for the B-24 Liberator crash site at Fairy Lochs, designated as monument MHG30841. The site is classified as a war grave and protected heritage asset in the Highland Council area.",
       "key_details": "Official monument reference MHG30841. Site is protected and visitors are expected not to disturb remains.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The official heritage record of the B-24 Liberator crash site at Fairy Lochs, a designated war grave and protected monument."
     },
     {
       "source_site": "North Coast 500",
@@ -184,7 +171,8 @@
       "summary": "Feature on the Fairy Lochs crash site as a hidden gem along Scotland's North Coast 500 route. Notes the site as one of the most visited and photographed WW2 crash sites in Scotland.",
       "key_details": "Listed as a visitor attraction on the NC500 route. Walkable from Gairloch area.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the iconic Fairy Lochs USAAF Memorial, a must-visit WW2 crash site on Scotland's scenic North Coast 500 route."
     }
   ],
   "local_contacts": [
@@ -195,5 +183,19 @@
       "website": "https://www.legionscotland.org.uk/branches-and-clubs"
     }
   ],
-  "what3words": "volcano.pedicure.giraffes"
+  "what3words": "volcano.pedicure.giraffes",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "66th Bomb Squadron USAAF",
+  "squadron_aliases": [
+    "66th Bomber Squadron, 44th Bomb Group, USAAF"
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet"
 }

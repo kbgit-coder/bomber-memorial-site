@@ -9,7 +9,7 @@
   "aircraft_type": "Lancaster",
   "serial_number": "ME442",
   "aircraft_code": "KM-V",
-  "squadron": "44 Sqdn.",
+  "squadron": "44 (Rhodesia) Squadron RAF",
   "station": "Spilsby",
   "crew_summary": "7 killed including pilot F/O John Joseph F. Ryan RAAF, aged 33",
   "memorial_type": "Wellingtonia/Lancaster memorial",
@@ -30,102 +30,122 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-23",
+  "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
-  "narrative": "The night of 3/4 March 1945 was one of the most extraordinary and little-known episodes of the air war. F/O Jack Ryan, a 33-year-old Australian, took off from RAF Spilsby at 18:42 to join 212 Lancasters attacking the Ladbergen aqueducts on the Dortmund-Ems Canal. The raid was successful — over 100 metres of canal bank destroyed, both aqueducts in ruins. But as the bombers turned for home, something unprecedented happened. The Luftwaffe launched Operation Gisela: approximately 200 German night fighters followed the bomber stream back across the North Sea and prowled the skies over eastern England, attacking bombers as they approached their home airfields with navigation lights on and undercarriages down. It was a reversal of every established tactic. At 01:00 hours, with Lincolnshire spread out below and safety minutes away, a Ju88C found Lancaster ME442. The German pilot attacked, and the Lancaster crashed into Grannington Park on the Brocklesby Estate, among ancient trees. All seven crew were killed.",
+  "narrative": "Flying Officer Ryan and his six-man crew departed RAF Spilsby on the evening of 3 March 1945, joining a force of Lancaster bombers targeting the Ladbergen aqueducts on the Dortmund-Ems Canal. Returning from the raid, their aircraft — Lancaster ME442, coded KM-V, of 44 (Rhodesia) Squadron — was ordered to divert due to reports of enemy intruder aircraft over England. Ryan steered north, but the Lancaster was shot down by a Junkers Ju88C night fighter during Operation Gisela, a Luftwaffe intrusion over British airspace. The aircraft came down at Brocklesby Park, Lincolnshire, severing a Californian Redwood tree before coming to rest. All seven crew members were killed: pilot Ryan, aged 33, was Australian; the remaining six — Jarman, Russell, Terry, Birtch, Payne, and Rogan — were British, the youngest aged just 19.",
   "crew": [
     {
       "rank": "F/O",
       "name": "John Joseph Francis Ryan",
-      "service_number": "Aus/428364 RAAF",
       "age": 33,
       "role": "Pilot",
-      "nationality": "Australian",
       "burial_location": "Cambridge City Cemetery, Grave 15718",
       "fate": "Killed",
       "fate_detail": "Shot down by Ju88C during Operation Gisela. At 33, one of the older pilots still flying operations.",
       "cwgc_verified": true,
-      "bio": "F/O 'Jack' Ryan was a 33-year-old Australian serving with the RAAF."
+      "bio": "F/O 'Jack' Ryan was a 33-year-old Australian serving with the RAAF.",
+      "service_number": "Aus/428364 RAAF",
+      "nationality": "Australian"
     },
     {
       "rank": "Sgt",
       "name": "Thomas Handley Jarman",
-      "service_number": "3010499 RAFVR",
       "age": 19,
       "role": "Flight Engineer",
-      "nationality": "British",
       "burial_location": "Stretford Cemetery, Lancashire, Sec W, Grave 40",
       "fate": "Killed",
       "fate_detail": "At 19, tied as youngest crew member. Buried at Stretford Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "3010499 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Richard Raven Russell",
-      "service_number": "1801287 RAFVR",
       "age": 21,
       "role": "Navigator",
-      "nationality": "British",
       "burial_location": "Hove New Cemetery, Sussex, Block 3, Grave 125",
       "fate": "Killed",
       "fate_detail": "Buried at Hove New Cemetery, Sussex.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1801287 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Hubert Joseph Terry",
-      "service_number": "1580082 RAFVR",
       "age": 21,
       "role": "Air Bomber",
-      "nationality": "British",
       "burial_location": "Birmingham (Brandwood End) Cemetery, Sec 26, Grave 10361",
       "fate": "Killed",
       "fate_detail": "Buried at Brandwood End Cemetery, Birmingham.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1580082 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Harry Birtch",
-      "service_number": "1575035 RAFVR",
       "age": 21,
       "role": "W/Op Air Gunner",
-      "nationality": "British",
       "burial_location": "Cambridge City Cemetery, Grave 15717",
       "fate": "Killed",
       "fate_detail": "Buried at Cambridge City Cemetery alongside pilot Ryan.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1575035 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "Herbert Payne",
-      "service_number": "1589407 RAFVR",
       "age": 29,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 8, Grave 241",
       "fate": "Killed",
       "fate_detail": "At 29, one of the older crew. Buried at Liverpool (Kirkdale) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "1589407 RAFVR",
+      "nationality": "British"
     },
     {
       "rank": "Sgt",
       "name": "William Henry Rogan",
-      "service_number": "2218611 RAFVR",
       "age": 19,
       "role": "Air Gunner",
-      "nationality": "British",
       "burial_location": "Liverpool (Kirkdale) Cemetery, Sec 27C, Grave 328",
       "fate": "Killed",
       "fate_detail": "At 19, tied as youngest crew member. Buried at Liverpool (Kirkdale) Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "2218611 RAFVR",
+      "nationality": "British"
+    },
+    {
+      "name": "H. Birch",
+      "fate": "Killed",
+      "rank": "—"
+    },
+    {
+      "name": "Hubert Terry Air Bomber",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Harry Birch Wireless Op",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Herbert Payne Air Gunner",
+      "rank": null,
+      "fate": "Unknown"
     }
   ],
   "cause_of_loss": "Shot down by Ju88C night fighter during Operation Gisela (Luftwaffe intruder operation over England)",
   "operation_type": "Operational",
   "operation_target": "Returning from bombing Ladbergen aqueducts (Dortmund-Ems Canal)",
-  "memorial_details": "The memorial is a copper and bronze plaque mounted on a Wellingtonia tree trunk in Grannington Park on the Brocklesby Estate, near Great Limber. Commissioned by the Earl of Yarborough. A 75th anniversary commemoration service was held in March 2020.",
-  "latitude": 53.1116095577108,
-  "longitude": -0.44723415064072,
+  "memorial_details": "A copper and bronze plaque mounted on a wood backboard affixed to a tree.\n\nMemorial Dedication: Dedication of the memorial for the crew of Lancaster Aircraft (Serial # MK 442)",
+  "latitude": 53.5853,
+  "longitude": -0.2754,
   "maintainer": {
     "organisation": "Brocklesby Parish Meeting",
     "maintainer_type": "parish-council"
@@ -141,7 +161,7 @@
       ],
       "date_retrieved": "2026-03-24",
       "still_live": true,
-      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 03/04.03.1945 No. 44 Squadron Lancaster III ME442 KM-V F/O. Ryan Operation: Ladbergen\n\nDate: 3/4th March 1945 (Saturday/Sunday)\n\nBase: RAF Spilsby, Lincolnshire\n\nLocation: Brocklesby Estate, Lincolnshire\n\nPilot: F/O. John Joseph Francis Ryan AUS/428364 RAAF Age 33. Killed\n\nFl/Eng: Sgt. Thomas Handley Jarman 3010499 RAFVR Age 19. Killed\n\nNav: Fl/Sgt. Richard Raven Russell 1801287 RAFVR Age 21. Killed\n\nAir/Bmr: Fl/Sgt. Hubert Joseph Terry 1580082 RAFVR Age 21. Killed (1)\n\nW/Op/Air/Gnr: Sgt. Harry Birtch 1575035 RAFVR Age 21. Killed\n\nAir/Gnr: Sgt. Herbert Payne 1589407 RAFVR Age 29. Killed\n\nAir/Gnr: Sgt. William Henry Rogan 2218611 RAFVR Age 19. Killed\n\nTook off at 18:42 hrs from RAF Spilsby, Lincolnshire to join 212 Lancasters and 10 Mosquitoes of 5 Group to attack the Ladbergen aqueduct, which was breached in two places and put completely out of action.\n\n44 Squadron Lancasters (courtesy I.W.M.)\n\nHomebound and nearly over the airfield Lancaster ME442 was picked up by an enemy intruder aircraft and shot down at 01.00 to crash amongst trees in Grannington Park on the Brocklesby Estate near Grimsby, Lincolnshire.\n\nWalkers pay respect at the place where the crew of seven were killed (courtesy Sharon Coates )\n\nIt is very important to adhere to the rules whilst walking through this area please. The Earl of Yarborough is allowing visitors to the memorial and the other fine walks in the area - but this is restricted from April to the end of August\n\nVideo of the crash-site also kindly supplied by Rod Collins\n\nF/O. John Joseph Francis Ryan. Cambridge City Cemetery. Grave 15718. Son of John Frederick and Julia Ryan and husband of Jean Elizabeth Ryan of Hawthorn, Victoria, Australia.\n\nSgt. Thomas Handley Jarman. Stretford Cemetery, Lancashire, England. Section W. Grave 40. Son of John Thomas and Doris Jarman, of Offerton, Cheshire, England.\n\nFl/Sgt.. Richard Raven Russell. Hove New Cemetery, Sussex, England. Block 3. Grave 125. Son of James Henry and Alice Anna Russell, of Hove, Sussex, England.\n\nFl/Sgt.. Hubert Joseph Terry. Birmingham (Brandwood End) Cemetery, Warwickshire, England. Section 26. Grave 10361. Son of George and Rose Terry of Balsall Heath, Birmingham, England.\n\nSgt. Harry Birtch. Cambridge City Cemetery, Cambridgeshire, England. Grave 15717. Son of John Henry and Elizabeth Ellen Birch of Nottingham, England.\n\nSgt. Herbert Payne. Liverpool (Kirkdale) Cemetery, Lancashire, England. Section 8. Nonconformist. Grave 241. Son of Frederick and Margaret Payne of Walton, Liverpool, England.\n\nSgt. William Henry Rogan. Liverpool (Kirkdale) Cemetery, Lancashire, England. Section 27. C. of E. Grave 328. Son of William and Gertrude Rogan of Liverpool, England.\n\nResearched by Kate Tame for Keith Townsend historian of Moseley Secondary/Grammar school memorial records and relatives of the crew.\n\nWith the thanks to Rod Collins for his research on this plaque and crew, Sharon Coates for further photographs, also to Commonwealth War Graves Commission. Bill Chorley - 'Bomber Command Losses' Vol. 6, Dr. Theo E.W. Boiten and Mr. Roderick J. Mackenzie - 'Nightfighter War Diaries Vols. 1 and 2', Martin Middlebrook and Chris Everitt \"Bomber Command War Diaries\".\n\n- 03/04.03.1945 No. 44 Squadron Lancaster III ME442 KM-V F/O. Ryan Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago. We have successfully tested the site on IE7 up to IE11! It's always a good idea to upgrade to the latest release of Internet Explorer to provide the best security."
+      "link_description": "Comprehensive account of Lancaster ME442 KM-V's loss during Operation Gisela, including crew details and operational history."
     },
     {
       "source_site": "IBCC",
@@ -151,7 +171,8 @@
         "75th anniversary commemoration held March 2020"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "75th Anniversary Commemoration at Brocklesby Estate, 2020: Detailed accounts of events, tributes, and historical context."
     },
     {
       "source_site": "44 Squadron Association",
@@ -162,7 +183,8 @@
         "Site treated as consecrated ground"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed account of Brocklesby Lancaster Memorial, including its commissioning by Earl of Yarborough, treatment as consecrated ground, and associated historical context."
     },
     {
       "source_site": "IWM War Memorials Register",
@@ -172,12 +194,13 @@
         "IWM reference: memorial/34838"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed record of Brocklesby Lancaster ME442's memorial, including crew information and site particulars."
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
-  "squadron_motto": "The king's thunderbolts",
-  "what3words": "climate.evening.tucked",
+  "squadron_motto": "Fulmina regis iusta",
+  "what3words": "slurping.rent.nappy",
   "photos": [
     {
       "filename": "brocklesby-me442/44-squadron-lancasters-1-w640h480.jpg",
@@ -199,5 +222,37 @@
       "caption": "moseley grammar school ww2 memorial copy w640h480 5",
       "credit": "Aircrew Remembered"
     }
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "44 Squadron RAF",
+  "squadron_aliases": [
+    "44 Sqdn.",
+    "44 Squadron"
+  ],
+  "remembrance": {
+    "events": [
+      {
+        "name": "75th Anniversary commemoration of the crash of Lancaster ME442",
+        "date": "2020-03-04",
+        "description": "A memorial service held at the crash site Memorial located in Brocklesby Mausoleum Woods, marking 75 years since the crash of Lancaster ME442 of 44 (R) Sqn."
+      }
+    ],
+    "annual_service": true,
+    "service_date": "4th March"
+  },
+  "community_connection": "The Crew Of Lancaster Aircraft (Serial # MK 442) memorial was created and shared by D Deptford and Matty Crudas. With help from 44 (R) Sqn Association, including its Chairman Gp Capt (Retd) John Laycock and Secretary Sqn Ldr Henry Horscoft, they contacted Lord Yarborough’s Brocklesby Estate Office and Flt Lt Terry Marsden RAFVR (Retd), the local RAFA representative at Kirmington. Due to ill health and rough terrain, the Association's Chairman and Secretary couldn't attend, so the author represented them and made the introduction.",
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "narrative_source": "generated-claude-sonnet",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/16/700/large_34838_1_d_deptford.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/106/934/large_34834.jpg;",
+    "https://media.iwm.org.uk/ciim5/memorials/16/701/large_34838_2_d_deptford.jpg"
   ]
 }

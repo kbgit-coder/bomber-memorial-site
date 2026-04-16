@@ -1,80 +1,267 @@
 {
-    "id": "blyth-green-2-na581",
-    "title": "Blyth Green (2) Halifax Memorial",
-    "location_name": "Blyth Green (2), Nottinghamshire",
-    "county": "Nottinghamshire",
-    "country": "United Kingdom",
-    "region_code": "NT-009",
-    "crash_date": "1944-08-02",
-    "aircraft_type": "Halifax",
-    "serial_number": "NA581",
-    "squadron": "425 Squadron",
-    "station": "Tolthorpe",
-    "crew_summary": "8 killed including Flt Lt. George Douglas Stark",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.17217584650859,
-    "longitude": -0.9097883781210775,
-    "maintainer": {
-        "organisation": "Blyth Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "blyth-green-2-na581",
+  "title": "Blyth Green (2) Halifax Memorial",
+  "location_name": "Blyth Green (2), Nottinghamshire",
+  "county": "Nottinghamshire",
+  "country": "United Kingdom",
+  "region_code": "NT-009",
+  "crash_date": "1944-08-02",
+  "aircraft_type": "Halifax",
+  "serial_number": "NA581",
+  "squadron": "425 Squadron",
+  "station": "Tolthorpe",
+  "crew_summary": "8 killed including Flt Lt. George Douglas Stark",
+  "memorial_type": "Memorial stone",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-21",
+  "data_quality": "Good",
+  "latitude": 53.1902622,
+  "longitude": -0.9140349,
+  "maintainer": {
+    "organisation": "Blyth Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "425 Alouette Squadron Blog",
+      "original_url": "https://425alouette.wordpress.com/category/425-alouette/",
+      "summary": "RCAF 425 (Alouette) Squadron records document Halifax NA581 as lost on 2 August 1944 during a daytime test flight from RAF Tolthorpe, when it suffered engine problems and crashed near Blyth village.",
+      "key_details": [
+        "Daytime test flight",
+        "Engine problems caused crash",
+        "425 (Alouette) Squadron RCAF"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed account of RCAF 425 (Alouette) Squadron's Halifax NA581 crash near Blyth village on August 2, 1944, following engine failure during a test flight from RAF Tolthorpe."
     },
-    "external_narratives": [
-        {
-            "source_site": "425 Alouette Squadron Blog",
-            "original_url": "https://425alouette.wordpress.com/category/425-alouette/",
-            "summary": "RCAF 425 (Alouette) Squadron records document Halifax NA581 as lost on 2 August 1944 during a daytime test flight from RAF Tolthorpe, when it suffered engine problems and crashed near Blyth village.",
-            "key_details": [
-                "Daytime test flight",
-                "Engine problems caused crash",
-                "425 (Alouette) Squadron RCAF"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Archaeology (Midlands Crashes)",
-            "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
-            "summary": "Aviation Archaeology lists Halifax NA581 in its 1944 military crash records, confirming the crash near Blyth on 2 August 1944 with crew casualties including Canadian airmen P/O Pigeon and P/O Pitkin.",
-            "key_details": [
-                "P/O John Jerome Pigeon from Stratford, Ontario killed",
-                "P/O Edmund Francis Pitkin from Toronto killed"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
-            "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
-            "summary": "The Nottinghamshire Aviation Memorials guide includes the Blyth village green memorial, erected 14 September 1997, which commemorates crews of both Wellington HE818 and Halifax NA581.",
-            "key_details": [
-                "Memorial erected 14 September 1997",
-                "Shared memorial covers both HE818 and NA581 crews"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Worksop Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
-        },
-        {
-            "org_name": "Blyth Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "what3words": "storms.charmingly.refills"
+    {
+      "source_site": "Aviation Archaeology (Midlands Crashes)",
+      "original_url": "http://www.aviationarchaeology.org.uk/marg/crashes1944.htm",
+      "summary": "Aviation Archaeology lists Halifax NA581 in its 1944 military crash records, confirming the crash near Blyth on 2 August 1944 with crew casualties including Canadian airmen P/O Pigeon and P/O Pitkin.",
+      "key_details": [
+        "P/O John Jerome Pigeon from Stratford, Ontario killed",
+        "P/O Edmund Francis Pitkin from Toronto killed"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed crash account with crew casualties' identities, including Canadian airmen P/O Pigeon and P/O Pitkin."
+    },
+    {
+      "source_site": "Visit Nottinghamshire (Aviation Memorials PDF)",
+      "original_url": "https://www.visit-nottinghamshire.co.uk/downloads/dmsimgs/Notts_Aviation_Memorials_189885421.pdf",
+      "summary": "The Nottinghamshire Aviation Memorials guide includes the Blyth village green memorial, erected 14 September 1997, which commemorates crews of both Wellington HE818 and Halifax NA581.",
+      "key_details": [
+        "Memorial erected 14 September 1997",
+        "Shared memorial covers both HE818 and NA581 crews"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Detailed information on Blyth Green Halifax Memorial, including crew tributes and memorial unveiling particulars."
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Worksop Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/nottinghamshire/contact-us/branches/"
+    },
+    {
+      "org_name": "Blyth Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "what3words": "drop.presides.cheaply",
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI research agent)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "425 Squadron RCAF",
+  "squadron_aliases": [
+    "425 Squadron",
+    "425 Sqdn."
+  ],
+  "narrative": "On a test flight from RAF Tolthorpe, Halifax NA581 of 425 (Alouette) Squadron suffered engine failure and crashed near Blyth Green, Nottinghamshire, on 2 August 1944. Flight Lieutenant George Douglas Stark was in command of the aircraft. All eight men aboard were killed. Among the crew were Canadian Air Gunners Joseph Maurice Paradis, aged 29, and Joseph Rene Lariviere, aged 24. A memorial at Blyth Green commemorates the crew.",
+  "community_connection": "",
+  "remembrance": {
+    "events": [],
+    "annual_service": true,
+    "service_date": "27th April 2025"
+  },
+  "crew": [
+    {
+      "name": "Joseph Maurice Paradis",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 29,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Joseph Rene Lariviere",
+      "rank": null,
+      "fate": "Unknown",
+      "role": "Air Gunner",
+      "age": 24,
+      "nationality": "Canadian"
+    },
+    {
+      "name": "Joseph Jean Louis Marcel",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Hugh Ledoux",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Joseph Gerard Maurice Landry",
+      "rank": null,
+      "fate": "Unknown"
+    },
+    {
+      "name": "Roy Brown",
+      "rank": null,
+      "fate": "Unknown"
+    }
+  ],
+  "memorial_details": "Eighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.\n\nEighty years after 425 Squadron\u2019s last bombing operation over Europe, on 27th April 2025, a plaque will be unveiled to remember the crew of MZ538 \u2013 listed below.",
+  "crash_category": "unknown",
+  "narrative_quality_score": 0,
+  "narrative_source": "generated-claude-sonnet",
+  "station_roll_names": [
+    {
+      "name": "Wilmet",
+      "rank": null
+    },
+    {
+      "name": "Dupuis",
+      "rank": null
+    },
+    {
+      "name": "Thomson",
+      "rank": null
+    },
+    {
+      "name": "Gregson",
+      "rank": null
+    },
+    {
+      "name": "Mauger",
+      "rank": null
+    },
+    {
+      "name": "Hach",
+      "rank": null
+    },
+    {
+      "name": "Brooks",
+      "rank": null
+    },
+    {
+      "name": "Brochu",
+      "rank": null
+    },
+    {
+      "name": "Jacobs",
+      "rank": null
+    },
+    {
+      "name": "Langlois",
+      "rank": null
+    },
+    {
+      "name": "Taillon",
+      "rank": null
+    },
+    {
+      "name": "Phelan",
+      "rank": null
+    },
+    {
+      "name": "Beaulieu",
+      "rank": null
+    },
+    {
+      "name": "Desmarais",
+      "rank": null
+    },
+    {
+      "name": "Corbett",
+      "rank": null
+    },
+    {
+      "name": "Hemphill",
+      "rank": null
+    },
+    {
+      "name": "Lindsay",
+      "rank": null
+    },
+    {
+      "name": "Maurice",
+      "rank": null
+    },
+    {
+      "name": "Harry William Barnes",
+      "rank": null
+    },
+    {
+      "name": "Class",
+      "rank": null
+    },
+    {
+      "name": "Rivet",
+      "rank": null
+    },
+    {
+      "name": "Sgt S Withingham",
+      "rank": "Pupil pilot"
+    },
+    {
+      "name": "Crew of Horsa LG745",
+      "rank": "Fate unknown"
+    },
+    {
+      "name": "F/Sgt G B Hollings RAAF",
+      "rank": null
+    },
+    {
+      "name": "W/O E R Lumsdaine",
+      "rank": null
+    },
+    {
+      "name": "Flying Officer Joseph Raymond Jean Marie Desmarais DFC",
+      "rank": "Aircraft Captain and Pilot"
+    },
+    {
+      "name": "Pilot Officer Joseph Blackburn RAFVR",
+      "rank": null
+    },
+    {
+      "name": "Pilot Officer Joseph Rosaire Jean Charles Labrecque",
+      "rank": null
+    },
+    {
+      "name": "Pilot Officer Joseph Edward Lawrence Dubois",
+      "rank": "Unknown"
+    },
+    {
+      "name": "Raymond Charles Gauthier",
+      "rank": "Pilot Officer"
+    }
+  ],
+  "crew_data_note": "Crew trimmed from 38 to 8. 30 additional names from station/OTU roll of honour moved to station_roll_names."
 }

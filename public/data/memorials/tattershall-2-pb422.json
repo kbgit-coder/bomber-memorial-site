@@ -20,9 +20,9 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Partial",
-  "latitude": 53.08764931517963,
-  "longitude": -0.4354464272129529,
+  "data_quality": "Comprehensive",
+  "latitude": 53.09,
+  "longitude": -0.215,
   "maintainer": {
     "organisation": "Tattershall Parish Council",
     "maintainer_type": "parish-council"
@@ -34,7 +34,8 @@
       "summary": "Heritage record for the crash site of Lancaster PB422 in the River Bain between Tattershall and Coningsby. The aircraft's port outer engine caught fire during takeoff for a bombing exercise, causing it to stall and crash into trees.",
       "key_details": "Monument reference MLI125800. Crash occurred on 13 July 1945, two months after VE Day. Four crew killed: Flt Lt R.W. Wright, F/Sgt A.J. Molyneux, Fg Off J.L. Bendix, F/Sgt J. Eastwood.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Heritage record of Lancaster PB422 crash site at Tattershall (2) Lancaster Memorial."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -42,7 +43,8 @@
       "summary": "Accident database entry for Avro Lancaster Mk III PB422 of 97 Squadron, recording the crash on Friday 13 July 1945 near Tattershall during a practice bombing exercise from RAF Coningsby.",
       "key_details": "Aircraft designated OF-P. Port outer engine fire on takeoff caused stall. Aircraft crashed into trees and came to rest in the River Bain.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accident report: Avro Lancaster Mk III crash at Tattershall in 1945."
     },
     {
       "source_site": "War Memorials Online",
@@ -50,7 +52,8 @@
       "summary": "Registry entry for the combined memorial plaque on Butt's Bridge at Coningsby, commemorating the crews of both Lancaster W4175 and Lancaster PB422 of 97 Squadron.",
       "key_details": "Shared memorial with the W4175 crew. Both were 97 Squadron aircraft that crashed in the Tattershall area during different phases of the war.",
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "The poignant memorial plaque honoring Lancaster aircraft crew members from 97 Squadron."
     }
   ],
   "local_contacts": [
@@ -68,7 +71,7 @@
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
   "squadron_motto": "Achieve your aim",
-  "what3words": "sponge.opened.guesswork",
+  "what3words": "gong.boldest.bonkers",
   "photos": [
     {
       "filename": "tattershall-2-pb422/5d239793adb5a_LI_Tattershall_1_547x410.JPG",
@@ -100,5 +103,56 @@
       "caption": "Tattershall (2) Lancaster Memorial — photograph",
       "credit": "Tony Hibberd / War Memorials Online"
     }
-  ]
+  ],
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "97 Squadron RAF",
+  "squadron_aliases": [
+    "97 Sqdn.",
+    "97 Squadron"
+  ],
+  "narrative": "An Avro Lancaster Mk III bomber aircraft crashed close to this location on the 13th of July 1945. The aircraft was designated PB422 of 97 Squadron, and was based at RAF Coningsby. The plane was being sent on a bombing exercise when its port outer engine caught fire during takeoff. The aircraft stalled and crashed into trees, coming to rest in the River Bain between Tattershall and Coningsby.",
+  "community_connection": "",
+  "crew": [
+    {
+      "name": "Jack Lindsay BENDIX",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Air Bomber",
+      "burial_location": "Skellingthorpe (St. Lawrence) Churchyard, United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "name": "Jack EASTWOOD",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Wireless Operator",
+      "burial_location": "Yeadon Cemetery, United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "name": "Alfred James MOLYNEUX",
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "burial_location": "Liverpool (Allerton) Cemetery, United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "name": "Ronald William WRIGHT",
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "role": "Pilot",
+      "burial_location": "Cardington (St. Mary) Church Cemetery, Cardington",
+      "nationality": "British"
+    }
+  ],
+  "memorial_details": "The text describes a memorial plaque dedicated to the crews of 97 Squadron Lancaster’s W4175 OF-U and PB422 OF-P, located at Butt's Bridge on the A153 Tattershall LN4 4RA England.\n\nThe plaque is attached to a building or structure, made of metal and timber materials with inscribed lettering.",
+  "crash_category": "mechanical",
+  "narrative_quality_score": 4
 }

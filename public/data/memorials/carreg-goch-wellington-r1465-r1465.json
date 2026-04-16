@@ -2,7 +2,7 @@
   "id": "carreg-goch-wellington-r1465-r1465",
   "title": "Carreg Goch (Wellington R1465) Bomber Memorial",
   "location_name": "Waun Rydd, Brecon Beacons (Bannau Brycheiniog)",
-  "county": "Brecon Beacons (Bannau Brycheiniog)",
+  "county": "Powys",
   "country": "United Kingdom",
   "region_code": "WA-001",
   "crash_date": "1942-07-06",
@@ -34,71 +34,71 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
   "data_quality": "Comprehensive",
-  "narrative": "In the early hours of 6 July 1942, an all-Canadian crew from 22 OTU at Wellesbourne Mountford were on a night cross-country navigation exercise. Fl/Sgt Kemp descended from 10,000 feet in heavy cloud to fix position visually. The Wellington struck the summit of Waun Rydd at approximately 2,500 feet. All five crew were killed and buried together at Hereford Cemetery in adjacent graves in Plot A. The memorial cairn on Waun Rydd, built in 1980 by Tredegar Comprehensive School students, is the highest-situated war memorial in the UK.",
+  "narrative": "Fl/Sgt Kemp descended from 10,000 feet in heavy cloud to fix position visually. The Wellington struck the summit of Waun Rydd at approximately 2,500 feet. All five crew were killed and buried together at Hereford Cemetery in adjacent graves in Plot A.",
   "crew": [
     {
       "rank": "Fl/Sgt",
       "name": "John Beverley Kemp",
-      "service_number": "R88687 RCAF",
       "age": 21,
       "role": "Pilot",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A (C of E), Grave 5619",
       "fate": "Killed",
       "fate_detail": "Killed when Wellington struck summit of Waun Rydd while descending in cloud. Buried at Hereford Cemetery.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R88687 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Fl/Sgt",
       "name": "Ernest Edward Mittell",
-      "service_number": "R71725 RCAF",
       "age": 22,
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A, Grave 5640",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R71725 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "Kenneth Ferguson Yuill",
-      "service_number": "R106035 RCAF",
       "age": 30,
       "role": "Observer",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A, Grave 5660",
       "fate": "Killed",
       "fate_detail": "At 30, the oldest crew member.",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R106035 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Fl/Sgt",
-      "name": "Harold Creighton Beatty",
-      "service_number": "R75332 RCAF",
+      "name": "Harold Crighton Beatty",
       "age": 28,
       "role": "Wireless Operator/Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R75332 RCAF",
+      "nationality": "Canadian"
     },
     {
       "rank": "Sgt",
       "name": "James Patrick Hayes",
-      "service_number": "R82352 RCAF",
       "age": 22,
       "role": "Rear Air Gunner",
-      "nationality": "Canadian",
       "burial_location": "Hereford Cemetery, Plot A",
       "fate": "Killed",
-      "cwgc_verified": true
+      "cwgc_verified": true,
+      "service_number": "R82352 RCAF",
+      "nationality": "Canadian"
     }
   ],
-  "latitude": 51.8716,
-  "longitude": -3.363,
+  "latitude": 51.8387,
+  "longitude": -3.7159,
   "cause_of_loss": "Pilot descended from 10,000 ft in heavy cloud to fix position; Wellington struck summit of Waun Rydd",
   "operation_type": "Training",
-  "memorial_details": "The highest-situated war memorial in the UK, at approximately 2,500 feet. Built in 1980 by Tredegar Comprehensive School. Accessible via 2-3 hour walk from Talybont-on-Usk or via Blaen-y-Glyn waterfalls trail (~8 km loop).",
+  "memorial_details": "The highest-situated war memorial in the UK, at approximately 2,500 feet. Built in 1980 by Tredegar Comprehensive School. Accessible via 2-3 hour walk from Talybont-on-Usk or via Blaen-y-Glyn waterfalls trail (~8 km loop).\n\nThe memorial cairn on Waun Rydd, built in 1980 by Tredegar Comprehensive School students, is the highest-situated war memorial in the UK.",
   "external_narratives": [
     {
       "source_site": "Wandering Welsh Girl",
@@ -109,7 +109,8 @@
         "Wreckage still visible"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore the UK's highest war memorial at Carreg Goch (Wellington R1465)."
     },
     {
       "source_site": "Adventure Britain",
@@ -119,7 +120,8 @@
         "Route details via Blaen-y-Glyn waterfalls"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Detailed route and captivating photos of the Carreg Goch Bomber Memorial in Wellington R1465 on Adventure Britain."
     },
     {
       "source_site": "Aviation Safety Network",
@@ -129,7 +131,10 @@
         "Date confirmed as 6 July 1942"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore official aviation safety report on Wellington R1465 bomber memorial incident.",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Countryfile",
@@ -139,8 +144,22 @@
         "Multiple crash sites in the area noted"
       ],
       "date_retrieved": "2026-03-23",
-      "still_live": true
+      "still_live": true,
+      "link_description": "Explore detailed accounts of historic Brecon Beacons crash sites at the Memorial: Carreg Goch (Wellington R1465) Bomber Memorial link."
     }
   ],
-  "what3words": "fatter.unionists.stroke"
+  "what3words": "prepped.nuns.bundles",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "22 OTU",
+  "squadron_aliases": [
+    "22 OTU"
+  ],
+  "crash_category": "training",
+  "narrative_quality_score": 4
 }

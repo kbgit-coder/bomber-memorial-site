@@ -5,13 +5,19 @@ import json
 import glob
 import os
 import re
+import sys
 import time
 import urllib.request
 import urllib.parse
 
-MEMORIALS_DIR = "/nas2/Holly/Projects/bomber-memorial-site/public/data/memorials"
+# Module import for provenance logging
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scrape_provenance import ProvenanceLog
+
+MEMORIALS_DIR = "/root/repos/bomber-memorial-site/public/data/memorials"
 RATE_LIMIT_SECONDS = 2.0
 OUTPUT_FILE = "/tmp/aircrew-scraped-all.json"
+DOMAIN = "aircrewremembered.com"
 
 def scrape_aircrew_page(url):
     """Scrape narrative content from an aircrewremembered.com page."""
@@ -154,6 +160,19 @@ def main():
 
     print(f"\nDone: {success} scraped, {errors} errors")
     print(f"Results written to {OUTPUT_FILE}")
+
+    # Log to provenance
+    log = ProvenanceLog()
+    log.record_scrape(DOMAIN, {
+        "pages_attempted": len(to_scrape),
+        "pages_succeeded": success,
+        "full_narratives_extracted": success,
+        "script": "scripts/batch-scrape-aircrew.py",
+        "output": OUTPUT_FILE,
+        "notes": f"{errors} errors" if errors else "",
+    })
+    log.save()
+    print(f"Provenance log updated for {DOMAIN}")
 
 if __name__ == "__main__":
     main()

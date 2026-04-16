@@ -1,80 +1,159 @@
 {
-    "id": "ulceby-cross-pb476",
-    "title": "Ulceby Cross Lancaster Memorial",
-    "location_name": "Ulceby Cross, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "LN-034",
-    "crash_date": "1945-03-04",
-    "aircraft_type": "Lancaster",
-    "serial_number": "PB476",
-    "squadron": "12 Sqdn.",
-    "station": "Wickenby",
-    "crew_summary": "7 killed including pilot Flg Off. Nicholas Agnew Ansdell",
-    "memorial_type": "Memorial stone",
-    "sources": [
-        {
-            "title": "Geograph",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-21",
-    "data_quality": "Partial",
-    "latitude": 53.33922036810659,
-    "longitude": -0.4303708422418426,
-    "maintainer": {
-        "organisation": "Ulceby Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "ulceby-cross-pb476",
+  "title": "Ulceby Cross Lancaster Memorial",
+  "location_name": "Ulceby Cross, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "LN-034",
+  "crash_date": "1945-03-04",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB476",
+  "squadron": "12 Sqdn.",
+  "station": "Wickenby",
+  "crew_summary": "7 killed including pilot Flg Off. Nicholas Agnew Ansdell",
+  "memorial_type": "Stone of remembrance",
+  "sources": [
+    {
+      "title": "Geograph",
+      "type": "website"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-04-09",
+  "data_quality": "Good",
+  "latitude": 53.2393,
+  "longitude": 0.1143,
+  "maintainer": {
+    "organisation": "Ulceby Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/stories/stories/nicholas-agnew-ansdell-flying-officer-150291-rafvr-12-squadron-bomber-command/",
+      "summary": "Commonwealth War Graves Commission story page for Flying Officer Nicholas Agnew Ansdell (1924-1945), pilot of Lancaster PB476. Details his service with 12 Squadron and the circumstances of the loss during the Luftwaffe's Operation Gisela.",
+      "key_details": "Ansdell was RAFVR service number 150291. The Lancaster was shot down at 00:29 hours on 4 March 1945 by a Luftwaffe intruder during Operation Gisela \u2014 the last major German air operation of the war.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Personal story of Flying Officer Ansdell \u2014 family background, service record, and CWGC burial details at Alford Cemetery"
     },
-    "external_narratives": [
-        {
-            "source_site": "CWGC",
-            "original_url": "https://www.cwgc.org/stories/stories/nicholas-agnew-ansdell-flying-officer-150291-rafvr-12-squadron-bomber-command/",
-            "summary": "Commonwealth War Graves Commission story page for Flying Officer Nicholas Agnew Ansdell (1924-1945), pilot of Lancaster PB476. Details his service with 12 Squadron and the circumstances of the loss during the Luftwaffe's Operation Gisela.",
-            "key_details": "Ansdell was RAFVR service number 150291. The Lancaster was shot down at 00:29 hours on 4 March 1945 by a Luftwaffe intruder during Operation Gisela — the last major German air operation of the war.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Traces of War",
-            "original_url": "https://www.tracesofwar.com/sights/18924/Memorial-Lancaster-Bomber-Ulceby-Cross.htm",
-            "summary": "International war sites database entry for the Lancaster PB476 memorial at Ulceby Cross. Records the location of the memorial stone and the crew details.",
-            "key_details": "Memorial is catalogued in the international Traces of War database. Crew: Fg Off Ansdell (Pilot), Fg Off Heath (Air Bomber), Fg Off Hunter (Navigator), Sgt Mellor (Air Gunner), Sgt Parry (Wireless Operator), Sgt Shafer (Flight Engineer), Sgt Walker (Air Gunner).",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20271",
-            "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster PB476 at Ulceby Cross, Lincolnshire. Catalogued as memorial reference 20271.",
-            "key_details": "Formally registered in the IWM national war memorials database.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Lincolnshire Heritage Explorer",
-            "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125556",
-            "summary": "Lincolnshire County Council heritage record for the memorial to Lancaster PB476 at Ulceby Cross. Notes the memorial was unveiled in 1995 on land near the crash site.",
-            "key_details": "Monument reference MLI125556. Memorial unveiled 1995. The Lancaster dived almost vertically into the ground with such force that the engines were found buried 10 feet deep.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Great Grimsby Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
-        },
-        {
-            "org_name": "Ulceby Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
-    "squadron_motto": "Leads the field",
-    "what3words": "pancake.lawfully.sizzled"
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://www.tracesofwar.com/sights/18924/Memorial-Lancaster-Bomber-Ulceby-Cross.htm",
+      "summary": "International war sites database entry for the Lancaster PB476 memorial at Ulceby Cross. Records the location of the memorial stone and the crew details.",
+      "key_details": "Memorial is catalogued in the international Traces of War database. Crew: Fg Off Ansdell (Pilot), Fg Off Heath (Air Bomber), Fg Off Hunter (Navigator), Sgt Mellor (Air Gunner), Sgt Parry (Wireless Operator), Sgt Shafer (Flight Engineer), Sgt Walker (Air Gunner).",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "International war sites database entry with location details and memorial photographs",
+      "bot_blocked": true,
+      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/20271",
+      "summary": "Imperial War Museums register entry for the memorial to the crew of Lancaster PB476 at Ulceby Cross, Lincolnshire. Catalogued as memorial reference 20271.",
+      "key_details": "Formally registered in the IWM national war memorials database.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "Official memorial register entry with physical description, inscription text, and crew names"
+    },
+    {
+      "source_site": "Lincolnshire Heritage Explorer",
+      "original_url": "https://heritage-explorer.lincolnshire.gov.uk/Monument/MLI125556",
+      "summary": "Lincolnshire County Council heritage record for the memorial to Lancaster PB476 at Ulceby Cross. Notes the memorial was unveiled in 1995 on land near the crash site.",
+      "key_details": "Monument reference MLI125556. Memorial unveiled 1995. The Lancaster dived almost vertically into the ground with such force that the engines were found buried 10 feet deep.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "County heritage record with grid references, monument classification, and historical context"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Grimsby Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lincolnshire/branches-contacts/"
+    },
+    {
+      "org_name": "Ulceby Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
+  "squadron_motto": "Leads the field",
+  "what3words": "dispensed.bake.chats",
+  "location_confidence": {
+    "status": "approximate",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "12 Squadron RAF",
+  "squadron_aliases": [
+    "12 Sqdn.",
+    "12 Squadron"
+  ],
+  "crew": [
+    {
+      "name": "Nicholas Agnew Ansdell",
+      "fate": "Killed",
+      "rank": "Flying Officer",
+      "burial_location": "Alford Cemetery, Lincolnshire",
+      "cwgc_record": "2416700",
+      "age": 33,
+      "biography": "Ansdell came from a family with a home named 'Brough House' in Rustington, near Littlehampton on the south coast of England.",
+      "role": "RAFVR - 12 Squadron Bomber Command",
+      "nationality": "British"
+    },
+    {
+      "name": "A.g Heath",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "A. Hunter",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "W. Mellor",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "R.o Parry",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "R.f.d Schafer",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "A.r Walker",
+      "fate": "Killed",
+      "rank": "\u2014"
+    },
+    {
+      "name": "Unknown",
+      "fate": "Killed",
+      "rank": "\u2014"
+    }
+  ],
+  "memorial_details": "Small granite stone of remembrance with squadron badge at top\n\nDedicated in March 2005 on the 60th anniversary of the crash, the small granite stone of remembrance bears the squadron badge and the names of all seven crew.\n\nA memorial to the crew of Lancaster PB476 stands at Ulceby Cross, to the west of the village.\n\nMemorial Dedication (March 2005): 60th anniversary dedication ceremony at the crash site.",
+  "narrative": "",
+  "inscription": "In the early hours\nof March 4th, 1945\nLancaster PB 476 (PH \"Y\") of No. 12 Squadron\nR.A.F. Wickenby,\ncrashed near this spot,\nthe victim of\na Luftwaffe intruder.\nThis memorial is placed here, on\nthe 50th anniversary of the crash,\nto commemorate the crew members\nwho died.\n[crew names inscribed on memorial]\nIN GRATEFUL REMEMBRANCE",
+  "community_connection": "commemoration of crew members who died",
+  "memorial_description": "Small granite stone of remembrance with squadron badge at top",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "operational-combat",
+  "narrative_quality_score": 4,
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/58/682/large_20271.jpg"
+  ]
 }
