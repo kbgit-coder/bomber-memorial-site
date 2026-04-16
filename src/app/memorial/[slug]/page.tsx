@@ -2,13 +2,10 @@ import { Metadata } from "next";
 import {
   getAllMemorialSlugs,
   getMemorialBySlug,
-  getNearbyMemorials,
 } from "@/lib/data";
 import CrewTable from "@/components/CrewTable";
 import StubCTA from "@/components/StubCTA";
 import MemorialMap from "@/components/MemorialMap";
-import ConfidenceBadge from "@/components/ConfidenceBadge";
-import HelpVerifyForm from "@/components/HelpVerifyForm";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -25,32 +22,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const memorial = getMemorialBySlug(params.slug);
   if (!memorial) return { title: "Memorial Not Found" };
 
-  // BMR-11: Dynamic meta description — aircraft type + squadron + location
-  function buildDescription(): string {
-    const parts: string[] = [];
-    if (memorial!.aircraft_type && memorial!.serial_number) {
-      parts.push(`${memorial!.aircraft_type} ${memorial!.serial_number}`);
-    } else if (memorial!.aircraft_type) {
-      parts.push(memorial!.aircraft_type);
-    }
-    if (memorial!.squadron) parts.push(memorial!.squadron);
-    if (memorial!.crash_date) parts.push(`lost ${memorial!.crash_date}`);
-    if (memorial!.location_name) parts.push(`near ${memorial!.location_name}`);
-    else if (memorial!.county) parts.push(`in ${memorial!.county}`);
-
-    const base = parts.length > 0
-      ? `${memorial!.title} — ${parts.join(", ")}.`
-      : `${memorial!.title}`;
-
-    const suffix = " Bomber Command Memorial Register — honouring those who served.";
-    const combined = base + suffix;
-
-    // Keep under 160 chars
-    if (combined.length <= 160) return combined;
-    return base.slice(0, 157 - suffix.length) + "..." + suffix;
-  }
-
-  const description = buildDescription();
+  const description = memorial.narrative
+    ? memorial.narrative.slice(0, 155) + "..."
+    : memorial.crew_summary
+    ? memorial.crew_summary.slice(0, 155) + "..."
+    : `${memorial.title} - Bomber Command Memorial Register`;
 
   return {
     title: `${memorial.title} | Bomber Command Memorial Register`,
@@ -79,53 +55,12 @@ export default function MemorialPage({ params }: Props) {
     );
   }
 
-  // Nearby memorials (BMR-37) — calculated at build time
-  const nearbyMemorials = (memorial.latitude != null && memorial.longitude != null)
-    ? getNearbyMemorials(memorial.id, memorial.latitude, memorial.longitude, 5)
-    : [];
-
-  // Schema.org JSON-LD (BMR-35)
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "LandmarksOrHistoricalBuildings",
-    "name": memorial.title,
-    "description": [
-      memorial.aircraft_type,
-      memorial.squadron,
-      memorial.crash_date ? `lost ${memorial.crash_date}` : null,
-      memorial.location_name ? `near ${memorial.location_name}` : null,
-    ].filter(Boolean).join(", ") || memorial.crew_summary || memorial.title,
-    "url": `https://bombermemorial.co.uk/memorial/${params.slug}`,
-    ...(memorial.latitude != null && memorial.longitude != null ? {
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": memorial.latitude,
-        "longitude": memorial.longitude,
-      },
-    } : {}),
-    ...(memorial.photos && memorial.photos.length > 0 ? {
-      "image": `https://bombermemorial.co.uk/images/memorials/${memorial.photos[0].filename}`,
-    } : {}),
-    "containedInPlace": {
-      "@type": "Place",
-      "name": memorial.location_name || memorial.county || memorial.country || "United Kingdom",
-    },
-    "additionalProperty": [
-      memorial.aircraft_type ? { "@type": "PropertyValue", "name": "Aircraft Type", "value": memorial.aircraft_type } : null,
-      memorial.serial_number ? { "@type": "PropertyValue", "name": "Serial Number", "value": memorial.serial_number } : null,
-      memorial.squadron ? { "@type": "PropertyValue", "name": "Squadron", "value": memorial.squadron } : null,
-      memorial.crash_date ? { "@type": "PropertyValue", "name": "Date of Loss", "value": memorial.crash_date } : null,
-    ].filter(Boolean),
-  };
-
   const qualityColour = {
-    Complete: { bg: "#2d5016", text: "#a8d48c" },
+    Comprehensive: { bg: "#2d5016", text: "#a8d48c" },
     Partial: { bg: "#5a4a1e", text: "#d4c98c" },
     Stub: { bg: "#5a3a1e", text: "#d4a88c" },
   };
-  const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Partial"];
-  const confidenceStatus = memorial.location_confidence?.status || "estimated";
-  const showHelpVerify = confidenceStatus === "estimated" || confidenceStatus === "approximate";
+  const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Stub"];
 
   // Only show full_narrative when we haven't extracted crew data into the crew array yet
   // Once crew is structured, the raw narrative is redundant and messy
@@ -136,12 +71,6 @@ export default function MemorialPage({ params }: Props) {
 
   return (
     <div style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
-      {/* BMR-35: Schema.org JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
         <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
@@ -176,8 +105,8 @@ export default function MemorialPage({ params }: Props) {
         </p>
       )}
 
-      {/* Quality badge + Confidence badge (BMR-30) */}
-      <div style={{ marginBottom: "2rem", display: "flex", alignItems: "center", gap: "0.75rem", flexWrap: "wrap" }}>
+      {/* Quality badge */}
+      <div style={{ marginBottom: "2rem" }}>
         <span style={{
           fontSize: "0.75rem",
           padding: "0.25rem 0.75rem",
@@ -190,21 +119,7 @@ export default function MemorialPage({ params }: Props) {
         }}>
           {memorial.data_quality || "Stub"} Record
         </span>
-        {memorial.location_confidence && (
-          <ConfidenceBadge
-            confidence={memorial.location_confidence}
-            memorialId={memorial.id}
-          />
-        )}
       </div>
-
-      {/* BMR-31: Help Verify CTA — shown only for estimated/approximate */}
-      {showHelpVerify && memorial.location_confidence && (
-        <HelpVerifyForm
-          memorialId={memorial.id}
-          memorialTitle={memorial.title}
-        />
-      )}
 
       {/* Photos */}
       {memorial.photos && memorial.photos.length > 0 && (
@@ -223,13 +138,12 @@ export default function MemorialPage({ params }: Props) {
                   border: "1px solid #e0dcd5",
                   position: "relative",
                   aspectRatio: "4/3",
-                  backgroundColor: "#f0ece4",
                 }}>
                   <Image
                     src={`/images/memorials/${photo.filename}`}
                     alt={photo.caption || `${memorial.title} - photograph ${i + 1}`}
                     fill
-                    style={{ objectFit: "contain" }}
+                    style={{ objectFit: "cover" }}
                     sizes="(max-width: 600px) 100vw, 400px"
                     unoptimized
                   />
@@ -301,15 +215,41 @@ export default function MemorialPage({ params }: Props) {
         </section>
       )}
 
-      {/* Narrative */}
-      {memorial.narrative && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Narrative</h2>
+      {/* Narrative — always shown; empty state invites community contributions */}
+      <section style={{ marginBottom: "2.5rem" }}>
+        <h2 style={sectionHeading}>Narrative</h2>
+        {memorial.narrative ? (
           <div style={narrativeBox}>
             {memorial.narrative}
           </div>
-        </section>
-      )}
+        ) : (
+          <div style={{
+            ...narrativeBox,
+            borderLeft: "3px solid #c9b98a",
+            backgroundColor: "#faf8f4",
+          }}>
+            <p style={{ color: "#8b7355", fontStyle: "italic", marginBottom: "0.75rem", lineHeight: 1.7 }}>
+              Do you have information about this crew or memorial? We&apos;d love to hear from you — your knowledge helps keep these stories alive for future generations.
+            </p>
+            <a
+              href={`mailto:admin@bombermemorial.co.uk?subject=Contribution%3A%20${encodeURIComponent(memorial.title)}&body=Memorial%3A%20${encodeURIComponent(memorial.title)}%0APage%3A%20https%3A%2F%2Fbombermemorial.co.uk%2Fmemorial%2F${params.slug}%0A%0APlease%20share%20what%20you%20know%3A%0A%0A`}
+              style={{
+                display: "inline-block",
+                padding: "0.45rem 1.25rem",
+                backgroundColor: "#1a2332",
+                color: "#c9b98a",
+                borderRadius: 6,
+                fontSize: "0.85rem",
+                fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                textDecoration: "none",
+                letterSpacing: "0.03em",
+              }}
+            >
+              Contribute to this memorial
+            </a>
+          </div>
+        )}
+      </section>
 
       {/* Aircraft Details */}
       {(memorial.aircraft_type || memorial.serial_number || memorial.squadron || memorial.station) && (
@@ -503,6 +443,17 @@ export default function MemorialPage({ params }: Props) {
             )}
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))", gap: "1rem" }}>
               {memorial.maintainer.organisation && <DetailItem label="Organisation" value={memorial.maintainer.organisation} />}
+              {memorial.maintainer.contact_email && (
+                <div>
+                  <div style={labelStyle}>Contact Email</div>
+                  <div style={{ fontWeight: 500, color: "#333" }}>
+                    <a href={`mailto:${memorial.maintainer.contact_email}`} style={{ color: "#2c5f8a" }}>
+                      {memorial.maintainer.contact_email}
+                    </a>
+                  </div>
+                </div>
+              )}
+              {memorial.maintainer.contact_phone && <DetailItem label="Contact Phone" value={memorial.maintainer.contact_phone} />}
               {memorial.maintainer.website && (
                 <div>
                   <div style={labelStyle}>Website</div>
@@ -554,6 +505,10 @@ export default function MemorialPage({ params }: Props) {
                 )}
                 <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem", fontSize: "0.9rem" }}>
                   {contact.contact_name && <span style={{ color: "#333" }}>{contact.contact_name}</span>}
+                  {contact.contact_email && (
+                    <a href={`mailto:${contact.contact_email}`} style={{ color: "#2c5f8a" }}>{contact.contact_email}</a>
+                  )}
+                  {contact.contact_phone && <span style={{ color: "#333" }}>{contact.contact_phone}</span>}
                   {contact.website && (
                     <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>
                       {contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
@@ -671,53 +626,6 @@ export default function MemorialPage({ params }: Props) {
                 Last updated {memorial.last_updated}
               </div>
             )}
-          </div>
-        </section>
-      )}
-
-      {/* BMR-37: Nearby Memorials */}
-      {nearbyMemorials.length > 0 && (
-        <section style={{ marginBottom: "2.5rem" }}>
-          <h2 style={sectionHeading}>Nearby Memorials</h2>
-          <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-            {nearbyMemorials.map((nearby) => (
-              <Link
-                key={nearby.id}
-                href={`/memorial/${nearby.id}`}
-                style={{ textDecoration: "none" }}
-              >
-                <div style={{
-                  backgroundColor: "#ffffff",
-                  border: "1px solid #e0dcd5",
-                  borderRadius: 8,
-                  padding: "0.875rem 1.25rem",
-                  display: "flex",
-                  justifyContent: "space-between",
-                  alignItems: "center",
-                  gap: "1rem",
-                  transition: "border-color 0.15s ease",
-                }}>
-                  <div>
-                    <div style={{ fontWeight: 600, color: "#1a2332", fontSize: "0.95rem", marginBottom: "0.2rem" }}>
-                      {nearby.title}
-                    </div>
-                    <div style={{ fontSize: "0.8rem", color: "#666" }}>
-                      {nearby.location_name && <span>{nearby.location_name}</span>}
-                      {nearby.aircraft_type && <span style={{ color: "#8b7355", marginLeft: "0.5rem" }}>{nearby.aircraft_type}</span>}
-                      {nearby.crash_date && <span style={{ color: "#999", marginLeft: "0.5rem" }}>{nearby.crash_date}</span>}
-                    </div>
-                  </div>
-                  <div style={{ flexShrink: 0, textAlign: "right" }}>
-                    <div style={{ fontSize: "0.8rem", color: "#2c5f8a", fontWeight: 500 }}>
-                      {nearby.distance_km < 1
-                        ? `${Math.round(nearby.distance_km * 1000)} m`
-                        : `${nearby.distance_km.toFixed(1)} km`}
-                    </div>
-                    <div style={{ fontSize: "0.75rem", color: "#999" }}>away</div>
-                  </div>
-                </div>
-              </Link>
-            ))}
           </div>
         </section>
       )}

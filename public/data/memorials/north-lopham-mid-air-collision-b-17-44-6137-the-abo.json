@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.4077,
-    "longitude": 0.9891,
+    "latitude": 52.62239581465276,
+    "longitude": 0.863567907225761,
     "maintainer": {
         "organisation": "North Lopham Parish Council",
         "maintainer_type": "parish-council"
@@ -77,18 +77,5 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "snoozing.preheated.homes",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io + Photon — North Lopham Norfolk at 52.408 0.989",
-            "Current 52.622 0.864 ~24km north/13km west"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (52.622, 0.864) ~24km north and ~13km west of North Lopham. Village Norfolk at 52.408, 0.989.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "roadways.youths.gushes"
 }

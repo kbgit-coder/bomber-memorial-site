@@ -19,8 +19,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.0695576,
-    "longitude": -4.1811294,
+    "latitude": 52.15401924340301,
+    "longitude": -1.524729718691888,
     "external_narratives": [
         {
             "source_site": "Peak District Air Accident Research",
@@ -54,19 +54,5 @@
             "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
         }
     ],
-    "what3words": "rich.fall.scorched",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon.komoot.io — Mynydd Mawr OSM natural peak Gwynedd LL54 at 53.070 -4.181",
-            "Second Mynydd Mawr in Powys excluded — Gwynedd peak matches LL54 postcode",
-            "Current 52.154 -1.525 in Warwickshire — ~130km south/east, critical error"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CRITICAL ERROR. Current coords (52.154, -1.525) are in Warwickshire — ~130km south/east. Mynydd Mawr is a Gwynedd peak in Snowdonia near Rhyd-Ddu at 53.070, -4.181.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "unstated.skies.blown"
 }

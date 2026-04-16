@@ -1,213 +1,200 @@
 {
-    "id": "salford-pb304",
-    "title": "Salford Lancaster Memorial",
-    "location_name": "Salford, Lancashire / Greater Manchester",
-    "county": "Lancashire / Greater Manchester",
-    "country": "United Kingdom",
-    "region_code": "NW-003",
-    "crash_date": "1944-07-30",
-    "aircraft_type": "Lancaster",
-    "serial_number": "PB304",
-    "squadron": "106 Squadron",
-    "station": "RAF Metheringham",
-    "crew_summary": "7 crew killed + 2 civilians",
-    "memorial_type": "Memorial at crash site",
-    "sources": [
-        {
-            "title": "aircrashsites.co.uk",
-            "type": "website",
-            "url": "https://aircrashsites.co.uk/raf-crash-sites-1942-1945/013rrruse-2/"
-        },
-        {
-            "title": "IWM (memorial/15977)",
-            "type": "website",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/15977"
-        },
-        {
-            "title": "Aviation Trails - Lancaster PB304",
-            "type": "website",
-            "url": "https://aviationtrails.co.uk/choose-your-trail/part-1-lincolnshire/july-30th-1944-loss-of-lancaster-pb304-106-squadron/"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the morning of 30 July 1944, Lancaster PB304 (ZN-S) was part of a force attacking German positions at Cahagnes in the Normandy battle zone, supporting the Allied breakout following D-Day. Radio communication between aircraft was garbled and difficult, possibly due to German interference broadcasting over the master bomber's frequency. During the return to base, the aircraft developed severe difficulties. Witnesses in Prestwich, on the northern edges of Manchester, saw the Lancaster flying low and in obvious distress, engulfed in flames. The aircraft twice passed over a playing field -- leading local witnesses to believe that pilot Flight Lieutenant Lines was attempting a crash landing to avoid populated areas. The Lancaster came down on the banks of the River Irwell near Regatta Street, Salford, resulting in a massive explosion as its full bomb load and fuel reserves ignited on impact with a 30-second delay. Seven crew members were killed along with two civilians -- Lucy Bamford and George Morris. Over 100 people were injured and many houses were damaged, with one completely demolished. The crew included Sgt Mohand Singh, one of many Indian airmen who served with the RAF during the war.",
-    "crew": [
-        {
-            "rank": "F/L",
-            "name": "Peter Lines",
-            "role": "Pilot",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion at Regatta Street, Salford. Made two attempts to land on Littleton Road playing fields to avoid populated areas, demonstrating extraordinary bravery.",
-            "cwgc_verified": true,
-            "bio": "Pilot of Lancaster PB304 (ZN-S), 106 Squadron. His heroic attempts to avoid crashing into densely populated Salford prevented an even greater loss of civilian life.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "Raymond Barnes",
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and subsequent explosion.",
-            "cwgc_verified": true,
-            "bio": "Flight engineer serving with 106 Squadron at RAF Metheringham.",
-            "decorations": []
-        },
-        {
-            "rank": "F/O",
-            "name": "Harry Reid",
-            "role": "Navigator",
-            "nationality": "Canadian",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion. The only Canadian in the crew.",
-            "cwgc_verified": true,
-            "bio": "Canadian navigator serving with the RCAF, the sole Canadian among the multinational crew.",
-            "decorations": []
-        },
-        {
-            "rank": "F/O",
-            "name": "John Harvey Steel",
-            "role": "Air Bomber",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion.",
-            "cwgc_verified": true,
-            "bio": "Air bomber serving with 106 Squadron.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "Arthur William Young",
-            "role": "W/Op Air Gunner",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion.",
-            "cwgc_verified": true,
-            "bio": "Wireless operator and air gunner serving with 106 Squadron.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "John Bruce Thornley Davenport",
-            "role": "Mid-Upper Gunner",
-            "nationality": "British",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion.",
-            "cwgc_verified": true,
-            "bio": "Mid-upper gunner serving with 106 Squadron.",
-            "decorations": []
-        },
-        {
-            "rank": "Sgt",
-            "name": "Mohand Singh",
-            "role": "Rear Gunner",
-            "nationality": "Indian",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash and explosion. One of many Indian airmen who served with the RAF during the war.",
-            "cwgc_verified": true,
-            "bio": "Indian rear gunner, representative of the significant contribution made by Indian airmen to RAF Bomber Command during WW2.",
-            "decorations": []
-        }
-    ],
-    "cause_of_loss": "Returned from aborted Normandy operation with full bomb payload; battle damage or mechanical failure; garbled communications possibly due to German interference",
-    "operation_type": "Operational",
-    "operation_target": "Attacking enemy positions at Cahagnes, Normandy",
-    "memorial_details": "On the 50th anniversary of the crash in 1994, a Memorial Stone of Remembrance was dedicated at Agecroft Cemetery, Langley Road, Salford. The stone records the names of all seven crew members. The crash site itself -- the Regatta Street area by the River Irwell -- has been substantially redeveloped. A book, \"The Salford Lancaster\" by Joe Bamford (published 1996), provides the definitive account.",
-    "latitude": 53.480646923251534,
-    "longitude": -2.2949984721049868,
-    "maintainer": {
-        "organisation": "Salford City Council",
-        "maintainer_type": "parish-council"
+  "id": "salford-pb304",
+  "title": "Salford Lancaster Memorial",
+  "location_name": "Salford, Lancashire / Greater Manchester",
+  "county": "Lancashire / Greater Manchester",
+  "country": "United Kingdom",
+  "region_code": "NW-003",
+  "crash_date": "1944-07-30",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB304",
+  "squadron": "106 Squadron",
+  "station": "RAF Metheringham",
+  "crew_summary": "7 crew killed + 2 civilians",
+  "memorial_type": "Memorial at crash site",
+  "sources": [
+    {
+      "title": "aircrashsites.co.uk",
+      "type": "website",
+      "url": "https://aircrashsites.co.uk/raf-crash-sites-1942-1945/013rrruse-2/"
     },
-    "external_narratives": [
-        {
-            "source_site": "aircrashsites.co.uk",
-            "original_url": "https://aircrashsites.co.uk/raf-crash-sites-1942-1945/013rrruse-2/",
-            "summary": "Detailed crash site page for Lancaster PB304 of 106 Squadron at Salford. Documents the aircraft's return from an aborted mission over Normandy with full bomb payload, engine trouble, and the pilot's attempts to land on Littleton Road playing fields.",
-            "key_details": [
-                "106 Squadron based at RAF Metheringham",
-                "Returned with full bomb payload",
-                "Wing clipped rooftops on Regatta Street",
-                "30-second delay before bombs exploded"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Talking About My Generation",
-            "original_url": "https://talkingaboutmygeneration.co.uk/the-history-of-the-lancaster-bomber-accident-in-salford-and-the-local-everlasting-respects-still-paid/",
-            "summary": "Community history article about the Lancaster PB304 crash and the enduring local remembrance.",
-            "key_details": [
-                "Ongoing community remembrance",
-                "Pilot attempted two landing approaches at Littleton Road playing fields"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Aviation Trails",
-            "original_url": "https://aviationtrails.co.uk/choose-your-trail/part-1-lincolnshire/july-30th-1944-loss-of-lancaster-pb304-106-squadron/",
-            "summary": "Aviation Trails page tracing the story of Lancaster PB304 from its 106 Squadron base at Metheringham to its loss at Salford.",
-            "key_details": [
-                "106 Squadron confirmed",
-                "Crash date 30 July 1944"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Imperial War Museums",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/15977",
-            "summary": "IWM War Memorials Register entry for the Avro Lancaster PB304 memorial stone at Agecroft Cemetery, Salford.",
-            "key_details": [
-                "IWM memorial reference 15977",
-                "Memorial stone at Agecroft Cemetery"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Salford Online",
-            "original_url": "http://salfordonline.com/4389-salford-lancaster-bomber-crash-memorial-this-weekend-to-remember-nine-killed.html",
-            "summary": "Local news coverage of annual memorial events at Salford for the Lancaster PB304 crash.",
-            "key_details": [
-                "Nine killed total: seven aircrew and two civilians",
-                "Regular memorial ceremonies held"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Manchester Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/lancashire/"
-        },
-        {
-            "org_name": "Salford City Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/106.jpg",
-    "squadron_motto": "Pro libertate",
-    "what3words": "remark.gravel.ripe",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Salford Greater Manchester M at 53.481 -2.295",
-            "Current 53.889 -2.474 ~46km north near Clitheroe — wrong county"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.889, -2.474) ~46km north near Clitheroe/Lancashire. Salford Greater Manchester at 53.481, -2.295.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "title": "IWM (memorial/15977)",
+      "type": "website",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/15977"
+    },
+    {
+      "title": "Aviation Trails - Lancaster PB304",
+      "type": "website",
+      "url": "https://aviationtrails.co.uk/choose-your-trail/part-1-lincolnshire/july-30th-1944-loss-of-lancaster-pb304-106-squadron/"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Comprehensive",
+  "narrative": "On the morning of 30 July 1944, Lancaster PB304 (ZN-S) was part of a force attacking German positions at Cahagnes in the Normandy battle zone, supporting the Allied breakout following D-Day. Radio communication between aircraft was garbled and difficult, possibly due to German interference broadcasting over the master bomber's frequency. During the return to base, the aircraft developed severe difficulties. Witnesses in Prestwich, on the northern edges of Manchester, saw the Lancaster flying low and in obvious distress, engulfed in flames. The aircraft twice passed over a playing field -- leading local witnesses to believe that pilot Flight Lieutenant Lines was attempting a crash landing to avoid populated areas. The Lancaster came down on the banks of the River Irwell near Regatta Street, Salford, resulting in a massive explosion as its full bomb load and fuel reserves ignited on impact with a 30-second delay. Seven crew members were killed along with two civilians -- Lucy Bamford and George Morris. Over 100 people were injured and many houses were damaged, with one completely demolished. The crew included Sgt Mohand Singh, one of many Indian airmen who served with the RAF during the war.",
+  "crew": [
+    {
+      "rank": "F/L",
+      "name": "Peter Lines",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion at Regatta Street, Salford. Made two attempts to land on Littleton Road playing fields to avoid populated areas, demonstrating extraordinary bravery.",
+      "cwgc_verified": true,
+      "bio": "Pilot of Lancaster PB304 (ZN-S), 106 Squadron. His heroic attempts to avoid crashing into densely populated Salford prevented an even greater loss of civilian life.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Barnes",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and subsequent explosion.",
+      "cwgc_verified": true,
+      "bio": "Flight engineer serving with 106 Squadron at RAF Metheringham.",
+      "decorations": []
+    },
+    {
+      "rank": "F/O",
+      "name": "Harry Reid",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion. The only Canadian in the crew.",
+      "cwgc_verified": true,
+      "bio": "Canadian navigator serving with the RCAF, the sole Canadian among the multinational crew.",
+      "decorations": []
+    },
+    {
+      "rank": "F/O",
+      "name": "John Harvey Steel",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "cwgc_verified": true,
+      "bio": "Air bomber serving with 106 Squadron.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur William Young",
+      "role": "W/Op Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "cwgc_verified": true,
+      "bio": "Wireless operator and air gunner serving with 106 Squadron.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Bruce Thornley Davenport",
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion.",
+      "cwgc_verified": true,
+      "bio": "Mid-upper gunner serving with 106 Squadron.",
+      "decorations": []
+    },
+    {
+      "rank": "Sgt",
+      "name": "Mohand Singh",
+      "role": "Rear Gunner",
+      "nationality": "Indian",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash and explosion. One of many Indian airmen who served with the RAF during the war.",
+      "cwgc_verified": true,
+      "bio": "Indian rear gunner, representative of the significant contribution made by Indian airmen to RAF Bomber Command during WW2.",
+      "decorations": []
+    }
+  ],
+  "cause_of_loss": "Returned from aborted Normandy operation with full bomb payload; battle damage or mechanical failure; garbled communications possibly due to German interference",
+  "operation_type": "Operational",
+  "operation_target": "Attacking enemy positions at Cahagnes, Normandy",
+  "memorial_details": "On the 50th anniversary of the crash in 1994, a Memorial Stone of Remembrance was dedicated at Agecroft Cemetery, Langley Road, Salford. The stone records the names of all seven crew members. The crash site itself -- the Regatta Street area by the River Irwell -- has been substantially redeveloped. A book, \"The Salford Lancaster\" by Joe Bamford (published 1996), provides the definitive account.",
+  "latitude": 53.888742724815316,
+  "longitude": -2.4744926592848024,
+  "maintainer": {
+    "organisation": "Salford City Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "aircrashsites.co.uk",
+      "original_url": "https://aircrashsites.co.uk/raf-crash-sites-1942-1945/013rrruse-2/",
+      "summary": "Detailed crash site page for Lancaster PB304 of 106 Squadron at Salford. Documents the aircraft's return from an aborted mission over Normandy with full bomb payload, engine trouble, and the pilot's attempts to land on Littleton Road playing fields.",
+      "key_details": [
+        "106 Squadron based at RAF Metheringham",
+        "Returned with full bomb payload",
+        "Wing clipped rooftops on Regatta Street",
+        "30-second delay before bombs exploded"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Talking About My Generation",
+      "original_url": "https://talkingaboutmygeneration.co.uk/the-history-of-the-lancaster-bomber-accident-in-salford-and-the-local-everlasting-respects-still-paid/",
+      "summary": "Community history article about the Lancaster PB304 crash and the enduring local remembrance.",
+      "key_details": [
+        "Ongoing community remembrance",
+        "Pilot attempted two landing approaches at Littleton Road playing fields"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Trails",
+      "original_url": "https://aviationtrails.co.uk/choose-your-trail/part-1-lincolnshire/july-30th-1944-loss-of-lancaster-pb304-106-squadron/",
+      "summary": "Aviation Trails page tracing the story of Lancaster PB304 from its 106 Squadron base at Metheringham to its loss at Salford.",
+      "key_details": [
+        "106 Squadron confirmed",
+        "Crash date 30 July 1944"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/15977",
+      "summary": "IWM War Memorials Register entry for the Avro Lancaster PB304 memorial stone at Agecroft Cemetery, Salford.",
+      "key_details": [
+        "IWM memorial reference 15977",
+        "Memorial stone at Agecroft Cemetery"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Salford Online",
+      "original_url": "http://salfordonline.com/4389-salford-lancaster-bomber-crash-memorial-this-weekend-to-remember-nine-killed.html",
+      "summary": "Local news coverage of annual memorial events at Salford for the Lancaster PB304 crash.",
+      "key_details": [
+        "Nine killed total: seven aircrew and two civilians",
+        "Regular memorial ceremonies held"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Manchester Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/lancashire/"
+    },
+    {
+      "org_name": "Salford City Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/106.jpg",
+  "squadron_motto": "Pro libertate",
+  "what3words": "exchanges.impresses.rust"
 }

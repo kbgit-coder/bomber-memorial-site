@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.8608647,
-    "longitude": -0.3969859,
+    "latitude": 53.91628635913441,
+    "longitude": -1.3306891463384298,
     "maintainer": {
         "organisation": "Tickton and Routh Parish Council",
         "maintainer_type": "parish-council"
@@ -89,7 +89,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/78.jpg",
     "squadron_motto": "Nobody unprepared",
-    "what3words": "according.successor.committee",
+    "what3words": "otter.dull.vanilla",
     "photos": [
         {
             "filename": "hull-bridge-1-jb874/geograph-4843505-by-Ian-S_547x410.jpg",
@@ -106,18 +106,5 @@
             "caption": "DSC02325 001 547x410",
             "credit": "Ian S (geograph) licensed for reuse under the Creative Commons License / War Memorials Online"
         }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon.komoot.io — Hull Bridge area near Tickton TA17 HU17 9SB at 53.861 -0.397",
-            "Current 53.916 -1.331 ~65km west near Harrogate — wrong"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.916, -1.331) ~65km west near Harrogate area. Hull Bridge is near Tickton ER Yorkshire at 53.861, -0.397.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    ]
 }

@@ -115,5 +115,5 @@ export interface Memorial {
   contributor?: string;
   additional_contributors?: AdditionalContributor[];
   last_updated?: string;
-  data_quality?: 'Complete' | 'Partial' | 'Stub';
+  data_quality?: 'Comprehensive' | 'Partial' | 'Stub';
 }

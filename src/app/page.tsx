@@ -53,8 +53,8 @@ export default function HomePage() {
     "farnsfield-halifax-mz519",
     "elsham-wolds-jd386",
     "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
-    "kirkley-lowestoft-halifax-memorial-general-memorial-to-196",
-    "higher-shelf-stones-overexposed-memorial-b-29-44-61999",
+    "kirkley-lowestoft-ll356",
+    "higher-shelf-stones-boeing-rb-29a-superf",
   ];
   const flagshipCards = flagshipSlugs
     .map(slug => getMemorialBySlug(slug))
@@ -303,8 +303,8 @@ export default function HomePage() {
                           textTransform: "uppercase",
                           letterSpacing: "0.05em",
                           fontFamily: "'Helvetica Neue', Arial, sans-serif",
-                          backgroundColor: card.data_quality === "Complete" ? "#2d5016" : "#5a4a1e",
-                          color: card.data_quality === "Complete" ? "#a8d48c" : "#d4c98c",
+                          backgroundColor: card.data_quality === "Comprehensive" ? "#2d5016" : "#5a4a1e",
+                          color: card.data_quality === "Comprehensive" ? "#a8d48c" : "#d4c98c",
                         }}
                       >
                         {card.data_quality}

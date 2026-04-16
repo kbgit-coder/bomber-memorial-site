@@ -26,8 +26,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.8819345,
-    "longitude": 0.8590086,
+    "latitude": 52.794439454813684,
+    "longitude": 0.9185085680125171,
     "maintainer": {
         "organisation": "Houghton Parish Council",
         "maintainer_type": "parish-council"
@@ -93,7 +93,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/460.jpg",
     "squadron_motto": "Strike and return",
-    "what3words": "lined.options.losing",
+    "what3words": "ribcage.cycles.major",
     "photos": [
         {
             "filename": "houghton-st-martin-pb351/460-squadron-lancaster-iii-pb351ar-h2-w760.jpg",
@@ -110,18 +110,5 @@
             "caption": "460 squadron lancaster iii pb351 ar h2 memorial",
             "credit": "Aircrew Remembered"
         }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon.komoot.io — Houghton St Giles Norfolk (alt. St Martin) at 52.882 0.859 near Fakenham",
-            "Current 52.794 0.919 ~10km south and east"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (52.794, 0.919) ~10km south of Houghton St Giles (St Martin). Correct village near Fakenham at 52.882, 0.859.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    ]
 }

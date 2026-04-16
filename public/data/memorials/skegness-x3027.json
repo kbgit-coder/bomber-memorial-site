@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.1427,
-    "longitude": 0.3231,
+    "latitude": 53.14248958795596,
+    "longitude": -0.3823604003309592,
     "maintainer": {
         "organisation": "Skegness Town Council",
         "maintainer_type": "parish-council"
@@ -78,18 +78,5 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/49.jpg",
     "squadron_motto": "Cave canem",
-    "what3words": "shoulders.fists.stores",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Skegness Lincolnshire PE25 at 53.143 +0.323",
-            "Current 53.142 -0.382 — latitude correct but longitude wrong sign (~57km west)"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Longitude sign error: current -0.382 places site near Bardney. Skegness coast PE25 at 53.143, +0.323 (east of meridian).",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "emails.clapper.deflated"
 }

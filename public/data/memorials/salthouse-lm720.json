@@ -30,7 +30,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Comprehensive",
   "narrative": "On the night of 15 January 1945, Lancaster LM720 of 61 Squadron departed RAF Skellingthorpe in Lincolnshire as part of a major bombing operation against the Leuna synthetic oil plant near Merseburg, one of Bomber Command's priority targets in the final months of the war. The oil campaign was proving devastatingly effective at crippling Germany's war machine, but the heavily-defended Merseburg complex remained one of the most dangerous targets in the Reich. On the return flight, the Lancaster's crew encountered deteriorating weather conditions over the Norfolk coast. Poor visibility and misunderstood wireless telegraphy messages conspired to lead the aircraft dangerously low over the coast near Salthouse. At 01:21 hours, Lancaster LM720 struck one of the 200-foot steel masts of the Type 54 Chain Home Extra Low radar station on Bard Hill, just south of Salthouse village. Six of the seven crew members were killed instantly. Flight Sergeant Boakes, although pulled from the wreckage alive and badly injured, died shortly afterwards in hospital. The twisted remains of the radar mast stood for many years as a silent memorial to the crew, with poppy wreaths fastened to the steel by local people. A more formal memorial was later placed inside St Nicholas' Church in the village.",
   "crew": [
     {
@@ -129,8 +129,8 @@
       "decorations": []
     }
   ],
-  "latitude": 52.9496,
-  "longitude": 1.0902,
+  "latitude": 52.9504,
+  "longitude": 1.0904,
   "cause_of_loss": "Aircraft flew into 200ft Type 54 CHEL (Chain Home Extra Low) radar mast on Bard Hill in poor visibility; misunderstood W/T messages may have contributed",
   "operation_type": "Operational",
   "operation_target": "Bombing operation to Leuna/Merseburg synthetic oil plant",
@@ -202,8 +202,8 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
-  "squadron_motto": "Per purum tonantes",
-  "what3words": "sprawls.elevates.windmills",
+  "squadron_motto": "Per ardua ad aethera tendo",
+  "what3words": "plantings.distanced.walking",
   "photos": [
     {
       "filename": "salthouse-lm720/61-squadron-lancaster-iii-lm720-qr-d-1-w800-w800.jpg",
@@ -240,18 +240,5 @@
       "caption": "61sqn edward j boakes headstone 2",
       "credit": "Aircrew Remembered"
     }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [
-      "Postcodes.io — Salthouse Norfolk NR25 at 52.950 1.090",
-      "Current 52.9504 1.0904 — essentially identical (minor rounding)"
-    ],
-    "verified_by": "Holly (PAI)",
-    "verification_date": "2026-04-05",
-    "verification_notes": "MINOR CORRECTION. Current coords (52.950, 1.090) match Salthouse NR25 to 4dp. Precision update only.",
-    "community_submissions": 0,
-    "last_reviewed": "2026-04-06"
-  }
+  ]
 }

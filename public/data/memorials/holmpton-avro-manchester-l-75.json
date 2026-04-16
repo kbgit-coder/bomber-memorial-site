@@ -20,8 +20,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.689248,
-    "longitude": 0.0686426,
+    "latitude": 53.95225086379678,
+    "longitude": -1.4107503201405867,
     "maintainer": {
         "organisation": "Holmpton Parish Council",
         "maintainer_type": "parish-council"
@@ -101,7 +101,7 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/207.jpg",
     "squadron_motto": "Semper paratus",
-    "what3words": "urgent.potions.masks",
+    "what3words": "reflected.impresses.thunder",
     "photos": [
         {
             "filename": "holmpton-avro-manchester-l-75/207sqn-westbury-howe-walker-combined-w800.jpg",
@@ -128,18 +128,5 @@
             "caption": "wellington ic t2972 kx g",
             "credit": "Aircrew Remembered"
         }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon.komoot.io — Holmpton village East Riding coast at 53.6892 +0.0686",
-            "Current 53.952 -1.411 near York — wrong (inland vs Holderness coast)"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.952, -1.411) near York/Harrogate area — clearly wrong. Holmpton is a coastal village on Holderness at 53.689, +0.069 (positive longitude, east coast).",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    ]
 }

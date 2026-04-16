@@ -21,8 +21,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 51.923031,
-    "longitude": 0.985018,
+    "latitude": 51.92594601344611,
+    "longitude": 0.5124659679305601,
     "maintainer": {
         "organisation": "Ardleigh Parish Council",
         "maintainer_type": "parish-council"
@@ -79,19 +79,5 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "permanent.lyricist.voltages",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Local contact Tim Barrott: map was for far side of Braintree (Wave 1 CRM response)",
-            "Local contact Jill Hamblin: confirms link does not refer to Ardleigh (Wave 1 CRM response)",
-            "OSM/Photon geocode: Millennium Green, Ardleigh CO7 — 51.923, 0.985"
-        ],
-        "verified_by": "Tim Barrott + Jill Hamblin (local contacts), Holly (PAI geocoding)",
-        "verification_date": "2026-04-06",
-        "verification_notes": "Previous coords (51.926, 0.512) were ~30km too far west near Chelmsford. Memorial on Millennium Green, Ardleigh CO7. Two local contacts independently confirmed error; geocoding confirms correct village. Precise pin within Millennium Green TBC — approximate-to-confirmed upgrade when pinpointed.",
-        "community_submissions": 2,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "paddocks.craftsmen.necklaces"
 }

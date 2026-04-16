@@ -7,12 +7,12 @@ interface MemorialCardProps {
 
 export default function MemorialCard({ memorial }: MemorialCardProps) {
   const qualityBadge = {
-    Complete: { bg: "#2d5016", text: "#a8d48c" },
+    Comprehensive: { bg: "#2d5016", text: "#a8d48c" },
     Partial: { bg: "#5a4a1e", text: "#d4c98c" },
     Stub: { bg: "#5a3a1e", text: "#d4a88c" },
   };
 
-  const badge = qualityBadge[memorial.data_quality as keyof typeof qualityBadge] || qualityBadge["Partial"];
+  const badge = qualityBadge[memorial.data_quality as keyof typeof qualityBadge] || qualityBadge["Stub"];
 
   return (
     <Link

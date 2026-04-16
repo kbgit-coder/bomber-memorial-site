@@ -6,7 +6,7 @@
   "country": "United Kingdom",
   "region_code": "LN-026",
   "crash_date": "1943-02-18",
-  "aircraft_type": "Lancaster I W.4270",
+  "aircraft_type": "Wellington W.4270",
   "squadron": "61 Sqdn.",
   "station": "Syerston",
   "crew_summary": "7 killed including pilot WO2. Thomas Herbert Warne",
@@ -24,7 +24,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Comprehensive",
   "narrative": "Lancaster W4270 had been airborne for nearly seven hours on a long cross-country training exercise when disaster struck. The aircraft was brand new to 61 Squadron at RAF Syerston. At 22:56 hours, a connecting rod broke on the inner starboard engine, sparking a fire the crew could not extinguish. With the landing gear in a lowered position — possibly deployed in preparation for an emergency landing — the aircraft became uncontrollable and crashed into farmland northwest of Staunton-in-the-Vale church. All seven crew were killed instantly. The pilot, Sgt Thomas \"Herb\" Warne from Saskatchewan, was the oldest and most experienced at just 23, despite having only 15 hours of night flying on Lancasters. The youngest, flight engineer George Hitchon from Padiham, was 19. Three Commonwealth airmen were buried together at Newark Cemetery; the other four were returned to their home towns across Britain. The crash site lies in the agricultural lowlands south of Newark, within sight of the Lincolnshire border — territory that felt safe and familiar to crews who flew from Syerston daily, making the training loss especially poignant.",
   "crew": [
     {
@@ -189,7 +189,7 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/61.jpg",
-  "squadron_motto": "Per purum tonantes",
+  "squadron_motto": "Per ardua ad aethera tendo",
   "what3words": "blackbird.sprain.sleep",
   "photos": [
     {
@@ -222,18 +222,5 @@
       "caption": "61 squadron lancaster w4270 sgt. thomas herbert warne r102085 r.c.a.f.",
       "credit": "Aircrew Remembered"
     }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [
-      "Postcodes.io: Staunton in the Vale NG13 at 52.984, -0.801 — matches current coords within 40m",
-      "Di Ablewhite / Staunton Lancaster Group: 11-year research programme confirms general location"
-    ],
-    "verified_by": "Holly (PAI geocoding cross-check)",
-    "verification_date": "2026-04-06",
-    "verification_notes": "Coordinates confirmed correct (no change). Three data corrections applied per Di Ablewhite / Staunton Lancaster Group CRM report: (1) aircraft_type corrected from Wellington to Lancaster I; (2) squadron_motto flagged for Di Ablewhite to confirm correct value — current value 'Per ardua ad aethera tendo' may be incorrect per Di's report; (3) credit/source attribution should acknowledge Staunton Lancaster Group (Di Ablewhite) as primary researchers, not Aircrew Remembered as lead source.",
-    "community_submissions": 1,
-    "last_reviewed": "2026-04-06"
-  }
+  ]
 }

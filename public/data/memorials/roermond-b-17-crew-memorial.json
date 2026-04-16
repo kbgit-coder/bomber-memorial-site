@@ -15,8 +15,8 @@
     ],
     "contributor": "Charlie Leitheiser",
     "last_updated": "2026-03-21",
-    "latitude": 51.1934,
-    "longitude": 5.9883,
+    "latitude": 51.19,
+    "longitude": 5.99,
     "external_narratives": [
         {
             "source_site": "US Army (army.mil)",
@@ -42,18 +42,5 @@
             "still_live": true
         }
     ],
-    "what3words": "demoted.thin.attends",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon — Roermond city centre Netherlands at 51.193 5.988",
-            "Current 51.19 5.99 within ~400m — minor precision update"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "MINOR CORRECTION. Current coords (51.19, 5.99) within ~400m of Roermond city centre. Precision update to 51.193, 5.988.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "padding.hurls.liner"
 }

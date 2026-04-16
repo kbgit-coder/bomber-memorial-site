@@ -22,8 +22,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.3538,
-    "longitude": 0.0311,
+    "latitude": 52.183019545530065,
+    "longitude": 0.01589533194844428,
     "maintainer": {
         "organisation": "Earith Parish Council",
         "maintainer_type": "parish-council"
@@ -81,18 +81,5 @@
     ],
     "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/7.jpg",
     "squadron_motto": "Per diem per noctem",
-    "what3words": "legend.finger.gobbles",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io — Earith PE28 Huntingdonshire at 52.354 0.031",
-            "Photon — Earith village at 52.357 0.032"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Previous coords (52.183, 0.016) ~19km south near Cambridgeshire/Hertfordshire border. Earith village (PE28, Huntingdonshire) confirmed at 52.354 0.031 by both sources.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "enlighten.vocally.group"
 }

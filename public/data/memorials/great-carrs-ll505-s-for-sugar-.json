@@ -1,204 +1,191 @@
 {
-    "id": "great-carrs-ll505-s-for-sugar-",
-    "title": "Great Carrs Halifax Memorial",
-    "location_name": "Great Carrs, Coniston, Cumbria / Lake District",
-    "county": "Cumbria / Lake District",
-    "country": "United Kingdom",
-    "region_code": "NW-001",
-    "crash_date": "1944-10-22",
-    "aircraft_type": "Halifax",
-    "serial_number": "LL505 \"S for Sugar\"",
-    "squadron": "1659 HCU",
-    "station": "Topcliffe",
-    "crew_summary": "8 killed (7 RCAF + 1 RAFVR): J.A. Johnston (27), R.N. Whitley (20), F.A. Bell (33), H.E. Pyche (21), D.F. Titt (19), G. Riddoch (20), C.G. Whittingstall (20), W.B. Ferguson (19)",
-    "memorial_type": "Cairn with wooden cross and plaque; aircraft wreckage (undercarriage) remains at site",
-    "sources": [
-        {
-            "title": "IWM (memorial/13028); warmemorialsonline.org.uk (memorial/175022); Wikipedia (Great Carrs)",
-            "type": "website"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the night of 22 October 1944, Halifax LL505 departed RAF Topcliffe on a routine night navigation training exercise. The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
-    "crew": [
-        {
-            "rank": "F/O",
-            "name": "John Armstrong Johnston",
-            "service_number": "C/29783",
-            "age": 27,
-            "role": "Pilot",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 failed to clear the ridge of Great Carrs by a few feet. Johnston had descended below cloud to obtain a visual fix but was confronted by the rising fells.",
-            "bio": "A 27-year-old Canadian pilot from the RCAF, Johnston was building flying hours at 1659 HCU before posting to an operational squadron.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/O",
-            "name": "Francis Aubrey Bell",
-            "service_number": "J/39888",
-            "age": 33,
-            "role": "Navigator",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "P/O",
-            "name": "Robert Newton Whitley",
-            "service_number": "J/38243",
-            "age": 20,
-            "role": "Bomb Aimer",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "William Brisbane Ferguson",
-            "service_number": "1826294",
-            "age": 19,
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "burial_location": "New Monkland Cemetery, Lanarkshire",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Ferguson was the sole British member of the crew, just 19 years old. He was the crew's regular flight engineer.",
-            "bio": "The only British member of the crew, Ferguson was assigned as their regular flight engineer. He is buried separately from the Canadians at New Monkland Cemetery, Lanarkshire.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Calvin George Whittingstall",
-            "service_number": "R/198207",
-            "age": 20,
-            "role": "W/Op Air Gunner",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Donald Fraser Titt",
-            "service_number": "R/271259",
-            "age": 19,
-            "role": "Air Gunner",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "George Riddoch",
-            "service_number": "R/259938",
-            "age": 20,
-            "role": "Air Gunner",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Harvey Ellsworth Pyche",
-            "service_number": "R/225354",
-            "age": 21,
-            "role": "Flight Engineer (supernumerary)",
-            "nationality": "Canadian",
-            "burial_location": "Blacon Cemetery, Chester",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Pyche was flying as a supernumerary to add logbook hours, not as part of the regular crew.",
-            "cwgc_verified": true
-        }
-    ],
-    "cause_of_loss": "Pilot descended below cloud base to obtain visual fix; aircraft failed to clear ridge by a few feet",
-    "operation_type": "Training",
-    "memorial_details": "A stone memorial cairn stands on the fellside of Great Carrs, accessible via a hill walk from Wrynose Pass or the Wetherlam approach. Substantial wreckage remains visible at the crash site, including undercarriage components. The site is a popular objective for fell walkers and aviation historians. A wooden cross was placed at the site earlier, and the memorial cairn was added subsequently. The crash site is now permanently protected as part of the Lake District UNESCO World Heritage Site (designated 2017).",
-    "latitude": 54.3988,
-    "longitude": -3.1248,
-    "maintainer": {
-        "organisation": "Lake District National Park Authority",
-        "website": "https://www.lakedistrict.gov.uk",
-        "maintainer_type": "national-trust",
-        "notes": "Cairn with wooden cross and plaque on fell; aircraft wreckage remains at site."
-    },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/13028",
-            "summary": "Imperial War Museum register entry for the Halifax LL505 FD-S memorial on Great Carrs. Records the cairn with wooden cross and plaques commemorating the eight crew of 1659 HCU who died on 22 October 1944.",
-            "key_details": "Memorial reference 13028. Cairn with wooden cross. Metal and slate plaques list all eight names.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/175022/",
-            "summary": "War Memorials Online listing for the Halifax LL505 memorial on Great Carrs fell, Lake District. Documents the memorial's remote hillside location and the crew details.",
-            "key_details": "Memorial reference 175022. Accessible via fell walk from Wrynose Pass or Wetherlam approach.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "TracesOfWar.com",
-            "original_url": "https://www.tracesofwar.com/sights/26326/Crash-Site-en-Wreckage-Halifax-LL505-S-for-Sugar-Great-Carrs.htm",
-            "summary": "TracesOfWar entry for the Halifax LL505 'S for Sugar' crash site. Substantial wreckage remains visible including undercarriage components. Two Rolls-Royce Merlin engines were recovered by RAF helicopter; one is on display at the Ruskin Museum, Coniston.",
-            "key_details": "Six of seven Canadians are buried at Blacon Cemetery, Chester. The sole British crew member (Sgt Ferguson) is buried at New Monkland Cemetery, Lanarkshire. Site is within the Lake District UNESCO World Heritage Site.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Yorkshire Aircraft",
-            "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/lakes/ll505.html",
-            "summary": "Detailed account of the Halifax LL505 crash. The crew took off from Topcliffe at 14:05 and by 18:56 had become lost in thick cloud over the Lake District. The aircraft descended to obtain a visual fix but failed to clear the ridge of Great Carrs by a few feet.",
-            "key_details": "Crew formed at 82 OTU and posted to 1659 HCU on 9 September 1944. Sgt Pyche was flying as a supernumerary to add logbook hours. Bomber remained largely intact after crash; wreckage was cut up and scattered down Broad Slack.",
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Kendal Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/cumbria/"
-        }
-    ],
-    "what3words": "cape.timer.shunning",
-    "photos": [
-        {
-            "filename": "great-carrs-ll505-s-for-sugar-/Great_Carrs_547x410.jpg",
-            "caption": "Great Carrs 547x410",
-            "credit": "Yorkshire Aircraft (see the link for full details) / War Memorials Online"
-        },
-        {
-            "filename": "great-carrs-ll505-s-for-sugar-/Great_Carrs_Engine_at_John_Ruskin__Coniston_547x410.JPG",
-            "caption": "Great Carrs Engine at John Ruskin  Coniston 547x410",
-            "credit": "Yorkshire Aircraft (see the link for full details) / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon OSM — Great Carrs named peak Coniston at 54.3988 -3.1248",
-            "Current 54.528 -2.830 ~14km north near Haweswater — wrong"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Previous coords (54.528, -2.830) ~14km north of Great Carrs, near Haweswater. OSM has named peak 'Great Carrs' at 54.3988 -3.1248 above Wrynose Pass, Coniston Fells. Confidence confirmed (OSM natural/peak node).",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "great-carrs-ll505-s-for-sugar-",
+  "title": "Great Carrs Halifax Memorial",
+  "location_name": "Great Carrs, Coniston, Cumbria / Lake District",
+  "county": "Cumbria / Lake District",
+  "country": "United Kingdom",
+  "region_code": "NW-001",
+  "crash_date": "1944-10-22",
+  "aircraft_type": "Halifax",
+  "serial_number": "LL505 \"S for Sugar\"",
+  "squadron": "1659 HCU",
+  "station": "Topcliffe",
+  "crew_summary": "8 killed (7 RCAF + 1 RAFVR): J.A. Johnston (27), R.N. Whitley (20), F.A. Bell (33), H.E. Pyche (21), D.F. Titt (19), G. Riddoch (20), C.G. Whittingstall (20), W.B. Ferguson (19)",
+  "memorial_type": "Cairn with wooden cross and plaque; aircraft wreckage (undercarriage) remains at site",
+  "sources": [
+    {
+      "title": "IWM (memorial/13028); warmemorialsonline.org.uk (memorial/175022); Wikipedia (Great Carrs)",
+      "type": "website"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Comprehensive",
+  "narrative": "On the night of 22 October 1944, Halifax LL505 departed RAF Topcliffe on a routine night navigation training exercise. The crew, formed at 82 OTU and posted to 1659 HCU on 9 September 1944, were building hours before joining an operational squadron. Sgt Ferguson had been assigned as their regular flight engineer, while Sgt Pyche was flying as a supernumerary to add logbook hours. As the Halifax flew over the Lake District, it became enveloped in thick cloud. Pilot F/O Johnston descended below the cloud base so his navigator could obtain a visual fix on the ground. But the crew had no knowledge of what lay below. Emerging from cloud, they were confronted by the great rising fells of Swirl How and Great Carrs. There was no time to react. The aircraft, travelling from west to east, failed to clear the ridge by a few feet and went over the edge, crashing far down the precipice. All eight crew were killed. The youngest -- Ferguson and Titt -- were just 19. Six of the seven Canadians are buried together at Blacon Cemetery, Chester, far from home. Over the years, two of the four Rolls-Royce Merlin engines were recovered by RAF helicopter; one is now on display at the Ruskin Museum in Coniston.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "John Armstrong Johnston",
+      "service_number": "C/29783",
+      "age": 27,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 failed to clear the ridge of Great Carrs by a few feet. Johnston had descended below cloud to obtain a visual fix but was confronted by the rising fells.",
+      "bio": "A 27-year-old Canadian pilot from the RCAF, Johnston was building flying hours at 1659 HCU before posting to an operational squadron.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "Francis Aubrey Bell",
+      "service_number": "J/39888",
+      "age": 33,
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "P/O",
+      "name": "Robert Newton Whitley",
+      "service_number": "J/38243",
+      "age": 20,
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Brisbane Ferguson",
+      "service_number": "1826294",
+      "age": 19,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "New Monkland Cemetery, Lanarkshire",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Ferguson was the sole British member of the crew, just 19 years old. He was the crew's regular flight engineer.",
+      "bio": "The only British member of the crew, Ferguson was assigned as their regular flight engineer. He is buried separately from the Canadians at New Monkland Cemetery, Lanarkshire.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Calvin George Whittingstall",
+      "service_number": "R/198207",
+      "age": 20,
+      "role": "W/Op Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Donald Fraser Titt",
+      "service_number": "R/271259",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Riddoch",
+      "service_number": "R/259938",
+      "age": 20,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax LL505 struck the ridge of Great Carrs on 22 October 1944.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harvey Ellsworth Pyche",
+      "service_number": "R/225354",
+      "age": 21,
+      "role": "Flight Engineer (supernumerary)",
+      "nationality": "Canadian",
+      "burial_location": "Blacon Cemetery, Chester",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Pyche was flying as a supernumerary to add logbook hours, not as part of the regular crew.",
+      "cwgc_verified": true
+    }
+  ],
+  "cause_of_loss": "Pilot descended below cloud base to obtain visual fix; aircraft failed to clear ridge by a few feet",
+  "operation_type": "Training",
+  "memorial_details": "A stone memorial cairn stands on the fellside of Great Carrs, accessible via a hill walk from Wrynose Pass or the Wetherlam approach. Substantial wreckage remains visible at the crash site, including undercarriage components. The site is a popular objective for fell walkers and aviation historians. A wooden cross was placed at the site earlier, and the memorial cairn was added subsequently. The crash site is now permanently protected as part of the Lake District UNESCO World Heritage Site (designated 2017).",
+  "latitude": 54.52803441887313,
+  "longitude": -2.8295823702766367,
+  "maintainer": {
+    "organisation": "Lake District National Park Authority",
+    "website": "https://www.lakedistrict.gov.uk",
+    "maintainer_type": "national-trust",
+    "notes": "Cairn with wooden cross and plaque on fell; aircraft wreckage remains at site."
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/13028",
+      "summary": "Imperial War Museum register entry for the Halifax LL505 FD-S memorial on Great Carrs. Records the cairn with wooden cross and plaques commemorating the eight crew of 1659 HCU who died on 22 October 1944.",
+      "key_details": "Memorial reference 13028. Cairn with wooden cross. Metal and slate plaques list all eight names.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/175022/",
+      "summary": "War Memorials Online listing for the Halifax LL505 memorial on Great Carrs fell, Lake District. Documents the memorial's remote hillside location and the crew details.",
+      "key_details": "Memorial reference 175022. Accessible via fell walk from Wrynose Pass or Wetherlam approach.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "TracesOfWar.com",
+      "original_url": "https://www.tracesofwar.com/sights/26326/Crash-Site-en-Wreckage-Halifax-LL505-S-for-Sugar-Great-Carrs.htm",
+      "summary": "TracesOfWar entry for the Halifax LL505 'S for Sugar' crash site. Substantial wreckage remains visible including undercarriage components. Two Rolls-Royce Merlin engines were recovered by RAF helicopter; one is on display at the Ruskin Museum, Coniston.",
+      "key_details": "Six of seven Canadians are buried at Blacon Cemetery, Chester. The sole British crew member (Sgt Ferguson) is buried at New Monkland Cemetery, Lanarkshire. Site is within the Lake District UNESCO World Heritage Site.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/lakes/ll505.html",
+      "summary": "Detailed account of the Halifax LL505 crash. The crew took off from Topcliffe at 14:05 and by 18:56 had become lost in thick cloud over the Lake District. The aircraft descended to obtain a visual fix but failed to clear the ridge of Great Carrs by a few feet.",
+      "key_details": "Crew formed at 82 OTU and posted to 1659 HCU on 9 September 1944. Sgt Pyche was flying as a supernumerary to add logbook hours. Bomber remained largely intact after crash; wreckage was cut up and scattered down Broad Slack.",
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Kendal Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/cumbria/"
+    }
+  ],
+  "what3words": "tender.theory.guessing",
+  "photos": [
+    {
+      "filename": "great-carrs-ll505-s-for-sugar-/Great_Carrs_547x410.jpg",
+      "caption": "Great Carrs 547x410",
+      "credit": "Yorkshire Aircraft (see the link for full details) / War Memorials Online"
+    },
+    {
+      "filename": "great-carrs-ll505-s-for-sugar-/Great_Carrs_Engine_at_John_Ruskin__Coniston_547x410.JPG",
+      "caption": "Great Carrs Engine at John Ruskin  Coniston 547x410",
+      "credit": "Yorkshire Aircraft (see the link for full details) / War Memorials Online"
+    }
+  ]
 }

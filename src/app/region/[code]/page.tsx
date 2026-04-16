@@ -36,18 +36,55 @@ export default function RegionPage({ params }: Props) {
           maxWidth: 800,
           margin: "4rem auto",
           padding: "0 1.5rem",
-          textAlign: "center",
         }}
       >
+        <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
+          <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+          <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
+          <span style={{ color: "#999" }}>{regionName}</span>
+        </nav>
         <h1
           style={{
             fontFamily: "'Helvetica Neue', Arial, sans-serif",
             color: "#1a2332",
+            fontSize: "2rem",
+            marginBottom: "0.5rem",
           }}
         >
-          Region Not Found
+          {regionName}
         </h1>
-        <Link href="/" style={{ color: "#2c5f8a" }}>
+        <p style={{ color: "#666", marginBottom: "2rem" }}>
+          No memorials have been recorded for this region yet.
+        </p>
+        <div style={{
+          backgroundColor: "#faf8f4",
+          border: "1px solid #e0dcd5",
+          borderLeft: "3px solid #c9b98a",
+          borderRadius: "0 8px 8px 0",
+          padding: "1.5rem 2rem",
+          marginBottom: "2rem",
+        }}>
+          <p style={{ color: "#8b7355", fontStyle: "italic", lineHeight: 1.7, marginBottom: "0.75rem" }}>
+            Do you know of a Bomber Command memorial in {regionName}? We welcome contributions from researchers, local communities, and families.
+          </p>
+          <a
+            href={`mailto:admin@bombermemorial.co.uk?subject=Memorial%20suggestion%3A%20${encodeURIComponent(regionName)}&body=I%20would%20like%20to%20suggest%20a%20memorial%20in%20${encodeURIComponent(regionName)}%3A%0A%0A`}
+            style={{
+              display: "inline-block",
+              padding: "0.45rem 1.25rem",
+              backgroundColor: "#1a2332",
+              color: "#c9b98a",
+              borderRadius: 6,
+              fontSize: "0.85rem",
+              fontFamily: "'Helvetica Neue', Arial, sans-serif",
+              textDecoration: "none",
+              letterSpacing: "0.03em",
+            }}
+          >
+            Suggest a memorial
+          </a>
+        </div>
+        <Link href="/" style={{ color: "#2c5f8a", fontSize: "0.9rem" }}>
           Return to the Register
         </Link>
       </div>

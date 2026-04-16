@@ -4,7 +4,7 @@ interface StubCTAProps {
 }
 
 export default function StubCTA({ quality, title }: StubCTAProps) {
-  if (quality === "Complete") return null;
+  if (quality === "Comprehensive") return null;
 
   const isStub = quality === "Stub";
 

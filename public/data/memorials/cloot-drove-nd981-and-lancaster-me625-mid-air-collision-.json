@@ -1,424 +1,411 @@
 {
-    "id": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
-    "title": "Cloot Drove Lancaster Mid-Air Collision Memorial",
-    "location_name": "Cloot Drove, Deeping Fen, Lincolnshire",
-    "county": "Lincolnshire",
-    "country": "United Kingdom",
-    "region_code": "PN-009",
-    "crash_date": "1944-06-23",
-    "aircraft_type": "Lancaster III",
-    "serial_number": "ME625 and ND981",
-    "squadron": "97 Squadron",
-    "station": "RAF Coningsby",
-    "crew_summary": "13 killed; 1 survivor (Sgt Joseph Coman bailed out from ND981)",
-    "memorial_type": "Plaque at Cloot House Farm",
-    "sources": [
-        {
-            "title": "War Memorials Online",
-            "url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
-            "type": "database"
-        },
-        {
-            "title": "Aircrew Remembered - Van Raalte",
-            "url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
-            "type": "website"
-        },
-        {
-            "title": "Aircrew Remembered - Perkins",
-            "url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
-            "type": "website"
-        },
-        {
-            "title": "IWM War Memorials Register",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
-            "type": "database"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on the afternoon of 23 June 1944 for formation flying practice. Fl/Lt Van Raalte's Lancaster ME625 (OF-O) became trapped in the slipstream of the lead aircraft during a gentle turn. The turbulence threw ME625 into collision with Lancaster ND981 (OF-T), tearing the tail clean off. Both Lancasters spun out of control. All eight crew in ME625 were killed. In ND981, which broke apart at 1,000 ft, Sgt Joseph Coman managed to bail out and survived; the remaining five crew perished.",
-    "crew": [
-        {
-            "rank": "Fl/Lt",
-            "name": "Henry Stewart \"Jim\" Van Raalte",
-            "service_number": "Aus/415220 RAAF",
-            "age": 31,
-            "role": "Pilot (ME625)",
-            "nationality": "Australian",
-            "burial_location": "Cambridge City Cemetery, Grave 13766",
-            "fate": "Killed",
-            "fate_detail": "Pilot of ME625. Killed when his aircraft was trapped in slipstream and collided with ND981.",
-            "cwgc_verified": true,
-            "bio": "Fl/Lt 'Jim' Van Raalte was a 31-year-old Australian serving with the RAAF."
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Maurice Durn",
-            "service_number": "1622745 RAFVR",
-            "age": 21,
-            "role": "Flight Engineer (ME625)",
-            "nationality": "British",
-            "burial_location": "Marsden (St Bartholomew's) Churchyard, Row 7, Grave 17",
-            "fate": "Killed",
-            "fate_detail": "Killed in the collision. Buried at Marsden Churchyard.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "P/O",
-            "name": "David Gethin Williams",
-            "service_number": "78568 RAFVR",
-            "age": 22,
-            "role": "Navigator (ME625)",
-            "nationality": "Welsh",
-            "burial_location": "Treorchy Cemetery, Plot T, Grave 168",
-            "fate": "Killed",
-            "fate_detail": "Welsh crew member. Buried at Treorchy Cemetery.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "W/O",
-            "name": "Alfred Leonard Lambert",
-            "service_number": "Aus/409318 RAAF",
-            "age": 25,
-            "role": "Air Bomber (ME625)",
-            "nationality": "Australian",
-            "burial_location": "Cambridge City Cemetery, Grave 14166",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/O",
-            "name": "Alan Arnold",
-            "service_number": "Aus/410136 RAAF",
-            "age": 26,
-            "role": "Visual Air Bomber (ME625)",
-            "nationality": "Australian",
-            "burial_location": "Cambridge City Cemetery, Grave 13966",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Eric Henry Peace",
-            "service_number": "1434302 RAFVR",
-            "age": 22,
-            "role": "W/Op Air Gunner (ME625)",
-            "nationality": "British",
-            "burial_location": "Cambridge City Cemetery, Grave 14366",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Royston George Davies",
-            "service_number": "1315090 RAFVR",
-            "age": 22,
-            "role": "Air Gunner Mid Upper (ME625)",
-            "nationality": "Welsh",
-            "burial_location": "Treorchy Cemetery, Row R.1, Grave 17",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Fl/Lt",
-            "name": "John David Fletcher",
-            "service_number": "115198 RAFVR",
-            "age": 24,
-            "role": "Air Gunner Rear (ME625)",
-            "nationality": "British",
-            "burial_location": "Cambridge City Cemetery, Grave 14566",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Fl/Lt",
-            "name": "Edward Leslie John Perkins",
-            "service_number": "RAFVR",
-            "role": "Pilot (ND981)",
-            "nationality": "British",
-            "burial_location": "Cambridge City Cemetery, Grave 14766",
-            "fate": "Killed",
-            "fate_detail": "Pilot of ND981. Tail torn off by collision with ME625. Buried at Cambridge City Cemetery.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Frank Ernest Coxhead",
-            "role": "Flight Engineer (ND981)",
-            "nationality": "British",
-            "burial_location": "Alfreton (Lea Brooks) Cemetery, Section B, Grave 641",
-            "fate": "Killed",
-            "fate_detail": "Buried at Alfreton Cemetery, Derbyshire.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Fl/Lt",
-            "name": "William James Hunt",
-            "role": "Navigator (ND981)",
-            "nationality": "British",
-            "burial_location": "Romford Cemetery, Section C.C., Grave 22",
-            "fate": "Killed",
-            "fate_detail": "Buried at Romford Cemetery, Essex.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "John Fairbairn",
-            "role": "Air Bomber (ND981)",
-            "nationality": "British",
-            "burial_location": "Knottingley Cemetery, Grave 5224",
-            "fate": "Killed",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "W/O",
-            "name": "Denis Gilbert Partos",
-            "role": "W/Op Air Gunner (ND981)",
-            "nationality": "British",
-            "burial_location": "New Southgate Cemetery, Sec G, Joint Grave 1662",
-            "fate": "Killed",
-            "fate_detail": "Held the Distinguished Flying Medal.",
-            "cwgc_verified": true,
-            "decorations": [
-                "DFM"
-            ]
-        },
-        {
-            "rank": "Sgt",
-            "name": "Joseph Paul Coman",
-            "role": "W/Op Air Gunner (ND981)",
-            "nationality": "British",
-            "fate": "Survived",
-            "fate_detail": "Sole survivor. Bailed out as ND981 broke apart at 1,000 feet. Landed safely."
-        }
-    ],
-    "cause_of_loss": "Mid-air collision; ME625 trapped in slipstream of lead aircraft, struck ND981 removing its tail",
-    "operation_type": "Training",
-    "memorial_details": "A permanent memorial plaque was unveiled at Cloot House Farm on 23 June 2014 (70th anniversary). Australian relatives attended.",
-    "latitude": 52.6947,
-    "longitude": -0.157,
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered (Van Raalte)",
-            "original_url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
-            "summary": "Detailed account of ME625 OF-O in the mid-air collision on 23 June 1944.",
-            "key_details": [
-                "Van Raalte was Australian, aged 31",
-                "All 8 crew of ME625 killed"
-            ],
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "## INTRODUCTION\n\n## REASON FOR LOSS\n\n## 70th ANNIVERSARY MEMORIAL SERVICE\n\n## BIOGRAPHICAL DETAILS OF THE CREW\n\n## BURIAL DETAILS\n\n&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 23.06.1944 No. No. 97 Squadron Lancaster III ME625 OF-O Fl/Lt. Henry Stewart (Aus Jim) Van Raalte Operation: Training - formation flying practice\n\nDate: 23 June 1944 (Friday)\n\nUnit: No. 97 Squadron. Motto: \"Achieve your aim.\"\n\nBadge: An ogress pierced by an arrow, point downwards. The badge is indicative of accurate aim. Authority: King George VI, January 1937.\n\nType: Avro Lancaster Mark III\n\nBase: RAF Coningsby, Lincolnshire\n\nLocation: Near Cloot House Farm, Crowland, Lincolnshire.\n\nPilot: Fl/Lt. Henry Stewart (Aus Jim) Van Raalte Aus/415220 RAAF Age 31 - Killed (1)\n\nFl/Eng: F/Sgt. Maurice Durn 1622745 RAFVR Age 21 - Killed (2)\n\nNav: P/O. David Gethin Williams 78568 RAFVR Age 22 - Killed (3)\n\nAir/Bmr: W/O. Alfred Leonard Lambert Aus/409318 RAAF Age 25 - Killed (4)\n\nVis.Air/Bmr: F/O. Alan Arnold Aus/410136 RAAF Age 26 - Killed (5)\n\nW/Op/Air/Gnr: F/Sgt. Eric Henry Peace 1434302 RAFVR Age 22 - Killed (6)\n\nAir/Gnr (MU): F/Sgt. Royston George Davies 1315090 RAFVR Age 22 - Killed (7)\n\nAir/Gnr (R): Fl/Lt. John David Fletcher 115198 RAFVR Age 24 - Killed (8)\n\nWe appeal to anyone with further information and/or photographs to please contact us via our HELPDESK\n\nAus Jim Raalte, David Williams, Alfred Lambert, Eric Peace and Royston Davies had been together almost from the beginning, most likely having crewed up at OTU along with rear gunner Lionel Laurie and flight engineer Sgt. R.P. Smith. They joined No. 97, a Pathfinder Force Squadron on 30 November 1943.\n\nThe crew's first operational mission with the squadron was on 14/15 January 1944 to Brunswick which they negotiated safely. They then completed another three operations without mishap but on 28/29 January on a raid to Berlin they met considerable flak opposition over Kiel and their aircraft (Lancaster LM360 OF-O) sustained severe damage. F/Sgt Laurie, the rear gunner received severe shrapnel wounds to the head from which he died with the aircraft having to return to base on 3 engines.\n\nThe rear gunner's position was filled by Sgt. W. Benfell and in late March flight engineer Maurice Durn¹ joined the crew.\n\nThis remained the composition of the crew until the raid on Amiens on 19/20 May when Alan Arnold, a visual air bomber, became an additional eighth crew member and a few days later David Fletcher² joined the crew as rear gunner for the raid on the Phillip's Works at Eindhoven of 24/25 May.\n\nBy the end of May, Jim Raalte and the four remaining members of his original crew had completed 17 operations.\n\n¹Maurice Durn had just returned to the squadron after an absence of 3 months. He had been badly affected by a traumatic two weeks in December 1943. Firstly he had been wounded by flak and then on the very next night 3/4 December the other members of his crew had been lost during a raid to Leipzig. On his recovery he joined another crew but on 16 December whilst returning from a raid on Berlin lost and low on fuel the crew were forced to abandon the aircraft and bale out in fog over Ely.\n\n²David Fletcher had joined the squadron on 17 March and had flown five operational missions with two other crews.\n\nThe Squadron Operations Record Book entry for 3/4 June 1944 perhaps gives an insight into the quality of the crew.\n\n\" Although the whole Squadron stood by to operate tonight, only one crew was eventually detailed. It was a crew captained by F/L Van Raalte RAAF and specially trained in the use of the Semi-Automatic Bomb Sight Mark IIA. This bomb sight is the latest production model – gyroscopically stabilised in all planes, and is probably the most accurate bomb sight in use in Britain to date. The night’s target was a small but important wireless station at Ferme D’Urville just south east of Cherbourg Peninsula. The target was primarily marked by an Oboe red TI. The Controller in a Lancaster assessed this TI as being on the target. It was immediately backed up by green TIs dropped by F/L Van Raalte and another specially trained crew from 83 Squadron. Main Force bombing was excellent and the target was obliterated. There was no fighter opposition, flak was light and visibility perfect. A most successful attack.\"\n\nThe crew fulfilled a similar role again on D-Day along with another specially trained crew from 83 Squadron, the two Pathfinder crews leading the attack on the battery at La Peanelle."
-        },
-        {
-            "source_site": "Aircrew Remembered (Perkins)",
-            "original_url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
-            "summary": "Account of ND981 OF-T. Tail removed by collision. Sgt Coman sole survivor.",
-            "key_details": [
-                "Tail section completely removed",
-                "Sgt Coman only survivor"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "War Memorials Online",
-            "original_url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
-            "summary": "Memorial plaque at Cloot House Farm, unveiled 23 June 2014.",
-            "key_details": [
-                "70th anniversary unveiling"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
-            "summary": "13 crew commemorated.",
-            "key_details": [
-                "IWM memorial reference 88630"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
-    "squadron_motto": "Achieve your aim",
-    "what3words": "indulges.speeded.herds",
-    "photos": [
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lancaster-mark-iiis-w800-w800.jpg",
-            "caption": "lancaster mark iiis",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/crew-me625-w800-w800.jpg",
-            "caption": "crew me625",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/me625-map-w800-w800.jpg",
-            "caption": "me625 map",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/memorial-service-picture-me625-2-w800-w800.jpg",
-            "caption": "memorial service picture me625 2",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/plaque-gathering-cloot-house-soft-w800-w800.jpg",
-            "caption": "plaque gathering cloot house soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/the-plaque-w800-w800.jpg",
-            "caption": "the plaque",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/maurice-durn-soft-w800-w800.jpg",
-            "caption": "maurice durn soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/david-gethin-williams-soft-w800-w800.jpg",
-            "caption": "david gethin williams soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/alfred-lambert-w800-w800.jpg",
-            "caption": "alfred lambert",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lambert-new-clip-w800-w800.jpg",
-            "caption": "lambert new clip",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/arnold-news-clip-w800-w800.jpg",
-            "caption": "arnold news clip",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/j-d-fletcher-soft-w800-w800.jpg",
-            "caption": "j d fletcher soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/cambridge-city-cemetery-soft-w800-w800.jpg",
-            "caption": "cambridge city cemetery soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/st-martholomews-marsden-2-w800.jpg",
-            "caption": "st martholomews marsden 2",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/treorchy-cemetery-soft-w800-w800.jpg",
-            "caption": "treorchy cemetery soft",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/perkins-crew-smaller-version-w800-w800.jpg",
-            "caption": "perkins crew smaller version",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/e-l-j-perkins-w800-w800.jpg",
-            "caption": "e l j perkins",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lancaster-b-mark-iiis-of-619-sqn-3-w800-w800.jpg",
-            "caption": "lancaster b mark iiis of 619 sqn 3",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/map-nd981-1-w800-w800.jpg",
-            "caption": "map nd981 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/perkins-funeral-w800-w800.jpg",
-            "caption": "perkins funeral",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/memorial-service-picture-me625-3-w800-w800.jpg",
-            "caption": "memorial service picture me625 3",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/plaque-gathering-cloot-house-soft-1-w800-w800.jpg",
-            "caption": "plaque gathering cloot house soft 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/the-plaque-1-w800-w800.jpg",
-            "caption": "the plaque 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/edward-perkins-and-his-moter-w800-w800.jpg",
-            "caption": "edward perkins and his moter",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-b-w800-w800.jpg",
-            "caption": "frank ernest coxhead b",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/coxhead-1st-left-2nd-row-from-front-w800-w800.png",
-            "caption": "coxhead 1st left 2nd row from front",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-d-1-w800-1-w800.jpg",
-            "caption": "frank ernest coxhead d 1 w800 1",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-e-w800-w800.jpg",
-            "caption": "frank ernest coxhead e",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311a31d08_DSCF0718_547x410.JPG",
-            "caption": "5bab311a31d08 DSCF0718 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311aa7276_DSCF0721_547x410.JPG",
-            "caption": "5bab311aa7276 DSCF0721 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311b0c40a_DSCF0724_547x410.JPG",
-            "caption": "5bab311b0c40a DSCF0724 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        },
-        {
-            "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311b617d4_DSCF0726_547x410.JPG",
-            "caption": "5bab311b617d4 DSCF0726 547x410",
-            "credit": "Charles J Anderson / War Memorials Online"
-        }
-    ],
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "OSM — Cloot Drove road in Crowland South Holland Lincolnshire at ~52.695 -0.157",
-            "Postcodes.io PE6 0JH confirms Crowland/Cloot Drove area"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Previous coords (52.338, -0.250) ~40km south near Oundle Northamptonshire — wrong county. OSM confirms Cloot Drove is a real road in Crowland, South Holland, Lincolnshire at ~52.695, -0.157 (PE6 0JH). Note: ND981 and ME265 are same mid-air collision as Crowland memorial — cross-reference.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+  "id": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
+  "title": "Cloot Drove Lancaster Mid-Air Collision Memorial",
+  "location_name": "Cloot Drove, Deeping Fen, Lincolnshire",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "region_code": "PN-009",
+  "crash_date": "1944-06-23",
+  "aircraft_type": "Lancaster III",
+  "serial_number": "ME625 and ND981",
+  "squadron": "97 Squadron",
+  "station": "RAF Coningsby",
+  "crew_summary": "13 killed; 1 survivor (Sgt Joseph Coman bailed out from ND981)",
+  "memorial_type": "Plaque at Cloot House Farm",
+  "sources": [
+    {
+      "title": "War Memorials Online",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
+      "type": "database"
+    },
+    {
+      "title": "Aircrew Remembered - Van Raalte",
+      "url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
+      "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered - Perkins",
+      "url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
+      "type": "database"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Comprehensive",
+  "narrative": "Six Lancasters of 97 Squadron took off from RAF Coningsby on the afternoon of 23 June 1944 for formation flying practice. Fl/Lt Van Raalte's Lancaster ME625 (OF-O) became trapped in the slipstream of the lead aircraft during a gentle turn. The turbulence threw ME625 into collision with Lancaster ND981 (OF-T), tearing the tail clean off. Both Lancasters spun out of control. All eight crew in ME625 were killed. In ND981, which broke apart at 1,000 ft, Sgt Joseph Coman managed to bail out and survived; the remaining five crew perished.",
+  "crew": [
+    {
+      "rank": "Fl/Lt",
+      "name": "Henry Stewart \"Jim\" Van Raalte",
+      "service_number": "Aus/415220 RAAF",
+      "age": 31,
+      "role": "Pilot (ME625)",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 13766",
+      "fate": "Killed",
+      "fate_detail": "Pilot of ME625. Killed when his aircraft was trapped in slipstream and collided with ND981.",
+      "cwgc_verified": true,
+      "bio": "Fl/Lt 'Jim' Van Raalte was a 31-year-old Australian serving with the RAAF."
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Maurice Durn",
+      "service_number": "1622745 RAFVR",
+      "age": 21,
+      "role": "Flight Engineer (ME625)",
+      "nationality": "British",
+      "burial_location": "Marsden (St Bartholomew's) Churchyard, Row 7, Grave 17",
+      "fate": "Killed",
+      "fate_detail": "Killed in the collision. Buried at Marsden Churchyard.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "P/O",
+      "name": "David Gethin Williams",
+      "service_number": "78568 RAFVR",
+      "age": 22,
+      "role": "Navigator (ME625)",
+      "nationality": "Welsh",
+      "burial_location": "Treorchy Cemetery, Plot T, Grave 168",
+      "fate": "Killed",
+      "fate_detail": "Welsh crew member. Buried at Treorchy Cemetery.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "W/O",
+      "name": "Alfred Leonard Lambert",
+      "service_number": "Aus/409318 RAAF",
+      "age": 25,
+      "role": "Air Bomber (ME625)",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 14166",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "Alan Arnold",
+      "service_number": "Aus/410136 RAAF",
+      "age": 26,
+      "role": "Visual Air Bomber (ME625)",
+      "nationality": "Australian",
+      "burial_location": "Cambridge City Cemetery, Grave 13966",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Eric Henry Peace",
+      "service_number": "1434302 RAFVR",
+      "age": 22,
+      "role": "W/Op Air Gunner (ME625)",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14366",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Royston George Davies",
+      "service_number": "1315090 RAFVR",
+      "age": 22,
+      "role": "Air Gunner Mid Upper (ME625)",
+      "nationality": "Welsh",
+      "burial_location": "Treorchy Cemetery, Row R.1, Grave 17",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "John David Fletcher",
+      "service_number": "115198 RAFVR",
+      "age": 24,
+      "role": "Air Gunner Rear (ME625)",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14566",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "Edward Leslie John Perkins",
+      "service_number": "RAFVR",
+      "role": "Pilot (ND981)",
+      "nationality": "British",
+      "burial_location": "Cambridge City Cemetery, Grave 14766",
+      "fate": "Killed",
+      "fate_detail": "Pilot of ND981. Tail torn off by collision with ME625. Buried at Cambridge City Cemetery.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Ernest Coxhead",
+      "role": "Flight Engineer (ND981)",
+      "nationality": "British",
+      "burial_location": "Alfreton (Lea Brooks) Cemetery, Section B, Grave 641",
+      "fate": "Killed",
+      "fate_detail": "Buried at Alfreton Cemetery, Derbyshire.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Fl/Lt",
+      "name": "William James Hunt",
+      "role": "Navigator (ND981)",
+      "nationality": "British",
+      "burial_location": "Romford Cemetery, Section C.C., Grave 22",
+      "fate": "Killed",
+      "fate_detail": "Buried at Romford Cemetery, Essex.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "John Fairbairn",
+      "role": "Air Bomber (ND981)",
+      "nationality": "British",
+      "burial_location": "Knottingley Cemetery, Grave 5224",
+      "fate": "Killed",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "W/O",
+      "name": "Denis Gilbert Partos",
+      "role": "W/Op Air Gunner (ND981)",
+      "nationality": "British",
+      "burial_location": "New Southgate Cemetery, Sec G, Joint Grave 1662",
+      "fate": "Killed",
+      "fate_detail": "Held the Distinguished Flying Medal.",
+      "cwgc_verified": true,
+      "decorations": [
+        "DFM"
+      ]
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Paul Coman",
+      "role": "W/Op Air Gunner (ND981)",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Sole survivor. Bailed out as ND981 broke apart at 1,000 feet. Landed safely."
+    }
+  ],
+  "cause_of_loss": "Mid-air collision; ME625 trapped in slipstream of lead aircraft, struck ND981 removing its tail",
+  "operation_type": "Training",
+  "memorial_details": "A permanent memorial plaque was unveiled at Cloot House Farm on 23 June 2014 (70th anniversary). Australian relatives attended.",
+  "latitude": 52.338146651008664,
+  "longitude": -0.24989331975681073,
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered (Van Raalte)",
+      "original_url": "https://aircrewremembered.com/van-raalte-henry-stewart.html",
+      "summary": "Detailed account of ME625 OF-O in the mid-air collision on 23 June 1944.",
+      "key_details": [
+        "Van Raalte was Australian, aged 31",
+        "All 8 crew of ME625 killed"
+      ],
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "## INTRODUCTION\n\n## REASON FOR LOSS\n\n## 70th ANNIVERSARY MEMORIAL SERVICE\n\n## BIOGRAPHICAL DETAILS OF THE CREW\n\n## BURIAL DETAILS\n\n&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 23.06.1944 No. No. 97 Squadron Lancaster III ME625 OF-O Fl/Lt. Henry Stewart (Aus Jim) Van Raalte Operation: Training - formation flying practice\n\nDate: 23 June 1944 (Friday)\n\nUnit: No. 97 Squadron. Motto: \"Achieve your aim.\"\n\nBadge: An ogress pierced by an arrow, point downwards. The badge is indicative of accurate aim. Authority: King George VI, January 1937.\n\nType: Avro Lancaster Mark III\n\nBase: RAF Coningsby, Lincolnshire\n\nLocation: Near Cloot House Farm, Crowland, Lincolnshire.\n\nPilot: Fl/Lt. Henry Stewart (Aus Jim) Van Raalte Aus/415220 RAAF Age 31 - Killed (1)\n\nFl/Eng: F/Sgt. Maurice Durn 1622745 RAFVR Age 21 - Killed (2)\n\nNav: P/O. David Gethin Williams 78568 RAFVR Age 22 - Killed (3)\n\nAir/Bmr: W/O. Alfred Leonard Lambert Aus/409318 RAAF Age 25 - Killed (4)\n\nVis.Air/Bmr: F/O. Alan Arnold Aus/410136 RAAF Age 26 - Killed (5)\n\nW/Op/Air/Gnr: F/Sgt. Eric Henry Peace 1434302 RAFVR Age 22 - Killed (6)\n\nAir/Gnr (MU): F/Sgt. Royston George Davies 1315090 RAFVR Age 22 - Killed (7)\n\nAir/Gnr (R): Fl/Lt. John David Fletcher 115198 RAFVR Age 24 - Killed (8)\n\nWe appeal to anyone with further information and/or photographs to please contact us via our HELPDESK\n\nAus Jim Raalte, David Williams, Alfred Lambert, Eric Peace and Royston Davies had been together almost from the beginning, most likely having crewed up at OTU along with rear gunner Lionel Laurie and flight engineer Sgt. R.P. Smith. They joined No. 97, a Pathfinder Force Squadron on 30 November 1943.\n\nThe crew's first operational mission with the squadron was on 14/15 January 1944 to Brunswick which they negotiated safely. They then completed another three operations without mishap but on 28/29 January on a raid to Berlin they met considerable flak opposition over Kiel and their aircraft (Lancaster LM360 OF-O) sustained severe damage. F/Sgt Laurie, the rear gunner received severe shrapnel wounds to the head from which he died with the aircraft having to return to base on 3 engines.\n\nThe rear gunner's position was filled by Sgt. W. Benfell and in late March flight engineer Maurice Durn¹ joined the crew.\n\nThis remained the composition of the crew until the raid on Amiens on 19/20 May when Alan Arnold, a visual air bomber, became an additional eighth crew member and a few days later David Fletcher² joined the crew as rear gunner for the raid on the Phillip's Works at Eindhoven of 24/25 May.\n\nBy the end of May, Jim Raalte and the four remaining members of his original crew had completed 17 operations.\n\n¹Maurice Durn had just returned to the squadron after an absence of 3 months. He had been badly affected by a traumatic two weeks in December 1943. Firstly he had been wounded by flak and then on the very next night 3/4 December the other members of his crew had been lost during a raid to Leipzig. On his recovery he joined another crew but on 16 December whilst returning from a raid on Berlin lost and low on fuel the crew were forced to abandon the aircraft and bale out in fog over Ely.\n\n²David Fletcher had joined the squadron on 17 March and had flown five operational missions with two other crews.\n\nThe Squadron Operations Record Book entry for 3/4 June 1944 perhaps gives an insight into the quality of the crew.\n\n\" Although the whole Squadron stood by to operate tonight, only one crew was eventually detailed. It was a crew captained by F/L Van Raalte RAAF and specially trained in the use of the Semi-Automatic Bomb Sight Mark IIA. This bomb sight is the latest production model – gyroscopically stabilised in all planes, and is probably the most accurate bomb sight in use in Britain to date. The night’s target was a small but important wireless station at Ferme D’Urville just south east of Cherbourg Peninsula. The target was primarily marked by an Oboe red TI. The Controller in a Lancaster assessed this TI as being on the target. It was immediately backed up by green TIs dropped by F/L Van Raalte and another specially trained crew from 83 Squadron. Main Force bombing was excellent and the target was obliterated. There was no fighter opposition, flak was light and visibility perfect. A most successful attack.\"\n\nThe crew fulfilled a similar role again on D-Day along with another specially trained crew from 83 Squadron, the two Pathfinder crews leading the attack on the battery at La Peanelle."
+    },
+    {
+      "source_site": "Aircrew Remembered (Perkins)",
+      "original_url": "https://aircrewremembered.com/perkins-edward-leslie-john.html",
+      "summary": "Account of ND981 OF-T. Tail removed by collision. Sgt Coman sole survivor.",
+      "key_details": [
+        "Tail section completely removed",
+        "Sgt Coman only survivor"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/177573/",
+      "summary": "Memorial plaque at Cloot House Farm, unveiled 23 June 2014.",
+      "key_details": [
+        "70th anniversary unveiling"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/88630",
+      "summary": "13 crew commemorated.",
+      "key_details": [
+        "IWM memorial reference 88630"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/97.jpg",
+  "squadron_motto": "Achieve your aim",
+  "what3words": "thinker.seducing.directly",
+  "photos": [
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lancaster-mark-iiis-w800-w800.jpg",
+      "caption": "lancaster mark iiis",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/crew-me625-w800-w800.jpg",
+      "caption": "crew me625",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/me625-map-w800-w800.jpg",
+      "caption": "me625 map",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/memorial-service-picture-me625-2-w800-w800.jpg",
+      "caption": "memorial service picture me625 2",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/plaque-gathering-cloot-house-soft-w800-w800.jpg",
+      "caption": "plaque gathering cloot house soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/the-plaque-w800-w800.jpg",
+      "caption": "the plaque",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/maurice-durn-soft-w800-w800.jpg",
+      "caption": "maurice durn soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/david-gethin-williams-soft-w800-w800.jpg",
+      "caption": "david gethin williams soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/alfred-lambert-w800-w800.jpg",
+      "caption": "alfred lambert",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lambert-new-clip-w800-w800.jpg",
+      "caption": "lambert new clip",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/arnold-news-clip-w800-w800.jpg",
+      "caption": "arnold news clip",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/j-d-fletcher-soft-w800-w800.jpg",
+      "caption": "j d fletcher soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/cambridge-city-cemetery-soft-w800-w800.jpg",
+      "caption": "cambridge city cemetery soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/st-martholomews-marsden-2-w800.jpg",
+      "caption": "st martholomews marsden 2",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/treorchy-cemetery-soft-w800-w800.jpg",
+      "caption": "treorchy cemetery soft",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/perkins-crew-smaller-version-w800-w800.jpg",
+      "caption": "perkins crew smaller version",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/e-l-j-perkins-w800-w800.jpg",
+      "caption": "e l j perkins",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/lancaster-b-mark-iiis-of-619-sqn-3-w800-w800.jpg",
+      "caption": "lancaster b mark iiis of 619 sqn 3",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/map-nd981-1-w800-w800.jpg",
+      "caption": "map nd981 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/perkins-funeral-w800-w800.jpg",
+      "caption": "perkins funeral",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/memorial-service-picture-me625-3-w800-w800.jpg",
+      "caption": "memorial service picture me625 3",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/plaque-gathering-cloot-house-soft-1-w800-w800.jpg",
+      "caption": "plaque gathering cloot house soft 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/the-plaque-1-w800-w800.jpg",
+      "caption": "the plaque 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/edward-perkins-and-his-moter-w800-w800.jpg",
+      "caption": "edward perkins and his moter",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-b-w800-w800.jpg",
+      "caption": "frank ernest coxhead b",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/coxhead-1st-left-2nd-row-from-front-w800-w800.png",
+      "caption": "coxhead 1st left 2nd row from front",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-d-1-w800-1-w800.jpg",
+      "caption": "frank ernest coxhead d 1 w800 1",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/frank-ernest-coxhead-e-w800-w800.jpg",
+      "caption": "frank ernest coxhead e",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311a31d08_DSCF0718_547x410.JPG",
+      "caption": "Cloot Drove Lancaster Mid-Air Collision Memorial — photograph",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311aa7276_DSCF0721_547x410.JPG",
+      "caption": "Cloot Drove Lancaster Mid-Air Collision Memorial — photograph",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311b0c40a_DSCF0724_547x410.JPG",
+      "caption": "Cloot Drove Lancaster Mid-Air Collision Memorial — photograph",
+      "credit": "Charles J Anderson / War Memorials Online"
+    },
+    {
+      "filename": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-/5bab311b617d4_DSCF0726_547x410.JPG",
+      "caption": "Cloot Drove Lancaster Mid-Air Collision Memorial — photograph",
+      "credit": "Charles J Anderson / War Memorials Online"
+    }
+  ]
 }

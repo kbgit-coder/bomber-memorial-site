@@ -19,8 +19,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 53.327,
-    "longitude": -1.837,
+    "latitude": 53.238864163195956,
+    "longitude": -1.771642709129915,
     "maintainer": {
         "organisation": "Peak District National Park Authority",
         "website": "https://www.peakdistrict.gov.uk",
@@ -85,18 +85,5 @@
             "website": "https://counties.britishlegion.org.uk/counties/derbyshire/branches/"
         }
     ],
-    "what3words": "wanderers.expropriate.spiders",
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon OSM — Rushup Edge Peak District at 53.327 -1.837",
-            "Current 53.239 -1.772 ~10km south/slightly east"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "CORRECTION. Current coords (53.239, -1.772) ~10km south of Rushup Edge. OSM named ridge at 53.327, -1.837 in Peak District.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "grumble.yield.dollars"
 }

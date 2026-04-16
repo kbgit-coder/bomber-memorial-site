@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-23",
-  "data_quality": "Complete",
+  "data_quality": "Comprehensive",
   "narrative": "On the night of 3/4 June 1940, during the desperate early months of the war, Hampden P1340 of 44 (Rhodesia) Squadron took off from RAF Waddington in Lincolnshire for a bombing mission against Emmerich on the German-Dutch border. The Hampden was one of the RAF's frontline medium bombers at this stage of the war, and 44 Squadron was heavily engaged in operations over occupied Europe. Returning from the sortie, the Hampden flew into the barrage balloon defences protecting the port of Harwich and the approaches to the Orwell and Stour estuaries. In the darkness, the pilot had no warning before the aircraft's wing struck a barrage balloon cable. The cable sliced through the aircraft structure, sending the Hampden plunging into the waters near Shotley Point. The pilot, Sergeant Edwin Spencer, was rescued from the water by Petty Officer B. Driver of the Royal Navy. However, the three other crew members -- all aged just twenty years old -- were never recovered. Their bodies remained in the wreckage, which was partially trawled up from the docks area in the 1980s, but no human remains were identified. All three are commemorated on the Runnymede Memorial, the RAF's memorial to aircrew with no known grave.",
   "crew": [
     {
@@ -69,8 +69,8 @@
       "cwgc_verified": true
     }
   ],
-  "latitude": 51.9557,
-  "longitude": 1.313,
+  "latitude": 51.9397,
+  "longitude": 1.317,
   "cause_of_loss": "Collided with barrage balloon cable near Harwich while returning from operations",
   "operation_type": "Operational",
   "operation_target": "Bombing sortie to Emmerich, Germany",
@@ -112,8 +112,8 @@
     }
   ],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/44.jpg",
-  "squadron_motto": "Fulmina regis iusta",
-  "what3words": "cackling.half.nation",
+  "squadron_motto": "The king's thunderbolts",
+  "what3words": "half.trickled.strict",
   "photos": [
     {
       "filename": "felixstowe-docks-hampden-p-1340/44-squadron-hampden-i-p1340-w800-w800.jpg",
@@ -125,18 +125,5 @@
       "caption": "44 squadron hampden i p1340 memorial",
       "credit": "Aircrew Remembered"
     }
-  ],
-  "location_confidence": {
-    "status": "approximate",
-    "score": 1,
-    "sources": [
-      "Photon — Port of Felixstowe industrial area at 51.9557 1.3130",
-      "Current 51.9397 ~1.8km south of main port facility"
-    ],
-    "verified_by": "Holly (PAI)",
-    "verification_date": "2026-04-05",
-    "verification_notes": "Minor correction. Current coords (51.9397, 1.317) ~1.8km south of Port of Felixstowe. Corrected to port/docks area at 51.9557 1.3130.",
-    "community_submissions": 0,
-    "last_reviewed": "2026-04-06"
-  }
+  ]
 }

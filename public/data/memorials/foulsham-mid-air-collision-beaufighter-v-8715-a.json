@@ -19,8 +19,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 52.784,
-    "longitude": 1.012,
+    "latitude": 52.58755491677026,
+    "longitude": 0.861953975042166,
     "maintainer": {
         "organisation": "Foulsham Parish Council",
         "maintainer_type": "parish-council"
@@ -56,18 +56,5 @@
             "role": "Local authority responsible for memorial upkeep"
         }
     ],
-    "what3words": "graced.wager.callers",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Photon — Foulsham village Norfolk at 52.7840 1.0120",
-            "Current 52.588 0.862 ~22km SW near Swaffham/Litcham — wrong"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Previous coords (52.588, 0.862) ~22km SW of Foulsham village. Corrected to 52.7840 1.0120.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "abode.repelled.forensic"
 }

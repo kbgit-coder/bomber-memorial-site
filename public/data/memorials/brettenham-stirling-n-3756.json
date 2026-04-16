@@ -1,169 +1,156 @@
 {
-    "id": "brettenham-stirling-n-3756",
-    "title": "Brettenham N.3756 Memorial",
-    "location_name": "Brettenham, Suffolk",
-    "county": "Suffolk",
-    "country": "United Kingdom",
-    "region_code": "SF-002",
-    "crash_date": "1942-08-12",
-    "aircraft_type": "Stirling I",
-    "serial_number": "N3756",
-    "aircraft_code": "LS-C",
-    "squadron": "15 Squadron",
-    "station": "Wyton",
-    "crew_summary": "6 killed; 1 survivor (Flt Sgt. William E. Egri, DFM)",
-    "memorial_type": "Aluminium plaque on oak posts at edge of crash crater",
-    "sources": [
-        {
-            "title": "Geograph Suffolk",
-            "url": "https://www.geograph.org.uk/photo/6407789",
-            "type": "website"
-        },
-        {
-            "title": "IWM War Memorials Register",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/13247",
-            "type": "database"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the night of 12 August 1942, Stirling N3756 of 15 Squadron took part in a bombing raid on Mainz in western Germany. The large four-engine Stirling, coded LS-C, sustained serious damage from anti-aircraft fire (flak) and enemy fighter attacks during the mission. With engines failing and crew members injured, the pilot, Flight Sergeant McCausland of the Royal Canadian Air Force, turned for home. Crossing the English coast, McCausland made for RAF Wattisham in Suffolk, the nearest suitable airfield. Despite his best efforts, the damaged Stirling could not hold a stable approach. The crew made two aborted attempts to land at Wattisham before the aircraft's remaining engines gave out. On the third and final approach, the Stirling crashed into a pond near Potash Farm at Brettenham. Six of the crew, including McCausland, were killed. The sole survivor was Flight Sergeant William Ernest Egri, who had been awarded the Distinguished Flying Medal for his bravery during previous operations. The memorial at the crash site near Francis House, Brettenham, commemorates the crew of these \"young airmen\" who died after a successful mission but could not make it home.",
-    "crew": [
-        {
-            "rank": "F/Sgt",
-            "name": "William Alfred Delmore McCausland",
-            "role": "Pilot",
-            "nationality": "Canadian",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed when Stirling N3756 crashed into a pond at Brettenham on its third attempt to land at RAF Wattisham. Despite heroic efforts to bring the damaged aircraft home from Mainz, McCausland could not keep the Stirling stable.",
-            "cwgc_verified": true,
-            "bio": "McCausland was a Canadian serving with the RCAF. He displayed great skill and courage in attempting to bring the badly damaged Stirling home from the Mainz raid."
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Frederick William Nixon",
-            "role": "Air Bomber",
-            "nationality": "Canadian",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Brettenham. Canadian crew member of 15 Squadron.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Peter Busby",
-            "role": "Flight Engineer",
-            "nationality": "British",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Brettenham.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "John Bentley Hammond",
-            "role": "Navigator",
-            "nationality": "British",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Brettenham.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Raymond Douglas Tree",
-            "role": "Wireless Operator/Air Gunner",
-            "nationality": "British",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Brettenham.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "Sgt",
-            "name": "Terence Alfred Mills",
-            "role": "Air Gunner",
-            "nationality": "British",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at Brettenham.",
-            "cwgc_verified": true
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "William Ernest Egri",
-            "role": "Air Gunner",
-            "nationality": "Canadian",
-            "fate": "Survived",
-            "fate_detail": "Sole survivor of the crash. Previously awarded the Distinguished Flying Medal for bravery during operations.",
-            "decorations": [
-                "DFM"
-            ],
-            "cwgc_verified": false
-        }
-    ],
-    "latitude": 52.1491,
-    "longitude": 0.8793,
-    "cause_of_loss": "Aircraft damaged by flak and enemy fighter fire over target; engine trouble; attempted two approaches to Wattisham Airfield but crashed into a pond on third attempt",
-    "operation_type": "Operational",
-    "operation_target": "Returning from bombing raid on Mainz, Germany",
-    "memorial_details": "An aluminium plaque mounted on oak posts at the edge of the crash crater near Francis House, Brettenham, Babergh, Suffolk IP7 7NZ. IWM reference WMR-13247.",
-    "maintainer": {
-        "organisation": "Brettenham Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "brettenham-stirling-n-3756",
+  "title": "Brettenham N.3756 Memorial",
+  "location_name": "Brettenham, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-002",
+  "crash_date": "1942-08-12",
+  "aircraft_type": "Stirling I",
+  "serial_number": "N3756",
+  "aircraft_code": "LS-C",
+  "squadron": "15 Squadron",
+  "station": "Wyton",
+  "crew_summary": "6 killed; 1 survivor (Flt Sgt. William E. Egri, DFM)",
+  "memorial_type": "Aluminium plaque on oak posts at edge of crash crater",
+  "sources": [
+    {
+      "title": "Geograph Suffolk",
+      "url": "https://www.geograph.org.uk/photo/6407789",
+      "type": "website"
     },
-    "external_narratives": [
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/13247",
-            "summary": "IWM records the memorial to the crew of Stirling Bomber LS-C N3756 at Francis House, Brettenham, Suffolk. Six of the seven crew were killed after a successful bombing raid on Mainz on 12 August 1942.",
-            "key_details": [
-                "IWM reference: WMR-13247",
-                "Memorial consists of aluminium plaque on oak posts at edge of crash crater"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        },
-        {
-            "source_site": "Geograph",
-            "original_url": "https://www.geograph.org.uk/photo/6407789",
-            "summary": "Photograph of the memorial to Stirling N3756 LS-C at Brettenham, showing the plaque mounted on oak posts near the pond where the aircraft crashed on its third attempt to land at Wattisham.",
-            "key_details": [
-                "Memorial near pond/crash crater at Francis House"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Stowmarket & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Brettenham Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/15.jpg",
-    "squadron_motto": "Aim sure",
-    "what3words": "impresses.simple.bothered",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Postcodes.io (IP7 52.1505 0.8733)",
-            "Photon geocoder (52.1509 0.8731)"
-        ],
-        "verified_by": "Holly (PAI research agent)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "Holly (PAI)",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/13247",
+      "type": "database"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Comprehensive",
+  "narrative": "On the night of 12 August 1942, Stirling N3756 of 15 Squadron took part in a bombing raid on Mainz in western Germany. The large four-engine Stirling, coded LS-C, sustained serious damage from anti-aircraft fire (flak) and enemy fighter attacks during the mission. With engines failing and crew members injured, the pilot, Flight Sergeant McCausland of the Royal Canadian Air Force, turned for home. Crossing the English coast, McCausland made for RAF Wattisham in Suffolk, the nearest suitable airfield. Despite his best efforts, the damaged Stirling could not hold a stable approach. The crew made two aborted attempts to land at Wattisham before the aircraft's remaining engines gave out. On the third and final approach, the Stirling crashed into a pond near Potash Farm at Brettenham. Six of the crew, including McCausland, were killed. The sole survivor was Flight Sergeant William Ernest Egri, who had been awarded the Distinguished Flying Medal for his bravery during previous operations. The memorial at the crash site near Francis House, Brettenham, commemorates the crew of these \"young airmen\" who died after a successful mission but could not make it home.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "William Alfred Delmore McCausland",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed when Stirling N3756 crashed into a pond at Brettenham on its third attempt to land at RAF Wattisham. Despite heroic efforts to bring the damaged aircraft home from Mainz, McCausland could not keep the Stirling stable.",
+      "cwgc_verified": true,
+      "bio": "McCausland was a Canadian serving with the RCAF. He displayed great skill and courage in attempting to bring the badly damaged Stirling home from the Mainz raid."
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Frederick William Nixon",
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Brettenham. Canadian crew member of 15 Squadron.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Peter Busby",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Brettenham.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Bentley Hammond",
+      "role": "Navigator",
+      "nationality": "British",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Brettenham.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Douglas Tree",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Brettenham.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Terence Alfred Mills",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at Brettenham.",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "William Ernest Egri",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Survived",
+      "fate_detail": "Sole survivor of the crash. Previously awarded the Distinguished Flying Medal for bravery during operations.",
+      "decorations": [
+        "DFM"
+      ],
+      "cwgc_verified": false
+    }
+  ],
+  "latitude": 52.1491,
+  "longitude": 0.8793,
+  "cause_of_loss": "Aircraft damaged by flak and enemy fighter fire over target; engine trouble; attempted two approaches to Wattisham Airfield but crashed into a pond on third attempt",
+  "operation_type": "Operational",
+  "operation_target": "Returning from bombing raid on Mainz, Germany",
+  "memorial_details": "An aluminium plaque mounted on oak posts at the edge of the crash crater near Francis House, Brettenham, Babergh, Suffolk IP7 7NZ. IWM reference WMR-13247.",
+  "maintainer": {
+    "organisation": "Brettenham Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/13247",
+      "summary": "IWM records the memorial to the crew of Stirling Bomber LS-C N3756 at Francis House, Brettenham, Suffolk. Six of the seven crew were killed after a successful bombing raid on Mainz on 12 August 1942.",
+      "key_details": [
+        "IWM reference: WMR-13247",
+        "Memorial consists of aluminium plaque on oak posts at edge of crash crater"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    },
+    {
+      "source_site": "Geograph",
+      "original_url": "https://www.geograph.org.uk/photo/6407789",
+      "summary": "Photograph of the memorial to Stirling N3756 LS-C at Brettenham, showing the plaque mounted on oak posts near the pond where the aircraft crashed on its third attempt to land at Wattisham.",
+      "key_details": [
+        "Memorial near pond/crash crater at Francis House"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Stowmarket & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Brettenham Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/15.jpg",
+  "squadron_motto": "Aim sure",
+  "what3words": "impresses.simple.bothered"
 }

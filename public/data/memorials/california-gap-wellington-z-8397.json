@@ -1,209 +1,196 @@
 {
-    "id": "california-gap-wellington-z-8397",
-    "title": "California Gap Z.8397 Memorial",
-    "location_name": "California Gap, Norfolk",
-    "county": "Norfolk",
-    "country": "United Kingdom",
-    "region_code": "NF-007",
-    "crash_date": "1941-10-11",
-    "aircraft_type": "Wellington II",
-    "serial_number": "Z8397",
-    "squadron": "12 Squadron",
-    "station": "Binbrook",
-    "crew_summary": "6 killed including pilot Sgt. Frank Hugh Neville Tothill",
-    "memorial_type": "Memorial plaque on California Tavern building",
-    "sources": [
-        {
-            "title": "Geograph Norfolk",
-            "type": "website"
-        },
-        {
-            "title": "Aircrew Remembered - Tothill",
-            "url": "https://aircrewremembered.com/tothill-frank.html",
-            "type": "website"
-        },
-        {
-            "title": "IWM War Memorials Register",
-            "url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
-            "type": "database"
-        }
-    ],
-    "contributor": "Keith Binley",
-    "last_updated": "2026-03-23",
-    "data_quality": "Complete",
-    "narrative": "On the night of 10/11 October 1941, Wellington II Z8397 of 12 Squadron took off from RAF Binbrook at 23:52 to attack Cologne. Shortly after departure, the aircraft developed engine problems and the pilot decided to return. Unable to reach Binbrook, Sgt Tothill attempted a crash-landing on the beach at California Gap near Caister-on-Sea, Norfolk, touching down at approximately 01:30. Some reports state that after coming to rest, the aircraft struck a mine on the beach which exploded, killing all six crew members. The memorial plaque on the California Tavern building commemorates these airmen.",
-    "crew": [
-        {
-            "rank": "Sgt",
-            "name": "Frank Hugh Neville Tothill",
-            "service_number": "927548",
-            "role": "Pilot",
-            "nationality": "British",
-            "burial_location": "Moggerhanger (St. John) Churchyard",
-            "fate": "Killed",
-            "fate_detail": "Killed when Wellington Z8397 crash-landed on the beach at California Gap and reportedly struck a mine. Buried at Moggerhanger (St. John) Churchyard.",
-            "cwgc_verified": true,
-            "bio": "Sgt Tothill was 25 years old, the son of Charity Wish Tothill of Moggerhanger, Bedfordshire.",
-            "hometown": "Moggerhanger, Bedfordshire",
-            "age": 25
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "James Lennox Scott Dunlop",
-            "service_number": "R/67572",
-            "role": "2nd Pilot",
-            "nationality": "Canadian",
-            "burial_location": "Stevenson (New Street) Cemetery, Section M, North Extension, Grave 22-23",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Canadian crew member buried at Stevenson Cemetery.",
-            "cwgc_verified": true,
-            "age": 23
-        },
-        {
-            "rank": "Sgt",
-            "name": "Alfred Edward Cosgrove",
-            "service_number": "968259",
-            "role": "Observer",
-            "nationality": "British",
-            "burial_location": "Moston St. Joseph's Roman Catholic Cemetery, St. Anthony Section, Grave 622",
-            "fate": "Killed",
-            "fate_detail": "Known as 'Teddy'. Killed in the crash at California Gap. Buried at Moston Cemetery, Manchester.",
-            "cwgc_verified": true,
-            "age": 20
-        },
-        {
-            "rank": "F/Sgt",
-            "name": "Aldwyn Anthony Nordon",
-            "service_number": "653750",
-            "role": "Wireless Operator/Air Gunner",
-            "nationality": "British",
-            "burial_location": "Barnsley (Carlton) Cemetery, Section A, Grave 121",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Buried at Barnsley (Carlton) Cemetery.",
-            "cwgc_verified": true,
-            "age": 20
-        },
-        {
-            "rank": "Sgt",
-            "name": "Raymond Henry Todman",
-            "service_number": "908659",
-            "role": "Wireless Operator/Air Gunner",
-            "nationality": "British",
-            "burial_location": "Not confirmed",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash at California Gap.",
-            "cwgc_verified": true,
-            "age": 21
-        },
-        {
-            "rank": "Sgt",
-            "name": "Arthur Pilkington",
-            "service_number": "917339",
-            "role": "Air Gunner",
-            "nationality": "British",
-            "burial_location": "Scottow Cemetery, Grave 261",
-            "fate": "Killed",
-            "fate_detail": "Killed in the crash. Buried at Scottow Cemetery, Norfolk.",
-            "cwgc_verified": true,
-            "age": 22
-        }
-    ],
-    "latitude": 52.6469,
-    "longitude": 1.7278,
-    "cause_of_loss": "Engine problems after takeoff; crash-landed on beach; reportedly struck a mine after landing",
-    "operation_type": "Operational",
-    "operation_target": "Cologne (aborted — returned with engine trouble)",
-    "memorial_details": "Memorial plaque on the California Tavern building at California Gap, near Caister-on-Sea, Norfolk. IWM memorial reference 101410.",
-    "maintainer": {
-        "organisation": "Scratby and California Parish Council",
-        "maintainer_type": "parish-council"
+  "id": "california-gap-wellington-z-8397",
+  "title": "California Gap Z.8397 Memorial",
+  "location_name": "California Gap, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "region_code": "NF-007",
+  "crash_date": "1941-10-11",
+  "aircraft_type": "Wellington II",
+  "serial_number": "Z8397",
+  "squadron": "12 Squadron",
+  "station": "Binbrook",
+  "crew_summary": "6 killed including pilot Sgt. Frank Hugh Neville Tothill",
+  "memorial_type": "Memorial plaque on California Tavern building",
+  "sources": [
+    {
+      "title": "Geograph Norfolk",
+      "type": "website"
     },
-    "external_narratives": [
-        {
-            "source_site": "Aircrew Remembered",
-            "original_url": "https://aircrewremembered.com/tothill-frank.html",
-            "summary": "Aircrew Remembered documents the loss of Wellington Z8397 of 12 Squadron on 10/11 October 1941. The aircraft took off from RAF Binbrook to attack Cologne but returned with engine problems and crash-landed on the beach at California Gap near Caister-on-Sea. Reports suggest the aircraft struck a mine after landing, killing all six crew.",
-            "key_details": [
-                "Target: Cologne",
-                "Crashed on beach at California Gap",
-                "Reports of aircraft touching a mine after landing",
-                "All six crew killed, ages 20-25"
-            ],
-            "date_retrieved": "2026-03-24",
-            "still_live": true,
-            "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 10/11.10.1941 No. 12 Squadron Wellington II Z8397 Sgt. Tothill Operation: Köln (Cologne)\n\nDate: 10/11th October 1941 (Friday/Saturday)\n\nUnit: No. 12 Squadron\n\nBase: RAF Binbrook, Lincolnshire\n\nLocation: California Sands, Caister-On-Sea, Norfolk\n\nPilot: Sgt. Frank Hugh Neville Tothill 927548 RAFVR Age 25. Killed\n\nPilot 2: Fl/Sgt. James Lennox Scott Dunlop R/67572 RCAF Age 23. Killed\n\nObs: Sgt. Alfred Edward (Teddy) Cosgrove 968259 RAFVR Age 20. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. Aldwyn Anthony Nordon 653750 RAF Age 20. Killed\n\nW/Op/Air/Gnr: Sgt. Raymond Henry Todman 908659 RAFVR Age 21. Killed\n\nAir/Gnr: Sgt. Arthur Pilkington 917339 RAFVR Age 22. Killed\n\nTook off at 23:52 hrs from RAF Binbrook to attack Köln but after a short while returned with what is assumed a problem with the engines. During the return the pilot's decided to crash land the aircraft on the beach at California Gap near Caister-On-Sea, Norfolk. Which they did at around 01:30 hrs.\n\nSome reports state that after coming to rest the aircraft touched a mine which exploded - killing all the crew.\n\nWe have an eye witness report stating that the beach in this area was not mined and in fact he was playing in that area shortly before the crash. However it is of course possible that they hit a rogue mine. The eye witness did say that the aircraft was lifted from the beach a few days later with cranes form the cliff tops.\n\nHis father was the local ARP and he decided with help from the people in the village to place the bodies in a holiday chalet owned by a business man from Cambridge. Mr Tennant had been given the keys to the chalet for him to look after.\n\nWe are in contact with one relative from the crew and they have requested a memorial plaque to be placed at or near the crash location. We are currently investigating this possibility.\n\n(Understood that a plaque has now been placed on the wall of the Californian Tavern overlooking the area. The Webmaster noticed this in August 2016 - Don Butt submitted this photo in September 2016)\n\nSgt. Frank Hugh Neville Tothill. Moggerhanger (St. John) Churchyard. N.E. of Church. Son of Charity Wish Tothill, of Moggerhanger, Bedfordshire, England.\n\nFl/Sgt. James Lennox Scott Dunlop. Stevenson (New Street) Cemetery Sec. M. North Extn. Grave 22-23. Son of Alexander and Mary (nee Scott) Dunlop, of Stevenston, Ayrshire and 434 Eighth Street, Niagara Falls, New York. Ex pupil of the University of Chicago. Also engaged to Miss Deise de Wolf a member of the A.T.S. in England.\n\n(left - Manchester Evening News)\n\nSgt. Alfred Edward Cosgrove. Moston St. Joseph's) Roman Catholic Cemetery St. Anthony Sed. Grave 622. Born on the 19th May 1921. Son of Alfred Joseph and Catherine Mary Cosgrove, of 11 Albany Avenue, Higher Openshaw, Manchester, England. Formally employed as a laboratory assistant with the Calico Printers Association.\n\nFl/Sgt. Aldwyn Anthony Nordon. Barnsley (Carlton) Cemetery Sec A. Grave 121. Son of Charles and Lillian May Nordon, of 20, Maybank, Cronkill Lane, Carlton, Barnsley. Formally of Barnsley and District Holgate Grammar School.\n\nSgt. Raymond Henry Todman. Littlehapton Cemetery Sec D. Grave 4230. Son of Harry Thomas Todman and Kathleen Elizabeth Todman, 71 South Terrace, Littlehampton, Sussex, England, husband of Peggy Margaret May (nee Clarke).Formally employed with Littlehampton District Council and also Worthing Rural District Council. His wife Peggy, was the 150 yards sprint champion of Essex for 3 successive years - she also won national fame by coming 2nd in All-England International Sports meeting at Margate in 1938.\n\nSgt. Arthur Pilkington. Scottow Cemetery Grave 261. Also remembered on the Mercer Park Memorial at Accrington, Lancashire. Son of Dixon and Emily V. Pilkington, of Clayton-le-Moors, Accrington, Lancashire, England.\n\nResearched with information supplied by Peter Tennant. Thanks also to Don Butt and Richard Walker for photographs of the plaque - September 2016. Thanks also to John Wilson for the newspaper clipping for Sgt. Alfred E. Cosgrove. With thanks to sources shown below.\n\nRS - 10.08.2018 - Addition of Newspaper clipping\n\n- 12 Squadron Wellington II Z8397 Sgt. Tothill Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago."
-        },
-        {
-            "source_site": "IWM War Memorials Register",
-            "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
-            "summary": "IWM records the memorial to the crew of Wellington Z8397 at California Gap, Norfolk. The memorial plaque is located on the California Tavern building.",
-            "key_details": [
-                "IWM reference: memorial/101410",
-                "Memorial plaque on California Tavern building"
-            ],
-            "date_retrieved": "2026-03-23",
-            "still_live": true
-        }
-    ],
-    "local_contacts": [
-        {
-            "org_name": "Mundesley & District Royal British Legion",
-            "org_type": "british_legion",
-            "role": "Local remembrance and memorial support",
-            "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
-        },
-        {
-            "org_name": "Scratby and California Parish Council",
-            "org_type": "parish_council",
-            "role": "Local authority responsible for memorial upkeep"
-        }
-    ],
-    "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
-    "squadron_motto": "Leads the field",
-    "what3words": "thing.loyal.vines",
-    "photos": [
-        {
-            "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z8397-crew-w800-w800.jpg",
-            "caption": "12 squadron wellington ii z8397 crew",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z839-california-sands-w800-w800.jpg",
-            "caption": "12 squadron wellington ii z839 california sands",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z8397-memorial-plaque-w800-w800.jpg",
-            "caption": "12 squadron wellington ii z8397 memorial plaque",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "california-gap-wellington-z-8397/californian-tavern-w800-w800.jpg",
-            "caption": "californian tavern",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "california-gap-wellington-z-8397/flsgt-aldwyn-anthony-nordon-653750-raf-grave-w800-w800.jpg",
-            "caption": "flsgt aldwyn anthony nordon 653750 raf grave",
-            "credit": "Aircrew Remembered"
-        },
-        {
-            "filename": "california-gap-wellington-z-8397/alfred-e-cosgrove-w800-1-w800.jpg",
-            "caption": "alfred e cosgrove w800 1",
-            "credit": "Aircrew Remembered"
-        }
-    ],
-    "location_confidence": {
-        "status": "confirmed",
-        "score": 2,
-        "sources": [
-            "Photon geocoder — California village at 52.673, 1.718 (Ormesby St Margaret with Scratby parish)",
-            "Caister-on-Sea at 52.651, 1.724 confirms coastal strip context"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "ACCURATE. Current coords (52.6469, 1.7278) sit 3km south of California village on Norfolk coast between Caister and Scratby — consistent with a coastal dune gap position. No contradicting source found. Confidence upgraded from estimated to confirmed.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
+    {
+      "title": "Aircrew Remembered - Tothill",
+      "url": "https://aircrewremembered.com/tothill-frank.html",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
+      "type": "database"
     }
+  ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-03-23",
+  "data_quality": "Comprehensive",
+  "narrative": "On the night of 10/11 October 1941, Wellington II Z8397 of 12 Squadron took off from RAF Binbrook at 23:52 to attack Cologne. Shortly after departure, the aircraft developed engine problems and the pilot decided to return. Unable to reach Binbrook, Sgt Tothill attempted a crash-landing on the beach at California Gap near Caister-on-Sea, Norfolk, touching down at approximately 01:30. Some reports state that after coming to rest, the aircraft struck a mine on the beach which exploded, killing all six crew members. The memorial plaque on the California Tavern building commemorates these airmen.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Frank Hugh Neville Tothill",
+      "service_number": "927548",
+      "role": "Pilot",
+      "nationality": "British",
+      "burial_location": "Moggerhanger (St. John) Churchyard",
+      "fate": "Killed",
+      "fate_detail": "Killed when Wellington Z8397 crash-landed on the beach at California Gap and reportedly struck a mine. Buried at Moggerhanger (St. John) Churchyard.",
+      "cwgc_verified": true,
+      "bio": "Sgt Tothill was 25 years old, the son of Charity Wish Tothill of Moggerhanger, Bedfordshire.",
+      "hometown": "Moggerhanger, Bedfordshire",
+      "age": 25
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "James Lennox Scott Dunlop",
+      "service_number": "R/67572",
+      "role": "2nd Pilot",
+      "nationality": "Canadian",
+      "burial_location": "Stevenson (New Street) Cemetery, Section M, North Extension, Grave 22-23",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Canadian crew member buried at Stevenson Cemetery.",
+      "cwgc_verified": true,
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alfred Edward Cosgrove",
+      "service_number": "968259",
+      "role": "Observer",
+      "nationality": "British",
+      "burial_location": "Moston St. Joseph's Roman Catholic Cemetery, St. Anthony Section, Grave 622",
+      "fate": "Killed",
+      "fate_detail": "Known as 'Teddy'. Killed in the crash at California Gap. Buried at Moston Cemetery, Manchester.",
+      "cwgc_verified": true,
+      "age": 20
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Aldwyn Anthony Nordon",
+      "service_number": "653750",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "burial_location": "Barnsley (Carlton) Cemetery, Section A, Grave 121",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Buried at Barnsley (Carlton) Cemetery.",
+      "cwgc_verified": true,
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Henry Todman",
+      "service_number": "908659",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "burial_location": "Not confirmed",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash at California Gap.",
+      "cwgc_verified": true,
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur Pilkington",
+      "service_number": "917339",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "burial_location": "Scottow Cemetery, Grave 261",
+      "fate": "Killed",
+      "fate_detail": "Killed in the crash. Buried at Scottow Cemetery, Norfolk.",
+      "cwgc_verified": true,
+      "age": 22
+    }
+  ],
+  "latitude": 52.6469,
+  "longitude": 1.7278,
+  "cause_of_loss": "Engine problems after takeoff; crash-landed on beach; reportedly struck a mine after landing",
+  "operation_type": "Operational",
+  "operation_target": "Cologne (aborted — returned with engine trouble)",
+  "memorial_details": "Memorial plaque on the California Tavern building at California Gap, near Caister-on-Sea, Norfolk. IWM memorial reference 101410.",
+  "maintainer": {
+    "organisation": "Scratby and California Parish Council",
+    "maintainer_type": "parish-council"
+  },
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/tothill-frank.html",
+      "summary": "Aircrew Remembered documents the loss of Wellington Z8397 of 12 Squadron on 10/11 October 1941. The aircraft took off from RAF Binbrook to attack Cologne but returned with engine problems and crash-landed on the beach at California Gap near Caister-on-Sea. Reports suggest the aircraft struck a mine after landing, killing all six crew.",
+      "key_details": [
+        "Target: Cologne",
+        "Crashed on beach at California Gap",
+        "Reports of aircraft touching a mine after landing",
+        "All six crew killed, ages 20-25"
+      ],
+      "date_retrieved": "2026-03-24",
+      "still_live": true,
+      "full_narrative": "&bull; Kracker Archive &bull; Allied Losses &bull; Archiwum Polish &bull; Paradie Canadian &bull; RCAF &bull; RAAF &bull; RNZAF &bull; USA &bull; Searchable Lists Add to or correct this story with a few clicks. Archive Report: Allied Forces Compiled from official National Archive and Service sources, contemporary press reports, personal logbooks, diaries and correspondence, reference books, other sources, and interviews. Check our Research databases: Database List . We seek additional information and photographs. Please contact us via the Helpdesk. 10/11.10.1941 No. 12 Squadron Wellington II Z8397 Sgt. Tothill Operation: Köln (Cologne)\n\nDate: 10/11th October 1941 (Friday/Saturday)\n\nUnit: No. 12 Squadron\n\nBase: RAF Binbrook, Lincolnshire\n\nLocation: California Sands, Caister-On-Sea, Norfolk\n\nPilot: Sgt. Frank Hugh Neville Tothill 927548 RAFVR Age 25. Killed\n\nPilot 2: Fl/Sgt. James Lennox Scott Dunlop R/67572 RCAF Age 23. Killed\n\nObs: Sgt. Alfred Edward (Teddy) Cosgrove 968259 RAFVR Age 20. Killed\n\nW/Op/Air/Gnr: Fl/Sgt. Aldwyn Anthony Nordon 653750 RAF Age 20. Killed\n\nW/Op/Air/Gnr: Sgt. Raymond Henry Todman 908659 RAFVR Age 21. Killed\n\nAir/Gnr: Sgt. Arthur Pilkington 917339 RAFVR Age 22. Killed\n\nTook off at 23:52 hrs from RAF Binbrook to attack Köln but after a short while returned with what is assumed a problem with the engines. During the return the pilot's decided to crash land the aircraft on the beach at California Gap near Caister-On-Sea, Norfolk. Which they did at around 01:30 hrs.\n\nSome reports state that after coming to rest the aircraft touched a mine which exploded - killing all the crew.\n\nWe have an eye witness report stating that the beach in this area was not mined and in fact he was playing in that area shortly before the crash. However it is of course possible that they hit a rogue mine. The eye witness did say that the aircraft was lifted from the beach a few days later with cranes form the cliff tops.\n\nHis father was the local ARP and he decided with help from the people in the village to place the bodies in a holiday chalet owned by a business man from Cambridge. Mr Tennant had been given the keys to the chalet for him to look after.\n\nWe are in contact with one relative from the crew and they have requested a memorial plaque to be placed at or near the crash location. We are currently investigating this possibility.\n\n(Understood that a plaque has now been placed on the wall of the Californian Tavern overlooking the area. The Webmaster noticed this in August 2016 - Don Butt submitted this photo in September 2016)\n\nSgt. Frank Hugh Neville Tothill. Moggerhanger (St. John) Churchyard. N.E. of Church. Son of Charity Wish Tothill, of Moggerhanger, Bedfordshire, England.\n\nFl/Sgt. James Lennox Scott Dunlop. Stevenson (New Street) Cemetery Sec. M. North Extn. Grave 22-23. Son of Alexander and Mary (nee Scott) Dunlop, of Stevenston, Ayrshire and 434 Eighth Street, Niagara Falls, New York. Ex pupil of the University of Chicago. Also engaged to Miss Deise de Wolf a member of the A.T.S. in England.\n\n(left - Manchester Evening News)\n\nSgt. Alfred Edward Cosgrove. Moston St. Joseph's) Roman Catholic Cemetery St. Anthony Sed. Grave 622. Born on the 19th May 1921. Son of Alfred Joseph and Catherine Mary Cosgrove, of 11 Albany Avenue, Higher Openshaw, Manchester, England. Formally employed as a laboratory assistant with the Calico Printers Association.\n\nFl/Sgt. Aldwyn Anthony Nordon. Barnsley (Carlton) Cemetery Sec A. Grave 121. Son of Charles and Lillian May Nordon, of 20, Maybank, Cronkill Lane, Carlton, Barnsley. Formally of Barnsley and District Holgate Grammar School.\n\nSgt. Raymond Henry Todman. Littlehapton Cemetery Sec D. Grave 4230. Son of Harry Thomas Todman and Kathleen Elizabeth Todman, 71 South Terrace, Littlehampton, Sussex, England, husband of Peggy Margaret May (nee Clarke).Formally employed with Littlehampton District Council and also Worthing Rural District Council. His wife Peggy, was the 150 yards sprint champion of Essex for 3 successive years - she also won national fame by coming 2nd in All-England International Sports meeting at Margate in 1938.\n\nSgt. Arthur Pilkington. Scottow Cemetery Grave 261. Also remembered on the Mercer Park Memorial at Accrington, Lancashire. Son of Dixon and Emily V. Pilkington, of Clayton-le-Moors, Accrington, Lancashire, England.\n\nResearched with information supplied by Peter Tennant. Thanks also to Don Butt and Richard Walker for photographs of the plaque - September 2016. Thanks also to John Wilson for the newspaper clipping for Sgt. Alfred E. Cosgrove. With thanks to sources shown below.\n\nRS - 10.08.2018 - Addition of Newspaper clipping\n\n- 12 Squadron Wellington II Z8397 Sgt. Tothill Sorry! This site will not display properly in Internet Explorer 6. Please upgrade your browser! Microsoft dropped support for IE6 many, many years ago."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/101410",
+      "summary": "IWM records the memorial to the crew of Wellington Z8397 at California Gap, Norfolk. The memorial plaque is located on the California Tavern building.",
+      "key_details": [
+        "IWM reference: memorial/101410",
+        "Memorial plaque on California Tavern building"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Mundesley & District Royal British Legion",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/norfolk/contact-us/branches/"
+    },
+    {
+      "org_name": "Scratby and California Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority responsible for memorial upkeep"
+    }
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
+  "squadron_motto": "Leads the field",
+  "what3words": "thing.loyal.vines",
+  "photos": [
+    {
+      "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z8397-crew-w800-w800.jpg",
+      "caption": "12 squadron wellington ii z8397 crew",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z839-california-sands-w800-w800.jpg",
+      "caption": "12 squadron wellington ii z839 california sands",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "california-gap-wellington-z-8397/12-squadron-wellington-ii-z8397-memorial-plaque-w800-w800.jpg",
+      "caption": "12 squadron wellington ii z8397 memorial plaque",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "california-gap-wellington-z-8397/californian-tavern-w800-w800.jpg",
+      "caption": "californian tavern",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "california-gap-wellington-z-8397/flsgt-aldwyn-anthony-nordon-653750-raf-grave-w800-w800.jpg",
+      "caption": "flsgt aldwyn anthony nordon 653750 raf grave",
+      "credit": "Aircrew Remembered"
+    },
+    {
+      "filename": "california-gap-wellington-z-8397/alfred-e-cosgrove-w800-1-w800.jpg",
+      "caption": "alfred e cosgrove w800 1",
+      "credit": "Aircrew Remembered"
+    }
+  ]
 }

@@ -1,0 +1,205 @@
+{
+  "id": "great-ashfield-385th-bomb-group",
+  "title": "Great Ashfield — 385th Bomb Group Memorials",
+  "location_name": "Great Ashfield, Suffolk",
+  "county": "Suffolk",
+  "country": "United Kingdom",
+  "region_code": "SF-008",
+  "crash_date": null,
+  "operational_period": "1943-06 to 1945-05",
+  "aircraft_type": "B-17 Flying Fortress",
+  "serial_number": null,
+  "squadron": "385th Bombardment Group (Heavy), 8th USAAF",
+  "station": "USAAF Station 155, Great Ashfield",
+  "sub_units": [
+    "548th Bomb Squadron",
+    "549th Bomb Squadron",
+    "550th Bomb Squadron",
+    "551st Bomb Squadron"
+  ],
+  "crew_summary": "400+ USAAF personnel killed in operations 1943–1945; 129 B-17s lost over 296 combat missions",
+  "crew": null,
+  "memorial_type": "Multiple — airfield gate plaque, church altar and reredos, stained glass window",
+  "multiple_memorials": [
+    {
+      "name": "Airfield Gate Memorial Plaque",
+      "type": "plaque",
+      "location": "Gates to former USAAF Station 155, Great Ashfield",
+      "os_grid": "TM 00584 66203",
+      "latitude": null,
+      "longitude": null,
+      "erected": "1944",
+      "erected_by": "Comrades of the 385th Bomb Group",
+      "iwm_wmr": "WMR-4674",
+      "maintainer": null,
+      "notes": "Location is at church perimeter, west side of junction. GPS needs field verification. No confirmed current maintainer."
+    },
+    {
+      "name": "All Saints Church — Carved Oak Altar and Reredos",
+      "type": "church_memorial",
+      "location": "All Saints Church, Elmswell Road, Great Ashfield, IP31 3HQ",
+      "latitude": 52.271972,
+      "longitude": 0.923361,
+      "dedicated": "1945-12-18",
+      "dedicated_by": "Bishop of St Edmundsbury and Ipswich",
+      "iwm_wmr": "WMR-4673",
+      "maintainer": "Great Ashfield Parochial Church Council (PCC)",
+      "inscription": "IN MEMORIAM / DEDICATED / TO THE EVERLASTING MEMORY / OF THE OFFICERS AND MEN / OF THE 385TH BOMBARDMENT GROUP / 8TH AIR FORCE / US ARMY / WHO GAVE THEIR LIVES IN HEROIC SACRIFICE AND UNSELFISH DEVOTION TO DUTY / WORLD WAR II / MCMXLV"
+    },
+    {
+      "name": "All Saints Church — Stained Glass Window",
+      "type": "stained_glass",
+      "location": "All Saints Church, Elmswell Road, Great Ashfield, IP31 3HQ",
+      "latitude": 52.271972,
+      "longitude": 0.923361,
+      "dedicated": "1991-05-16",
+      "dedicated_by": "Bishop of St Edmundsbury and Ipswich",
+      "iwm_wmr": "WMR-4676",
+      "maintainer": "Great Ashfield Parochial Church Council (PCC)",
+      "imagery": "Airfield runways, dove of peace, B-17 formations, 385th Bomb Group badge, aircraft tail markings"
+    }
+  ],
+  "memorial_address": "All Saints Church, Elmswell Road, Great Ashfield, IP31 3HQ",
+  "memorial_access_notes": "All Saints Church is open to visitors. The airfield gate plaque is at the church perimeter. The former airfield is now largely agricultural land.",
+  "photos": [
+    {
+      "filename": "great-ashfield-385th-bomb-group/interpretation-panel-riverside.jpg",
+      "caption": "385th Bomb Group interpretation panel on the riverside, Great Ashfield",
+      "credit": "Mary Blanche",
+      "source": "Direct submission",
+      "date_taken": "2026"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IWM War Memorials Register — WMR-4673 (altar/reredos)",
+      "type": "iwm_wmr",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/4673"
+    },
+    {
+      "title": "IWM War Memorials Register — WMR-4674 (gate plaque)",
+      "type": "iwm_wmr",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/4674"
+    },
+    {
+      "title": "IWM War Memorials Register — WMR-4676 (stained glass window)",
+      "type": "iwm_wmr",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/4676"
+    },
+    {
+      "title": "385th Bomb Group Association",
+      "type": "association_website",
+      "url": "https://www.385thbga.com/"
+    },
+    {
+      "title": "American Air Museum in Britain",
+      "type": "website",
+      "url": "https://www.americanairmuseum.com/archive/place/great-ashfield"
+    },
+    {
+      "title": "Suffolk Heritage Explorer — MSF24399",
+      "type": "heritage_register",
+      "url": "https://heritage.suffolk.gov.uk/Monument/MSF24399"
+    }
+  ],
+  "contributor": "Keith Binley",
+  "additional_contributors": [
+    {
+      "name": "Mary Blanche",
+      "role": "Photos and PDF documentation of interpretation panel and memorial plaque",
+      "date": "2026-04-02"
+    }
+  ],
+  "last_updated": "2026-04-06",
+  "data_quality": "Partial",
+  "latitude": 52.271972,
+  "longitude": 0.923361,
+  "what3words": null,
+  "location_confidence": {
+    "status": "approximate",
+    "score": 2,
+    "sources": [
+      "All Saints Church GPS confirmed from IWM WMR-4673 record: 52.271972N, 0.923361E",
+      "Airfield gate plaque OS grid TM 00584 66203 — needs coordinate conversion and field verification"
+    ],
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-06",
+    "verification_notes": "Church coordinates confirmed. Airfield gate plaque location needs field visit to confirm precise GPS and what3words.",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "maintainer": {
+    "organisation": "Great Ashfield Parochial Church Council (PCC)",
+    "maintainer_type": "church_pcc",
+    "notes": "PCC confirmed as maintainer of church memorials (IWM records). Airfield gate plaque has no confirmed maintainer."
+  },
+  "external_narratives": [
+    {
+      "source_site": "385th Bomb Group Association",
+      "original_url": "https://www.385thbga.com/",
+      "summary": "The 385th BGA maintains extensive records of the group's operations from Great Ashfield (USAAF Station 155), Suffolk. The group flew 296 combat missions between June 1943 and May 1945, losing 129 B-17s and 400+ men. Notable operations include targets across Germany, France, and occupied Europe. Their final sorties were humanitarian food drops over Holland in Operation Chowhound, May 1945.",
+      "key_details": "296 missions; 129 aircraft lost; 400+ killed; Glenn Miller performed at the base on reaching 200 missions; last missions were food drops over Holland (Operation Chowhound)",
+      "date_retrieved": "2026-04-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Elmswell History Group",
+      "original_url": "https://www.elmswell-history.org.uk/archive/work-society/elmswell-great-ashfield-airfield/",
+      "summary": "Local history documentation of the Great Ashfield airfield and its connection with the 385th Bomb Group. The airfield was sold off in 1955 after the war. Some deteriorated wartime buildings remain on what is now largely agricultural land.",
+      "key_details": "Airfield sold 1955; some wartime structures remain",
+      "date_retrieved": "2026-04-06",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "Great Ashfield Parochial Church Council (PCC)",
+      "org_type": "church_pcc",
+      "role": "Maintains the altar/reredos and stained glass window memorials inside All Saints Church",
+      "website": "https://www.achurchnearyou.com/church/2131"
+    },
+    {
+      "org_name": "Royal British Legion — Suffolk",
+      "org_type": "british_legion",
+      "role": "Local remembrance and memorial support",
+      "website": "https://counties.britishlegion.org.uk/counties/suffolk/contact-us/branches/",
+      "link_quality": "county_level",
+      "link_verification_needed": true,
+      "link_verification_note": "Specific local branch not yet identified. Great Ashfield is in the Stowmarket / Ixworth area of mid-Suffolk. Research needed: check Suffolk branch listing for Ixworth, Stowmarket, Norton, or Woolpit branch."
+    },
+    {
+      "org_name": "Great Ashfield Parish Council",
+      "org_type": "parish_council",
+      "role": "Local authority with interest in the former airfield site",
+      "website": null,
+      "link_verification_needed": true,
+      "link_verification_note": "Parish council website not yet identified. Contact via Suffolk InfoLink or East Suffolk Council directory."
+    },
+    {
+      "org_name": "385th Bomb Group Association",
+      "org_type": "historical_society",
+      "role": "Primary custodian of the 385th BG's history; extensive photo archive at 385thbga.com",
+      "website": "https://www.385thbga.com/"
+    },
+    {
+      "org_name": "Elmswell History Group",
+      "org_type": "local_history",
+      "role": "Documents the history of Great Ashfield airfield and surrounding area",
+      "website": "https://www.elmswell-history.org.uk/"
+    },
+    {
+      "org_name": "American War Memorials Overseas, Inc.",
+      "org_type": "heritage_trust",
+      "role": "US non-profit monitoring and documenting American war memorials in Europe",
+      "website": "https://www.uswarmemorials.org/"
+    }
+  ],
+  "decision_log": {
+    "added": "2026-04-06",
+    "proposed_by": "Mary Blanche (community submission, 2026-04-02)",
+    "decision": "APPROVED",
+    "decision_by": "Keith Binley",
+    "decision_date": "2026-04-06",
+    "scope_note": "Grouped entry covering all three Great Ashfield memorials (1944 gate plaque, 1945 church altar, 1991 stained glass window). Primary location pin: All Saints Church. Framed around the memorial and the men who flew from this base — losses occurred over occupied Europe but the memorial is in the UK."
+  }
+}

@@ -18,8 +18,8 @@
     "contributor": "Keith Binley",
     "last_updated": "2026-03-21",
     "data_quality": "Partial",
-    "latitude": 55.478,
-    "longitude": -2.148,
+    "latitude": 55.37488662236883,
+    "longitude": -1.9020991199504746,
     "maintainer": {
         "organisation": "Northumberland National Park Authority",
         "website": "https://www.northumberlandnationalpark.org.uk",
@@ -82,18 +82,5 @@
             "website": "https://counties.britishlegion.org.uk/counties/northumberland/"
         }
     ],
-    "what3words": "directionally.rightmost.stony",
-    "location_confidence": {
-        "status": "approximate",
-        "score": 1,
-        "sources": [
-            "Research: Cheviot summit plateau at ~55.478 -2.148",
-            "Current coords 55.375 -1.902 fall on coastal plain near Alnwick — not in hills"
-        ],
-        "verified_by": "Holly (PAI)",
-        "verification_date": "2026-04-05",
-        "verification_notes": "INACCURATE. Current coords (55.375, -1.902) fall at longitude of coastal plain near Alnwick, not in the Cheviot Hills. Summit area at ~55.478, -2.148 is a better approximation for a general Cheviot memorial. Confidence approximate — memorial may be at a specific col or hill not yet identified.",
-        "community_submissions": 0,
-        "last_reviewed": "2026-04-06"
-    }
+    "what3words": "devours.intensely.drives"
 }
