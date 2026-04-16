@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 51.2546688,
   "longitude": -0.1998369,
   "maintainer": {
@@ -129,14 +129,14 @@
     "USAAF"
   ],
   "memorial_details": "Dedicatory wooden bench with metal plaque. Also a memorial sculpture, carved from an ancient Surrey oak tree with some metal from the crash buried in the sculpture.\n\nThe memorial sculpture, created by Surrey artist Roger Day was unveiled on the 70th anniversary of the crash.\n\nThe memorial sculpture, created by Surrey artist Roger Day, was unveiled on the 70th anniversary of the crash.\n\nThe sculpture, dedicated on the 70th anniversary of the crash, was created by Surrey-based wood sculptor Roger Day.\n\nMemorial Display (Sept 2017): Boeing B-17 Flying Fortress 43-39035 was displayed as a memorial.\n\nExhibition (Not specified): Display of parts from the aircraft at Reigate Manor Hotel.\n\nUnveiling of the Memorial (70th anniversary of the crash (March 19, 2015)): The memorial sculpture was unveiled. Created by Surrey artist Roger Day from ancient Surrey oak, it includes metal recovered from the crash site and is placed to match the aircraft's wingspan.",
-  "narrative": "A USAAF B-17 Flying Fortress was lost over Reigate Hill, Surrey, carrying both regular aircrew and US Air Attach\u00e9 Colonel Dan Benson. Pilot Robert S Griffin, 24 years old, was in command; co-pilot Herbert S Geller, Royal Runyon, Robert Manbeck, Thomas Hickey, and Philip were also among those aboard. The cause of the crash is not recorded in available sources. All crew members were killed. The site is today marked by a memorial sculpture titled *Wing Tips*, created by Surrey artist Roger Day, honouring those who died here.",
+  "narrative": "A USAAF B-17 Flying Fortress was lost over Reigate Hill, Surrey, carrying both regular aircrew and US Air Attaché Colonel Dan Benson. Pilot Robert S Griffin, 24 years old, was in command; co-pilot Herbert S Geller, Royal Runyon, Robert Manbeck, Thomas Hickey, and Philip were also among those aboard. The cause of the crash is not recorded in available sources. All crew members were killed. The site is today marked by a memorial sculpture titled *Wing Tips*, created by Surrey artist Roger Day, honouring those who died here.",
   "inscription": "PRESENTED BY THE REIGATE SOCIETY IN MEMORY OF\nTHE NINE U.S. AIRMEN WHO DIED HERE IN 1945\n",
   "remembrance": {
     "events": [
       {
         "name": "Public Memorial Event on Reigate Hill",
         "date": "20th March",
-        "description": "A service featuring a wreath-laying ceremony at the crash site. US Air Attach\u00e9 Lieutenant Colonel Dan Benson presented a wreath, along with the Head Boy and Head Girl of The Royal Alexandra and Albert school."
+        "description": "A service featuring a wreath-laying ceremony at the crash site. US Air Attaché Lieutenant Colonel Dan Benson presented a wreath, along with the Head Boy and Head Girl of The Royal Alexandra and Albert school."
       },
       {
         "name": "Memorial Service",
@@ -174,7 +174,7 @@
       "name": "Colonel Dan Benson",
       "rank": null,
       "fate": "Unknown",
-      "role": "US Air Attach\u00e9"
+      "role": "US Air Attaché"
     },
     {
       "name": "Wing Tip Photo",
@@ -198,7 +198,7 @@
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet",
   "last_validated": "2026-04-13",
-  "crash_date_review": "Auto-corrected to 1945 but reverted \u2014 just a year, not a date",
+  "crash_date_review": "Auto-corrected to 1945 but reverted — just a year, not a date",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/40/774/large_73208a_david_ayling_sept_2017.jpg;",
     "https://media.iwm.org.uk/ciim5/memorials/40/776/large_73208c_david_ayling_sept_2017.jpg;",

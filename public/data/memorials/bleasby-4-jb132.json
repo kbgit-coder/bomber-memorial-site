@@ -25,7 +25,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-03-21",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 53.038748,
   "longitude": -0.931611,
   "maintainer": {
@@ -62,7 +62,7 @@
       "still_live": true,
       "link_description": "Detailed accident report of Lancaster III JB132's mid-air collision on 1 September 1943, including operational context.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "IWM War Memorials Register",

@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-13",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 52.76458607343168,
   "longitude": 0.7431604896527024,
   "maintainer": {
@@ -91,7 +91,7 @@
       "still_live": true,
       "link_description": "Historical photographs of Memorial: Weasenham St. Peter (three crashes commemorated) Mitchell Memorial on Geograph.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     }
   ],
   "local_contacts": [
@@ -124,7 +124,7 @@
     "114 Sqdn.",
     "114 Squadron"
   ],
-  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft \u2014 a Bristol Blenheim, a Mitchell, and a Boston \u2014 went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
+  "narrative": "Flying wartime sorties over Norfolk, crews from 114, 98, and 342 (Lorraine) Squadrons were lost in three separate crashes at Weasenham St. Peter between 1942 and 1943. The aircraft — a Bristol Blenheim, a Mitchell, and a Boston — went down in circumstances not recorded in surviving documentation. Pilot Officer John Graham, aged 21, was among those killed, alongside Sergeant Michael Beaufoy, aged 19, and Sergeant Leslie Harrowell, aged 22. Multiple crew members died across the three incidents, and the fates of some personnel remain unconfirmed. A memorial at Weasenham St. Peter now stands in remembrance of all those lost.",
   "remembrance": {
     "events": []
   },
@@ -200,7 +200,7 @@
       "nationality": "French"
     },
     {
-      "name": "L\u00e9once Cohen",
+      "name": "Léonce Cohen",
       "rank": "Sergeant",
       "role": "Wireless Operator",
       "fate": "Killed",
@@ -223,9 +223,9 @@
   "narrative_source": "generated-claude-sonnet",
   "data_notes": [
     "Three separate crashes commemorated on single granite pyramid memorial.",
-    "Previous crew count of 9 was an undercount \u2014 Mitchell and Boston each had 4 crew, not 3.",
+    "Previous crew count of 9 was an undercount — Mitchell and Boston each had 4 crew, not 3.",
     "Boston crew were Free French Air Force (342 'Lorraine' Squadron).",
-    "A civilian farmer was also killed in the Boston crash \u2014 name not found in available sources."
+    "A civilian farmer was also killed in the Boston crash — name not found in available sources."
   ],
   "last_validated": "2026-04-13"
 }

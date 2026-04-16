@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 51.7369,
   "longitude": -0.6445,
   "maintainer": {
@@ -55,7 +55,7 @@
       "still_live": true,
       "link_description": "Detailed crash report including flight path, time, and cause; crew information and aircraft specifications.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "RAF Halton - Mainpoint Online",
@@ -64,7 +64,7 @@
       "dormant": true,
       "dormant_since": "2026-04-13",
       "last_http_status": 0,
-      "link_check_note": "HTTP 0 on 2026-04-13 \u2014 may return, check periodically"
+      "link_check_note": "HTTP 0 on 2026-04-13 — may return, check periodically"
     }
   ],
   "local_contacts": [

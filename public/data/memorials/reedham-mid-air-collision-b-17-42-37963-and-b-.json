@@ -19,7 +19,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 52.5594,
   "longitude": 1.5684,
   "maintainer": {
@@ -40,7 +40,7 @@
       "still_live": true,
       "link_description": "American Air Museum's archive entry for Reedham War Memorial: mid-air collision of B-17G Flying Fortresses in 21st century summary.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "US War Memorials",
@@ -92,7 +92,7 @@
       "still_live": true,
       "link_description": "Detailed personnel records of American WWII bomber pilots involved in mid-air collision at Reedham Marshes.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     }
   ],
   "local_contacts": [
@@ -123,7 +123,7 @@
   "additional_contributors": [
     {
       "name": "Mary Blanche",
-      "role": "Local contributor \u2014 memorial information and photographs",
+      "role": "Local contributor — memorial information and photographs",
       "date": "2026-04-09"
     }
   ],

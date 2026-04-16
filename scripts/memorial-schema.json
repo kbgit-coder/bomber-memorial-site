@@ -208,9 +208,9 @@
       "type": "string",
       "description": "Quality level of the data in this entry",
       "enum": [
-        "Good",
+        "Comprehensive",
         "Partial",
-        "Light"
+        "Stub"
       ]
     },
     "latitude": {

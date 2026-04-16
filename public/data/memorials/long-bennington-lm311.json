@@ -25,7 +25,7 @@
   ],
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
-  "data_quality": "Good",
+  "data_quality": "Comprehensive",
   "latitude": 52.99208,
   "longitude": -0.756975,
   "maintainer": {
@@ -137,7 +137,7 @@
   ],
   "location_confidence": {
     "status": "confirmed",
-    "verified_by": "Geoffrey Fearn (landowner \u2014 memorial is on his property)",
+    "verified_by": "Geoffrey Fearn (landowner — memorial is on his property)",
     "verification_date": "2026-04-06",
     "community_submissions": 1,
     "last_reviewed": "2026-04-06"
@@ -182,7 +182,7 @@
     {
       "name": "Unknown",
       "fate": "Killed",
-      "rank": "\u2014"
+      "rank": "—"
     },
     {
       "name": "Cedric Arthur Chapman",
@@ -233,7 +233,7 @@
   "additional_contributors": [
     {
       "name": "Geoffrey Fearn",
-      "role": "Local contributor \u2014 parish council liaison, memorial maintenance advocate",
+      "role": "Local contributor — parish council liaison, memorial maintenance advocate",
       "date": "2026-04-09"
     }
   ],
