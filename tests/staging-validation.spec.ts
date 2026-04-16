@@ -113,7 +113,7 @@ test.describe("2. Memorial Pages", () => {
     expect(count).toBeLessThanOrEqual(8);
   });
 
-  test("Kirmington 166 Sqn memorial garden loads with correct title", async ({
+  test.skip("Kirmington 166 Sqn memorial garden loads with correct title — SKIPPED: removed to removed-squadron-memorials", async ({
     page,
   }) => {
     const response = await page.goto(
@@ -317,8 +317,8 @@ test.describe("3b. Workstream 1 — Storytelling Upgrade", () => {
     // Staunton has both crew array (7 members) and external narratives with full_narrative
     await page.goto("/memorial/staunton-in-the-vale-wellington-w-4270");
     const body = page.locator("body");
-    // The "Detailed Record" section should be visible even though crew is structured
-    await expect(body).toContainText("Detailed Record");
+    // v3.3.0: "Detailed Record" IWM dumps removed; replaced by "Further Reading" with link descriptions
+    await expect(body).toContainText("Further Reading");
   });
 
   test("OS grid reference renders on Barton VC memorial", async ({
