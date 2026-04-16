@@ -66,8 +66,10 @@ export interface AdditionalContributor {
   date?: string;
 }
 
+export type LocationConfidenceStatus = 'verified' | 'confirmed' | 'approximate' | 'estimated';
+
 export interface LocationConfidence {
-  status: 'confirmed' | 'approximate' | 'estimated';
+  status: LocationConfidenceStatus;
   score?: number;
   sources?: string[];
   verified_by?: string;

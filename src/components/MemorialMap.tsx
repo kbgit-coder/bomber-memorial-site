@@ -8,12 +8,15 @@ interface MemorialMapProps {
   memorials: Memorial[];
   center?: [number, number];
   zoom?: number;
+  showFilter?: boolean;
 }
 
 export default function MemorialMap({
   memorials,
   center = [53.0, -1.0],
   zoom = 6,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  showFilter,
 }: MemorialMapProps) {
   const mapRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<maplibregl.Map | null>(null);
