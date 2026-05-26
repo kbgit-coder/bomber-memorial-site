@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Contact",
@@ -31,21 +32,21 @@ export default function ContactPage() {
         padding: "1.5rem",
         marginBottom: "2rem",
       }}>
-        <p style={{ fontSize: "1rem", color: "#444", lineHeight: 1.8, marginBottom: "1rem" }}>
+        <p style={{ fontSize: "1rem", color: "#444", lineHeight: 1.8, marginBottom: 0 }}>
           We welcome contributions from researchers, families, local historians, and enthusiasts.
           Whether you have photographs, crew details, corrections, or know of a memorial not yet
           listed, we would love to hear from you.
         </p>
-        <p style={{ fontSize: "1rem", color: "#444", lineHeight: 1.8, marginBottom: 0 }}>
-          Please email us at{" "}
-          <a
-            href="mailto:admin@bombermemorial.co.uk"
-            style={{ color: "#2c5f8a", fontWeight: 600 }}
-          >
-            admin@bombermemorial.co.uk
-          </a>
-        </p>
       </div>
+
+      <ContactForm />
+
+      <p style={{ fontSize: "0.85rem", color: "#999", marginTop: "1.5rem" }}>
+        Or email us directly at{" "}
+        <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
+          admin@bombermemorial.co.uk
+        </a>
+      </p>
     </div>
   );
 }

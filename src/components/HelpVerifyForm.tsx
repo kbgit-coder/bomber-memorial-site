@@ -33,21 +33,42 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
     });
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setSubmitting(true);
-    const subject = encodeURIComponent(`Location verification: ${memorialTitle}`);
-    const body = encodeURIComponent(
-      `Memorial: ${memorialTitle}\nID: ${memorialId}\n\nYour name: ${name.trim()}\nYour email: ${email.trim()}\n\nEvidence / source:\n${source.trim()}\n\nCorrected coordinates (if known):\nLat: ${lat.trim() || "—"}\nLng: ${lng.trim() || "—"}`
-    );
-    window.location.href = `mailto:admin@bombermemorial.co.uk?subject=${subject}&body=${body}`;
-    setSubmitted(true);
-    setSubmitting(false);
-    posthogCapture("form_submission", {
-      form_type: "help_verify",
-      memorial_id: memorialId,
-      has_coordinates: !!(lat.trim() && lng.trim()),
-    });
+    try {
+      const res = await fetch("/api/submit.php", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          type: "verify",
+          memorial_id: memorialId,
+          memorial_title: memorialTitle,
+          name: name.trim(),
+          email: email.trim(),
+          source: source.trim(),
+          corrected_lat: lat.trim() || null,
+          corrected_lng: lng.trim() || null,
+        }),
+      });
+      if (!res.ok) throw new Error("Submit failed");
+      setSubmitted(true);
+      posthogCapture("form_submission", {
+        form_type: "help_verify",
+        memorial_id: memorialId,
+        has_coordinates: !!(lat.trim() && lng.trim()),
+      });
+    } catch {
+      // Fallback to mailto if API is unreachable
+      const subject = encodeURIComponent(`Location verification: ${memorialTitle}`);
+      const body = encodeURIComponent(
+        `Memorial: ${memorialTitle}\nID: ${memorialId}\n\nYour name: ${name.trim()}\nYour email: ${email.trim()}\n\nEvidence / source:\n${source.trim()}\n\nCorrected coordinates (if known):\nLat: ${lat.trim() || "—"}\nLng: ${lng.trim() || "—"}`
+      );
+      window.location.href = `mailto:admin@bombermemorial.co.uk?subject=${subject}&body=${body}`;
+      setSubmitted(true);
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   if (!open) {
