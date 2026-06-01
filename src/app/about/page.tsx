@@ -15,7 +15,7 @@ export default function AboutPage() {
     <div data-pagefind-ignore style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>
+        <Link href="/" style={{ color: "#7a4500" }}>
           Home
         </Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
@@ -164,7 +164,7 @@ export default function AboutPage() {
 
         <p style={{ marginBottom: "1.5rem" }}>
           Please email us at{" "}
-          <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
+          <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#7a4500" }}>
             admin@bombermemorial.co.uk
           </a>{" "}
           with any information you can share. Every memorial page also has a

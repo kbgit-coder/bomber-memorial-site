@@ -46,14 +46,14 @@ export default function MemorialMap({
         markersData.forEach((memorial) => {
           const popup = new maplibregl.Popup({ offset: 25 }).setHTML(
             `<div style="font-family: Georgia, serif;">` +
-              `<strong><a href="/memorial/${memorial.id}" style="color: #2c5f8a;">${memorial.title}</a></strong>` +
+              `<strong><a href="/memorial/${memorial.id}" style="color: #7a4500;">${memorial.title}</a></strong>` +
               (memorial.location_name
                 ? `<div style="font-size: 0.85rem; color: #666;">${memorial.location_name}</div>`
                 : "") +
               `</div>`
           );
 
-          const marker = new maplibregl.Marker({ color: "#2c5f8a" })
+          const marker = new maplibregl.Marker({ color: "#7a4500" })
             .setLngLat([memorial.longitude!, memorial.latitude!])
             .setPopup(popup)
             .addTo(map);

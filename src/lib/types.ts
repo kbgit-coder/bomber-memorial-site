@@ -20,6 +20,7 @@ export interface Source {
   title: string;
   url?: string;
   type?: string;
+  still_live?: boolean;
 }
 
 export interface Maintainer {

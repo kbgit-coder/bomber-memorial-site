@@ -41,7 +41,7 @@ export default function RegionPage({ params }: Props) {
         }}
       >
         <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-          <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+          <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
           <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
           <span style={{ color: "#999" }}>{regionName}</span>
         </nav>
@@ -96,7 +96,7 @@ export default function RegionPage({ params }: Props) {
             Contribute to this region
           </a>
         </div>
-        <Link href="/" style={{ color: "#2c5f8a", fontSize: "0.9rem" }}>
+        <Link href="/" style={{ color: "#7a4500", fontSize: "0.9rem" }}>
           Return to the Register
         </Link>
       </div>
@@ -117,7 +117,7 @@ export default function RegionPage({ params }: Props) {
     <div data-pagefind-ignore style={{ maxWidth: 1200, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>
+        <Link href="/" style={{ color: "#7a4500" }}>
           Home
         </Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>

@@ -376,7 +376,7 @@ export default function HomePage() {
                     {card.crew_count > 0 && (
                       <span>{card.crew_count} crew recorded</span>
                     )}
-                    <span style={{ marginLeft: "auto", color: "#2c5f8a" }}>
+                    <span style={{ marginLeft: "auto", color: "#7a4500" }}>
                       Read the full story &rarr;
                     </span>
                   </div>

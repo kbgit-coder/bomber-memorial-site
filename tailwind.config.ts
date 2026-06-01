@@ -13,7 +13,7 @@ const config: Config = {
         "navy-light": "#2c3e50",
         gold: "#c9b98a",
         "gold-border": "#8b7355",
-        link: "#2c5f8a",
+        link: "#7a4500",
         heritage: "#f5f3f0",
       },
       fontFamily: {

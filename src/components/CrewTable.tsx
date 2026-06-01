@@ -127,7 +127,7 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       href={member.cwgc_url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      style={{ color: "#2c5f8a" }}
+                      style={{ color: "#7a4500" }}
                     >
                       {member.burial_location && member.burial_location !== "\u2014"
                         ? member.burial_location

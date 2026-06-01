@@ -51,7 +51,7 @@ export default function StubCTA({ quality, title }: StubCTAProps) {
         }}
       >
         Email{" "}
-        <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
+        <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#7a4500" }}>
           admin@bombermemorial.co.uk
         </a>{" "}
         or contribute directly via our{" "}
@@ -59,7 +59,7 @@ export default function StubCTA({ quality, title }: StubCTAProps) {
           href="https://github.com/kbgit-coder/bomber-memorial-site"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ color: "#2c5f8a" }}
+          style={{ color: "#7a4500" }}
         >
           GitHub repository
         </a>

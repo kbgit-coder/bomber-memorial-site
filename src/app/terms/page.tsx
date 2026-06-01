@@ -10,7 +10,7 @@ export default function TermsPage() {
   return (
     <div style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
         <span style={{ color: "#999" }}>Site Terms</span>
       </nav>
@@ -36,7 +36,7 @@ export default function TermsPage() {
         <p>
           You are welcome to reference, share, and link to any page on this site. If you wish to
           reproduce substantial portions of our content, please{" "}
-          <Link href="/contact" style={{ color: "#2c5f8a" }}>contact us</Link> first.
+          <Link href="/contact" style={{ color: "#7a4500" }}>contact us</Link> first.
         </p>
         <p>
           While we strive for accuracy, historical records can be incomplete or contain errors. If
@@ -70,7 +70,7 @@ export default function TermsPage() {
           Crew information published on this site is drawn from public historical records, official
           war diaries, Commonwealth War Graves Commission data, and community contributions. If you
           are a family member and have concerns about any information displayed, please{" "}
-          <Link href="/contact" style={{ color: "#2c5f8a" }}>contact us</Link> and we will address
+          <Link href="/contact" style={{ color: "#7a4500" }}>contact us</Link> and we will address
           your request promptly.
         </p>
       </div>

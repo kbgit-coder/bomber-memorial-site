@@ -99,6 +99,7 @@ export default function ContactForm() {
         disabled={submitting}
         style={{
           padding: "0.6rem 1.5rem",
+          minHeight: 44,
           backgroundColor: submitting ? "#999" : "#1a2332",
           color: "#c9b98a",
           border: "none",
