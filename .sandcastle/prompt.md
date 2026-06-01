@@ -48,6 +48,7 @@ If an issue body is too vague to act on autonomously, leave a comment on the For
 4. **Plan** — decide the smallest change that satisfies the issue.
 5. **Execute** — make the change.
    - For **image-compression** tasks: re-encode/resize oversized images so each is comfortably under the stated threshold (target ≤1MB unless the issue says otherwise) while keeping reasonable visual quality (JPEG quality ~80, cap longest edge ~2400px). Keep the **same filename and path** so references don't break. Do not delete images. Do not touch images already under the threshold.
+     - **CRITICAL: always pass `-auto-orient` BEFORE resizing** (`convert IN -auto-orient -resize ... OUT`). Many phone photos rely on an EXIF orientation tag to display upright; `mogrify`/`-strip` discard that tag without rotating the pixels, which leaves the photo displayed sideways. `-auto-orient` bakes the rotation into the pixels so it is tag-independent. After processing, verify a sample with `identify -format '%[orientation] %wx%h'` — a portrait photo must report portrait dimensions.
 6. **Verify** — prove the fix:
    - Image tasks: re-measure file sizes (`ls -la` / `du -h`) and confirm every targeted file now meets the threshold; grep the codebase to confirm no image references were renamed or broken.
    - Code tasks: write/run the relevant Playwright test where practical.

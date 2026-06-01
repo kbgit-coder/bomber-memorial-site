@@ -187,9 +187,11 @@ if [[ -f "$REPO_ROOT/public/sitemap.xml" ]]; then
   success "Copied sitemap.xml"
 fi
 
-# Staging: inject .htpasswd protection
-if [[ "$TARGET" == "staging" ]]; then
-  info "Adding .htpasswd protection for staging..."
+# Staging: inject .htpasswd protection (opt-in — set STAGING_AUTH=1 to enable).
+# Default OFF: bomber staging is intentionally open. Without this guard the block
+# was re-added on every deploy, silently password-gating an open staging site.
+if [[ "$TARGET" == "staging" && "${STAGING_AUTH:-0}" == "1" ]]; then
+  info "Adding .htpasswd protection for staging (STAGING_AUTH=1)..."
   cat >> "$REPO_ROOT/out/.htaccess" << 'HTPASSWD'
 
 # Staging password protection
