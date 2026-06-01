@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postbuild": "npx pagefind --site out --glob \"**/*.html\""
+    "postbuild": "npx pagefind --site out --glob \"**/*.html\"",
+    "sandcastle": "tsx .sandcastle/main.mts"
   },
   "dependencies": {
     "maplibre-gl": "^5.22.0",
@@ -19,6 +20,8 @@
     "recharts": "^3.8.1"
   },
   "devDependencies": {
+    "@ai-hero/sandcastle": "^0.5.12",
+    "tsx": "^4.19.2",
     "@playwright/test": "^1.59.1",
     "@types/node": "^20",
     "@types/react": "^18",
