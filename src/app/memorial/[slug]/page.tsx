@@ -1065,17 +1065,21 @@ export default function MemorialPage({ params }: Props) {
                 padding: "1.25rem 1.5rem",
               }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "0.5rem" }}>
-                  <a href={narrative.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a", fontWeight: 600 }}>
-                    {narrative.source_site}
-                  </a>
-                  {narrative.date_retrieved && (
-                    <span style={{ fontSize: "0.75rem", color: "#999" }}>
-                      Retrieved {narrative.date_retrieved}
-                      {narrative.still_live === false && (
-                        <span style={{ color: "#c44", marginLeft: "0.5rem" }}>(link may be broken)</span>
-                      )}
+                  {narrative.still_live === false ? (
+                    <span style={{ color: "#555", fontWeight: 600 }}>
+                      {narrative.source_site}
                     </span>
+                  ) : (
+                    <a href={narrative.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a", fontWeight: 600 }}>
+                      {narrative.source_site}
+                    </a>
                   )}
+                  <span style={{ fontSize: "0.75rem", color: "#999" }}>
+                    {narrative.date_retrieved && <>Retrieved {narrative.date_retrieved}</>}
+                    {narrative.still_live === false && (
+                      <span style={{ color: "#c44", marginLeft: narrative.date_retrieved ? "0.5rem" : undefined }}>(link may no longer be available)</span>
+                    )}
+                  </span>
                 </div>
                 {narrative.summary && <p style={{ fontSize: "0.95rem", color: "#333", lineHeight: 1.7, marginBottom: "0.5rem" }}>{narrative.summary}</p>}
                 {narrative.link_description && (
@@ -1188,10 +1192,19 @@ export default function MemorialPage({ params }: Props) {
             <div style={{ marginBottom: "1rem" }}>
               {memorial.external_narratives.map((n, i) => (
                 <div key={i} style={{ fontSize: "0.9rem", marginBottom: "0.25rem" }}>
-                  <a href={n.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>
-                    {n.source_site}
-                  </a>
-                  {n.date_retrieved && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> (retrieved {n.date_retrieved})</span>}
+                  {n.still_live === false ? (
+                    <span style={{ color: "rgba(201,185,138,0.5)", textDecoration: "line-through" }}>
+                      {n.source_site}
+                    </span>
+                  ) : (
+                    <a href={n.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>
+                      {n.source_site}
+                    </a>
+                  )}
+                  {n.still_live === false && (
+                    <span style={{ color: "rgba(201,185,138,0.4)", fontSize: "0.8rem" }}> (link may no longer be available)</span>
+                  )}
+                  {n.date_retrieved && n.still_live !== false && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> (retrieved {n.date_retrieved})</span>}
                 </div>
               ))}
             </div>
@@ -1204,12 +1217,17 @@ export default function MemorialPage({ params }: Props) {
               <div style={{ marginBottom: "1rem" }}>
                 {uniqueSources.map((source, i) => (
                   <div key={i} style={{ fontSize: "0.9rem", marginBottom: "0.25rem" }}>
-                    {source.url ? (
+                    {source.url && source.still_live !== false ? (
                       <a href={source.url} target="_blank" rel="noopener noreferrer" style={{ color: "#c9b98a" }}>{source.title}</a>
+                    ) : source.url && source.still_live === false ? (
+                      <span style={{ color: "rgba(201,185,138,0.5)", textDecoration: "line-through" }}>{source.title}</span>
                     ) : (
                       <span>{source.title}</span>
                     )}
-                    {source.type && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> ({source.type})</span>}
+                    {source.still_live === false && (
+                      <span style={{ color: "rgba(201,185,138,0.4)", fontSize: "0.8rem" }}> (link may no longer be available)</span>
+                    )}
+                    {source.type && source.still_live !== false && <span style={{ color: "rgba(201,185,138,0.5)", fontSize: "0.8rem" }}> ({source.type})</span>}
                   </div>
                 ))}
               </div>
