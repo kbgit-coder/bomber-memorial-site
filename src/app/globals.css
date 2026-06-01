@@ -116,12 +116,8 @@ button {
   nav,
   [aria-label*="Map"],
   [aria-label*="map"],
-  [class*="MemorialMap"],
-  [class*="memorial-map"],
-  [class*="StubCTA"],
-  [class*="stub-cta"],
+  .maplibregl-map,
   .leaflet-container,
-  .search-bar,
   button {
     display: none !important;
   }
@@ -153,7 +149,7 @@ button {
   }
 
   /* Narrative — keep readable */
-  [style*="borderLeft"] {
+  [style*="border-left"] {
     border-left: 2pt solid #666 !important;
     padding-left: 12pt;
   }
