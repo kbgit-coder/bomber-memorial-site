@@ -8,7 +8,7 @@
   --color-navy-light: #2c3e50;
   --color-gold: #c9b98a;
   --color-gold-border: #8b7355;
-  --color-link: #2c5f8a;
+  --color-link: #7a4500;
   --color-text: #333333;
   --color-text-muted: #666666;
 }
@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-  color: #1a3f5f;
+  color: #4d2b00;
   text-decoration: underline;
 }
 
@@ -56,7 +56,7 @@ a:hover {
 
 /* Keyboard navigation: visible focus ring on all interactive elements */
 :focus-visible {
-  outline: 3px solid #2c5f8a;
+  outline: 3px solid #7a4500;
   outline-offset: 3px;
   border-radius: 3px;
 }
@@ -66,28 +66,27 @@ a:hover {
   outline: none;
 }
 
-/* Minimum 44px touch targets for links and buttons */
-a,
-button {
+/* Minimum 44px touch targets for standalone links and buttons */
+/* Applied via class to avoid disrupting inline/prose links */
+.tap-target {
   min-height: 44px;
+  min-width: 44px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
 }
 
-/* Restore inline display for anchors that should flow with text */
-p a,
-li a,
-td a,
-figcaption a,
-nav a {
-  display: inline;
-  min-height: unset;
+/* Buttons always need tap target sizing */
+button {
+  min-height: 44px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 /* Memorial card hover state — accessible with keyboard */
 .memorial-card:focus-within {
-  box-shadow: 0 0 0 3px #2c5f8a;
-  border-color: #2c5f8a;
+  box-shadow: 0 0 0 3px #7a4500;
+  border-color: #7a4500;
 }
 
 /* ============================================================

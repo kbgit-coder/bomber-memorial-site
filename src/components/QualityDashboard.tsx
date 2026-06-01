@@ -190,7 +190,7 @@ export default function QualityDashboard({ data }: { data: MemorialQuality[] }) 
                   onClick={() => setExpandedSlug(expandedSlug === m.slug ? null : m.slug)}
                 >
                   <td style={{ padding: "0.5rem" }}>
-                    <Link href={`/memorial/${m.slug}`} style={{ color: "#2c5f8a", textDecoration: "none", fontSize: "0.8rem" }} onClick={e => e.stopPropagation()}>
+                    <Link href={`/memorial/${m.slug}`} style={{ color: "#7a4500", textDecoration: "none", fontSize: "0.8rem" }} onClick={e => e.stopPropagation()}>
                       {m.title.length > 50 ? m.title.slice(0, 47) + '...' : m.title}
                     </Link>
                   </td>

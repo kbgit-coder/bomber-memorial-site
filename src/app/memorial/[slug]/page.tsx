@@ -53,7 +53,7 @@ export default function MemorialPage({ params }: Props) {
           Memorial Not Found
         </h1>
         <p>The memorial you are looking for could not be found.</p>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Return to the Register</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Return to the Register</Link>
       </div>
     );
   }
@@ -165,13 +165,13 @@ export default function MemorialPage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
         {memorial.country && (
           <>
             <Link
               href={`/region/${memorial.country.toLowerCase().replace(/\s+/g, "-")}`}
-              style={{ color: "#2c5f8a" }}
+              style={{ color: "#7a4500" }}
             >
               {memorial.country}
             </Link>
@@ -518,7 +518,7 @@ export default function MemorialPage({ params }: Props) {
                   href={`https://what3words.com/${memorial.what3words}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ color: "#2c5f8a", fontWeight: 500 }}
+                  style={{ color: "#7a4500", fontWeight: 500 }}
                 >
                   {"///"}{memorial.what3words}
                 </a>
@@ -735,7 +735,7 @@ export default function MemorialPage({ params }: Props) {
                 return sqSlug ? (
                   <div>
                     <div style={{ fontSize: "0.7rem", color: "#8b7355", textTransform: "uppercase", letterSpacing: "0.05em", marginBottom: "0.2rem" }}>Squadron</div>
-                    <Link href={`/squadron/${sqSlug}`} style={{ color: "#2c5f8a", fontWeight: 500 }}>{memorial.squadron}</Link>
+                    <Link href={`/squadron/${sqSlug}`} style={{ color: "#7a4500", fontWeight: 500 }}>{memorial.squadron}</Link>
                   </div>
                 ) : (
                   <DetailItem label="Squadron" value={memorial.squadron} />
@@ -880,13 +880,13 @@ export default function MemorialPage({ params }: Props) {
               <div key={i} style={{
                 backgroundColor: "#ffffff",
                 border: "1px solid #e0dcd5",
-                borderLeft: "3px solid #2c5f8a",
+                borderLeft: "3px solid #7a4500",
                 borderRadius: "0 8px 8px 0",
                 padding: "1.5rem 2rem",
                 marginBottom: "1rem",
               }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "1rem" }}>
-                  <span style={{ fontSize: "0.8rem", color: "#2c5f8a", fontWeight: 600 }}>
+                  <span style={{ fontSize: "0.8rem", color: "#7a4500", fontWeight: 600 }}>
                     Source: {narrative.source_site}
                   </span>
                   {narrative.date_retrieved && (
@@ -948,7 +948,7 @@ export default function MemorialPage({ params }: Props) {
                     href={narrative.original_url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ fontSize: "0.8rem", color: "#2c5f8a" }}
+                    style={{ fontSize: "0.8rem", color: "#7a4500" }}
                   >
                     View original at {narrative.source_site} &rarr;
                   </a>
@@ -977,7 +977,7 @@ export default function MemorialPage({ params }: Props) {
                 <div>
                   <div style={labelStyle}>Contact Email</div>
                   <div style={{ fontWeight: 500, color: "#333" }}>
-                    <a href={`mailto:${memorial.maintainer.contact_email}`} style={{ color: "#2c5f8a" }}>
+                    <a href={`mailto:${memorial.maintainer.contact_email}`} style={{ color: "#7a4500" }}>
                       {memorial.maintainer.contact_email}
                     </a>
                   </div>
@@ -988,7 +988,7 @@ export default function MemorialPage({ params }: Props) {
                 <div>
                   <div style={labelStyle}>Website</div>
                   <div style={{ fontWeight: 500 }}>
-                    <a href={memorial.maintainer.website} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>
+                    <a href={memorial.maintainer.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500" }}>
                       {memorial.maintainer.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
                     </a>
                   </div>
@@ -1036,11 +1036,11 @@ export default function MemorialPage({ params }: Props) {
                 <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem", fontSize: "0.9rem" }}>
                   {contact.contact_name && <span style={{ color: "#333" }}>{contact.contact_name}</span>}
                   {contact.contact_email && (
-                    <a href={`mailto:${contact.contact_email}`} style={{ color: "#2c5f8a" }}>{contact.contact_email}</a>
+                    <a href={`mailto:${contact.contact_email}`} style={{ color: "#7a4500" }}>{contact.contact_email}</a>
                   )}
                   {contact.contact_phone && <span style={{ color: "#333" }}>{contact.contact_phone}</span>}
                   {contact.website && (
-                    <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>
+                    <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500" }}>
                       {contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
                     </a>
                   )}
@@ -1060,7 +1060,7 @@ export default function MemorialPage({ params }: Props) {
               <div key={i} style={{
                 backgroundColor: "#ffffff",
                 border: "1px solid #e0dcd5",
-                borderLeft: "3px solid #2c5f8a",
+                borderLeft: "3px solid #7a4500",
                 borderRadius: "0 8px 8px 0",
                 padding: "1.25rem 1.5rem",
               }}>
@@ -1070,7 +1070,7 @@ export default function MemorialPage({ params }: Props) {
                       {narrative.source_site}
                     </span>
                   ) : (
-                    <a href={narrative.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a", fontWeight: 600 }}>
+                    <a href={narrative.original_url} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500", fontWeight: 600 }}>
                       {narrative.source_site}
                     </a>
                   )}
@@ -1107,7 +1107,7 @@ export default function MemorialPage({ params }: Props) {
               >
                 <div style={{
                   backgroundColor: "#f8f6f2",
-                  borderLeft: "4px solid #2c5f8a",
+                  borderLeft: "4px solid #7a4500",
                   borderRadius: "0 8px 8px 0",
                   padding: "1rem 1.25rem",
                   transition: "box-shadow 0.2s ease",

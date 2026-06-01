@@ -113,7 +113,7 @@ export default function NotFound() {
       {/* Navigation links */}
       <div style={{ display: "flex", gap: "1.5rem", justifyContent: "center", flexWrap: "wrap" }}>
         <Link href="/" style={{
-          color: "#2c5f8a",
+          color: "#7a4500",
           fontSize: "0.9rem",
           fontFamily: "'Helvetica Neue', Arial, sans-serif",
           textDecoration: "none",
@@ -122,7 +122,7 @@ export default function NotFound() {
         </Link>
         <span style={{ color: "#ccc" }}>|</span>
         <Link href="/region/united-kingdom" style={{
-          color: "#2c5f8a",
+          color: "#7a4500",
           fontSize: "0.9rem",
           fontFamily: "'Helvetica Neue', Arial, sans-serif",
           textDecoration: "none",
@@ -131,7 +131,7 @@ export default function NotFound() {
         </Link>
         <span style={{ color: "#ccc" }}>|</span>
         <Link href="/about" style={{
-          color: "#2c5f8a",
+          color: "#7a4500",
           fontSize: "0.9rem",
           fontFamily: "'Helvetica Neue', Arial, sans-serif",
           textDecoration: "none",

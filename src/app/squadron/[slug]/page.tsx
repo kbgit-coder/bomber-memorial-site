@@ -29,7 +29,7 @@ export default function SquadronPage({ params }: Props) {
         <h1 style={{ fontFamily: "'Helvetica Neue', Arial, sans-serif", color: "#1a2332" }}>
           Squadron Not Found
         </h1>
-        <Link href="/squadron" style={{ color: "#2c5f8a" }}>View all squadrons</Link>
+        <Link href="/squadron" style={{ color: "#7a4500" }}>View all squadrons</Link>
       </div>
     );
   }
@@ -47,9 +47,9 @@ export default function SquadronPage({ params }: Props) {
     <div style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
-        <Link href="/squadron" style={{ color: "#2c5f8a" }}>Squadrons</Link>
+        <Link href="/squadron" style={{ color: "#7a4500" }}>Squadrons</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
         <span style={{ color: "#999" }}>{squadron.name}</span>
       </nav>
@@ -135,7 +135,7 @@ export default function SquadronPage({ params }: Props) {
             href={squadron.association_url}
             target="_blank"
             rel="noopener noreferrer"
-            style={{ color: "#2c5f8a" }}
+            style={{ color: "#7a4500" }}
           >
             {squadron.association_url.replace(/^https?:\/\//, "").replace(/\/$/, "")}
           </a>
@@ -196,7 +196,7 @@ export default function SquadronPage({ params }: Props) {
                   <div style={{ fontSize: "0.75rem", color: "#999" }}>{m.serial_number}</div>
                 )}
                 {m.crew && m.crew.length > 0 && (
-                  <div style={{ fontSize: "0.75rem", color: "#2c5f8a", marginTop: "0.25rem" }}>
+                  <div style={{ fontSize: "0.75rem", color: "#7a4500", marginTop: "0.25rem" }}>
                     {m.crew.length} crew
                   </div>
                 )}
@@ -414,7 +414,7 @@ export default function SquadronPage({ params }: Props) {
                 color: "#666",
               }}>
                 Squadron history sourced from{" "}
-                <a href={squadron.history.source_url} target="_blank" rel="noopener noreferrer" style={{ color: "#2c5f8a" }}>
+                <a href={squadron.history.source_url} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500" }}>
                   {squadron.history.source_name || squadron.history.source_url.replace(/^https?:\/\//, "").replace(/\/$/, "")}
                 </a>
                 . All content is attributed to the original authors and used with respect for their research.

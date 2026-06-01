@@ -10,7 +10,7 @@ export default function FAQPage() {
   return (
     <div style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
         <span style={{ color: "#999" }}>FAQ</span>
       </nav>
@@ -26,7 +26,7 @@ export default function FAQPage() {
 
       <p style={{ fontSize: "1rem", color: "#666", lineHeight: 1.8 }}>
         This page is coming soon. In the meantime, please{" "}
-        <Link href="/contact" style={{ color: "#2c5f8a" }}>contact us</Link>{" "}
+        <Link href="/contact" style={{ color: "#7a4500" }}>contact us</Link>{" "}
         with any questions.
       </p>
     </div>

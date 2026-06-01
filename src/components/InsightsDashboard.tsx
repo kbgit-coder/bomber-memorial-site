@@ -25,10 +25,10 @@ const NAVY = "#1a2332";
 const GOLD = "#c9b98a";
 const WARM_BROWN = "#8b7355";
 const CHART_COLOURS = [
-  "#2c5f8a", "#c9b98a", "#8b7355", "#4a7c59", "#a85d3f",
-  "#6b5b8a", "#3a7d7b", "#c4784a", "#5c7a3a", "#8a5c6b",
+  "#7a4500", "#c9b98a", "#8b7355", "#4a7c59", "#a85d3f",
+  "#3a7d7b", "#c4784a", "#5c7a3a", "#8c5a2a", "#4a6b3a",
 ];
-const PIE_COLOURS = ["#2c5f8a", "#c9b98a", "#8b7355", "#4a7c59", "#a85d3f", "#6b5b8a", "#3a7d7b", "#c4784a"];
+const PIE_COLOURS = ["#7a4500", "#c9b98a", "#8b7355", "#4a7c59", "#a85d3f", "#3a7d7b", "#c4784a", "#5c7a3a"];
 
 function StatCard({ value, label, accent }: { value: string | number; label: string; accent?: string }) {
   return (
@@ -178,16 +178,16 @@ export default function InsightsDashboard({ data }: { data: InsightsData }) {
             <AreaChart data={data.crashesByYear} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
               <defs>
                 <linearGradient id="yearGrad" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="5%" stopColor="#2c5f8a" stopOpacity={0.3} />
-                  <stop offset="95%" stopColor="#2c5f8a" stopOpacity={0} />
+                  <stop offset="5%" stopColor="#7a4500" stopOpacity={0.3} />
+                  <stop offset="95%" stopColor="#7a4500" stopOpacity={0} />
                 </linearGradient>
               </defs>
               <CartesianGrid strokeDasharray="3 3" stroke="#eee" />
               <XAxis dataKey="year" tick={{ fontSize: 12, fill: "#888" }} />
               <YAxis tick={{ fontSize: 12, fill: "#888" }} />
               <Tooltip content={<CustomTooltip />} />
-              <Area type="monotone" dataKey="count" stroke="#2c5f8a" strokeWidth={2.5} fill="url(#yearGrad)">
-                <LabelList dataKey="count" position="top" style={{ fontSize: 11, fontWeight: 600, fill: "#2c5f8a" }} />
+              <Area type="monotone" dataKey="count" stroke="#7a4500" strokeWidth={2.5} fill="url(#yearGrad)">
+                <LabelList dataKey="count" position="top" style={{ fontSize: 11, fontWeight: 600, fill: "#7a4500" }} />
               </Area>
             </AreaChart>
           </ResponsiveContainer>

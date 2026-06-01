@@ -90,8 +90,9 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
           onClick={handleOpen}
           style={{
             padding: "0.5rem 1.25rem",
-            backgroundColor: "#d4a017",
-            color: "#ffffff",
+            minHeight: 44,
+            backgroundColor: "#1a2332",
+            color: "#c9b98a",
             border: "none",
             borderRadius: 6,
             fontSize: "0.875rem",
@@ -209,8 +210,9 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
             disabled={submitting}
             style={{
               padding: "0.5rem 1.25rem",
-              backgroundColor: submitting ? "#999" : "#d4a017",
-              color: "#ffffff",
+              minHeight: 44,
+              backgroundColor: submitting ? "#999" : "#1a2332",
+              color: "#c9b98a",
               border: "none",
               borderRadius: 6,
               fontSize: "0.875rem",
@@ -226,11 +228,12 @@ export default function HelpVerifyForm({ memorialId, memorialTitle }: HelpVerify
             onClick={() => setOpen(false)}
             style={{
               padding: "0.5rem 1rem",
+              minHeight: 44,
               backgroundColor: "transparent",
-              border: "1px solid #d4a017",
+              border: "1px solid #1a2332",
               borderRadius: 6,
               fontSize: "0.875rem",
-              color: "#5a4a1e",
+              color: "#1a2332",
               cursor: "pointer",
             }}
           >

@@ -16,7 +16,7 @@ export default function InsightsPage() {
     <div data-pagefind-ignore style={{ maxWidth: 1200, margin: "0 auto", padding: "2rem 1.5rem" }}>
       {/* Breadcrumb */}
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>
+        <Link href="/" style={{ color: "#7a4500" }}>
           Home
         </Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>

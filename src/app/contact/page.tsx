@@ -11,7 +11,7 @@ export default function ContactPage() {
   return (
     <div style={{ maxWidth: 800, margin: "0 auto", padding: "2rem 1.5rem" }}>
       <nav style={{ marginBottom: "1.5rem", fontSize: "0.85rem" }}>
-        <Link href="/" style={{ color: "#2c5f8a" }}>Home</Link>
+        <Link href="/" style={{ color: "#7a4500" }}>Home</Link>
         <span style={{ color: "#999", margin: "0 0.5rem" }}>/</span>
         <span style={{ color: "#999" }}>Contact</span>
       </nav>
@@ -43,7 +43,7 @@ export default function ContactPage() {
 
       <p style={{ fontSize: "0.85rem", color: "#999", marginTop: "1.5rem" }}>
         Or email us directly at{" "}
-        <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#2c5f8a" }}>
+        <a href="mailto:admin@bombermemorial.co.uk" style={{ color: "#7a4500" }}>
           admin@bombermemorial.co.uk
         </a>
       </p>
