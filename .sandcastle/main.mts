@@ -27,6 +27,9 @@ await run({
     containerGid: 1000,
     env: {
       FORGEJO_TOKEN: process.env.FORGEJO_TOKEN ?? "",
+      // Max-subscription auth: CLAUDE_CODE_OAUTH_TOKEN (from `claude setup-token`) makes
+      // claude-code bill the Max plan instead of the metered ANTHROPIC_API_KEY.
+      CLAUDE_CODE_OAUTH_TOKEN: process.env.CLAUDE_CODE_OAUTH_TOKEN ?? "",
     },
   }),
 
