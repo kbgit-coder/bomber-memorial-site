@@ -8,7 +8,7 @@
   "crash_date": "1944-11-26",
   "aircraft_type": "Lancaster",
   "serial_number": "PB432",
-  "squadron": "49 Squadron RAF",
+  "squadron": "49 Squadron",
   "station": "Fulbeck",
   "crew_summary": "2 of 7 killed including Sgt. Norman Isaac Langley",
   "memorial_type": "Memorial stone",
@@ -90,13 +90,13 @@
     "community_submissions": 0,
     "last_reviewed": "2026-04-06"
   },
-  "squadron_display_name": "49 Squadron RAF",
+  "squadron_display_name": "49 Squadron",
   "squadron_aliases": [
     "49 Sqdn.",
     "49 Squadron"
   ],
   "memorial_details": "Name: Blake, E. G.\nLocation: Avro Lancaster PB432 (WMR 92263) Dry Doddington Lincolnshire",
-  "narrative": "Lancaster PB432 of 49 Squadron RAF departed Fulbeck on operations on 26 November 1944, with pilot Le Marquand at the controls. The aircraft came down at Dry Doddington, Lincolnshire, a short distance from its home station. Of the seven crew members aboard, two were killed: Sergeant E. G. Blake, air gunner, and Sergeant Norman Isaac Langley, wireless operator. The remaining five, including navigator R.E. Ransom and flight engineer W.S. Wade, survived.",
+  "narrative": "Lancaster PB432 of 49 Squadron departed Fulbeck on operations on 26 November 1944, with pilot Le Marquand at the controls. The aircraft came down at Dry Doddington, Lincolnshire, a short distance from its home station. Of the seven crew members aboard, two were killed: Sergeant E. G. Blake, air gunner, and Sergeant Norman Isaac Langley, wireless operator. The remaining five, including navigator R.E. Ransom and flight engineer W.S. Wade, survived.",
   "crew": [
     {
       "name": "E. G. Blake",
@@ -110,25 +110,29 @@
       "name": "G.H. Le Marquand",
       "rank": "Le Marquand",
       "fate": "Unknown",
-      "role": "Pilot"
+      "role": "Pilot",
+      "nationality": "British"
     },
     {
       "name": "W.S. Wade",
       "rank": null,
       "fate": "Survived",
-      "role": "F/E"
+      "role": "F/E",
+      "nationality": "British"
     },
     {
       "name": "R.E. Ransom",
       "rank": null,
       "fate": "Survived",
-      "role": "NAV"
+      "role": "NAV",
+      "nationality": "British"
     },
     {
       "name": "N.I. Langley",
       "rank": null,
       "fate": "Killed",
-      "role": "W/OP"
+      "role": "W/OP",
+      "nationality": "British"
     }
   ],
   "crash_category": "unknown",

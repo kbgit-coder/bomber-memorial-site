@@ -30,7 +30,8 @@
       "fate": "Killed",
       "fate_detail": "Killed when the B-17 struck a tree during a low-altitude turn near Nailstone and exploded. All twelve aboard died.",
       "bio": "First Lieutenant and pilot of the B-17 'Heavenly Body', 490th Bomb Group.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "1st Lt",
@@ -40,7 +41,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion at Nailstone.",
       "bio": "First Lieutenant and co-pilot of the 'Heavenly Body'.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "2nd Lt",
@@ -50,7 +52,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Second Lieutenant and navigator.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "2nd Lt",
@@ -60,7 +63,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Second Lieutenant and bomb aimer.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "T/Sgt",
@@ -70,7 +74,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Technical Sergeant and flight engineer.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "T/Sgt",
@@ -80,7 +85,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Technical Sergeant and radio operator.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -90,7 +96,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Staff Sergeant and ball turret gunner.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -100,7 +107,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Staff Sergeant and waist gunner.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -110,7 +118,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash and explosion.",
       "bio": "Staff Sergeant and tail gunner.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -120,7 +129,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Was a passenger along for the night navigation exercise.",
       "bio": "Staff Sergeant, a passenger who was not part of the regular crew.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -130,7 +140,8 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. One of three passengers aboard.",
       "bio": "Staff Sergeant, a passenger.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "rank": "S/Sgt",
@@ -140,25 +151,29 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. One of three passengers aboard.",
       "bio": "Staff Sergeant, a passenger.",
-      "decorations": []
+      "decorations": [],
+      "nationality": "American"
     },
     {
       "name": "Rich Herman",
       "rank": null,
       "fate": "Killed",
-      "role": "Navigator"
+      "role": "Navigator",
+      "nationality": "American"
     },
     {
       "name": "Roy Griswould",
       "rank": "Unknown",
       "fate": "Killed",
-      "role": "Flight engineer/top turret gunner"
+      "role": "Flight engineer/top turret gunner",
+      "nationality": "American"
     },
     {
       "name": "Americo Virgili",
       "rank": "Unknown",
       "fate": "Killed",
-      "role": "Tail gunner"
+      "role": "Tail gunner",
+      "nationality": "American"
     }
   ],
   "cause_of_loss": "Nose dropped during turn; port wing struck ground; destroyed by fire and explosion",

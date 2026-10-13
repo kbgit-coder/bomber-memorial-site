@@ -45,7 +45,7 @@
       "still_live": true,
       "link_description": "Carleton Rode's Memorial: Glory\" at American Air Museum, honoring B-24J 'Old Glory'.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "American Air Museum",
@@ -61,7 +61,7 @@
       "still_live": true,
       "link_description": "Explore Carleton Rode (2) McGoon's Memorial at American Air Museum: Learn about B-24J Earthquake McGoon and its tragic collision in 1944.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     }
   ],
   "crew": [
@@ -69,7 +69,8 @@
       "name": "James Edward Rhine",
       "rank": "1Lt",
       "role": "Pilot (44-10513 \"Old Glory\")",
-      "fate": "Killed"
+      "fate": "Killed",
+      "nationality": "American"
     }
   ],
   "local_contacts": [

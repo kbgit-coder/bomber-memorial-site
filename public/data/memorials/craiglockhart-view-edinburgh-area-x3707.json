@@ -82,12 +82,14 @@
       "fate": "Killed",
       "fate_detail": "Killed in the crash. Kaulis was a USAAC signals officer aboard as part of the close Anglo-American collaboration on radar technology. His burial location has not been confirmed.",
       "bio": "An American signals officer from the USAAC, Kaulis's presence on the aircraft reflected the close Anglo-American wartime collaboration on radar development.",
-      "service_number": "USAAC"
+      "service_number": "USAAC",
+      "nationality": "American"
     },
     {
       "name": "Thomas French.l",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     }
   ],
   "cause_of_loss": "Engine failure; aircraft struck Allan Park Bridge while descending",

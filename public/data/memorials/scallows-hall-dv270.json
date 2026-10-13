@@ -102,42 +102,48 @@
       "rank": "F/O",
       "fate": "Killed",
       "role": "Pilot",
-      "age": 21
+      "age": 21,
+      "nationality": "British"
     },
     {
       "name": "Albert Douglas Wells",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "William Reid",
       "rank": "F/O",
       "fate": "Killed",
       "role": "Navigator",
-      "age": 30
+      "age": 30,
+      "nationality": "British"
     },
     {
       "name": "John Winton Anderson",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Bomb Aimer",
-      "age": 30
+      "age": 30,
+      "nationality": "British"
     },
     {
       "name": "Stanley George Burton",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "Robert Stanley Bradbury",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Air Gunner",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "Andy Bray",
@@ -149,12 +155,14 @@
     {
       "name": "Raymond Spierling",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "British"
     },
     {
       "name": "John Redden",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "British"
     },
     {
       "name": "Robert 'Bob' Blucke",
@@ -167,5 +175,6 @@
   "memorial_details": "On the wall of the White Hart pub is a bronze plaque dedicated in 2007 to the 740 101 Sqn aircrew and ground crew who were killed while serving at Ludford Magna between June 1943 and May 1945.\n\n101 Squadron centenary memorial On Saturday 23rd September 2017 over 140 members of the 101 Squadron Association gathered at the National Memorial Arboretum, Alrewas, Staffordshire to witness the unveiling and dedication of a new memorial to celebrate 100 years of service by 101 Squadron RAF.\n\nMemorial Unveiling and Remembrance Service (16th July 1978): A memorial to 101 Squadron was unveiled at Ludford Magna by AVM Robert ‘Bob’ Blucke DSO AFC. Over 300 attendees followed the unveiling with a tea provided by the Ludford WI.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/101.jpg"
 }

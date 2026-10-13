@@ -168,12 +168,14 @@
     {
       "name": "A. E. Mckenzie",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "Canadian"
     },
     {
       "name": "A. E. Moss",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "Canadian"
     },
     {
       "name": "Harry Bernard SHIMWELL",
@@ -185,7 +187,8 @@
     {
       "name": "A. D. Weigh",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "Canadian"
     },
     {
       "name": "Lester Lyle WHITHAM",
@@ -206,17 +209,20 @@
     {
       "name": "Harry Bernard",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "Canadian"
     },
     {
       "name": "Albert Edward",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "Canadian"
     },
     {
       "name": "Allan Desmond",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "Canadian"
     }
   ],
   "memorial_details": "A brick built wall with a pillar either side capped with a flagstone, in front is a smaller brick built plinth with a sloping top. This supports a metal plaque with an incised inscription picked out in white. The whole is placed within a gravel bed surrounded by brick kerbstones. At the rear are two flagpoles with the Union and Canadian flag flying, and to the right rear of the monument is a Canadian Maple Tree planted at the time of the dedication. On the plaque at top centre is the badge of the RCAF, and below on the left hand side the names of the crew; on the right hand side the poem 'High Flight' and at bottom a graphic picture of a Halifax bomber. Due to accessibility problems, in 2019 a replica to this memorial was sited near the clubhouse of South Kyme Golf Club (ref 100041). This memorial remains in its original position.\n\nMemorial Unveiling (2019): Unveiling of the Handley Page Halifax LK954 memorial\n\nMemorial Dedication (3-4/11/43): The aircraft crash resulting in the death of all eight crew members from 428 (Royal Canadian Air Force) Squadron Halifax LK954 NA-E",
@@ -237,5 +243,6 @@
     "https://media.iwm.org.uk/ciim5/memorials/98/45/large_halifax_lk954_na_e_memorial.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/98/46/large_halifax_lk954_na_e_memorial_plaque.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/98/47/large_halifax_lk954_na_e_memorial_in_context.jpg"
-  ]
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/428.jpg"
 }

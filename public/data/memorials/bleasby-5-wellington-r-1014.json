@@ -129,27 +129,30 @@
     "304 Squadron",
     "304 Sqdn."
   ],
-  "narrative": "Flying from Syerston with 304 (Silesian) Squadron, Wellington R.1014 crashed near Bleasby, Nottinghamshire on 6 February 1941. The pilot, Sergeant Stanis\u0142aw Tofin, aged 35, was killed alongside all four Polish crew members on board. Sergeant Wojciech Lichota, aged 32, and Sergeant Jan Adam Cymborski, who served as wireless operator, were also among the dead. There were no survivors. The crew are commemorated at a memorial near the crash site in Bleasby.",
+  "narrative": "Flying from Syerston with 304 (Silesian) Squadron, Wellington R.1014 crashed near Bleasby, Nottinghamshire on 6 February 1941. The pilot, Sergeant Stanisław Tofin, aged 35, was killed alongside all four Polish crew members on board. Sergeant Wojciech Lichota, aged 32, and Sergeant Jan Adam Cymborski, who served as wireless operator, were also among the dead. There were no survivors. The crew are commemorated at a memorial near the crash site in Bleasby.",
   "crew": [
     {
-      "name": "Stanis\u0142aw Tofin",
+      "name": "Stanisław Tofin",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Pilot",
-      "age": 35
+      "age": 35,
+      "nationality": "Polish"
     },
     {
       "name": "Wojciech Lichota",
       "rank": "Sgt",
       "fate": "Killed",
-      "age": 32
+      "age": 32,
+      "nationality": "Polish"
     },
     {
       "name": "Jan Adam Cymborski",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "age": 35
+      "age": 35,
+      "nationality": "Polish"
     }
   ],
   "crash_category": "takeoff-landing",

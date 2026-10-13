@@ -141,17 +141,20 @@
     {
       "name": "John Anderson",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     },
     {
       "name": "John R Bathe",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     },
     {
       "name": "James G Davenport",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     },
     {
       "name": "Douglas R Dibbins",
@@ -163,7 +166,8 @@
     {
       "name": "Norris M Harrison",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     },
     {
       "name": "Gerald J Head",
@@ -175,54 +179,62 @@
     {
       "name": "Kenneth C Oswald",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "nationality": "British"
     },
     {
       "name": "Douglas Robert Dibbins",
       "rank": "P/O",
       "fate": "Killed",
       "role": "Pilot",
-      "age": 21
+      "age": 21,
+      "nationality": "British"
     },
     {
       "name": "Gerard John Head",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "age": 20
+      "age": 20,
+      "nationality": "British"
     },
     {
       "name": "Kenneth Craven Oswald",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Navigator",
-      "age": 22
+      "age": 22,
+      "nationality": "British"
     },
     {
       "name": "John Raymond Bathe",
       "rank": "Fl/Sgt",
       "fate": "Killed",
       "role": "Bomb Aimer",
-      "age": 30
+      "age": 30,
+      "nationality": "British"
     },
     {
       "name": "James George Davenport",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "age": 21
+      "age": 21,
+      "nationality": "British"
     },
     {
       "name": "Norris Mervyn Harrison",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Air Gunner",
-      "age": 19
+      "age": 19,
+      "nationality": "British"
     },
     {
       "name": "Wolfgang Wenning Stab",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "British"
     }
   ],
   "memorial_details": "White plastic plaque surmounting an angled brick plinth. The plaque is incised with a dedication in black lettering and in the top left corner is the crest of 76 Squadron.\n\nMemorial Display: The memorial displays the Handley Page Halifax LK789 aircraft, which is associated with World War II.",
@@ -246,5 +258,6 @@
     "https://media.iwm.org.uk/ciim5/memorials/173/242/large_20200625_manea_6.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/173/243/large_20200625_manea_2.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/173/244/large_20200625_manea_12.jpg"
-  ]
+  ],
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/76.jpg"
 }

@@ -39,7 +39,7 @@
       "still_live": true,
       "link_description": "Detailed account of Blenheim V5455 crash site memorial in Brisley, Norfolk.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Waymarking",
@@ -54,7 +54,7 @@
       "still_live": true,
       "link_description": "Crew's Operation Millennium participation and crash site memorial details, including 2000 installation.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "Norfolk Heritage Explorer",
@@ -83,14 +83,16 @@
       "rank": "Sgt",
       "age": 19,
       "fate": "Killed",
-      "role": "Unknown (not specified in text)"
+      "role": "Unknown (not specified in text)",
+      "nationality": "British"
     },
     {
       "name": "Leslie Harrowell",
       "rank": "Sgt",
       "age": 22,
       "fate": "Killed",
-      "role": "Unknown (not specified in text)"
+      "role": "Unknown (not specified in text)",
+      "nationality": "British"
     }
   ],
   "local_contacts": [
@@ -126,5 +128,6 @@
   "community_connection": "",
   "memorial_details": "A memorial was placed at the site in 2000 to honor these young airmen.\n\nMemorial placement (2000): Memorial placed on site in 2000",
   "crash_category": "unknown",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/114.jpg"
 }

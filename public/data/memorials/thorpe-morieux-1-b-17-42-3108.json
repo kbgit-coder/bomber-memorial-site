@@ -45,7 +45,7 @@
       "still_live": true,
       "link_description": "Explore American Air Museum archive for 447th Bomb Group's operational history and losses.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "US Mil Awards",
@@ -96,12 +96,14 @@
     {
       "name": "Eldon Henningsen",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "American"
     },
     {
       "name": "Pete Ebersole",
       "rank": null,
-      "fate": "Unknown"
+      "fate": "Unknown",
+      "nationality": "American"
     }
   ],
   "crash_category": "unknown",
