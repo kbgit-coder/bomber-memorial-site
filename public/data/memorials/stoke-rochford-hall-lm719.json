@@ -12,13 +12,13 @@
   "squadron": "1653 HCU",
   "station": "RAF North Luffenham",
   "crew": [
-    {"name": "Norman William Guy", "rank": "Flight Lieutenant", "role": "Pilot", "age": 24, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"},
-    {"name": "Richard Knut Ourom", "rank": "Flying Officer", "role": "Navigator", "age": 20, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"},
-    {"name": "John Donald Travis", "rank": "Flying Officer", "role": "Wireless Operator", "age": 20, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"},
-    {"name": "Donald Roger Wilson", "rank": "Flight Sergeant", "role": "Bomb Aimer", "age": 20, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"},
-    {"name": "Henry William Jones", "rank": "Sergeant", "role": "Flight Engineer", "age": 21, "service": "RAF VR", "fate": "Killed", "grave": "Romford Cemetery, Essex"},
-    {"name": "Verle Edmund Cline", "rank": "Sergeant", "role": "Air Gunner", "age": 21, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"},
-    {"name": "James Roy Williams", "rank": "Sergeant", "role": "Air Gunner", "age": 20, "service": "RCAF", "fate": "Killed", "grave": "Brookwood Military Cemetery, Surrey"}
+    {"name": "Norman William Guy", "rank": "Flight Lieutenant", "role": "Pilot", "age": 24, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"},
+    {"name": "Richard Knut Ourom", "rank": "Flying Officer", "role": "Navigator", "age": 20, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"},
+    {"name": "John Donald Travis", "rank": "Flying Officer", "role": "Wireless Operator", "age": 20, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"},
+    {"name": "Donald Roger Wilson", "rank": "Flight Sergeant", "role": "Bomb Aimer", "age": 20, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"},
+    {"name": "Henry William Jones", "rank": "Sergeant", "role": "Flight Engineer", "age": 21, "nationality": "RAF VR", "fate": "Killed", "burial_location": "Romford Cemetery, Essex"},
+    {"name": "Verle Edmund Cline", "rank": "Sergeant", "role": "Air Gunner", "age": 21, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"},
+    {"name": "James Roy Williams", "rank": "Sergeant", "role": "Air Gunner", "age": 20, "nationality": "RCAF", "fate": "Killed", "burial_location": "Brookwood Military Cemetery, Surrey"}
   ],
   "crew_summary": "7 crew — 7 killed (6 RCAF, 1 RAF VR). Pilot Flt Lt Norman William Guy, age 24. All six Canadians buried at Brookwood Military Cemetery; Sgt Jones at Romford Cemetery, Essex.",
   "memorial_type": "Plaque and memorial tree",
