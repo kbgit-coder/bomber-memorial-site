@@ -146,5 +146,17 @@
   ],
   "crash_category": "training",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "additional_contributors": [
+    {
+      "name": "Gillian Enstone",
+      "role": "Rauceby Parish Council — location correction",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "Ian Grady",
+      "role": "Rauceby Parish Council — location verification",
+      "date": "2026-04-02"
+    }
+  ]
 }

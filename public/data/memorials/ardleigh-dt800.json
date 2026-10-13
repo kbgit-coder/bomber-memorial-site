@@ -168,5 +168,17 @@
   "memorial_details": "Memorial Dedication (May 2015): A memorial to the crew of DY- G 'George' JB848 was dedicated.\n\nThis memorial was established by the Barmby-on-the-Moor community following the tragic crash of the Handley Page Halifax II on March 29, 1943.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "additional_contributors": [
+    {
+      "name": "Tim Barrott",
+      "role": "Community contributor — location correction and Millennium Green documentation",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "Jill Hamblin",
+      "role": "Community contributor — location verification",
+      "date": "2026-04-02"
+    }
+  ]
 }
