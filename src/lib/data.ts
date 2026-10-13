@@ -352,7 +352,7 @@ export function getInsightsData() {
     const q = m.data_quality || 'Unknown';
     qualCounts[q] = (qualCounts[q] || 0) + 1;
   }
-  const qualityOrder = ['Complete', 'Partial', 'Stub', 'Unknown'];
+  const qualityOrder = ['Comprehensive', 'Partial', 'Stub', 'Unknown'];
   const dataQuality = Object.entries(qualCounts)
     .map(([quality, count]) => ({ quality, count }))
     .sort((a, b) => qualityOrder.indexOf(a.quality) - qualityOrder.indexOf(b.quality));
