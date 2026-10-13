@@ -26,8 +26,8 @@
   "contributor": "Keith Binley",
   "last_updated": "2026-04-09",
   "data_quality": "Comprehensive",
-  "latitude": 52.99208,
-  "longitude": -0.756975,
+  "latitude": 52.989056,
+  "longitude": -0.769591,
   "maintainer": {
     "organisation": "Long Bennington Parish Council",
     "maintainer_type": "parish-council"
@@ -136,11 +136,13 @@
     }
   ],
   "location_confidence": {
-    "status": "confirmed",
+    "status": "verified",
+    "score": 3,
     "verified_by": "Geoffrey Fearn (landowner — memorial is on his property)",
-    "verification_date": "2026-04-06",
+    "verification_date": "2026-10-13",
+    "verification_notes": "v3: Precise coordinates from IWM memorial 99212 + Geograph 6502332, confirmed by Geoffrey Fearn satellite annotation (PDF on NAS). Field off Costa Row, ~950m SW of Long Bennington village, near RAF Bottesford.",
     "community_submissions": 1,
-    "last_reviewed": "2026-04-06"
+    "last_reviewed": "2026-10-13"
   },
   "squadron_display_name": "467 Squadron RAAF",
   "squadron_aliases": [
