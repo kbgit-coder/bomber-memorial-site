@@ -150,6 +150,10 @@ def check_memorial_page(slug, html, data):
         ai_refusals = ['does not explicitly', 'the text does not', 'I cannot', 'As an AI', 'no specific']
         for phrase in ai_refusals:
             if phrase.lower() in cc.lower():
+                idx = cc.lower().find(phrase.lower())
+                context = cc[idx:idx+40]
+                if phrase == 'As an AI' and 'air' in context.lower()[:10]:
+                    continue
                 issues.append(('ERROR', f'AI refusal text in community_connection: "{phrase}"'))
 
     # ═══════════════════════════════════════════════════════════
