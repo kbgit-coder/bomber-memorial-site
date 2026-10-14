@@ -541,7 +541,9 @@ export default function MemorialPage({ params }: Props) {
         <h2 style={sectionHeading}>What Happened</h2>
         {memorial.narrative ? (
           <div style={narrativeBox}>
-            {memorial.narrative}
+            {memorial.narrative.split('\n\n').map((para, i) => (
+              <p key={i} style={{ marginBottom: i < memorial.narrative!.split('\n\n').length - 1 ? '1rem' : 0 }}>{para}</p>
+            ))}
           </div>
         ) : (
           <div style={{
@@ -577,7 +579,9 @@ export default function MemorialPage({ params }: Props) {
         <h2 style={sectionHeading}>Community Connection</h2>
         {memorial.community_connection ? (
           <div style={narrativeBox}>
-            {memorial.community_connection}
+            {memorial.community_connection.split('\n\n').map((para, i) => (
+              <p key={i} style={{ marginBottom: i < memorial.community_connection!.split('\n\n').length - 1 ? '1rem' : 0 }}>{para}</p>
+            ))}
           </div>
         ) : (
           <div style={{
@@ -609,6 +613,62 @@ export default function MemorialPage({ params }: Props) {
           </div>
         )}
       </section>
+
+      {/* Documents / Downloads */}
+      {memorial.documents && memorial.documents.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>Documents</h2>
+          <div style={cardBox}>
+            {memorial.documents.map((doc, i) => (
+              <div key={i} style={{
+                display: "flex",
+                alignItems: "flex-start",
+                gap: "1rem",
+                padding: "1rem",
+                backgroundColor: i % 2 === 0 ? "#faf8f4" : "#ffffff",
+                borderRadius: 6,
+                marginBottom: i < memorial.documents!.length - 1 ? "0.5rem" : 0,
+              }}>
+                <div style={{
+                  flexShrink: 0,
+                  width: 40,
+                  height: 40,
+                  backgroundColor: "#1a2332",
+                  borderRadius: 6,
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  color: "#c9b98a",
+                  fontSize: "0.75rem",
+                  fontWeight: 700,
+                }}>PDF</div>
+                <div style={{ flex: 1 }}>
+                  <a
+                    href={`/${doc.filename}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: "#1a2332", fontWeight: 600, fontSize: "0.95rem", textDecoration: "none" }}
+                  >
+                    {doc.title}
+                  </a>
+                  {doc.description && (
+                    <p style={{ fontSize: "0.85rem", color: "#666", marginTop: "0.25rem", lineHeight: 1.5 }}>
+                      {doc.description}
+                    </p>
+                  )}
+                  {(doc.author || doc.pages) && (
+                    <p style={{ fontSize: "0.8rem", color: "#999", marginTop: "0.25rem" }}>
+                      {doc.author && <span>{doc.author}</span>}
+                      {doc.author && doc.pages && <span> · </span>}
+                      {doc.pages && <span>{doc.pages} pages</span>}
+                    </p>
+                  )}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Remembrance — moved up for human story flow */}
       {(() => {

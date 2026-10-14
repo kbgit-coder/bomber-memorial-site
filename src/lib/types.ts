@@ -149,4 +149,13 @@ export interface Memorial {
   narrative_source?: string;
   squadron_display_name?: string;
   squadron_aliases?: string[];
+  documents?: MemorialDocument[];
+}
+
+export interface MemorialDocument {
+  title: string;
+  filename: string;
+  description?: string;
+  author?: string;
+  pages?: number;
 }
