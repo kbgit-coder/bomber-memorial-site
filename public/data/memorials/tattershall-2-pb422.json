@@ -10,7 +10,7 @@
   "serial_number": "PB422",
   "squadron": "97 Sqdn.",
   "station": "Coningsby",
-  "crew_summary": "4 killed including pilot Flg Off. Ronald William Wright",
+  "crew_summary": "4 killed including pilot Flt Lt Ronald William Wright",
   "memorial_type": "Bridge memorial",
   "sources": [
     {
@@ -141,14 +141,16 @@
       "fate": "Killed",
       "role": "Flight Engineer",
       "burial_location": "Liverpool (Allerton) Cemetery, United Kingdom",
+      "hometown": "Liverpool",
       "nationality": "British"
     },
     {
       "name": "Ronald William WRIGHT",
-      "rank": "Flying Officer",
+      "rank": "Flight Lieutenant",
       "fate": "Killed",
       "role": "Pilot",
       "burial_location": "Cardington (St. Mary) Church Cemetery, Cardington",
+      "hometown": "Cardington",
       "nationality": "British"
     }
   ],

@@ -150,55 +150,61 @@
   "community_connection": "Molten metal recovered from the crash site is incorporated into the sculpture.",
   "crew": [
     {
-      "name": "Robert Manbeck Robert Manbeck",
+      "name": "Robert S. Griffin",
       "rank": null,
-      "fate": "Unknown",
+      "fate": "Killed",
+      "role": "Pilot",
+      "age": 24,
       "nationality": "American"
     },
     {
-      "name": "Herbert S Geller",
+      "name": "Herbert S. Geller",
       "rank": null,
-      "fate": "Unknown",
+      "fate": "Killed",
       "role": "Co-pilot",
       "nationality": "American"
     },
     {
-      "name": "Runyon",
-      "rank": "Royal",
-      "fate": "Unknown",
-      "nationality": "American"
-    },
-    {
-      "name": "Thomas Hickey",
+      "name": "Royal A. Runyon",
       "rank": null,
-      "fate": "Unknown",
+      "fate": "Killed",
+      "role": "Navigator",
       "nationality": "American"
     },
     {
-      "name": "Colonel Dan Benson",
+      "name": "Robert Manbeck",
       "rank": null,
-      "fate": "Unknown",
-      "role": "US Air Attaché",
+      "fate": "Killed",
       "nationality": "American"
     },
     {
-      "name": "Wing Tip Photo",
+      "name": "Donald W. Jeffrey",
       "rank": null,
-      "fate": "Unknown",
+      "fate": "Killed",
       "nationality": "American"
     },
     {
-      "name": "Wing Tips",
+      "name": "Philip J. Phillips Jr",
       "rank": null,
-      "fate": "Unknown",
+      "fate": "Killed",
       "nationality": "American"
     },
     {
-      "name": "Robert S Griffin",
-      "rank": "Griffin",
-      "fate": "Unknown",
-      "role": "Pilot",
-      "age": 24,
+      "name": "Robert F. Marshall",
+      "rank": null,
+      "fate": "Killed",
+      "nationality": "American"
+    },
+    {
+      "name": "William R. Irons",
+      "rank": null,
+      "fate": "Killed",
+      "nationality": "American"
+    },
+    {
+      "name": "Thomas J. Hickey",
+      "rank": null,
+      "fate": "Killed",
       "nationality": "American"
     }
   ],

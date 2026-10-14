@@ -102,6 +102,7 @@
       "name": "S L Cockbain DFC",
       "rank": "Sqn Ldr",
       "fate": "Killed",
+      "age": 28,
       "nationality": "British"
     }
   ],
@@ -109,7 +110,7 @@
   "longitude": -1.244604,
   "cause_of_loss": "Starboard engine fire; aircraft entered cloud in steep diving turn and crashed",
   "operation_type": "Training",
-  "memorial_details": "SIMPLE GARDEN OF REMEMBRANCE CONTAINING STONE OF REMEMBRANCE, BENCH AND INTERPRETIVE PANEL WITH A PICTURE OF A STIRLING BOMBER. THE ROUGHLY-RECTANGULAR, ROUGH HEWN STONE HAS A POLISHED FRONT FACE WITH INCISED BLACK LETTERING AND A RAF CREST TOP LEFT CORNER.\n\nRoyal Air Force Volunteer Reserve Roadside location, Annersley, Nottinghamshire Inscribed stone memorial and information board In memory of the crew of 1661 HCU Stirling EH988 which crashed 15 minutes after take off with a Starboard Engine on fire on 14th January 1945 Mentioned in Despatches January 1944 Commonwealth War Graves Commission Please note that this list gives all the losses aboard the quoted aircraft and occasionally these may have occurred on an earlier date when the aircraft was not itself lost.\n\nA memorial was unveiled on 16/09/98 for six aircrew members who were killed in a crash on 14/01/45.\n\nThe memorial was dedicated to the following individuals: 67707 SQN Ldr S L Cockbain DFC, 1587047 F/S E C Barton, 2204311 Sgt J Littlemore, 1651299 Sgt K Harris, and 1874899 F/S T A Ball.\n\nMemorial Unveiling (24 September 2021): Unveiling of the Short Stirling EH988 memorial by The Reverend Kevin Charles and Tony Hibberd - IBCC.",
+  "memorial_details": "SIMPLE GARDEN OF REMEMBRANCE CONTAINING STONE OF REMEMBRANCE, BENCH AND INTERPRETIVE PANEL WITH A PICTURE OF A STIRLING BOMBER. THE ROUGHLY-RECTANGULAR, ROUGH HEWN STONE HAS A POLISHED FRONT FACE WITH INCISED BLACK LETTERING AND A RAF CREST TOP LEFT CORNER.\n\nRoyal Air Force Volunteer Reserve Roadside location, Annersley, Nottinghamshire Inscribed stone memorial and information board In memory of the crew of 1661 HCU Stirling EH988 which crashed 15 minutes after take off with a Starboard Engine on fire on 14th January 1945 Mentioned in Despatches January 1944 Commonwealth War Graves Commission Please note that this list gives all the losses aboard the quoted aircraft and occasionally these may have occurred on an earlier date when the aircraft was not itself lost.\n\nA memorial was unveiled on 16/09/98 for six aircrew members who were killed in a crash on 14/01/45.\n\nThe memorial was dedicated to the following individuals: 67707 SQN Ldr S L Cockbain DFC, 1587047 F/S E C Barton, 2204311 Sgt J Littlemore, 1651299 Sgt K Harris, and 1874899 F/S T A Ball.\n\nMemorial Unveiling (24 September 2021): Unveiling of the Short Stirling EH988 memorial by The Reverend Kevin Charles and Tony Hibberd - IBCC.\n\nThe memorial was unveiled on 16 September 1998, honouring the service and sacrifice of the crew.",
   "maintainer": {
     "organisation": "Annesley and Felley Parish Council",
     "maintainer_type": "parish-council"
@@ -222,7 +223,7 @@
   "remembrance": {
     "events": []
   },
-  "community_connection": "The memorial was unveiled on 16 September 1998, honouring the service and sacrifice of the crew.",
+  "community_connection": "",
   "crash_category": "training",
   "narrative_quality_score": 5,
   "narrative_source": "generated-claude-sonnet",
