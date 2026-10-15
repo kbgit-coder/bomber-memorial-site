@@ -1,0 +1,150 @@
+{
+  "id": "norg-lancaster-jb181",
+  "title": "Avro Lancaster JB181 Memorial, Westervelde/Norg",
+  "location_name": "Near Westervelde/Norg, Drenthe, Netherlands",
+  "county": "Drenthe",
+  "country": "Netherlands",
+  "latitude": 53.0680,
+  "longitude": 6.4790,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1943-10-09",
+  "aircraft_type": "Avro Lancaster Mk III",
+  "serial_number": "JB181",
+  "aircraft_code": "MG-V",
+  "squadron": "7 Squadron",
+  "squadron_display_name": "7 Squadron RAF (Pathfinders)",
+  "squadron_aliases": ["No. 8 Group (Pathfinder Force)", "PFF"],
+  "station": "RAF Oakington",
+  "operation_type": "Bombing",
+  "operation_target": "Hanover, Germany",
+  "cause_of_loss": "Nightfighter interception (NJG1)",
+  "memorial_type": "Information panel",
+  "memorial_name": "SLOD 'Lost Wings' Information Panel",
+  "memorial_details": "SLOD (Stichting Luchtoorlog en Oorlogsgraven Drenthe) 'Lost Wings' information panel at the crash site near Westervelde/Norg. SLOD has documented and installed 91 such panels across Drenthe, marking the sites of wartime aircraft losses across the province.",
+  "crew_summary": "All 7 crew killed. 4 buried Norg General Cemetery (Macpherson, Brine, Spencer, Christianson); 3 on Runnymede Memorial (Burnam-Richards, Smallridge, Brinton — no known grave). This was the crew's first mission with 7 Squadron and their first Lancaster sortie.",
+  "narrative": "Sgt Eric Alfred Brinton was 17 years old when he died over the Netherlands on the night of 9 October 1943. He had lied about his age when enlisting, claiming to have been born in 1924; his actual date of birth was 8 April 1926. He is among the youngest operational fatalities recorded in RAF Bomber Command.\n\nBrinton flew as Mid-Upper Gunner aboard Lancaster Mk III JB181 MG-V of 7 Squadron (Pathfinders), which departed RAF Oakington at 22:59 on 8 October 1943, bound for Hanover. This was the crew's first operational mission with 7 Squadron and their first Lancaster sortie — new to the aircraft, new to Pathfinders, and flying into one of the most costly nights Bomber Command would endure in the entire Hanover campaign. That night, 30 aircraft were lost.\n\nAt 00:28, JB181 was intercepted over the Netherlands by Oberfeldwebel Heinz Vinke of 11./NJG1, based at Leeuwarden. Vinke misidentified the aircraft as a Halifax — a detail preserved in the German combat reports — but the result was the same. All seven crew were killed.\n\nFour of the crew — Macpherson, Brine, Spencer, and Christianson — are buried at Norg General Cemetery. The other three — Burnam-Richards, Smallridge, and Brinton — have no known grave and are commemorated on the Runnymede Memorial.\n\nBrinton's presence in a front-line Pathfinder crew at 17 is a stark measure of the demands placed on Bomber Command in the autumn of 1943. He was younger than most of those who would sit their School Certificate today. The SLOD 'Lost Wings' panel at the crash site near Westervelde is one of 91 such markers SLOD has installed across Drenthe — a sustained act of local remembrance for the young men who fell into this quiet province.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Bruce Edwin Cornwall Macpherson",
+      "service_number": "140922",
+      "age": 21,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Norg General Cemetery",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "Sydney George Burnam-Richards",
+      "service_number": "139960",
+      "age": 21,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Runnymede Memorial (no known grave)",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frederick Reginald Brine",
+      "service_number": "1604770",
+      "age": 21,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Norg General Cemetery",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Maxwell George Smallridge",
+      "service_number": "1314228",
+      "age": 20,
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Runnymede Memorial (no known grave)",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Roy Spencer",
+      "service_number": "1438166",
+      "age": 22,
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Norg General Cemetery",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Eric Alfred Brinton",
+      "service_number": "1850112",
+      "age": 17,
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed age 17. Had given a false date of birth when enlisting (claimed born 1924; actual date of birth 8 April 1926). One of the youngest RAF operational fatalities recorded.",
+      "burial_location": "Runnymede Memorial (no known grave)",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Chris Zane Robert Christianson",
+      "service_number": "R/159411",
+      "age": 21,
+      "role": "Rear Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Norg General Cemetery",
+      "cwgc_verified": true
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "SLOD Drenthe",
+      "org_type": "heritage_foundation",
+      "role": "Installed and maintains the Lost Wings information panel at the crash site",
+      "website": "https://www.slodrenthe.nl"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CWGC — Norg General Cemetery and Runnymede Memorial",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "SLOD Drenthe — slodrenthe.nl",
+      "type": "website",
+      "url": "https://www.slodrenthe.nl"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "SLOD Drenthe",
+      "original_url": "https://www.slodrenthe.nl",
+      "summary": "SLOD Drenthe (Stichting Luchtoorlog en Oorlogsgraven Drenthe) records the loss of Lancaster JB181 near Westervelde/Norg and the installation of a 'Lost Wings' information panel at the crash site. SLOD has installed 91 such panels across the province of Drenthe.",
+      "key_details": [
+        "7 Squadron (Pathfinders), Lancaster Mk III JB181 MG-V",
+        "Departed Oakington 22:59 on 08/10/43, target Hanover",
+        "Intercepted 00:28 by Ofw Heinz Vinke, 11./NJG1 (Leeuwarden) — misidentified as Halifax",
+        "First of 30 losses that night; crew's first mission with 7 Sqn and first Lancaster sortie",
+        "Sgt Brinton (Mid-Upper Gunner) was 17 years old — lied about his age at enlistment",
+        "4 buried Norg, 3 on Runnymede (no known grave)"
+      ],
+      "still_live": true
+    }
+  ],
+  "photos": [],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15"
+}

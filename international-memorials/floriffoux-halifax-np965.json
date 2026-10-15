@@ -1,0 +1,54 @@
+{
+  "id": "floriffoux-halifax-np965",
+  "title": "Halifax NP965 Memorial, Floriffoux",
+  "location_name": "Floriffoux, Namur, Belgium",
+  "county": "Namur",
+  "country": "Belgium",
+  "latitude": 50.4450,
+  "longitude": 4.7680,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1945-03-02",
+  "aircraft_type": "Handley Page Halifax",
+  "serial_number": "NP965",
+  "squadron": "640 Squadron",
+  "squadron_display_name": "640 Squadron RAF",
+  "operation_type": "Bombing",
+  "operation_target": "Cologne, Germany (last Bomber Command raid on Cologne)",
+  "memorial_type": "Memorial",
+  "dedication_date": "2020-03-07",
+  "memorial_details": "Memorial to the crew of Halifax NP965, unveiled 7 March 2020 at Floriffoux. Attended by four families — two from the United Kingdom and two from Australia — alongside military representatives from the Australian and British embassies.",
+  "crew_summary": "All 7 crew killed. Buried Heverlee War Cemetery, Belgium.",
+  "narrative": "Halifax NP965 of 640 Squadron was lost on 2 March 1945 during what proved to be the last Bomber Command raid on Cologne. The aircraft crashed at Floriffoux, in the Namur province of Belgium. All seven crew were killed and are buried at Heverlee War Cemetery.\n\nThe memorial at Floriffoux was unveiled on 7 March 2020. Four families attended — two from the United Kingdom and two from Australia — together with military attachés from the Australian and British embassies. The ceremony brought the crew's families together for the first time at the place where their men fell.\n\nFull crew details are not yet confirmed in this record. Further research required.",
+  "sources": [
+    {
+      "title": "CWGC — Heverlee War Cemetery",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials (Vincent Pécriaux post, June 2020)",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Facebook group: RAF Bomber Command Memorials",
+      "original_url": "",
+      "summary": "Vincent Pécriaux's June 2020 Facebook post documenting the memorial unveiling at Floriffoux on 7 March 2020. Records the attendance of four families (2 UK, 2 Australian) and embassy military representatives.",
+      "key_details": [
+        "640 Squadron, Halifax NP965",
+        "Crashed Floriffoux, Belgium, 02/03/1945",
+        "Last Bomber Command raid on Cologne",
+        "All 7 crew killed, buried Heverlee War Cemetery",
+        "Memorial unveiled 07/03/2020",
+        "Four families attended: 2 UK, 2 Australian",
+        "Australian and British embassy military representatives present"
+      ],
+      "still_live": false
+    }
+  ],
+  "photos": [],
+  "data_quality": "Stub",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15"
+}

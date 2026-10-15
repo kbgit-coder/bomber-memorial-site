@@ -17,7 +17,7 @@ export function getAllMemorials(): Memorial[] {
     if (!fs.existsSync(dir)) continue;
     const fileNames = fs.readdirSync(dir);
     for (const fileName of fileNames) {
-      if (!fileName.endsWith('.json') || fileName.startsWith('_')) continue;
+      if (!fileName.endsWith('.json') || fileName.startsWith('_') || fileName.includes('.data.')) continue;
       const filePath = path.join(dir, fileName);
       const fileContents = fs.readFileSync(filePath, 'utf8');
       const parsed = JSON.parse(fileContents);

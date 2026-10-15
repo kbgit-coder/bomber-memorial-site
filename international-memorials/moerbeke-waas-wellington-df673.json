@@ -1,0 +1,124 @@
+{
+  "id": "moerbeke-waas-wellington-df673",
+  "title": "Vickers Wellington DF673 Memorial, Moerbeke-Waas",
+  "location_name": "NE of Moerbeke-Waas, Oost-Vlaanderen, Belgium",
+  "county": "Oost-Vlaanderen",
+  "country": "Belgium",
+  "latitude": 51.1740,
+  "longitude": 4.0470,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1942-08-29",
+  "aircraft_type": "Vickers Wellington Mk III",
+  "serial_number": "DF673",
+  "aircraft_code": "AA-?",
+  "squadron": "75 Squadron",
+  "squadron_display_name": "75 (New Zealand) Squadron RNZAF",
+  "station": "RAF Mildenhall",
+  "operation_type": "Bombing",
+  "operation_target": "Nuremberg, Germany",
+  "cause_of_loss": "Nightfighter interception (NJG2)",
+  "memorial_type": "Physical memorial with plaque",
+  "memorial_details": "Inscribed plaque outside a local church near the crash site, NE of Moerbeke-Waas, Oost-Vlaanderen. Photographs of the memorial held by local researcher Stvn Volckaerts.",
+  "crew_summary": "All 5 crew killed. All buried Adegem Canadian War Cemetery, Belgium (51.202537, 3.505399).",
+  "narrative": "On the night of 28/29 August 1942, Wellington III DF673 AA-? of 75 (NZ) Squadron departed RAF Mildenhall bound for Nuremberg. The crew of five were intercepted over Belgium at 23:26 by Hauptmann Dr Horst Patuschka of 7./NJG2, who shot them down for his 12th Abschuss. The aircraft crashed northeast of Moerbeke-Waas in Oost-Vlaanderen. All five crew were killed.\n\nThe pilot, Flight Sergeant Sydney Bernard Thomas Davis, was 20 years old and already married — his wife Edna May Davis lived at Lightpill. He was the son of Bert and Alice Davis of Stroud. That a 20-year-old man was already a husband flying front-line operations in 1942 is a measure of how the war compressed the ordinary sequence of life.\n\nThe crew were a mixed force — two British RAFVR airmen and three Canadians. Flight Sergeant Charles Henry Vickers, 22, was from Newton Heath, Manchester. The three Canadians — Baittle (RCAF), McKay (RCAF, 31, from Springhill, Nova Scotia), and Hiltz (RCAF, 20, from Toronto) — reflect the breadth of the Commonwealth commitment that kept Bomber Command flying in 1942.\n\nAll five are buried together at Adegem Canadian War Cemetery, Belgium — a fitting resting place for a crew that drew on both British and Canadian service.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Sydney Bernard Thomas Davis",
+      "service_number": "1165309",
+      "age": 20,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed age 20. Already married to Edna May Davis of Lightpill. Son of Bert and Alice Davis, Stroud.",
+      "burial_location": "Adegem Canadian War Cemetery, Belgium",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Charles Henry Vickers",
+      "service_number": "1115126",
+      "age": 22,
+      "role": "2nd Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Son of John Henry and Mary Louisa Vickers, Newton Heath, Manchester.",
+      "burial_location": "Adegem Canadian War Cemetery, Belgium",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Horace David Baittle",
+      "service_number": "R/79439",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Adegem Canadian War Cemetery, Belgium",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Daniel Archibald McKay",
+      "service_number": "R/73282",
+      "age": 31,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Son of G.E. Roach McKay and Mary McKay, Springhill, Nova Scotia.",
+      "burial_location": "Adegem Canadian War Cemetery, Belgium",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Lawrence Donald Hiltz",
+      "service_number": "R/88319",
+      "age": 20,
+      "role": "Rear Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Son of Lawrence Carlton and Freda Jean Hiltz, Toronto, Ontario.",
+      "burial_location": "Adegem Canadian War Cemetery, Belgium",
+      "cwgc_verified": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "CWGC — Adegem Canadian War Cemetery",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 3",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, Theo — Nachtjagd Combat Archive, Early Years Part 3",
+      "type": "book"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials (Rob Davis crew details; photos by Stvn Volckaerts)",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Facebook group: RAF Bomber Command Memorials",
+      "original_url": "",
+      "summary": "Crew details contributed by Rob Davis via the Facebook group. Memorial photos by Stvn Volckaerts. Documents the plaque outside the local church near Moerbeke-Waas and provides crew biographic detail.",
+      "key_details": [
+        "75 (NZ) Squadron, Wellington III DF673",
+        "Departed Mildenhall, Ops Nuremberg, night 28/29 August 1942",
+        "Intercepted 23:26 by Hptm Dr Horst Patuschka, 7/NJG2 (his 12th Abschuss)",
+        "All 5 crew killed, all buried Adegem Canadian War Cemetery",
+        "Pilot F/Sgt Davis was 20 and already married",
+        "Memorial: inscribed plaque outside local church near crash site"
+      ],
+      "still_live": false
+    }
+  ],
+  "photos": [],
+  "data_quality": "Partial",
+  "narrative_quality_score": 3,
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15"
+}

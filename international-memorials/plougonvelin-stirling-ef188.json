@@ -1,0 +1,165 @@
+{
+  "id": "plougonvelin-stirling-ef188",
+  "title": "Short Stirling EF188 Memorial, Traon Brouen Farm, Plougonvelin",
+  "location_name": "Traon Brouen Farm, Plougonvelin, Finistère, France",
+  "county": "Finistère",
+  "country": "France",
+  "latitude": 48.37979,
+  "longitude": -4.68432,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1944-06-24",
+  "aircraft_type": "Short Stirling",
+  "serial_number": "EF188",
+  "aircraft_code": "OJ-M",
+  "squadron": "149 Squadron",
+  "squadron_display_name": "149 Squadron RAF",
+  "station": "RAF Methwold",
+  "operation_type": "Gardening (minelaying)",
+  "operation_target": "Brest approaches",
+  "cause_of_loss": "Flak",
+  "memorial_type": "Physical memorial with plaque",
+  "memorial_details": "Stone and plaque in the grounds of Traon Brouen Farm, the private property at which the Stirling crashed. The memorial marks the site of the crash and commemorates both the seven crew and the five French civilians — including three children — who were killed.",
+  "memorial_access_notes": "Private property. Permission required to visit.",
+  "crew_summary": "7 crew killed (2 bailed but drowned, 5 killed in crash or on the ground). Additionally, 5 French civilians were killed including three children of the Bléas family.",
+  "narrative": "On the night of 23/24 June 1944, Short Stirling EF188 OJ-M of 149 Squadron departed RAF Methwold at 23:14 on a Gardening (minelaying) operation in the waters around Brest. The aircraft was hit by flak and came down at Traon Brouen Farm, Plougonvelin, in the far west of Finistère, crashing in the early hours of 24 June 1944.\n\nThe human cost was devastating and fell on two families — British and French alike. Two of the crew, Pilot Officer Edward Lincoln and Flight Sergeant Leslie Richards, managed to bail out but both drowned. The remaining five crew were killed outright in the crash or on the ground.\n\nThe tragedy did not end with the aircraft. The crash killed five French civilians, four of them from the Bléas family who lived at or near Traon Brouen Farm: Jean François Bléas (43), who survived the initial crash but died of burns the following day; his son Athanase François Bléas (12); and two young daughters, Marie Claire Bléas (5) and Francine Marie Bléas (2). A local young man, Jean Marie Menguy (22), was also killed. The deaths of three children — aged 12, 5, and 2 — place this crash among the most sorrowful civilian incidents recorded in Bomber Command's Gardening campaign.\n\nThe crew are buried at two locations. Lincoln, Richards, Brady, and Fox lie in Brest Kerfautras Cemetery, Plot 47. Duckworth, Eaton, and McQuitty are buried at St Charles de Percy War Cemetery in Normandy — a split that reflects the different circumstances and locations of their deaths.\n\nThe stone memorial and plaque at Traon Brouen Farm commemorates both the airmen and the civilian dead. It stands as a reminder that this war came not only to the sky but to the farmyard.",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Edward James Lincoln",
+      "service_number": "426358",
+      "age": 23,
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "Bailed out but drowned.",
+      "burial_location": "Brest Kerfautras Cemetery, Plot 47",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Leslie Reginald Richards",
+      "service_number": "1432021",
+      "age": 20,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Bailed out but drowned.",
+      "burial_location": "Brest Kerfautras Cemetery, Plot 47",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Francis Patrick Joseph Brady",
+      "service_number": "424361",
+      "age": 20,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "Killed in crash.",
+      "burial_location": "Brest Kerfautras Cemetery, Plot 47",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "P/O",
+      "name": "Howard William George Fox",
+      "service_number": "J/89053",
+      "age": 19,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Killed in crash.",
+      "burial_location": "Brest Kerfautras Cemetery, Plot 47",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ernest Richard Duckworth",
+      "service_number": "1890080",
+      "age": 19,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in crash.",
+      "burial_location": "St Charles de Percy War Cemetery",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Denis Eaton",
+      "service_number": "1326107",
+      "age": 36,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in crash.",
+      "burial_location": "St Charles de Percy War Cemetery",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Robert John McQuitty",
+      "service_number": "408338",
+      "age": 21,
+      "role": "Air Bomber",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "Killed in crash.",
+      "burial_location": "St Charles de Percy War Cemetery",
+      "cwgc_verified": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "CWGC — Brest Kerfautras Cemetery and St Charles de Percy War Cemetery",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 5",
+      "type": "book"
+    },
+    {
+      "title": "francecrashes39-45.net",
+      "type": "website",
+      "url": "https://www.francecrashes39-45.net"
+    },
+    {
+      "title": "aerosteles.net",
+      "type": "website",
+      "url": "https://www.aerosteles.net"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials (photos by Gilbert Melleza)",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "francecrashes39-45.net",
+      "original_url": "https://www.francecrashes39-45.net",
+      "summary": "French aviation crash database recording the loss of Stirling EF188 at Plougonvelin, 24 June 1944. Documents the civilian casualties and crew fates.",
+      "key_details": [
+        "149 Squadron, Stirling EF188 OJ-M",
+        "Departed Methwold 23:14 on 23/06/44",
+        "Flak, crashed Traon Brouen Farm, Plougonvelin",
+        "7 crew killed, 5 civilians killed including 3 children",
+        "Crew buried across two cemeteries: Brest Kerfautras (4) and St Charles de Percy (3)"
+      ],
+      "still_live": true
+    },
+    {
+      "source_site": "aerosteles.net",
+      "original_url": "https://www.aerosteles.net",
+      "summary": "Aerosteles database entry documenting the memorial at Traon Brouen Farm and the circumstances of the EF188 loss.",
+      "key_details": [
+        "Memorial: stone and plaque, private property (Traon Brouen Farm)",
+        "Civilian victims include Jean François Bléas (43), Athanase François Bléas (12), Marie Claire Bléas (5), Francine Marie Bléas (2), Jean Marie Menguy (22)"
+      ],
+      "still_live": true
+    }
+  ],
+  "photos": [],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15"
+}

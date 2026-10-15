@@ -1,0 +1,127 @@
+{
+  "id": "gording-stirling-lk238",
+  "title": "Short Stirling LK238 Memorial, Gording",
+  "location_name": "Gording, Syddanmark, Denmark",
+  "county": "Syddanmark",
+  "country": "Denmark",
+  "latitude": 56.1380,
+  "longitude": 8.3660,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1944-10-07",
+  "aircraft_type": "Short Stirling",
+  "serial_number": "LK238",
+  "aircraft_code": "MA-X",
+  "squadron": "161 Squadron",
+  "squadron_display_name": "161 (Special Duties) Squadron RAF",
+  "station": "RAF Tempsford",
+  "operation_type": "Special Duties (SOE stores drop)",
+  "operation_target": "OP TABLEJAM 26 — occupied Denmark",
+  "cause_of_loss": "Nightfighter interception (NJG3)",
+  "memorial_type": "Physical memorial with plaque",
+  "memorial_details": "Stone and plaque at Gording. A photograph of P/O Ross Philp (the only crew member killed) is displayed inside Gording church. A Danish cross marks the original burial site near the crash location.",
+  "crew_summary": "1 killed (P/O Ross Philp, buried Gording Cemetery); 3 evaded to Sweden (Flower, Gee, Moloney, Woodham); 2 captured as POW (Abecassis, Walker). Pilot S/Ldr Abecassis evaded initially but was later captured and held at Stalag Luft III.",
+  "narrative": "On the evening of 6 October 1944, Short Stirling LK238 MA-X of 161 (Special Duties) Squadron departed RAF Tempsford at 22:29 on OP TABLEJAM 26, a clandestine SOE stores drop mission to occupied Denmark. 161 Squadron was one of the two RAF squadrons dedicated to covert operations supporting resistance movements across occupied Europe, flying agents and supplies in the dark.\n\nAt 01:26 on 7 October, as the Stirling flew near Holstebro in western Denmark, it was intercepted by Hauptmann Johann Dreher of 6./NJG3. Dreher shot the aircraft down — his third confirmed Abschuss. The crew's fates diverged dramatically. Squadron Leader G.E. Abecassis DFC, the pilot, initially evaded but was eventually captured and became a prisoner of war at Stalag Luft III. Flight Lieutenant Richard Gee (Navigator), Pilot Officer Lesley Flower (Flight Engineer), Pilot Officer Patrick Moloney (Air Gunner), and Flight Officer Samuel Woodham (Air Gunner) all successfully evaded and made it to neutral Sweden. Flight Officer K.H. Walker (Wireless Op) was captured and also became a POW.\n\nOnly one man was killed: P/O Ross F. Philp (RAAF), the Bombardier. He was buried locally at Gording Cemetery. His photograph is displayed in Gording church — an act of community remembrance that has kept his memory present in the village for more than 80 years.\n\nThe story of Hauptmann Dreher has a grim postscript. On 3 March 1945, during Unternehmen Gisela — the Luftwaffe's audacious retaliatory intruder operation against RAF Bomber Command airfields — Dreher was killed at Dunnington, North Yorkshire. The hunter who shot down LK238 over Denmark died less than five months later in the English night.\n\nSearcher Søren Flensted, who documented this crash and many others across Denmark and whose photographs have preserved the memorial record, passed away in June 2025. His work underpins much of what is known about this loss.",
+  "crew": [
+    {
+      "rank": "S/Ldr",
+      "name": "G.E. Abecassis",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "POW",
+      "fate_detail": "Evaded initially after the crash but was subsequently captured. Held at Stalag Luft III.",
+      "decorations": ["DFC"]
+    },
+    {
+      "rank": "P/O",
+      "name": "Ross F. Philp",
+      "role": "Bombardier",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "Killed when LK238 was shot down. Buried Gording Cemetery. Photograph displayed in Gording church.",
+      "burial_location": "Gording Cemetery, Denmark",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "P/O",
+      "name": "Lesley N. Flower",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Evaded",
+      "fate_detail": "Successfully evaded to neutral Sweden."
+    },
+    {
+      "rank": "F/Lt",
+      "name": "Richard R. Gee",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Evaded",
+      "fate_detail": "Successfully evaded to neutral Sweden."
+    },
+    {
+      "rank": "F/O",
+      "name": "K.H. Walker",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "POW",
+      "fate_detail": "Captured. Became a prisoner of war."
+    },
+    {
+      "rank": "P/O",
+      "name": "Patrick J. Moloney",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Evaded",
+      "fate_detail": "Successfully evaded to neutral Sweden."
+    },
+    {
+      "rank": "F/O",
+      "name": "Samuel C. Woodham",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Evaded",
+      "fate_detail": "Successfully evaded to neutral Sweden."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CWGC — Gording Cemetery",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "Flensted, Søren — Airwar over Denmark",
+      "type": "book"
+    },
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 5",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, Theo — Nachtjagd Combat Archive 1944, Part 4",
+      "type": "book"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials (photos by Søren Flensted, deceased June 2025)",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Flensted — Airwar over Denmark",
+      "original_url": "",
+      "summary": "Søren Flensted's definitive Danish aviation crash research, documenting the loss of LK238 near Holstebro, the NJG3 interception by Hauptmann Dreher, and the crew fates. Flensted died in June 2025; his records are the primary Danish source for this crash.",
+      "key_details": [
+        "161 (Special Duties) Squadron, SOE stores drop OP TABLEJAM 26",
+        "Shot down 01:26 on 07/10/44 near Holstebro by Hptm Johann Dreher, 6/NJG3 (his 3rd Abschuss)",
+        "Dreher killed 03/03/1945 during Unternehmen Gisela at Dunnington, North Yorkshire",
+        "1 killed (Philp), 4 evaded to Sweden, 2 captured POW",
+        "Philp's photograph displayed in Gording church"
+      ],
+      "still_live": false
+    }
+  ],
+  "photos": [],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15"
+}
