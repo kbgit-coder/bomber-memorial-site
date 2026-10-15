@@ -47,9 +47,8 @@ export function getAllMemorialSlugs(): string[] {
     if (!fs.existsSync(dir)) continue;
     const fileNames = fs.readdirSync(dir);
     for (const fileName of fileNames) {
-      if (fileName.endsWith('.json')) {
-        slugs.push(fileName.replace('.json', ''));
-      }
+      if (!fileName.endsWith('.json') || fileName.startsWith('_') || fileName.includes('.data.')) continue;
+      slugs.push(fileName.replace('.json', ''));
     }
   }
   return slugs;
