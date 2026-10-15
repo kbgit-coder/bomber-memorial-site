@@ -1,0 +1,242 @@
+{
+  "id": "boras-tirpitz-raid-1942",
+  "title": "Borås Memorial, Tirpitz Raid 1942 — Halifax W1020 & Lancaster L7572",
+  "location_name": "Borås, Skjekstadmark, Stjørdal Municipality, Trøndelag, Norway",
+  "county": "Trøndelag",
+  "country": "Norway",
+  "latitude": 63.5250,
+  "longitude": 11.3680,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1942-04-27",
+  "aircraft_type": "Handley Page Halifax Mk.II and Avro Lancaster Mk.I",
+  "serial_number": "W1020 and L7572",
+  "aircraft_code": "TL-K (W1020) and OF-L (L7572)",
+  "squadron": "35 Squadron and 97 Squadron",
+  "squadron_display_name": "35 Squadron RAF and 97 Squadron RAF",
+  "station": "RAF Kinloss (35 Sqn) and RAF Lossiemouth (97 Sqn)",
+  "operation_type": "Operational",
+  "operation_target": "German battleship Tirpitz, Fættenfjord, Norway",
+  "cause_of_loss": "Flak damage — both aircraft brought down by shore and ship-based anti-aircraft fire during attack on the Tirpitz. W1020 hit by flak, possibly attempting to reach Sweden before crashing into a mountainside. L7572 totally engulfed in flames after engagement by shore and ship-based flak.",
+  "memorial_type": "Memorial stone",
+  "memorial_details": "Main inscribed granite stone plus 13 individual stones, one per airman. Erected 24 June 1979 at Borås, Skjekstadmark, marking the crash sites of the two aircraft that fell near each other during the 27 April 1942 Tirpitz raid. All 13 airmen from both crews are commemorated together.",
+  "dedication_date": "1979-06-24",
+  "crew_summary": "All 13 crew killed: 6 from Halifax W1020 (35 Squadron) and 7 from Lancaster L7572 (97 Squadron). All buried at Trondheim (Stavne) Cemetery, Norway.",
+  "narrative": "On the night of 27 April 1942, Bomber Command launched one of its costliest single-target operations of the war — a raid on the German battleship Tirpitz, moored under massive anti-aircraft protection in Fættenfjord. Across three raids in spring 1942, Bomber Command would lose 17 aircraft against this single target. The night of 27 April was among the bloodiest.\n\nHalifax Mk.II W1020, coded TL-K, of 35 Squadron, departed RAF Kinloss at 20:35. Crewed by six men under Flight Lieutenant Michael Pooles, the aircraft was hit by flak during the attack. Damaged and unable to make it home, Pooles may have attempted to reach neutral Sweden — the mountainside at Borås, Skjekstadmark lies on a heading that would be consistent with such an attempt. The aircraft crashed into the mountain. All six crew were killed.\n\nLancaster Mk.I L7572, coded OF-L, of 97 Squadron, had departed RAF Lossiemouth on the same operation. L7572 holds a particular place in Lancaster history: it was among the very first production batch, roughly the 46th Lancaster ever built, and 97 Squadron was one of the earliest Lancaster units in Bomber Command. On this night, the aircraft was engaged by both shore-based and ship-based anti-aircraft guns and became totally engulfed in flames. It crashed near Kaldadammen, close to the Halifax crash site. All seven crew were killed.\n\nThe proximity of the two crash sites — and the scale of the combined loss — led the local community to erect a single memorial at Borås. Dedicated on 24 June 1979, it comprises a main inscribed granite stone flanked by 13 individual stones, one for each of the men who died. All 13 airmen are buried at Trondheim (Stavne) Cemetery in the same plot.\n\nThe Tirpitz raids of spring 1942 are a stark illustration of the cost Bomber Command accepted in attacking heavily defended point targets. The battleship survived; 17 aircraft and their crews did not.",
+  "crew": [
+    {
+      "rank": "Flt Lt",
+      "name": "Michael Reginald Mark Pooles",
+      "service_number": "68736",
+      "age": null,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed into mountainside at Borås, Skjekstadmark on 27 April 1942 during the Tirpitz raid.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave A IV British J.11",
+      "cwgc_verified": true,
+      "biography": "Flight Lieutenant Pooles, RAFVR, service number 68736. Pilot of Halifax W1020, 35 Squadron, departed RAF Kinloss 20:35 on 27 April 1942.",
+      "decorations": []
+    },
+    {
+      "rank": "Plt Off",
+      "name": "Gerard John Peter Henry",
+      "service_number": "48086",
+      "age": 21,
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed at Borås on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.7",
+      "cwgc_verified": true,
+      "biography": "Pilot Officer Henry, RAFVR, service number 48086, aged 21. Observer aboard Halifax W1020, 35 Squadron."
+    },
+    {
+      "rank": "Plt Off",
+      "name": "Frank William Gosnell Hill",
+      "service_number": "120706",
+      "age": 30,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed at Borås on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.14",
+      "cwgc_verified": true,
+      "biography": "Pilot Officer Hill, RAFVR, service number 120706, aged 30. Air Gunner aboard Halifax W1020, 35 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Hubert Allan Booth",
+      "service_number": "519995",
+      "age": 30,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed at Borås on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.13",
+      "cwgc_verified": true,
+      "biography": "Sergeant Booth, RAF, service number 519995, aged 30. Flight Engineer aboard Halifax W1020, 35 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Allan Wilstrop",
+      "service_number": "1054130",
+      "age": 22,
+      "role": "WOp/AG",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed at Borås on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.12",
+      "cwgc_verified": true,
+      "biography": "Sergeant Wilstrop, RAFVR, service number 1054130, aged 22. Wireless Operator/Air Gunner aboard Halifax W1020, 35 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Donald Edgar Rarity",
+      "service_number": "950595",
+      "age": null,
+      "role": "WOp/AG",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Halifax W1020 (TL-K), 35 Squadron, crashed at Borås on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.9",
+      "cwgc_verified": true,
+      "biography": "Sergeant Rarity, RAFVR, service number 950595. Wireless Operator/Air Gunner aboard Halifax W1020, 35 Squadron."
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "John Goodsir Mackid",
+      "service_number": "41042",
+      "age": 28,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, was totally engulfed in flames by flak and crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.3",
+      "cwgc_verified": true,
+      "hometown": "Calgary, Canada",
+      "biography": "Flight Lieutenant Mackid DFC, RAF, service number 41042, aged 28. Born in Calgary, Canada. Pilot of Lancaster L7572, 97 Squadron.",
+      "decorations": ["DFC"]
+    },
+    {
+      "rank": "Plt Off",
+      "name": "Ronald Benjamin Underwood",
+      "service_number": "104507",
+      "age": 31,
+      "role": "2nd Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave H.2",
+      "cwgc_verified": true,
+      "biography": "Pilot Officer Underwood, RAFVR, service number 104507, aged 31. Second Pilot aboard Lancaster L7572, 97 Squadron."
+    },
+    {
+      "rank": "Plt Off",
+      "name": "Thomas Neville Tree",
+      "service_number": "104537",
+      "age": 28,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.1",
+      "cwgc_verified": true,
+      "biography": "Pilot Officer Tree, RAFVR, service number 104537, aged 28. Navigator aboard Lancaster L7572, 97 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Eric McDermott",
+      "service_number": "990443",
+      "age": 25,
+      "role": "Front Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.3 (joint with Flt Lt Mackid)",
+      "cwgc_verified": true,
+      "biography": "Sergeant McDermott, RAFVR, service number 990443, aged 25. Front Air Gunner aboard Lancaster L7572, 97 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Keay Falconer Marshall",
+      "service_number": "1375102",
+      "age": 26,
+      "role": "WOp/AG",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave H.1",
+      "cwgc_verified": true,
+      "biography": "Sergeant Marshall, RAFVR, service number 1375102, aged 26. Wireless Operator/Air Gunner aboard Lancaster L7572, 97 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frederick Bennett",
+      "service_number": "615915",
+      "age": 22,
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave H.3",
+      "cwgc_verified": true,
+      "biography": "Sergeant Bennett, RAF, service number 615915, aged 22. Mid-Upper Gunner aboard Lancaster L7572, 97 Squadron."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Day",
+      "service_number": "628069",
+      "age": 20,
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed when Lancaster L7572 (OF-L), 97 Squadron, crashed near Kaldadammen on 27 April 1942.",
+      "burial_location": "Trondheim (Stavne) Cemetery, Grave J.6",
+      "cwgc_verified": true,
+      "biography": "Sergeant Day, RAF, service number 628069, aged 20. Rear Gunner aboard Lancaster L7572, 97 Squadron."
+    }
+  ],
+  "sources": [
+    {
+      "title": "CWGC — Trondheim (Stavne) Cemetery, Norway",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "aircrewremembered.com — Tirpitz raids 1942",
+      "type": "website",
+      "url": "https://www.aircrewremembered.com"
+    },
+    {
+      "title": "35 Squadron WordPress — Operations history",
+      "type": "website"
+    },
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 3",
+      "type": "book"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials (photos by Kjell Sørensen via Espen Thronsen)",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "aircrewremembered.com",
+      "original_url": "https://www.aircrewremembered.com",
+      "summary": "Records the losses of both Halifax W1020 (35 Squadron) and Lancaster L7572 (97 Squadron) during the 27 April 1942 Tirpitz raid, including crew details and burial locations at Stavne Cemetery.",
+      "key_details": [
+        "Halifax W1020 TL-K, 35 Squadron, departed Kinloss 20:35, hit by flak",
+        "Lancaster L7572 OF-L, 97 Squadron, departed Lossiemouth, engulfed in flames by flak",
+        "All 13 airmen buried at Trondheim (Stavne) Cemetery",
+        "Memorial erected 24 June 1979, Borås, Skjekstadmark"
+      ],
+      "still_live": true
+    }
+  ],
+  "photos": [],
+  "data_quality": "Partial",
+  "narrative_quality_score": 4,
+  "contributor": "Keith Binley",
+  "last_updated": "2026-10-15"
+}
