@@ -105,14 +105,27 @@ export default function HomePage() {
         <p
           style={{
             fontSize: "clamp(1rem, 2vw, 1.15rem)",
-            color: "rgba(255,255,255,0.75)",
+            color: "rgba(255,255,255,0.85)",
             maxWidth: 640,
+            margin: "0 auto 1rem",
+            lineHeight: 1.7,
+          }}
+        >
+          The stories behind the memorials that communities built
+          to remember the crews who fell near their homes.
+        </p>
+        <p
+          style={{
+            fontSize: "clamp(0.85rem, 1.5vw, 0.95rem)",
+            color: "rgba(255,255,255,0.55)",
+            maxWidth: 560,
             margin: "0 auto 1.5rem",
             lineHeight: 1.7,
           }}
         >
-          A digital record of the memorials, crash sites, and aircrew of RAF
-          Bomber Command during the Second World War. Lest we forget.
+          Other registers record the losses. We record the people who chose to
+          remember &mdash; the parishes, the families, and the villages that
+          still tend a memorial eighty years on.
         </p>
 
         <div
