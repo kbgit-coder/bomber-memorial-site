@@ -124,8 +124,8 @@ export default function HomePage() {
           }}
         >
           Other registers record the losses. We record the people who chose to
-          remember &mdash; the parishes, the families, and the villages that
-          still tend a memorial eighty years on.
+          remember &mdash; the parishes, the families, and the villages where
+          the connection endures, passed from one generation to the next.
         </p>
 
         <div
