@@ -1,0 +1,85 @@
+{
+  "id": "niederdonven-wellington-t2514",
+  "title": "Wellington T2514 Memorials, Niederdonven, Luxembourg",
+  "location_name": "Niederdonven, Grevenmacher Canton, Luxembourg",
+  "county": "Grevenmacher",
+  "country": "Luxembourg",
+  "crash_date": "1941-08-25",
+  "aircraft_type": "Vickers Wellington Mk IC",
+  "serial_number": "T2514",
+  "aircraft_code": "BL-D",
+  "squadron": "40 Squadron",
+  "squadron_display_name": "40 Squadron RAF",
+  "station": "RAF Alconbury",
+  "operation_type": "Operational",
+  "operation_target": "Karlsruhe, Germany",
+  "memorial_type": "Sculpture",
+  "memorial_details": "Two separate memorials in Niederdonven. First: Rue Benert — a metal sculpture with memorial plaque and information board, dedicated to the crew. Second: Église Saint-Martin, Niederdonven — inscribed memorial tablets inside the church, described as commemorating 'six English soldiers of the Royal Air Force who died in their twin-engine Vickers Wellington during the night of 25-26 August 1941 near Niederdonven.' The National Archives (AIR 81/8561) holds photographs of the crew.",
+  "crew_summary": "All six killed. Sgt Shea confirmed at Rheinberg War Cemetery, Grave 7.C.13. Remaining crew initially buried in Luxembourg; transferred to Rheinberg War Cemetery post-war. Full first names and service numbers for five of the six crew not yet recovered from open sources.",
+  "narrative": "Wellington T2514 departed RAF Alconbury on the night of 25/26 August 1941, one of many aircraft tasked against Karlsruhe in the strategic offensive against German industrial targets. The aircraft came down in a field between Oberdonven and Niederdonven in the Moselle valley of Luxembourg, killing all six crew.\n\nLuxembourg was under German occupation and the crash would have been attended to by German forces. The six men are commemorated at Rheinberg War Cemetery in Germany. The local community's response — two separate memorials, one in the street and one inside the parish church of Saint-Martin — reflects an unusually strong degree of identification with these airmen for a Luxembourg village. The National Archives at Kew (AIR 81/8561) holds photographs of the crew, providing one of the better personal records among 40 Squadron losses of this period.\n\nOnly Sgt Shea's full details have been confirmed from open sources. The other five crew are known by surname only from the IBCC losses record: Youldon, Cole, Appleby, Duthie, and Fisher.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "D.F. Youldon",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W.H. Cole",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "T. Appleby",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J.D. Duthie",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W. Fisher",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Charles Shea",
+      "service_number": "1377747",
+      "age": 30,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Rheinberg War Cemetery, Grave 7.C.13"
+    }
+  ],
+  "sources": [
+    {
+      "title": "IBCC Losses — Shea E",
+      "url": "https://losses.internationalbcc.co.uk/loss/225332/",
+      "type": "official_database"
+    },
+    {
+      "title": "National Archives — AIR 81/8561 (crew photographs)",
+      "url": "https://discovery.nationalarchives.gov.uk/details/r/C16924403",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Niederdonven village community; Église Saint-Martin parish; metal sculpture and information board on Rue Benert maintained by the local community.",
+  "photos": [],
+  "external_narratives": []
+}

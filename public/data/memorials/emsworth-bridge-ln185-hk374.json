@@ -1,0 +1,132 @@
+{
+  "id": "emsworth-bridge-ln185-hk374",
+  "title": "Wellington LN185 / Mosquito HK374 Mid-Air Collision Memorial, Emsworth",
+  "location_name": "Footbridge over River Ems, Brook Meadow, off Seagull Lane, Emsworth, Hampshire, England",
+  "county": "Hampshire",
+  "country": "United Kingdom",
+  "latitude": 50.848,
+  "longitude": -0.938,
+  "what3words": "",
+  "crash_date": "1944-02-08",
+  "aircraft_type": "Vickers Wellington LN185 and de Havilland Mosquito NF Mk XIII HK374",
+  "serial_number": "LN185 / HK374",
+  "aircraft_code": "VY-R",
+  "squadron": "18 OTU / 85 Squadron",
+  "squadron_display_name": "18 OTU RAF Finningley (Wellington LN185) and 85 Squadron RAF West Malling (Mosquito HK374)",
+  "operation_type": "Training",
+  "operation_target": "Bullseye exercise (Wellington); radar interception practice (Mosquito)",
+  "cause_of_loss": "Mid-air collision at 20:00 on 8 February 1944 during a Bullseye training exercise off Portsmouth",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_name": "Emsworth Bridge Collision Memorial",
+  "memorial_address": "Footbridge, Brook Meadow, off Seagull Lane, Emsworth, PO10 7SR",
+  "memorial_details": "Plaque fixed to the bridge rail over the River Ems at Brook Meadow, off Seagull Lane, Emsworth. Provided February 1995 by Graham Alderson. The plaque commemorates the Mosquito crew (F/Lt Woods and Lt Bugge); the Wellington crew are commemorated on separate memorials and in CWGC records. The inscription notes the collision occurred 'not through enemy action.'",
+  "inscription": "Notes the collision occurred not through enemy action. Commemorates F/Lt A.B. Woods AFC, RAF, and 2nd Lt J. Bugge, RNOAF.",
+  "crew_summary": "Nine killed in total: seven Wellington crew (18 OTU Finningley) and both Mosquito crew (85 Squadron West Malling). Causes: Wellington front section fell in flames at Southbourne; Wellington rear turret separated and came down in Prinsted Harbour (Sgt Varley); Mosquito crashed at Lumley Pond, Emsworth.",
+  "narrative": "On the evening of 8 February 1944, Wellington LN185 of 18 OTU Finningley was conducting a Bullseye exercise — a simulated bombing run against Portsmouth. Simultaneously, Mosquito HK374 of 85 Squadron from West Malling was using the exercise to test an airborne radar interception device, crewed by the experienced F/Lt Arthur Bickerstaffe Woods AFC, age 39, and Norwegian navigator Lt Jan Otto Richard Bugge, age 22.\n\nAt 20:00 the Mosquito successfully located and intercepted the Wellington as it approached Portsmouth — then collided with it. The Wellington was cut in two immediately forward of the rear gunner's turret. The front section, containing five crew, fell in flames into a field at Southbourne. The rear turret, with Sgt William Varley inside, separated and — in the account of two Sea Scouts standing outside their hut near Prinsted Harbour — descended into the mud of the harbour. Varley did not survive. The Mosquito crashed at Lumley Pond, Emsworth; both crew were killed.\n\nNine men died in total. The memorial plaque at the Emsworth footbridge, placed in 1995, names only the Mosquito crew. The Wellington crew are commemorated on separate memorials and in CWGC records.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Ronald Henry Ramsey",
+      "service_number": "1801882",
+      "age": 20,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Ipswich New Cemetery, X.H.5.114"
+    },
+    {
+      "rank": "F/O",
+      "name": "John Riddell",
+      "service_number": "J/28219",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Reginald Gordon Graves",
+      "service_number": "1336898",
+      "age": 21,
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Lomax Harrison",
+      "service_number": "1620624",
+      "age": 19,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alfred Cecil Jones",
+      "age": 21,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Stanley Gordon Johnson",
+      "service_number": "1314210",
+      "age": 22,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Varley",
+      "age": 21,
+      "role": "Air Gunner (rear turret)",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Rear turret separated from Wellington on impact. Turret descended into Prinsted Harbour mud. Eyewitness account from two Sea Scouts."
+    },
+    {
+      "rank": "F/Lt",
+      "name": "Arthur Bickerstaffe Woods",
+      "service_number": "75403",
+      "age": 39,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Awarded Air Force Cross. Mosquito pilot, 85 Squadron."
+    },
+    {
+      "rank": "Lt",
+      "name": "Jan Otto Richard Bugge",
+      "age": 22,
+      "role": "Navigator",
+      "nationality": "Norwegian",
+      "fate": "Killed",
+      "fate_detail": "Royal Norwegian Air Force, attached to 85 Squadron."
+    }
+  ],
+  "sources": [
+    {
+      "title": "War Memorials Online — memorial 256347",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/256347/",
+      "type": "official_database"
+    },
+    {
+      "title": "Ipswich War Memorial — Ronald Henry Ramsey",
+      "url": "https://www.ipswichwarmemorial.co.uk/ronald-henry-ramsey/",
+      "type": "website"
+    },
+    {
+      "title": "Aviation Safety Network — Mosquito HK374",
+      "url": "https://asn.flightsafety.org/asndb/72928",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Plaque provided by Graham Alderson, February 1995. Brook Meadow nature reserve, Emsworth, maintained by local volunteers.",
+  "photos": [],
+  "external_narratives": []
+}

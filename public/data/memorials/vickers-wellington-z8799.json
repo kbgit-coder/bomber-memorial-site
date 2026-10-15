@@ -9,18 +9,30 @@
   "squadron": "",
   "crash_date": "1943-11-12",
   "memorial_type": "Pillar / Column",
-  "memorial_details": "Three stepped base surmounted by square metal column. Metal plaque with dedication in white lettering on the front face of the column",
+  "memorial_details": "Three stepped base surmounted by square metal column. Metal plaque with dedication in white lettering on the front face of the column. A small brass plaque to Flt Sgt Joe Timperon RAAF (IWM 74348) was added above it by his family on the 60th anniversary in 2003.",
   "inscription": "TO THE MEMORY OF/ (Names)/ KILLED WHEN/ A WELLINGTON BOMBER/ CRASHED ON THESE MOORS/ ON NOV. 12TH 1943./ ERECTED BY THE/ ROTARY CLUB OF HORWICH/ JUNE 1955/ Small Brass plaque: IN LOVING MEMORY OF/ FLT. SGT. JOE TIMPERON/ ON THIS 60TH ANNIVERSARY/ OF THEIR CRASH 16/11/2003/ PROUDLY REMEMBERED/ BY HIS SISTER MARY, SISTER-IN-LAW SHIRLEY/ AND FAMILY MEMBERS IN SOUTH AUSTRALIA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/18607",
       "type": "official_database"
+    },
+    {
+      "title": "IWM War Memorials Register (Timperon plaque)",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/74348",
+      "type": "official_database"
     }
   ],
   "data_quality": "Comprehensive",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flight Sergeant",
+      "name": "J Timperon",
+      "fate": "Killed",
+      "role": ""
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.643947359045,
@@ -33,8 +45,9 @@
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/6/567/large_anglezarke__j_b__hayton_close_up.jpg",
-    "https://media.iwm.org.uk/ciim5/memorials/6/566/large_anglezarke__j_b__hayton_oa.jpg"
+    "https://media.iwm.org.uk/ciim5/memorials/6/566/large_anglezarke__j_b__hayton_oa.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/26/648/large_timperon_74348.jpg"
   ],
-  "community_connection": "",
+  "community_connection": "Sister Mary, sister-in-law Shirley, and family members in South Australia added a brass plaque on the 60th anniversary, 16 November 2003",
   "last_validated": "2026-04-13"
 }

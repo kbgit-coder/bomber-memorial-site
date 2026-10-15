@@ -6,7 +6,7 @@
   "country": "Norway",
   "latitude": 63.5250,
   "longitude": 11.3680,
-  "what3words": "unverified.approximate.location",
+  "what3words": "",
   "crash_date": "1942-04-27",
   "aircraft_type": "Handley Page Halifax Mk.II and Avro Lancaster Mk.I",
   "serial_number": "W1020 and L7572",
@@ -115,7 +115,9 @@
       "cwgc_verified": true,
       "hometown": "Calgary, Canada",
       "biography": "Flight Lieutenant Mackid DFC, RAF, service number 41042, aged 28. Born in Calgary, Canada. Pilot of Lancaster L7572, 97 Squadron.",
-      "decorations": ["DFC"]
+      "decorations": [
+        "DFC"
+      ]
     },
     {
       "rank": "Plt Off",

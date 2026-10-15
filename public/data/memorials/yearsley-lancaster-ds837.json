@@ -1,0 +1,120 @@
+{
+  "id": "yearsley-lancaster-ds837",
+  "title": "Lancaster DS837 Memorial, Yearsley",
+  "location_name": "Holy Trinity Church, Well Lane, Yearsley, Hambleton, North Yorkshire, England",
+  "county": "North Yorkshire",
+  "country": "United Kingdom",
+  "latitude": 54.1625,
+  "longitude": -1.1055,
+  "what3words": "",
+  "crash_date": "1943-12-16",
+  "aircraft_type": "Avro Lancaster Mk II",
+  "serial_number": "DS837",
+  "aircraft_code": "OW-Q",
+  "squadron": "426 Squadron RCAF",
+  "squadron_display_name": "426 (Thunderbird) Squadron RCAF, 6 Group",
+  "station": "RAF Linton-on-Ouse",
+  "operation_type": "Operational",
+  "operation_target": "Berlin, Germany",
+  "cause_of_loss": "Aircraft flew into high ground near Yearsley in cloud and fog on return from Berlin",
+  "memorial_type": "Plaque",
+  "memorial_name": "RCAF Lancaster DS837 OW-Q Memorial Plaque",
+  "memorial_details": "Bronze plaque, upright rectangular, with textured surface and narrow bright border. Mounted inside Holy Trinity Church, Yearsley. Cast in relief with squadron badge above and image of a Lancaster below. Dimensions approximately 750mm x 450mm. Dedicated 8 May 2011.\n\nThe dedication service on 8 May 2011 drew a full church, with Colonel Paul Keddy representing the Canadian High Commission.",
+  "inscription": "DEDICATED TO THE MEMORY OF ROYAL CANADIAN AIR FORCE LANCASTER DS837 OW-Q WHICH CRASHED IN THE VILLAGE OF YEARSLEY ON DECEMBER 16 1943 RETURNING FROM A RAID ON BERLIN TO ITS BASE AT LINTON-ON-OUSE SIX OF THE SEVEN CREW WERE KILLED MAY THEY ALL REST IN PEACE",
+  "crew_summary": "Six killed; sole survivor Sgt Gordon Fortier recovered from injuries, retrained as instructor in Canada, returned to operations with 432 Squadron in 1944, and died in 2004 in Halifax, Nova Scotia.",
+  "narrative": "DS837 was one of 483 Lancasters sent to Berlin on the night of 15/16 December 1943 in what crews later called 'Black Thursday' — a night when thick cloud over Germany forced sky-marking, accuracy was poor, and the return flight in deteriorating weather cost further lives beyond those lost over the target. DS837 was returning to its base at RAF Linton-on-Ouse when, descending through cloud and fog, it struck high ground near Yearsley, north of York. Six of the seven crew were killed. The sole survivor, Sgt Gordon Fortier, was thrown clear or survived the impact sufficiently to be taken to hospital. He recovered, was retrained as an instructor in Canada, and eventually returned to operations with 432 Squadron in late 1944, completing five more sorties before the war ended. He died in 2004 in Halifax, Nova Scotia. His daughter, Mrs Trish Best, attended the memorial dedication in 2011 and flew from Canada for the ceremony. The five RCAF crew killed alongside S/Ldr Kneale are buried together in Harrogate (Stonefall) Cemetery. P/O Robert Marks, RAFVR, was the sole British crew member. Local historian David Smith led the research that identified the crew and located surviving family members in Canada.",
+  "crew": [
+    {
+      "rank": "S/Ldr",
+      "name": "Thomas Matthew Kneale",
+      "service_number": "J/14999",
+      "age": 29,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery, Sec. C, Row G, Gr. 8"
+    },
+    {
+      "rank": "P/O",
+      "name": "Robert Philip Marks",
+      "service_number": "161746",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery, Sec. C, Row G"
+    },
+    {
+      "rank": "F/O",
+      "name": "George MacDonald Jones",
+      "service_number": "J/18865",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery"
+    },
+    {
+      "rank": "F/O",
+      "name": "James MacKay",
+      "service_number": "J/20832",
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery"
+    },
+    {
+      "rank": "P/O",
+      "name": "Maurice Milton Prill",
+      "service_number": "J/18880",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery"
+    },
+    {
+      "rank": "P/O",
+      "name": "Angus Augustus Johnston",
+      "service_number": "J/19288",
+      "role": "Tail Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Harrogate (Stonefall) Cemetery, Sec. C, Row G, Gr. 1"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Gordon Charles Fortier",
+      "service_number": "R/176613",
+      "role": "Mid Upper Gunner",
+      "nationality": "Canadian",
+      "fate": "Survived",
+      "fate_detail": "Survived with injuries. Admitted to hospital. Later posted as instructor to No. 10 Bombing and Gunnery School, Canada. Returned to ops with 432 Squadron 1944. Died 9 September 2004, Halifax, Nova Scotia."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yorkshire Aircraft — DS837 memorial page",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/ds837memorial.html",
+      "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register — memorial/101721",
+      "url": "https://memorials.iwm.org.uk/item/memorial/101721",
+      "type": "official_database"
+    },
+    {
+      "title": "IBCC Losses — Kneale T",
+      "url": "https://losses.internationalbcc.co.uk/loss/215798",
+      "type": "official_database"
+    },
+    {
+      "title": "IBCC Losses — Johnston A",
+      "url": "https://losses.internationalbcc.co.uk/loss/214793/",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Memorial organised by local researchers David Smith, Penny Johnston, and David Crane, who identified the crew and traced surviving family in Canada. Dedication service held 8 May 2011 at Holy Trinity Church, Yearsley. Sgt Fortier's daughter, Mrs Trish Best, flew from Canada to attend. Canadian High Commission represented by Colonel Paul Keddy.",
+  "photos": [],
+  "external_narratives": []
+}

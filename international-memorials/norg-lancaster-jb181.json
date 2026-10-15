@@ -6,14 +6,17 @@
   "country": "Netherlands",
   "latitude": 53.0680,
   "longitude": 6.4790,
-  "what3words": "unverified.approximate.location",
+  "what3words": "",
   "crash_date": "1943-10-09",
   "aircraft_type": "Avro Lancaster Mk III",
   "serial_number": "JB181",
   "aircraft_code": "MG-V",
   "squadron": "7 Squadron",
   "squadron_display_name": "7 Squadron RAF (Pathfinders)",
-  "squadron_aliases": ["No. 8 Group (Pathfinder Force)", "PFF"],
+  "squadron_aliases": [
+    "No. 8 Group (Pathfinder Force)",
+    "PFF"
+  ],
   "station": "RAF Oakington",
   "operation_type": "Bombing",
   "operation_target": "Hanover, Germany",
@@ -146,5 +149,6 @@
   "photos": [],
   "data_quality": "Partial",
   "contributor": "Keith Binley, Bomber Command Memorial Register",
-  "last_updated": "2026-10-15"
+  "last_updated": "2026-10-15",
+  "community_connection": "SLOD Drenthe (Stichting Luchtoorlog en Oorlogsgraven Drenthe) installed and maintains the Lost Wings information panel at the crash site — one of 91 such panels the foundation has placed across the province of Drenthe."
 }

@@ -1,0 +1,137 @@
+{
+  "id": "beetley-wellington-bj764",
+  "title": "Wellington BJ764 Memorial, St Mary Magdalene Church, Beetley",
+  "location_name": "Church of St Mary Magdalene, Church Lane, Beetley, Breckland, Norfolk, NR20 4AB",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "latitude": 52.7284,
+  "longitude": 0.9219,
+  "what3words": "",
+  "crash_date": "1942-11-09",
+  "aircraft_type": "Vickers Wellington Mk III",
+  "serial_number": "BJ764",
+  "aircraft_code": "KW-",
+  "squadron": "425 Squadron RCAF",
+  "squadron_display_name": "No. 425 (Alouette) Squadron RCAF",
+  "station": "RAF Dishforth",
+  "operation_type": "Operational",
+  "operation_target": "Hamburg, Germany",
+  "cause_of_loss": "Aircraft hit by anti-aircraft fire over Hamburg. Two crew bailed out over Germany (POW). Four remaining crew killed when aircraft crashed near Beetley attempting emergency landing at RAF Swanton Morley.",
+  "memorial_type": "Plaque",
+  "memorial_name": "Crew of Wellington BJ764 Memorial Tablet",
+  "memorial_address": "Church of St Mary Magdalene, Church Lane, Beetley, Norfolk, NR20 4AB",
+  "memorial_details": "White marble tablet on black backboard, inside the Church of St Mary Magdalene, Beetley. IWM War Memorials Register reference 101718. Privately sponsored. Custodian: St Mary Magdalene's Church. Note: the church is St Mary Magdalene — the seed data incorrectly named it 'All Saints.' The IWM record is definitive.\n\nThe crash site at Beetley was marked by the white marble tablet in St Mary Magdalene's Church.",
+  "inscription": "IN MEMORY OF [crew names] CREW MEMBERS OF THE WELLINGTON MK III BOMBER OF THE 425 SQUADRON ROYAL CANADIAN AIR FORCE WHICH CRASHED AT BEETLEY ON THE NIGHT OF 9TH NOVEMBER 1942",
+  "crew_summary": "Four killed, two survived as POW. Four buried at Dishforth Cemetery, North Yorkshire (graves 34-38). F/O Cartwright was a Rhodes Scholar (Oxford, 1929-32) and son of Brigadier General George Strachan Cartwright; believed to be the first Rhodes Scholar killed in WWII.",
+  "narrative": "On the evening of 9 November 1942, Wellington BJ764 of No. 425 (Alouette) Squadron RCAF lifted off from RAF Dishforth at 17:33 for an operation to Hamburg. The aircraft was hit by anti-aircraft fire over the target. Badly damaged, two crew members — Warrant Officer Delorme and Warrant Officer Pambrun — bailed out over occupied Germany and were taken prisoner. The four remaining crew stayed with the aircraft and attempted an emergency landing at RAF Swanton Morley, some 17 miles north-west of Norwich. At 23:58 the aircraft crashed near Beetley, killing all four on board: Flight Sergeant Raymond Rogers Foltz (pilot), Flying Officer George Stevenson Cartwright (observer), Flight Sergeant Roy Norman Victor Burke (wireless operator/air gunner), and Flight Sergeant Joseph Eugene Raymond Laporte (air gunner). All four are buried at Dishforth Cemetery, North Yorkshire, in adjacent graves (34-38). The Oxford University memorial notes he was posthumously awarded the Operational Wings of the RCAF and is believed to have been the first Rhodes Scholar killed in the Second World War. The two surviving crew — Delorme and Pambrun — were both held as prisoners of war.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Raymond Rogers Foltz",
+      "service_number": "R/79246",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "hometown": "Mansfield, Ohio, USA (serving with RCAF)",
+      "burial_location": "Dishforth Cemetery, grave 37"
+    },
+    {
+      "rank": "F/O",
+      "name": "George Stevenson Cartwright",
+      "service_number": "J/11102",
+      "age": 34,
+      "role": "Observer (Navigator)",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "Rhodes Scholar (Oxford, 1929-32). Son of Brigadier General George Strachan Cartwright. Volunteered as navigator for this crew. Believed to be the first Rhodes Scholar killed in WWII. Posthumously awarded RCAF Operational Wings.",
+      "burial_location": "Dishforth Cemetery, grave 35"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Roy Norman Victor Burke",
+      "service_number": "R/102904",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "hometown": "Port Credit, Ontario",
+      "fate": "Killed",
+      "burial_location": "Dishforth Cemetery, grave 38"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Joseph Eugene Raymond Laporte",
+      "service_number": "R/120083",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "hometown": "St Lambert, Quebec",
+      "fate": "Killed",
+      "burial_location": "Dishforth Cemetery, grave 34"
+    },
+    {
+      "rank": "WO2",
+      "name": "Joseph Albert Delorme",
+      "service_number": "R/101687",
+      "role": "Aircrew",
+      "nationality": "Canadian",
+      "hometown": "St. Adolphe, Manitoba",
+      "fate": "POW",
+      "fate_detail": "Bailed out over Germany. Held as prisoner of war."
+    },
+    {
+      "rank": "WO2",
+      "name": "Joseph Raoul Armand Pambrun",
+      "service_number": "R/119711",
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "Bailed out over Germany. Held as prisoner of war."
+    }
+  ],
+  "sources": [
+    {
+      "title": "IWM War Memorials Register — memorial/101718",
+      "url": "https://memorials.iwm.org.uk/item/memorial/101718",
+      "type": "official_database"
+    },
+    {
+      "title": "Geograph — Adrian S Pye photograph of memorial",
+      "url": "https://www.geograph.org.uk/photo/6029497",
+      "type": "website"
+    },
+    {
+      "title": "Veterans Canada — Foltz Raymond Rogers",
+      "url": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/646465",
+      "type": "official_database"
+    },
+    {
+      "title": "IBCC Losses — Burke R",
+      "url": "https://losses.internationalbcc.co.uk/loss/203857",
+      "type": "official_database"
+    },
+    {
+      "title": "IBCC Losses — Cartwright G",
+      "url": "https://losses.internationalbcc.co.uk/loss/204536",
+      "type": "official_database"
+    },
+    {
+      "title": "IBCC Losses — Laporte J",
+      "url": "https://losses.internationalbcc.co.uk/loss/216172",
+      "type": "official_database"
+    },
+    {
+      "title": "Christ Church Oxford — George Stevenson Cartwright",
+      "url": "https://www.chch.ox.ac.uk/cathedral/war-memorials/flying-officer-george-stevenson-cartwright",
+      "type": "website"
+    },
+    {
+      "title": "CASPIR — Delorme Joseph Albert",
+      "url": "https://caspir.warplane.com/personnel/unit-search/p/600023013",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "The tablet is privately sponsored and maintained by St Mary Magdalene's Church. Cartwright is additionally commemorated at Christ Church Cathedral, Oxford, and at Trinity College School, Toronto.",
+  "photos": [],
+  "external_narratives": []
+}

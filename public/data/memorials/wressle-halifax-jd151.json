@@ -1,0 +1,107 @@
+{
+  "id": "wressle-halifax-jd151",
+  "title": "Halifax JD151 Memorial, Wressle (Intake Plantation)",
+  "location_name": "Intake Plantation, Wressle, East Riding of Yorkshire, England",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "latitude": 53.776,
+  "longitude": -0.979,
+  "what3words": "",
+  "crash_date": "1943-08-11",
+  "aircraft_type": "Handley Page Halifax Mk II",
+  "serial_number": "JD151",
+  "aircraft_code": "EY-M",
+  "squadron": "78 Squadron",
+  "squadron_display_name": "78 Squadron RAF",
+  "station": "RAF Breighton",
+  "operation_type": "Operational",
+  "operation_target": "Nürnberg, Germany",
+  "memorial_type": "Plaque",
+  "memorial_details": "A small plaque placed within Intake Plantation, Wressle, on private land with no public right of way — access requires passing through a field gate. LOCATION ERROR: The plaque marks the site of the DT524 crash (7 September 1943), not JD151. Metal-detector survey by local historians Albert Pritchard, Eric Barton, and Ken Reast confirmed that JD151 came down approximately two miles away near Bowthorpe Hall, South Duffield. The error arose from mixed-up data held by the Yorkshire Air Museum. The true JD151 crash site is private farmland.",
+  "crew_summary": "Three killed, four survived with injuries. P/O Binns and Sgt Gillicker killed in the crash; F/Sgt Brown died of injuries on 13 August 1943.",
+  "narrative": "JD151 took off from RAF Breighton on the night of 10/11 August 1943 as part of a 653-aircraft attack on Nürnberg. The round trip placed heavy demands on fuel and by the time the aircraft turned for home the fuel state was critical. On approach to Breighton the engines failed through fuel starvation. The aircraft came down near Bowthorpe Hall, South Duffield, on the western side of the River Derwent — geographically near Wressle, though the village itself sits across the river.\n\nThree of the seven crew did not survive. Navigator P/O Harry Binns and air gunner Sgt Thomas Gillicker died in the crash; flight engineer F/Sgt William John Brown survived initial injuries but died two days later on 13 August. The other four, including pilot P/O Jack Jenkinson and the American gunner S/Sgt Richard Barger of the USAAF (one of several US personnel flying operationally with RAF Bomber Command at that time), were injured but recovered. Barger lived until 2012.\n\nThe primary source records Binns's rank as P/O and O'Neill's as Sgt. The seed data gave these as Sgt Binns and F/Lt O'Neill respectively — those ranks are not confirmed by the yorkshire-aircraft.co.uk or aircrewremembered.com records and should not be used.",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Jack Jenkinson",
+      "service_number": "149961",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Survived with injuries"
+    },
+    {
+      "rank": "P/O",
+      "name": "Harry Binns",
+      "service_number": "149339",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Southport (Birkdale) Cemetery, Sec. G, Gr. 267"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "William John Brown",
+      "service_number": "616402",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Died of injuries 13 August 1943",
+      "burial_location": "Liverpool (Allerton) Cemetery, Sec. 16 RC, Gr. 517"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Gillicker",
+      "service_number": "547631",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Warrington Cemetery, Sec. O, Gr. 507"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles William Eyles",
+      "service_number": "900473",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Survived with minor injuries"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Gerald John O'Neill",
+      "service_number": "550757",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Survived, seriously injured"
+    },
+    {
+      "rank": "S/Sgt",
+      "name": "Richard Lewis Barger",
+      "service_number": "10601064",
+      "role": "Air Gunner",
+      "nationality": "American",
+      "fate": "Survived",
+      "fate_detail": "Survived with injuries. Died 2012; buried Saint Colmans Cemetery, Fayette, Ohio."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yorkshire Aircraft — Halifax JD151",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jd151.html",
+      "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered — Jenkinson J",
+      "url": "https://aircrewremembered.com/jenkinson-j.html",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Research by local historians Albert Pritchard, Eric Barton, and Ken Reast, who used metal-detector survey to confirm the true JD151 crash site near Bowthorpe Hall and identify the location error at Intake Plantation. The Yorkshire Air Museum is associated with the original (erroneously sited) plaque.",
+  "photos": [],
+  "external_narratives": []
+}

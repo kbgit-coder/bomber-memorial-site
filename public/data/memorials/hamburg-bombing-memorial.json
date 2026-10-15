@@ -5,12 +5,23 @@
   "country": "Germany",
   "memorial_type": "Memorial",
   "data_quality": "Stub",
-  "contributor": "Charlie Leitheiser",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
   "last_updated": "2026-03-21",
   "sources": [
     {
-      "title": "Charlie Leitheiser hackathon research",
-      "type": "personal_research"
+      "title": "National WWII Museum",
+      "url": "https://www.nationalww2museum.org/war/articles/operation-gomorrah-first-firestorms",
+      "type": "website"
+    },
+    {
+      "title": "Wynning History",
+      "url": "https://wynninghistory.com/2024/03/07/hamburg-bombing-memorial/",
+      "type": "website"
+    },
+    {
+      "title": "Hamburg Gedenkstaetten",
+      "url": "https://gedenkstaetten-in-hamburg.de/en/memorials/show/memorial-plaque-for-the-hamburg-firestorm",
+      "type": "website"
     }
   ],
   "latitude": 53.55,

@@ -125,7 +125,7 @@
   ],
   "cause_of_loss": "Flew into hillside; probable icing conditions",
   "operation_type": "Training",
-  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial plaque at crash site on Great Whernside; separate memorial inside chapel at Hagg Dyke | | **Crash site plaque dedicated** | June 2016 | | **Organised by** | Joseph (Ernest Stabler's half-brother) and David Robson, with wider Robson family | | **Condition** | Good | | **Access** | Great Whernside (2,310 ft), Yorkshire Dales; remote hillside location, accessible on foot from Kettlewell |",
+  "memorial_details": "| Feature | Detail | |---------|--------| | **Type** | Memorial plaque at crash site on Great Whernside; separate memorial inside chapel at Hagg Dyke | | **Crash site plaque dedicated** | June 2016 | | **Organised by** | Joseph (Ernest Stabler's half-brother) and David Robson, with wider Robson family | | **Condition** | Good | | **Access** | Great Whernside (2,310 ft), Yorkshire Dales; remote hillside location, accessible on foot from Kettlewell |\n\nThe crash site plaque, dedicated in June 2016, was organised by Joseph — Ernest Stabler's half-brother — and David Robson, along with the wider Robson family.",
   "latitude": 54.1610297,
   "longitude": -1.9982687,
   "maintainer": {
@@ -207,5 +207,6 @@
   },
   "crash_category": "training",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "community_connection": "A second memorial inside the chapel at Hagg Dyke means two family-initiated tributes now mark the loss of the seven men on Great Whernside."
 }

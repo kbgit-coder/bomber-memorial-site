@@ -1,0 +1,104 @@
+{
+  "id": "mechelen-leest-halifax-jd259",
+  "title": "Halifax JD259 Memorial, Mechelen-Leest",
+  "location_name": "Leest, Mechelen municipality, Antwerp province, Belgium",
+  "county": "Antwerp",
+  "country": "Belgium",
+  "crash_date": "1943-06-22",
+  "aircraft_type": "Handley Page Halifax Mk II",
+  "serial_number": "JD259",
+  "aircraft_code": "NP-R",
+  "squadron": "158 Squadron",
+  "squadron_display_name": "158 Squadron RAF",
+  "station": "RAF Lissett",
+  "operation_type": "Operational",
+  "operation_target": "Mülheim, Ruhr, Germany",
+  "cause_of_loss": "Shot down by Oblt Wilhelm Telge, Stab II./NJG 1, his 7th Abschuss, at 02:30 on 22 June 1943 over Belgium",
+  "memorial_type": "Stone",
+  "memorial_details": "Memorial stone with plaque at the crash site in Leest, Mechelen. Origin and current custodian of the memorial not confirmed — the 158 Squadron Association notes: 'It is unknown at this time who is responsible for the erection of this memorial.'",
+  "crew_summary": "All seven killed. Six buried Schoonselhof Cemetery, Antwerp. P/O Maund initially buried near crash site; later reinterred Schoonselhof. The aircraft struck high-tension cables just before touchdown during a forced landing attempt.",
+  "narrative": "JD259 was one of 557 aircraft detailed against Mülheim on the night of 21/22 June 1943, part of the Battle of the Ruhr. The aircraft departed Lissett and bombed the target. On the return, Oblt Wilhelm Telge of Stab II./NJG 1 intercepted it over Belgium for his seventh confirmed kill at 02:30.\n\nThe pilot — F/Sgt Leonard Cavanagh, a 20-year-old Australian — made what the 158 Squadron Association describes as a very brave attempt to crash-land the bomber. Just before touchdown the aircraft struck high-tension cables and exploded, scattering wreckage across fields near the railway at Leest. All seven men died. P/O Maund was buried initially where he fell; the other six were taken to Schoonselhof Cemetery in Antwerp. After the war Maund was reinterred alongside his crewmates.\n\nF/Sgt Cavanagh, from Western Australia, is the named focus of the 158 Squadron Association's memorial page — a common pattern in which one crew member, often through family connection or nationality, becomes the focal point for commemoration while the memorial itself honours the whole crew.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Leonard E. Cavanagh",
+      "age": 20,
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "Sgt",
+      "name": "T.R. Forster",
+      "age": 21,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "P/O",
+      "name": "D.V. Elliot",
+      "age": 23,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W.R. Green",
+      "age": 22,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "P/O",
+      "name": "R.A.C. Maund",
+      "age": 23,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Initially buried near crash site; later reinterred Schoonselhof Cemetery.",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "O.W. Todd",
+      "age": 32,
+      "role": "Aircrew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R.J. Sage",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Schoonselhof Cemetery, Antwerp"
+    }
+  ],
+  "sources": [
+    {
+      "title": "158 Squadron Association — Memorial to Crew of Halifax JD259",
+      "url": "https://www.158squadron.co.uk/memorials/cavanagh",
+      "type": "website"
+    },
+    {
+      "title": "TracesOfWar — Memorial RAF 158 Squadron, Mechelen",
+      "url": "https://www.tracesofwar.com/sights/64208/Memorial-RAF-158-Squadron.htm",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "158 Squadron Association maintains a memorial page for the crew at https://www.158squadron.co.uk/memorials/cavanagh. The local Belgian community at Leest/Mechelen maintains the crash-site memorial, though the erecting organisation is unknown per the 158 Squadron Association.",
+  "photos": [],
+  "external_narratives": []
+}

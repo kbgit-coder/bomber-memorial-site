@@ -1,0 +1,120 @@
+{
+  "id": "wressle-halifax-dt524",
+  "title": "Halifax DT524 Memorial, Wressle (Intake Plantation)",
+  "location_name": "Intake Plantation (formerly Newsholme Plantation), Wressle, East Riding of Yorkshire, England",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "latitude": 53.776,
+  "longitude": -0.979,
+  "what3words": "",
+  "crash_date": "1943-09-07",
+  "aircraft_type": "Handley Page Halifax Mk II",
+  "serial_number": "DT524",
+  "squadron": "1658 Heavy Conversion Unit",
+  "squadron_display_name": "1658 HCU RAF",
+  "station": "RAF Riccall",
+  "operation_type": "Training",
+  "operation_target": "Fighter affiliation training exercise",
+  "memorial_type": "Plaque",
+  "memorial_details": "A plaque in Intake Plantation (formerly Newsholme Plantation), Wressle, marks the actual DT524 crash site. Metal-detector survey by local historians Albert Pritchard, Eric Barton, and Ken Reast confirmed DT524 wreckage at this woodland edge. Note: the plaque is sometimes understood locally as marking a JD151 memorial — this is a labelling or data error. The JD151 crash occurred approximately two miles away near Bowthorpe Hall, South Duffield. The plaque is on private land with no public right of way.",
+  "crew_summary": "All ten killed — the largest single-incident death toll of the two crashes associated with this woodland site.",
+  "narrative": "DT524 took off from RAF Riccall at 10:05 on 7 September 1943 carrying a mixed crew of trainees working up to operational standard and three instructors. F/O Maynard Meyer Caplan DFM — a decorated pilot posted to instructional duties after completing his tour — was the senior crew member.\n\nThe exercise involved a Hurricane making simulated attacking passes while the Halifax crew practised evasive action under instructor direction. During the exercise the aircraft entered a spin. The starboard outer engine broke away from the wing and the aircraft dived into the ground at the edge of Newsholme Plantation (now Intake Plantation) near Wressle at around midday. All ten men aboard were killed.\n\nCaplan had survived a full operational tour to earn his DFM, then was killed on a routine training flight within weeks of completing it. The mixed RAF and RCAF composition of the crew was typical of HCU operations, where Commonwealth aircrew trained together before joining operational squadrons.\n\nOne of the ten crew names has not been recovered from open sources.\n\nResearch by local historians Albert Pritchard, Eric Barton, and Ken Reast confirmed DT524 wreckage at the Intake Plantation site and established the two-mile separation from the JD151 crash near Bowthorpe Hall.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Maynard Meyer Caplan",
+      "service_number": "142555",
+      "age": 27,
+      "role": "Pilot/Instructor",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Killed in training accident. Had been awarded DFM after completing operational tour."
+    },
+    {
+      "rank": "F/O",
+      "name": "Lawrence Gay Dunlop",
+      "service_number": "J/20568",
+      "age": 20,
+      "role": "Pilot trainee",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Arthur Wilfred Bailey",
+      "service_number": "143799",
+      "age": 22,
+      "role": "Flight Engineer/Instructor",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "James Low",
+      "service_number": "J/17294",
+      "age": 24,
+      "role": "Air Gunner/Instructor",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "Brian Tristram Davies",
+      "service_number": "125498",
+      "age": 21,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Oliver Bonham",
+      "service_number": "904699",
+      "age": 22,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Leonard Gunn",
+      "service_number": "927129",
+      "age": 27,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Leo McCartie",
+      "service_number": "1146785",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Samuel Rutherford Parker",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Yorkshire Aircraft — Halifax JD151 page (includes DT524 narrative)",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jd151.html",
+      "type": "website"
+    },
+    {
+      "title": "Yorkshire Aircraft — September 1943 accident log",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/sep43.html",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "The Yorkshire Air Museum is associated with the plaque.",
+  "photos": [],
+  "external_narratives": []
+}

@@ -187,7 +187,7 @@
   "longitude": -0.9089,
   "cause_of_loss": "Mid-air collision between the two training aircraft at 1,000 feet",
   "operation_type": "Training",
-  "memorial_details": "Initial research into the collision was carried out by a man who had witnessed the crash as a schoolboy. A stone memorial was dedicated on 13 November 2005, bearing the names of all eleven men. The memorial is located on public land near Screveton village. It is maintained by local residents.",
+  "memorial_details": "Initial research into the collision was carried out by a man who had witnessed the crash as a schoolboy. A stone memorial was dedicated on 13 November 2005, bearing the names of all eleven men. The memorial is located on public land near Screveton village. It is maintained by local residents.\n\nThe research that led to the memorial was carried out by a man who had witnessed the collision as a schoolboy — his personal memory of that day in 1944 eventually becoming the foundation for the stone memorial dedicated on 13 November 2005.",
   "maintainer": {
     "organisation": "Screveton Parish Meeting",
     "maintainer_type": "parish-council"
@@ -295,5 +295,6 @@
   ],
   "crash_category": "mid-air-collision",
   "narrative_quality_score": 5,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "community_connection": "The memorial is maintained by local residents, continuing the community's connection to the eleven men who died overhead."
 }

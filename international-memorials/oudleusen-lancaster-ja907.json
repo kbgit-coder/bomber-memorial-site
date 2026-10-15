@@ -1,0 +1,49 @@
+{
+  "id": "oudleusen-lancaster-ja907",
+  "title": "Lancaster JA907 Memorial, Oudleusen/Dalfsen",
+  "location_name": "Oudleusen, Dalfsen municipality, Overijssel, Netherlands",
+  "county": "Overijssel",
+  "country": "Netherlands",
+  "crash_date": "1943-10-20",
+  "aircraft_type": "Avro Lancaster Mk III",
+  "serial_number": "JA907",
+  "aircraft_code": "MG-U",
+  "squadron": "7 Squadron",
+  "squadron_display_name": "7 Squadron RAF (Pathfinder Force, 8 Group)",
+  "station": "RAF Oakington",
+  "operation_type": "Operational",
+  "operation_target": "Leipzig, Germany",
+  "cause_of_loss": "Nightfighter interception",
+  "memorial_type": "Stone",
+  "memorial_details": "A memorial or commemoration at Oudleusen is suggested by Dutch heritage research activity, including an appeal for crew photographs. The crash site is documented on TracesOfWar. The nature, precise location, and current state of any memorial at the site have not been confirmed from sources consulted.",
+  "crew_summary": "Six killed, one survived as POW. Six crew buried at Dalfsen General Cemetery. Sole survivor: Sgt Frank W. Lashford, injured and taken prisoner.",
+  "narrative": "JA907 was a 7 Squadron Pathfinder Lancaster operating from RAF Oakington as part of the Leipzig raid on 20 October 1943. It was shot down by a nightfighter and came down at Oudleusen, a small village in the Dalfsen municipality of Overijssel. Six of the seven crew were killed; the sole survivor, Sgt Lashford, was injured and taken prisoner. The dead were buried at Dalfsen General Cemetery.\n\n7 Squadron's Pathfinder role meant its aircraft carried experienced crews responsible for target marking ahead of the main force. A Dutch heritage researcher has posted an appeal for crew photographs relating to this loss, which suggests ongoing local interest, but crew names beyond the survivor's have not been retrieved from primary sources in the research conducted for this record. The full crew list requires direct consultation of the CWGC database.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Frank W. Lashford",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "POW",
+      "fate_detail": "Injured; hospitalised; survived as prisoner of war. Sole survivor."
+    }
+  ],
+  "sources": [
+    {
+      "title": "TracesOfWar — crash location reference, Dalfsen area",
+      "url": "https://www.tracesofwar.com/sights/142463/Crash-Location-Avro-Lancaster-ED783-KM-F.htm",
+      "type": "website"
+    },
+    {
+      "title": "teunispats.nl — Dutch crew memorial research",
+      "url": "http://www.teunispats.nl/jack-edward-gibbs-4.htm",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": null,
+  "photos": [],
+  "external_narratives": []
+}

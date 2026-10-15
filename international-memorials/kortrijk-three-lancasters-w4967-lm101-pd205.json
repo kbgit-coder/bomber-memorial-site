@@ -1,0 +1,259 @@
+{
+  "id": "kortrijk-three-lancasters-w4967-lm101-pd205",
+  "title": "Three Lancasters Monument, Kortrijk/Bissegem",
+  "location_name": "Overzetweg bridge over the Leie, Bissegem, Kortrijk, West Flanders, Belgium",
+  "county": "West Flanders",
+  "country": "Belgium",
+  "latitude": 50.834,
+  "longitude": 3.2326,
+  "crash_date": "1944-07-21",
+  "aircraft_type": "Avro Lancaster Mk I",
+  "serial_number": "W4967 / LM101 / PD205",
+  "squadron": "101 Squadron / 467 Squadron RAAF / 9 Squadron",
+  "squadron_display_name": "101 Squadron RAF (W4967 SR-P), 467 Squadron RAAF (LM101 PO-J), 9 Squadron RAF (PD205 WS-H)",
+  "station": "RAF Ludford Magna (101 Sqn) / RAF Waddington (467 Sqn) / RAF Bardney (9 Sqn)",
+  "operation_type": "Operational",
+  "operation_target": "Kortrijk railway yards, Belgium",
+  "cause_of_loss": "W4967 — nightfighter (Fw Karl Beyer, 1./NJG 4); LM101 — cause not confirmed; PD205 — anti-aircraft fire (1./Flak-Regiment 53, not nightfighter)",
+  "memorial_type": "Sculpture",
+  "memorial_name": "Monument for the Crews of Three Lancasters, Kortrijk/Bissegem",
+  "memorial_details": "Polished Himalaya granite monument in the form of the vertical tail fin of a Lancaster bomber. Designed by Etienne Vanackere. Unveiled 21 July 2009 (65th anniversary) on the bank of the Leie at Wevelgemsevoetweg, Bissegem. Relocated approximately 100 metres to the new Overzetweg bridge site in autumn 2022 as part of a local infrastructure project. The front face commemorates the crew of PD205; the reverse honours the crews of W4967 and LM101.",
+  "dedication_date": "2009-07-21",
+  "crew_summary": "Twenty-two killed in total across three aircraft; one survivor (WO2 Noble of W4967, POW). The raid on Kortrijk railway yards on 20/21 July 1944 also killed approximately 250 Belgian civilians.",
+  "narrative": "On the night of 20/21 July 1944, Bomber Command sent 302 Lancasters and 15 Mosquitos against the railway yards at Kortrijk, a crucial supply route behind German lines in occupied Belgium. Approximately 250 Belgian civilians died in the city and suburbs — a catastrophe that overshadowed the military objective in local memory for decades.\n\nThree of the Lancasters failed to return in the Kortrijk area. W4967 of 101 Squadron — an ABC (Airborne Cigar) electronic-countermeasures aircraft carrying a dedicated eighth crew member to operate jamming equipment — was shot down by Fw Karl Beyer of 1./NJG 4 and came down near the Karmelietenklooster in the city centre. LM101 of 467 Squadron RAAF crashed near Marke on the south-western outskirts; the cause of loss for LM101 has not been confirmed from the sources consulted. PD205 of 9 Squadron was brought down by anti-aircraft fire from 1./Flak-Regiment 53 (not a nightfighter, as sometimes stated) and came down closer to the Leie at Bissegem, where the monument now stands. Twenty-one men died across the three aircraft; one — WO2 Noble of W4967 — survived injured as a prisoner.\n\nThe granite tail-fin monument unveiled in 2009 was the product of local Belgian initiative, designed to give the three crews a single visible point of remembrance in the landscape where they fell. The attendance of John Elliott, brother of Sgt Thomas Elliott of PD205, at the 2009 dedication illustrated the direct family connection that such local memorials sustain.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Sydney Emmington Smith",
+      "service_number": "J/85722",
+      "age": 31,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Custance",
+      "service_number": "1869160",
+      "age": 23,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert A. Simpson",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Adegem Canadian War Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alfred Corrothers Parkhill",
+      "service_number": "1670523",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "WO2",
+      "name": "Carlton Henry Woelfle",
+      "service_number": "J/88324",
+      "age": 25,
+      "role": "Aircrew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Hugh McGuigan",
+      "service_number": "1097178",
+      "age": 22,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harold Grisdale",
+      "service_number": "2206408",
+      "age": 31,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "W4967 SR-P, 101 Squadron",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "WO2",
+      "name": "G.A. Noble",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "POW",
+      "fate_detail": "W4967 SR-P, 101 Squadron. Survived injured as prisoner of war."
+    },
+    {
+      "rank": "F/O",
+      "name": "Douglas Bruce Jeffery",
+      "service_number": "427420",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF",
+      "burial_location": "Kortrijk (St Jan) Communal Cemetery"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Philip William Benson",
+      "service_number": "424949",
+      "role": "Navigator",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Albert James Downie",
+      "service_number": "414916",
+      "role": "Bomb Aimer",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF"
+    },
+    {
+      "rank": "WO",
+      "name": "John Ernest Richard Ede",
+      "service_number": "628555",
+      "age": 23,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Alan Brian Hartley",
+      "service_number": "426838",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Thomas Leo Roberts",
+      "role": "Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "fate_detail": "LM101 PO-J, 467 Squadron RAAF. Listed as possible seventh crew member; name not independently verified from a primary source — five crew confirmed, Roberts listed in research but not cross-checked."
+    },
+    {
+      "rank": "F/Lt",
+      "name": "Graham Robert Garlick",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank William Mills",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Kenneth Charles Stuart",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "P/O",
+      "name": "John Howard Morriss",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Adegem Canadian War Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Douglas Walter Dagger",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Roy Haywood Barnes",
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF",
+      "burial_location": "Wevelgem Communal Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Woodman Elliott",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "PD205 WS-H, 9 Squadron RAF. His brother John attended the 2009 dedication ceremony.",
+      "burial_location": "Wevelgem Communal Cemetery"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Hangar Flying — Monument voor de bemanningsleden van drie Lancasters",
+      "url": "https://www.hangarflying.eu/erfgoedsites/monument-voor-de-bemanningsleden-van-drie-lancasters/",
+      "type": "website"
+    },
+    {
+      "title": "Hangar Flying — Commonwealth graves Wevelgem",
+      "url": "https://www.hangarflying.eu/erfgoedsites/commonwealth-graven-op-de-gemeentelijke-begraafplaats-van-wevelgem/",
+      "type": "website"
+    },
+    {
+      "title": "halifaxjd371kno.com — Lancaster W4967 SR-P, 101 Squadron",
+      "url": "https://halifaxjd371kno.com/index.php/courtrai-lancaster-i-w4967-sr-p-101-squadron-raf",
+      "type": "website"
+    },
+    {
+      "title": "RAAF Aviation Museum WA — Jeffery Douglas Bruce",
+      "url": "https://aviationmuseumwa.org.au/afcraaf-roll/jeffery-douglas-bruce-427420/",
+      "type": "website"
+    },
+    {
+      "title": "Aviation Safety Net — PD205",
+      "url": "https://aviation-safety.net/wikibase/159539",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Monument designed by local Belgian sculptor Etienne Vanackere. John Elliott, brother of Sgt Thomas Elliott of PD205 (9 Squadron), attended the 2009 dedication ceremony. Monument relocated 2022 as part of a local bridge infrastructure project. Hangar Flying heritage organisation documents the site.",
+  "photos": [],
+  "external_narratives": []
+}

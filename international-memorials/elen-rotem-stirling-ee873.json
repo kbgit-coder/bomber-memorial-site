@@ -1,0 +1,118 @@
+{
+  "id": "elen-rotem-stirling-ee873",
+  "title": "Stirling EE873 Memorial, Elen (Dilsen-Stokkem)",
+  "location_name": "Elen, Dilsen-Stokkem, Limburg, Belgium",
+  "county": "Limburg",
+  "country": "Belgium",
+  "crash_date": "1943-07-14",
+  "aircraft_type": "Short Stirling Mk III",
+  "serial_number": "EE873",
+  "aircraft_code": "WP-D",
+  "squadron": "90 Squadron",
+  "squadron_display_name": "90 Squadron RAF",
+  "station": "RAF West Wickham",
+  "operation_type": "Operational",
+  "operation_target": "Aachen, Germany",
+  "cause_of_loss": "Nightfighter interception. Shot down by Hptm Heinrich Wohlers, Stab IV./NJG 4 (detached to 3./NJG 1), flying a Bf 110 G-4 from Venlo. Crashed at Elen at 01:48.",
+  "memorial_type": "Stone",
+  "memorial_details": "Two separate memorials. First: War Memorial Elen, a community memorial in the village of Elen, Dilsen-Stokkem (documented on TracesOfWar as 'Memorial Stirling EE-873, Rotem'). Second: a private memorial placed on the crash land by the landowner, Sylvester Colson, who invited crew relatives to visit. Colson was 83 at the time the memorial was erected.",
+  "crew_summary": "Seven of eight crew killed. Eighth crew member Sgt Robert Clarke evaded capture — the Germans found seven bodies and concluded the crew was complete, as seven was the standard strength for a Stirling.",
+  "narrative": "EE873 was one of 374 aircraft in the 13/14 July 1943 Aachen raid. On the return flight it was intercepted by Hptm Wohlers's Bf 110 over Belgian Limburg and came down at Elen, near the Dutch-Belgian border, at 01:48. Seven of the eight crew were killed; the eighth, Sgt Clarke, survived undetected because the Germans recovered seven bodies — the normal complement for a Stirling — and concluded the crew was complete.\n\nThe Stirling was nominally a seven-man aircraft; this aircraft carried eight, with Clarke in the additional position. His escape by miscount is an unusual circumstance preserved in the aircrew remembered database. No evader report has been located in the sources consulted.\n\nThe seven dead were originally buried near St Truiden and exhumed after the war for reinterment at Heverlee War Cemetery near Leuven, where they lie together. The landowner Sylvester Colson maintained a personal commitment to the crew's memory and erected a memorial on his land, inviting families to make contact. A community memorial also stands in Elen village.",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Cyril Ernest Coombs",
+      "service_number": "144181",
+      "age": 22,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.8"
+    },
+    {
+      "rank": "P/O",
+      "name": "Ernest Candy",
+      "service_number": "149523",
+      "age": 32,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.9"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Olav Bradshaw",
+      "service_number": "1474536",
+      "age": 23,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.14"
+    },
+    {
+      "rank": "F/O",
+      "name": "Paul Douglas Swallow",
+      "service_number": "127306",
+      "age": 23,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.14"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Gordon Dawson",
+      "service_number": "1501161",
+      "age": 21,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.11"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Alexander Long",
+      "service_number": "1332091",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.12"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Eric Bradley Potter",
+      "service_number": "1585887",
+      "age": 20,
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Heverlee War Cemetery, Grave 5.A.13"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Clarke",
+      "role": "Aircrew",
+      "nationality": "British",
+      "fate": "Evaded",
+      "fate_detail": "Evaded capture after the crash. Germans found seven bodies and stopped searching, as seven was the standard Stirling crew strength. Clarke was the additional eighth crew member."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aircrew Remembered — Coombs Cyril",
+      "url": "https://aircrewremembered.com/coombs-cyril.html",
+      "type": "website"
+    },
+    {
+      "title": "TracesOfWar — Memorial Stirling EE-873, Rotem (Dilsen-Stokkem)",
+      "url": "https://www.tracesofwar.com/sights/12444/Memorial-Stirling-EE-873.htm",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Landowner Sylvester Colson placed a private memorial on his land where the aircraft came down, and invited families of the crew to visit — an act of personal custodianship that continued for many years. The village of Elen, Dilsen-Stokkem, also maintains a community memorial.",
+  "photos": [],
+  "external_narratives": []
+}

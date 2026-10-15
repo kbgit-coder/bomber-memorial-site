@@ -6,7 +6,7 @@
   "country": "Denmark",
   "latitude": 56.1380,
   "longitude": 8.3660,
-  "what3words": "unverified.approximate.location",
+  "what3words": "",
   "crash_date": "1944-10-07",
   "aircraft_type": "Short Stirling",
   "serial_number": "LK238",
@@ -29,7 +29,9 @@
       "nationality": "British",
       "fate": "POW",
       "fate_detail": "Evaded initially after the crash but was subsequently captured. Held at Stalag Luft III.",
-      "decorations": ["DFC"]
+      "decorations": [
+        "DFC"
+      ]
     },
     {
       "rank": "P/O",

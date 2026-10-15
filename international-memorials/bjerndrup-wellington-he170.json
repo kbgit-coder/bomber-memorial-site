@@ -1,0 +1,105 @@
+{
+  "id": "bjerndrup-wellington-he170",
+  "title": "Wellington HE170 Memorial, Bjerndrup",
+  "location_name": "Bjerndrup, northeast of Løgumkloster, Tønder municipality, South Jutland, Denmark. Memorial stone at Branderupvej 22, Løgumkloster.",
+  "county": "Syddanmark",
+  "country": "Denmark",
+  "latitude": 55.0892,
+  "longitude": 9.0162,
+  "crash_date": "1943-04-29",
+  "aircraft_type": "Vickers Wellington Mk X",
+  "serial_number": "HE170",
+  "aircraft_code": "ZO-",
+  "squadron": "196 Squadron",
+  "squadron_display_name": "196 Squadron RAF",
+  "station": "RAF Leconfield",
+  "operation_type": "Operational",
+  "operation_target": "Gardening (mine-laying) — Forget-me-not field, Kiel Bay area",
+  "cause_of_loss": "Shot down by Lt Ernst Meess, 6./NJG 3, flying a Bf 110 from Schleswig airfield; radar station 'Amiese' at Barsmark, Lolland. Attacked at 00:57; aircraft caught fire and attempted belly-landing near Bjerndrup; skidded approximately 500 m before overturning in a drainage canal.",
+  "memorial_type": "Stone",
+  "memorial_name": "Wellington HE170 Memorial Stone, Bjerndrup",
+  "memorial_details": "Memorial stone with information board located approximately 150 m from the road near August Petersen's farm, Bjerndrup. Information board text by Frede Gotthardsen; Danish-language translation by Eva da Silva and Kirsten Klitgård; installed by Sønderjylland County. Erected 29 April 2003 (60th anniversary of the crash).",
+  "dedication_date": "2003-04-29",
+  "crew_summary": "All five killed. Two — Wheatley and Curling — survived the crash but died in Tønder hospital early afternoon on 30 April 1943. All five buried Aabenraa Cemetery, laid to rest 7 May 1945.",
+  "narrative": "HE170 took off from Leconfield on the evening of 29 April 1943 for a mine-laying operation in Kiel Bay. In the early hours of 30 April, returning south over Jutland, it was attacked by Lt Meess of 6./NJG 3, guided by the 'Amiese' radar station on Lolland. The aircraft caught fire and Sgt Swain attempted a belly-landing in darkness near Bjerndrup; the Wellington skidded 500 m across a field and overturned in a drainage canal.\n\nTwo men — Sgts Wheatley and Curling — survived the crash with severe injuries. German forces took them to Tønder hospital, where both died within minutes of each other in early afternoon. The other three were found dead at the scene: Sgt Quick beneath the engine in the canal, Sgt Burgess also in the water. Sgt Swain was recovered from the canal and brought ashore. The five were buried at Aabenraa Cemetery on 7 May 1945, after the liberation.\n\nThe memorial stone erected on the 60th anniversary in 2003 has official standing through the Sønderjylland County sponsorship. The flensted.eu.com database — the primary scholarly resource for Danish WW2 aircrash sites — and the airmen.dk register both carry detailed records of this loss.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Frederick Charles Swain",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Found floating in drainage canal; body recovered at dawn.",
+      "burial_location": "Aabenraa Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Wheatley",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Survived crash severely injured; found 10 m east of canal. Died Tønder hospital 13:15, 30 April 1943.",
+      "burial_location": "Aabenraa Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edwin Donald Curling",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Survived crash severely injured; found 10 m east of canal. Died Tønder hospital 13:18, 30 April 1943 — three minutes after Wheatley.",
+      "burial_location": "Aabenraa Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward George Quick",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Found dead in canal beneath the engine at 07:00.",
+      "burial_location": "Aabenraa Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Richard Burgess",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Found in canal.",
+      "burial_location": "Aabenraa Cemetery"
+    }
+  ],
+  "sources": [
+    {
+      "title": "flensted.eu.com — Wellington HE170 Bjerndrup",
+      "url": "http://www.flensted.eu.com/19430049.shtml",
+      "type": "website"
+    },
+    {
+      "title": "airmen.dk — Plane 175 WEL HE170",
+      "url": "https://www.airmen.dk/p175.htm",
+      "type": "website"
+    },
+    {
+      "title": "airmen.dk — Burgess individual crew page",
+      "url": "https://www.airmen.dk/a113058.htm",
+      "type": "website"
+    },
+    {
+      "title": "airmen.dk — Wheatley individual crew page",
+      "url": "https://www.airmen.dk/a113062.htm",
+      "type": "website"
+    },
+    {
+      "title": "IBCC Losses — Swain F",
+      "url": "https://losses.internationalbcc.co.uk/loss/227360",
+      "type": "official_database"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Sønderjylland County sponsored the information board and gave the memorial official standing. Text written by Frede Gotthardsen; translated by Eva da Silva and Kirsten Klitgård. The flensted.eu.com and airmen.dk databases — the two authoritative Danish WW2 aviation research resources — document the site in detail. The crew are buried at Aabenraa Cemetery.",
+  "photos": [],
+  "external_narratives": []
+}

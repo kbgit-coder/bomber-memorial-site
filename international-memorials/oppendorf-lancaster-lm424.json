@@ -1,0 +1,115 @@
+{
+  "id": "oppendorf-lancaster-lm424",
+  "title": "Lancaster LM424 Memorial, Oppendorf",
+  "location_name": "Oppendorf, near Quakenbrück, Lower Saxony, Germany",
+  "county": "Lower Saxony",
+  "country": "Germany",
+  "crash_date": "1943-12-16",
+  "aircraft_type": "Avro Lancaster Mk III",
+  "serial_number": "LM424",
+  "aircraft_code": "CF-B",
+  "squadron": "625 Squadron",
+  "squadron_display_name": "625 Squadron RAF",
+  "station": "RAF Kelstern",
+  "operation_type": "Operational",
+  "operation_target": "Berlin, Germany",
+  "cause_of_loss": "Shot down by Maj. Helmut Lent, Stab NJG 3, Himmelbett zone over Quakenbrück area, at 19:07 on 16 December 1943. Lent's 79th Abschuss.",
+  "memorial_type": "Stone",
+  "memorial_details": "A memorial in the village of Oppendorf near the crash site. Type and inscription not confirmed from sources consulted; jalbrecht.ca notes a memorial exists but gives no description. The memorial is notable for commemorating both the RAF crew and the two German civilians who lost their lives when the aircraft came down on the village.",
+  "crew_summary": "Six killed, one survived as POW. Sgt Pallett bailed out near Lemförde and spent the rest of the war at Stalag Luft 3, Sagan. The crash also killed two local civilians: Christoph Kalkhake (61) and Heinrich Waering (29), who died while trying to rescue animals from burning buildings.",
+  "narrative": "On 16/17 December 1943, 625 Squadron contributed to a major Berlin raid. LM424 had barely crossed into Germany when Maj. Helmut Lent — one of the Luftwaffe's most successful nightfighter pilots, who would achieve 110 kills before his death in a landing accident in October 1944 — intercepted it in the Himmelbett box over the Quakenbrück area and claimed it as his 79th victory at 19:07.\n\nThe aircraft came down on Oppendorf, a small village near Quakenbrück. The crash and subsequent fire destroyed 19 buildings. Two local men — Christoph Kalkhake, aged 61, and Heinrich Waering, aged 29 — died while attempting to rescue animals from the burning farmsteads. The main bomb exploded after the crash, widening the devastation. Six of the seven crew died; only Sgt Pallett survived, having bailed out near Lemförde.\n\nThe memorial at Oppendorf commemorates both the RAF crew and the two German civilians who lost their lives — an unusual dual acknowledgement that reflects the reality of bomber crash consequences for rural communities.",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Donald Baker",
+      "service_number": "169107",
+      "age": 20,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Grave 8.H.8"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Clifford Robinson",
+      "service_number": "1677459",
+      "age": 21,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Grave 8.H.2"
+    },
+    {
+      "rank": "P/O",
+      "name": "George William Frederick Batchelor",
+      "service_number": "169468",
+      "age": 32,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Grave 8.H.3"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Henry Pallett",
+      "service_number": "1393564",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "POW",
+      "fate_detail": "Bailed out near Lemförde. Held at Stalag Luft 3, Sagan."
+    },
+    {
+      "rank": "P/O",
+      "name": "Gilbert Ernest Adams",
+      "service_number": "545003",
+      "age": 23,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Collective Grave 8.H.10-16"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Watmough",
+      "service_number": "1213427",
+      "age": 23,
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Collective Grave 8.H.10-16"
+    },
+    {
+      "rank": "F/Lt",
+      "name": "William Dennis Crimmins",
+      "service_number": "J/16533",
+      "age": 29,
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, Grave 8.H.3"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aircrew Remembered — Baker Donald",
+      "url": "https://aircrewremembered.com/baker-donald.html",
+      "type": "website"
+    },
+    {
+      "title": "Aircrew Remembered — Baker Crew (civilian casualties)",
+      "url": "https://aircrewremembered.com/baker-crew.html",
+      "type": "website"
+    },
+    {
+      "title": "jalbrecht.ca — 625 Squadron History, Baker Donald",
+      "url": "https://www.jalbrecht.ca/index.php?a=625_squadron/baker_donald",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Oppendorf village community. The memorial marks the deaths of both the RAF aircrew and two local civilians — Christoph Kalkhake and Heinrich Waering — killed when the aircraft came down on the village.",
+  "photos": [],
+  "external_narratives": []
+}

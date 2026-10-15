@@ -1,37 +1,59 @@
 {
   "id": "victor-george-bailey-and-louis-grover-martin-wellington-crash-ford",
-  "title": "Ford Vickers Wellington",
-  "location_name": "Ford",
-  "county": "Buckinghamshire",
+  "title": "Wellington Crash Memorial, Ford, Dinton",
+  "location_name": "Ford, near Dinton, Wiltshire, England",
+  "county": "Wiltshire",
   "country": "United Kingdom",
-  "aircraft_type": "Wellington",
+  "aircraft_type": "Vickers Wellington",
   "serial_number": "",
   "squadron": "",
+  "station": "RAF Upper Heyford",
   "crash_date": "1944-01-09",
+  "operation_type": "Training",
+  "operation_target": "Bombing practice exercise",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Post with metal plaque on top. Commemoration with names and image of Wellington Bomber.",
+  "memorial_details": "Wooden stand bearing a stone tablet. Features the emblem of the Royal Air Force and an image of a Wellington bomber. Unveiled 9 January 2004, the 60th anniversary of the crash. Serial number and unit of the aircraft have not been recovered from available sources — listed in some sources as based at RAF Upper Heyford, likely an OTU.\n\nThe memorial was unveiled on the 60th anniversary of the crash, 9 January 2004, marking the deaths of a Canadian and a Briton who died in the Wiltshire countryside during a training accident far from any operational context.",
   "inscription": "Royal Air Force In memory of Sergeant Victor George Bailey, 1585910, Royal Air Force Volunteer Reserve. Wireless Operator, aged 20 yrs. Of Rainham, Essex And Seargent Louis Grover Martin, R/182617, Royal Canadian Air Force, Rear Gunner, aged 22 yrs. of Big River, Saskatchewan, Canada Who died when their Wellington Bomber Crashed in Ford On 9th January, 1944.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/107643",
       "type": "official_database"
+    },
+    {
+      "title": "dinton.info crash synopsis",
+      "url": "https://www.dinton.info/pdfs/WELLINGTONBOMBER.pdf",
+      "type": "website"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "On 9 January 1944, a Wellington bomber crashed at Ford in Buckinghamshire. Sergeant Victor George Bailey (service number 1585910, RAFVR), Wireless Operator, aged 20, from Rainham, Essex, and Sergeant Louis Grover Martin (service number R/182617, RCAF), Rear Gunner, aged 22, from Big River, Saskatchewan, Canada, were both killed. A post and plaque memorial at Ford records the names and roles of both men.",
+  "narrative": "On the night of 9 January 1944 a Wellington took off from RAF Upper Heyford on a routine training flight for bombing practice. The starboard engine failed during the flight. The pilot ordered the crew to abandon the aircraft and five of the six aboard baled out successfully at approximately 01:55. The aircraft came down at Moat Farm, Ford, near Dinton, demolishing a wall and the side of a barn. Sgt Louis Grover Martin, a 22-year-old Canadian rear gunner from Big River, Saskatchewan, was found dead in the farmyard — he had been unable to escape from his turret before impact. Sgt Victor George Bailey, 20, a wireless operator from Rainham, Essex, had baled out but his parachute deployed too low; he was found dead beneath it at a location called the Biggin. The remaining four crew, including the pilot P/O Chenier, survived. The serial number and full unit designation of the aircraft have not been recovered from available open sources.",
   "crew": [
     {
-      "rank": "Sergeant",
+      "rank": "Sgt",
       "name": "Victor George Bailey",
-      "fate": "Unknown"
+      "service_number": "1585910",
+      "age": 20,
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Rainham, Essex"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Louis Grover Martin",
+      "service_number": "R/182617",
+      "age": 22,
+      "role": "Rear Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "hometown": "Big River, Saskatchewan, Canada"
     }
   ],
-  "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
-  "latitude": 51.77777,
-  "longitude": -0.8739318,
-  "grid_ref": "SP 77785",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "latitude": 51.081,
+  "longitude": -1.974,
   "photos": [],
   "names_on_memorial": 2,
   "died_count": 2,
@@ -43,5 +65,6 @@
     "https://media.iwm.org.uk/ciim5/memorials/169/984/20100312_ford_6_001.jpg"
   ],
   "original_title": "Victor George Bailey and Louis Grover Martin - Wellington Crash, Ford",
-  "last_validated": "2026-04-13"
+  "last_validated": "2026-10-15",
+  "community_connection": "Memorial erected by the local Ford/Dinton community. Anniversary unveiling ceremony held 9 January 2004."
 }

@@ -84,6 +84,19 @@ echo ""
 # Run manually: python3 scripts/inscription-validator.py --apply
 # Too slow (~87 min) for every deploy. Use for pre-production audits.
 
+# --- Step 0b: Quality monitor (duplicates, schema, formatting, AI-slop) -------
+QUALITY_MONITOR="$REPO_ROOT/scripts/quality-monitor.ts"
+if [[ -f "$QUALITY_MONITOR" ]]; then
+  info "Running quality monitor (duplicates, schema, formatting, AI-slop)..."
+  if ! bun "$QUALITY_MONITOR"; then
+    die "Quality monitor FAILED — fix violations before deploying."
+  fi
+  success "Quality monitor passed."
+else
+  warn "quality-monitor.ts not found — skipping quality monitor."
+fi
+echo ""
+
 # --- Step 1: Validate memorials ----------------------------------------------
 VALIDATOR="$REPO_ROOT/scripts/validate-memorials.js"
 if [[ -f "$VALIDATOR" ]]; then

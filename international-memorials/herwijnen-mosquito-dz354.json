@@ -1,0 +1,81 @@
+{
+  "id": "herwijnen-mosquito-dz354",
+  "title": "Mosquito DZ354 Information Panel, Herwijnen/Fort Asperen",
+  "location_name": "Near Herwijnen and Fort Asperen, Gelderland, Netherlands",
+  "county": "Gelderland",
+  "country": "Netherlands",
+  "latitude": 51.8506,
+  "longitude": 5.131,
+  "crash_date": "1943-12-12",
+  "aircraft_type": "de Havilland Mosquito B Mk IV",
+  "serial_number": "DZ354",
+  "aircraft_code": "GB-C",
+  "squadron": "105 Squadron",
+  "squadron_display_name": "No. 105 Squadron RAF",
+  "station": "RAF Marham",
+  "operation_type": "Operational",
+  "operation_target": "Krupp works, Essen, Germany",
+  "cause_of_loss": "Shot down by Hptm Manfred Meurer, Gruppenkommandeur Stab I./NJG1, flying a Heinkel He 219, with radar operator Oberfeldwebel Gerhard Scheibe. Meurer's 59th Abschuss at 19:25, west of Zaltbommel.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_name": "Lingewaal WWII Route Information Panel — DZ354",
+  "memorial_details": "A roadside information panel installed near the crash site between Herwijnen and Fort Asperen at coordinates 51.8506°N, 5.1310°E. One of six stops on the WO2-route through the former municipality of Lingewaal, which begins at the WW2 and Aviators Museum Rivierenland at Fort Vuren. Note: the museum is closed until 1 May 2027 per egvl.nl. Exact installation/dedication date not confirmed. Full panel text not accessible in open sources.",
+  "crew_summary": "Both crew killed. Buried together in joint grave 5, Herwijnen General Cemetery. Reynolds's gravestone notes him as husband of Kathleen Brenda Reynolds of Cambridge; Phillips's gravestone bears the inscription 'O Valliant Heart.'",
+  "narrative": "On the afternoon of 12 December 1943, Mosquito DZ354 of No. 105 Squadron took off from RAF Marham at 16:52, one of several Mosquitoes despatched on a low-level precision mission to bomb the Krupp armaments works at Essen. The crew were Flying Officer Benjamin Frank Reynolds (pilot), aged 21, and Flying Officer John Douglass Phillips (navigator), aged 21 from Billericay, Essex.\n\nOn the return leg at 19:25, the aircraft was intercepted west of Zaltbommel by Hptm Manfred Meurer, Gruppenkommandeur of Stab I./NJG1, flying a Heinkel He 219 with his radar operator Oberfeldwebel Gerhard Scheibe. This was Meurer's 59th confirmed Abschuss. DZ354 crashed on the north bank of the Waal at Herwijnen, near Fort Asperen. Both crew were killed. Local residents recovered the bodies; Reynolds and Phillips were buried together in joint grave 5 at Herwijnen General Cemetery, where they remain.\n\nMeurer himself survived only six weeks longer. On the night of 21/22 January 1944 his He 219 collided with Lancaster W4852 approximately 20 km east of Magdeburg; Meurer, Scheibe, and all seven Lancaster crew were killed. He had claimed 65 aerial victories across 130 combat missions.\n\nReynolds is also commemorated on the war memorial at Gresham's School, Norfolk.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Benjamin Frank Reynolds",
+      "service_number": "118712",
+      "age": 21,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Cambridge",
+      "burial_location": "Herwijnen General Cemetery, joint grave 5"
+    },
+    {
+      "rank": "F/O",
+      "name": "John Douglass Phillips",
+      "service_number": "138829",
+      "age": 21,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Billericay, Essex",
+      "burial_location": "Herwijnen General Cemetery, joint grave 5"
+    }
+  ],
+  "sources": [
+    {
+      "title": "TracesOfWar — Information Sign Mosquito DZ354, Herwijnen",
+      "url": "https://www.tracesofwar.com/sights/105871/Information-Sign-Mosquito-DZ354.htm",
+      "type": "website"
+    },
+    {
+      "title": "IBCC Losses — Reynolds B",
+      "url": "https://losses.internationalbcc.co.uk/loss/223550/",
+      "type": "official_database"
+    },
+    {
+      "title": "Billericay History Society — F/O John Douglass Phillips",
+      "url": "https://www.billericayhistory.org.uk/content/topics/place-2/war-memorials/billericay_war_memorial/second-waorld-war-memorial/f-o-john-douglass-phillips",
+      "type": "website"
+    },
+    {
+      "title": "Wikipedia — Manfred Meurer",
+      "url": "https://en.wikipedia.org/wiki/Manfred_Meurer",
+      "type": "website"
+    },
+    {
+      "title": "egvl.nl — Herwijnen RAF Mosquito",
+      "url": "https://egvl.nl/Collectie/Luchtoorlog/Herwijnen-RAF-Mosquito",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Information panel maintained as part of the Lingewaal WWII route, administered by the local municipality and the WW2 and Aviators Museum Rivierenland at Fort Vuren (closed until May 2027). Reynolds is also commemorated at Gresham's School, Norfolk.",
+  "photos": [],
+  "external_narratives": []
+}

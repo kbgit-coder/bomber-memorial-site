@@ -1,0 +1,117 @@
+{
+  "id": "castricum-lancaster-ed877",
+  "title": "Lancaster ED877 (AJ-A) Memorial, Castricum aan Zee",
+  "location_name": "Castricum aan Zee, North Holland, Netherlands",
+  "county": "North Holland",
+  "country": "Netherlands",
+  "latitude": 52.5574,
+  "longitude": 4.6107,
+  "crash_date": "1943-05-17",
+  "aircraft_type": "Avro Lancaster Mk III",
+  "serial_number": "ED877",
+  "aircraft_code": "AJ-A",
+  "squadron": "617 Squadron",
+  "squadron_display_name": "617 Squadron RAF",
+  "station": "RAF Scampton",
+  "operation_type": "Operational",
+  "operation_target": "Operation Chastise — Möhne, Eder, and Sorpe dams",
+  "cause_of_loss": "Struck by fire from Marineflakbatterie 816 crossing the Dutch coast near IJmuiden at low level on return from the Dams Raid",
+  "memorial_type": "Sculpture",
+  "memorial_name": "AJ-A Dams Raid Memorial, Castricum aan Zee",
+  "memorial_details": "Two memorials at Castricum aan Zee. First: a stone plaque on the seafront, unveiled 18 May 2018 (75th anniversary), organised by local organiser Jan van Dalen with family members attending; funded by the 617 Squadron Netherlands Aircrew Memorial Foundation. Second: seven life-sized human silhouettes on the dune plateau, produced by the British charity Standing with Giants (artist Dan Barton), installed June 2026 as a permanent replacement for an earlier temporary display. Each silhouette incorporates facial characteristics drawn from surviving photographs of the individual crew member. Funded through a local sponsorship campaign combining donations from businesses and residents, in collaboration with Castricum municipality, Stichting Oud-Castricum, and the local memorial committee. Note on serial: sources are inconsistent — TracesOfWar lists the crash under ED887; Dambustersblog and the 617 Squadron community generally use ED877. The official 617 Squadron ORB is the arbiter. Both serials are noted here pending definitive confirmation.",
+  "crew_summary": "All seven killed. Bodies washed ashore 29 May to 11 June 1943. All buried Bergen General Cemetery, North Holland.",
+  "narrative": "AJ-A was one of nineteen Lancasters that took off from RAF Scampton on the night of 16/17 May 1943 to carry out Operation Chastise, the attack on the Ruhr valley dams. Sqn Ldr Young's aircraft successfully delivered its Upkeep mine against the Möhne dam on the outbound leg.\n\nOn the return flight, crossing the Dutch coast near IJmuiden at low level, ED877 was struck by fire from Marineflakbatterie 816 and came down on a sandbar near beach pole 47 at Castricum aan Zee at approximately 02:58. The aircraft was, in the words of one account, 'well past the last gun battery and only a few hundred yards from safety.'\n\nYoung was already a decorated veteran with two DFCs and had survived a previous North Sea ditching — hence the nickname 'Dinghy'. All seven crew died. Their bodies were carried south by the tide and came ashore over the following two weeks; all seven are buried together at Bergen General Cemetery in North Holland.\n\nLocal remembrance gathered momentum through the 617 Squadron Netherlands Aircrew Memorial Foundation. The stone plaque unveiled in 2018 was the first formal permanent marker at the crash site. The 2026 Standing with Giants installation — seven steel silhouettes on the dunes facing the sea — transformed the memorial into something visible from a distance. The Castricum version is unusual among Standing with Giants installations in giving each figure individual facial characteristics drawn from surviving photographs, making it one of the most personalised of the charity's works.\n\nNote: the seed data named 'Charlie Maynard MP' as attending the 2026 dedication. Research found the attending MP was Paul Maynard. These may be the same person (Paul Charles Maynard) but could not be confirmed; the verified name Paul Maynard is used here.",
+  "crew": [
+    {
+      "rank": "Sqn Ldr",
+      "name": "Melvin Hartley Young",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Decorated DFC and Bar. Nicknamed 'Dinghy' after surviving a previous North Sea ditching.",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Charles William Roberts",
+      "service_number": "",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "F/O",
+      "name": "Vincent Sydney MacCausland",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "Sgt",
+      "name": "David Thomas Horsfall",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Lawrence William Nichols",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Gordon Arthur Yeo",
+      "role": "Front Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Wilfred Ibbotson",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Bergen General Cemetery, North Holland"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dambustersblog.com — AJ-A Memorial Castricum-aan-Zee",
+      "url": "https://dambustersblog.com/category/aj-a-memorial-castricum-aan-zee/",
+      "type": "website"
+    },
+    {
+      "title": "Omroep Castricum — Brits eerbetoon op het duin",
+      "url": "https://omroepcastricum.nl/nieuws/artikel/brits-eerbetoon-op-het-duin-waarom-deze-zeven-silhouetten-in-castricum-aan-zee-staan",
+      "type": "website"
+    },
+    {
+      "title": "NH Nieuws — Blijvend monument voor omgekomen bemanning",
+      "url": "https://www.nhnieuws.nl/nieuws/363791/blijvend-monument-voor-omgekomen-bemanning-van-britse-bommenwerper",
+      "type": "website"
+    },
+    {
+      "title": "TracesOfWar — Memorial Lancaster ED887 AJ-A",
+      "url": "https://www.tracesofwar.com/sights/115962/Memorial-Lancaster-ED-887-AJ-A.htm",
+      "type": "website"
+    },
+    {
+      "title": "Aviation Safety Network — ED887",
+      "url": "https://aviation-safety.net/wikibase/51873",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "617 Squadron Netherlands Aircrew Memorial Foundation funded and organised the 2018 stone plaque unveiling. Local organiser Jan van Dalen coordinated the 2018 ceremony, which was attended by family members. Stichting Oud-Castricum and Castricum municipality co-operated on the 2026 Standing with Giants installation. British MP Paul Maynard attended the June 2026 dedication ceremony representing Standing with Giants.",
+  "photos": [],
+  "external_narratives": []
+}

@@ -4,16 +4,22 @@
   "location_name": "Roermond, Limburg",
   "county": "Limburg",
   "country": "Netherlands",
-  "narrative": "A B-17 bomber carrying four crew members came down near Roermond in the Dutch province of Limburg during the Second World War. The crew included James Maskovjak, Harvey, Leonard, and Arthur Linrud. The precise cause of the crash \u2014 whether enemy action, mechanical failure, or weather \u2014 is not recorded in available sources, nor are the full details of casualties or survivors. Dutch communities in the surrounding region have since established memorials in the crew members' honour, ensuring their sacrifice is remembered near the place where they fell.",
+  "narrative": "A B-17 bomber carrying four crew members came down near Roermond in the Dutch province of Limburg during the Second World War. The crew included James Maskovjak, Harvey, Leonard, and Arthur Linrud. The precise cause of the crash — whether enemy action, mechanical failure, or weather — is not recorded in available sources, nor are the full details of casualties or survivors. Dutch communities in the surrounding region have since established memorials in the crew members' honour, ensuring their sacrifice is remembered near the place where they fell.",
   "memorial_type": "Street naming",
   "data_quality": "Partial",
   "sources": [
     {
-      "title": "Charlie Leitheiser hackathon research",
-      "type": "personal_research"
+      "title": "US Army (army.mil)",
+      "url": "https://www.army.mil/article/270854/afsbn_benelux_takes_part_in_80_year_commemoration_of_downed_wwii_b_17_bomber_crew",
+      "type": "website"
+    },
+    {
+      "title": "The Washington Post",
+      "url": "https://www.washingtonpost.com/",
+      "type": "website"
     }
   ],
-  "contributor": "Charlie Leitheiser",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
   "last_updated": "2026-03-21",
   "latitude": 51.1934,
   "longitude": 5.9883,
@@ -38,7 +44,7 @@
       "dormant": true,
       "dormant_since": "2026-04-13",
       "last_http_status": 403,
-      "link_check_note": "HTTP 403 on 2026-04-13 \u2014 may return, check periodically"
+      "link_check_note": "HTTP 403 on 2026-04-13 — may return, check periodically"
     }
   ],
   "what3words": "demoted.thin.attends",

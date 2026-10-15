@@ -1,0 +1,64 @@
+{
+  "id": "benington-lancaster-r5683",
+  "title": "Lancaster R5683 Memorial, Benington Sea End",
+  "location_name": "Near Benington Sea End, north of Boston, Lincolnshire, England",
+  "county": "Lincolnshire",
+  "country": "United Kingdom",
+  "latitude": 52.971,
+  "longitude": 0.101,
+  "what3words": "latitudes.boots.visions",
+  "crash_date": "1942-07-26",
+  "aircraft_type": "Avro Lancaster Mk I",
+  "serial_number": "R5683",
+  "squadron": "106 Squadron",
+  "squadron_display_name": "106 Squadron RAF",
+  "station": "RAF Coningsby",
+  "operation_type": "Operational",
+  "memorial_type": "Stone",
+  "memorial_details": "Ground-level memorial stone near Benington Sea End, positioned at the nearest accessible point to the crash site on the Butterwick Low tidal mudflats of The Wash. Unveiled 24 June 2025. Created with the co-operation of landowners Saul Farms Ltd. The aircraft itself remains in the mudflats where it sank in 1942, preserved in anaerobic conditions. Note: this memorial was recorded in research notes under both 'Butterwick Low' and 'Benington' — these are the same memorial at the same site.\n\nThe memorial was unveiled on 24 June 2025, more than 82 years after the crash, following a long international search for relatives co-ordinated by the 106 Squadron Association and RAF Coningsby.",
+  "crew_summary": "All seven killed. Aircraft sank into the mudflats at Butterwick Low and has remained there. Three burial locations confirmed (Cardiff, Felixstowe, RAF Coningsby); four crew buried at Dogdyke Road Cemetery, RAF Coningsby. Crew names partial — four of seven not yet recovered.",
+  "narrative": "In the early hours of 26 July 1942, Lancaster R5683 of 106 Squadron took off from RAF Coningsby and came down on the tidal mudflats at Butterwick Low on The Wash coast north of Boston. The aircraft sank into the mud, and its wreck has remained inaccessible to conventional recovery, preserved in the anaerobic conditions of the estuary. F/Sgt Geoffrey Appleyard DFM was the pilot; he and all six of his crew were killed. The circumstances of the crash — whether engine failure, navigational error at low level, or another cause — have not been established from open sources. The search located the niece of Appleyard, the niece of Sgt Beaddie, and relatives of Sgt Davie, all of whom attended the ceremony. The aircraft remains in the mudflats below the memorial. An inaugural ceremony — 'Seven Lights at Sunset' — is planned for Sunday 18 October 2026 at 18:00. Seven lanterns carrying national flags will be lit at the memorial at sunset. Visitors are asked to assemble and park at 17:45 at the bottom of the track from the memorial.",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "name": "Geoffrey Appleyard",
+      "role": "Pilot",
+      "fate": "Killed",
+      "fate_detail": "Decorated with DFM. Family attended 2025 unveiling.",
+      "burial_location": "Cardiff"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Lovie Beaddie",
+      "role": "Flight Engineer",
+      "fate": "Killed",
+      "fate_detail": "Family (niece) attended 2025 unveiling."
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Douglas Davie",
+      "role": "Rear Gunner",
+      "fate": "Killed",
+      "fate_detail": "Relatives attended 2025 unveiling.",
+      "burial_location": "Felixstowe"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RAF Coningsby — New memorial to 1942 lost Lancaster crew unveiled",
+      "url": "https://www.raf.mod.uk/our-organisation/stations/raf-coningsby/news/new-memorial-to-1942-lost-lancaster-crew-unveiled/",
+      "type": "website"
+    },
+    {
+      "title": "Lincolnshire World — Long international search for relatives now complete",
+      "url": "https://www.lincolnshireworld.com/heritage-and-retro/heritage/long-international-search-for-relatives-of-second-world-war-airmen-killed-near-boston-now-complete-as-work-finishes-on-memorial-in-their-honour-8951511",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Memorial organised by 106 Squadron Association with support from RAF Coningsby. International search for crew relatives completed before unveiling on 24 June 2025. Saul Farms Ltd co-operated as landowners. 'Seven Lights at Sunset' inaugural ceremony on Sunday 18 October 2026 at 18:00, with seven lanterns carrying national flags of the crew.",
+  "photos": [],
+  "external_narratives": []
+}

@@ -322,7 +322,11 @@
       "fate": "Killed",
       "rank": "Wing Commander",
       "role": "Pilot",
-      "decorations": ["KSOVM", "DSO", "DFC"],
+      "decorations": [
+        "KSOVM",
+        "DSO",
+        "DFC"
+      ],
       "nationality": "Polish"
     },
     {

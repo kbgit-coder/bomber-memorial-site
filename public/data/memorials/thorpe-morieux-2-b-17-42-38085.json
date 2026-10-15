@@ -45,7 +45,7 @@
       "still_live": true,
       "link_description": "Explore the 711th Bomb Squadron's operational history and aircraft losses in this American Air Museum archive page from IWM.",
       "bot_blocked": true,
-      "link_check_note": "HTTP 403 \u2014 bot protection, works in browser"
+      "link_check_note": "HTTP 403 — bot protection, works in browser"
     },
     {
       "source_site": "USAF Mildenhall News",
@@ -85,5 +85,6 @@
   "crash_category": "unknown",
   "narrative_quality_score": 0,
   "narrative": "On 27 March 1944, B-17 42-38085 departed Rattlesden on a bombing mission as part of the 447th Bomb Group's 711th Bomb Squadron. The aircraft came down at Thorpe Morieux in Suffolk, killing all ten men aboard. The pilot, 1st Lieutenant Wesley C. Hudson, was among those lost. No survivors were recorded. A memorial plaque at the crash site in Thorpe Morieux today marks where the crew fell, and veterans of the 447th Bomb Group have since returned to honour their memory.",
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "generated-claude-sonnet",
+  "community_connection": "Veterans of the 447th Bomb Group have returned to Thorpe Morieux to honour the crew of 42-38085 at the crash site memorial, bringing a direct human connection from those who flew alongside them to the place where they fell."
 }

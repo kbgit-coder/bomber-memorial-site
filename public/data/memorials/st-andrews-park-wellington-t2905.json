@@ -6,7 +6,7 @@
   "country": "United Kingdom",
   "latitude": 51.473606,
   "longitude": -2.585832,
-  "what3words": "unverified.approximate.location",
+  "what3words": "",
   "crash_date": "1941-04-30",
   "aircraft_type": "Vickers Wellington Mk.1C",
   "serial_number": "T2905",
@@ -191,5 +191,6 @@
   "last_updated": "2026-10-15",
   "data_quality": "Partial",
   "narrative_quality_score": 4,
-  "crash_category": "training_accident"
+  "crash_category": "training_accident",
+  "community_connection": "The Friends of St Andrews Park organised the 2009 memorial dedication and remain the memorial's local stewards."
 }

@@ -1,0 +1,121 @@
+{
+  "id": "stratford-upon-avon-morris-bench-ng251",
+  "title": "F/Lt J P Morris Memorial Bench, Stratford-upon-Avon",
+  "location_name": "Garden of Remembrance, Old Town, Stratford-upon-Avon, Warwickshire, England",
+  "county": "Warwickshire",
+  "country": "United Kingdom",
+  "latitude": 52.191,
+  "longitude": -1.706,
+  "what3words": "",
+  "crash_date": "1944-12-06",
+  "aircraft_type": "Avro Lancaster Mk I",
+  "serial_number": "NG251",
+  "aircraft_code": "BQ-J",
+  "squadron": "550 Squadron",
+  "squadron_display_name": "550 Squadron RAF",
+  "station": "RAF North Killingholme",
+  "operation_type": "Operational",
+  "operation_target": "Leuna synthetic oil plant, Merseburg, Germany",
+  "memorial_type": "Seat",
+  "memorial_name": "F/Lt Phillip Morris Memorial Bench",
+  "memorial_address": "Garden of Remembrance, Old Town, Stratford-upon-Avon, CV37 9BG",
+  "memorial_details": "Freestanding wooden bench with inscribed metal plaque. Located in the Garden of Remembrance, Old Town, Stratford-upon-Avon. The memorial inscription uses 'Phillip' (double-l) whereas official records show 'Joseph Phillip Morris' — this reflects family usage. The bench appears to have been placed by Morris's family given the Stratford connection, though a confirmed family residence in Stratford has not been established from open sources.",
+  "inscription": "IN MEMORY OF FLT. LT. PHILLIP MORRIS. R.A.F.V.R. KILLED IN ACTION DECEMBER 1944",
+  "crew_summary": "All seven killed. Aircraft hit by flak over Leuna; came down near Dolzig, now western Poland.",
+  "narrative": "F/Lt Joseph Phillip Morris and his crew were posted to 550 Squadron on 20 October 1944, barely six weeks before they were lost. NG251 was despatched on 6/7 December 1944 to attack the Leuna synthetic oil plant at Merseburg — a heavily defended target that Bomber Command returned to repeatedly in the final winter of the war. The aircraft was hit by flak and came down near Dolzig. All seven aboard were killed.\n\nOne element of the crew composition adds particular weight: the regular wireless operator, Sgt J R Byrne, was kept at base that night for a commission interview. His replacement, Sgt W Roberts, died in his place. Byrne survived the war.\n\nThe crew are buried across two Dutch war cemeteries: Venray (Morris, Furber, Bailey, Roberts, Hooper) and Overloon (Leonard, Dennis). F/Sgt Hooper's grave is at Berlin 1939–1945 War Cemetery.",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Joseph Phillip Morris",
+      "service_number": "130129",
+      "age": 23,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Venray War Cemetery, Netherlands"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alan George Furber",
+      "service_number": "3025228",
+      "age": 19,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Venray War Cemetery, Netherlands"
+    },
+    {
+      "rank": "F/O",
+      "name": "Arthur Leonard",
+      "service_number": "160715",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Overloon War Cemetery, Netherlands"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harry James Bailey",
+      "service_number": "1601442",
+      "age": 20,
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Venray War Cemetery, Netherlands"
+    },
+    {
+      "rank": "Sgt",
+      "name": "W Roberts",
+      "service_number": "2206786",
+      "age": 20,
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Substituting for regular WOp Sgt J R Byrne, who was at base for a commission interview that night.",
+      "burial_location": "Venray War Cemetery, Netherlands"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Charles Dennis",
+      "service_number": "2204350",
+      "age": 19,
+      "role": "Mid-Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Overloon War Cemetery, Netherlands"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Joseph Hooper",
+      "service_number": "2217010",
+      "age": 22,
+      "role": "Rear Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Berlin 1939-1945 War Cemetery"
+    }
+  ],
+  "sources": [
+    {
+      "title": "War Memorials Online — memorial 85903",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/85903/",
+      "type": "official_database"
+    },
+    {
+      "title": "550 Squadron Association — F/Lt J P Morris crew page",
+      "url": "http://550squadronassociation.org.uk/documents/public/Lancasters-Crews/FlLtJPMorris/index.php",
+      "type": "website"
+    },
+    {
+      "title": "rafweb.org casualties December 1944",
+      "url": "http://www.rafweb.org/Members%20Pages/Casualties/1940s/1944/Casualties_1944_12-03.htm",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Partial",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Personal or family memorial. War Memorials Online record maintained by volunteers.",
+  "photos": [],
+  "external_narratives": []
+}

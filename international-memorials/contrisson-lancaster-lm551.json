@@ -1,0 +1,132 @@
+{
+  "id": "contrisson-lancaster-lm551",
+  "title": "Lancaster LM551 Information Panel, Contrisson",
+  "location_name": "Contrisson, Meuse, Grand Est, France",
+  "county": "Meuse",
+  "country": "France",
+  "latitude": 48.8033,
+  "longitude": 4.9564,
+  "crash_date": "1944-07-19",
+  "aircraft_type": "Avro Lancaster III",
+  "serial_number": "LM551",
+  "aircraft_code": "JO-G",
+  "squadron": "463 Squadron RAAF",
+  "squadron_display_name": "No. 463 Squadron RAAF",
+  "station": "RAF Waddington",
+  "operation_type": "Operational",
+  "operation_target": "Revigny-sur-Ornain railway junction",
+  "cause_of_loss": "Shot down by a nightfighter. Two competing Luftwaffe claims exist: Oblt Ernst-Georg Drünkler (1./NJG5, ~01:45) and Hptm Paul-Hubert Rauh (Stab II./NJG4, ~01:55 near Vitry-le-François, his 19th Abschuss). Research confirms Drünkler's verified 19 July 1944 claim (his 20th Abschuss) was against Lancaster PB234 of 467 Squadron near Brabant-le-Roi, not LM551. The attribution of LM551 remains unresolved; both claims are presented without adjudication.",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_details": "An information panel designed and installed by Ben Howson, located near the crash site on the Canal de la Marne au Rhin at Contrisson. The panel commemorates the crew of LM551 and the Revigny raids. Precise dedication date and full inscription text not found in open sources at time of research (October 2026).",
+  "crew_summary": "All seven killed. Aircraft crashed into the Canal de la Marne au Rhin between locks 53 and 54. All crew recovered and buried together in collective grave 3.E.1-7, Choloy War Cemetery, Meurthe-et-Moselle, France.",
+  "narrative": "On the night of 18/19 July 1944, No. 463 Squadron RAAF despatched Lancaster LM551 (JO-G) from RAF Waddington at 22:53 as part of a force of around 110 Lancasters tasked against the railway junction at Revigny-sur-Ornain, a key German supply route through the Meuse valley. The Revigny raid was one of three attacks on this target that month and one of the most costly, with 24 or more aircraft failing to return that night.\n\nLM551 was captained by Flying Officer Beverley Hudson Gifford, 28, from Como, Western Australia. The crew were an almost entirely RAAF complement — six Australians and one RAF flight engineer, Sergeant Harold Newell. Nothing was heard from the aircraft after take-off. It crashed into the Canal de la Marne au Rhin near Contrisson, between locks 53 and 54.\n\nTwo Luftwaffe nightfighter claims have been associated with this loss. Research confirms that Oblt Drünkler's verified 19 July claim (his 20th Abschuss) was against Lancaster PB234 of 467 Squadron, which crashed near Brabant-le-Roi approximately 2 km north of Revigny. The competing claim consistent with LM551 is that of Hptm Paul-Hubert Rauh, who recorded his 19th victory — a four-engined bomber — at 01:55 on 19 July near Vitry-le-François. Neither claim has been definitively matched to LM551 in open sources; the attribution remains unresolved.\n\nAll seven crew were recovered from the canal and buried together in collective grave 3.E.1-7 at Choloy War Cemetery, Meurthe-et-Moselle.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Beverley Hudson Gifford",
+      "service_number": "415520",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "hometown": "Como, Western Australia",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "W/O",
+      "name": "Raymond George Shipway",
+      "service_number": "413036",
+      "role": "Navigator",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Frank George Spencer",
+      "service_number": "427360",
+      "role": "Bomb Aimer",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Alan Wesley Giles Fripp",
+      "service_number": "427314",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Philip John Pearce",
+      "service_number": "427934",
+      "role": "Mid-Upper Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "John Charles Broughton Boydell",
+      "service_number": "430247",
+      "role": "Rear Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harold Newell",
+      "service_number": "577927",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "burial_location": "Choloy War Cemetery, Collective Grave 3.E.1-7"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RAAF Aviation Museum WA — Gifford Beverley Hudson",
+      "url": "https://aviationmuseumwa.org.au/afcraaf-roll/gifford-beverley-hudson-415520/",
+      "type": "website"
+    },
+    {
+      "title": "RAAF Aviation Museum WA — Shipway Raymond George",
+      "url": "https://aviationmuseumwa.org.au/afcraaf-roll/shipway-raymond-george-413036/",
+      "type": "website"
+    },
+    {
+      "title": "RAAF Aviation Museum WA — Spencer Frank George",
+      "url": "https://aviationmuseumwa.org.au/afcraaf-roll/spencer-frank-george-427360/",
+      "type": "website"
+    },
+    {
+      "title": "RAAF Aviation Museum WA — Pearce Philip John",
+      "url": "https://aviationmuseumwa.org.au/afcraaf-roll/pearce-philip-john-427934/",
+      "type": "website"
+    },
+    {
+      "title": "1WAGs — Fripp Alan Wesley Giles",
+      "url": "https://www.1wags.org.au/courses/wireless-air-gunners-courses/wags-course-29/display/365-alan-wesley-giles-fripp_service-number-427314",
+      "type": "website"
+    },
+    {
+      "title": "Australian War Memorial — Boydell John Charles Broughton",
+      "url": "https://www.awm.gov.au/collection/R1705175",
+      "type": "official_database"
+    },
+    {
+      "title": "Wikipedia — Paul-Hubert Rauh",
+      "url": "https://en.wikipedia.org/wiki/Paul-Hubert_Rauh",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Information panel designed and installed by Ben Howson. F/O Gifford is also commemorated at the Kings Park State War Memorial in Western Australia, and on the Australian War Memorial Roll of Honour.",
+  "photos": [],
+  "external_narratives": []
+}

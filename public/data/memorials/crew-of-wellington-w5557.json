@@ -16,6 +16,11 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/105384",
       "type": "official_database"
+    },
+    {
+      "title": "Yorkshire Aircraft — Wellington W5557, Hatfield Moor (confirms crash on return from Cologne, Hatfield Moor location, OS grid SE 69191)",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york41/w5557.html",
+      "type": "website"
     }
   ],
   "data_quality": "Partial",
@@ -30,8 +35,8 @@
   "names_on_memorial": 4,
   "died_count": 4,
   "custodian": "Unknown",
-  "latitude": 52.5,
-  "longitude": -1.0,
+  "latitude": 53.553,
+  "longitude": -0.989,
   "coordinates_approximate": true,
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/157/270/large_sy_hatfield_moor_6.jpg",

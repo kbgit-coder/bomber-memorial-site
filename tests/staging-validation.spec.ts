@@ -208,11 +208,11 @@ test.describe("2. Memorial Pages", () => {
 // ---------------------------------------------------------------------------
 
 test.describe("2b. Stub Region Pages", () => {
+  // France and Belgium graduated to real listings in the Oct 2026 wave
+  // (Château-Voué, Saint-Thégonnec, Kortrijk et al.) — tested in 2c below.
   const STUB_REGIONS = [
     { code: "canada", name: "Canada" },
-    { code: "france", name: "France" },
     { code: "new-zealand", name: "New Zealand" },
-    { code: "belgium", name: "Belgium" },
   ];
 
   for (const region of STUB_REGIONS) {
@@ -225,6 +225,31 @@ test.describe("2b. Stub Region Pages", () => {
       await expect(body).toContainText(/researching memorials/i);
       // Contribution CTA present
       await expect(body).toContainText(/contribute/i);
+    });
+  }
+});
+
+// ---------------------------------------------------------------------------
+// 2c. Graduated Region Pages — former stubs that now list real memorials
+// ---------------------------------------------------------------------------
+
+test.describe("2c. Graduated Region Pages", () => {
+  const GRADUATED_REGIONS = [
+    { code: "france", name: "France", memorial: "chateau-voue-lancaster-hk575" },
+    { code: "belgium", name: "Belgium", memorial: "kortrijk-three-lancasters-w4967-lm101-pd205" },
+  ];
+
+  for (const region of GRADUATED_REGIONS) {
+    test(`Region page for ${region.name} lists real memorials`, async ({ page }) => {
+      const response = await page.goto(`/region/${region.code}`);
+      expect(response?.status()).toBe(200);
+      const body = page.locator("body");
+      await expect(body).toContainText(region.name);
+      // No stub messaging — this region has real records now
+      await expect(body).not.toContainText(/researching memorials/i);
+      // At least one known memorial is linked
+      const link = page.locator(`a[href*="${region.memorial}"]`).first();
+      await expect(link).toBeAttached();
     });
   }
 });
@@ -404,15 +429,16 @@ test.describe("4. Features", () => {
 // ---------------------------------------------------------------------------
 
 test.describe("5. Data Integrity", () => {
-  test("Homepage stats show 406 memorials", async ({ page }) => {
+  test("Homepage stats show 466 memorials", async ({ page }) => {
     await page.goto("/");
     // The stats section displays the count as plain text. Match the number.
+    // Count = total records across the three data dirs (Oct 2026 wave).
     const body = page.locator("body");
     const text = (await body.textContent()) ?? "";
     expect(
       text,
-      "Could not find '406' on the homepage stats"
-    ).toContain("406");
+      "Could not find '466' on the homepage stats"
+    ).toContain("466");
   });
 
   test("All nav links on homepage return HTTP 200", async ({ page }) => {

@@ -6,14 +6,17 @@
   "country": "Netherlands",
   "latitude": 52.1740,
   "longitude": 6.3830,
-  "what3words": "unverified.approximate.location",
+  "what3words": "",
   "crash_date": "1944-09-23",
   "aircraft_type": "Lancaster Mk I",
   "serial_number": "NF923",
   "aircraft_code": "KC:M",
   "squadron": "617 Squadron",
   "squadron_display_name": "617 Squadron RAF (The Dambusters)",
-  "squadron_aliases": ["The Dambusters", "617 Sqn"],
+  "squadron_aliases": [
+    "The Dambusters",
+    "617 Sqn"
+  ],
   "station": "RAF Woodhall Spa",
   "operation_type": "Operational",
   "operation_target": "Dortmund-Ems Canal aqueduct, Ladbergen — Tallboy raid",
@@ -35,7 +38,9 @@
       "fate_detail": "Remained at the controls after ordering crew to bail out following nightfighter attack. Aircraft crashed at Vordensebinnenweg, Lochem, at approximately 23:15. Did not survive.",
       "burial_location": "Lochem New General Cemetery, Row 1, Grave 2",
       "cwgc_verified": true,
-      "decorations": ["DFC"],
+      "decorations": [
+        "DFC"
+      ],
       "biography": "Flight Lieutenant Geoffrey Stevenson Stout DFC, RAFVR, aged 23. Son of Jacob Stevenson Stout and Emma Stout, of Whitehaven, Cumberland. Stout ordered his crew to bail out after the aircraft was set ablaze by Schnaufer's attack, and remained at the controls to hold NF923 steady long enough for his crew to escape. He did not survive."
     },
     {
@@ -61,7 +66,9 @@
       "fate": "Fate unclear",
       "fate_detail": "Bailed out of NF923. Fate unconfirmed — possibly killed or taken prisoner. Further research required.",
       "cwgc_verified": false,
-      "decorations": ["MiD"],
+      "decorations": [
+        "MiD"
+      ],
       "biography": "Flying Officer Clyde Euan Miles Graham MiD, RAFVR, aged 23. Bailed out on the night of 23/24 September 1944. Current records do not confirm his fate; he may have been killed or captured. His status remains an open research question for this record."
     },
     {
@@ -83,7 +90,9 @@
       "nationality": "British",
       "fate": "Survived",
       "fate_detail": "Bailed out of NF923 and survived.",
-      "decorations": ["DFC"],
+      "decorations": [
+        "DFC"
+      ],
       "biography": "Flying Officer Ronald James Allen DFC, RAFVR, aged 23. Wireless Operator/Air Gunner. Bailed out successfully and survived."
     },
     {
@@ -95,7 +104,9 @@
       "nationality": "British",
       "fate": "Survived — evaded",
       "fate_detail": "Bailed out and successfully evaded capture. Escaped a Gestapo encounter in February 1945 and was liberated 31 March 1945.",
-      "decorations": ["DFM"],
+      "decorations": [
+        "DFM"
+      ],
       "biography": "Flight Sergeant Peter Linn Whittaker DFM, RAFVR, aged 21. Mid Upper Gunner. Successfully bailed out and evaded capture over the Netherlands. Evaded a Gestapo encounter in February 1945 and was liberated by Allied forces on 31 March 1945."
     },
     {
@@ -107,7 +118,9 @@
       "nationality": "British",
       "fate": "Survived — evaded",
       "fate_detail": "Bailed out and successfully evaded capture. Debriefed 11 April 1945.",
-      "decorations": ["DFC"],
+      "decorations": [
+        "DFC"
+      ],
       "biography": "Flying Officer Reginald Herbert Petch DFC, RAFVR, aged 26. Rear Gunner. Successfully bailed out and evaded capture. Debriefed on return to Allied control on 11 April 1945."
     }
   ],
@@ -169,5 +182,6 @@
   "narrative_quality_score": 4,
   "contributor": "Keith Binley",
   "last_updated": "2026-10-15",
-  "photos": []
+  "photos": [],
+  "community_connection": "The memorial at Vordensebinnenweg was unveiled on 23 September 2024, exactly 80 years after the crash, with RAF Squadron Leader Russel Howarth and RCAF Flight Sergeant Krista Semenchuk attending to reflect the binational crew. Local schoolchildren read poems at the ceremony, and a herdenkingsroute has been established in the surrounding area to connect the wider community to the events of 1944."
 }

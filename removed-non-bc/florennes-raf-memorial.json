@@ -4,13 +4,19 @@
   "location_name": "Florennes, Namur",
   "country": "Belgium",
   "memorial_type": "Memorial",
-  "data_quality": "Light",
-  "contributor": "Charlie Leitheiser",
+  "data_quality": "Stub",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
   "last_updated": "2026-03-21",
   "sources": [
     {
-      "title": "Charlie Leitheiser hackathon research",
-      "type": "personal_research"
+      "title": "TracesOfWar.com",
+      "url": "https://www.tracesofwar.com/sights/85015/Florennes-Air-Base.htm",
+      "type": "website"
+    },
+    {
+      "title": "Liberation Route Europe",
+      "url": "https://www.liberationroute.com/pois/1871/florennes-airbase-spitfire-museum",
+      "type": "website"
     }
   ],
   "latitude": 50.24,
@@ -45,7 +51,7 @@
   },
   "squadron_display_name": "",
   "squadron_aliases": [],
-  "narrative": "Florennes Airbase & Spitfire Museum Florennes Airbase & Spitfire Museum Florennes Air Base was captured by the German Army in 1940 and then used by the Luftwaffe (German Air Force) until September 1944. It is still an active airbase of the Belgium Air Force, and there is a Spitfire Museum that can be accessed via prior appointment. With the German invasion of the low countries and into Belgium in 1940, the airbase at Florennes fell into the hands of the Luftwaffe. From here they operated night fighter missions. The Allies perceived this area of Belgium as weakly defended and it was part of the route used by Allied bombing crews returning to the UK after missions. In early 1943, the Luftwaffe night fighters increased and operated from here. During daytime hours they operated fighter aircraft to intercept Allied bombing raids. In September 1944 the US Army liberated the area and retook the airbase. Very quickly, the United States Army Air Force (USAAF) established themselves and operations from here, including the 430th Fighter Squadron and the 422nd Night Fighter Squadron. Surprisingly, during the German winter offensive in the Ardennes in 1944 to 45, the airfield was not a target for the Luftwaffe. Today, the airbase is not directly accessible to the public and should not be entered. The museum contains a Second World War Spitfire that was used by the Belgium Air Force. The large hangar houses a mix of aircraft from propellor through to jet aircraft. There is a small exhibit area of recovered parts from crashed Second World War aircraft. Rue de Chaumont, 5620 Florennes",
+  "narrative": "Florennes Air Base was captured by the German Army in 1940 and then used by the Luftwaffe (German Air Force) until September 1944. It is still an active airbase of the Belgium Air Force, and there is a Spitfire Museum that can be accessed via prior appointment. With the German invasion of the low countries and into Belgium in 1940, the airbase at Florennes fell into the hands of the Luftwaffe. From here they operated night fighter missions. The Allies perceived this area of Belgium as weakly defended and it was part of the route used by Allied bombing crews returning to the UK after missions. In early 1943, the Luftwaffe night fighters increased and operated from here. During daytime hours they operated fighter aircraft to intercept Allied bombing raids. In September 1944 the US Army liberated the area and retook the airbase. Very quickly, the United States Army Air Force (USAAF) established themselves and operations from here, including the 430th Fighter Squadron and the 422nd Night Fighter Squadron. Surprisingly, during the German winter offensive in the Ardennes in 1944 to 45, the airfield was not a target for the Luftwaffe. Today, the airbase is not directly accessible to the public and should not be entered. The museum contains a Second World War Spitfire that was used by the Belgium Air Force. The large hangar houses a mix of aircraft from propellor through to jet aircraft. There is a small exhibit area of recovered parts from crashed Second World War aircraft. Rue de Chaumont, 5620 Florennes",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4
 }

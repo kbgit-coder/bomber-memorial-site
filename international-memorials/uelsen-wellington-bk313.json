@@ -1,0 +1,101 @@
+{
+  "id": "uelsen-wellington-bk313",
+  "title": "Wellington BK313 Memorial, Uelsen (Hollboom)",
+  "location_name": "Hollboom area, Uelsen, Grafschaft Bentheim district, Lower Saxony, Germany",
+  "county": "Lower Saxony",
+  "country": "Germany",
+  "crash_date": "1942-10-06",
+  "aircraft_type": "Vickers Wellington Mk III",
+  "serial_number": "BK313",
+  "aircraft_code": "KO-B",
+  "squadron": "115 Squadron",
+  "squadron_display_name": "115 Squadron RAF",
+  "station": "RAF Mildenhall",
+  "operation_type": "Operational",
+  "operation_target": "Osnabrück, Germany",
+  "cause_of_loss": "Shot down by Lt Hans Krause, Stab I./NJG 3, flying a Dornier Do 217J (D5+LH) from Rheine airfield. Krause departed Rheine at 21:40; kill at 23:04 at 4,000 m. Bordfunker: Uffz Zinn; flight engineer: Uffz Specht. Krause received an official commendation. The aircraft was on an early return due to bomb bay door malfunction.",
+  "memorial_type": "Stone",
+  "memorial_details": "A memorial site ('die erste Erinnerungsstelle') referenced by the Heimatverein Uelsen in their account of the crash at the Hollboom area of Uelsen. The Heimatverein holds a detailed local history of the incident. The exact type and current state of the memorial were not confirmed from online sources; a direct visit or contact with the Heimatverein would resolve this. Note on kill number: the seeds described this as Krause's 2nd Abschuss; the research report found the source gives it as meriting an official commendation — the precise kill number is not confirmed independently.",
+  "crew_summary": "All five killed. Initially buried at Catholic cemetery Königsesch, Rheine; reinterred Reichswald Forest War Cemetery post-war, Graves 24.B.2-6.",
+  "narrative": "BK313 departed Mildenhall on the evening of 6 October 1942 as part of a 237-aircraft raid on Osnabrück. Unusually, it turned back early — its bomb bay doors had jammed shut, making it impossible to drop its load. On the return flight, crossing Lower Saxony near Uelsen, it was intercepted at 4,000 metres by Lt Hans Krause of Stab I./NJG 3 in a Dornier Do 217J at 23:04. All five crew were killed. The aircraft came down at Hollboom, a locality within Uelsen parish.\n\nThe crew were initially buried at Rheine and later moved to Reichswald Forest War Cemetery, where they share adjacent graves (24.B.2-6). F/O Smith, the Canadian pilot from Ottawa, was the most senior. The two married men — P/O Albery from Wolverhampton and P/O Lennard from Devon — are among those buried there. Sgt Loombe was from Bournemouth and Sgt Hockenhull from the Wirral.\n\nThe Heimatverein Uelsen maintains the local history of the crash with documentary detail, including the German nightfighter crew's unit, departure time, and the specific commendation received by Lt Krause.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Leonard Ian Smith",
+      "service_number": "J/10310",
+      "age": 22,
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "hometown": "Ottawa, Ontario",
+      "burial_location": "Reichswald Forest War Cemetery, Grave 24.B.4"
+    },
+    {
+      "rank": "P/O",
+      "name": "Robert Lewis Albery",
+      "service_number": "125994",
+      "age": 31,
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Bradmore, Wolverhampton",
+      "burial_location": "Reichswald Forest War Cemetery, Grave 24.B.2"
+    },
+    {
+      "rank": "P/O",
+      "name": "Douglas William Lennard",
+      "service_number": "123286",
+      "age": 30,
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Dawlish, Devon",
+      "burial_location": "Reichswald Forest War Cemetery, Grave 24.B.3"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Cecil Loombe",
+      "service_number": "656393",
+      "age": 23,
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Winton, Bournemouth",
+      "burial_location": "Reichswald Forest War Cemetery, Grave 24.B.5"
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Hockenhull",
+      "service_number": "655228",
+      "age": 30,
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "hometown": "Greasby, Cheshire",
+      "burial_location": "Reichswald Forest War Cemetery, Grave 24.B.6"
+    }
+  ],
+  "sources": [
+    {
+      "title": "115 Squadron RAF — Roll of Honour 1942",
+      "url": "https://115squadron-raf.be/Roll%20of%20Honour%201942.html",
+      "type": "website"
+    },
+    {
+      "title": "115 Squadron RAF — Wellington BK313 KO-B crew page",
+      "url": "https://115squadron-raf.be/crews/Wellington%20Mk%20III%20-%20BK313%20-%20KO-B.html",
+      "type": "website"
+    },
+    {
+      "title": "Heimatverein Uelsen — Flugzeugabsturz Hollboom",
+      "url": "https://www.heimatverein-uelsen.de/uelser-geschichte/flugzeugabsturz-hollboom/",
+      "type": "website"
+    }
+  ],
+  "data_quality": "Comprehensive",
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "community_connection": "Heimatverein Uelsen (local heritage society) maintains a detailed account of the crash at https://www.heimatverein-uelsen.de/uelser-geschichte/flugzeugabsturz-hollboom/, including the nightfighter crew's unit, the bomber's early-return circumstances, and the commendation received by Lt Krause.",
+  "photos": [],
+  "external_narratives": []
+}
