@@ -1,0 +1,216 @@
+{
+  "id": "barmby-moor-mid-air-collision-1943",
+  "title": "Barmby on the Moor Mid-Air Collision Memorial — Halifax LW333 & LW264",
+  "location_name": "Barmby on the Moor, East Yorkshire",
+  "county": "East Riding of Yorkshire",
+  "country": "United Kingdom",
+  "crash_date": "1943-11-22",
+  "aircraft_type": "Handley Page Halifax",
+  "serial_number": "LW333 and LW264",
+  "aircraft_code": "DY-K and KN-K",
+  "squadron": "102 (Ceylon) Squadron and 77 Squadron",
+  "squadron_display_name": "102 (Ceylon) Squadron / 77 Squadron",
+  "squadron_aliases": [
+    "102 Squadron",
+    "102 (Ceylon) Squadron",
+    "77 Squadron",
+    "77 Sqdn."
+  ],
+  "station": "RAF Pocklington (LW333) and RAF Elvington (LW264)",
+  "crew_summary": "14 crew — all killed",
+  "cause_of_loss": "Mid-air collision above Mohair Farm whilst holding to land after returning from operations over Germany",
+  "operation_type": "Operational",
+  "crash_category": "mid-air-collision",
+  "memorial_type": "Memorial plaque",
+  "dedication_date": "2026-06-06",
+  "erected_by": "102 (Ceylon) Squadron Association, organised by Harry Bartlett (chairman)",
+  "inscription": "In memory of the crews of 102 Squadron Halifax LW333 DY-K and 77 Squadron Halifax LW264 KN-K who were killed here in a mid-air collision at 2355 hours on the 22nd of November 1943 ... We Remember Them All",
+  "narrative": "On the night of 22 November 1943, two Halifax bombers returning from an operation over Germany were in the holding pattern above the East Yorkshire countryside, waiting their turn to land. At 23:55, Halifax LW333 (DY-K) of 102 (Ceylon) Squadron, based at RAF Pocklington, and Halifax LW264 (KN-K) of 77 Squadron, based at RAF Elvington, collided above Mohair Farm, Barmby on the Moor. Both aircraft came down on or near the farm. All fourteen men on board — seven from each crew — were killed. The collision was one of several tragic accidents that befell Bomber Command crews not over enemy territory, but in the dark skies above their own airfields as they orbited, exhausted, waiting to land. A plaque to commemorate all fourteen was unveiled near the crash site on 6 June 2026, organised by Harry Bartlett, chairman of the 102 (Ceylon) Squadron Association, who had been working towards the memorial since 2018. More than twenty relatives of the crew attended the ceremony.",
+  "memorial_details": "A plaque unveiled near the crash site at Barmby on the Moor, East Yorkshire, on 6 June 2026. The memorial was organised by Harry Bartlett, chairman of the 102 (Ceylon) Squadron Association, who had been researching and pursuing the project since 2018. Over 20 relatives of the 14 crew members attended the unveiling ceremony. Among those present were Christopher Dunn (age 80), nephew of Sgt Frederick Dunn, who had visited the crash site many times over the years, and Fiona Rosevear, great niece of Sgt John Boxall, who had discovered her family connection through genealogy research and through the 102 Squadron Association.",
+  "condition": "Good",
+  "latitude": 53.9095,
+  "longitude": -0.817,
+  "what3words": "unverified.approximate.location",
+  "os_grid_reference": "SE805437",
+  "sources": [
+    {
+      "title": "BBC News — 'Plaque unveiled to honour 14 airmen killed in 1943' by Emma Petrie",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/c802eyzlv9no",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "102 (Ceylon) Squadron Association",
+      "type": "association"
+    }
+  ],
+  "contributor": "Keith Binley, Bomber Command Memorial Register",
+  "last_updated": "2026-10-15",
+  "data_quality": "Partial",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Walter Hughes",
+      "age": 24,
+      "role": "Pilot or crew (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Boxall",
+      "age": 28,
+      "role": "Flight Engineer (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943. His great niece, Fiona Rosevear of Walton-on-Thames, discovered her connection through family tree research and the 102 Squadron Association and attended the 2026 memorial unveiling.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "P/O",
+      "name": "William Cottle",
+      "age": 28,
+      "role": "Pilot or crew (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frederick Dunn",
+      "age": 22,
+      "role": "Bomb Aimer (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943. His nephew, Christopher Dunn (age 80 at the 2026 ceremony), had visited the crash site many times over the years and attended the memorial unveiling.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "P/O",
+      "name": "Roy Dabnor",
+      "age": 21,
+      "role": "Pilot or crew (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ronald Bainbridge",
+      "age": 23,
+      "role": "Pilot or crew (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "David Willington",
+      "age": 32,
+      "role": "Pilot or crew (LW333 — 102 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Cornelius Lineham",
+      "age": 23,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur West",
+      "age": 21,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Eric Gosden",
+      "age": 30,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney Tweddle",
+      "age": 21,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney Elder",
+      "age": 21,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Bennett",
+      "age": 23,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943.",
+      "cwgc_verified": false
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Thomson",
+      "age": 19,
+      "role": "Pilot or crew (LW264 — 77 Squadron)",
+      "fate": "Killed",
+      "fate_detail": "Killed in mid-air collision above Mohair Farm, Barmby on the Moor, 22 November 1943. At 19, the youngest of the 14 crew.",
+      "cwgc_verified": false
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "BBC News",
+      "original_url": "https://www.bbc.co.uk/news/articles/c802eyzlv9no",
+      "summary": "BBC report on the unveiling of the memorial plaque at Barmby on the Moor on 6 June 2026, commemorating 14 airmen killed in the mid-air collision on 22 November 1943. Reports attendance of 20+ relatives, including Christopher Dunn (nephew of Sgt Frederick Dunn, age 80) and Fiona Rosevear (great niece of Sgt John Boxall, from Walton-on-Thames). Details the work of Harry Bartlett, 102 (Ceylon) Squadron Association chairman, who had been pursuing the memorial since 2018.",
+      "key_details": [
+        "Both aircraft were returning from Germany and waiting to land when they collided at 23:55 on 22 November 1943",
+        "Memorial organised by Harry Bartlett, chairman of 102 (Ceylon) Squadron Association",
+        "Harry Bartlett had been working on the project since 2018",
+        "20+ relatives attended the unveiling on 6 June 2026",
+        "Christopher Dunn (80), nephew of Sgt Frederick Dunn, had visited the crash site many times",
+        "Fiona Rosevear, great niece of Sgt John Boxall, discovered connection through family tree research",
+        "14 crew killed — 7 from each aircraft, all killed"
+      ],
+      "date_retrieved": "2026-10-15",
+      "still_live": true,
+      "link_description": "BBC News report on the 2026 memorial unveiling ceremony at Barmby on the Moor"
+    }
+  ],
+  "local_contacts": [
+    {
+      "org_name": "102 (Ceylon) Squadron Association",
+      "org_type": "squadron_association",
+      "role": "Organised and erected the memorial; primary point of contact for research",
+      "contact_name": "Harry Bartlett (chairman)"
+    }
+  ],
+  "narrative_quality_score": 3,
+  "remembrance": {
+    "annual_service": false,
+    "events": [
+      {
+        "date": "2026-06-06",
+        "description": "Unveiling ceremony of the memorial plaque near the crash site. Attended by 20+ relatives of the 14 crew, organised by Harry Bartlett and the 102 (Ceylon) Squadron Association."
+      }
+    ]
+  },
+  "community_connection": "Christopher Dunn, nephew of Sgt Frederick Dunn, had made repeated visits to the crash site at Mohair Farm over the decades before the memorial was erected. Fiona Rosevear, great niece of Sgt John Boxall, of Walton-on-Thames, discovered her family's connection to the crash through genealogy research and through the 102 Squadron Association — one of many families who found each other in the process of building the memorial."
+}
