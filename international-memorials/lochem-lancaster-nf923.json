@@ -1,0 +1,173 @@
+{
+  "id": "lochem-lancaster-nf923",
+  "title": "Lancaster NF923 Memorial, Lochem",
+  "location_name": "Vordensebinnenweg, Lochem, Gelderland, Netherlands",
+  "county": "Gelderland",
+  "country": "Netherlands",
+  "latitude": 52.1740,
+  "longitude": 6.3830,
+  "what3words": "unverified.approximate.location",
+  "crash_date": "1944-09-23",
+  "aircraft_type": "Lancaster Mk I",
+  "serial_number": "NF923",
+  "aircraft_code": "KC:M",
+  "squadron": "617 Squadron",
+  "squadron_display_name": "617 Squadron RAF (The Dambusters)",
+  "squadron_aliases": ["The Dambusters", "617 Sqn"],
+  "station": "RAF Woodhall Spa",
+  "operation_type": "Operational",
+  "operation_target": "Dortmund-Ems Canal aqueduct, Ladbergen — Tallboy raid",
+  "cause_of_loss": "Nightfighter interception on return leg — Hptm Heinz-Wolfgang Schnaufer (Stab IV./NJG1), his 96th aerial victory. Aircraft caught fire; crew ordered to bail out. Pilot remained at controls.",
+  "memorial_type": "Memorial",
+  "memorial_address": "Vordensebinnenweg, Lochem, Gelderland, Netherlands",
+  "dedication_date": "2024-09-23",
+  "narrative": "On the evening of 23 September 1944, Lancaster NF923 (code KC:M) of 617 Squadron departed RAF Woodhall Spa as part of a Tallboy raid against the Dortmund-Ems Canal aqueduct at Ladbergen — one of the precision targets that defined 617 Squadron's role in the latter stages of the war. 617 Squadron had made its name in May 1943 with the Dams Raid, and by 1944 it operated as Bomber Command's specialist heavy-weapon unit, delivering the 12,000 lb Tallboy deep-penetration bomb against hardened infrastructure targets that conventional bombing could not reach.\n\nOn the return leg, at approximately 23:15, NF923 was intercepted and attacked by Hauptmann Heinz-Wolfgang Schnaufer, commanding officer of Stab IV./NJG1. This was Schnaufer's 96th confirmed aerial victory — a figure that places it within the most intense period of his extraordinary career. Schnaufer was the highest-scoring night fighter ace of the entire war, ultimately credited with 121 victories, all achieved against the RAF's night offensive. He flew the Messerschmitt Bf 110 throughout his operational career, earned the Knight's Cross with Oak Leaves, Swords and Diamonds — Germany's highest military decoration — and was one of only 27 men to receive it. He survived the war, only to die in a road accident in Bordeaux in 1950, aged 28.\n\nThe attack set NF923 on fire. The pilot, Flight Lieutenant Geoffrey Stevenson Stout DFC, ordered the crew to bail out. Stout himself remained at the controls to hold the aircraft steady as his crew jumped, giving them the time and altitude they needed to escape. The burning Lancaster crashed near Vordensebinnenweg, Lochem, at approximately 23:15. Stout did not survive. He was 23 years old.\n\nStout's decision to remain at the controls was the act the memorial commemorates. Six men had the chance to jump because their pilot chose to stay. Of those six, two were killed — Flight Engineer P/O Alan Benting bailed out but died of injuries approximately two days later at Enschede Hospital, and Navigator F/O Clyde Graham's fate remains unclear, possibly killed or taken prisoner. The remaining four — Bomb Aimer F/O William Rupert (RCAF), Wireless Op F/O Ronald Allen DFC, Mid Upper Gunner F/Sgt Peter Whittaker DFM, and Rear Gunner F/O Reginald Petch DFC — survived, with Whittaker and Petch both successfully evading capture and returning to Allied lines.\n\nF/Sgt Peter Whittaker's evasion is particularly notable: he escaped a Gestapo encounter in February 1945 and was liberated on 31 March 1945. F/O Reginald Petch was debriefed on 11 April 1945.\n\nThe memorial at Vordensebinnenweg, Lochem, was unveiled on 23 September 2024 — exactly 80 years after the crash. The ceremony was attended by RAF Squadron Leader Russel Howarth and RCAF Flight Sergeant Krista Semenchuk, reflecting the binational crew. Local schoolchildren read poems at the service, giving the commemoration a community dimension that connects the next generation to the events of 1944. A herdenkingsroute (memorial route) was also established in the area.\n\nGeoffrey Stout is buried at Lochem New General Cemetery, Row 1, Grave 2. Alan Benting is buried at Enschede Eastern General Cemetery, joint grave 200–201. Both are recorded by the Commonwealth War Graves Commission.",
+  "crew_summary": "Pilot F/Lt Stout KILLED (stayed at controls). F/Engineer P/O Benting KILLED (bailed out, died of injuries at Enschede Hospital). Navigator F/O Graham fate unclear (possibly killed/POW). Bomb Aimer F/O Rupert survived. Wireless Op F/O Allen survived. Mid Upper Gunner F/Sgt Whittaker evaded (liberated 31 Mar 1945). Rear Gunner F/O Petch evaded (debriefed 11 Apr 1945).",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Geoffrey Stevenson Stout",
+      "service_number": "145510",
+      "age": 23,
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Remained at the controls after ordering crew to bail out following nightfighter attack. Aircraft crashed at Vordensebinnenweg, Lochem, at approximately 23:15. Did not survive.",
+      "burial_location": "Lochem New General Cemetery, Row 1, Grave 2",
+      "cwgc_verified": true,
+      "decorations": ["DFC"],
+      "biography": "Flight Lieutenant Geoffrey Stevenson Stout DFC, RAFVR, aged 23. Son of Jacob Stevenson Stout and Emma Stout, of Whitehaven, Cumberland. Stout ordered his crew to bail out after the aircraft was set ablaze by Schnaufer's attack, and remained at the controls to hold NF923 steady long enough for his crew to escape. He did not survive."
+    },
+    {
+      "rank": "P/O",
+      "name": "Alan William Benting",
+      "service_number": "182038",
+      "age": 22,
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "fate_detail": "Bailed out of NF923 but died of injuries approximately two days later at hospital in Enschede.",
+      "burial_location": "Enschede Eastern General Cemetery, joint grave 200-201",
+      "cwgc_verified": true,
+      "biography": "Pilot Officer Alan William Benting, RAFVR, aged 22. Son of William and Elizabeth Benting, of Acocks Green, Birmingham. Benting bailed out successfully but sustained injuries from which he died at Enschede Hospital approximately two days after the crash."
+    },
+    {
+      "rank": "F/O",
+      "name": "Clyde Euan Miles Graham",
+      "service_number": "159937",
+      "age": 23,
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Fate unclear",
+      "fate_detail": "Bailed out of NF923. Fate unconfirmed — possibly killed or taken prisoner. Further research required.",
+      "cwgc_verified": false,
+      "decorations": ["MiD"],
+      "biography": "Flying Officer Clyde Euan Miles Graham MiD, RAFVR, aged 23. Bailed out on the night of 23/24 September 1944. Current records do not confirm his fate; he may have been killed or captured. His status remains an open research question for this record."
+    },
+    {
+      "rank": "F/O",
+      "name": "William A. Rupert",
+      "service_number": "J27691",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Survived",
+      "fate_detail": "Bailed out of NF923 and survived.",
+      "biography": "Flying Officer William A. Rupert, RCAF. Canadian bomb aimer. Bailed out successfully and survived."
+    },
+    {
+      "rank": "F/O",
+      "name": "Ronald James Allen",
+      "service_number": "52101",
+      "age": 23,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Survived",
+      "fate_detail": "Bailed out of NF923 and survived.",
+      "decorations": ["DFC"],
+      "biography": "Flying Officer Ronald James Allen DFC, RAFVR, aged 23. Wireless Operator/Air Gunner. Bailed out successfully and survived."
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Peter Linn Whittaker",
+      "service_number": "1587036",
+      "age": 21,
+      "role": "Mid Upper Gunner",
+      "nationality": "British",
+      "fate": "Survived — evaded",
+      "fate_detail": "Bailed out and successfully evaded capture. Escaped a Gestapo encounter in February 1945 and was liberated 31 March 1945.",
+      "decorations": ["DFM"],
+      "biography": "Flight Sergeant Peter Linn Whittaker DFM, RAFVR, aged 21. Mid Upper Gunner. Successfully bailed out and evaded capture over the Netherlands. Evaded a Gestapo encounter in February 1945 and was liberated by Allied forces on 31 March 1945."
+    },
+    {
+      "rank": "F/O",
+      "name": "Reginald Herbert Petch",
+      "service_number": "50189",
+      "age": 26,
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Survived — evaded",
+      "fate_detail": "Bailed out and successfully evaded capture. Debriefed 11 April 1945.",
+      "decorations": ["DFC"],
+      "biography": "Flying Officer Reginald Herbert Petch DFC, RAFVR, aged 26. Rear Gunner. Successfully bailed out and evaded capture. Debriefed on return to Allied control on 11 April 1945."
+    }
+  ],
+  "memorial_details": "The memorial at Vordensebinnenweg, Lochem, was unveiled on 23 September 2024 — the 80th anniversary of the crash. RAF Squadron Leader Russel Howarth and RCAF Flight Sergeant Krista Semenchuk attended as service representatives, reflecting the RAF and RCAF crew. Local schoolchildren read poems at the ceremony. A herdenkingsroute (memorial route) has also been established in the surrounding area.",
+  "sources": [
+    {
+      "title": "CWGC — Lochem New General Cemetery",
+      "type": "official_database",
+      "url": "https://www.cwgc.org"
+    },
+    {
+      "title": "Aircrew Remembered — Stout, Geoffrey",
+      "type": "website",
+      "url": "https://aircrewremembered.com/stout-geoffrey.html"
+    },
+    {
+      "title": "Aviation Safety Net — wikibase/49939",
+      "type": "website",
+      "url": "https://aviation-safety.net/wikibase/49939"
+    },
+    {
+      "title": "Berkelbode — local newspaper coverage of the 2024 memorial unveiling",
+      "type": "news"
+    },
+    {
+      "title": "Facebook group: RAF Bomber Command Memorials",
+      "type": "social_media"
+    }
+  ],
+  "external_narratives": [
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/stout-geoffrey.html",
+      "summary": "Biographical and operational record for F/Lt Geoffrey Stout, pilot of NF923. Documents service details, crew composition, the circumstances of the loss on 23 September 1944, and burial location at Lochem.",
+      "key_details": [
+        "617 Squadron, RAF Woodhall Spa",
+        "Lancaster NF923 KC:M",
+        "Tallboy raid on Dortmund-Ems Canal aqueduct, Ladbergen",
+        "Attacked by Hptm Schnaufer (Stab IV./NJG1), his 96th victory",
+        "Stout remained at controls; crew ordered to bail out",
+        "Stout buried Lochem New General Cemetery Row 1 Grave 2"
+      ],
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Safety Net",
+      "original_url": "https://aviation-safety.net/wikibase/49939",
+      "summary": "Aviation Safety Net wikibase entry for the loss of Lancaster NF923 on 23 September 1944. Records aircraft type, unit, operational context, and crew fate summary.",
+      "key_details": [
+        "Lancaster Mk I, serial NF923",
+        "617 Squadron, RAF Woodhall Spa",
+        "Loss date 23 September 1944",
+        "Nightfighter interception on return from Ladbergen raid"
+      ],
+      "still_live": true
+    }
+  ],
+  "data_quality": "Partial",
+  "narrative_quality_score": 4,
+  "contributor": "Keith Binley",
+  "last_updated": "2026-10-15",
+  "photos": []
+}
