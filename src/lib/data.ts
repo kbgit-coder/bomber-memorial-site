@@ -2,33 +2,57 @@ import fs from 'fs';
 import path from 'path';
 import { Memorial } from './types';
 
-const memorialsDirectory = path.join(process.cwd(), 'public/data/memorials');
+const memorialsDirs = [
+  path.join(process.cwd(), 'public/data/memorials'),
+  path.join(process.cwd(), 'international-memorials'),
+  path.join(process.cwd(), 'ftr-memorials'),
+];
+
+// Primary directory used by generateStaticParams for static export paths
+export const primaryMemorialsDir = memorialsDirs[0];
 
 export function getAllMemorials(): Memorial[] {
-  const fileNames = fs.readdirSync(memorialsDirectory);
-  const memorials = fileNames
-    .filter((fileName) => fileName.endsWith('.json'))
-    .map((fileName) => {
-      const filePath = path.join(memorialsDirectory, fileName);
+  const memorials: Memorial[] = [];
+  for (const dir of memorialsDirs) {
+    if (!fs.existsSync(dir)) continue;
+    const fileNames = fs.readdirSync(dir);
+    for (const fileName of fileNames) {
+      if (!fileName.endsWith('.json') || fileName.startsWith('_')) continue;
+      const filePath = path.join(dir, fileName);
       const fileContents = fs.readFileSync(filePath, 'utf8');
-      return JSON.parse(fileContents) as Memorial;
-    });
-
+      const parsed = JSON.parse(fileContents);
+      if (parsed && typeof parsed === 'object' && !Array.isArray(parsed) && parsed.id) {
+        memorials.push(parsed as Memorial);
+      }
+    }
+  }
   return memorials.sort((a, b) => a.title.localeCompare(b.title));
 }
 
 export function getMemorialBySlug(slug: string): Memorial | undefined {
-  const filePath = path.join(memorialsDirectory, `${slug}.json`);
-  if (!fs.existsSync(filePath)) return undefined;
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  return JSON.parse(fileContents) as Memorial;
+  for (const dir of memorialsDirs) {
+    if (!fs.existsSync(dir)) continue;
+    const filePath = path.join(dir, `${slug}.json`);
+    if (fs.existsSync(filePath)) {
+      const fileContents = fs.readFileSync(filePath, 'utf8');
+      return JSON.parse(fileContents) as Memorial;
+    }
+  }
+  return undefined;
 }
 
 export function getAllMemorialSlugs(): string[] {
-  const fileNames = fs.readdirSync(memorialsDirectory);
-  return fileNames
-    .filter((fileName) => fileName.endsWith('.json'))
-    .map((fileName) => fileName.replace('.json', ''));
+  const slugs: string[] = [];
+  for (const dir of memorialsDirs) {
+    if (!fs.existsSync(dir)) continue;
+    const fileNames = fs.readdirSync(dir);
+    for (const fileName of fileNames) {
+      if (fileName.endsWith('.json')) {
+        slugs.push(fileName.replace('.json', ''));
+      }
+    }
+  }
+  return slugs;
 }
 
 export function getMemorialsByCountry(): Record<string, Memorial[]> {
