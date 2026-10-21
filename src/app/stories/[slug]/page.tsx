@@ -173,6 +173,22 @@ export default async function StoryPage({ params }: Props) {
         </div>
       )}
 
+      {/* Attribution */}
+      <div
+        style={{
+          padding: '1rem 1.5rem',
+          backgroundColor: '#f8f6f2',
+          borderLeft: '4px solid #8b7355',
+          borderRadius: '0 8px 8px 0',
+          marginBottom: '2rem',
+          fontSize: '0.95rem',
+          color: '#555',
+          fontStyle: 'italic',
+        }}
+      >
+        With sincere thanks to {story.author} for sharing their story.
+      </div>
+
       {/* Story content */}
       <article
         className="story-content"
