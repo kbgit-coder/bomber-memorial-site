@@ -120,6 +120,24 @@ export default function Header() {
             Search
           </Link>
           <Link
+            href="/stories"
+            onClick={() => trackNav("stories")}
+            style={{
+              color: "#c9b98a",
+              fontFamily: "'Helvetica Neue', Arial, sans-serif",
+              fontSize: "0.875rem",
+              textTransform: "uppercase",
+              letterSpacing: "0.1em",
+              textDecoration: "none",
+              opacity: 0.85,
+              minHeight: 44,
+              display: "inline-flex",
+              alignItems: "center",
+            }}
+          >
+            Stories
+          </Link>
+          <Link
             href="/insights"
             onClick={() => trackNav("insights")}
             style={{

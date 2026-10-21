@@ -90,6 +90,66 @@ button {
 }
 
 /* ============================================================
+   STORY CONTENT — Markdown-rendered article styles
+   ============================================================ */
+
+.story-content h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #e0dcd5;
+}
+
+.story-content h3 {
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.story-content p {
+  margin-bottom: 1.25rem;
+}
+
+.story-content blockquote {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  background-color: #f8f6f2;
+  border-left: 4px solid #8b7355;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: #444;
+}
+
+.story-content blockquote p {
+  margin-bottom: 0.5rem;
+}
+
+.story-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.story-content ul,
+.story-content ol {
+  margin-bottom: 1.25rem;
+  padding-left: 1.5rem;
+}
+
+.story-content li {
+  margin-bottom: 0.35rem;
+}
+
+.story-content strong {
+  color: #1a2332;
+}
+
+.story-content hr {
+  border: none;
+  border-top: 2px solid #e0dcd5;
+  margin: 2.5rem 0;
+}
+
+/* ============================================================
    PRINT STYLESHEET
    ============================================================ */
 

@@ -5,6 +5,7 @@ import {
   getNearbyMemorials,
   getRelatedMemorials,
 } from "@/lib/data";
+import { getStoriesForMemorial } from "@/lib/stories";
 import { getSquadronSlugForName } from "@/lib/squadrons";
 import CrewTable from "@/components/CrewTable";
 import StubCTA from "@/components/StubCTA";
@@ -97,6 +98,9 @@ export default function MemorialPage({ params }: Props) {
     Stub: { bg: "#5a3a1e", text: "#d4a88c", label: "STUB RECORD" },
   };
   const badge = qualityColour[memorial.data_quality as keyof typeof qualityColour] || qualityColour["Stub"];
+
+  // Related stories
+  const relatedStories = getStoriesForMemorial(params.slug);
 
   // Related memorials (same incident, different page)
   const relatedMemorials = getRelatedMemorials(params.slug);
@@ -613,6 +617,52 @@ export default function MemorialPage({ params }: Props) {
           </div>
         )}
       </section>
+
+      {/* Related Stories */}
+      {relatedStories.length > 0 && (
+        <section style={{ marginBottom: "2.5rem" }}>
+          <h2 style={sectionHeading}>
+            {relatedStories.length === 1 ? "Story" : "Stories"}
+          </h2>
+          <div style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+            {relatedStories.map((story) => (
+              <Link
+                key={story.slug}
+                href={`/stories/${story.slug}`}
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <div style={{
+                  backgroundColor: "#f8f6f2",
+                  borderLeft: "4px solid #8b7355",
+                  borderRadius: "0 8px 8px 0",
+                  padding: "1.25rem 1.5rem",
+                }}>
+                  <div style={{
+                    fontFamily: "'Helvetica Neue', Arial, sans-serif",
+                    color: "#1a2332",
+                    fontSize: "1rem",
+                    fontWeight: 600,
+                    marginBottom: "0.25rem",
+                  }}>
+                    {story.title}
+                  </div>
+                  {story.subtitle && (
+                    <div style={{ fontSize: "0.9rem", color: "#8b7355", fontStyle: "italic", marginBottom: "0.5rem" }}>
+                      {story.subtitle}
+                    </div>
+                  )}
+                  <div style={{ fontSize: "0.85rem", color: "#666", lineHeight: 1.5, marginBottom: "0.5rem" }}>
+                    {story.summary.length > 200 ? story.summary.slice(0, 200) + "..." : story.summary}
+                  </div>
+                  <div style={{ fontSize: "0.8rem", color: "#7a4500", fontWeight: 600, fontFamily: "'Helvetica Neue', Arial, sans-serif" }}>
+                    Read the full story &rarr;
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Documents / Downloads */}
       {memorial.documents && memorial.documents.length > 0 && (

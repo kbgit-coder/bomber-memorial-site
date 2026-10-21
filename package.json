@@ -12,12 +12,15 @@
     "sandcastle": "tsx .sandcastle/main.mts"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "maplibre-gl": "^5.22.0",
     "next": "14.2.35",
     "posthog-js": "^1.369.0",
     "react": "^18",
     "react-dom": "^18",
-    "recharts": "^3.8.1"
+    "recharts": "^3.8.1",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1"
   },
   "devDependencies": {
     "@ai-hero/sandcastle": "^0.5.12",

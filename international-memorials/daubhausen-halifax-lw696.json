@@ -18,8 +18,8 @@
   "cause_of_loss": "Shot down at about 00:40 on 31 March 1944 by Oberleutnant Martin Becker of NJG 6, flying a Messerschmitt Bf 110 G-4, during the Nuremberg raid — Bomber Command's costliest night of the war, with around 95 aircraft lost. The memorial's information panel names Becker (b. 12 April 1916 Wiesbaden, d. 8 February 2006), later Hauptmann commanding IV./NJG 6, as the victor. The bomber exploded in mid-air over Daubhausen.",
   "memorial_type": "Pavilion",
   "memorial_details": "A purpose-built pavilion at the edge of Daubhausen houses one of LW696's Bristol Hercules XVI engines — an air-cooled 14-cylinder twin-row radial of 1,637hp with sleeve-valve timing — which lay four metres deep in soft meadow ground for over sixty years. In 2003 a working group of wartime eyewitnesses (Horst Geiß, Prof. Dr. Friedhelm Kahn, Gerhard Müller and the late Karl Heinz Weimer) resolved to locate and recover it for the exhibition '60 Jahre danach — der Luftkrieg über unserer Heimat' (60 Years On — the Air War Over Our Homeland). The engine was raised on 16 July 2005 with the help of the Manfred Küster firm of Werdorf; Dieter Huttel of Kölschhausen made the display stand, and Ulrich and Wolfgang Clößner of Clößner GmbH Maschinenbau, Daubhausen, built the pavilion for its long-term display. The bilingual information panel, with photographs of the Halifax, the Bf 110, Sgt Edwards and Oblt Becker, was inaugurated on 31 March 2007, the 63rd anniversary of the crash.",
-  "crew_summary": "Sole survivor Sgt Guy Leonard Edwards, air gunner, escaped by parachute and was taken prisoner of war. The pilot, S/L Kenneth Arthur Clack DFM, and the rest of the crew were killed and are buried in a collective grave at Hanover War Cemetery (5.J.5-11). The memorial panel states eight were aboard; the standard Halifax crew was seven, and the names of those killed beyond S/L Clack have not yet been recovered from open sources.",
-  "narrative": "On the night of 30/31 March 1944, Halifax LW696 (MP-X) of 76 Squadron left RAF Holme-on-Spalding-Moor for Nuremberg. The raid became the worst single night in Bomber Command's history: bright moonlight on the long straight leg across Hesse gave the German nightfighters their most destructive night of the war. At about 00:40, over the village of Daubhausen, LW696 was attacked and set on fire by Oberleutnant Martin Becker of NJG 6 in a Bf 110. The bomber exploded in the air with its full load aboard — around fifty 15kg high-explosive bombs and over five hundred magnesium incendiaries. Wreckage fell just north and east of the village; the only building hit was the Kunz family's barn, which burned down. The village itself, as its memorial panel records, 'escaped catastrophe by the narrowest of margins'.\n\nOne man escaped the aircraft: air gunner Sgt Guy Leonard Edwards, who parachuted to safety and spent the rest of the war as a prisoner. The pilot, Squadron Leader Kenneth Arthur Clack DFM of Harrow Weald, Middlesex, was killed at just 21 and lies with his crew in a collective grave at Hanover War Cemetery. His headstone reads: 'Age 21 / All he had, / All he hoped, he gave.'\n\nSixty years later the villagers went looking for the aircraft. One of its Hercules engines had buried itself four metres deep in a meadow and resisted early recovery attempts; a working group of eyewitnesses located and raised it in July 2005, and local firms built the pavilion where it now sits. In 2026 Sgt Edwards's daughter contacted the Register with his original flight logbook, which names the crew he flew with that night — research to complete the crew list continues.",
+  "crew_summary": "Eight men were aboard. Seven were killed; Sgt Guy Leonard Edwards, the mid-upper gunner, was the sole survivor, escaping by parachute and taken prisoner. The seven killed are buried together in a collective grave at Hanover War Cemetery (5.J.5-11). The full crew was identified in October 2026 from the survivor's flight logbook (held by his daughter) and cross-verified against CWGC/FindAGrave burial records. The crew included two Canadians (RCAF) and, by coincidence, two unrelated men named Edwards.",
+  "narrative": "On the night of 30/31 March 1944, Halifax LW696 (MP-X) of 76 Squadron left RAF Holme-on-Spalding-Moor for Nuremberg. The raid became the worst single night in Bomber Command's history: bright moonlight on the long straight leg across Hesse gave the German nightfighters their most destructive night of the war. At about 00:40, over the village of Daubhausen, LW696 was attacked and set on fire by Oberleutnant Martin Becker of NJG 6 in a Bf 110. The bomber exploded in the air with its full load aboard — around fifty 15kg high-explosive bombs and over five hundred magnesium incendiaries. Wreckage fell just north and east of the village; the only building hit was the Kunz family's barn, which burned down. The village itself, as its memorial panel records, 'escaped catastrophe by the narrowest of margins'.\n\nOne man escaped the aircraft: air gunner Sgt Guy Leonard Edwards, who parachuted to safety and spent the rest of the war as a prisoner. The pilot, Squadron Leader Kenneth Arthur Clack DFM of Harrow Weald, Middlesex, was killed at just 21 and lies with his crew in a collective grave at Hanover War Cemetery. His headstone reads: 'Age 21 / All he had, / All he hoped, he gave.'\n\nSixty years later the villagers went looking for the aircraft. One of its Hercules engines had buried itself four metres deep in a meadow and resisted early recovery attempts; a working group of eyewitnesses located and raised it in July 2005, and local firms built the pavilion where it now sits.\n\nIn October 2026, Edwards's daughter Jackie Simpson contacted the Register. She holds his original flight logbook, which names the crew aboard that night. She shared what her father had carried for the rest of his life: the day after he was shot down, the Germans brought him back to the crash site to identify his friends. The crew had only one parachute between them, and they gave it to him because he was the youngest, just twenty years old. The carrier pigeon that all bombers carried also died. Edwards survived the war but, his daughter says, the memories haunted him. He died in October 2006, a year before the village inaugurated the memorial pavilion.",
   "crew": [
     {
       "rank": "S/L",
@@ -28,17 +28,89 @@
       "age": 21,
       "role": "Pilot",
       "nationality": "British",
+      "service": "RAFVR",
       "fate": "Killed",
       "hometown": "Harrow Weald, Middlesex",
-      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11"
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "Richard Keith Thomson",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "service": "RCAF",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/O",
+      "name": "David Clifford Nowell",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "service": "RAF",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "P/O",
+      "name": "Douglas Hinton Edwards",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "service": "RAFVR",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "WO II",
+      "name": "Roy Edwards Mogalki",
+      "age": 23,
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "service": "RCAF",
+      "service_number": "R/155573",
+      "fate": "Killed",
+      "hometown": "Lake Alma, Saskatchewan",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "Keith James Shropshall",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "service": "RAFVR",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leslie Wilfred Arthur Peall",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "service": "RAFVR",
+      "fate": "Killed",
+      "burial_location": "Hanover War Cemetery, collective grave 5.J.5-11",
+      "cwgc_verified": true
     },
     {
       "rank": "Sgt",
       "name": "Guy Leonard Edwards",
-      "role": "Air Gunner",
+      "role": "Mid-Upper Gunner",
       "nationality": "British",
+      "service": "RAF",
       "fate": "POW",
-      "burial_location": ""
+      "age": 20,
+      "date_of_birth": "1923-11-05",
+      "date_of_death": "2006-10",
+      "burial_location": "",
+      "cwgc_verified": false,
+      "logbook_verified": true,
+      "family_testimony": "His daughter Jackie Simpson (nee Edwards) contacted the Register in October 2026 holding his original flight logbook. She wrote: 'Dad passed away in October 2006. It's sad he didn't get to see it but maybe for the best as I know the memories haunted him. The day after he was shot down the Germans brought him back to his crash site to identify all his friends. The pigeon all bombers carried also died. The crew only had one parachute which they gave him as he was only 20.'"
     }
   ],
   "sources": [
@@ -68,10 +140,26 @@
       "type": "family"
     }
   ],
-  "data_quality": "Partial",
+  "data_quality": "Comprehensive",
   "contributor": "Keith Binley, Bomber Command Memorial Register",
   "last_updated": "2026-10-15",
-  "community_connection": "The memorial exists because Daubhausen's own eyewitnesses built it: the 2003 working group of villagers who remembered the night located the buried engine, and local firms recovered, mounted and housed it. The panel was inaugurated on the 63rd anniversary of the crash. In October 2026 the sole survivor's family contacted the Register, holding his original flight logbook naming the crew — a living link between the village that remembers the aircraft and the family of the one man who walked away from it.",
-  "photos": [],
+  "community_connection": "The memorial exists because Daubhausen's own eyewitnesses built it. In 2003 a working group of villagers who remembered the night as children resolved to find the buried engine. Local firms raised it, built the display stand, and constructed the pavilion. The bilingual panel was inaugurated on 31 March 2007, the 63rd anniversary. In October 2026 the sole survivor's daughter contacted the Register holding his original flight logbook. Her father, Sgt Guy Edwards, was twenty years old when his crew gave him their only parachute. He survived the war but never escaped the memory. He died in October 2006, one year before the village unveiled the pavilion. The logbook names the crew he flew with that night. A German village that built a memorial from living memory, and a British family that carried the same night for eighty years, are now connected through this page.",
+  "photos": [
+    {
+      "filename": "daubhausen-halifax-lw696/edwards-logbook-march-1944-nuremberg-missing.jpeg",
+      "caption": "Sgt Edwards's flight logbook, March 1944. The final entry reads: 'OPS: NUREMBURG MISSING'",
+      "credit": "Jackie Simpson (nee Edwards), family collection"
+    },
+    {
+      "filename": "daubhausen-halifax-lw696/edwards-logbook-76sqn-mid-gunner.jpeg",
+      "caption": "Earlier logbook entries showing Edwards flying as mid-upper gunner with 76 Squadron, including operations with pilots Kempster and Greenacre",
+      "credit": "Jackie Simpson (nee Edwards), family collection"
+    },
+    {
+      "filename": "daubhausen-halifax-lw696/edwards-logbook-operations.jpeg",
+      "caption": "Logbook page recording operations to Dusseldorf, Berlin, and Stuttgart in the months before the Nuremberg raid",
+      "credit": "Jackie Simpson (nee Edwards), family collection"
+    }
+  ],
   "external_narratives": []
 }
