@@ -6,7 +6,7 @@
   "country": "Netherlands",
   "crash_date": "1942-03-26",
   "aircraft_type": "Stirling",
-  "serial_number": null,
+  "serial_number": "",
   "squadron": "7 Sqn",
   "station": "Oakington",
   "crew_summary": "7 crew — all killed",
@@ -42,5 +42,7 @@
       "name": "Robert de Vries",
       "permission_note": "with permission"
     }
-  ]
+  ],
+  "external_narratives": [],
+  "what3words": ""
 }
