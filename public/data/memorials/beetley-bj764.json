@@ -44,7 +44,8 @@
       "bio": "Foltz was a 26-year-old American from New York City who had volunteered to serve with the Royal Canadian Air Force. He heroically flew the badly damaged aircraft back across the North Sea after two crew had bailed out.",
       "hometown": "New York City, USA",
       "age": 26,
-      "service_number": "R/79246"
+      "service_number": "R/79246",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Foltz&Forename=Raymond%20Rogers&ServiceNum=R/79246"
     },
     {
       "rank": "F/O",
@@ -55,7 +56,8 @@
       "fate_detail": "Killed in the crash at Beetley after the damaged aircraft failed to land safely.",
       "cwgc_verified": true,
       "service_number": "RCAF",
-      "nationality": "Canadian"
+      "nationality": "Canadian",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Cartwright&Initials=GS"
     },
     {
       "rank": "Sgt",
@@ -65,7 +67,8 @@
       "fate": "Killed",
       "fate_detail": "One of two additional crew killed in the crash at Beetley.",
       "cwgc_verified": false,
-      "nationality": "Canadian"
+      "nationality": "Canadian",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=3&Forename=Unknown%20crew%20member"
     },
     {
       "rank": "Sgt",
@@ -86,17 +89,20 @@
       "fate_detail": "Bailed out over the Netherlands with Sgt Delorme. Became a prisoner of war and held at Stalag Luft Heydekrug.",
       "cwgc_verified": false,
       "service_number": "R/119711",
-      "nationality": "Canadian"
+      "nationality": "Canadian",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Pambrun&Initials=JRA&ServiceNum=R/119711"
     },
     {
       "name": "R. N. V. Burke",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Burke&Initials=RNV"
     },
     {
       "name": "J. E. R. Laporte",
       "fate": "Killed",
-      "rank": "—"
+      "rank": "—",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Laporte&Initials=JER"
     }
   ],
   "latitude": 52.72843,

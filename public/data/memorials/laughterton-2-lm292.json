@@ -16,10 +16,15 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "IBCC Losses Database",
+      "url": "https://losses.internationalbcc.co.uk/",
+      "type": "official_database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-10-24",
   "data_quality": "Partial",
   "latitude": 53.27475331864182,
   "longitude": -0.7449671407874179,
@@ -152,5 +157,31 @@
   "community_connection": "The Laughterton Historic Society researches and documents the EH940 and LM292 crashes.",
   "memorial_details": "The memorial was unveiled on the 16th July 1994 by the side of the A1133 and a unclassified road, erected by the local community.\n\nMemorial Display: A display featuring Short Stirling EH940 and Avro Lancaster LM292 aircraft from World War II.",
   "crash_category": "unknown",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "George Chahoon Brown",
+      "role": "Pilot",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Brown&Forename=George%20Chahoon&ServiceNum=J/28528",
+      "service_number": "J/28528",
+      "nationality": "Canadian",
+      "age": 20,
+      "burial_location": "Harrogate (Stonefall) Cemetery, Sec. E. Row A. Grave 12."
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Corless",
+      "role": "Flight engineer",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Corless&Forename=John&ServiceNum=613736",
+      "service_number": "613736",
+      "nationality": "British",
+      "age": 24,
+      "burial_location": "Runnymede Memorial, Panel 227."
+    }
+  ]
 }

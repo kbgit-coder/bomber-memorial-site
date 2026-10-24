@@ -16,10 +16,15 @@
     {
       "title": "Geograph East Anglia WW2 Aircrew Crash Memorials",
       "type": "website"
+    },
+    {
+      "title": "IBCC Losses Database",
+      "url": "https://losses.internationalbcc.co.uk/",
+      "type": "official_database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-10-24",
   "data_quality": "Comprehensive",
   "latitude": 53.130941,
   "longitude": -0.632355,
@@ -102,5 +107,91 @@
   "narrative": "In the early hours of 5 November 1944, Stirling EH977 'Z' of 1660 Heavy Conversion Unit departed RAF Swinderby on a night training flight. One engine failed in the air. In the confusion that followed — possibly due to crew inexperience — a functioning engine was shut down by mistake rather than the failed one. With two engines out, the aircraft lost control and came down near Bassingham Fen at approximately 02:40 hrs. All seven crew were killed. P/O Robert James Chalmers, the pilot, had joined 1660 HCU only a month earlier, on 2 October 1944.",
   "community_connection": "A memorial plaque at Linga Lane, Bassingham Fen, Lincoln LN5 9LD England remembers the crew of 1660 HCU Stirling EH977 'Z'.",
   "crash_category": "training",
-  "narrative_quality_score": 4
+  "narrative_quality_score": 4,
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Neville Urbane Bibb",
+      "role": "Air Bomber",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Bibb&Forename=Neville%20Urbane&ServiceNum=154627",
+      "service_number": "154627",
+      "nationality": "British",
+      "age": 21,
+      "burial_location": "Cambridge City Cemetery, Grave 15323."
+    },
+    {
+      "rank": "P/O",
+      "name": "Robert James Chalmers",
+      "role": "Pilot",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Chalmers&Forename=Robert%20James&ServiceNum=428296",
+      "service_number": "428296",
+      "nationality": "Australian",
+      "age": 20,
+      "burial_location": "Cambridge City Cemetery, Grave 15325."
+    },
+    {
+      "rank": "F/S",
+      "name": "Kevin James Gerathy",
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Gerathy&Forename=Kevin%20James&ServiceNum=420873",
+      "service_number": "420873",
+      "nationality": "Australian",
+      "age": 21,
+      "burial_location": "Cambridge City Cemetery, Grave 15324."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Michael Arthur Rand",
+      "role": "Flight Engineer",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Rand&Forename=Michael%20Arthur&ServiceNum=1880956",
+      "service_number": "1880956",
+      "nationality": "British",
+      "age": 19,
+      "burial_location": "Morden Cemetery, Sec. S.B. Grave 1991."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Walter Barton Telford",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Telford&Forename=Walter%20Barton&ServiceNum=2212933",
+      "service_number": "2212933",
+      "nationality": "British",
+      "age": 19,
+      "burial_location": "Manchester (Philips Park) Cemetery, Sec. D. Nonconformist. Grave 178."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney Frederick Weedon",
+      "role": "Navigator",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Weedon&Forename=Sidney%20Frederick&ServiceNum=1604605",
+      "service_number": "1604605",
+      "nationality": "British",
+      "age": 35,
+      "burial_location": "Reading (Henley Road) Cemetery, Block 5. Grave 9087."
+    },
+    {
+      "rank": "Sgt",
+      "name": "Wilfred Fitton Whalley",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Whalley&Forename=Wilfred%20Fitton&ServiceNum=2218734",
+      "service_number": "2218734",
+      "nationality": "British",
+      "age": 23,
+      "burial_location": "Thurlby (St. Germain) Churchyard, Grave C.7."
+    }
+  ]
 }

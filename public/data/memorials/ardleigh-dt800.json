@@ -99,53 +99,53 @@
   "narrative": "Halifax II DT800, operating with 102 (Ceylon) Squadron from RAF Pocklington, came down at Ardleigh, Essex on 25 February 1943. Eight of those aboard were killed, among them the pilot, Flight Sergeant Charles Henry Bray. Also lost were Pilot Officer DWF Harper, Navigator; Flight Sergeant WJ McGrath, Flight Engineer; Sergeant FW Dorrington, Wireless Operator; Sergeant J King, Air Gunner; and Sergeant MCC Squiers, Air Gunner.",
   "community_connection": "The memorial is maintained by Ardleigh Parish Council. A commemoration event, 'Aircraft Exploded', was held on 12th May 1943.",
   "remembrance": {
-    "events": [
-      {
-        "name": "Memorial Unveiling",
-        "date": "2018",
-        "description": "Memorial to the crew of Halifax DT800 unveiled at Ardleigh, 75 years after the crash."
-      }
-    ]
+    "events": []
   },
   "crew": [
     {
       "name": "J King",
       "rank": "Sergeant",
       "fate": "Killed",
-      "role": "Air Gunner"
+      "role": "Air Gunner",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=King&Initials=J"
     },
     {
       "name": "FW Dorrington",
       "rank": "Sergeant",
       "fate": "Killed",
-      "role": "Wireless Operator"
+      "role": "Wireless Operator",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Dorrington&Initials=FW"
     },
     {
       "name": "DWF Harper",
       "rank": "Pilot Officer",
       "fate": "Killed",
-      "role": "Navigator"
+      "role": "Navigator",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Harper&Initials=DWF"
     },
     {
       "name": "WJ McGrath",
       "rank": "Flight Sergeant",
       "fate": "Killed",
-      "role": "Flight Engineer"
+      "role": "Flight Engineer",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=McGrath&Initials=WJ"
     },
     {
       "name": "MCC Squiers",
       "rank": "Sergeant",
       "fate": "Killed",
-      "role": "Air Gunner"
+      "role": "Air Gunner",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Squiers&Initials=MCC"
     },
     {
       "name": "Charles Henry Bray",
       "rank": "Flight Sergeant",
       "fate": "Killed",
-      "role": "Pilot"
+      "role": "Pilot",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Bray&Forename=Charles%20Henry"
     }
   ],
-  "memorial_details": "Monument to the crew of Halifax DT800, unveiled at Ardleigh in 2018, 75 years after the crash. Maintained by Ardleigh Parish Council.",
+  "memorial_details": "Monument to the crew of Halifax DT800, unveiled at Ardleigh in 2018, 75 years after the crash. Maintained by Ardleigh Parish Council.\n\nMemorial Unveiling (2018): Memorial to the crew of Halifax DT800 unveiled at Ardleigh, 75 years after the crash.",
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
   "narrative_source": "generated-claude-sonnet",

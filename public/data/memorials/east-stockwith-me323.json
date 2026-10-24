@@ -16,10 +16,15 @@
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "IBCC Losses Database",
+      "url": "https://losses.internationalbcc.co.uk/",
+      "type": "official_database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-10-24",
   "data_quality": "Partial",
   "latitude": 53.4407,
   "longitude": -0.8141,
@@ -81,5 +86,91 @@
   "narrative_quality_score": 0,
   "narrative": "Lancaster ME323, coded PH-P and operating from Wickenby with 12 Squadron, was brought down during Operation Gisela on the night of 4 March 1945. Operation Gisela saw German night fighters infiltrate returning RAF bomber streams over England, attacking aircraft as they descended toward their home airfields. The Lancaster came down at East Stockwith, Lincolnshire, the result of enemy action rather than any failure of crew or machine. All seven men aboard were killed, among them the pilot, Pilot Officer Arthur Glyndwyr Thomas. No member of the crew survived. A memorial at East Stockwith today marks the place where they fell.",
   "narrative_source": "generated-claude-sonnet",
-  "community_connection": "The memorial is maintained by East Stockwith Parish Council."
+  "community_connection": "The memorial is maintained by East Stockwith Parish Council.",
+  "crew": [
+    {
+      "rank": "F/S",
+      "name": "Alan Cryer",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Cryer&Forename=Alan&ServiceNum=436545",
+      "service_number": "436545",
+      "nationality": "Australian",
+      "age": 21,
+      "burial_location": "Cambridge City Cemetery, Grave 15107."
+    },
+    {
+      "rank": "F/S",
+      "name": "George Edward Davis",
+      "role": "Wireless Operator/Air Gunner",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Davis&Forename=George%20Edward&ServiceNum=437781",
+      "service_number": "437781",
+      "nationality": "Australian",
+      "age": 20,
+      "burial_location": "Cambridge City Cemetery"
+    },
+    {
+      "rank": "F/S",
+      "name": "Ronald Leslie Horstmann",
+      "role": "Navigator",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Horstmann&Forename=Ronald%20Leslie&ServiceNum=429960",
+      "service_number": "429960",
+      "nationality": "Australian",
+      "age": 22,
+      "burial_location": "Cambridge City Cemetery, Grave 15103."
+    },
+    {
+      "rank": "F/S",
+      "name": "Thomas McCaffray",
+      "role": "Flight engineer",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=McCaffray&Forename=Thomas&ServiceNum=1343393",
+      "service_number": "1343393",
+      "nationality": "British",
+      "age": 27,
+      "burial_location": "Vale of Leven (Or Bonhill) Cemetery, Sec. C2. Grave 243."
+    },
+    {
+      "rank": "F/S",
+      "name": "Walter Noel Pridmore",
+      "role": "Air Bomber",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Pridmore&Forename=Walter%20Noel&ServiceNum=429832",
+      "service_number": "429832",
+      "nationality": "Australian",
+      "age": 21,
+      "burial_location": "Cambridge City Cemetery, Grave 15106."
+    },
+    {
+      "rank": "P/O",
+      "name": "Arthur Glyndwyr Thomas",
+      "role": "Pilot",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Thomas&Forename=Arthur%20Glyndwyr&ServiceNum=56400",
+      "service_number": "56400",
+      "nationality": "British",
+      "age": 23,
+      "burial_location": "Port Talbot (Holy Cross) Churchyard, New after Old. Row 7. Grave 27."
+    },
+    {
+      "rank": "F/S",
+      "name": "Alexander Harold Weston",
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Weston&Forename=Alexander%20Harold&ServiceNum=419718",
+      "service_number": "419718",
+      "nationality": "Australian",
+      "age": 22,
+      "burial_location": "Cambridge City Cemetery, Grave 15104."
+    }
+  ]
 }

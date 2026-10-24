@@ -150,42 +150,48 @@
       "rank": "P/O",
       "fate": "Killed",
       "role": "Pilot",
-      "age": 28
+      "age": 28,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Dunlop&Forename=Guy%20Rerenui"
     },
     {
       "name": "Patrick Joseph Vincent Browne",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Flight Engineer",
-      "age": 20
+      "age": 20,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Browne&Forename=Patrick%20Joseph%20Vincent"
     },
     {
       "name": "Peter John Hill",
       "rank": "Fl/Sgt",
       "fate": "Killed",
       "role": "Navigator",
-      "age": 22
+      "age": 22,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Hill&Forename=Peter%20John"
     },
     {
       "name": "Albert John Evans BEM",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Bomb Aimer",
-      "age": 26
+      "age": 26,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Evans&Forename=Albert%20John"
     },
     {
       "name": "Richard Ludgvan Staples",
       "rank": "Fl/Sgt",
       "fate": "Killed",
       "role": "Wireless Operator",
-      "age": 23
+      "age": 23,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Staples&Forename=Richard%20Ludgvan"
     },
     {
       "name": "William Fordyce Cairns",
       "rank": "Sgt",
       "fate": "Killed",
       "role": "Air Gunner",
-      "age": 19
+      "age": 19,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Cairns&Forename=William%20Fordyce"
     },
     {
       "name": "Peter John",
@@ -202,7 +208,8 @@
       "rank": "Pilot Officer",
       "fate": "Killed",
       "role": "Pilot",
-      "nationality": "New Zealander"
+      "nationality": "New Zealander",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Dunlop&Initials=GR"
     }
   ],
   "crash_category": "training",

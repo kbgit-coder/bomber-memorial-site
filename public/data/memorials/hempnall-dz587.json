@@ -16,10 +16,15 @@
     {
       "title": "Geograph Norfolk",
       "type": "website"
+    },
+    {
+      "title": "IBCC Losses Database",
+      "url": "https://losses.internationalbcc.co.uk/",
+      "type": "official_database"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-10-24",
   "data_quality": "Partial",
   "latitude": 52.5013169,
   "longitude": 1.2974992,
@@ -126,5 +131,31 @@
     "https://media.iwm.org.uk/ciim5/53/770/large_000000.jpg",
     "https://media.iwm.org.uk/ciim5/780/216/large_CH_018010_1.jpg"
   ],
-  "community_connection": "The memorial is maintained by Hempnall Parish Council."
+  "community_connection": "The memorial is maintained by Hempnall Parish Council.",
+  "crew": [
+    {
+      "rank": "F/L",
+      "name": "John Gordon",
+      "role": "Pilot",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Gordon&Forename=John&ServiceNum=86721",
+      "service_number": "86721",
+      "nationality": "British",
+      "age": 25,
+      "burial_location": "Kileanan Burial Grouynd, Near N.W. corner."
+    },
+    {
+      "rank": "F/O",
+      "name": "Ralph Gamble Hayes",
+      "role": "Navigator",
+      "fate": "Killed",
+      "cwgc_verified": false,
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Hayes&Forename=Ralph%20Gamble&ServiceNum=120087",
+      "service_number": "120087",
+      "nationality": "British",
+      "age": 22,
+      "burial_location": "Putney Vale Crematorium and Cemetery, Block U. Grave 327."
+    }
+  ]
 }
