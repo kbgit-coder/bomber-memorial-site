@@ -1,0 +1,60 @@
+{
+  "id": "rance-halifax-jd262-lk884",
+  "title": "Rance Halifax Memorial",
+  "location_name": "Rance, Hainaut, Belgium",
+  "county": "Hainaut",
+  "country": "Belgium",
+  "memorial_type": "Memorial sculpture",
+  "memorial_details": "Memorial sculpture near the village of Rance, Hainaut, remembering three local wartime crashes. Two are Bomber Command losses.",
+  "narrative": "The memorial at Rance, Hainaut, commemorates two 51 Squadron and 431 (RCAF) Squadron Halifax losses as well as a third (non-Bomber Command) crash.\n\nHalifax JD262 of 51 Squadron, coded MH-E, departed Snaith at 2327 on 3 July 1943 for Cologne. It was shot down at 0240 by Oberleutnant Ludwig Meister of Stab I/NJG4, his 11th claim. Five crew were killed; one became a prisoner of war; one evaded.\n\nHalifax LK884 of 431 (RCAF) Squadron, coded SE-X, departed Croft at 0107 on 9 May 1944 for Haine-Saint-Pierre. It was intercepted at 3000m in the Charleroi–Nivelles area by Unteroffizier Konrad Beyer of 1/NJG1 and shot down at 0331, his fourth claim. All seven crew were killed.",
+  "aircraft": [
+    {
+      "aircraft_type": "Halifax",
+      "serial_number": "JD262",
+      "aircraft_code": "MH-E",
+      "squadron": "51 Sqn",
+      "station": "Snaith",
+      "crash_date": "1943-07-04",
+      "cause_of_loss": "Shot down by night fighter — Oblt Ludwig Meister (Stab I/NJG4), his 11th claim",
+      "crew_summary": "7 crew — 5 killed, 1 POW, 1 evaded",
+      "operation_type": "Bombing — Cologne"
+    },
+    {
+      "aircraft_type": "Halifax",
+      "serial_number": "LK884",
+      "aircraft_code": "SE-X",
+      "squadron": "431 (RCAF) Sqn",
+      "station": "Croft",
+      "crash_date": "1944-05-09",
+      "cause_of_loss": "Shot down by night fighter — Uffz Konrad Beyer (1/NJG1), his 4th claim",
+      "crew_summary": "7 crew — all killed",
+      "operation_type": "Bombing — Haine-Saint-Pierre"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 4 and Vol. 5",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: 1943 Part 2 and 1944 Part 2",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4558810321022218/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Sébastien Lorsignol",
+      "permission_note": "with permission"
+    }
+  ]
+}

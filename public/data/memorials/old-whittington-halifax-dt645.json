@@ -1,0 +1,53 @@
+{
+  "id": "old-whittington-halifax-dt645",
+  "title": "Old Whittington Halifax Memorial",
+  "location_name": "St Bartholomew's Church, Old Whittington, Derbyshire",
+  "county": "Derbyshire",
+  "country": "United Kingdom",
+  "crash_date": "1943-05-13",
+  "aircraft_type": "Halifax",
+  "serial_number": "DT645",
+  "aircraft_code": "MH-B",
+  "squadron": "51 Sqn",
+  "station": "Snaith",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Stained-glass window",
+  "memorial_details": "Stained-glass window to F/S D. Crofton-Smith, KIA 13 May 1943, in St Bartholomew's Church, Old Whittington, Derbyshire.",
+  "narrative": "Halifax DT645 of 51 Squadron, coded MH-B, departed Snaith at 2332 on 12 May 1943 for Duisburg. The aircraft was intercepted at 6000m by Oberleutnant Lothar Linke of 12/NJG1 and shot down at 0202, his 25th claim. Flight Sergeant D. Crofton-Smith, KIA 13 May 1943, is commemorated in the stained-glass window at St Bartholomew's Church, Old Whittington.",
+  "cause_of_loss": "Shot down by night fighter — Oblt Lothar Linke (12/NJG1), his 25th claim",
+  "operation_type": "Bombing — Duisburg",
+  "crew": [
+    {
+      "rank": "F/S",
+      "name": "D. Crofton-Smith",
+      "role": "Crew",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 4",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: 1943 Part 2",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4419161281653790/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Alan Napier",
+      "permission_note": "with permission"
+    }
+  ]
+}

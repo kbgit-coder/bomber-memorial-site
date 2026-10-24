@@ -1,0 +1,41 @@
+{
+  "id": "goudhurst-halifax-w7866",
+  "title": "Goudhurst Halifax Memorial",
+  "location_name": "St Mary's Church, Goudhurst, Kent",
+  "county": "Kent",
+  "country": "United Kingdom",
+  "crash_date": "1944-02-25",
+  "aircraft_type": "Halifax",
+  "serial_number": "W7866",
+  "squadron": "1662 HCU",
+  "station": "Blyton",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Church organ plaque",
+  "memorial_details": "Small plaque on the church organ to Sgt M.A. Bowles, inside St Mary's Church, Goudhurst, Kent.",
+  "narrative": "Halifax W7866 of 1662 Heavy Conversion Unit departed Blyton on 25 February 1944. The loss is recorded in Chorley's Bomber Command Losses Vol. 7. Sgt M.A. Bowles of Goudhurst is commemorated on a small plaque on the church organ at St Mary's Church.",
+  "operation_type": "Training",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "M.A. Bowles",
+      "role": "Crew",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 7",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4499088133661104/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub"
+}

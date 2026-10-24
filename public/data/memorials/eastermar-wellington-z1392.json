@@ -1,0 +1,81 @@
+{
+  "id": "eastermar-wellington-z1392",
+  "title": "Eastermar Wellington Memorial",
+  "location_name": "Eastermar, Friesland, Netherlands",
+  "county": "Friesland",
+  "country": "Netherlands",
+  "crash_date": "1943-02-03",
+  "aircraft_type": "Wellington",
+  "serial_number": "Z1392",
+  "squadron": "Likely 300 or 305 Sqn (from Hemswell)",
+  "station": "Hemswell",
+  "crew_summary": "5 crew — 4 Polish crew killed, 1 survived seriously injured",
+  "memorial_type": "Weathering-steel memorial panel",
+  "memorial_details": "Weathering-steel memorial panel, unveiled Saturday 28 March 2026. The memorial has been adopted by the local primary school.",
+  "narrative": "Wellington Z1392 departed Hemswell on 3 February 1943 and was shot down by a Bf 110 F-4 of NJG1 from Leeuwarden, piloted by Oberleutnant Alois Ott. Four Polish crew were killed: Edward Lesisz (navigator/observer, aged 32), Henryk Leon Gzell (bomb aimer, aged 22), Alfons Kowalski (wireless operator, aged 23), and Bernard Kozlowski (rear gunner, aged 28). The pilot, Mieczysław Seredyn (aged 22), was the sole survivor; he was seriously injured, reached Drogeham, and was treated by a pro-German GP who handed him to the occupying forces.\n\nThe memorial was unveiled on 28 March 2026 and adopted by the local primary school at Eastermar.",
+  "cause_of_loss": "Shot down by Bf 110 F-4 of NJG1 (Leeuwarden), pilot Oblt Alois Ott",
+  "operation_type": "Bombing",
+  "crew": [
+    {
+      "rank": "—",
+      "name": "Mieczysław Seredyn",
+      "nationality": "Polish",
+      "role": "Pilot",
+      "age": 22,
+      "fate": "Survived — seriously injured; captured"
+    },
+    {
+      "rank": "—",
+      "name": "Edward Lesisz",
+      "nationality": "Polish",
+      "role": "Navigator/Observer",
+      "age": 32,
+      "fate": "Killed"
+    },
+    {
+      "rank": "—",
+      "name": "Henryk Leon Gzell",
+      "nationality": "Polish",
+      "role": "Bomb Aimer",
+      "age": 22,
+      "fate": "Killed"
+    },
+    {
+      "rank": "—",
+      "name": "Alfons Kowalski",
+      "nationality": "Polish",
+      "role": "Wireless Operator",
+      "age": 23,
+      "fate": "Killed"
+    },
+    {
+      "rank": "—",
+      "name": "Bernard Kozlowski",
+      "nationality": "Polish",
+      "role": "Rear Gunner",
+      "age": 28,
+      "fate": "Killed"
+    }
+  ],
+  "community_connection": "The memorial was adopted by the local primary school at Eastermar. Researcher Simon Bosma is seeking crew relatives.",
+  "local_contacts": [
+    {
+      "org_name": "Simon Bosma",
+      "org_type": "researcher",
+      "role": "Local researcher; posted about the memorial and is seeking relatives of the Polish crew"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "notes": "Squadron (likely 300 or 305 Sqn from Hemswell) not stated in post — verify.",
+  "sources": [
+    {
+      "title": "Simon Bosma (RAF Bomber Command Memorials Facebook group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4574018576168059/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Simon Bosma (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial"
+}

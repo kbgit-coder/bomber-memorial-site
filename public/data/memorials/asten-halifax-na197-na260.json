@@ -1,0 +1,60 @@
+{
+  "id": "asten-halifax-na197-na260",
+  "title": "Asten Free French Halifax Memorial",
+  "location_name": "Asten, Noord-Brabant, Netherlands (roadside)",
+  "county": "Noord-Brabant",
+  "country": "Netherlands",
+  "crash_date": "1945-02-07",
+  "memorial_type": "Roadside sculpture",
+  "memorial_details": "Roadside sculpture to Free French airmen of two losses, 347 'Tunisie' Squadron, at Asten, Noord-Brabant.",
+  "narrative": "The memorial at Asten commemorates two aircraft of 347 'Tunisie' Squadron (Free French Air Force), both lost on the night of 7 February 1945 on the operation to Goch.\n\nHalifax NA197, coded L8-H, departed Elvington at 1859. It possibly crashed at Veluwe after being shot down by Oberleutnant Georg Fengler of 10/NJG1, his 11th and 12th claims. Three crew were killed, two with no known grave.\n\nHalifax NA260, coded L8-G, departed Elvington at 1857. It crashed at Asten. All six crew were killed; the sole survivor parachuted into Allied territory.",
+  "aircraft": [
+    {
+      "aircraft_type": "Halifax",
+      "serial_number": "NA197",
+      "aircraft_code": "L8-H",
+      "squadron": "347 (FFAF) 'Tunisie' Sqn",
+      "station": "Elvington",
+      "crash_date": "1945-02-07",
+      "cause_of_loss": "Possibly shot down by Oblt Georg Fengler (10/NJG1), his 11th claim; crashed at Veluwe",
+      "crew_summary": "Crew — 3 killed (2 no known grave)"
+    },
+    {
+      "aircraft_type": "Halifax",
+      "serial_number": "NA260",
+      "aircraft_code": "L8-G",
+      "squadron": "347 (FFAF) 'Tunisie' Sqn",
+      "station": "Elvington",
+      "crash_date": "1945-02-07",
+      "cause_of_loss": "Possibly shot down by Oblt Georg Fengler (10/NJG1), his 12th claim; crashed at Asten",
+      "crew_summary": "7 aboard — 6 killed; 1 parachuted into Allied territory"
+    }
+  ],
+  "operation_type": "Bombing — Goch",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 6",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: 1945",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4558661217703795/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Johan Bloemers",
+      "permission_note": "with permission"
+    }
+  ]
+}

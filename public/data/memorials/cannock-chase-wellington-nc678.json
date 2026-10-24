@@ -1,0 +1,70 @@
+{
+  "id": "cannock-chase-wellington-nc678",
+  "title": "Cannock Chase Wellington Memorial",
+  "location_name": "Cannock Chase bombing range, Staffordshire",
+  "county": "Staffordshire",
+  "country": "United Kingdom",
+  "crash_date": "1944-07-16",
+  "aircraft_type": "Wellington",
+  "serial_number": "NC678",
+  "squadron": "30 OTU",
+  "station": "Hixon",
+  "crew_summary": "5 crew — 4 killed, 1 survived (pilot)",
+  "memorial_type": "Memorial",
+  "memorial_details": "Memorial on Cannock Chase bombing range, Staffordshire. The 82nd anniversary event in July 2026 implies the loss date was 16 July 1944.",
+  "narrative": "Wellington NC678 of 30 Operational Training Unit, based at Hixon, was on a bombing practice sortie over Cannock Chase on 16 July 1944 when it was struck by a practice bomb dropped from another aircraft. Captain Sgt Philips RCAF, the pilot, managed to stabilise the aircraft, ordered the crew to bale out, and then jumped himself. The remaining crew apparently did not hear the order and were killed: Flight Officer Dickinson, Sergeant Mullins and Sergeant Jones (all RCAF), and Sergeant Watt RAF, aged 20. Sgt Philips survived.\n\nThe loss has a poignant personal connection: Sgt Watt's older brother, also killed in action in WWII aged just 19, died on 21 June 1942 aboard Stirling W7530. The navigator of that aircraft, Alan Green, baled out and became a prisoner of war in Stalag Luft III. Stuart Green, the navigator's son, posted about the memorial.",
+  "cause_of_loss": "Struck by a practice bomb dropped from another aircraft during bombing practice",
+  "operation_type": "Training — bombing practice",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Philips",
+      "nationality": "Canadian (RCAF)",
+      "role": "Pilot",
+      "fate": "Survived — baled out"
+    },
+    {
+      "rank": "F/O",
+      "name": "Dickinson",
+      "nationality": "Canadian (RCAF)",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Mullins",
+      "nationality": "Canadian (RCAF)",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Jones",
+      "nationality": "Canadian (RCAF)",
+      "role": "Crew",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Watt",
+      "nationality": "British",
+      "role": "Crew",
+      "age": 20,
+      "fate": "Killed",
+      "fate_detail": "Older brother killed 21/06/42 aboard Stirling W7530"
+    }
+  ],
+  "community_connection": "Stuart Green, son of Sgt Alan Green (navigator of Stirling W7530, who baled out and was held in Stalag Luft III), posted about this memorial, noting the connection between the two brothers — one killed in NC678, the other in W7530.",
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Stuart Green (RAF Bomber Command Memorials Facebook group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4480714772165107/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Stuart Green (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial"
+}

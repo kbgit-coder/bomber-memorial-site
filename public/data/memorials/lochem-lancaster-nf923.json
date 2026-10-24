@@ -1,0 +1,40 @@
+{
+  "id": "lochem-lancaster-nf923",
+  "title": "Lochem Lancaster Memorial",
+  "location_name": "Vordensebinnenweg, Lochem, Gelderland, Netherlands",
+  "county": "Gelderland",
+  "country": "Netherlands",
+  "crash_date": "1944-09-23",
+  "aircraft_type": "Lancaster I",
+  "serial_number": "NF923",
+  "squadron": "617 Sqn",
+  "station": "Woodhall Spa",
+  "crew_summary": "7 crew — 1 killed (F/Lt Stout), remainder baled out",
+  "memorial_type": "Memorial",
+  "memorial_details": "Memorial to Flight Lieutenant Geoffrey Stevenson Stout, unveiled 23 September 2026 (on the 82nd anniversary of the loss) at Vordensebinnenweg, Lochem, Gelderland. New 2026 memorial.",
+  "narrative": "Lancaster I NF923 of 617 Squadron departed Woodhall Spa on 23 September 1944 for the Dortmund-Ems Canal. The aircraft was attacked by a night fighter on the return journey and caught fire; the pilot, Flight Lieutenant Geoffrey Stevenson Stout, ordered the crew to bale out. Stout, aged 23, was unable to escape and was killed when the aircraft crashed at approximately 2300. He is buried at the New General Cemetery, Lochem.",
+  "cause_of_loss": "Attacked by night fighter on return; fire aboard; pilot unable to escape",
+  "operation_type": "Bombing — Dortmund-Ems Canal",
+  "crew": [
+    {
+      "rank": "F/Lt",
+      "name": "Geoffrey Stevenson Stout",
+      "role": "Pilot",
+      "age": 23,
+      "fate": "Killed",
+      "burial_location": "New General Cemetery, Lochem"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Arjan Vrieze (RAF Bomber Command Memorials Facebook group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4565428987027018/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Arjan Vrieze (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "tunbridge-wells-halifax-w7882",
+  "title": "Tunbridge Wells Halifax Memorial",
+  "location_name": "St James's Church, Royal Tunbridge Wells, Kent",
+  "county": "Kent",
+  "country": "United Kingdom",
+  "crash_date": "1943-02-02",
+  "aircraft_type": "Halifax",
+  "serial_number": "W7882",
+  "aircraft_code": "DY-P",
+  "squadron": "102 Sqn",
+  "station": "Pocklington",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Altar plaque",
+  "memorial_details": "Small altar-mounted plaque to F/S H.A. Ross-Thomson (pilot) inside St James's Church, Royal Tunbridge Wells, Kent.",
+  "narrative": "Halifax W7882 of 102 Squadron, coded DY-P, departed Pocklington at 1853 on 2 February 1943 for Cologne. Flight Sergeant H.A. Ross-Thomson, the pilot, is commemorated on a small altar-mounted plaque in St James's Church, Royal Tunbridge Wells. The memorial was recorded by the IWM War Memorials Register.",
+  "operation_type": "Bombing — Cologne",
+  "crew": [
+    {
+      "rank": "F/S",
+      "name": "H.A. Ross-Thomson",
+      "role": "Pilot",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 4",
+      "type": "book"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "type": "database"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub",
+  "photo_credits": [
+    {
+      "name": "Susan Featherstone",
+      "permission_note": "reproduced with permission of IWM War Memorials Register"
+    }
+  ]
+}

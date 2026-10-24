@@ -1,0 +1,50 @@
+{
+  "id": "epsom-lancaster-pb921",
+  "title": "Epsom College Lancaster Memorial",
+  "location_name": "Chapel of St Luke, Epsom College, Surrey",
+  "county": "Surrey",
+  "country": "United Kingdom",
+  "crash_date": "1945-03-05",
+  "aircraft_type": "Lancaster",
+  "serial_number": "PB921",
+  "aircraft_code": "F2-N",
+  "squadron": "635 Sqn (PFF)",
+  "station": "Downham Market",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Wall-mounted stone tablet",
+  "memorial_details": "Wall-mounted stone tablet to F/L D.L. Venning DFC BA inside the Chapel of St Luke, Epsom College, Surrey.",
+  "narrative": "Lancaster PB921 of 635 Squadron (Pathfinder Force), coded F2-N, departed Downham Market at 1721 on 5 March 1945 for Chemnitz. Flight Lieutenant D.L. Venning DFC BA, a Pathfinder pilot who held both the Distinguished Flying Cross and a Bachelor of Arts degree, is commemorated in the Chapel of St Luke at Epsom College.",
+  "cause_of_loss": "Missing on operations — Chemnitz",
+  "operation_type": "Bombing — Chemnitz",
+  "crew": [
+    {
+      "rank": "F/L",
+      "name": "D.L. Venning",
+      "role": "Pilot",
+      "fate": "Killed",
+      "decorations": ["DFC", "BA"]
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 6",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4426417327594852/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub",
+  "photo_credits": [
+    {
+      "name": "Epsom College",
+      "permission_note": "with permission"
+    }
+  ]
+}

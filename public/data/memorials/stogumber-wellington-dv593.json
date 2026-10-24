@@ -1,0 +1,47 @@
+{
+  "id": "stogumber-wellington-dv593",
+  "title": "Stogumber Wellington Memorial",
+  "location_name": "Church of Our Lady, Stogumber, Somerset",
+  "county": "Somerset",
+  "country": "United Kingdom",
+  "crash_date": "1942-05-15",
+  "aircraft_type": "Wellington",
+  "serial_number": "DV593",
+  "aircraft_code": "JN-?",
+  "squadron": "150 Sqn",
+  "station": "Snaith",
+  "crew_summary": "Crew — all killed",
+  "memorial_type": "Stone tablet",
+  "memorial_details": "Stone tablet to P/O C.H. Mardon inside the Church of Our Lady, Stogumber, Somerset.",
+  "narrative": "Wellington DV593 of 150 Squadron, coded JN-?, departed Snaith at 2135 on 14 May 1942 for Dortmund. The aircraft was shot down at 0207 on 15 May by Obergefreiter Georg Worch of 9/NJG2, his first claim. All crew were killed.",
+  "cause_of_loss": "Shot down by night fighter — Ogefr Georg Worch (9/NJG2), his 1st claim",
+  "operation_type": "Bombing — Dortmund",
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "C.H. Mardon",
+      "role": "Crew",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "notes": "Post states KIA 15/04/42 and departure 14/05/42 — internal date conflict. Chorley BCL Vol 3 and Boiten NCA Early Years Pt 2 cited; verify dates before publishing.",
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 3",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: Early Years Part 2",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial"
+}

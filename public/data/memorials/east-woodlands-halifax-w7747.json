@@ -1,0 +1,52 @@
+{
+  "id": "east-woodlands-halifax-w7747",
+  "title": "East Woodlands Halifax Memorial",
+  "location_name": "St Katherine's Church, East Woodlands, Somerset",
+  "county": "Somerset",
+  "country": "United Kingdom",
+  "crash_date": "1942-06-26",
+  "aircraft_type": "Halifax",
+  "serial_number": "W7747",
+  "aircraft_code": "MP-G",
+  "squadron": "76 Sqn",
+  "station": "Middleton St George",
+  "crew_summary": "Crew — missing in action",
+  "memorial_type": "Memorial tablet",
+  "memorial_details": "Memorial tablet to Sgt W.J. Mills, MIA 26 June 1942, inside St Katherine's Church, East Woodlands, near Longleat.",
+  "narrative": "Halifax W7747 of 76 Squadron, coded MP-G, departed Middleton St George on the night of 26 June 1942 on an operation to Bremen. The aircraft possibly came down above Cuxhaven at 0211, intercepted by Leutnant Paul Szameitat of 6/NJG3, his third claim. Sgt W.J. Mills of East Woodlands has a memorial tablet in St Katherine's Church, a few miles from Longleat in Somerset.",
+  "cause_of_loss": "Possibly shot down by night fighter — Lt Paul Szameitat (6/NJG3), 3rd claim",
+  "operation_type": "Bombing — Bremen",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "W.J. Mills",
+      "role": "Crew",
+      "fate": "Missing in Action"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 3",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: Early Years Part 3",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Mark Hanson",
+      "permission_note": "with permission"
+    }
+  ]
+}

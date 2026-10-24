@@ -1,0 +1,44 @@
+{
+  "id": "stagsden-halifax-mz492",
+  "title": "Stagsden Halifax Memorial",
+  "location_name": "St Leonard's Church, Stagsden, Bedfordshire",
+  "county": "Bedfordshire",
+  "country": "United Kingdom",
+  "crash_date": "1945-02-02",
+  "aircraft_type": "Halifax",
+  "serial_number": "MZ492",
+  "aircraft_code": "C8-X",
+  "squadron": "640 Sqn",
+  "station": "Leconfield",
+  "crew_summary": "7 crew — 6 killed, 1 survived",
+  "memorial_type": "Stained-glass window",
+  "memorial_details": "Stained-glass window to Sgt P.R. Jeffries (aged 19) in St Leonard's Church, Stagsden, Bedfordshire.",
+  "narrative": "Halifax MZ492 of 640 Squadron, coded C8-X, departed Leconfield at 2036 on 2 February 1945 for the Wanne-Eickel oil plant. The aircraft crashed into Lakes Wood near Lockington at 2048, just twelve minutes after take-off. Six crew were killed; the rear gunner survived badly injured. Sgt P.R. Jeffries, aged just 19, is commemorated in the stained-glass window at St Leonard's Church, Stagsden.",
+  "cause_of_loss": "Crash shortly after take-off",
+  "operation_type": "Bombing — Wanne-Eickel",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "P.R. Jeffries",
+      "role": "Crew",
+      "age": 19,
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 6",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4470299739873277/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "belfast-whitley-z6578",
+  "title": "Belfast St Patrick's Whitley Memorial",
+  "location_name": "St Patrick's Church, Belfast, County Antrim",
+  "county": "County Antrim",
+  "country": "United Kingdom",
+  "crash_date": "1941-05-17",
+  "aircraft_type": "Whitley",
+  "serial_number": "Z6578",
+  "aircraft_code": "KN-P",
+  "squadron": "77 Sqn",
+  "station": "Topcliffe",
+  "crew_summary": "5 crew — 3 killed, 2 POW",
+  "memorial_type": "Prayer desk",
+  "memorial_details": "Wooden prayer desk to Sgt T.W.A. Crone (Wireless Operator), KIA 17 May 1941, inside St Patrick's Church, Belfast.",
+  "narrative": "Whitley Z6578 of 77 Squadron, coded KN-P, departed Topcliffe at 2230 on 16 May 1941 bound for Cologne. The aircraft was coned by searchlights and shot down at 0234 on 17 May by Leutnant Kurt Loos of II/NJG1, his first claim. The aircraft crashed near Rothem, approximately 6km SSW of Maaseik in Belgium. Three crew were killed; two became prisoners of war.",
+  "cause_of_loss": "Shot down by night fighter — Lt Kurt Loos (II/NJG1), his 1st claim",
+  "operation_type": "Bombing — Cologne",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "T.W.A. Crone",
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "fate_detail": "KIA 17 May 1941"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 2",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: Early Years Part 2",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Alan Napier",
+      "permission_note": "with permission"
+    }
+  ]
+}

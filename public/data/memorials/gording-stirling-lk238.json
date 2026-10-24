@@ -1,0 +1,55 @@
+{
+  "id": "gording-stirling-lk238",
+  "title": "Gording Stirling Memorial",
+  "location_name": "Gording, Syddanmark, Denmark",
+  "county": "Syddanmark",
+  "country": "Denmark",
+  "crash_date": "1944-10-07",
+  "aircraft_type": "Stirling",
+  "serial_number": "LK238",
+  "aircraft_code": "MA-X",
+  "squadron": "161 (SD) Sqn",
+  "station": "Tempsford",
+  "crew_summary": "7 crew — 1 killed, 2 POW, 4 evaded",
+  "memorial_type": "Memorial stone and plaque",
+  "memorial_details": "Memorial stone and plaque at the original German burial site of Warrant Officer R.F. Philp RAAF (bomb aimer), who was later exhumed and reburied in the local churchyard.",
+  "narrative": "Stirling IV LK238 of 161 (Special Duties) Squadron, coded MA-X, departed Tempsford at 2229 on 6 October 1944 on Operation Tablejam 26, an SOE supply drop. The aircraft was intercepted near Holstebro by Hauptmann Johann Dreher of 6/NJG3 and shot down at 0126 on 7 October, his third claim. The aircraft crashed between Gording and Vemb.\n\nWarrant Officer R.F. Philp RAAF, the bomb aimer, was the only member of the crew to be killed. He was initially buried at the crash site and later exhumed and reburied in the local churchyard. Two crew became prisoners of war; four evaded capture.\n\nHauptmann Dreher was himself killed later in the war when his Ju 88 crashed at Dunnington, North Yorkshire, on 3 March 1945 during Operation Gisela.",
+  "cause_of_loss": "Shot down by night fighter — Hptm Johann Dreher (6/NJG3), his 3rd claim",
+  "operation_type": "SOE — Operation Tablejam 26 (supply drop)",
+  "crew": [
+    {
+      "rank": "WO",
+      "name": "R.F. Philp",
+      "nationality": "Australian (RAAF)",
+      "role": "Bomb Aimer",
+      "fate": "Killed",
+      "burial_location": "Local churchyard, Gording"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 5",
+      "type": "book"
+    },
+    {
+      "title": "Boiten, T. — Nachtjagd Combat Archive: 1944 Part 4",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4574997182736865/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "the late Søren Flensted",
+      "permission_note": "with permission"
+    }
+  ]
+}

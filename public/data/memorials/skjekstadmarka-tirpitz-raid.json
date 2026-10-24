@@ -1,0 +1,58 @@
+{
+  "id": "skjekstadmarka-tirpitz-raid",
+  "title": "Skjekstadmarka Tirpitz Raid Memorial",
+  "location_name": "Skjekstadmarka, Trøndelag, Norway",
+  "county": "Trøndelag",
+  "country": "Norway",
+  "crash_date": "1942-04-28",
+  "memorial_type": "Inscribed stone memorial",
+  "memorial_details": "Inscribed stone with 13 individual stones, one per airman, at the crash site in Skjekstadmarka, near Fættenfjord, Trøndelag.",
+  "narrative": "On the night of 27-28 April 1942, two aircraft were lost attacking the German battleship Tirpitz at anchor in Fættenfjord. Halifax W1020 of 35 Squadron, coded TL-K, had departed Kinloss at 2035. It was probably damaged by Flak and may have been heading for Sweden when it struck the mountainside. Lancaster L7572 of 97 Squadron, coded OF-L, had departed Lossiemouth. It was hit by shore and ship Flak and crashed close to where W1020 came down.\n\nAll six crew of W1020 were killed; all seven crew of L7572 were killed. The memorial at Skjekstadmarka commemorates all 13 airmen with individual stones.",
+  "aircraft_type": "Halifax / Lancaster",
+  "squadron": "35 Sqn; 97 Sqn",
+  "station": "Kinloss (W1020); Lossiemouth (L7572)",
+  "aircraft": [
+    {
+      "aircraft_type": "Halifax",
+      "serial_number": "W1020",
+      "aircraft_code": "TL-K",
+      "squadron": "35 Sqn",
+      "station": "Kinloss",
+      "cause_of_loss": "Probably Flak-damaged; possibly heading for Sweden; struck mountainside",
+      "crew_summary": "6 crew — all killed"
+    },
+    {
+      "aircraft_type": "Lancaster",
+      "serial_number": "L7572",
+      "aircraft_code": "OF-L",
+      "squadron": "97 Sqn",
+      "station": "Lossiemouth",
+      "cause_of_loss": "Hit by shore and ship Flak",
+      "crew_summary": "7 crew — all killed"
+    }
+  ],
+  "operation_type": "Attack on battleship Tirpitz, Fættenfjord",
+  "latitude": null,
+  "longitude": null,
+  "notes": "Post gave location as 'Agder Fylke' but Fættenfjord is in Trøndelag — Trøndelag has been used. Verify exact location.",
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 3",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4573526412883942/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "photo_credits": [
+    {
+      "name": "Kjell Sørensen",
+      "permission_note": "via Espen Thronsen"
+    }
+  ]
+}

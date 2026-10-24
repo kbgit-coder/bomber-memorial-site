@@ -1,0 +1,53 @@
+{
+  "id": "schuinesloot-wellington-df639",
+  "title": "Schuinesloot Wellington Memorial",
+  "location_name": "Schuinesloot, Overijssel, Netherlands",
+  "county": "Overijssel",
+  "country": "Netherlands",
+  "crash_date": "1942-10-06",
+  "aircraft_type": "Wellington Mk.III",
+  "serial_number": "DF639",
+  "aircraft_code": "AA-N",
+  "squadron": "75 (NZ) Sqn",
+  "station": null,
+  "crew_summary": "5 crew — all killed",
+  "memorial_type": "'Lost Wings' information panel",
+  "memorial_details": "SLO Drenthe 'Lost Wings' information panel at the crash site, Schuinesloot, Overijssel. The Stichting Luchtoorlog Onderzoek Drenthe (SLO Drenthe) has placed 89 such panels across the region.",
+  "narrative": "Wellington Mk.III DF639 of 75 (NZ) Squadron, coded AA-N, was intercepted at approximately 2300 on the night of 6-7 October 1942 during the Osnabrück raid (237 aircraft). A Do 217J of Stab I./NJG3, crewed by Leutnant Johannes 'Hans' Krause, Unteroffizier Otto Zinn and Unteroffizier Fritz Specht (who had taken off from Rheine at 2140), scored the kill at 2304 as its first victory. The aircraft crashed in Schuinesloot.\n\nAll five crew were killed. They are buried in the CWGC section of the Protestant Cemetery, Hardenberg. The pilot was Sergeant George William Rhodes.",
+  "cause_of_loss": "Shot down by Do 217J of Stab I./NJG3 — Lt Johannes 'Hans' Krause, Uffz Otto Zinn, Uffz Fritz Specht; Krause's first victory",
+  "operation_type": "Bombing — Osnabrück",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "George William Rhodes",
+      "role": "Pilot",
+      "fate": "Killed",
+      "burial_location": "CWGC section, Protestant Cemetery, Hardenberg"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "SLO Drenthe — slodrenthe.nl/wellington-mk-iii-df639-aa-n",
+      "url": "https://slodrenthe.nl/wellington-mk-iii-df639-aa-n",
+      "type": "website"
+    },
+    {
+      "title": "Stichting Luchtoorlog Onderzoek Drenthe (RAF Bomber Command Memorials Facebook group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4561002194136364/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "SLO Drenthe (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Partial",
+  "local_contacts": [
+    {
+      "org_name": "Stichting Luchtoorlog Onderzoek Drenthe (SLO Drenthe)",
+      "org_type": "research-foundation",
+      "role": "Placed and maintains the Lost Wings information panel",
+      "website": "https://slodrenthe.nl"
+    }
+  ]
+}

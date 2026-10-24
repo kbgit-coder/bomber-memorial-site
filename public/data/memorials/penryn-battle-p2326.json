@@ -1,0 +1,43 @@
+{
+  "id": "penryn-battle-p2326",
+  "title": "Penryn Battle Memorial",
+  "location_name": "St Gluvias Church, Penryn, Cornwall",
+  "county": "Cornwall",
+  "country": "United Kingdom",
+  "crash_date": "1940-05-11",
+  "aircraft_type": "Battle",
+  "serial_number": "P2326",
+  "aircraft_code": "HA-?",
+  "squadron": "218 Sqn",
+  "station": "Auberive-sur-Suippes (AASF)",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Plaque",
+  "memorial_details": "Plaque to Sgt C.M. Jennings, KIA 11 May 1940, inside St Gluvias Church, Penryn, Cornwall.",
+  "narrative": "Fairey Battle P2326 of 218 Squadron, coded HA-?, was based with the Advanced Air Striking Force at Auberive-sur-Suippes. On 11 May 1940 the aircraft was hit by ground fire and abandoned over the target. Sgt C.M. Jennings of Penryn, Cornwall is commemorated in St Gluvias Church.",
+  "cause_of_loss": "Hit by ground fire; crew abandoned aircraft over target",
+  "operation_type": "Bombing",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "C.M. Jennings",
+      "role": "Crew",
+      "fate": "Killed"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 1",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4499079400328644/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "belton-wellington-nc721",
+  "title": "Belton Wellington Memorial",
+  "location_name": "All Saints Church, Belton, Norfolk",
+  "county": "Norfolk",
+  "country": "United Kingdom",
+  "crash_date": "1944-10-11",
+  "aircraft_type": "Wellington",
+  "serial_number": "NC721",
+  "squadron": "19 OTU",
+  "station": "Kinloss",
+  "crew_summary": "Crew — missing",
+  "memorial_type": "Stained-glass window",
+  "memorial_details": "Stained-glass window to Sgt D.R. Sharman, missing 11 October 1944, in All Saints Church, Belton, Norfolk.",
+  "narrative": "Wellington NC721 of 19 Operational Training Unit departed Kinloss at 2004 on 11 October 1944. The aircraft failed to return. Sgt D.R. Sharman is commemorated in a stained-glass window at All Saints Church, Belton, Norfolk.",
+  "operation_type": "Training",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "D.R. Sharman",
+      "role": "Crew",
+      "fate": "Missing"
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 7",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4425379974365254/",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub",
+  "photo_credits": [
+    {
+      "name": "Brian Martin",
+      "permission_note": "with permission"
+    }
+  ]
+}

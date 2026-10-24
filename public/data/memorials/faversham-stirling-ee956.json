@@ -1,0 +1,48 @@
+{
+  "id": "faversham-stirling-ee956",
+  "title": "Faversham Stirling Memorial",
+  "location_name": "St Mary of Charity Church, Faversham, Kent",
+  "county": "Kent",
+  "country": "United Kingdom",
+  "crash_date": "1944-05-17",
+  "aircraft_type": "Stirling",
+  "serial_number": "EE956",
+  "squadron": "1661 HCU",
+  "station": "Winthorpe",
+  "crew_summary": "Crew — details not recorded in source",
+  "memorial_type": "Processional cross",
+  "memorial_details": "Inscribed processional cross to F/S P.E. Hebbes MiD inside St Mary of Charity Church, Faversham, Kent.",
+  "narrative": "Stirling EE956 of 1661 Heavy Conversion Unit departed Winthorpe at 2324 on 17 May 1944 on a night cross-country navigation exercise. The loss is recorded in Chorley's Bomber Command Losses Vol. 8. Flight Sergeant P.E. Hebbes, who was Mentioned in Dispatches, has a memorial in the form of an inscribed processional cross at St Mary of Charity Church in Faversham, Kent.",
+  "operation_type": "Training — night cross-country NAVEX",
+  "crew": [
+    {
+      "rank": "F/S",
+      "name": "P.E. Hebbes",
+      "role": "Crew",
+      "fate": "Killed",
+      "decorations": ["MiD"]
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "notes": "Winthorpe is in Newark, Nottinghamshire — a regional connection to the register's existing Winthorpe-area records.",
+  "sources": [
+    {
+      "title": "Chorley, W.R. — Bomber Command Losses Vol. 8",
+      "type": "book"
+    },
+    {
+      "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
+      "type": "social-media"
+    }
+  ],
+  "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
+  "last_updated": "2026-10-23",
+  "data_quality": "Stub",
+  "photo_credits": [
+    {
+      "name": "Keith Tyler",
+      "permission_note": "with permission"
+    }
+  ]
+}
