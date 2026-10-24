@@ -36,6 +36,9 @@ export default function Header() {
             textTransform: "uppercase",
             letterSpacing: "0.15em",
             textDecoration: "none",
+            display: "inline-flex",
+            alignItems: "center",
+            minHeight: 44,
           }}
         >
           Bomber Command Memorial Register
