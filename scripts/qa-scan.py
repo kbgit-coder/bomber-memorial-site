@@ -218,6 +218,7 @@ def check_memorial_page(slug, html, data):
                 r'no\s+survivors', r'none\s+(?:of\s+)?(?:the\s+)?(?:crew\s+)?survived',
                 r'there were no survivors',
                 r'not\s+(?:a\s+)?surviv', r'did\s+not\s+surviv', r'without\s+survivor',
+                r'no\s+member\s+of\s+(?:the\s+)?crew\s+surviv',
                 r'surviving\s+(?:accounts?|records?|evidence|documentation|fragment)',
                 r'survived\s+(?:a|the|an)\s+(?:earlier|previous|crash|impact)\b',
                 r'had\s+survived\s+the\s+(?:long|round|trip|journey|flight)',
