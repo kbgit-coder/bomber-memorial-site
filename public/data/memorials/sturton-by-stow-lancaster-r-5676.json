@@ -18,7 +18,7 @@
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-10-23",
   "data_quality": "Partial",
   "latitude": 53.3148,
   "longitude": -0.6647,
@@ -102,36 +102,43 @@
   "squadron_aliases": [
     "1660 HCU"
   ],
-  "narrative": "At 1005 on 12 February 1943, Lancaster R5676 of 1660 Heavy Conversion Unit, based at Swinderby, suffered a structural failure when the starboard wing broke away in flight. The aircraft crashed at Oldfield's Farm, approximately 8 miles north-west of Lincoln, near Sturton by Stow. Eight of the nine crew were killed: Flying Officer Sydney Rhys Jones (pilot, aged 25), Sergeant W.T. Raeside (aged 26), Flying Officer S. Hoy (aged 31), Sergeant J. Westwood (aged 22), Sergeant T.H. Jackson (aged 23), Flying Officer F.M. Krish (aged 26), Flying Officer G.W. Kennedy RCAF (Observer, aged 20), and Leading Aircraftman E.R. Redfern (aged 23). The farm on the crash site was subsequently renamed Lancaster Farm.",
+  "narrative": "At 1005 on 12 February 1943, Lancaster R5676 of 1660 Heavy Conversion Unit, based at Swinderby, suffered a structural failure when the starboard wing broke away in flight. The aircraft crashed at Oldfield's Farm, approximately 8 miles north-west of Lincoln, near Sturton by Stow. Eight of the nine crew were killed: Flying Officer Sydney Rhys Jones (pilot, aged 25), Sergeant W.T. Raeside (aged 26), Flying Officer Stanley Hoy (air bomber, aged 31), Sergeant J. Westwood (aged 22), Sergeant T.H. Jackson (aged 23), Flying Officer F.M. Krish (aged 26), Flight Sergeant Gerald 'Bunny' Kennedy RCAF (air gunner, aged 20), and Leading Aircraftman E.R. Redfern (aged 23). The farm on the crash site was subsequently renamed Lancaster Farm.",
+  "crew_note": "Crew roles corrected per Facebook post by Nick Taylor (RAF Bomber Command Memorials group): F/O Sydney Rhys Jones was the pilot; F/Sgt Gerald Kennedy RCAF was the air gunner (not the pilot); F/O Stanley Hoy was British (not Canadian). The previous entry had Kennedy listed as pilot and Hoy listed as Canadian — both were wrong.",
   "remembrance": {
     "events": []
   },
   "crew": [
     {
-      "name": "Kennedy (Bunny)",
+      "name": "Sydney Rhys Jones",
       "rank": "Flying Officer",
+      "age": 25,
       "fate": "Killed",
       "role": "Pilot",
       "burial_location": "Thurlby (St. Germain) Churchyard",
+      "nationality": "British",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Jones&Forename=Sydney%20Rhys"
+    },
+    {
+      "name": "Gerald Kennedy",
+      "rank": "Flight Sergeant",
+      "age": 20,
+      "fate": "Killed",
+      "role": "Air Gunner",
+      "burial_location": "Thurlby (St. Germain) Churchyard",
       "nationality": "Canadian",
+      "nationality_note": "RCAF — confirmed Canadian, not British",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Kennedy"
     },
     {
-      "name": "S. Hoy",
-      "rank": "unknown",
-      "fate": "Buried in hull eastern cemetery (with his brother)",
-      "role": "Unknown",
-      "burial_location": "Hull Eastern Cemetery",
-      "nationality": "Canadian"
-    },
-    {
-      "name": "Sydney Rhys Jones",
-      "rank": "Flying Officer (Pilot)",
+      "name": "Stanley Hoy",
+      "rank": "Flying Officer",
+      "age": 31,
       "fate": "Killed",
-      "role": "Pilot",
-      "burial_location": "Thurlby (St. Germain)Churchyard",
+      "role": "Air Bomber",
+      "burial_location": "Hull Eastern Cemetery",
       "nationality": "British",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Jones&Forename=Sydney%20Rhys"
+      "nationality_note": "British — corrected from Canadian. Buried with his brother at Hull Eastern Cemetery.",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Hoy&Initials=S"
     },
     {
       "name": "WT. Raeside",

@@ -6,10 +6,10 @@
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "LV905",
-  "squadron": "460 Squadron",
+  "squadron": "78 Squadron",
   "crash_date": "1944-05-25",
   "memorial_type": "Sculpture",
-  "memorial_details": "Part of a WW2 aircraft engine (probably a Bristol Hercules radial engine from a Halifax bomber), set on a gravel base within a low brick wall. A higher brick wall at the rear has a black marble (or possibly polished granite), dedicatory tablet with 78 and 460 squadron badges and further words stencilled onto the bricks. In front of the engine another black tablet commemorates the crew of Halifax LV905 lost in action over Belgium.",
+  "memorial_details": "Part of a WW2 aircraft engine (probably a Bristol Hercules radial engine from a Halifax bomber), set on a gravel base within a low brick wall. A higher brick wall at the rear has a black marble (or possibly polished granite), dedicatory tablet with 78 Squadron badge and further words stencilled onto the bricks. In front of the engine another black tablet commemorates the crew of Halifax LV905 lost in action over the Netherlands.",
   "inscription": "On back wall: 1940 RAF Breighton 1945 On rear tablet: DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND/ GAVE THEIR LIVES DURING WORLD WAR II On front tablet: THE CREW OF HANDLEY PAGE HALIFAX MK III LV905 EY-W/ WHO LOST THEIR LIVES IN ACTION 25TH MAY 1944/ (names)",
   "sources": [
     {
@@ -18,11 +18,14 @@
       "type": "official_database"
     }
   ],
+  "station": "RAF Breighton",
+  "aircraft_code": "EY-W",
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "LV905 (coded EY-W) of 78 Squadron departed RAF Breighton on 25 May 1944. The aircraft was shot down and crashed into the Bergsche Maas, Netherlands. A 2003 excavation recovered remains; one of the engines has been displayed at Breighton since 2010. All seven crew were lost.",
+  "sources_note": "Squadron corrected from 460 to 78 per two Facebook posts (RAF Bomber Command Memorials group) citing the EY-W code and Breighton station. The inscription on the memorial itself also shows 78 Squadron badge. 460 Squadron (RAAF) used the code AR, not EY. Verified against aircraft code EY-W = 78 Squadron.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 53.802194333404,
   "longitude": -0.916828116123,
   "grid_ref": "SE 71435",

@@ -10,7 +10,8 @@
   "crash_date": "1944-02-08",
   "aircraft_type": "Vickers Wellington LN185 and de Havilland Mosquito NF Mk XIII HK374",
   "serial_number": "LN185 / HK374",
-  "aircraft_code": "VY-R",
+  "aircraft_code": "VY-R (Mosquito HK374 only — Wellington LN185 code not confirmed)",
+  "aircraft_code_note": "VY-R was the code carried by Mosquito HK374 of 85 Squadron. It does not apply to Wellington LN185 of 18 OTU Finningley, which used OTU codes. The previous entry attributed VY-R to the pair; corrected per Facebook post (RAF Bomber Command Memorials group).",
   "squadron": "18 OTU / 85 Squadron",
   "squadron_display_name": "18 OTU RAF Finningley (Wellington LN185) and 85 Squadron RAF West Malling (Mosquito HK374)",
   "operation_type": "Training",
@@ -134,7 +135,7 @@
   ],
   "data_quality": "Comprehensive",
   "contributor": "Keith Binley, Bomber Command Memorial Register",
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-23",
   "community_connection": "Plaque provided by Graham Alderson, February 1995. Brook Meadow nature reserve, Emsworth, maintained by local volunteers.",
   "photos": [],
   "external_narratives": []

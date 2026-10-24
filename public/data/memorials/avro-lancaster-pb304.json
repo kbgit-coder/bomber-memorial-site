@@ -36,5 +36,8 @@
     "https://media.iwm.org.uk/ciim5/memorials/43/683/large_15977.jpg"
   ],
   "community_connection": "The memorial is maintained by Salford City Council And The Raf Association.",
-  "last_validated": "2026-04-12"
+  "last_validated": "2026-04-12",
+  "duplicate_note": "Three site pages exist for Lancaster PB304: salford-pb304 (Agecroft Cemetery, IWM 15977, Comprehensive), avro-lancaster-pb304 (this record — same Agecroft Cemetery memorial, IWM 15977, Partial stub), and crew-of-lancaster-pb304 (St Thomas's Church, IWM 75876 — a different physical memorial). Recommend deprecating avro-lancaster-pb304 and merging its content into salford-pb304. crew-of-lancaster-pb304 is a separate memorial and should be kept. See salford-pb304 for the canonical Agecroft record.",
+  "status": "SUPERSEDED",
+  "superseded_by": "salford-pb304"
 }
