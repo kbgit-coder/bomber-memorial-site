@@ -20,7 +20,85 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "F.O. Cooke",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — Bristol Blenheim L8800, 114 Sqn, 5 June 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "J.M. Wallbridge",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — Bristol Blenheim L8800, 114 Sqn, 5 June 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "E. Kitcher",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — Bristol Blenheim L8800, 114 Sqn, 5 June 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "D.C. Tanner",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Crew — N.A. Mitchell FL206, 98 Sqn, 17 October 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "E.H. Boreham",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — N.A. Mitchell FL206, 98 Sqn, 17 October 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "L.H. Horton",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — N.A. Mitchell FL206, 98 Sqn, 17 October 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "F.E. Barnett",
+      "rank": "LAC",
+      "fate": "Killed",
+      "role": "Crew — N.A. Mitchell FL206, 98 Sqn, 17 October 1942",
+      "nationality": "British"
+    },
+    {
+      "name": "M. Le Bivic",
+      "rank": "Lt",
+      "fate": "Killed",
+      "role": "Crew — D. Boston AL285, 342 Lorraine Sqn, 22 May 1943",
+      "nationality": "French"
+    },
+    {
+      "name": "R. Jacquinot",
+      "rank": "Lt",
+      "fate": "Killed",
+      "role": "Crew — D. Boston AL285, 342 Lorraine Sqn, 22 May 1943",
+      "nationality": "French"
+    },
+    {
+      "name": "I. Cohen",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew — D. Boston AL285, 342 Lorraine Sqn, 22 May 1943",
+      "nationality": "French"
+    },
+    {
+      "name": "J. Desertlaux",
+      "rank": "Cpl",
+      "fate": "Killed",
+      "role": "Crew — D. Boston AL285, 342 Lorraine Sqn, 22 May 1943",
+      "nationality": "French"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.763235,

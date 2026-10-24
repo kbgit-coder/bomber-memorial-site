@@ -20,7 +20,26 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "Douglas Barclay",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "John Case",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Navigator"
+    },
+    {
+      "name": "Frank Hankins",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Wireless Operator/Air Gunner"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.231919595474,

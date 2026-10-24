@@ -101,5 +101,18 @@
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
   "community_connection": "",
-  "last_validated": "2026-04-13"
+  "last_validated": "2026-04-13",
+  "crew": [
+    {
+      "name": "Cyril Joe Barton",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "British",
+      "service_number": "168669",
+      "decorations": [
+        "VC"
+      ]
+    }
+  ]
 }

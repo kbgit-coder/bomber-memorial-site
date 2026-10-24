@@ -20,7 +20,20 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "B.W. Jobling",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot"
+    },
+    {
+      "name": "F.W. Weston",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Navigator"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.790694013934,

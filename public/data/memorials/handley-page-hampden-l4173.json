@@ -20,7 +20,22 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "W.L. Cameron",
+      "rank": "F/Lt",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "J.E. Sheridan",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Navigator",
+      "nationality": "Australian"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.623929740379,

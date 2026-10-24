@@ -20,7 +20,36 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "J.W. Woods",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "Australian"
+    },
+    {
+      "name": "I.W. Ferguson",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "British"
+    },
+    {
+      "name": "J.M.M. Fraser",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "Australian"
+    },
+    {
+      "name": "F.P. Moorby",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "British"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.450883,

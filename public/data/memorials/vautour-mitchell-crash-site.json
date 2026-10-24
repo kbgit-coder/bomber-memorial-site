@@ -20,7 +20,22 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "A.G. Vautour",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "W.M. Mitchell",
+      "rank": "W/O",
+      "fate": "Killed",
+      "role": "Navigator",
+      "nationality": "Canadian"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.83875658647,

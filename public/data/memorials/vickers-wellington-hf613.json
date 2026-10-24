@@ -20,7 +20,40 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "J.D. Kester",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew"
+    },
+    {
+      "name": "R.F. Cairns",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew"
+    },
+    {
+      "name": "W.J. Hackett",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew"
+    },
+    {
+      "name": "B.E. Wilkinson",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "Canadian"
+    },
+    {
+      "name": "W.A. Marwood",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew",
+      "nationality": "British"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.347256771245,

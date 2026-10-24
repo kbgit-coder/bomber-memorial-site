@@ -20,7 +20,17 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "W.A. McNamee",
+      "rank": "F/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "service_number": "426422",
+      "age": 21
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.680256964229,

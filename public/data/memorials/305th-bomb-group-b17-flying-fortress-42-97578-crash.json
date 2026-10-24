@@ -20,7 +20,15 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "Charles Henry Hilton",
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "role": "RAF — killed on active service 24th August 1943",
+      "nationality": "British"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.29325800227,

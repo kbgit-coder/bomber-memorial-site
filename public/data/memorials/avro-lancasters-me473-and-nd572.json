@@ -20,7 +20,20 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "Arthur Henderson",
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "role": "Crew"
+    },
+    {
+      "name": "Robert Charles Banks",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Crew"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.139826288061,

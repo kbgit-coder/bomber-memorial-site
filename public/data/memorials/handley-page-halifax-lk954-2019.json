@@ -20,7 +20,16 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "A.E. McKenzie",
+      "rank": "P/O",
+      "fate": "Killed",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "age": 18
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.033170345657,

@@ -20,7 +20,22 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "David Pullinger",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Bomb Aimer",
+      "nationality": "New Zealander"
+    },
+    {
+      "name": "Jack Fletcher",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Flight Engineer",
+      "nationality": "British"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.193648011869,
