@@ -251,10 +251,25 @@
       "title": "War Memorials Online",
       "url": "https://www.warmemorialsonline.org.uk/memorial/92115",
       "type": "database"
+    },
+    {
+      "title": "Eyewitness account of Brenda Herring, shared by her son Mike Keynes via Farnsfield Community Facebook group",
+      "url": "https://www.facebook.com/groups/1907595196260937/",
+      "type": "social_media",
+      "poster": "Mike Keynes",
+      "group": "Farnsfield Community",
+      "note": "Full account pending Mike Keynes' permission to publish"
+    },
+    {
+      "title": "YouTube — 'FARNSFIELD: Newark and Sherwood Parish #73 of 84' by Andy Smith (features Halifax MZ519 memorial)",
+      "url": "https://www.youtube.com/",
+      "type": "video",
+      "poster": "Andy Smith",
+      "source_group": "Southwell Local History Facebook group"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-10-23",
   "data_quality": "Comprehensive",
   "memorial_details": "BRICK BASE SURMOUNTED BY STONE PLINTH AND TAPERING STONE OF REMEMBRANCE. INCISED INSCRIPTION ON THE 6 O'CLOCK FACE OF THE STONE AND PLINTH SQUADRON CREST CARVED IN RELIEF AT THE TOP OF THE STONE OF REMEMBRANCE. 300 TREES WERE PLANTED IN THE AREA AND THE LAND WAS ENCLOSED BY A FENCE The commemorative plaque with biographical details of the crew, is in the parish church.\n\nThey formed a committee, raised funds from the village, and in 1994 Air Marshal Sir John Curtis, himself a former 578 Squadron pilot, unveiled the stone of remembrance.\n\nMemorial Dedication and Service (6 July 1994): A service in Saint Michael’s Church to dedicate the memorial, marking the fiftieth anniversary of the tragic event.\n\nA commemorative plaque with photographs of the seven crew members is displayed in the parish church.\n\nMemorial Display: The memorial displays the Handley Page Halifax MZ519 aircraft, which is part of the Imperial War Museums collection.\n\nMemorial Establishment (1994): Established on the 50th anniversary of the crash to commemorate the Halifax Bomber MZ519 LK U Crew",
   "maintainer": {
@@ -343,6 +358,16 @@
   "squadron_aliases": [
     "578 Squadron",
     "578 Sqdn."
+  ],
+  "eyewitness_accounts": [
+    {
+      "witness": "Brenda Herring (18 May 1935 – 31 May 2023)",
+      "recorded_by": "Mike Keynes (son), Farnsfield Community Facebook group",
+      "account": "Brenda Herring, then aged 9, was woken with her sisters in the night by an aircraft in distress — it was still dark. She saw it on fire, watched a wing fall off, and saw the blazing aircraft fall into the fields of farmer Mr Reynolds. The next morning the children went to the field but were turned away.",
+      "notes": "The site's existing text places the operation 'that afternoon' and describes a 'paper memorial' saying 'evening'. Brenda's account says it was dark — reconcile the timing. The site names Riddings Farm; Brenda names farmer Mr Reynolds — these may refer to the same farm or the same farmer. Mike Keynes says he can share more from Brenda's book about growing up in Farnsfield. Permission to quote her account fully should be sought from Mike Keynes before publication.",
+      "source_url": "https://www.facebook.com/groups/1907595196260937/",
+      "source_group": "Farnsfield Community"
+    }
   ],
   "community_connection": "The crash at Riddings Farm left a deep mark on Farnsfield. The bodies of the seven crew members were recovered and laid out in the small paddock in front of the farmhouse — an image that stayed with the farmer and his family for the rest of their lives. Seven Nottinghamshire oaks were planted in a crescent to mark the spot, and two Canadian redwoods were added in memory of Pilot Officer Norman Godin, the 19-year-old Canadian bomb aimer who died far from home. In the early 1990s, two Farnsfield locals — Frank Reynolds Jr and Jack Wright — had the idea of a more permanent memorial to mark the approaching 50th anniversary of the crash. Since then, the area behind the original trees has been developed into a small copse through donations from villagers and others, maintained by the Farnsfield Memorial Trust. In a further act of remembrance, a new housing estate built in the village had its roads named after members of the crew — including Parfitt Drive, the main road into the estate — ensuring that their names remain part of everyday village life, not just inscribed on the memorial at Riddings Farm on the village outskirts.",
   "remembrance": {

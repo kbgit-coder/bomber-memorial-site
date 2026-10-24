@@ -6,8 +6,14 @@
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "AD783",
-  "squadron": "455 Squadron",
-  "crash_date": "1942-02-13",
+  "squadron": "455 (RAAF) Squadron",
+  "squadron_display_name": "455 Squadron RAAF",
+  "aircraft_code": "UB-U",
+  "station": "RAF Wigsley",
+  "operation_type": "Operational",
+  "operation_detail": "Gardening (minelaying) in support of Operation Fuller (Channel Dash)",
+  "cause_of_loss": "Aircraft did not return; crew killed",
+  "crash_date": "1942-02-14",
   "memorial_type": "Obelisk",
   "memorial_details": "Stone obelisk sitting on a base surrounded by a chain link fence supported by wooden posts. The front face has an incised inscription picked out in black, and the badges of RAF Bomber Command and 455 Sqn RAAF in colour at the top. On the building wall opposite to the front face of the obelisk is a glazed and framed information board with the history of the aircraft crash and the dedication of the memorial.",
   "inscription": "(Bomber Command Badge) (455 Sqn R.A.A.F. badge)/ In Memory of/ (Names)/ The crew of R.A.A.F./ Handley-Page Hampden AD783/ Died at Eagle/ on the 13th February 1942/ Remembered with honour",
@@ -16,13 +22,20 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/100120",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Tony Hibberd (admin, RAF Bomber Command Memorials group), citing Chorley BCL Vol 3",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4520874434815807/",
+      "type": "social_media",
+      "poster": "Tony Hibberd",
+      "source_cited": "Chorley, W.R. Bomber Command Losses Vol. 3"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "On the night of 13/14 February 1942, Hampden AD783 (UB-U) of 455 Squadron RAAF departed RAF Wigsley at 22:43 on a gardening (minelaying) operation in support of Operation Fuller — the German navy's audacious 'Channel Dash' in which the battlecruisers Scharnhorst and Gneisenau and the heavy cruiser Prinz Eugen made a daylight run through the English Channel. The aircraft did not return; all four crew were killed. The memorial records the date of loss as 13 February. Note: the Facebook source (Chorley BCL Vol 3) gives a departure time of 22:43 on the 13th, making the crash date formally 14 February 1942.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 53.19471692978,
   "longitude": -0.690319172521,
   "grid_ref": "SK 87594",
@@ -39,5 +52,5 @@
     "https://media.iwm.org.uk/ciim5/memorials/132/184/large_hampden_ad783_memorial_in_context.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/132/182/large_hampden_ad783_memorial.jpg"
   ],
-  "community_connection": "The crew of R.A.A.F. (Royal Australian Air Force)"
+  "community_connection": "The crew were all Royal Australian Air Force. The memorial in the path to All Saints Church, Eagle, is described as relatively new and carries the badges of RAF Bomber Command and 455 Sqn RAAF alongside a framed information board on the adjacent wall."
 }

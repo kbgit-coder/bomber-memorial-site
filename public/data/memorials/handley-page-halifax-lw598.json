@@ -16,13 +16,57 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/29796",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Paul Goddard (RAF Bomber Command Memorials group) — six crew names and crash time",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4529814047255179/",
+      "type": "social_media",
+      "poster": "Paul Goddard",
+      "photo_credit": "Paul Goddard"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "Halifax LW598 of 426 (RCAF) Squadron, based at RAF Linton-on-Ouse, crashed near Back Lane, Newton-on-Ouse, North Yorkshire, at approximately 04:00 on 9 June 1944 while returning from operations. All six named crew members were killed. The bronze plaque memorial stands on a marble pillar near the crash site.",
+  "crew": [
+    {
+      "name": "D.R. Parker",
+      "rank": "F/O",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Parker&Initials=DR"
+    },
+    {
+      "name": "A.G. Sootheran",
+      "rank": "P/O",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Sootheran&Initials=AG"
+    },
+    {
+      "name": "W. Holenchuck",
+      "rank": "P/O",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Holenchuck&Initials=W"
+    },
+    {
+      "name": "R.C. Parker",
+      "rank": "P/O",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Parker&Initials=RC"
+    },
+    {
+      "name": "F.H. Howard",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Howard&Initials=FH"
+    },
+    {
+      "name": "J.P. Hughes",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Hughes&Initials=JP"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 54.032228412519,
   "longitude": -1.219428777695,
   "grid_ref": "SE 51230",
@@ -36,6 +80,6 @@
   ],
   "last_validated": "2026-04-13",
   "cross_reference_note": "Two site pages exist for LW598: this record (IWM 29796) and handley-page-halifax-lw598-ow-j-johnnie (IWM 108923). These are two distinct physical memorials at Newton-on-Ouse at nearly identical coordinates. The IWM references differ, confirming they are separate registered memorials. No merge needed — both should be retained.",
-  "community_connection": "From LINTON on OUSE",
+  "community_connection": "The crew flew from RAF Linton-on-Ouse and came down near Back Lane, Newton-on-Ouse. The village erected the memorial at or near the crash site. Memorial photographed by Paul Goddard.",
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/426.jpg"
 }

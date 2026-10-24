@@ -6,20 +6,19 @@
   "country": "United Kingdom",
   "aircraft_type": "Hampden",
   "serial_number": "P4313",
-  "squadron": "",
+  "squadron": "14 OTU",
+  "squadron_display_name": "14 Operational Training Unit",
+  "station": "RAF Cottesmore",
+  "aircraft_code": "D1",
+  "operation_type": "Training",
+  "operation_detail": "Cross-country NAVEX, dep 10:15",
+  "cause_of_loss": "Flew into high ground near Ballaragh Farm House",
   "crash_date": "1941-03-27",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular grey slate tablet with inscription in white lettering in relief below engraving of Royal Air Force badge.",
   "inscription": "IN MEMORY OF/ SERGEANT DOUGLAS BARCLAY - PILOT/ SERGEANT JOHN CASE - NAVIGATOR/ SERGEANT FRANK HANKINS - WIRELESS OPERATOR/AIR GUNNER/ WHO DIED HERE ON 27TH MARCH 1941 IN/ THE CRASH OF A HANDLEY-PAGE HAMPDEN/ OF THE RAF WHILST ON A TRAINING FLIGHT/ ERECTED BY/ THE MANX AVIATION PRESERVATION SOCIETY",
-  "sources": [
-    {
-      "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/67415",
-      "type": "official_database"
-    }
-  ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "On 27 March 1941, Hampden P4313 (D1) of 14 Operational Training Unit departed RAF Cottesmore at 10:15 on a cross-country navigation exercise. The aircraft flew into high ground near Ballaragh Farm House on the Isle of Man. Three crew members were killed; one was seriously injured. The slate tablet memorial, erected by the Manx Aviation Preservation Society, is mounted on the farm building wall at Ballaragh.",
   "crew": [
     {
       "name": "Douglas Barclay",
@@ -44,7 +43,7 @@
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 54.231919595474,
   "longitude": -4.389572362082,
   "grid_ref": "SC 44343",
@@ -52,5 +51,20 @@
   "died_count": 3,
   "external_narratives": [],
   "what3words": "",
-  "community_connection": "Erected by The Manx Aviation Preservation Society"
+  "community_connection": "The memorial was erected by the Manx Aviation Preservation Society and is mounted on the wall of Ballaragh Farm, at the site where the aircraft struck the hill. A fourth crew member survived seriously injured.",
+  "sources": [
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/67415",
+      "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Tony Hibberd (admin, RAF Bomber Command Memorials group), citing Chorley BCL Vol 7; photo by Jonathan Oliver",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4426435844259667/",
+      "type": "social_media",
+      "poster": "Tony Hibberd",
+      "photo_credit": "Jonathan Oliver (with permission)",
+      "source_cited": "Chorley, W.R. Bomber Command Losses Vol. 7"
+    }
+  ]
 }

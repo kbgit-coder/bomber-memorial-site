@@ -4,9 +4,15 @@
   "location_name": "Hatfield, Doncaster",
   "county": "South Yorkshire",
   "country": "United Kingdom",
-  "aircraft_type": "",
-  "serial_number": "",
-  "squadron": "",
+  "aircraft_type": "Wellington",
+  "serial_number": "W5557",
+  "aircraft_code": "SM-G",
+  "squadron": "305 (Ziemia Wielkopolska) Squadron",
+  "squadron_display_name": "305 'Ziemia Wielkopolska' (Polish) Squadron",
+  "station": "RAF Lindholme",
+  "operation_type": "Operational",
+  "operation_target": "Cologne",
+  "cause_of_loss": "Crashed on return, less than a minute from Lindholme; 01:35 on 27 September 1941",
   "crash_date": "1941-09-27",
   "memorial_type": "Cross",
   "memorial_details": "Simple Latin cross constructed from 100 mm wooden poles with a rectangular, alloy plaque mounted at the centre of the cross. The commemoration is printed in black, upper and lower-case letters. surrounded by a narrow, black border.",
@@ -21,13 +27,21 @@
       "title": "Yorkshire Aircraft — Wellington W5557, Hatfield Moor (confirms crash on return from Cologne, Hatfield Moor location, OS grid SE 69191)",
       "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york41/w5557.html",
       "type": "website"
+    },
+    {
+      "title": "Facebook post by Tony Hibberd (admin, RAF Bomber Command Memorials group), citing Chorley BCL Vol 2",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4470302439873007/",
+      "type": "social_media",
+      "poster": "Tony Hibberd",
+      "source_cited": "Chorley, W.R. Bomber Command Losses Vol. 2"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "Wellington W5557 (SM-G) of 305 'Ziemia Wielkopolska' Polish Squadron departed RAF Lindholme at 19:43 on 26 September 1941, bound for Cologne. On return, in the early hours of 27 September (01:35), the aircraft crashed on Hatfield Moss — less than a minute from its home airfield at Lindholme. The pilot was killed in the crash; two crew members pulled from the wreckage died shortly after; a fourth died the next day. Two crew survived, though injured. Four names appear on the memorial. The simple Latin cross memorial on Hatfield Moss (also known as Hatfield Moor) marks the spot in this remote peat moorland.",
+  "community_connection": "The memorial carries the inscription 'For our freedom and yours' — the motto of the Polish armed forces in exile. Hatfield Moor is an isolated peat bog south of Thorne; the memorial's remote setting underlines the loneliness of the loss, so close to home.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "external_narratives": [],
   "what3words": "",
   "grid_ref": "SE 69191",
@@ -43,6 +57,5 @@
     "https://media.iwm.org.uk/ciim5/memorials/157/272/large_sy_hatfield_moor_3.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/157/273/large_sy_hatfield_moor_4.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/157/271/large_sy_hatfield_moor_2.jpg"
-  ],
-  "community_connection": "Soldiers of Poland"
+  ]
 }

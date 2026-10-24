@@ -1,8 +1,9 @@
 {
   "id": "location-via-iwm-w4904",
-  "title": "(Location via IWM) Lancaster Memorial",
-  "location_name": "Peak District",
-  "county": "Derbyshire",
+  "title": "Lancaster W4904 Memorial, Moor Monkton",
+  "location_name": "Moor Monkton, North Yorkshire",
+  "county": "North Yorkshire",
+  "location_note": "Facebook post by Daran Walker (RAF Bomber Command Memorials group) places this memorial at Moor Monkton, North Yorkshire — consistent with the Wednesfield History Society source which references the crash near Moor Monkton and Marston Moor. The original site title '(Location via IWM)' and county 'Derbyshire' were placeholder data from the IWM entry and have been corrected.",
   "country": "United Kingdom",
   "region_code": "PN-007",
   "crash_date": "1943-09-28",
@@ -11,12 +12,20 @@
   "memorial_type": "Upright limestone cairn with incised black tablet",
   "sources": [
     {
-      "title": "IWM (memorial/65480)",
-      "type": "website"
+      "title": "IWM War Memorials Register (memorial/65480)",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/65480",
+      "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Daran Walker (RAF Bomber Command Memorials group) — places memorial at Moor Monkton, North Yorkshire; photo by Daran Walker",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4551985795038004/",
+      "type": "social_media",
+      "poster": "Daran Walker",
+      "photo_credit": "Daran Walker"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-10-23",
   "data_quality": "Comprehensive",
   "latitude": 52.86133774572582,
   "longitude": -1.891070306819895,

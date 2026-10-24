@@ -6,7 +6,10 @@
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "R5489",
-  "squadron": "",
+  "squadron": "44 (Rhodesia) Squadron",
+  "squadron_display_name": "44 (Rhodesia) Squadron RAF",
+  "aircraft_code": "KM-G",
+  "station": "RAF Waddington",
   "crash_date": "1942-08-16",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "A collection of three wall mounted associated memorials. 1) Landscape oriented, wooden board with raised inscription and names. 2) A tapestry. 3) Portrait oriented, framed and glazed document explaining the crash story.",
@@ -16,10 +19,18 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/90947",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Nick Taylor (RAF Bomber Command Memorials group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4436456169924301/",
+      "type": "social_media",
+      "poster": "Nick Taylor",
+      "photo_credit": "Nick Taylor"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "Lancaster R5489 (KM-G) of 44 (Rhodesia) Squadron, based at RAF Waddington, crashed at Branston, Lincolnshire, at 19:15 on Sunday 16 August 1942. Two crew members were killed: Sgt David Pullinger (Bomb Aimer, RNZAF) and Sgt Jack Fletcher (Flight Engineer, RAF). The surviving wireless operator, Frank Walshaw, later made and presented the wooden memorial board displayed inside All Saints Church, Branston, alongside a tapestry and a framed account of the crash. A second memorial site is located on Kirk Road (off Sleaford Road), marking the crash site itself. A timeline mural near the church also commemorates the event.",
+  "community_connection": "The memorial was made and donated to All Saints Church, Branston, by Frank Walshaw, the wireless operator who survived the crash — a direct expression of survivor's duty to remember his crewmates. A second crash-site memorial stands on Kirk Road. The two sites were photographed by Nick Taylor.",
   "crew": [
     {
       "name": "David Pullinger",
@@ -39,7 +50,7 @@
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 53.193648011869,
   "longitude": -0.47286272049,
   "grid_ref": "TF 02129",

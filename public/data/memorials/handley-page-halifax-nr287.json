@@ -16,13 +16,26 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/30819",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Paul Goddard (RAF Bomber Command Memorials group) — confirms plaque moved from fallen tree to St Mary's, Scawton; photo by Paul Goddard; note on aircraft code",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4514214572148460/",
+      "type": "social_media",
+      "poster": "Paul Goddard",
+      "photo_credit": "Paul Goddard"
     }
   ],
+  "aircraft_code": "L8-C",
+  "station": "RAF Elvington",
+  "operation_type": "Operational",
+  "operation_detail": "Return from 38th and final mission",
+  "cause_of_loss": "Damaged instruments and zero visibility on return; struck a stone wall; aircraft slid across fields and came to rest against a tree",
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "On 15 March 1945, Halifax NR287 of 347 (Tunisie) Squadron, based at RAF Elvington, was returning from its crew's 38th and final mission when it could not land — other aircraft were stacking up over the airfield. The crew flew north to await their turn. With damaged instruments and zero visibility, the aircraft struck a stone wall, spilling two occupants as it slid across the fields; it punched through another wall, became airborne briefly, and came to rest against a tree on farmland about half a mile from Scawton Church. Five Free French airmen were killed; the flight engineer and rear gunner escaped though badly injured. For some years a plaque was fixed to the tree; when it fell, the plaque was moved to the church porch at St Mary's, Scawton. Note: the Facebook source gives aircraft code as 'LB-C'; 347 Squadron's official code was L8 — verify.",
+  "community_connection": "The plaque's history reflects the village's ongoing stewardship: originally affixed to the tree where the Halifax came to rest, it was moved to St Mary's Church, Scawton, when the tree fell. The church has cared for the memorial ever since.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 54.245084491959,
   "longitude": -1.159086115972,
   "grid_ref": "SE 54895",
@@ -36,6 +49,5 @@
     "https://media.iwm.org.uk/ciim5/memorials/142/595/large_ny_scawton_2.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/121/293/large_scan_cbrogan_2021_09_07_10_46_38_2.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/121/292/large_scan_cbrogan_2021_09_07_10_46_38_1.jpg"
-  ],
-  "community_connection": "The memorial is cared for by St Mary's Church."
+  ]
 }

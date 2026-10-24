@@ -6,7 +6,12 @@
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "R1801",
-  "squadron": "",
+  "squadron": "28 OTU",
+  "squadron_display_name": "28 Operational Training Unit",
+  "station": "RAF Wymeswold",
+  "operation_type": "Training",
+  "operation_detail": "Dual and right-hand-seat flying exercise",
+  "cause_of_loss": "Unknown in-flight difficulty; struck treetop, narrowly missed church steeple, crashed and caught fire",
   "crash_date": "1942-10-07",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Large, granite stone with a rectangular bronze, dedicatory plaque. This is located beside a decorative, black, metal bench, which depicts 3 airmen and a Wellington bomber. An RAF crest in relief is at the top of the plaque and a coloured RAF crest is located top-centre of the back of the bench.",
@@ -16,13 +21,20 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/99278",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Tony Hibberd (admin, RAF Bomber Command Memorials group), citing Chorley BCL Vol 7",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4462029210700330/",
+      "type": "social_media",
+      "poster": "Tony Hibberd",
+      "source_cited": "Chorley, W.R. Bomber Command Losses Vol. 7"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "At 16:05 on 7 October 1942, Wellington R1801 of 28 Operational Training Unit ran into difficulty shortly after taking off from RAF Wymeswold on a dual and right-hand-seat flying exercise. As the crew fought to keep the aircraft airborne, it was seen passing low over the roof of Beaumanor Hall — which served as a wartime signals intelligence station — jettisoning fuel as it went. Eyewitnesses saw it clip a treetop and narrowly miss the steeple of St Mary in the Elms church before coming down near the road at Woodhouse Eaves. The aircraft was quickly engulfed in flames and exploding munitions. The valiant crew of three were all killed. Workmen from Beaumanor, passengers from a passing bus, and villagers ran to give assistance but could not reach the crew in time.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 52.731649049282,
   "longitude": -1.203655590889,
   "grid_ref": "SK 53871",
@@ -38,6 +50,6 @@
     "https://media.iwm.org.uk/ciim5/memorials/128/123/large_le_woodhouse_3.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/128/126/large_le_woodhouse_5.jpg"
   ],
-  "community_connection": "Workmen From Beaumanor, Passengers From A Passing Bus And Villagers",
+  "community_connection": "Workmen from Beaumanor Hall, passengers from a passing bus, and villagers all ran to give assistance when Wellington R1801 came down at 16:05 on 7 October 1942 — but the aircraft was quickly engulfed in flames and exploding munitions. The inscription records their names and their effort. The memorial stone and bench were erected 'in grateful remembrance from local people'.",
   "last_validated": "2026-04-12"
 }

@@ -7,6 +7,12 @@
   "aircraft_type": "Stirling",
   "serial_number": "R9329",
   "squadron": "149 Squadron",
+  "squadron_display_name": "149 Squadron RAF",
+  "aircraft_code": "OJ-V",
+  "station": "RAF Lakenheath",
+  "operation_type": "Operational",
+  "operation_detail": "Gardening (minelaying) — Gironde estuary; return flight",
+  "cause_of_loss": "Fired on by shore defences crossing the coast near Plymouth on return; crashed 8 miles inland at 03:25",
   "crash_date": "1942-08-21",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Rectangular granite freestanding stone of remembrance. Lettering is carved in black.",
@@ -16,13 +22,21 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/69860",
       "type": "official_database"
+    },
+    {
+      "title": "Facebook post by Daran Walker (RAF Bomber Command Memorials group)",
+      "url": "https://www.facebook.com/groups/1445802465656368/posts/4512001135703137/",
+      "type": "social_media",
+      "poster": "Daran Walker",
+      "photo_credit": "Daran Walker"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "In the early hours of 21 August 1942 (03:25), Stirling R9329 (OJ-V) of 149 Squadron was returning to RAF Lakenheath from a gardening (minelaying) operation in the Gironde estuary when it went off course. Crossing the coast near Plymouth, the aircraft was fired on by shore defences and crashed 8 miles inland at Gibhill Wood, Cornwood, Devon. All seven crew were killed.",
+  "community_connection": "We Will Remember Them",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-23",
   "latitude": 50.421873784994,
   "longitude": -3.980185397158,
   "grid_ref": "SX 59428",
@@ -34,6 +48,5 @@
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/63/583/large_69860_r.jpg"
   ],
-  "community_connection": "We Will Remember Them",
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/149.jpg"
 }
