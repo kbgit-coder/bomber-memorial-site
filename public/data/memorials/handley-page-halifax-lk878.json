@@ -10,7 +10,7 @@
   "crash_date": "1945-01-15",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Large, vaguely rectangular, moss-covered stone with a black, rectangular plaque upper-centre of the front face. The dedication is in white, upper-case letters. Two rectangular planters/troughs stand in front of the stone containing twisted pieces of metal (presumably from the crashed Halifax). This crash is also commemorated at St Felix Church, Felixkirk (see 102083)",
-  "inscription": "WORLD WAR II AIR CRASH/ 15TH JANUARY 1945/ ON ROUTE FROM TOPCLIFFE AIRFIELD/ HALIFAX MK III LK 878 - 1659 H.C.U. TOPCLIFFE/ CRASHED HERE ON 15TH JANUARY 1945 AT 2058 HOURS FLYING CIRCUITS AND LANDINGS/ TAKING OFF AT 2055 HOURS, DURATION OF FLIGHT ONLY 3 MINUTES/ CREW OF 9, ALL KILLED IN CRASH/ (names)",
+  "inscription": "WORLD WAR II AIR CRASH/ 15TH JANUARY 1945/ ON ROUTE FROM TOPCLIFFE AIRFIELD/ HALIFAX MK III LK 878 - 1659 H.C.U. TOPCLIFFE/ CRASHED HERE ON 15TH JANUARY 1945 AT 2058 HOURS FLYING CIRCUITS AND LANDINGS/ TAKING OFF AT 2055 HOURS, DURATION OF FLIGHT ONLY 3 MINUTES/ CREW OF 9, ALL KILLED IN CRASH/ Angus John Macdonnell/ James Alexander McCrea/ Duncan Pearson McGregor/ Frank William Mooney/ Michael O'Sullivan/ Albert Robson/ Joseph Aloysius Savy/ Leonard Charles Stavenow/ Geoffrey Walton",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,44 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "name": "Angus John Macdonnell",
+      "fate": "Killed"
+    },
+    {
+      "name": "James Alexander McCrea",
+      "fate": "Killed"
+    },
+    {
+      "name": "Duncan Pearson McGregor",
+      "fate": "Killed"
+    },
+    {
+      "name": "Frank William Mooney",
+      "fate": "Killed"
+    },
+    {
+      "name": "Michael O'Sullivan",
+      "fate": "Killed"
+    },
+    {
+      "name": "Albert Robson",
+      "fate": "Killed"
+    },
+    {
+      "name": "Joseph Aloysius Savy",
+      "fate": "Killed"
+    },
+    {
+      "name": "Leonard Charles Stavenow",
+      "fate": "Killed"
+    },
+    {
+      "name": "Geoffrey Walton",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.252107675604,

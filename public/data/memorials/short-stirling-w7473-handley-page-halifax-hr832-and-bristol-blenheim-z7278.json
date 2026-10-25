@@ -10,7 +10,7 @@
   "crash_date": "1942-04-23",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "description: A MEMORIAL TO THE AIRCREW WHO DIED/ WHEN THEIR AIRCRAFT CRASHED IN/ THE PARISH OF CLENCHWARTON/ STIRLING W 7473/ 218 SQUADRON/ RAF MARHAM/ CRASHED IN INGRAMS FIELD/ 23rd APRIL 1942 / (NAMES)/ HALIFAX HR 832/ 404 (VANCOUVER) SQDN/ RAF GRANSDEN LODGE/ CRASHED AT/ CLIFTON FARM/16TH JUNE 1943/  (NAMES) MOSQUITO ...../ (NAMES)/ HURRICANE .../(NAME)/ OXFORD .../ (NAMES)/  MAY THEY REST IN PEACE",
-  "inscription": "A MEMORIAL TO THE AIRCREW WHO DIED/ WHEN THEIR AIRCRAFT CRASHED IN/ THE PARISH OF CLENCHWARTON/ STIRLING W 7473/ 218 SQUADRON/ RAF MARHAM/ CRASHED IN INGRAMS FIELD/ 23rd APRIL 1942 / (NAMES)/ HALIFAX HR 832/ 404 (VANCOUVER) SQDN/ RAF GRANSDEN LODGE/ CRASHED AT/ CLIFTON FARM/16TH JUNE 1943/ (NAMES) MOSQUITO ...../ (NAMES)/ HURRICANE .../(NAME)/ OXFORD .../ (NAMES)/ MAY THEY REST IN PEACE",
+  "inscription": "A MEMORIAL TO THE AIRCREW WHO DIED/ WHEN THEIR AIRCRAFT CRASHED IN/ THE PARISH OF CLENCHWARTON/ STIRLING W 7473/ 218 SQUADRON/ RAF MARHAM/ CRASHED IN INGRAMS FIELD/ 23rd APRIL 1942/ SGT S V DAVIDGE/ SGT W J G RIETER/ SGT A SQUIRES/ SGT J HARTLEY/ SGT J K W PAUL/ SGT A J THORBURN/ SGT W J COOK/ HALIFAX HR 832/ 405 SQUADRON RCAF/ RAF GRANSDEN LODGE/ CRASHED AT CLIFTON FARM/ 16th JUNE 1943/ FLT LT C D LAWSON/ SGT M K HOLLIDAY/ FG OFF R E G AGASSIZ RCAF/ FG OFF L W A FREWIN/ SGT A FAULKNER/ FLT SGT C L PUDNEY RCAF/ FG OFF W C DAVIES RCAF/ BLENHEIM Z 7278/ RAF WEST RAYNHAM/ CRASHED IN WEST FIELD/ 14th OCTOBER 1941/ SGT W J ANSTEY/ SGT A J SOUTHWOOD/ SGT J W KERRISON",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,15 +20,173 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Shirley Vincent Davidge",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "1186826",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Willem Joseph Gerard Rieter",
+      "role": "Crew",
+      "nationality": "Dutch",
+      "fate": "Killed",
+      "service_number": "1271309",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Abson Squires",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "545944",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Hartley",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "989820",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Jamie Kitchener Wendle Paul",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "1380822",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Archibald John Thorburn",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "960871",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William James Cook",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "540952",
+      "aircraft": "W7473"
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "Christopher Daniel Lawson",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 27,
+      "service_number": "46731",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Malcolm Keith Holliday",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "577168",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Roland Ernest Garnault Agassiz",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "J/14194",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Lawrence William Arthur Frewin",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "129176",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur Faulkner",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1030315",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Clinton Landis Pudney",
+      "role": "Air Gunner",
+      "nationality": "American",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "R/139022",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Walter Cecil Davies",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "J/14421",
+      "aircraft": "HR832"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William John Anstey",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "aircraft": "Z7278"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Anthony James Southwood",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "aircraft": "Z7278"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Jack William Kerrison",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "aircraft": "Z7278"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 52.755176499145,
   "longitude": 0.351645257101,
   "grid_ref": "TF 58735",
   "photos": [],
-  "names_on_memorial": 19,
-  "died_count": 19,
+  "names_on_memorial": 17,
+  "died_count": 17,
   "external_narratives": [],
   "what3words": "",
   "iwm_photo_urls": [

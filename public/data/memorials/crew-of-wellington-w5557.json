@@ -16,7 +16,7 @@
   "crash_date": "1941-09-27",
   "memorial_type": "Cross",
   "memorial_details": "Simple Latin cross constructed from 100 mm wooden poles with a rectangular, alloy plaque mounted at the centre of the cross. The commemoration is printed in black, upper and lower-case letters. surrounded by a narrow, black border.",
-  "inscription": "IN MEMORY OF THE SOLDIERS OF POLAND/ (names)/ WHO DIED HERE ON 27TH SEPTEMBER 1941/ FOR OUR FREEDOM AND YOURS.",
+  "inscription": "IN MEMORY OF THE SOLDIERS OF POLAND/ Sgt Eugene Buszko/ Sgt Jerzy Slawomir Leyche/ Sgt Wictor Wasilenko/ Sgt Tadeusz Korczyk/ WHO DIED HERE ON 27TH SEPTEMBER 1941/ FOR OUR FREEDOM AND YOURS.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -37,7 +37,41 @@
   "data_quality": "Partial",
   "narrative": "Wellington W5557 (SM-G) of 305 'Ziemia Wielkopolska' Polish Squadron departed RAF Lindholme at 19:43 on 26 September 1941, bound for Cologne. On return, in the early hours of 27 September (01:35), the aircraft crashed on Hatfield Moss — less than a minute from its home airfield at Lindholme. The pilot was killed in the crash; two crew members pulled from the wreckage died shortly after; a fourth died the next day. Two crew survived, though injured. Four names appear on the memorial. The simple Latin cross memorial on Hatfield Moss (also known as Hatfield Moor) marks the spot in this remote peat moorland.",
   "community_connection": "The memorial carries the inscription 'For our freedom and yours' — the motto of the Polish armed forces in exile. Hatfield Moor is an isolated peat bog south of Thorne; the memorial's remote setting underlines the loneliness of the loss, so close to home.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Eugene Buszko",
+      "role": "Pilot",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "age": 27
+    },
+    {
+      "rank": "Sgt",
+      "name": "Jerzy Slawomir Leyche",
+      "role": "Wireless Operator",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "Wictor Wasilenko",
+      "role": "Air Gunner",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "age": 18
+    },
+    {
+      "rank": "Sgt",
+      "name": "Tadeusz Korczyk",
+      "role": "Second Pilot",
+      "nationality": "Polish",
+      "fate": "Killed",
+      "age": 27,
+      "fate_detail": "Died of injuries 28 September 1941"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "external_narratives": [],

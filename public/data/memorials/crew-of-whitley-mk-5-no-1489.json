@@ -10,7 +10,7 @@
   "crash_date": "1940-08-29",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "VARNISHED MAHOGANY Wooden Board. Memorial to the crew that crashed on Silsden Moor",
-  "inscription": "IN LOVING MEMORY OF THE CREW OF AIRCRAFT/ NO 1489 WHITLEY MK 5 102 SQUADRON/ CRASHED ON SILSDEN MOOR MIDNIGHT 28/29TH AUGUST 1940/ (names)/ \"WE WILL REMEMBER THEM\"",
+  "inscription": "IN LOVING MEMORY OF THE CREW OF AIRCRAFT/ NO 1489 WHITLEY MK 5 102 SQUADRON/ CRASHED ON SILSDEN MOOR MIDNIGHT 28/29TH AUGUST 1940/ SGT N K BOTT/ P/O A W FLETCHER/ SGT C W C F HARRISON/ SGT A STEEL/ SGT L G SMALLEY (SURVIVED)/ \"WE WILL REMEMBER THEM\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,57 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Norman Kelvin Bott",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "742082",
+      "burial_location": "Welford Road Cemetery, Leicester"
+    },
+    {
+      "rank": "P/O",
+      "name": "Alexander William Fletcher",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "42828",
+      "burial_location": "Cumnor Churchyard, Oxford"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles William Cavey Fleming Harrison",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 31,
+      "service_number": "747970",
+      "burial_location": "Leeming, Yorkshire"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alan Steel",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "550484",
+      "burial_location": "Mexborough Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Geoffrey Smalley",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Survived (injured)",
+      "service_number": "632821"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.913907595649,
   "longitude": -1.937987848538,
   "grid_ref": "SE 04170",

@@ -6,11 +6,11 @@
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "EF127",
-  "squadron": "",
+  "squadron": "1661 HCU",
   "crash_date": "1944-02-26",
   "memorial_type": "Model",
   "memorial_details": "A model of a Stirling bomber on a brick wall, near the site of a crashed aircraft with a plaque remembering the crew, two of whom survived.",
-  "inscription": "LEST WE FORGET / THIS MONUMENT IS TO REMEMBER THE CREW OF THE STIRLING BOMBER / WHICH CRASHED ON SATURDAY 26TH FEBRUARY 1944 / (NAMES) / THEY FOUGHT FOR OUR FREEDOM",
+  "inscription": "LEST WE FORGET / THIS MONUMENT IS TO REMEMBER THE CREW OF THE STIRLING BOMBER / WHICH CRASHED ON SATURDAY 26TH FEBRUARY 1944 / FLT SGT W V MANIEL RAAF / FLT SGT C D BIRD RAAF / FLT SGT G R J MACOUN RAAF / FLT SGT S E CHRISTIE RAAF / FLT SGT G DAVISON / THEY FOUGHT FOR OUR FREEDOM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,14 +20,79 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "William Victor Maniel",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 27,
+      "service_number": "401986",
+      "burial_location": "Oxford (Botley) Cemetery"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Campbell David Bird",
+      "role": "Navigator",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "418048",
+      "burial_location": "Oxford (Botley) Cemetery"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "George Richard Joseph Macoun",
+      "role": "Bomb Aimer",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "426127",
+      "burial_location": "Oxford (Botley) Cemetery"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Sidney Edward Christie",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 27,
+      "service_number": "423650",
+      "burial_location": "Oxford (Botley) Cemetery"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "George Davison",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "1677871",
+      "burial_location": "Tanfield St Margaret's Church, Stanley, Co. Durham"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "R J Plath",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "Australian",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "W I Taylor",
+      "role": "Air Gunner (Rear)",
+      "nationality": "Australian",
+      "fate": "Survived"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.187544135668,
   "longitude": -1.107190664209,
   "grid_ref": "SK59926",
   "photos": [],
-  "names_on_memorial": 7,
+  "names_on_memorial": 5,
   "died_count": 5,
   "external_narratives": [],
   "what3words": "",

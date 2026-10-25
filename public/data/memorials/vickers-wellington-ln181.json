@@ -10,7 +10,7 @@
   "crash_date": "1944-03-20",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Wall mounted board with incription, badges of the RAF and RCAF, and outline of a Wellington bomber",
-  "inscription": "DEDICATED TO THE CANADIAN CREW/ OF THE RAF WELLINGTON Mk X LN181 OF 82 OTU/ Which crashed in Yardly Gobion on the night of 20th March 1944,/ killing all eight crew members./ (NAMES)",
+  "inscription": "DEDICATED TO THE CANADIAN CREW/ OF THE RAF WELLINGTON Mk X LN181 OF 82 OTU/ Which crashed in Yardley Gobion on the night of 20th March 1944,/ killing all eight crew members./ Fg Off Charles Richard Floyd/ Fg Off Ronald Frank Calnan/ Fg Off Ralph Northcliffe MacGillivray/ Fg Off Daniel Louis Jacobs/ Fg Off Melville Lloyd Fullerton/ Sgt Lorne Herbert Johnston/ Sgt Harry Charles Millen/ Sgt William James Mohring/ RCAF insignia: PER ARDUA AD ASTRA/ ROYAL CANADIAN AIR FORCE/ RAF insignia: PER ARDUA AD ASTRA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,80 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Charles Richard Floyd",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "J25830"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Ronald Frank Calnan",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 25,
+      "service_number": "J35111"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Ralph Northcliffe MacGillivray",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "J19367"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Daniel Louis Jacobs",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "J29518"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Melville Lloyd Fullerton",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "J28902"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Lorne Herbert Johnston",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "R154789"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harry Charles Millen",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 36,
+      "service_number": "C6073"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William James Mohring",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "J27960"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.095991209783,

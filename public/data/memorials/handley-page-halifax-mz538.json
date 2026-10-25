@@ -10,7 +10,7 @@
   "crash_date": "1944-12-18",
   "memorial_type": "Painting / Print",
   "memorial_details": "Framed-and-glazed print commemorating the crew of a Halifax bomber, which crashed close to the village of Alne. Two (apparently similar) 425 squadron badges are shown at the bottom left of the print.",
-  "inscription": "LH column: LEST WE FORGET/ ON 18TH DECEMBER 1944 A HALIFAX BOMBER/ MZ538-425 SQUADRON RCAF CRASHED AFTER/ TAKING OFF FROM THOLTHORPE WITH A FULL LOAD OF/ BOMBS HITTING TREES CLOSE TO THE VILLAGE OF/ ALNE. THE EXPLOSION CAUSED THE LOSS OF ALL/ EIGHT CREW MEMBERS. IT WAS BY THE SKILL OF/ THE PILOT F/O JOSEPH R.J.M. DESMARIS DFC/ THAT MASSIVE CASUALTIES WERE SAVED./ THE ALTAR WINDOW WAS DAMAGED AND WAS/ RESTORED WITH NEW STAINED GLASS IN 1958. THE/ CANADIAN CREW ARE BURIED SIDE BY SIDE IN THE/ COMMONWEALTH WAR GRAVES COMMISSION'S/PLOT AT STONEFALL CEMETERY, HARROGATE./ (sqaudron badges)/ JE TE PLUMERAI - \"I SHALL PLUCK YOU\" RH column: THE FULL CREW CONSISTED OF:/ (names)/ THEY GAVE THEIR LIVES FOR US/REST IN PEACE, PERFECT PEACE",
+  "inscription": "LH column: LEST WE FORGET/ ON 18TH DECEMBER 1944 A HALIFAX BOMBER/ MZ538-425 SQUADRON RCAF CRASHED AFTER/ TAKING OFF FROM THOLTHORPE WITH A FULL LOAD OF/ BOMBS HITTING TREES CLOSE TO THE VILLAGE OF/ ALNE. THE EXPLOSION CAUSED THE LOSS OF ALL/ EIGHT CREW MEMBERS. IT WAS BY THE SKILL OF/ THE PILOT F/O JOSEPH R.J.M. DESMARIS DFC/ THAT MASSIVE CASUALTIES WERE SAVED./ THE ALTAR WINDOW WAS DAMAGED AND WAS/ RESTORED WITH NEW STAINED GLASS IN 1958. THE/ CANADIAN CREW ARE BURIED SIDE BY SIDE IN THE/ COMMONWEALTH WAR GRAVES COMMISSION'S/PLOT AT STONEFALL CEMETERY, HARROGATE./ (sqaudron badges)/ JE TE PLUMERAI - \"I SHALL PLUCK YOU\" RH column: THE FULL CREW CONSISTED OF:/ Fg Off Joseph Raymond Jean Marie Desmarais DFC/ P/O Joseph Blackburn/ Fg Off Joseph Wilfred Laurier Bernier/ P/O Joseph Rosaire Jean Charles Labrecque/ P/O Joseph Edward Lawrence Dubois/ Flt Sgt Joseph Maurice Paradis/ Flt Sgt Joseph Rene Lariviere/ P/O Raymond Charles Gauthier/ THEY GAVE THEIR LIVES FOR US/REST IN PEACE, PERFECT PEACE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -27,9 +27,71 @@
   "narrative": "On 18 December 1944, Halifax MZ538 of 425 Squadron RCAF crashed shortly after taking off from Tholthorpe with a full bomb load, hitting trees close to the village of Alne in North Yorkshire. All eight crew were killed. Flying Officer Joseph R.J.M. Desmaris DFC was the pilot; the inscription records that it was his skill in controlling the stricken aircraft that prevented larger casualties on the ground. The eight Canadian crew are buried side by side in the Commonwealth War Graves Commission plot at Stonefall Cemetery, Harrogate. The blast damaged the altar window of the local church; it was restored with new stained glass in 1958. A framed print commemorating the crew is held at St Mary the Virgin Church, Alne.",
   "crew": [
     {
-      "rank": "F/O",
-      "name": "JOSEPH R.J.M. DESMARIS",
-      "fate": "Unknown"
+      "rank": "Fg Off",
+      "name": "Joseph Raymond Jean Marie Desmarais",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 24,
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "P/O",
+      "name": "Joseph Blackburn",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 36
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Joseph Wilfred Laurier Bernier",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "P/O",
+      "name": "Joseph Rosaire Jean Charles Labrecque",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 28
+    },
+    {
+      "rank": "P/O",
+      "name": "Joseph Edward Lawrence Dubois",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 24
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Joseph Maurice Paradis",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Joseph Rene Lariviere",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 24
+    },
+    {
+      "rank": "P/O",
+      "name": "Raymond Charles Gauthier",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20
     }
   ],
   "contributor": "IWM War Memorials Register",

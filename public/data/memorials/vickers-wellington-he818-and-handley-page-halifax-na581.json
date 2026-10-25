@@ -10,7 +10,7 @@
   "crash_date": "1944-03-07",
   "memorial_type": "Cairn",
   "memorial_details": "BRICK CAIRN WITH DEDICATORY TABLETS PLACED ON EITHER SIDE. INCISED INSCRIPTION RAF AND RCAF CREST AT THE TOP OF THIER RESPECTIVE TABLETS",
-  "inscription": "SOUTH SIDE: R. A. F./ 18 O. T. U. R. A. F. WORKSOP/ WELLINGTON HE818/ IN MEMORY OF/ (NAMES)/ DIED 7TH MARCH 1944/ BLYTH/ (NAME) SURVIVED/ DIED ON ACTIVE SERVICE/ AUGUST 1944\r\n\r\nNORTH SIDE:  R. C. A. F./ 425 (ALQUETTE) SQUADRON/ HALIFAX NA 581/ R. A. F. THOLTHORPE/ IN MEMORY OF/ (NAMES)/ DIED 2ND AUGUST 1944/ HODSOCK\r\n\r\nEAST SIDE: DEDICATED/ 14TH SEPT 1997",
+  "inscription": "SOUTH SIDE: R. A. F./ 18 O. T. U. R. A. F. WORKSOP/ WELLINGTON HE818/ IN MEMORY OF/ SGT D W TINDELL/ PLT OFF F R BEDFORD/ SGT R W TUNNICLIFFE/ SGT C R WHISK/ DIED 7TH MARCH 1944/ BLYTH/ (NAME) SURVIVED/ DIED ON ACTIVE SERVICE/ AUGUST 1944\n\nNORTH SIDE:  R. C. A. F./ 425 (ALQUETTE) SQUADRON/ HALIFAX NA 581/ R. A. F. THOLTHORPE/ IN MEMORY OF/ P/O J E CODE/ P/O P P DAVIES/ P/O J J PIGEON/ P/O E F PITKIN/ DIED 2ND AUGUST 1944/ HODSOCK\n\nEAST SIDE: DEDICATED/ 14TH SEPT 1997",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,82 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Derek William Tindell",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1611612",
+      "aircraft": "HE818"
+    },
+    {
+      "rank": "Plt Off",
+      "name": "Frank Reginald Bedford",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 33,
+      "service_number": "169914",
+      "aircraft": "HE818"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ralph Wallace Tunnicliffe",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1621263",
+      "aircraft": "HE818"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Robson Whisk",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1549110",
+      "aircraft": "HE818"
+    },
+    {
+      "rank": "P/O",
+      "name": "John Edward Code",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "aircraft": "NA581"
+    },
+    {
+      "rank": "P/O",
+      "name": "Paul Patrick Davies",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "aircraft": "NA581"
+    },
+    {
+      "rank": "P/O",
+      "name": "John Jerome Pigeon",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "aircraft": "NA581"
+    },
+    {
+      "rank": "P/O",
+      "name": "Edmund Francis Pitkin",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "aircraft": "NA581"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.375207,
   "longitude": -1.0606629,
   "grid_ref": "SK 62590",

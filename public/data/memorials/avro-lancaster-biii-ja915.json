@@ -10,7 +10,7 @@
   "crash_date": "1943-09-03",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Large rectangular metal plaque with nowy top. Relief engraving of Lancaster in nowy. Raised gold lettering.",
-  "inscription": "REMEMBER BEFORE GOD/ THE CREW OF LANCASTER BIII GTU/ 156 SQUADRON (PATHFINDERS)/ (NAMES)/ Crashed at Green Farm, Kenninghall/ Noon, 3rd September 1943/ \"We light the way\"",
+  "inscription": "REMEMBER BEFORE GOD/ THE CREW OF LANCASTER BIII GTU/ 156 SQUADRON (PATHFINDERS)/ Fg Off Clifford Foderingham DFC/ Fg Off Robert Thomas Hood DFM/ Fg Off William Campbell Gordon DFC/ Flt Sgt Horace Robert Ross/ Fg Off Angus William Stewart DFM/ Flt Lt Kenneth Bernard Watkins/ Crashed at Green Farm, Kenninghall/ Noon, 3rd September 1943/ \"We light the way\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,62 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Clifford Foderingham",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Robert Thomas Hood",
+      "role": "Flight Engineer",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "decorations": [
+        "DFM"
+      ]
+    },
+    {
+      "rank": "Fg Off",
+      "name": "William Campbell Gordon",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Horace Robert Ross",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Angus William Stewart",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "decorations": [
+        "DFM"
+      ]
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "Kenneth Bernard Watkins",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.433869489827,

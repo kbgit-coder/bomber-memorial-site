@@ -16,7 +16,7 @@
   "crash_date": "1943-06-19",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Black, rectangular, marble tablet mounted at a low, oblique angle on a low, brick-built plinth. The dedication is in gold, raised, upper and lower-case letters. A picture of a Halifax bomber is top centre of the tablet.\n\nThe memorial is erected by the community of Elvington, indicating a strong local connection.\n\nThe inscription was erected by the community of Elvington, the crew's home station.",
-  "inscription": "TO THE MEMORY OF/ (names)/ MEMBERS OF 77 SQUADRON FROM ELVINGTON WHO LOST THEIR/ LIVES IN A HALIFAX BOMBER WHICH CRASHED NEAR THIS SITE/ DURING TAKEOFF ON A BOMBING MISSION TO LE CRUESOT FRANCE/ 10.06 PM 19TH JUNE 1943/ THEY GAVE THEIR TODAY FOR OUR TOMORROW",
+  "inscription": "TO THE MEMORY OF/ D H Clinch/ S W Cooke/ F Danby/ A H Gurry/ N R Holledge/ R E Macdonald/ A W S Young/ MEMBERS OF 77 SQUADRON FROM ELVINGTON WHO LOST THEIR/ LIVES IN A HALIFAX BOMBER WHICH CRASHED NEAR THIS SITE/ DURING TAKEOFF ON A BOMBING MISSION TO LE CRUESOT FRANCE/ 10.06 PM 19TH JUNE 1943/ THEY GAVE THEIR TODAY FOR OUR TOMORROW",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -31,7 +31,36 @@
   ],
   "data_quality": "Partial",
   "narrative": "Halifax JB863 (KN-V) of 77 Squadron, based at RAF Elvington, crashed shortly after take-off on the evening of 19 June 1943 while bound for Le Creusot, France. The aircraft came down on what is now the course of Fulford Golf Club near Heslington, York. Several airmen were killed. The memorial tablet is maintained by Fulford Golf Club.",
-  "crew": [],
+  "crew": [
+    {
+      "name": "D H Clinch",
+      "fate": "Killed"
+    },
+    {
+      "name": "S W Cooke",
+      "fate": "Killed"
+    },
+    {
+      "name": "F Danby",
+      "fate": "Killed"
+    },
+    {
+      "name": "A H Gurry",
+      "fate": "Killed"
+    },
+    {
+      "name": "N R Holledge",
+      "fate": "Killed"
+    },
+    {
+      "name": "R E Macdonald",
+      "fate": "Killed"
+    },
+    {
+      "name": "A W S Young",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "latitude": 53.926833912142,

@@ -10,7 +10,7 @@
   "crash_date": "1942-11-09",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain, rectangular, white marble tablet mounted on a black backboard. Commemoration is in black, upper case letters. A smaller framed and glazed print of the 425 squadron badge is mounted below the tablet.",
-  "inscription": "IN MEMORY OF/ (names)/ CREW MEMBERS OF THE WELLINGTON MK III BOMBER/ OF THE 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHICH CRASHED AT BEETLEY ON THE NIGHT OF/ 9TH NOVEMBER 1942",
+  "inscription": "IN MEMORY OF/ Flt Sgt Raymond Rogers Foltz/ Fg Off George Stevenson Cartwright/ Flt Sgt Roy Norman Victor Burke/ Flt Sgt Joseph Eugene Raymond Laporte/ CREW MEMBERS OF THE WELLINGTON MK III BOMBER/ OF THE 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHICH CRASHED AT BEETLEY ON THE NIGHT OF/ 9TH NOVEMBER 1942",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,36 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "Raymond Rogers Foltz",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "George Stevenson Cartwright",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Roy Norman Victor Burke",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Joseph Eugene Raymond Laporte",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "status": "SUPERSEDED",

@@ -10,7 +10,7 @@
   "crash_date": "1945-01-14",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Large stone (possibly limestone), vaguely triangular with finished, vertical, front face, upon which is mounted a square, polished, black marble tablet. A Bomber Command crest in gold relief is displayed above the dedication, also in gold, relief, upper-case letters.",
-  "inscription": "THIS MEMORIAL IS DEDICATED TO THE SIX AIRCREW OF/ WELLINGTON BOMBER MF 116/ 26 OTU, R.A.F. WING, OXFORDSHIRE/ WHO PERISHED WHHEN THEIR AIRCRAFT CRASHED/ ON THIS SPOT DURING THE NIGHT OF/14TH JANUARY 1945/ \"THEIR NAMES LIVETH FOR EVERMORE\"/ (names)",
+  "inscription": "THIS MEMORIAL IS DEDICATED TO THE SIX AIRCREW OF/ WELLINGTON BOMBER MF 116/ 26 OTU, R.A.F. WING, OXFORDSHIRE/ WHO PERISHED WHEN THEIR AIRCRAFT CRASHED/ ON THIS SPOT DURING THE NIGHT OF/ 14TH JANUARY 1945/ FG OFF N CHOBANIUK RCAF/ SGT J W MCMURDO RCAF/ SGT L G GOOD/ SGT J S GUNN/ SGT J THOMPSON/ SGT C D PARKER/ \"THEIR NAMES LIVETH FOR EVERMORE\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,57 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Nickolas Chobaniuk",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "service_number": "J/23790"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John William McMurdo",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 33,
+      "service_number": "R/67119"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leslie George Good",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Sidney Gunn",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Thompson",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Dennis Parker",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "3041583"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 52.53105800418,
   "longitude": -1.362825160627,
   "grid_ref": "SP 43320",

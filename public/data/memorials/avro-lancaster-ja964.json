@@ -10,7 +10,7 @@
   "crash_date": "1944-03-22",
   "memorial_type": "Photograph",
   "memorial_details": "Black & White photograph of aircrew in front of a Lancaster bomber mounted under clear plastic. Crew details printed in white letters.",
-  "inscription": "REMEMBERING THE 70TH ANNIVERSARY OF LANCASTER JB455 (sic) OF 7 SQUADRON SHOT/ DOWN BY A NIGHT FIGHTER ON 22ND MARCH 1944 RETURNING FROM FRANKFURT/(names)",
+  "inscription": "REMEMBERING THE 70TH ANNIVERSARY OF LANCASTER JA964 OF 7 SQUADRON SHOT/ DOWN BY A NIGHT FIGHTER ON 22ND MARCH 1944 RETURNING FROM FRANKFURT/ FG OFF J H WYBORN/ FLT SGT J LAMBERT RAAF/ FLT SGT G E HAMILTON RNZAF/ SGT A E BULLIVANT",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,11 +20,70 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "John Henry Wyborn",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "124519"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Jack Lambert",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "421229"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Gordon Eben Hamilton",
+      "role": "Air Gunner (Rear)",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "424979"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Edward Bullivant",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "1805873"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Kenneth Hinde",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Prisoner of War",
+      "service_number": "413382"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Unknown",
+      "role": "Crew",
+      "nationality": "Unknown",
+      "fate": "Prisoner of War"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Unknown",
+      "role": "Crew",
+      "nationality": "Unknown",
+      "fate": "Prisoner of War"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "photos": [],
-  "names_on_memorial": 5,
+  "names_on_memorial": 4,
   "died_count": 4,
   "custodian": "All Saints' Church",
   "external_narratives": [],

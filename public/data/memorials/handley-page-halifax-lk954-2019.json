@@ -10,7 +10,7 @@
   "crash_date": "1943-11-03",
   "memorial_type": "Wall",
   "memorial_details": "A brick wall with capped pillars at both end in front of a low brick plinth with a sloping top. A rectangular, black plaque with dedication, names and a poem in white lettering is located on the sloping face. At the top of the plaque is an RAF crest and at the bottom an outline of a Halifax bomber. In front and below the plinth is a honey-coloured stone block mounted on a black post with the RCAF crest carved in relief on the top face. Behind and either side of the wall are 2 flagpoles flying the Union Jack (LHS) and Canadian flag (RHS). This memorial is in addition to a similar older memorial (ref 92485) located 1 kilometre northeast, which is no longer easily accessible.",
-  "inscription": "THIS MEMORIAL IS DEDICATED TO THE CREW OF HALIFAX BOMBER LK954 NA/E OF 428 (GHOST) SQUADRON ROYAL CANADIAN AIR FORCE WHICH/ CRASHED CLOSE TO THIS POINT ON 3RD NOVEMBER 1943 AS A RESULT OF ENEMY ACTION. THE EIGHT CREW, WHO TOOK OFF FROM ROYAL AIR FORCE/ MIDDLETON-ST- GEORGE ON A BOMBING MISSION OVER DUSSELDORF, WERE ALL KILLED. AT 18 YEARS OF AGE, PILOT OFFICER A E MCKENZIE WAS ONE/ OF THE YOUNGEST CANADIANS TO BE KILLED ON BOMBER OPERATIONS DURING WORLD WAR II. THHE THREE NON-COMMISSIONED OFFICERS ON BOARD/ WERE ALL ROYAL AIR FORCE./ LHS (names) RHS (poem) OH, I HAVE SLIPPED THE SURLY BONDS OF EARTH,/ AND DANCED THE SKIES ON LAUGHTER-SILVERED WINGS, SUNWARD I'VE CLIMBED AND JOINED THE TUMBLING MIRTH/ OF SUN-SPLIT CLOUDS - AND DONE A HUNDRED THINGS/ YOU HAVE NOT DREAMED OF - WHEELED AND SOARED AND SWUNG/ HIGH IN THE SUNLIT SILENCE. HOV'RING THERE, I'VE CHASED THE SHOUTING WIND ALONG AND FLUNG/ MY EAGER CRAFT THROUGH FOOTLESS HALLS OF AIR./ UP, UP THE LONG DELIRIOUS, BURNING BLUE/ I'VE TOPPED THE WIND SWEPT HEIGHTS WITH EASY GRACE,/ WHERE NEVER LARK, OR EVEN EAGLE, FLEW;/ AND, WHILE WITH SILENT, LIFTING MIND I'VE TROD/ THE HIGH UNTRESPASSED SANCTITY OF SPACE,/ PUT OUT MY HAND, AND TOUCHED THE FACE OF GOD./ P.OFF JOHN GILLESPIE MAGEE RCAF (1922-1941)",
+  "inscription": "THIS MEMORIAL IS DEDICATED TO THE CREW OF HALIFAX BOMBER LK954 NA/E OF 428 (GHOST) SQUADRON ROYAL CANADIAN AIR FORCE WHICH/ CRASHED CLOSE TO THIS POINT ON 3RD NOVEMBER 1943 AS A RESULT OF ENEMY ACTION. THE EIGHT CREW, WHO TOOK OFF FROM ROYAL AIR FORCE/ MIDDLETON-ST- GEORGE ON A BOMBING MISSION OVER DUSSELDORF, WERE ALL KILLED. AT 18 YEARS OF AGE, PILOT OFFICER A E MCKENZIE WAS ONE/ OF THE YOUNGEST CANADIANS TO BE KILLED ON BOMBER OPERATIONS DURING WORLD WAR II. THHE THREE NON-COMMISSIONED OFFICERS ON BOARD/ WERE ALL ROYAL AIR FORCE./ LHS Fg Off Robert George Eaton/ Fg Off Allen Keith Hodgkinson/ P/O Alan Edward MacKenzie/ Sgt Albert Edward Moss/ Sgt Harry Bernard Shimwell/ Fg Off Lester Lyle Whitham/ Sgt Allan Desmond Weigh RHS (poem) OH, I HAVE SLIPPED THE SURLY BONDS OF EARTH,/ AND DANCED THE SKIES ON LAUGHTER-SILVERED WINGS, SUNWARD I'VE CLIMBED AND JOINED THE TUMBLING MIRTH/ OF SUN-SPLIT CLOUDS - AND DONE A HUNDRED THINGS/ YOU HAVE NOT DREAMED OF - WHEELED AND SOARED AND SWUNG/ HIGH IN THE SUNLIT SILENCE. HOV'RING THERE, I'VE CHASED THE SHOUTING WIND ALONG AND FLUNG/ MY EAGER CRAFT THROUGH FOOTLESS HALLS OF AIR./ UP, UP THE LONG DELIRIOUS, BURNING BLUE/ I'VE TOPPED THE WIND SWEPT HEIGHTS WITH EASY GRACE,/ WHERE NEVER LARK, OR EVEN EAGLE, FLEW;/ AND, WHILE WITH SILENT, LIFTING MIND I'VE TROD/ THE HIGH UNTRESPASSED SANCTITY OF SPACE,/ PUT OUT MY HAND, AND TOUCHED THE FACE OF GOD./ P.OFF JOHN GILLESPIE MAGEE RCAF (1922-1941)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -22,13 +22,67 @@
   "narrative": "",
   "crew": [
     {
-      "name": "A.E. McKenzie",
-      "rank": "P/O",
-      "fate": "Killed",
-      "role": "Pilot",
+      "rank": "Fg Off",
+      "name": "Robert George Eaton",
+      "role": "Crew",
       "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 31,
+      "service_number": "C/20879"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Allen Keith Hodgkinson",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "J/22156"
+    },
+    {
+      "rank": "P/O",
+      "name": "Alan Edward MacKenzie",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
       "age": 18,
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=McKenzie&Initials=AE"
+      "service_number": "J/18334"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Edward Moss",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "807289"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harry Bernard Shimwell",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "2204168"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Lester Lyle Whitham",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "J/22492"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Allan Desmond Weigh",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1481511"
     }
   ],
   "contributor": "IWM War Memorials Register",
@@ -37,8 +91,8 @@
   "longitude": -0.243718526231,
   "grid_ref": "TF 17869",
   "photos": [],
-  "names_on_memorial": 8,
-  "died_count": 8,
+  "names_on_memorial": 7,
+  "died_count": 7,
   "custodian": "South Kyme Golf Club",
   "external_narratives": [],
   "what3words": "",

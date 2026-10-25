@@ -10,7 +10,7 @@
   "crash_date": "1944-05-25",
   "memorial_type": "Sculpture",
   "memorial_details": "Part of a WW2 aircraft engine (probably a Bristol Hercules radial engine from a Halifax bomber), set on a gravel base within a low brick wall. A higher brick wall at the rear has a black marble (or possibly polished granite), dedicatory tablet with 78 Squadron badge and further words stencilled onto the bricks. In front of the engine another black tablet commemorates the crew of Halifax LV905 lost in action over the Netherlands.",
-  "inscription": "On back wall: 1940 RAF Breighton 1945 On rear tablet: DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND/ GAVE THEIR LIVES DURING WORLD WAR II On front tablet: THE CREW OF HANDLEY PAGE HALIFAX MK III LV905 EY-W/ WHO LOST THEIR LIVES IN ACTION 25TH MAY 1944/ (names)",
+  "inscription": "On back wall: 1940 RAF Breighton 1945 On rear tablet: DEDICATED TO ALL WHO SERVED AT THIS AIRFIELD AND/ GAVE THEIR LIVES DURING WORLD WAR II On front tablet: THE CREW OF HANDLEY PAGE HALIFAX MK III LV905 EY-W/ WHO LOST THEIR LIVES IN ACTION 25TH MAY 1944/ P/O E B WILSON/ SGT W J WHITE/ FG OFF S C PETERSON/ FG OFF N A MARSTON DFC/ SGT J HENDERSON/ SGT G H BUTLER/ SGT J T L LEBLANC",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -23,9 +23,62 @@
   "data_quality": "Partial",
   "narrative": "LV905 (coded EY-W) of 78 Squadron departed RAF Breighton on 25 May 1944. The aircraft was shot down and crashed into the Bergsche Maas, Netherlands. A 2003 excavation recovered remains; one of the engines has been displayed at Breighton since 2010. All seven crew were lost.",
   "sources_note": "Squadron corrected from 460 to 78 per two Facebook posts (RAF Bomber Command Memorials group) citing the EY-W code and Breighton station. The inscription on the memorial itself also shows 78 Squadron badge. 460 Squadron (RAAF) used the code AR, not EY. Verified against aircraft code EY-W = 78 Squadron.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Eric Benjamin Wilson",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William John White",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "S C Peterson",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Norman Alan Marston",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Sgt",
+      "name": "Joseph Henderson",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Herbert Butler",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J T L Leblanc",
+      "role": "Air Gunner (Rear)",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-25",
   "latitude": 53.802194333404,
   "longitude": -0.916828116123,
   "grid_ref": "SE 71435",

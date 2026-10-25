@@ -10,7 +10,7 @@
   "crash_date": "1944-08-13",
   "memorial_type": "Wall",
   "memorial_details": "Three-sectioned, brick wall with inset rectangular, black, slate tablet, all set within a triangular, gravelled surround. The dedication is incised in white, upper and lower-case letters. Three coloured crests (painted or possibly enamelled) - RAF top centre, 14 Squadron OTU lower left and Bomber Command lower right. An information board is mounted on the obverse of the wall.",
-  "inscription": "IN MEMORY OF THE BRAVE AIRMEN/ WHO LOST THEIR LIVES WHEN THEIR AIRCRAFT/ WELLINGTON MK X LN281/ OF NO.14 O.T.U. RAF MARKET HARBOROUGH/ CRASHED NEAR THIS SITE ON 13TH AUGUST 1944/ (names)/ ALSO/ (name)/ WHO WAS THE ONLY SURVIVOR AND SUFFERED SERIOUS INJURIES/ IN FRIENDSHIP AND IN SERVICE/WE WILL REMEMBER THEM",
+  "inscription": "IN MEMORY OF THE BRAVE AIRMEN/ WHO LOST THEIR LIVES WHEN THEIR AIRCRAFT/ WELLINGTON MK X LN281/ OF NO.14 O.T.U. RAF MARKET HARBOROUGH/ CRASHED NEAR THIS SITE ON 13TH AUGUST 1944/ Fg Off Norman Owen DFC/ Sgt Edward Mansell Roberts/ P/O Sydney Jack Guiver/ Sgt William Marshall Thomas/ Sgt Leonard Wilson/ Sgt Robert McCudden/ Sgt Peter Robert Stafford/ ALSO/ (name)/ WHO WAS THE ONLY SURVIVOR AND SUFFERED SERIOUS INJURIES/ IN FRIENDSHIP AND IN SERVICE/WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,14 +20,74 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Norman Owen",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Mansell Roberts",
+      "role": "Pilot Under Training",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "P/O",
+      "name": "Sydney Jack Guiver",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Marshall Thomas",
+      "role": "Navigator Under Training",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Wilson",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert McCudden",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19
+    },
+    {
+      "rank": "Sgt",
+      "name": "Peter Robert Stafford",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.764474625535,
   "longitude": -0.865995912242,
   "grid_ref": "SK 76614",
   "photos": [],
-  "names_on_memorial": 8,
+  "names_on_memorial": 7,
   "died_count": 7,
   "custodian": "Unknown",
   "external_narratives": [],

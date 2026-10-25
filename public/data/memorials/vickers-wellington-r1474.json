@@ -10,7 +10,7 @@
   "crash_date": "1941-03-18",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Circular tablet with a narrow black border. The inscription is incised in black, upper and lower-case letters.",
-  "inscription": "ON THE/18TH MARCH 1941/ 'M' MOTHER WELLINGTON BOMBER OF/ 149 SQUADRON CRASHED ON TO THIS BUNGALOW/ AS IT WAS PREPARING TO LAND, KILLING ALL THE CREW. A GERMAN NIGHT INTRUDER WAS RESPONSIBLE./ THE OCCUPANTS MR & MRS TITMARSH SURVIVED./ IN GREATFUL THANKS WE REMEMBER/ (names)/ SACRIFICE . REMEMBRANCE. LOVE",
+  "inscription": "ON THE/18TH MARCH 1941/ 'M' MOTHER WELLINGTON BOMBER OF/ 149 SQUADRON CRASHED ON TO THIS BUNGALOW/ AS IT WAS PREPARING TO LAND, KILLING ALL THE CREW. A GERMAN NIGHT INTRUDER WAS RESPONSIBLE./ THE OCCUPANTS MR & MRS TITMARSH SURVIVED./ IN GREATFUL THANKS WE REMEMBER/ Sgt Ronald Warren/ Sgt Evan Roy Cooke/ Sgt Ernest Arthur Lown/ Sgt Harold Chapman/ Sgt William James Greaves/ Sgt Douglas John Capel/ SACRIFICE . REMEMBRANCE. LOVE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,60 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Ronald Warren",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "754029"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Evan Roy Cooke",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "967092"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ernest Arthur Lown",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "911887"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harold Chapman",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "522572"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William James Greaves",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "service_number": "971158"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Douglas John Capel",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "759110"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "photos": [],

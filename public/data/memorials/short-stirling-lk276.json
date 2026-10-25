@@ -10,7 +10,7 @@
   "crash_date": "1944-11-21",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "A large freestanding stone, to which a rectangular bronze plaque is attached. The plaque has the Royal Air Force crest at top-centre, followed by the inscription.",
-  "inscription": "IN LOVING MEMORY OF THE CREW OF/ STIRLING BOMBER, L.K.276, 190 SQD/ NEWTON FIELD, GREAT DUNMOW/ 21ST NOVEMBER 1944/ (names)/ PER ARDUA AD ASTRA",
+  "inscription": "IN LOVING MEMORY OF THE CREW OF/ STIRLING BOMBER, L.K.276, 190 SQD/ NEWTON FIELD, GREAT DUNMOW/ 21ST NOVEMBER 1944/ FG OFF J I KIDGELL RAAF/ FG OFF W W D'A BRAIN RNZAF/ FG OFF E D WOODS/ SGT H HOLT/ FLT SGT R D PAYNE/ FLT SGT R M DAUNCEY/ FLT SGT A G REID/ PER ARDUA AD ASTRA",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,73 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "James Ian Kidgell",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "410499"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "William Walter D'Arcy Brain",
+      "role": "Pilot/Instructor",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "42365"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Ernest Douglas Woods",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "176742"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Hugh Holt",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "2209061"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Ronald David Payne",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1391069"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Reginald Matthew Dauncey",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "1431216"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Arthur George Reid",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 33,
+      "service_number": "1800613"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 51.893318389846,
   "longitude": 0.315411331229,
   "grid_ref": "TL 59422",

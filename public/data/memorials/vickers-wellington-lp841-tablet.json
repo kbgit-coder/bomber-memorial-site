@@ -10,7 +10,7 @@
   "crash_date": "1945-01-05",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain, rectangular tablet, possibly limestone. Commemoration is incised in capital letters. A RAF and A RCAF crest are incised in the top left and right corners respectively.",
-  "inscription": "IN REMEMBRANCE OF THE 4 CREW/ AND THE ONE SURVIVOR/ WHEN WELLINGTON LP481 OF/ 82 O.T.U. OSSINGTON CRASHED IN THE SOUTH/ FIELD LAXTON ON 5TH JANUARY 1945/ (names)",
+  "inscription": "IN REMEMBRANCE OF THE 4 CREW/ AND THE ONE SURVIVOR/ WHEN WELLINGTON LP481 OF/ 82 O.T.U. OSSINGTON CRASHED IN THE SOUTH/ FIELD LAXTON ON 5TH JANUARY 1945/ Fg Off J C McLeod/ Fg Off E E Fernandez/ Fg Off L J Robillard/ Sgt E A Bishop",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,14 +20,43 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "J C McLeod",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "E E Fernandez",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "L J Robillard",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "E A Bishop",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.19583,
   "longitude": -0.92077964,
   "grid_ref": "SK 72197",
   "photos": [],
-  "names_on_memorial": 5,
+  "names_on_memorial": 4,
   "died_count": 4,
   "custodian": "St Nichael the Archangel Church",
   "external_narratives": [],

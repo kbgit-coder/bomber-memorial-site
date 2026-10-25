@@ -10,7 +10,7 @@
   "crash_date": "1942-09-11",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Original brass commemorative plaque with incised lettering on wooden background. Tapestry featuring poppies in black, glazed frame added at 75th anniversary of crash",
-  "inscription": "Brass plaque: THIS PLAQUE HAS BEEN ERECTED BY THE PEOPLE OF / CHEDISTON TO COMMEMORATE THE BRAVERY OF THE CREW OF / A VICKERS WELLINGTON BOMBER MK. 1C. DV930, TX-O, / 11 OPERATIONAL TRAINING UNIT, STEEPLE MORDEN / ON THE NIGHT OF 10TH-11TH SEPTEMBER 1942 THE ABOVE AIRCRAFT TOOK OFF FROM STEEPLE MORDEN AT / 21.05 HOURS AND CRASHED IN FLAMES INTO THE STACK YARD OF HERNE HILL FARM, CHEDISTON AT 23.45 / HOURS, AFTER RETURNING FROM A RAID ON DUSSELDORF IN GERMANY. THE AIRCRAFT WAS CARRYING A /CREW OF FIVE WHO ALL PERISHED / THE CREW MEMBERS WERE AS FOLLOWS: / (NAMES) // Tapestry: 75TH MEMORIAL/ RAF WELLINGTON CRASH/ HERNE HILL FARM/ 1942 - 2017/ (names)",
+  "inscription": "Brass plaque: THIS PLAQUE HAS BEEN ERECTED BY THE PEOPLE OF / CHEDISTON TO COMMEMORATE THE BRAVERY OF THE CREW OF / A VICKERS WELLINGTON BOMBER MK. 1C. DV930, TX-O, / 11 OPERATIONAL TRAINING UNIT, STEEPLE MORDEN / ON THE NIGHT OF 10TH-11TH SEPTEMBER 1942 THE ABOVE AIRCRAFT TOOK OFF FROM STEEPLE MORDEN AT / 21.05 HOURS AND CRASHED IN FLAMES INTO THE STACK YARD OF HERNE HILL FARM, CHEDISTON AT 23.45 / HOURS, AFTER RETURNING FROM A RAID ON DUSSELDORF IN GERMANY. THE AIRCRAFT WAS CARRYING A /CREW OF FIVE WHO ALL PERISHED / THE CREW MEMBERS WERE AS FOLLOWS: / Sgt Thomas Fraser Munro/ Sgt Jack Foden Stanley/ Sgt Kenneth Hamilton Vigers/ Sgt Robert Walter Freeman/ Sgt Andrew Scott Renwick // Tapestry: 75TH MEMORIAL/ RAF WELLINGTON CRASH/ HERNE HILL FARM/ 1942 - 2017/ Sgt Thomas Fraser Munro/ Sgt Jack Foden Stanley/ Sgt Kenneth Hamilton Vigers/ Sgt Robert Walter Freeman/ Sgt Andrew Scott Renwick",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,49 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Thomas Fraser Munro",
+      "role": "Pilot",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 31
+    },
+    {
+      "rank": "Sgt",
+      "name": "Jack Foden Stanley",
+      "role": "Observer",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Hamilton Vigers",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 24
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Walter Freeman",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Andrew Scott Renwick",
+      "role": "Air Bomber",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "fate_detail": "Died of injuries the following day"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.347362348415,

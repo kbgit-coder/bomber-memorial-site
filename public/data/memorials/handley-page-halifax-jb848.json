@@ -10,7 +10,7 @@
   "crash_date": "1943-03-29",
   "memorial_type": "Composite",
   "memorial_details": "Rectangular black marble tablet, with incised inscription in gilt lettering, and the remains of the aircraft's engine (to which metal tabs are attached, bearing the names of each individual crewman). The memorial sits on a paved and gravel base beneath a metal and glass canopy.",
-  "inscription": "IN MEMORY OF/ The crew of RAF Halifax/ G-George JB848 from/ 102 (Ceylon) Squadron Pocklington/ who lost their lives near this place on/ 29th March 1943 at 21.59 hours./ (names)/ WE WILL REMEMBER THEM",
+  "inscription": "IN MEMORY OF/ The crew of RAF Halifax/ G-George JB848 from/ 102 (Ceylon) Squadron Pocklington/ who lost their lives near this place on/ 29th March 1943 at 21.59 hours./ Flt Sgt William Phelps Comrie/ Fg Off Douglas William Francis Harper/ Sgt Frank W Dorrington/ P/O William Hugh Jenkins/ Sgt William J McGraith/ Sgt John King/ Sgt Myles Christian Campbell Squiers/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,64 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "William Phelps Comrie",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 27
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Douglas William Francis Harper",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank W Dorrington",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "P/O",
+      "name": "William Hugh Jenkins",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 34
+    },
+    {
+      "rank": "Sgt",
+      "name": "William J McGraith",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "John King",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "Myles Christian Campbell Squiers",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "latitude": 53.926178794707,

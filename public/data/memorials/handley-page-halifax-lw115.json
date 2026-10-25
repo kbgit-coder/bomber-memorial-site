@@ -10,7 +10,7 @@
   "crash_date": "1944-07-14",
   "memorial_type": "Composite",
   "memorial_details": "A stone wall with central black marble tablet carrying the names, one at the left with squadron crest and a drawing of a Halifax bomber on the right hand tablet.",
-  "inscription": "In Memory Of / THOSE WHO DIED WHEN A HALIFAX BOMBER OF NO.433 Sqdn. / ROYAL CANADIAN AIR FORCE / CRASHED AT LONAN ON 14TH JULY 1944 / SOME WRECKAGE FELL ON A HOUSE \"HOKANG\" PINFOLD HILL / FATALLY INJURING A CHILD. / Crew / (names) Canadian flag each side of the crew names Across the edge of the step 1914 - 18 THEIR NAME LIVETH FOR EVERMORE 1939 - 45",
+  "inscription": "In Memory Of / THOSE WHO DIED WHEN A HALIFAX BOMBER OF NO.433 Sqdn. / ROYAL CANADIAN AIR FORCE / CRASHED AT LONAN ON 14TH JULY 1944 / SOME WRECKAGE FELL ON A HOUSE \"HOKANG\" PINFOLD HILL / FATALLY INJURING A CHILD. / Crew / Fg Off William Wallace/ Flt Sgt Bruce Tees/ Sgt Ronald Movold/ Sgt George Walker/ Fg Off John Evans/ WO James Murie/ Sgt George Pidgeon Canadian flag each side of the crew names Across the edge of the step 1914 - 18 THEIR NAME LIVETH FOR EVERMORE 1939 - 45",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,57 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "William Wallace",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Bruce Tees",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ronald Movold",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Walker",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "John Evans",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "WO",
+      "name": "James Murie",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Pidgeon",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.218634637681,

@@ -10,7 +10,7 @@
   "crash_date": "1944-06-15",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Small rectangular metal plaque mounted on an oak backboard. Dedication is in gold, upper/lower case script.",
-  "inscription": "582 SQN PATHFINDER FORCE/ IN LOVING MEMORY OF/ (names)/ THE CREW OF/ LANCASTER ND 714 60-T/ DIED JUNE 15TH 1944/ WE WILL REMEMBER THEM",
+  "inscription": "582 SQN PATHFINDER FORCE/ IN LOVING MEMORY OF/ Flt Lt John Henry Hewitt DFC/ Flt Sgt A Bouch/ P/O R L Clenahan/ Flt Sgt G V Cottrell/ P/O V B Crosby/ P/O D Flynn/ WO W Smith/ P/O H L Wilson/ THE CREW OF/ LANCASTER ND 714 60-T/ DIED JUNE 15TH 1944/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,67 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Lt",
+      "name": "John Henry Hewitt",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "decorations": [
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "A Bouch",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "R L Clenahan",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "G V Cottrell",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "V B Crosby",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "D Flynn",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "WO",
+      "name": "W Smith",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "H L Wilson",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.253974509108,

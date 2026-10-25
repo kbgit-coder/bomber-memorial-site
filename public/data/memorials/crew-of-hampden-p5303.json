@@ -10,7 +10,7 @@
   "crash_date": "1941-11-01",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular, unornamented, brass plaque with dedication incised in black, upper and lower-case letters mounted on a white metal backboard amd short post.",
-  "inscription": "DEDICATED TO THE CREW/ OF/ HAMPDEN P5303/ FROM/ No.16 OPERATIONAL TRAINING UNIT/ RAF UPPER HEYFORD/ WHO LOST THEIR LIVES ON NOVEMBER 1ST 1941/ DURING A CROSS COUNTRY TRAINING FLIGHT WHEN THEIR/ AIRCRAFT WAS STRUCK BY LIGHTNING./ (names)/ WHEN YOU GO HOME, TELL THEM OF US AND SAY/ \"FOR YOUR TOMORROWS THESE GAVE THEIR TODAY\"",
+  "inscription": "DEDICATED TO THE CREW/ OF/ HAMPDEN P5303/ FROM/ No.16 OPERATIONAL TRAINING UNIT/ RAF UPPER HEYFORD/ WHO LOST THEIR LIVES ON NOVEMBER 1ST 1941/ DURING A CROSS COUNTRY TRAINING FLIGHT WHEN THEIR/ AIRCRAFT WAS STRUCK BY LIGHTNING./ Sgt Arthur Richard Enderby/ Sgt John Maurice Butterworth/ Sgt Raymond Charles Hollingworth/ Sgt Thomas Gordon Williams/ WHEN YOU GO HOME, TELL THEM OF US AND SAY/ 'FOR YOUR TOMORROWS THESE GAVE THEIR TODAY'",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,36 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Arthur Richard Enderby",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Maurice Butterworth",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Raymond Charles Hollingworth",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Gordon Williams",
+      "role": "Crew",
+      "nationality": "Australian",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "names_on_memorial": 4,

@@ -10,7 +10,7 @@
   "crash_date": "1945-04-15",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Stone of remembrance with an engraved plaque set into it. The plaque has the badges of the RAF & RAAF at top with the dedication and crew members names below. There is an information board on a wooden frame to the left with beneath, a stone tablet with the engraving of the Lancaster on it, and a wooden board with a Lancaster painting, crew list and epitaph on it. The whole is set within wooden fencing and set on stone slabs, either side of the entrance are two substantial wooden benches.",
-  "inscription": "RAF Badge/ RAAF Badge/ IN MEMORY OF THE CREW OF/ AVRO LANCASTER PB565 OF 1667 HCU, RAF SANDTOFT/ WHICH CRASHED 150 METRES BEYOND THIS STONE/ 15th APRIL 1945/ (names)/ WHEN YOU GO HOME, TELL THEM OF US AND SAY/ FOR YOUR TOMORROW, WE GAVE OUR TODAY",
+  "inscription": "RAF Badge/ RAAF Badge/ IN MEMORY OF THE CREW OF/ AVRO LANCASTER PB565 OF 1667 HCU, RAF SANDTOFT/ WHICH CRASHED 150 METRES BEYOND THIS STONE/ 15th APRIL 1945/ Plt Off Howard Percy Speed/ Flt Sgt Raymond Ollerton/ Sgt Sidney James Kingdon/ Fg Off Bertram Arthur Savage/ Fg Off Edward Boon Carss/ Flt Sgt John William Hamilton/ Sgt Edwin Horace John Martin/ Sgt Robert Bertram Roy Cook/ WHEN YOU GO HOME, TELL THEM OF US AND SAY/ FOR YOUR TOMORROW, WE GAVE OUR TODAY",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,80 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Plt Off",
+      "name": "Howard Percy Speed",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "188176"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Raymond Ollerton",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1523074"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney James Kingdon",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "1097768"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Bertram Arthur Savage",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "153755"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Edward Boon Carss",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 25,
+      "service_number": "165049"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "John William Hamilton",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 29,
+      "service_number": "25661"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edwin Horace John Martin",
+      "role": "Mid Upper Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "1813197"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Bertram Roy Cook",
+      "role": "Rear Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "1893896"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.481250724254,

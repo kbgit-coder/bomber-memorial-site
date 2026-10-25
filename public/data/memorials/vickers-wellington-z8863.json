@@ -10,7 +10,7 @@
   "crash_date": "1941-11-24",
   "memorial_type": "Composite",
   "memorial_details": "Two low brick pillars, to which flagpoles are fixed: one carrying the Royal Air Force flag, the other the Union Flag. The pillars mark the beginning of an avenue of 10 trees (each with an associated metal plaque on a low wooden post), which lead to a low brick wall on which a rectangular brass plaque on a wooden backboard is fixed. The wall-mounted plaque incorporates the coloured crests of RAF Bomber Command (on the left) and of 115 Squadron (on the right). Each of the plaques beside nine of the trees is engraved with the rank, name and service number of one of the crewmen/passengers who died; beside the tenth tree is a plaque bearing the badge of 115 Squadron. Near the avenue of trees is an Information board, which records details of the crash.\n\nThis memorial is dedicated to the crew of Wellington Mk 1c Z8863 KO-G of 115 Squadron",
-  "inscription": "(Plaque on wall): This memorial is dedicated to the crew/ of/ Wellington Mk 1c Z8863 KO-G/ of 115 Squadron/ Crashed here on November 24th 1941/ with the loss of all crew (Tree plaques 1-9): (names) (Tree plaque 10): 115 Squadron/ Royal air force/ Despite the Elements",
+  "inscription": "(Plaque on wall): This memorial is dedicated to the crew/ of/ Wellington Mk 1c Z8863 KO-G/ of 115 Squadron/ Crashed here on November 24th 1941/ with the loss of all crew (Tree plaques 1-9): Sgt George Robert Bruce/ Sgt Percival Miles Taylor/ Sgt Henry Norman O'Shea/ Sgt Percy George Crosbie/ Sgt William Myrddin Evans/ Sgt Ernest Alfred Lawrence/ Sgt Jack Dix/ Cpl James Crosby Fox/ AC2 Gordon Sydney Wakefield (Tree plaque 10): 115 Squadron/ Royal air force/ Despite the Elements",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,54 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "George Robert Bruce",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Percival Miles Taylor",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Henry Norman O'Shea",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Sgt",
+      "name": "Percy George Crosbie",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Myrddin Evans",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ernest Alfred Lawrence",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 27
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 52.561804137016,

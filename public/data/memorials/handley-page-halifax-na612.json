@@ -10,7 +10,7 @@
   "crash_date": "1943-03-04",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Square, black, granite tablet mounted at a low angle on a brick and cobble plinth. The dedication is in white, upper and lower-case letters. A coloured Bomber Command crest and the outline of a Halifax bomber are located at the top-left corner.",
-  "inscription": "Heading: IN MEMORY OF THE CREW OF HALIFAX BOMBER NA612 KILLED IN ACTION/ NEAR BRAFFERTON WHILE RETURING TO RAF DISHFORTH FROM A MISSION/ OVER GERMANY AT 0112 HOURS ON 4TH MARCH 1943. Left column: (names)/ EVERY MAN WAS A VOLUNTEER/ 55573 BOMBER COMMAND AIRCREW WERE KILLED DURING WORLD WAR II/ INCLUDING 9919 FROM CANADA/ THEY ARE REMEMBERED BY THE PEOPLE OF HELPERBY AND BRAFFERTON RH column: (Background surrounding the loss of NA612)/ STRIKE HARD STRIKE SURE",
+  "inscription": "Heading: IN MEMORY OF THE CREW OF HALIFAX BOMBER NA612 KILLED IN ACTION/ NEAR BRAFFERTON WHILE RETURING TO RAF DISHFORTH FROM A MISSION/ OVER GERMANY AT 0112 HOURS ON 4TH MARCH 1943. Left column: P/O Kenneth William Griffey/ Sgt Sidney Forster/ WO John William Buttrey/ Fg Off George Henry Lloyd/ WO Lawrence Theodore Chevrier/ Sgt Leonard Boardman/ Flt Sgt John Edward Fielder/ EVERY MAN WAS A VOLUNTEER/ 55573 BOMBER COMMAND AIRCREW WERE KILLED DURING WORLD WAR II/ INCLUDING 9919 FROM CANADA/ THEY ARE REMEMBERED BY THE PEOPLE OF HELPERBY AND BRAFFERTON RH column: (Background surrounding the loss of NA612)/ STRIKE HARD STRIKE SURE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,64 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Kenneth William Griffey",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Sidney Forster",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "WO",
+      "name": "John William Buttrey",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Fg Off",
+      "name": "George Henry Lloyd",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 19
+    },
+    {
+      "rank": "WO",
+      "name": "Lawrence Theodore Chevrier",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Boardman",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 27
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "John Edward Fielder",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.124733416455,

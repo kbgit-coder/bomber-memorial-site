@@ -15,7 +15,7 @@
   "crash_date": "1944-08-17",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain, rectangular brass plaque mounted on a wooden backboard. Dedication is incised in black, capital script.",
-  "inscription": "IN LOVING MEMORY/ (names)/ 158 SQUADRON RAF/ WHO PERISHED HERE/17TH AUGUST 1944",
+  "inscription": "IN LOVING MEMORY/ F/O Walter Bigelow Tower Rosen/ Sgt George William Blanckley/ [and five comrades]/ 158 SQUADRON RAF/ WHO PERISHED HERE/ 17TH AUGUST 1944",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -30,7 +30,26 @@
   ],
   "data_quality": "Partial",
   "narrative": "On the night of 16/17 August 1944, Halifax LK839 (NP-S) of 158 Squadron was returning from a bombing raid on Kiel when it crashed near Lissett, East Yorkshire. All seven crew were killed. The memorial plaque is mounted above the doors of Foston-on-the-Wolds village hall.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "Walter Bigelow Tower Rosen",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 29,
+      "service_number": "J/28758"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George William Blanckley",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1865666"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "latitude": 53.989006622698,

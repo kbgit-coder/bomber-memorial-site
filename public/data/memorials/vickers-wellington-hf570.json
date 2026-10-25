@@ -10,7 +10,7 @@
   "crash_date": "1944-09-05",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Unfinished, rectangular block of York Stone with square, polished, black granite plaque on the front face.\n\nThe memorial is erected at RAF Desborough, indicating a strong community connection.",
-  "inscription": "IN MEMORY OF/ (names)/ WHO DIED NEAR THIS SPOT IN THE CRASH OF/ WELLIGTON BOMBER HF570/ ON THE 5TH OF SEPTEMBER 1944/ AND OF THEIR UNSELFISH, GALLANT SACRIFICE/ IN THE CAUSE OF FREEDOM./ THESE MEN WERE MEMBERS OF BOMBER COMMAND, 84 OPERATIONAL TRAINING UNIT/ BASED AT RAF DESBOROUGH./ WE ALSO RECOGNISE THE SACRIFICE OF/ OTHER AIRMEN WHO LOST THEIR LIVES/ DURING TRAINING AT RAF DESBOROUGH",
+  "inscription": "IN MEMORY OF/ Plt Off Reginald Elwyn Byrne/ Sgt Edward Brisbourne/ Sgt William John Barnett/ WHO DIED NEAR THIS SPOT IN THE CRASH OF/ WELLINGTON BOMBER HF570/ ON THE 5TH OF SEPTEMBER 1944/ AND OF THEIR UNSELFISH, GALLANT SACRIFICE/ IN THE CAUSE OF FREEDOM./ THESE MEN WERE MEMBERS OF BOMBER COMMAND, 84 OPERATIONAL TRAINING UNIT/ BASED AT RAF DESBOROUGH./ WE ALSO RECOGNISE THE SACRIFICE OF/ OTHER AIRMEN WHO LOST THEIR LIVES/ DURING TRAINING AT RAF DESBOROUGH",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,35 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Plt Off",
+      "name": "Reginald Elwyn Byrne",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "432112"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Brisbourne",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "3050808"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William John Barnett",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 32,
+      "service_number": "2235180"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "photos": [],

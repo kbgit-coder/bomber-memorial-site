@@ -5,12 +5,12 @@
   "county": "Lincolnshire",
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
-  "serial_number": "",
-  "squadron": "",
+  "serial_number": "ME442",
+  "squadron": "44 Squadron",
   "crash_date": "1945-03-04",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "A copper and bronze plaque mounted on a wood backboard affixed to a tree.\n\nThe inscription mentions 'THE ENTIRE CREW OF THE LANCASTER PERISHED' and the community connection is implied by the memorial being erected for those who died.",
-  "inscription": "WELLINGTONIA GIGANTEA/ THIS TREE WAS STRUCK BY LANCASTER MK III 442 V / OF BOMBER COMMAND R.A.F. SHOT DOWN IN FLAMES / BY A JU 188 ON THE NIGHT OF 3/4 MARCH 1945 / THE ENTIRE CREW OF THE LANCASTER PERISHED./ THE CREW COMPRISED/ (NAMES)/ MAY THEY REST IN PEACE",
+  "inscription": "WELLINGTONIA GIGANTEA/ THIS TREE WAS STRUCK BY LANCASTER MK III ME442 KM-V / OF BOMBER COMMAND R.A.F. SHOT DOWN IN FLAMES / BY A JU 188 ON THE NIGHT OF 3/4 MARCH 1945 / THE ENTIRE CREW OF THE LANCASTER PERISHED./ THE CREW COMPRISED/ FG OFF J J F RYAN RAAF/ SGT T H JARMAN/ FLT SGT R R RUSSELL/ FLT SGT H J TERRY/ SGT H BIRTCH/ SGT H PAYNE/ SGT W H ROGAN/ MAY THEY REST IN PEACE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,73 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "John Joseph Francis Ryan",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 33,
+      "service_number": "RAAF/428364"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Handley Jarman",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "3010499"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Richard Raven Russell",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1801287"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Hubert Joseph Terry",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1580082"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harry Birtch",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1575035"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Herbert Payne",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29,
+      "service_number": "1589407"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Henry Rogan",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "2218611"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.581474457804,
   "longitude": -0.284046770841,
   "grid_ref": "TA 13700",

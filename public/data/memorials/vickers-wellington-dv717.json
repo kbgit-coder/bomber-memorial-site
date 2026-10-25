@@ -10,7 +10,7 @@
   "crash_date": "1942-10-15",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain, rectangular, metal (possibly aluminium) plaque mounted on a light-wood backboard. Commemoration is in black, upper-case letters.",
-  "inscription": "Upper plaque: WELLINGTON BOMBER dv 717 MARK C CREWED BY RNAF/ CRASHED ON A TRAINING EXERCISE ATBRECKS FARM/ MAPLEBECK 15TH OCTOBER 1942/ ALL AIRCREW KILLED AND LAID TO REST IN OLLERTON CEMETERY (SGT MCCORD IN ARGDAGH, IRELANND0/ CREW ...... AGE/ (names)/ Lower plaque: KA MMAUMAHARA TONU TATOU KI A RATOU/ WE WILL REMEMBER THEM",
+  "inscription": "Upper plaque: WELLINGTON BOMBER dv 717 MARK C CREWED BY RNAF/ CRASHED ON A TRAINING EXERCISE ATBRECKS FARM/ MAPLEBECK 15TH OCTOBER 1942/ ALL AIRCREW KILLED AND LAID TO REST IN OLLERTON CEMETERY (SGT MCCORD IN ARGDAGH, IRELANND0/ CREW ...... AGE/ Sgt Vincent Xavier Kirby/ Sgt Richard John Fuller/ Sgt John Llewellyn Lloyd/ Sgt Edward Alexander McCord/ Sgt Ivan Raymond Styles/ Lower plaque: KA MMAUMAHARA TONU TATOU KI A RATOU/ WE WILL REMEMBER THEM",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -27,7 +27,48 @@
   "data_quality": "Partial",
   "narrative": "Wellington DV717 Mark C, crewed by the Royal New Zealand Air Force (RNAF), crashed on a training exercise at Brecks Farm, Maplebeck, Nottinghamshire on 15 October 1942. All five crew were killed. Four are buried at Ollerton Cemetery; Sgt McCord was buried in Argadagh, Ireland. The lower plaque carries the Māori phrase 'Ka maumahara tonu tātou ki a rātou' — 'We will remember them'. A local history post by Adrian Gray (Notts Local History Association) records the memorial as standing beside a woodland avenue on the footpath between Maplebeck and Eakring, near Hagley's Dumble.",
   "community_connection": "The memorial beside a woodland path between Maplebeck and Eakring was recorded by Adrian Gray of the Nottinghamshire Local History Association, whose post in the Southwell Local History group brought it to wider attention. The lower plaque carries the Māori farewell, reflecting the New Zealand nationality of the crew.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Vincent Xavier Kirby",
+      "role": "Pilot",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "Richard John Fuller",
+      "role": "Observer",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Llewellyn Lloyd",
+      "role": "Air Bomber",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 22
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward Alexander McCord",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Irish",
+      "fate": "Killed",
+      "age": 26
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ivan Raymond Styles",
+      "role": "Air Gunner",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 27
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-10-23",
   "latitude": 57.83284643355,

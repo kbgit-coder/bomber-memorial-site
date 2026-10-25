@@ -10,7 +10,7 @@
   "crash_date": "1945-02-01",
   "memorial_type": "Cairn",
   "memorial_details": "Low cemented cairn with memorial tablet. B-17 Z9A of 519 Squadron flew into ground returning from a meteorology flight in bad weather on 1 February 1945.",
-  "inscription": "(squadron badge) / DEDICATED TO / THE MEMORY OF / (names) / Who were killed or fatally injured on the 1st February 1945, when / their Fortress aircraft, 29-A, crashed nearby on their return from a weather reconnaissance sortie over the Norwegian Sea. / WE SHALL REMEMBER THEM AND THEIR COMRADES OF / 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK. / \"who flew beyond the storms - into the sunset\"",
+  "inscription": "(squadron badge) / DEDICATED TO / THE MEMORY OF / Sgt Alexander Purdie Beatson/ Sgt Kenneth Anthony Ian Day/ Sgt Geoffrey Arthur Francis Panzer/ Sgt William Henry Payne/ Sgt D A Pressley/ Sgt E A Wood / Who were killed or fatally injured on the 1st February 1945, when / their Fortress aircraft, Z9-A, crashed nearby on their return from a weather reconnaissance sortie over the Norwegian Sea. / WE SHALL REMEMBER THEM AND THEIR COMRADES OF / 519 MET RECCE. SQUADRON, ROYAL AIR FORCE, WICK. / \"who flew beyond the storms - into the sunset\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,50 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Alexander Purdie Beatson",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Anthony Ian Day",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Geoffrey Arthur Francis Panzer",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Henry Payne",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "D A Pressley",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "E A Wood",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 58.41726,

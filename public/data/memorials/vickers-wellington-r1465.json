@@ -10,7 +10,7 @@
   "crash_date": "1942-07-06",
   "memorial_type": "Cairn",
   "memorial_details": "Stone cairn with tablet inset. Wreckage of aircraft lies nearby.\n\nThe inscription mentions that the memorial is for those who died, indicating a local connection and community impact.",
-  "inscription": "AT THIS PLACE ON 6TH JULY 1942 / THE WELLINGTON BOMBER R 1465 / CRASHED WITH THE LOSS OF ALL ITS / CANADIAN CREW. HERE DIED / (NAMES) / \"REMEMBER THEM\"",
+  "inscription": "AT THIS PLACE ON 6TH JULY 1942 / THE WELLINGTON BOMBER R 1465 / CRASHED WITH THE LOSS OF ALL ITS / CANADIAN CREW. HERE DIED / Flt Sgt John Beverley Kemp/ Flt Sgt Ernest Edward Mittell/ Sgt Kenneth Ferguson Yuill/ Flt Sgt Harold Creighton Beatty/ Sgt James Patrick Hayes / \"REMEMBER THEM\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,53 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "John Beverley Kemp",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "R88687"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Ernest Edward Mittell",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "R71725"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Ferguson Yuill",
+      "role": "Observer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 30,
+      "service_number": "R106035"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Harold Creighton Beatty",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "R75332"
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Patrick Hayes",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "R82352"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 51.868867203025,

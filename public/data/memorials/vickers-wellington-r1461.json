@@ -10,7 +10,7 @@
   "crash_date": "1943-01-26",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Wall-mounted, slate tablet bearing incised inscription in white lettering: the commemoration is above the names which are in a single column.",
-  "inscription": "BWLCH-Y-RHIW FARMHOUSE/ At 0146 Hrs on 26th January 1943, a Wellington Aircraft, R1461, on a training exercise from/ R.A.F. Harwell, Berkshire, crashed on this house/ causing the deaths of/ EDWIN WILLIAMS, his wife ANNIE JANE/ and the entire crew of the aircraft/ (NAMES)",
+  "inscription": "BWLCH-Y-RHIW FARMHOUSE/ At 0146 Hrs on 26th January 1943, a Wellington Aircraft, R1461, on a training exercise from/ R.A.F. Harwell, Berkshire, crashed on this house/ causing the deaths of/ EDWIN WILLIAMS, his wife ANNIE JANE/ and the entire crew of the aircraft/ SGT G G OTTLEY/ SGT L C MUSTON/ SGT J S TODD/ SGT C EDWARDS/ SGT B H PARKER",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,45 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Geoffrey George Ottley",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Leonard Charles Muston",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Simpson Todd",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Cadfan Edwards",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Brace Harry Parker",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 52.860505638328,
   "longitude": -3.149315711329,
   "grid_ref": "SJ 22701",

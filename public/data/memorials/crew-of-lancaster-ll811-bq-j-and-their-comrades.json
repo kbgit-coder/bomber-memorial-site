@@ -10,7 +10,7 @@
   "crash_date": "1944-06-06",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Wall mounted Shield bearing crest and name plates presented to Bomber Command and Croix de Guerre citation below.\n\nThe inscription mentions 'FOR THE BRAVE YOUNG LADS OF THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT RETURN WE DEDICATE THIS SIMPLE PLAQUE.' and the community connection is shown as 'THIS HISTORIC OPERATION PUT NORTH KILLINGHOLME ON THE MAP'.",
-  "inscription": "PLAQUE ON SHIELD: ON JUNE 6TH 1944 THE GREATEST LIBERATING ARMADA EVER ASSEMBLED/ LEFT THE SHORES OF ENGLAND. FOR BOMBER COMMAND THE INVASION OF/ OCCUPIED EUROPE COMMENCED THE NIGHT BEFORE. AT 23.34 HOURS/ LANCASTER LL811, SQUADRON MARKINGS BQ-J WAS THE FIRST AIRCRAFT/ IN THE FIRST WAVE TO STRIKE AHEAD OF THE MAIN SPEARHEAD BY MANY/ HOURS, SO SETTING THE MOMENTOUS EVENTS IN MOTION./ THAT AIRCRAFT LEFT FROM 550 SQUADRON, AND THIS HISTORIC OPERATION/ PUT NORTH KILLINGHOLME ON THE MAP. FOR THE BRAVE YOUNG LADS OF/ THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT/ RETURN WE DEDICATE THIS SIMPLE PLAQUE.\n\nSHIELD: (NAMES)",
+  "inscription": "PLAQUE ON SHIELD: ON JUNE 6TH 1944 THE GREATEST LIBERATING ARMADA EVER ASSEMBLED/ LEFT THE SHORES OF ENGLAND. FOR BOMBER COMMAND THE INVASION OF/ OCCUPIED EUROPE COMMENCED THE NIGHT BEFORE. AT 23.34 HOURS/ LANCASTER LL811, SQUADRON MARKINGS BQ-J WAS THE FIRST AIRCRAFT/ IN THE FIRST WAVE TO STRIKE AHEAD OF THE MAIN SPEARHEAD BY MANY/ HOURS, SO SETTING THE MOMENTOUS EVENTS IN MOTION./ THAT AIRCRAFT LEFT FROM 550 SQUADRON, AND THIS HISTORIC OPERATION/ PUT NORTH KILLINGHOLME ON THE MAP. FOR THE BRAVE YOUNG LADS OF/ THAT CREW, SHOWN BELOW, AND FOR ALL THEIR COMRADES WHO DID NOT/ RETURN WE DEDICATE THIS SIMPLE PLAQUE.\n\nSHIELD: FG OFF K BOWEN-BRAVERY CdG DFC/ SGT D G DAVIES/ P/O G E THOMAS/ FLT SGT J P FYFFE/ SGT P E E F KEELEY/ SGT R R THOMPSON/ SGT A BODILL/ (AND THEIR COMRADES)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,63 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "K Bowen-Bravery",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Survived",
+      "decorations": [
+        "CdG",
+        "DFC"
+      ]
+    },
+    {
+      "rank": "Sgt",
+      "name": "D G Davies",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "rank": "P/O",
+      "name": "G E Thomas",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "J P Fyffe",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Sgt",
+      "name": "P E E F Keeley",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R R Thompson",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "British",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Sgt",
+      "name": "A Bodill",
+      "role": "Air Gunner (Rear)",
+      "nationality": "British",
+      "fate": "Survived"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.640068917477,
   "longitude": -0.269779408136,
   "grid_ref": "TA 14486",

@@ -10,7 +10,7 @@
   "crash_date": "1945-03-04",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Small granite stone of remembrance with squadron badge at top\n\nThis memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died.",
-  "inscription": "In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ (names)/ IN GRATEFUL REMEMBRANCE",
+  "inscription": "In the early hours/of March 4th, 1945/ Lancaster PB 476 (PH \"Y\") of No. 12 Squadron/R.A.F. Wickenby,/ crashed near this spot,/ the victim of/ a Luftwaffe intruder./ This memorial is placed here, on/ the 50th anniversary of the crash,/ to commemorate the crew members/ who died./ Fg Off Nicholas Agnew Ansdell/ Fg Off Alfred Gordon Heath/ Fg Off Alexander Hunter/ Sgt William Mellor/ Sgt R O Parry/ Sgt R F D Schafer/ Sgt A R Walker/ IN GRATEFUL REMEMBRANCE",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,61 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Nicholas Agnew Ansdell",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Alfred Gordon Heath",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Alexander Hunter",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 33
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Mellor",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19
+    },
+    {
+      "rank": "Sgt",
+      "name": "R O Parry",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R F D Schafer",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "A R Walker",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.238317227385,

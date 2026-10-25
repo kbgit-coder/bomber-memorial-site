@@ -10,7 +10,7 @@
   "crash_date": "1944-03-26",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "A wall-mounted brass plaque.",
-  "inscription": "TO COMMEMORATE THE CREW OF/ THE HANDLEY PAGE HALIFAX BOMBER &#039;V&#039; FOR VICTOR/ OF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE/ ON 26TH MARCH 1944/ (NAMES)",
+  "inscription": "TO COMMEMORATE THE CREW OF/ THE HANDLEY PAGE HALIFAX BOMBER 'V' FOR VICTOR/ OF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE/ ON 26TH MARCH 1944/ P/O G B HALL RCAF/ P/O D H DE SOTO GROVER RCAF/ P/O R S PORTER RCAF/ SGT H NEWTON/ P/O W A FISHER/ SGT F N SIMPSON",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,64 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "George Brian Hall",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "J/89283"
+    },
+    {
+      "rank": "P/O",
+      "name": "Don Hernando De Soto Grover",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "J/85140"
+    },
+    {
+      "rank": "P/O",
+      "name": "Roy Stanley Porter",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "J/89470"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harry Newton",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1480974"
+    },
+    {
+      "rank": "P/O",
+      "name": "William Alfred Fisher",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 35,
+      "service_number": "170833"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Norman Simpson",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "2208949"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 51.34668886515,
   "longitude": -2.251819804889,
   "grid_ref": "ST 82557",

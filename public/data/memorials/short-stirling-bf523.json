@@ -6,11 +6,11 @@
   "country": "United Kingdom",
   "aircraft_type": "Stirling",
   "serial_number": "BF523",
-  "squadron": "",
-  "crash_date": "",
+  "squadron": "90 Squadron",
+  "crash_date": "1943-05-13",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plaque explaining the circumstances of loss and listing the names of the deceased crew.",
-  "inscription": "SHORT STIRLING MK 111 - BF 523/ (circumstances of loss)/ NO CREW MEMBER SURVIVED. THE CREW MEMBERS WERE:-/ (NAMES)",
+  "inscription": "SHORT STIRLING MK 111 - BF 523/ (circumstances of loss)/ NO CREW MEMBER SURVIVED. THE CREW MEMBERS WERE:-/ FLT SGT W MOREY RCAF/ SGT R S SHAW/ SGT B A BACON/ SGT W B MURRAY/ SGT E W EKE/ SGT A J BUXTON/ SGT C GREEN",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,73 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "Wesley Morey",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "R120226"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Royce Selwyn Shaw",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "575244"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Basil Albert Bacon",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "1320220"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Brown Murray",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 24,
+      "service_number": "658018"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward William Eke",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "1332191"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Arthur John Buxton",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "785082"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Green",
+      "role": "Air Gunner (Rear)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "614909"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 51.350243195226,
   "longitude": 1.349838554223,
   "grid_ref": "TR 33356",

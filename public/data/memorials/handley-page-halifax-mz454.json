@@ -10,7 +10,7 @@
   "crash_date": "1945-03-05",
   "memorial_type": "Window",
   "memorial_details": "PLAIN WINDOW WITH BLACK LETTERING",
-  "inscription": "IN MEMORIAM/ ROYAL CANADIAN AIR FORCE/ HALIFAX MZ454 425 SQUADRON/ 5TH MARCH 1945/ (NAMES)",
+  "inscription": "IN MEMORIAM/ ROYAL CANADIAN AIR FORCE/ HALIFAX MZ454 425 SQUADRON/ 5TH MARCH 1945/ Fg Off Arthur Robert Lowe/ Sgt James Laurids Lynch/ Fg Off Paul John Hall/ P/O John William Hyde",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,40 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Arthur Robert Lowe",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Laurids Lynch",
+      "role": "Flight Engineer",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Paul John Hall",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "P/O",
+      "name": "John William Hyde",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 35
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.044789663748,

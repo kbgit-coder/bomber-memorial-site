@@ -6,11 +6,11 @@
   "country": "United Kingdom",
   "aircraft_type": "Lancaster",
   "serial_number": "LM258",
-  "squadron": "HA-Q",
+  "squadron": "218 Squadron",
   "crash_date": "1944-08-25",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Tablet with Royal Air Force Bomber Squadron insignia top centre.",
-  "inscription": "IN HONOURED MEMORY OF THE CREW OF/ LANCASTER LM258 HA-Q/ WHICH CRASHED INTO THE SEA IN VIEW OF THIS PLACE ON 25TH AUGUST, 1944./ THIS MEMORIAL COMMEMORATES:/ (NAMES)/ \"FOR THAT NOBLE ACTION WE SHALL EVER BE INDEBTED\"",
+  "inscription": "IN HONOURED MEMORY OF THE CREW OF/ LANCASTER LM258 HA-Q/ WHICH CRASHED INTO THE SEA IN VIEW OF THIS PLACE ON 25TH AUGUST, 1944./ THIS MEMORIAL COMMEMORATES:/ FLT LT D HAGGIS/ FG OFF G D MATHIAS/ FG OFF C B OXENHAM RNZAF/ SGT W A DYER/ FLT SGT E G MURRAY/ SGT G COVELL/ SGT A CRAIG/ \"FOR THAT NOBLE ACTION WE SHALL EVER BE INDEBTED\"",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,66 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Lt",
+      "name": "Doug Haggis",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 25
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Glyn Davies Mathias",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 25
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Charles Bryce Oxenham",
+      "role": "Bomb Aimer",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Augustus Dyer",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Ernest George Murray",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Covell",
+      "role": "Air Gunner (Mid Upper)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20
+    },
+    {
+      "rank": "Sgt",
+      "name": "Angus Craig",
+      "role": "Air Gunner (Rear)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 51.959373684563,
   "longitude": 1.348390292766,
   "grid_ref": "TM 30148",

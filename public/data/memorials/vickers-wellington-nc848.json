@@ -10,7 +10,7 @@
   "crash_date": "1945-03-07",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "A metal plaque mounted onto an angled stone mount. The crest of the 407 Squadron RCAF is above the dedication, and the badge of the Royal British Legion is below.",
-  "inscription": "407 SQUADRON R.C.A.F./ COASTAL COMMAND/ WELLINGTON BOMBER P-PETER/ CRASHED 500 METRES BEYOND THIS / POINT ON 7TH MARCH 1945/ TO HONOUR THEIR MEMORY/ (NAMES)/ AND THE SURVIVOR/ (NAME)",
+  "inscription": "407 SQUADRON R.C.A.F./ COASTAL COMMAND/ WELLINGTON BOMBER P-PETER/ CRASHED 500 METRES BEYOND THIS / POINT ON 7TH MARCH 1945/ TO HONOUR THEIR MEMORY/ P/O J K ANDREWS RCAF/ FG OFF C J BUTLER RCAF/ FLT LT E V DUCKWORTH RCAF/ AND THE SURVIVOR",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,37 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "John Kerr Andrews",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 25,
+      "service_number": "J/90251"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Cyril Joseph Butler",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "J/88278"
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "Ernest Verdon Duckworth",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "J/25370"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 51.021050134326,
   "longitude": -4.198126302616,
   "grid_ref": "SS 45927",

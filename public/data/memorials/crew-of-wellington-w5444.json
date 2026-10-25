@@ -6,11 +6,11 @@
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
   "serial_number": "W5444",
-  "squadron": "",
+  "squadron": "12 Squadron",
   "crash_date": "1941-08-17",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Large, square tablet mounted horizontally on a low brick plinth. The memorial appears to have a thin, white composite board attached to a concrete slab. The dedication is printed in black, upper and lower-case letters. An illustrated information board is positioned behind the memorial and a flagpole to the left flies a Union Jack. Another memorial to this crew is located at All Saint's Church in the same village (ref 19954)",
-  "inscription": "WELLINGTON BOMBER/ CRASHED 17TH AUGUST 1941/ (name)/ PILOT/ (name)/ NAVIGATOR/ (name)/ AIR GUNNER An information board behind the memorial gives details of the crash and names of the surviving crew members.",
+  "inscription": "WELLINGTON BOMBER/ CRASHED 17TH AUGUST 1941/ PLT OFF B M J VINCENT/ PILOT/ FLT SGT E H NANCARROW/ NAVIGATOR/ FLT SGT C G C FROST/ AIR GUNNER An information board behind the memorial gives details of the crash and names of the surviving crew members.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,14 +20,64 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Plt Off",
+      "name": "Bernard Montague Jeffrey Vincent",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "63824"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Edward Horatio Nancarrow",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "564733"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Colin George Charles Frost",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "747744"
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "Charles Norman McVeigh",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Survived (injured)",
+      "service_number": "40243"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Purslow",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Survived (injured)"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "D Murray",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Survived (injured)"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 52.855250532019,
   "longitude": 1.040706270562,
   "grid_ref": "TG 04821",
   "photos": [],
-  "names_on_memorial": 6,
+  "names_on_memorial": 3,
   "died_count": 3,
   "custodian": "Briston Parish Council",
   "external_narratives": [],

@@ -10,7 +10,7 @@
   "crash_date": "1944-02-07",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular brass plaque screwed onto a stone backplate and mounted on the wall of the Blakley Lane Methodist Chapel. Dedication is incised in black, lower-case script.",
-  "inscription": "NEAR THIS SPOT ON 7TH FEBRUARY 1944/ PERISHED THE CREW OF HANDLEY PAGE HALIFAX BB320/ (names)/ ROYAL AIR FORCE VOLUNTEER RESERVE AND/ (name)/ ROYAL CANADIAN AIR FORCE/ \"PER ARDUA AD ASTRA\" - WWW.INTERNATIONALBCC.CO.UK/ PLAQUE UNVEILED 7TH FEBRUARY 2020",
+  "inscription": "NEAR THIS SPOT ON 7TH FEBRUARY 1944/ PERISHED THE CREW OF HANDLEY PAGE HALIFAX BB320/ Fg Off Hubert Lloyd Kerr RCAF/ Fg Off Ernest Charles David Richards RAFVR/ Sgt Kenneth Murray RAFVR/ Sgt William Desmond Joshua RAFVR/ [and two comrades]/ ROYAL AIR FORCE VOLUNTEER RESERVE AND/ (name)/ ROYAL CANADIAN AIR FORCE/ \"PER ARDUA AD ASTRA\" - WWW.INTERNATIONALBCC.CO.UK/ PLAQUE UNVEILED 7TH FEBRUARY 2020",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,44 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Hubert Lloyd Kerr",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "J/27159"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Ernest Charles David Richards",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "125875"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Murray",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "1559341"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Desmond Joshua",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1419221"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.021308633987,

@@ -10,7 +10,7 @@
   "crash_date": "1943-10-12",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Very large, roughly-rectangular stone with finished front face with a large, rectangular, black slate, dedicatory tablet inset.",
-  "inscription": "IN MEMORY OF THE CREWS OF TWO WELLINGTON MK X BOMBERS/ WHICH CRASHED NEAR THIS SITE/ (/ RAF crest) LH Column: 82 OTU WELLINGTON X HE201 12TH OCT 1943/ T/O GAMSTON 1448, CRASHED CRESWELL PLANTATION/ (names) RH Column: 86 OTU WELLINGTON X HE485 30TH AUG 1944/ T/O GAMSTON 0447, CRASHED HOUGHTON HALL/ (names)/ THEY GAVE THEIR TOMORROWS FOR OUR TODAYS",
+  "inscription": "IN MEMORY OF THE CREWS OF TWO WELLINGTON MK X BOMBERS/ WHICH CRASHED NEAR THIS SITE/ 82 OTU WELLINGTON X HE201 12TH OCT 1943/ T/O GAMSTON 1448, CRASHED CRESWELL PLANTATION/ A/FLT LT J COUGHLAN DFM/ FG OFF H DAYMAN RCAF/ P/O J CHRISTIE/ 86 OTU WELLINGTON X HE485 30TH AUG 1944/ T/O GAMSTON 0447, CRASHED HOUGHTON HALL/ (names)/ THEY GAVE THEIR TOMORROWS FOR OUR TODAYS",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,37 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "A/Flt Lt",
+      "name": "John Coughlan",
+      "role": "Instructor/Pilot",
+      "nationality": "Irish",
+      "fate": "Killed",
+      "decorations": [
+        "DFM"
+      ],
+      "aircraft": "HE201"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Harold Dayman",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "aircraft": "HE201"
+    },
+    {
+      "rank": "P/O",
+      "name": "John Christie",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "aircraft": "HE201"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 57.842733152731,
   "longitude": -6.812843809877,
   "grid_ref": "SK 68550",

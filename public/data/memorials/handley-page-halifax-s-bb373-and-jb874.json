@@ -10,7 +10,7 @@
   "crash_date": "1943-08-24",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular, black granite tablet with 78 squadron crest top centre, mounted on the side of a river bridge. Dedication in gold, capital letters.",
-  "inscription": "DEDICATED TO THE AIRCREW OF/ 78 SQUADRON/ WHO LOST THEIR LIVES/ FOLLOWING A COLLISION IN FOG BETWEEN/ TWO HALIFAX BOMBERS BB373 EY-K - JBB874 EY-E/ OVER HULL BRIDGE, TICKTON/ AT 04:30 HOURS ON 24TH AUGUST 1943/ (names)/ ONE REMAINING SURVIVOR/ (name)",
+  "inscription": "DEDICATED TO THE AIRCREW OF/ 78 SQUADRON/ WHO LOST THEIR LIVES/ FOLLOWING A COLLISION IN FOG BETWEEN/ TWO HALIFAX BOMBERS BB373 EY-K - JBB874 EY-E/ OVER HULL BRIDGE, TICKTON/ AT 04:30 HOURS ON 24TH AUGUST 1943/ Flt Sgt George Goodall Bell/ Sgt Albert Eric Lester/ P/O Edward Platt/ Sgt William Leslie Clarke/ Flt Sgt David Claude Melville Walton/ Sgt Robert Bernard Fletcher/ Sgt A Lee / Fg Off Charles James Keirl/ Sgt Charles Henry Hilton/ Sgt Frederick Roberts/ ONE REMAINING SURVIVOR/ (name)",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,15 +20,95 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "George Goodall Bell",
+      "role": "Crew",
+      "nationality": "New Zealander",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Eric Lester",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "P/O",
+      "name": "Edward Platt",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Leslie Clarke",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "David Claude Melville Walton",
+      "role": "Crew",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 24
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Bernard Fletcher",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19
+    },
+    {
+      "rank": "Sgt",
+      "name": "A Lee",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Charles James Keirl",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23
+    },
+    {
+      "rank": "Sgt",
+      "name": "Charles Henry Hilton",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frederick Roberts",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.860893041193,
   "longitude": -0.396839804948,
   "grid_ref": "TA 05532",
   "photos": [],
-  "names_on_memorial": 15,
-  "died_count": 14,
+  "names_on_memorial": 10,
+  "died_count": 10,
   "custodian": "Tickton and Routh Parish Council",
   "external_narratives": [],
   "what3words": "",

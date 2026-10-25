@@ -10,7 +10,7 @@
   "crash_date": "1942-09-01",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Polished granite stone on a plinth, fixed onto a two stepped concrete base. Two wooden slatted planters either side and a vase in front.",
-  "inscription": "Stone: (405 Squadron RCAF badge)/ Just before Midnight/ on 1st September 1942/ HALIFAX II BB216 (LQ-D)/ of 405 Squadron RCAF/ from Topcliffe/ crashed near this spot/ following a disastrous engine fire/ This memorial is placed here to/ commemorate the crew members who died/ (names) Plinth: IN GRATEFUL REMEMBRANCE Planter plagues: (405 Squadron RCAF badge)/ THEY WILL/ NEVER GROW/ OLD Vase: RAOB",
+  "inscription": "Stone: (405 Squadron RCAF badge)/ Just before Midnight/ on 1st September 1942/ HALIFAX II BB216 (LQ-D)/ of 405 Squadron RCAF/ from Topcliffe/ crashed near this spot/ following a disastrous engine fire/ This memorial is placed here to/ commemorate the crew members who died/ Flt Sgt Norman Angus MacKenzie/ Sgt Clarence Gordon Eagles/ Sgt Harold Stone/ Flt Sgt Louis Donald Dawdy Plinth: IN GRATEFUL REMEMBRANCE Planter plaques: (405 Squadron RCAF badge)/ THEY WILL/ NEVER GROW/ OLD Vase: RAOB",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,44 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "Norman Angus MacKenzie",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 27,
+      "service_number": "R86313"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Clarence Gordon Eagles",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "R83536"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Harold Stone",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "1267726"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Louis Donald Dawdy",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "R90329"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.240729010299,

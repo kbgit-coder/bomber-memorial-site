@@ -10,7 +10,7 @@
   "crash_date": "1944-02-20",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "BLACK MARBLE TABLET SET UPRIGHT INTO THE GROUND. CARVED LETTERING. SURROUNDED BY LOW CHAIN FENCE.",
-  "inscription": "IN LOVING MEMORY/ (NAMES)/ 158 SQD R.A.F./ WHO/ PERISHED HERE/ 20TH FEBRUARY 1944",
+  "inscription": "IN LOVING MEMORY/ P/O P M JENNINGS/ P/O C J SEYMOUR/ P/O N CAFFREY/ FLT SGT H E JONES/ SGT G F GILLINGS/ FLT SGT S P MORRIS/ P/O G R FITZSIMMONS RCAF/ 158 SQD R.A.F./ WHO/ PERISHED HERE/ 20TH FEBRUARY 1944",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,73 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "P/O",
+      "name": "Peter Milton Jennings",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "157100"
+    },
+    {
+      "rank": "P/O",
+      "name": "Charles Joseph Seymour",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "160592"
+    },
+    {
+      "rank": "P/O",
+      "name": "Norman Caffrey",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "169502"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Harold Elfed Jones",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1537023"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Frank Gillings",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1393396"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Samuel Price Morris",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1503563"
+    },
+    {
+      "rank": "P/O",
+      "name": "Gerald Robert Fitzsimmons",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "J/86434"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.931740227478,
   "longitude": -0.201162223804,
   "grid_ref": "TA 18200",

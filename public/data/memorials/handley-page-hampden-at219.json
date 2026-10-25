@@ -10,7 +10,7 @@
   "crash_date": "1942-04-14",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain, black, rectangular tablet (material unknown) with dedication in upper and lower-case script. This crew is also commemorated on the memorial wall at North Hykeham (99778)\n\nThe memorial is located at RAF Waddington, which suggests a strong connection to the local community and its military presence.",
-  "inscription": "IN MEMORY/ ON THE 14TH APRIL 1942 A HANDLEY PAGE HAMPDEN B1 AIRCRAFT NO. AT219 OF THE/ RCAF SQUADRON 420 BASED AT RAF WADDINGTON CRASHED AT THIS SITE SHORTLY AFTER/ TAKE-OFF WHILST ATTEMPTING TO RETURN TO BASE FOLLOWING THE FAILURE OF BOTH ENGINES./ TRAGICALLY ALL 4 AIRMEN ON BOARD LOST THEIR LIVES./ (names)/ FOUR BRAVE YOUNG MEN - YOU WILL BE REMEMBERED",
+  "inscription": "IN MEMORY/ ON THE 14TH APRIL 1942 A HANDLEY PAGE HAMPDEN B1 AIRCRAFT NO. AT219 OF THE/ RCAF SQUADRON 420 BASED AT RAF WADDINGTON CRASHED AT THIS SITE SHORTLY AFTER/ TAKE-OFF WHILST ATTEMPTING TO RETURN TO BASE FOLLOWING THE FAILURE OF BOTH ENGINES./ TRAGICALLY ALL 4 AIRMEN ON BOARD LOST THEIR LIVES./ FLT SGT K A JOHNSON/ PLT OFF W J MURRAY RCAF/ PLT OFF W F McCARTHY RCAF/ SGT K A BIRCH/ FOUR BRAVE YOUNG MEN - YOU WILL BE REMEMBERED",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,9 +20,46 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "Keith Alan Johnson",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1150168"
+    },
+    {
+      "rank": "Plt Off",
+      "name": "William James Murray",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 20,
+      "service_number": "J/5991"
+    },
+    {
+      "rank": "Plt Off",
+      "name": "William Francis McCarthy",
+      "role": "Crew",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "J/6361"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Alan Birch",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 22,
+      "service_number": "1056358"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-25",
   "latitude": 53.186627443249,
   "longitude": -0.596473292536,
   "grid_ref": "SK 93881",

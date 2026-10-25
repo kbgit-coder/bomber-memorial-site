@@ -10,7 +10,7 @@
   "crash_date": "1942-12-14",
   "memorial_type": "Cairn",
   "memorial_details": "A small concrete cairn with a metal plaque sat at the top. Concrete bricks make up the outer facade of the cairn; the centre of the cairn is solid concrete. This plaque details the names of the airmen who perished in the plane crash.",
-  "inscription": "PLAQUE : In Memory of / (NAMES) / Who tragically lost their lives when their aircraft, Vickers Wellington X3707, crashed at Craiglockhart View on14th December 1942.",
+  "inscription": "PLAQUE : In Memory of / Fg Off Thomas Lennox French/ WO Andrew McFadyen/ Flt Sgt Charles McGregor/ Flt Sgt John Robert Harper/ 1st Lt S Kaulis USAAC / Who tragically lost their lives when their aircraft, Vickers Wellington X3707, crashed at Craiglockhart View on14th December 1942.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,52 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Thomas Lennox French",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 24,
+      "service_number": "65991"
+    },
+    {
+      "rank": "WO",
+      "name": "Andrew McFadyen",
+      "role": "Observer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 26,
+      "service_number": "581109"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Charles McGregor",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 23,
+      "service_number": "638173"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "John Robert Harper",
+      "role": "Radar Operator",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29,
+      "service_number": "1115653"
+    },
+    {
+      "rank": "1st Lt",
+      "name": "S Kaulis",
+      "role": "Signaller",
+      "nationality": "American",
+      "fate": "Killed",
+      "age": 26
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 55.923364324035,

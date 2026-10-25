@@ -10,7 +10,7 @@
   "crash_date": "1944-05-10",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Plain rectangular metal plaque with inscription in white lettering. The plaque is dispayed alongside British and Australian flags, together with the golden cockerill from the top of the spire which was found under the debris of the church spire demolished in the accident.",
-  "inscription": "ON 10TH MAY 1944 IN THE EARLY MORNING AN R.A.F. AEROPLANE/ STRUCK THE SPIRE OF THIS CHURCH AND FELL ON BUILDINGS NEARBY./ THE SPIRE WAS DEMOLISHED AND OTHER EXTENSIVE DAMAGE WAS DONE/ TO THE CHURCH AND ADJOINING BUILDINGS. THE NAMES OF THOSE/ WHO THEN LOST THEIR LIVES ARE INSCRIBED BELOW. RESTORATION/ OF THE BUILDING WAS BEGUN ON 10TH MAY. 1949 AND THE CHURCH/ WAS RE-DEDICATED ON 11TH DECEMBER .1950/ CIVILIAN PARISHIONERS/ (NAMES)/ AEROPLANE CREW/ R.A.A.F/ (NAMES)",
+  "inscription": "ON 10TH MAY 1944 IN THE EARLY MORNING AN R.A.F. AEROPLANE/ STRUCK THE SPIRE OF THIS CHURCH AND FELL ON BUILDINGS NEARBY./ THE SPIRE WAS DEMOLISHED AND OTHER EXTENSIVE DAMAGE WAS DONE/ TO THE CHURCH AND ADJOINING BUILDINGS. THE NAMES OF THOSE/ WHO THEN LOST THEIR LIVES ARE INSCRIBED BELOW. RESTORATION/ OF THE BUILDING WAS BEGUN ON 10TH MAY. 1949 AND THE CHURCH/ WAS RE-DEDICATED ON 11TH DECEMBER .1950/ CIVILIAN PARISHIONERS/ Flt Sgt Peter Aird Fraser/ Sgt James Robert Nicholls/ Sgt William Moffatt Tattersall Hetherington/ Fg Off Ralph Cameron Baillie/ Sgt William Ernest Goodacre/ Sgt Thomas Campbell/ Sgt Gerald Harvey Woodcock/ AEROPLANE CREW/ R.A.A.F/ Flt Sgt Peter Aird Fraser/ Sgt James Robert Nicholls/ Sgt William Moffatt Tattersall Hetherington/ Fg Off Ralph Cameron Baillie/ Sgt William Ernest Goodacre/ Sgt Thomas Campbell/ Sgt Gerald Harvey Woodcock",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,64 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "Peter Aird Fraser",
+      "role": "Pilot",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 22
+    },
+    {
+      "rank": "Sgt",
+      "name": "James Robert Nicholls",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Moffatt Tattersall Hetherington",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 28
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Ralph Cameron Baillie",
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 21
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Ernest Goodacre",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 29
+    },
+    {
+      "rank": "Sgt",
+      "name": "Thomas Campbell",
+      "role": "Air Gunner",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 25
+    },
+    {
+      "rank": "Sgt",
+      "name": "Gerald Harvey Woodcock",
+      "role": "Air Gunner",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 24
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.782467460848,

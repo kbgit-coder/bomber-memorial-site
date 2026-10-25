@@ -10,7 +10,7 @@
   "crash_date": "1944-02-21",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Large, triangular-shaped, unfinished stone with an inset, rectangular, brass commemorative plaque, located adjacent to the 5th hole of the Romanby golf course Also in the Romanby Golf Club clubhouse are a painting of Halifax LV836 and a photograph of the crew, both glazed and framed, commemorating the loss.\n\nThis memorial is also dedicated to all members of BOMBER COMMAND who gave their lives in the defence of freedom 1939 - 1945",
-  "inscription": "Stone of Remembrance: THIS MEMORIAL IS DEDICATED TO THE CREW OF HALIFAX LV836 FROM 427 LION SQN RCAF/ WHICH CRASHED NEAR HERE IN THE EARLY MORNING OF 21 FEBRUARY 1944/ (names)/ THIS MEMORIAL IS ALSO DEDICATED TO ALL MEMBERS OF BOMBER COMMAND WHO GAVE/ THEIR LIVES IN THE DEFENCE OF FREEDOM 1939 - 1945/ PER ARDUA AD ASTRA Painting: IN MEMORY OF THE CREW OF HALIFAX III LV836 ZL-W OF NO 427/ (LION) SQUADRON ROYAL CANADIAN AIR FORCE WHOSE AIRCRAFT/ CRASHED ON ROMANBY GOLF COURSE IMMEDIATELY AFTER TAKE-/ OFF FROM RCAF LEEMING AT 00:02 HOURS ON 21ST FEBRUARY/ 1944 WITH THE LOSS OF ALL ON BOARD./ HALIFAX W WAS ON A MISSION TO STUTTGART AND ITS/ BOMB LOAD OF 834 INCENDIARIES EXPLODED ON IMPACT./ (names)",
+  "inscription": "Stone of Remembrance: THIS MEMORIAL IS DEDICATED TO THE CREW OF HALIFAX LV836 FROM 427 LION SQN RCAF/ WHICH CRASHED NEAR HERE IN THE EARLY MORNING OF 21 FEBRUARY 1944/ Fg Off Ross K Laut/ Sgt Edward John Rowe/ Fg Off William Norman Hegy/ Flt Sgt Roy William Moody/ Sgt George Henry Jones/ Sgt Frank Albert Charles Harris/ Sgt Alfred Frederick Fitton/ THIS MEMORIAL IS ALSO DEDICATED TO ALL MEMBERS OF BOMBER COMMAND WHO GAVE/ THEIR LIVES IN THE DEFENCE OF FREEDOM 1939 - 1945/ PER ARDUA AD ASTRA Painting: IN MEMORY OF THE CREW OF HALIFAX III LV836 ZL-W OF NO 427/ (LION) SQUADRON ROYAL CANADIAN AIR FORCE WHOSE AIRCRAFT/ CRASHED ON ROMANBY GOLF COURSE IMMEDIATELY AFTER TAKE-/ OFF FROM RCAF LEEMING AT 00:02 HOURS ON 21ST FEBRUARY/ 1944 WITH THE LOSS OF ALL ON BOARD./ HALIFAX W WAS ON A MISSION TO STUTTGART AND ITS/ BOMB LOAD OF 834 INCENDIARIES EXPLODED ON IMPACT./ Fg Off Ross K Laut/ Sgt Edward John Rowe/ Fg Off William Norman Hegy/ Flt Sgt Roy William Moody/ Sgt George Henry Jones/ Sgt Frank Albert Charles Harris/ Sgt Alfred Frederick Fitton",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,57 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Fg Off",
+      "name": "Ross K Laut",
+      "role": "Pilot",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Edward John Rowe",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "William Norman Hegy",
+      "role": "Navigator",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Roy William Moody",
+      "role": "Bomb Aimer",
+      "nationality": "Canadian",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George Henry Jones",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Frank Albert Charles Harris",
+      "role": "Mid Upper Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Alfred Frederick Fitton",
+      "role": "Rear Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 54.33857766607,

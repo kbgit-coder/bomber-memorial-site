@@ -10,7 +10,7 @@
   "crash_date": "1947-02-13",
   "memorial_type": "Cairn",
   "memorial_details": "Stoen cairn surmounted by tapered capstone. Dedicatory inscription engraved on stainless steel plaque on front of cairn. Coloured crest of 47 Squadron and a blue, yellow and red pennon depicted on top of plaque. Badge of the RAF Association and the Blue Circle Company symbol towards the base.",
-  "inscription": "HALIFAX RT 922/ ON THE 13 FEBRUARY 1947, HALIFAX RT 922 OF 47 SQUADRON ROYAL AIR FORCE,/ CRASHED ADJACENT TO THIS CAIRN DURING A MISSION TO AIRDROP SUPPLIES TO THE/ SNOW-BOUND COMMUNITIES OF GRINDON AND THE SURROUNDING AREAS./ THE CREW AND PASSENGERS WERE ALL KILLED/ THE CREW/ (NAMES)/ PASSENGERS - PRESS PHOTOGRAPHERS/ (NAMES)/ THIS CAIRN WAS ERECTED IN 1999 AS A RESULT OF A PROJECT LED BY THE LEEK BRANCH OF/ THE ROYAL AIR FORCE ASSOCIATION/ THE CAIRN WAS GENEROUSLY DONATED BY THE BLUE CIRCLE CEMENT, CAULDRON WORKS, WATERHOUSES/ AND CONSTRUCTED BY MR. KEN HALL, (EMPLOYEE)/ THE PROJECT WAS SUPPORTED BY:-/ MT. HARRY BEECROFT (LANDOWNER), STAFFORDSHIRE MOORLANDS DISTRICT COUNCIL & GRINDON PARISH COUNCIL",
+  "inscription": "HALIFAX RT 922/ ON THE 13 FEBRUARY 1947, HALIFAX RT 922 OF 47 SQUADRON ROYAL AIR FORCE,/ CRASHED ADJACENT TO THIS CAIRN DURING A MISSION TO AIRDROP SUPPLIES TO THE/ SNOW-BOUND COMMUNITIES OF GRINDON AND THE SURROUNDING AREAS./ THE CREW AND PASSENGERS WERE ALL KILLED/ THE CREW/ Sqn Ldr Donald McIntyre/ Flt Lt Ernest Smith/ WO Gordon Victor Chapman/ WO Richard Sydney Kearns/ Flt Sgt Kenneth Charles Pettit/ Sgt William Thomas Sherry/ PASSENGERS - PRESS PHOTOGRAPHERS/ David William Savill/ Joseph John Reardon",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,15 +20,58 @@
   ],
   "data_quality": "Partial",
   "narrative": "The inscription mentions the crash was during a mission to airdrop supplies to the snow-bound communities of Grindon and the surrounding areas.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sqn Ldr",
+      "name": "Donald McIntyre",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Lt",
+      "name": "Ernest Smith",
+      "role": "Navigator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "WO",
+      "name": "Gordon Victor Chapman",
+      "role": "Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "WO",
+      "name": "Richard Sydney Kearns",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "Kenneth Charles Pettit",
+      "role": "Wireless Operator",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "William Thomas Sherry",
+      "role": "Crew",
+      "nationality": "British",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.096410619935,
   "longitude": -1.904005507555,
   "grid_ref": "SK 06300",
   "photos": [],
-  "names_on_memorial": 6,
-  "died_count": 6,
+  "names_on_memorial": 8,
+  "died_count": 8,
   "external_narratives": [],
   "what3words": "",
   "iwm_photo_urls": [

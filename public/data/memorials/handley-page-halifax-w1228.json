@@ -10,7 +10,7 @@
   "crash_date": "",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular tablet (possibly sandstone) inclined at approx. 45º with dedication incised in black, upper-case letters. The RAF crest is incised above the dedication. The tablet is located in a flowerbed surrounded by sandstone kerbstones and an information board mounted between two metal pillars is set behind and above the tablet.",
-  "inscription": "IN MEMORY OF/ THE CREW/ OF/ HALIFAX W1228/ FROM 76 SQN/ (names)",
+  "inscription": "IN MEMORY OF/ THE CREW/ OF/ HALIFAX W1228/ FROM 76 SQN/ Flt Sgt John Eric Nicholson/ P/O Alfred Norman Thompson/ Sgt John Taylor Murray/ Fg Off Arnold Robson/ Sgt Laurence George Harvey/ Sgt Ronald Leonard Stevens/ Sgt Cecil Richard Rundle",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -20,7 +20,57 @@
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Flt Sgt",
+      "name": "John Eric Nicholson",
+      "role": "Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "P/O",
+      "name": "Alfred Norman Thompson",
+      "role": "Second Pilot",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "John Taylor Murray",
+      "role": "Flight Engineer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Fg Off",
+      "name": "Arnold Robson",
+      "role": "Navigator/Bomb Aimer",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Laurence George Harvey",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Ronald Leonard Stevens",
+      "role": "Wireless Operator/Air Gunner",
+      "nationality": "British",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Cecil Richard Rundle",
+      "role": "Rear Gunner",
+      "nationality": "Rhodesian",
+      "fate": "Killed"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
   "last_updated": "2026-04-12",
   "latitude": 53.980554331403,
