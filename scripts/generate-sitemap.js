@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Generate sitemap.xml from all memorial, squadron, and region pages.
+ * Generate sitemap.xml from all static, story, memorial, squadron, and region pages.
  * Run at build time (prebuild step) so sitemap always matches deployed pages.
  *
  * Usage: node scripts/generate-sitemap.js
@@ -96,6 +96,23 @@ urls.push(url('/map', '0.8'));
 urls.push(url('/about', '0.6'));
 urls.push(url('/search', '0.5'));
 urls.push(url('/squadron', '0.7'));
+urls.push(url('/insights', '0.5'));
+urls.push(url('/faq', '0.4'));
+urls.push(url('/contact', '0.4'));
+urls.push(url('/terms', '0.2'));
+// /stories 301s to /stories/ on the host; list the canonical form.
+urls.push(url('/stories/', '0.7'));
+const STATIC_COUNT = urls.length;
+
+// Story pages
+const STORIES_DIR = path.join(DATA_DIR, 'stories');
+const storySlugs = fs.existsSync(STORIES_DIR)
+  ? fs.readdirSync(STORIES_DIR).filter(f => f.endsWith('.md')).map(f => f.replace('.md', '')).sort()
+  : [];
+for (const slug of storySlugs) {
+  const lastmod = fs.statSync(path.join(STORIES_DIR, `${slug}.md`)).mtime.toISOString().split('T')[0];
+  urls.push(url(`/stories/${slug}`, '0.8', lastmod));
+}
 
 // Memorial pages
 const memorialSlugs = getMemorialSlugs();
@@ -133,7 +150,8 @@ fs.writeFileSync(OUTPUT, sitemap);
 const totalPages = urls.length;
 console.log(`[sitemap] Generated ${OUTPUT}`);
 console.log(`[sitemap] Total URLs: ${totalPages}`);
-console.log(`[sitemap]   Static: 5`);
+console.log(`[sitemap]   Static: ${STATIC_COUNT}`);
+console.log(`[sitemap]   Stories: ${storySlugs.length}`);
 console.log(`[sitemap]   Memorials: ${memorialSlugs.length}`);
 console.log(`[sitemap]   Squadrons: ${squadronSlugs.length}`);
 console.log(`[sitemap]   Regions: ${regionCodes.length}`);

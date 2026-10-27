@@ -149,6 +149,22 @@ button {
   margin: 2.5rem 0;
 }
 
+.story-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 2rem auto 0.5rem;
+  border-radius: 4px;
+}
+
+/* Caption: the italic paragraph that follows an image */
+.story-content p:has(> img) + p > em:only-child {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
 /* ============================================================
    PRINT STYLESHEET
    ============================================================ */

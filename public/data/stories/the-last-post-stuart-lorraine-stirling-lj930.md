@@ -28,6 +28,30 @@ By coincidence — or perhaps not — Stuart's parents Jean and Dennis now have 
 
 Stuart has visited Kenneth's grave several times over the years, keeping the connection alive.
 
+![The Lorraine bench in Chalford](/images/stories/stuart-lorraine-lj930/lorraine-bench-chalford.jpg)
+
+*The bench in Chalford, newly installed in June 2013.*
+
+![The plaques on the bench: Jean Lorraine (née Rose), 1927–1995, "Always in our thoughts"; Dennis Lorraine, 1924–2013, "Together again"](/images/stories/stuart-lorraine-lj930/lorraine-bench-plaques.jpg)
+
+*Jean Lorraine (née Rose), 1927–1995, "Always in our thoughts". Dennis Lorraine, 1924–2013, "Together again".*
+
+## The last visit
+
+The bench has a story of its own. It was installed in 2013 to commemorate Jean. In June that year, Stuart took his father Dennis to see it for the first time.
+
+![Dennis Lorraine on the bench, June 2013](/images/stories/stuart-lorraine-lj930/dennis-lorraine-bench-2013.jpg)
+
+*Dennis Lorraine on the newly installed bench, 19 June 2013.*
+
+![Stuart and Dennis Lorraine on the bench, June 2013](/images/stories/stuart-lorraine-lj930/stuart-and-dennis-lorraine-2013.jpg)
+
+*Stuart and his father Dennis, 19 June 2013.*
+
+The photographs were taken on 19 June 2013. Dennis died three days later, on 22 June. He never came home from that trip.
+
+His own plaque now sits beside Jean's: *Together again*.
+
 ## A mother's first funeral
 
 Stuart's mother Jean attended Kenneth's funeral. His father Dennis could not get leave from his own squadron to be there.
@@ -45,3 +69,20 @@ One sentence. A lifetime of meaning.
 Stuart plans to visit the memorial in Surrey to pay his own respects — continuing a chain of remembrance that began with a group of friends in wartime Gloucestershire and has now reached a third generation.
 
 These are the connections the Register exists to preserve. Not just the names and the dates, but the friendships, the grief, and the quiet acts of remembrance that carry a loss forward through the decades.
+
+## Sergeant Kenneth Gerald Gardiner
+
+Kenneth served with 190 Squadron, Royal Air Force Volunteer Reserve. He died on Friday 20 April 1945, aged 22, when Stirling LJ930 was lost near Windlesham, Surrey. He was the son of Frank and Daisy Gladys Gardiner of Chalford Vale, and he is buried in Chalford (Christ Church) Churchyard.
+
+![Commonwealth War Graves Commission certificate for Sergeant Kenneth Gerald Gardiner](/images/stories/stuart-lorraine-lj930/cwgc-kenneth-gardiner.jpg)
+
+*Kenneth's CWGC record, shared by Stuart Lorraine.*
+
+## Further reading
+
+Stuart found these accounts of the loss of LJ930 and its crew:
+
+- [Short Stirling LJ930: IWM War Memorials Register](https://memorials.iwm.org.uk/memorial/108786), with photographs of the memorial and crew plaque
+- [190 Squadron Stirling IV LJ930, Windlesham: Aircrew Remembered](https://aircrewremembered.com/bunker-richard-henry.html), including where each crew member is buried
+
+*Photographs courtesy of Stuart Lorraine.*
