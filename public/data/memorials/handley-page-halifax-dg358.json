@@ -46,8 +46,9 @@
   "narrative": "All nine men aboard were killed when it crashed in the parish of Aberhafesp, Montgomeryshire. IBCC records say the engine failed at about 20,000 feet over Wales and the aircraft descended into thick cloud, where severe icing made a wing fold and come off; the Halifax then struck its own tailplane and broke up in the air. Aviation Safety Network, quoting an accident form, gives a probable engine failure at 20,000 feet before a hailstorm, with the pilot descending into cloud that proved to be a storm. Three of the dead are fully identified so far. Sergeant Ellis Robert Gawler, the flight engineer, was 27 and is buried at Canford Magna. Sergeant John William Gibb, the navigator, was 18 and is buried in Aberdeen. Flight Sergeant John Stanley Spriggs, the air bomber, was 31 and is buried at Chester (Blacon).",
   "crew": [
     {
-      "name": "John William Gibb",
       "rank": "Sergeant",
+      "fate": "",
+      "name": "John William Gibb",
       "role": "Navigator",
       "age": 18,
       "service_number": "1821194",
@@ -57,8 +58,9 @@
       "hometown": "Aberdeen"
     },
     {
-      "name": "Ellis Robert Gawler",
       "rank": "Sergeant",
+      "fate": "",
+      "name": "Ellis Robert Gawler",
       "role": "Flight engineer",
       "age": 27,
       "service_number": "1193341",
@@ -67,8 +69,9 @@
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/108470"
     },
     {
-      "name": "John Stanley Spriggs",
       "rank": "Flight Sergeant",
+      "fate": "",
+      "name": "John Stanley Spriggs",
       "role": "Air bomber",
       "age": 31,
       "service_number": "1449550",
@@ -77,21 +80,33 @@
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/122068"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "Paul Kenneth Ernest Bennett"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "Albert Arthur Clark"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "Norman Fisher"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "David Ramsey"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "William Henry Wareham"
     },
     {
+      "rank": null,
+      "fate": "",
       "name": "William George Wyatt"
     }
   ],

@@ -70,70 +70,70 @@
   "narrative": "On the morning of 18 July 1944, 21 Halifax III bombers of 578 Squadron took off from Burn in North Yorkshire to attack fortified villages near Caen. One of them, coded LK-Q, caught fire on the outward flight and the crew could not put it out. The plaque says the pilot steered clear of Reading and Maidenhead before the aircraft exploded and fell into the wood where the memorial now stands.\n\nSix of the seven crew died. The Canadian rear gunner baled out and survived; the plaque says the others were lost without trace and are named on the Runnymede Memorial. The six names on the stone are the pilot, Flying Officer Victor Starkoff DFC of the RAAF, aged 33; navigator Pilot Officer Jan Fink, 26; wireless operator Pilot Officer Lloyde Hopper of the RCAF; air bomber Flight Sergeant Ivor Morgan, 20; flight engineer Sergeant Gerald Nicholson, 20, from Liverpool; and mid-upper gunner Flight Sergeant John Claque. An Australian museum page, which appears to copy the Australian War Memorial, names the surviving rear gunner as Flight Sergeant H C Sloan, RCAF.\n\nSources disagree on the serial. The IWM register and the IBCC losses database give LK794; the Australian museum page and Traces of War give LK974. Our record's LK794 follows the two institutional sources. The same museum page puts the crash at Bisham, while IWM places the memorial at Carpenters Wood, Burchetts Green; the two places are near each other.",
   "crew": [
     {
-      "name": "Victor Starkoff",
       "rank": "Flying Officer",
+      "fate": "Killed",
+      "name": "Victor Starkoff",
       "role": "Pilot",
       "age": 33,
       "service_number": "414432",
       "nationality": "Australian",
-      "fate": "Killed",
       "burial_location": "No known grave; Runnymede Memorial, Panel 258",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/226709/",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303546",
       "decorations": "DFC"
     },
     {
-      "name": "Jan Frederick Fink",
       "rank": "Pilot Officer",
+      "fate": "Killed",
+      "name": "Jan Frederick Fink",
       "role": "Navigator",
       "age": 26,
       "service_number": "176585",
-      "fate": "Killed",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/209157",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303547"
     },
     {
-      "name": "Gerald Thomas Nicholson",
       "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "Gerald Thomas Nicholson",
       "role": "Flight Engineer",
       "age": 20,
       "service_number": "1523535",
-      "fate": "Killed",
       "hometown": "Liverpool",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303550"
     },
     {
-      "name": "Lloyde Hinson Hopper",
       "rank": "Pilot Officer",
+      "fate": "Killed",
+      "name": "Lloyde Hinson Hopper",
       "role": "Wireless Operator",
       "service_number": "J/86734",
       "nationality": "Canadian",
-      "fate": "Killed",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303549"
     },
     {
-      "name": "John Edward Claque",
       "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "John Edward Claque",
       "role": "Mid-Upper Gunner",
       "service_number": "1588531",
-      "fate": "Killed",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303551"
     },
     {
-      "name": "H C Sloan",
       "rank": "Flight Sergeant",
+      "fate": "Survived; baled out",
+      "name": "H C Sloan",
       "role": "Rear Gunner",
       "service_number": "R/194792",
-      "nationality": "Canadian",
-      "fate": "Survived; baled out"
+      "nationality": "Canadian"
     },
     {
-      "name": "Ivor Morgan",
       "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "Ivor Morgan",
       "role": "Air Bomber",
       "age": 20,
       "service_number": "1337960",
-      "fate": "Killed",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/219885",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1303548"
     }
@@ -271,6 +271,7 @@
   "memorial_address": "Carpenters Wood, Dungrove Hill Lane, Burchetts Green, Windsor And Maidenhead, Berkshire, SL6 6PE",
   "dedication_date": "1998-07-18",
   "maintainer": {
-    "organisation": "578 Burn Association"
+    "organisation": "578 Burn Association",
+    "maintainer_type": ""
   }
 }

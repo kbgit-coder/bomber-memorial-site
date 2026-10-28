@@ -40,54 +40,54 @@
   "narrative": "Wellington X HF465 of 12 Operational Training Unit, based at Chipping Warden, was on a daytime training flight when it broke up over Bridgemere, Cheshire. IBCC records the cause as loss of control while descending through cloud. Seven men were aboard and six died. The six who died were Flight Sergeant Leonard Joseph Timperley (pilot, 20), Pilot Officer Cecil Frank Holmes (29), and Sergeants Laurence Edwin Harrison (24), James David Milne (32), Arthur Fred Baker (35) and Ronald Whiteley (23). Timperley is buried at Chester (Blacon) Cemetery. IWM spells the third sergeant's surname Milnes; IBCC and the local history page give Milne. The navigator, Sergeant Douglas Hollis Wilson, survived; IBCC says the aircraft threw him clear, while a local news item says he baled out before it broke up.",
   "crew": [
     {
-      "name": "Leonard Joseph Timperley",
       "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "Leonard Joseph Timperley",
       "role": "Pilot",
       "age": 20,
       "service_number": "1544917",
       "nationality": "British (RAFVR)",
-      "fate": "Killed",
       "burial_location": "Chester (Blacon) Cemetery, Sec. A. Grave 1027",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/123453",
       "hometown": "Stretford, Lancashire"
     },
     {
-      "name": "Douglas Stewart Hollis Wilson",
       "rank": "Sergeant",
+      "fate": "Survived",
+      "name": "Douglas Stewart Hollis Wilson",
       "role": "Navigator",
       "age": 22,
-      "fate": "Survived",
       "hometown": "Sutton Coldfield"
     },
     {
-      "name": "Arthur Fred Baker",
       "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "Arthur Fred Baker",
       "role": "Air gunner",
       "age": 35,
-      "fate": "Killed",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/100876"
     },
     {
-      "name": "Ronald Whiteley",
       "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "Ronald Whiteley",
       "role": "Air gunner",
       "age": 23,
-      "fate": "Killed",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/125113"
     },
     {
-      "name": "Cecil Frank Holmes",
       "rank": "Pilot Officer",
-      "age": 29,
       "fate": "Killed",
+      "name": "Cecil Frank Holmes",
+      "age": 29,
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/111074"
     },
     {
-      "name": "Laurence Edwin Harrison",
       "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "Laurence Edwin Harrison",
       "role": "Air bomber",
       "age": 24,
-      "fate": "Killed",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110083"
     }
   ],

@@ -77,10 +77,10 @@
   "crew": [
     {
       "rank": "F/O",
+      "fate": "Killed",
       "name": "Ernest Charles David Richards",
       "role": "Pilot",
       "nationality": "British",
-      "fate": "Killed",
       "age": 26,
       "service_number": "125875",
       "burial_location": "Chester (Blacon) Cemetery, Sec. A, Grave 324",
@@ -89,10 +89,10 @@
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Kenneth Murray",
       "role": "Navigator",
       "nationality": "British",
-      "fate": "Killed",
       "age": 23,
       "service_number": "1559341",
       "burial_location": "Darlington West Cemetery, Section V.7E, Grave 301",
@@ -100,34 +100,34 @@
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1660566"
     },
     {
-      "name": "Albert John Denny",
       "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Albert John Denny",
       "role": "Flight Engineer",
       "age": 28,
       "service_number": "1863320",
-      "fate": "Killed",
       "burial_location": "Streatham Cemetery, Block 14, Grave 98",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/207250",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1660569",
       "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2429829"
     },
     {
-      "name": "Herbert John Couling",
       "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Herbert John Couling",
       "role": "Air Gunner",
       "age": 20,
       "service_number": "1582477",
-      "fate": "Killed",
       "burial_location": "Chester (Blacon) Cemetery, Section A, Grave 41",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/205988",
       "iwm_name_url": "https://memorials.iwm.org.uk/name/1660568"
     },
     {
       "rank": "F/O",
+      "fate": "Killed",
       "name": "Hubert Lloyd Kerr",
       "role": "Air Bomber",
       "nationality": "Canadian",
-      "fate": "Killed",
       "age": 28,
       "service_number": "J/27159",
       "burial_location": "Chester (Blacon) Cemetery, Sec. A, Grave 675",
@@ -136,10 +136,10 @@
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "William Desmond Joshua",
       "role": "WOp/AG",
       "nationality": "British",
-      "fate": "Killed",
       "age": 22,
       "service_number": "1419221",
       "burial_location": "Sarn Cemetery, Grave 134",
@@ -284,7 +284,7 @@
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/116/505/large_bb320.jpg"
   ],
-  "community_connection": "A brass plaque on the wall of Blakeley Lane Methodist Chapel names the crew. It was unveiled on 7 February 2020. The Leek Post & Times reported that Kingsley Parish Council funded it, and that the story was rediscovered by local historian Martyn Hordern.",
+  "community_connection": "The memorial is cared for by Blakeley Lane Methodist Church.",
   "station": "RAF Lindholme",
   "operation_type": "Training - night navigation exercise",
   "cause_of_loss": "Emerged from cloud spinning, and crashed near Cheadle, Staffordshire",

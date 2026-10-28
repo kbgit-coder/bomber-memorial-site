@@ -1,7 +1,7 @@
 {
   "id": "chipping-warden-2-wellington-r-1037",
   "title": "Chipping Warden (2) R.1037 Memorial",
-  "location_name": "Chipping Warden (2), Northamptonshire",
+  "location_name": "Hogg Lane, Chipping Warden, Northamptonshire",
   "county": "Northamptonshire",
   "country": "United Kingdom",
   "region_code": "NH-005",
@@ -9,7 +9,7 @@
   "aircraft_type": "Vickers Wellington",
   "squadron": "12 Operational Training Unit",
   "station": "Chipping Warden",
-  "memorial_type": "Memorial plaque",
+  "memorial_type": "Plaque on the side of a private house",
   "sources": [
     {
       "title": "Geograph",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Pilot Officer Kenneth Farnes (WMO/265170)",
-      "type": "community",
+      "type": "researched",
       "url": "https://www.warmemorialsonline.org.uk/memorial/265170",
       "date": "2026-10-28"
     },
@@ -45,9 +45,6 @@
   "data_quality": "Partial",
   "latitude": 52.136,
   "longitude": -1.272,
-  "maintainer": {
-    "maintainer_type": "parish-council"
-  },
   "external_narratives": [
     {
       "source_site": "RAF Info (Chorley Losses)",
@@ -158,25 +155,26 @@
   },
   "crew": [
     {
-      "name": "Cecil Harry Hayes",
       "rank": "Pilot Officer",
-      "role": "Pilot",
-      "service_number": "108017",
-      "nationality": "British",
-      "fate": "Seriously injured in the crash; died of his injuries on 21 October 1941",
-      "burial_location": "Malden (St John the Baptist) Churchyard, grave 250",
-      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2435002",
-      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110290"
-    },
-    {
+      "fate": "Killed in the crash, 20 October 1941",
       "name": "Kenneth Farnes",
-      "rank": "Pilot Officer",
+      "role": "Pilot",
       "age": 30,
       "service_number": "107977",
-      "fate": "Killed in the crash, 20 October 1941",
       "burial_location": "Brookwood Military Cemetery, Surrey, plot 21. A. 11.",
       "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2762609/",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/107393"
+    },
+    {
+      "rank": "Pilot Officer",
+      "fate": "Seriously injured in the crash; died of his injuries on 21 October 1941",
+      "name": "Cecil Harry Hayes",
+      "role": "Pilot",
+      "service_number": "108017",
+      "nationality": "British",
+      "burial_location": "Malden (St John the Baptist) Churchyard, grave 250",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2435002",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110290"
     }
   ],
   "crash_category": "training",
@@ -478,6 +476,7 @@
   "operation_type": "Night flying training",
   "cause_of_loss": "Crashed in Chipping Warden village at about 23:10 while attempting to go round again, and caught fire",
   "died_count": "2",
+  "memorial_name": "Plaque to Pilot Officer Kenneth Farnes",
   "last_validated": "2026-10-28",
   "memorial_details": "War Memorials Online records no inscription, builder, dedication date or custodian for it."
 }

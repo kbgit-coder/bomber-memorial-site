@@ -43,7 +43,7 @@
     },
     {
       "title": "RAF 78 Squadron",
-      "type": "community",
+      "type": "researched",
       "url": "https://www.warmemorialsonline.org.uk/memorial/229912",
       "date": "2026-10-28"
     }
@@ -53,145 +53,145 @@
   "crew": [
     {
       "rank": "Flt Sgt",
+      "fate": "Killed",
       "name": "George Goodall Bell",
       "role": "Pilot (BB373)",
       "nationality": "New Zealander",
-      "fate": "Killed",
       "age": 21,
       "service_number": "NZ42361",
       "burial_location": "Harrogate (Stonefall) Cemetery"
     },
     {
       "rank": "F/O",
+      "fate": "Killed",
       "name": "Charles James Keirl",
       "role": "Pilot (JB874)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 23,
       "service_number": "133026",
       "burial_location": "Queensgate Cemetery, Beverley"
     },
     {
+      "rank": "P/O",
+      "fate": "Killed",
       "name": "Ronald Reid Gilbert",
       "role": "Second Pilot (BB373)",
       "age": 21,
       "service_number": "156089",
-      "fate": "Killed",
-      "burial_location": "Warriston, Edinburgh",
-      "rank": "P/O"
+      "burial_location": "Warriston, Edinburgh"
     },
     {
       "rank": "P/O",
+      "fate": "Killed",
       "name": "Edward Platt",
       "role": "Navigator (BB373)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 29,
       "service_number": "137558",
       "burial_location": "Bury, Lancashire"
     },
     {
-      "name": "Harry William Baylis",
       "rank": "F/O",
+      "fate": "Killed",
+      "name": "Harry William Baylis",
       "role": "Navigator (JB874)",
       "age": 25,
       "service_number": "136528",
-      "fate": "Killed",
       "burial_location": "Queensgate Cemetery, Beverley"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Albert Eric Lester",
       "role": "Flight Engineer (BB373)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 21,
       "service_number": "1214074",
       "burial_location": "Nottingham Road Cemetery, Derby"
     },
     {
-      "name": "Ernest Bertram Frank Scorey",
       "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Ernest Bertram Frank Scorey",
       "role": "Flight Engineer (JB874)",
       "age": 19,
       "service_number": "1628705",
-      "fate": "Killed",
       "burial_location": "South Stoneham Cemetery, Hampshire"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "William Leslie Clarke",
       "role": "Bomb Aimer (BB373)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 21,
       "service_number": "1439792",
       "burial_location": "Newton le Willows, Lancashire"
     },
     {
-      "name": "Henry Raymond Jones",
       "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Henry Raymond Jones",
       "role": "Bomb Aimer (JB874)",
       "age": 21,
       "service_number": "1419935",
-      "fate": "Killed",
       "burial_location": "Pen-y-groes Chapelyard, Carmarthenshire"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Arthur Lee",
       "role": "Wireless Operator/Air Gunner (BB373)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 22,
       "service_number": "1134570",
       "burial_location": "Salford, Lancashire"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Charles Henry Hilton",
       "role": "Wireless Operator/Air Gunner (JB874)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 29,
       "service_number": "1208584",
       "burial_location": "Yelden Churchyard, Bedfordshire"
     },
     {
       "rank": "Flt Sgt",
+      "fate": "Killed",
       "name": "David Claude Melville Walton",
       "role": "Air Gunner (BB373)",
       "nationality": "Australian",
-      "fate": "Killed",
       "age": 24,
       "service_number": "412043",
       "burial_location": "Harrogate (Stonefall) Cemetery"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Robert Bernard Fletcher",
       "role": "Air Gunner (BB373)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 19,
       "service_number": "1811231",
       "burial_location": "Morden, Surrey"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
       "name": "Frederick Roberts",
       "role": "Air Gunner (JB874)",
       "nationality": "British",
-      "fate": "Killed",
       "age": 21,
       "service_number": "649066",
       "burial_location": "Anfield Cemetery, Liverpool"
     },
     {
-      "name": "J. Greet",
       "rank": "Sgt",
-      "role": "Air Gunner (JB874)",
-      "fate": "Survived: seriously injured, hospitalised, about five years recovering"
+      "fate": "Survived: seriously injured, hospitalised, about five years recovering",
+      "name": "J. Greet",
+      "role": "Air Gunner (JB874)"
     }
   ],
   "contributor": "IWM War Memorials Register",
@@ -281,7 +281,8 @@
   "memorial_name": "Handley Page Halifax's BB373 and JB874",
   "memorial_address": "East abutment of the footbridge over the Hull River, Weel Street, Tickton, HU17 9SB",
   "maintainer": {
-    "organisation": "Tickton and Routh Parish Council"
+    "organisation": "Tickton and Routh Parish Council",
+    "maintainer_type": ""
   },
   "last_validated": "2026-10-28"
 }

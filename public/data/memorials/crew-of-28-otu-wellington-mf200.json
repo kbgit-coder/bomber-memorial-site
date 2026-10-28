@@ -8,9 +8,9 @@
   "serial_number": "MF200",
   "squadron": "28 OTU (Operational Training Unit), 93 Group",
   "crash_date": "1944-04-19",
-  "memorial_type": "Cairn",
+  "memorial_type": "Plaque on a stone and brass pillar, in a field beside the village hall",
   "memorial_details": "Sand coloured column with a metal plaque on the top\n\nA plaque on a stone and brass pillar stands in a field beside the village hall off Main Street.",
-  "inscription": "A memorial to the men who lost their lives/ In the 19th April 1944 Bomber Crash at/ Normanton on Soar/ Names (4)",
+  "inscription": "A memorial to the men who lost their lives in the 19th April 1944 Bomber Crash at Normanton on Soar. Names: Flt Officer D.H. King 24, Pilot Officer D.R. Doyle 24, Sgt D. Fretwell 19, Sgt Garrod 22.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Normanton on Soar bomber crash memorial (WMO 264769)",
-      "type": "community",
+      "type": "researched",
       "url": "https://www.warmemorialsonline.org.uk/memorial/264769",
       "date": "2026-10-28"
     },
@@ -52,50 +52,56 @@
       "type": "institutional",
       "url": "https://losses.internationalbcc.co.uk/loss/108433",
       "date": "2026-10-28"
+    },
+    {
+      "title": "Pilot officer Douglas R Doyle",
+      "type": "researched",
+      "url": "https://rathdown.wicklowheritage.org/topics/greystones-and-the-second-world-war/casualties-from-greystones-in-the-second-world-war/pilot-officer-douglas-r-doyle",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
   "narrative": "Wellington X MF200 of 28 Operational Training Unit took off from Wymeswold for circuit training on 19 April 1944 and crashed at Normanton on Soar. All four men aboard died. The Nottinghamshire Roll of Honour gives the take-off as 02:30 and the crash about 35 minutes later; War Memorials Online gives 02:50 and a crash about 15 minutes after take-off. The sources do not settle which is right. The IBCC records describe it as night training and give no cause.\n\nThe pilot, Flying Officer Donald Hugh King, was 24. The Roll of Honour says he had about 1,500 flying hours but only 10 on Wellingtons. With him were Pilot Officer Douglas Robert Doyle, navigator; Sergeant Desmond Fretwell, 19, wireless operator and air gunner; and Sergeant Lawrence Emmerson Garrod, 22, air gunner. IBCC and War Memorials Online give Doyle's age as 24; the Wicklow heritage page says 25.\n\nKing is buried at Burton-on-the-Wolds, Doyle at Greystones (Redford) Cemetery in County Wicklow, Fretwell at Bradfield (St Nicholas) churchyard and Garrod at Blyth (Cowpen) Cemetery.",
   "crew": [
     {
-      "name": "Donald Hugh King",
       "rank": "Flying Officer",
+      "fate": "Killed in the crash",
+      "name": "Donald Hugh King",
       "role": "Pilot",
       "age": 24,
       "service_number": "145501",
-      "fate": "Killed in the crash",
       "burial_location": "Burton-on-the-Wolds Burial Ground, Row F, Grave 11",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/113019/"
     },
     {
-      "name": "Douglas Robert Doyle",
       "rank": "Pilot Officer",
+      "fate": "Killed in the crash",
+      "name": "Douglas Robert Doyle",
       "role": "Navigator",
       "age": 24,
       "service_number": "154086",
-      "fate": "Killed in the crash",
       "burial_location": "Greystones (Redford) Cemetery, County Wicklow",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/106470/",
       "hometown": "Greystones, County Wicklow"
     },
     {
-      "name": "Desmond Fretwell",
       "rank": "Sergeant",
+      "fate": "Killed in the crash",
+      "name": "Desmond Fretwell",
       "role": "Wireless operator/air gunner",
       "age": 19,
       "service_number": "2207037",
-      "fate": "Killed in the crash",
       "burial_location": "Bradfield (St Nicholas) Churchyard, New part, Grave 276",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/108138/",
       "hometown": "Silsden"
     },
     {
-      "name": "Lawrence Emmerson Garrod",
       "rank": "Sergeant",
+      "fate": "Killed in the crash",
+      "name": "Lawrence Emmerson Garrod",
       "role": "Air gunner",
       "age": 22,
       "service_number": "1565479",
-      "fate": "Killed in the crash",
       "burial_location": "Blyth (Cowpen) Cemetery, Sec. F, Cons. Grave 100",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/108433/",
       "hometown": "Blyth, Northumberland"
@@ -182,6 +188,18 @@
       ],
       "date_retrieved": "2026-10-28",
       "still_live": true
+    },
+    {
+      "source_site": "Rathdown Wicklow Heritage",
+      "original_url": "https://rathdown.wicklowheritage.org/topics/greystones-and-the-second-world-war/casualties-from-greystones-in-the-second-world-war/pilot-officer-douglas-r-doyle",
+      "summary": "Local heritage page on Doyle. Gives his age as 25 and family details, drawing on The Wicklow War Dead (2009).",
+      "key_details": [
+        "age 25",
+        "son of Edwin and Olive Frances Doyle, Greystones",
+        "family grave Redford Cemetery"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
     }
   ],
   "what3words": "",
@@ -194,6 +212,7 @@
   "operation_type": "Circuit training",
   "memorial_name": "Normanton on Soar Air Crash - World War Two",
   "memorial_address": "Field adjacent to the Village Hall, off Main Street, Normanton on Soar",
+  "condition": "Visitor comment says it needs cleaning of lichen and weeds",
   "cause_of_loss": "Crashed during night training; cause not stated in sources",
   "last_validated": "2026-10-28"
 }

@@ -2,17 +2,6 @@
 
 Generated 2026-10-28 by scripts/research/dossier.ts report. Conflicts are never resolved silently: each needs a human call or a better source.
 
-## chipping-warden-2-wellington-r-1037
-
-- **location_name** — single, not applied
-  - "Hogg Lane, Chipping Warden, Northamptonshire" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/265170
-- **memorial_type** — single, not applied
-  - "Plaque on the side of a private house" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/265170
-- **memorial_name** — single, not applied
-  - "Plaque to Pilot Officer Kenneth Farnes" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/265170
-- **crew.role (farnes-k)** — single, not applied
-  - "Pilot" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/265170
-
 ## vickers-wellington-x-hf465
 
 - **crash_date** — conflict, not applied
@@ -57,18 +46,10 @@ Generated 2026-10-28 by scripts/research/dossier.ts report. Conflicts are never 
 - **crew.rank (gilbert-rr)** — conflict, resolved to "P/O" by source tier
   - "F/Sgt" — yorkshire-aircraft.co.uk (researched) https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/bb373.html
   - "P/O" — cwgc (official) https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/
-  - "Flt Sgt" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/229912
+  - "Flt Sgt" — war memorials online (researched) https://www.warmemorialsonline.org.uk/memorial/229912
 
 ## crew-of-28-otu-wellington-mf200
 
-- **event** — single, not applied
-  - "Circuit training; took off about 02:50" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/264769
-- **memorial_type** — single, not applied
-  - "Plaque on a stone and brass pillar, in a field beside the village hall" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/264769
-- **inscription** — single, not applied
-  - "A memorial to the men who lost their lives in the 19th April 1944 Bomber Crash at Normanton on Soar. Names: Flt Officer D.H. King 24, Pilot Officer D.R. Doyle 24, Sgt D. Fretwell 19, Sgt Garrod 22." — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/264769
-- **condition** — single, not applied
-  - "Visitor comment says it needs cleaning of lichen and weeds" — war memorials online (community) https://www.warmemorialsonline.org.uk/memorial/264769
 - **crew.age (doyle-dr)** — conflict, resolved to "24" by source tier
   - "24" — ibcc losses database, war memorials online (institutional) https://losses.internationalbcc.co.uk/loss/106470/ https://www.warmemorialsonline.org.uk/memorial/264769
   - "25" — rathdown wicklow heritage (researched) https://rathdown.wicklowheritage.org/topics/greystones-and-the-second-world-war/casualties-from-greystones-in-the-second-world-war/pilot-officer-douglas-r-doyle

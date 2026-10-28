@@ -291,57 +291,60 @@
   "operation_target": "No target: aircraft carried practice bombs and reconnaissance flares",
   "crew": [
     {
-      "name": "John Beverley Kemp",
       "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "John Beverley Kemp",
       "role": "Pilot",
       "age": 21,
       "service_number": "R/88687",
       "nationality": "Canadian (RCAF)",
-      "fate": "Killed",
       "burial_location": "Hereford Cemetery, Plot A (C. of E.), joint grave 5619",
       "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2447759",
       "hometown": "Oakville, Ontario"
     },
     {
+      "rank": null,
+      "fate": "Killed",
       "name": "Ernest Edward Mittell",
       "age": 22,
       "service_number": "R/71725",
       "nationality": "Canadian (RCAF)",
-      "fate": "Killed",
       "burial_location": "Hereford Cemetery, Plot A (C. of E.), joint grave 5640",
       "ibcc_url": "https://losses.internationalbcc.co.uk/kiosk/loss/116385",
       "hometown": "Clinton, Ontario",
       "role": "Navigator"
     },
     {
-      "name": "Harold Creighton Beatty",
+      "rank": null,
       "fate": "Killed",
+      "name": "Harold Creighton Beatty",
       "burial_location": "Hereford Cemetery",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/101445",
       "role": "Wireless operator",
       "nationality": "Canadian (RCAF)"
     },
     {
+      "rank": null,
+      "fate": "Killed",
       "name": "James Patrick Hayes",
       "service_number": "R/82352",
       "role": "Air gunner",
       "burial_location": "Hereford Cemetery, Plot A, grave 5660",
       "ibcc_url": "https://losses.internationalbcc.co.uk/kiosk/loss/110298",
       "hometown": "Souris, Manitoba",
-      "fate": "Killed",
       "nationality": "Canadian (RCAF)"
     },
     {
+      "rank": "Sergeant",
+      "fate": "Killed",
       "name": "Kenneth Ferguson Yuill",
       "age": 30,
       "service_number": "R/106035",
       "nationality": "Canadian (RCAF)",
-      "fate": "Killed",
       "burial_location": "Hereford Cemetery, Plot A, joint grave 5619",
       "ibcc_url": "https://losses.internationalbcc.co.uk/loss/126246",
       "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2447782",
-      "hometown": "Winnipeg, Manitoba",
-      "rank": "Sergeant"
+      "hometown": "Winnipeg, Manitoba"
     }
   ],
   "last_validated": "2026-10-28"

@@ -28,10 +28,6 @@
   "data_quality": "Partial",
   "latitude": 50.4476371,
   "longitude": -3.8983431,
-  "maintainer": {
-    "website": "https://www.dartmoor.gov.uk",
-    "maintainer_type": "military"
-  },
   "external_narratives": [
     {
       "source_site": "Legendary Dartmoor",
@@ -91,20 +87,24 @@
   "names_on_memorial": "P/O Frederick Cooke; F/Sgt William Jack; F/Sgt Alfred Beeston; Sgt John Yeates",
   "crew": [
     {
-      "name": "Frederick Cooke",
-      "rank": "Pilot Officer"
+      "rank": "Pilot Officer",
+      "fate": "",
+      "name": "Frederick Cooke"
     },
     {
-      "name": "William Jack",
-      "rank": "Flight Sergeant"
+      "rank": "Flight Sergeant",
+      "fate": "",
+      "name": "William Jack"
     },
     {
-      "name": "Alfred Beeston",
-      "rank": "Flight Sergeant"
+      "rank": "Flight Sergeant",
+      "fate": "",
+      "name": "Alfred Beeston"
     },
     {
-      "name": "John Yeates",
-      "rank": "Sergeant"
+      "rank": "Sergeant",
+      "fate": "",
+      "name": "John Yeates"
     }
   ],
   "last_validated": "2026-10-28"
