@@ -9,7 +9,7 @@ export default function Linkify({ text }: { text: string }) {
     <>
       {parts.map((part, i) => {
         if (i % 2 === 0) return part;
-        const trimmed = part.replace(/[.;:]+$/, "");
+        const trimmed = part.replace(/[.;:!?'"\]]+$/, "");
         const href = /^https?:\/\//i.test(trimmed) ? trimmed : `https://${trimmed}`;
         return (
           <React.Fragment key={i}>

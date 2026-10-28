@@ -1198,7 +1198,7 @@ export default function MemorialPage({ params }: Props) {
                     What you&apos;ll find: {narrative.link_description}
                   </p>
                 )}
-                {narrative.key_details && <p style={{ fontSize: "0.9rem", color: "#666", fontStyle: "italic" }}>{narrative.key_details}</p>}
+                {narrative.key_details && <p style={{ fontSize: "0.9rem", color: "#666", fontStyle: "italic" }}>{Array.isArray(narrative.key_details) ? narrative.key_details.join(" · ") : narrative.key_details}</p>}
               </div>
             ))}
           </div>
