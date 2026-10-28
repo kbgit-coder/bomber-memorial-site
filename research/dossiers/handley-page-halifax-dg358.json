@@ -1,0 +1,554 @@
+{
+  "memorial_id": "handley-page-halifax-dg358",
+  "researched_at": "2026-10-28",
+  "searches": [
+    {
+      "query": "Halifax DG358 Aberhafesp 23 January 1944 crash",
+      "useful": true
+    },
+    {
+      "query": "Down in Aberhafesp Halifax DG358 1667 HCU crew Wareham Wyatt Fisher Bennett Clark Ramsay",
+      "useful": true
+    },
+    {
+      "query": "aviation-safety.net wikibase 193355 (direct fetch, 403 and DNS failure)",
+      "useful": false
+    },
+    {
+      "query": "baaa-acro.com node 491009 (direct fetch, 403)",
+      "useful": false
+    },
+    {
+      "query": "IBCC losses pages for Wareham, Fisher, Wyatt, Ramsay, Bennett, Clark (direct fetch, HTTP 429)",
+      "useful": false
+    },
+    {
+      "query": "Aberhafesp St Gwynog church / Glascoed Farm memorial custodian",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://losses.internationalbcc.co.uk/loss/108470",
+      "title": "Gawler, Ellis Robert",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the flight engineer of 1667 HCU Halifax DG358, with age, service number, burial and family.",
+      "key_details": [
+        "Sgt, flight engineer, age 27, 1193341",
+        "Buried Canford Magna Church Cemetery",
+        "Engine failure at 20,000 ft over Wales; severe icing in thick cloud"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://losses.internationalbcc.co.uk/loss/108547",
+      "title": "Gibb, John William",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the navigator, with the fullest account of how the aircraft broke up, and a note of the Aberhafesp memorials.",
+      "key_details": [
+        "Sgt, navigator, age 18, 1821194",
+        "Buried Aberdeen (Springbank) Cemetery",
+        "Wing folded and detached; struck tailplane; all nine died",
+        "Memorials at Glascoed Farm and St Gwynog's Church, Aberhafesp"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/122068",
+      "title": "Spriggs, John Stanley",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the air bomber.",
+      "key_details": [
+        "F/S, air bomber, age 31, 1449550",
+        "Buried Chester (Blacon) Cemetery",
+        "Husband of Eleanor Myfanwy Spriggs"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://aviation-safety.net/wikibase/193355",
+      "title": "Accident Handley Page Halifax Mk V DG358",
+      "publisher": "Aviation Safety Network",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Not opened directly (fetch blocked). Read only as a search-result summary, which says the Halifax of 1667 HCU left RAF Faldingworth on a cross-country navigation exercise and crashed near Bwlch-y-Ffridd, Caersws, in poor weather. It quotes an accident form: at 20,000 ft before a hailstorm, probably engine failure, pilot descended into cloud that proved to be storm.",
+      "key_details": [
+        "Crash site given as Cwm Farm, Bryn-y-Groes, near Bwlch-y-Ffridd",
+        "Accident form: probable engine failure then storm"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/65780",
+      "title": "Handley Page Halifax DG358 (WMR 65780)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Handwritten roll of honour on the wall of St Gwynog's Church, Aberhafesp, naming nine RAF (VR) airmen killed when their Halifax crashed at Glascoed, Bwlch-y-ffridd on 23 January 1944. It is decorated with a Halifax and a tractor and trailer that carried the bodies to Bwlch-y-ffridd Institute.",
+      "key_details": [
+        "Nine names",
+        "Inscription says bodies rested at Bwlch-y-ffridd Institute on the evening of the 23rd",
+        "Photo credit Bill Williams"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1944-01-23",
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "DG358",
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Halifax V",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "1667 Heavy Conversion Unit",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "RAF Faldingworth",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Day cross-country navigation exercise",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Engine failure at about 20,000 ft over Wales; the aircraft descended into thick cloud, severe icing folded a wing which came off, the aircraft struck its tailplane and broke up in the air",
+      "sources": [
+        "S2"
+      ],
+      "quote": "severe icing caused a wing to fold and detach"
+    },
+    {
+      "id": "C8",
+      "field": "cause_of_loss",
+      "value": "Probable engine failure at 20,000 ft before a hailstorm; the pilot descended into cloud which proved to be a storm",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "died_count",
+      "value": 9,
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "names_on_memorial",
+      "value": 9,
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "memorial_type",
+      "value": "Handwritten roll of honour",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "memorial_address",
+      "value": "St Gwynog's Church, Aberhafesp, Montgomeryshire, Powys SY16 3HW",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "inscription",
+      "value": "In memory of the R.A.F. (V.R.) Airmen who died when their Halifax Aircraft crashed at Glascoed, Bwlch-y-ffridd in this Parish on 23rd January 1944. Their bodies rested at Bwlch-y-ffridd Institute on the evening of the 23rd.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "location_name",
+      "value": "Glascoed, Bwlch-y-ffridd, Aberhafesp",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "crew.name",
+      "person": "gawler-er",
+      "value": "Ellis Robert Gawler",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "crew.rank",
+      "person": "gawler-er",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "crew.role",
+      "person": "gawler-er",
+      "value": "Flight engineer",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "crew.age",
+      "person": "gawler-er",
+      "value": 27,
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "crew.service_number",
+      "person": "gawler-er",
+      "value": "1193341",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "crew.burial_location",
+      "person": "gawler-er",
+      "value": "Canford Magna Church Cemetery",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C26",
+      "field": "crew.cwgc_url",
+      "person": "gawler-er",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2709157",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C27",
+      "field": "crew.ibcc_url",
+      "person": "gawler-er",
+      "value": "https://losses.internationalbcc.co.uk/loss/108470",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C30",
+      "field": "crew.name",
+      "person": "gibb-jw",
+      "value": "John William Gibb",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C31",
+      "field": "crew.rank",
+      "person": "gibb-jw",
+      "value": "Sergeant",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C32",
+      "field": "crew.role",
+      "person": "gibb-jw",
+      "value": "Navigator",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C33",
+      "field": "crew.age",
+      "person": "gibb-jw",
+      "value": 18,
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C34",
+      "field": "crew.service_number",
+      "person": "gibb-jw",
+      "value": "1821194",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C35",
+      "field": "crew.burial_location",
+      "person": "gibb-jw",
+      "value": "Aberdeen (Springbank) Cemetery, Section U, Grave 276",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C36",
+      "field": "crew.cwgc_url",
+      "person": "gibb-jw",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2458394",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C37",
+      "field": "crew.ibcc_url",
+      "person": "gibb-jw",
+      "value": "https://losses.internationalbcc.co.uk/loss/108547",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C38",
+      "field": "crew.hometown",
+      "person": "gibb-jw",
+      "value": "Aberdeen",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "crew.name",
+      "person": "spriggs-js",
+      "value": "John Stanley Spriggs",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "crew.rank",
+      "person": "spriggs-js",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "crew.role",
+      "person": "spriggs-js",
+      "value": "Air bomber",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "crew.age",
+      "person": "spriggs-js",
+      "value": 31,
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C44",
+      "field": "crew.service_number",
+      "person": "spriggs-js",
+      "value": "1449550",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C45",
+      "field": "crew.burial_location",
+      "person": "spriggs-js",
+      "value": "Chester (Blacon) Cemetery, Section A, Grave 543",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "crew.cwgc_url",
+      "person": "spriggs-js",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/1526448",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "crew.ibcc_url",
+      "person": "spriggs-js",
+      "value": "https://losses.internationalbcc.co.uk/loss/122068",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "crew.name",
+      "person": "bennett-pke",
+      "value": "Paul Kenneth Ernest Bennett",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "crew.name",
+      "person": "clark-aa",
+      "value": "Albert Arthur Clark",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "crew.name",
+      "person": "fisher-n",
+      "value": "Norman Fisher",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "crew.name",
+      "person": "ramsey-d",
+      "value": "David Ramsey",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "crew.name",
+      "person": "wareham-wh",
+      "value": "William Henry Wareham",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C55",
+      "field": "crew.name",
+      "person": "wyatt-wg",
+      "value": "William George Wyatt",
+      "sources": [
+        "S5"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Halifax V DG358 of 1667 Heavy Conversion Unit took off from RAF Faldingworth on 23 January 1944 on a day cross-country navigation exercise. All nine men aboard were killed when it crashed in the parish of Aberhafesp, Montgomeryshire. IBCC records say the engine failed at about 20,000 feet over Wales and the aircraft descended into thick cloud, where severe icing made a wing fold and come off; the Halifax then struck its own tailplane and broke up in the air. Aviation Safety Network, quoting an accident form, gives a probable engine failure at 20,000 feet before a hailstorm, with the pilot descending into cloud that proved to be a storm.",
+      "cites": [
+        "C1",
+        "C2",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "Three of the dead are fully identified so far. Sergeant Ellis Robert Gawler, the flight engineer, was 27 and is buried at Canford Magna. Sergeant John William Gibb, the navigator, was 18 and is buried in Aberdeen. Flight Sergeant John Stanley Spriggs, the air bomber, was 31 and is buried at Chester (Blacon).",
+      "cites": [
+        "C20",
+        "C21",
+        "C22",
+        "C23",
+        "C25",
+        "C30",
+        "C31",
+        "C32",
+        "C33",
+        "C35",
+        "C40",
+        "C41",
+        "C42",
+        "C43",
+        "C45"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://wmr.iwm.org.uk/sites/default/files/images/65780.jpg",
+      "credit": "Bill Williams, via IWM War Memorials Register",
+      "caption": "The memorial",
+      "source_id": "S5"
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "IBCC began returning HTTP 429 after three pages, so Bennett, Clark, Fisher, Ramsay (IBCC spells Ramsay), Wareham and Wyatt are named from the stone only; their IBCC pages (loss ids 101683, 104212, 107675, 119296, 124424, 126104) still need reading for rank, role, age, service number and burial. Search snippets suggest Wareham was a Sgt air gunner aged 20. ASN (S4) was not opened: both the host and its cdn mirror failed, so its details come from a search-result summary only. The lightning version of the cause (also mentioned in snippets, e.g. a Find a Grave entry and a website quoting 'hail storm, icing, lightning as well as engine trouble') was not read at source and is not claimed. Crash site naming differs: Glascoed Farm (memorial), Cwm Farm, Bryn-y-Groes (ASN/IBCC snippets). Brian Poole's 1998 booklet 'Down in Aberhafesp' was mentioned in a snippet and not seen. Custodian not found: St Gwynog's Church holds the roll, but no source read names who cares for it. Glascoed Farm memorial not researched. The IWM capture's single photo (credit Bill Williams) is not listed because its URL is not under the permitted pattern check."
+}

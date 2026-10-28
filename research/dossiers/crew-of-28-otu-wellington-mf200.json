@@ -1,0 +1,673 @@
+{
+  "memorial_id": "crew-of-28-otu-wellington-mf200",
+  "researched_at": "2026-10-28",
+  "searches": [
+    {
+      "query": "Wellington MF200 28 OTU Normanton on Soar 19 April 1944",
+      "useful": true
+    },
+    {
+      "query": "IWM War Memorials Register Normanton on Soar bomber crash memorial 1944",
+      "useful": false
+    },
+    {
+      "query": "iwm.org.uk memorials Normanton on Soar Wellington MF200 crew 19th April 1944",
+      "useful": false
+    },
+    {
+      "query": "aviation-safety.net wikibase Wellington MF200 28 OTU Wymeswold Normanton",
+      "useful": false
+    },
+    {
+      "query": "IBCC losses King, Doyle, Fretwell, Garrod MF200",
+      "useful": true
+    },
+    {
+      "query": "Normanton on Soar memorial custodian maintainer plaque village hall",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://rollofhonour.nottinghamshire.gov.uk/Memorial/Details/2059",
+      "title": "Normanton on Soar Air Crash - World War Two",
+      "publisher": "Nottinghamshire Roll of Honour",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "County roll entry for the plaque. Names four airmen, gives the aircraft, unit and take-off time, and the pilot's flying experience.",
+      "key_details": [
+        "Wellington MF200, 28 OTU",
+        "left Wymeswold 02:30 for circuit training",
+        "crashed about 35 minutes later",
+        "pilot about 1,500 hours, 10 on Wellingtons"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/264769",
+      "title": "Normanton on Soar bomber crash memorial (WMO 264769)",
+      "publisher": "War Memorials Online",
+      "tier": "community",
+      "retrieved": "2026-10-28",
+      "summary": "Records the plaque, its inscription with names and ages, and location beside the village hall. Gives a different take-off time. No custodian recorded.",
+      "key_details": [
+        "take-off 02:50, crash about 15 minutes later",
+        "custodian fields read Information Required",
+        "visitor comment says it needs a clean"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/113019/",
+      "title": "King, Donald Hugh",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the pilot.",
+      "key_details": [
+        "F/O, pilot, age 24, 145501 RAFVR",
+        "buried Burton-on-the-Wolds Burial Ground, Row F Grave 11",
+        "wife Ada Serena King of Christchurch, Hampshire"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://losses.internationalbcc.co.uk/loss/106470/",
+      "title": "Doyle, Douglas Robert",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the navigator.",
+      "key_details": [
+        "P/O, navigator, age 24, 154086 RAFVR",
+        "born Greystones, Co. Wicklow",
+        "buried Greystones (Redford) Cemetery"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://losses.internationalbcc.co.uk/loss/108138",
+      "title": "Fretwell, Desmond",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the wireless operator/air gunner.",
+      "key_details": [
+        "Sgt, WOp/AG, age 19, 2207037 RAFVR",
+        "Silsden",
+        "buried Bradfield (St Nicholas) Churchyard, New part, Grave 276"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://losses.internationalbcc.co.uk/loss/108433",
+      "title": "Garrod, Lawrence Emmerson",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Loss record for the air gunner.",
+      "key_details": [
+        "Sgt, air gunner, age 22, 1565479 RAFVR",
+        "Blyth, Northumberland",
+        "buried Blyth (Cowpen) Cemetery, Sec F Cons. Grave 100"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://rathdown.wicklowheritage.org/topics/greystones-and-the-second-world-war/casualties-from-greystones-in-the-second-world-war/pilot-officer-douglas-r-doyle",
+      "title": "Pilot officer Douglas R Doyle",
+      "publisher": "Rathdown Wicklow Heritage",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Local heritage page on Doyle. Gives his age as 25 and family details, drawing on The Wicklow War Dead (2009).",
+      "key_details": [
+        "age 25",
+        "son of Edwin and Olive Frances Doyle, Greystones",
+        "family grave Redford Cemetery"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1944-04-19",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "MF200",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Wellington X",
+      "sources": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "28 OTU (Operational Training Unit), 93 Group",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "Wymeswold",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Circuit training",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "event",
+      "value": "Circuit training; took off about 02:30",
+      "sources": [
+        "S1"
+      ],
+      "quote": "departed Wymeswold at 0230 19/4/1944 for circuit training"
+    },
+    {
+      "id": "C8",
+      "field": "event",
+      "value": "Circuit training; took off about 02:50",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "location_name",
+      "value": "Normanton on Soar",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "memorial_name",
+      "value": "Normanton on Soar Air Crash - World War Two",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "memorial_type",
+      "value": "Plaque on a stone and brass pillar, in a field beside the village hall",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "memorial_address",
+      "value": "Field adjacent to the Village Hall, off Main Street, Normanton on Soar",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "inscription",
+      "value": "A memorial to the men who lost their lives in the 19th April 1944 Bomber Crash at Normanton on Soar. Names: Flt Officer D.H. King 24, Pilot Officer D.R. Doyle 24, Sgt D. Fretwell 19, Sgt Garrod 22.",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "names_on_memorial",
+      "value": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "died_count",
+      "value": 4,
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "condition",
+      "value": "Visitor comment says it needs cleaning of lichen and weeds",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "cause_of_loss",
+      "value": "Crashed during night training; cause not stated in sources",
+      "sources": [
+        "S4",
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "Donald Hugh King",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "Flying Officer",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C20",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S3",
+        "S2"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "value": "145501",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C23",
+      "field": "crew.fate",
+      "value": "Killed in the crash",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C24",
+      "field": "crew.burial_location",
+      "value": "Burton-on-the-Wolds Burial Ground, Row F, Grave 11",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C25",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/113019/",
+      "sources": [
+        "S3"
+      ],
+      "person": "king-dh"
+    },
+    {
+      "id": "C26",
+      "field": "crew.name",
+      "value": "Douglas Robert Doyle",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C27",
+      "field": "crew.rank",
+      "value": "Pilot Officer",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C28",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C29",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S4",
+        "S2"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C30",
+      "field": "crew.service_number",
+      "value": "154086",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C31",
+      "field": "crew.fate",
+      "value": "Killed in the crash",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C32",
+      "field": "crew.burial_location",
+      "value": "Greystones (Redford) Cemetery, County Wicklow",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C33",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/106470/",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C34",
+      "field": "crew.hometown",
+      "value": "Greystones, County Wicklow",
+      "sources": [
+        "S4"
+      ],
+      "person": "doyle-dr"
+    },
+    {
+      "id": "C35",
+      "field": "crew.name",
+      "value": "Desmond Fretwell",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C36",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C37",
+      "field": "crew.role",
+      "value": "Wireless operator/air gunner",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C38",
+      "field": "crew.age",
+      "value": 19,
+      "sources": [
+        "S5",
+        "S2"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C39",
+      "field": "crew.service_number",
+      "value": "2207037",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C40",
+      "field": "crew.fate",
+      "value": "Killed in the crash",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C41",
+      "field": "crew.burial_location",
+      "value": "Bradfield (St Nicholas) Churchyard, New part, Grave 276",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C42",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/108138/",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C43",
+      "field": "crew.hometown",
+      "value": "Silsden",
+      "sources": [
+        "S5"
+      ],
+      "person": "fretwell-d"
+    },
+    {
+      "id": "C44",
+      "field": "crew.name",
+      "value": "Lawrence Emmerson Garrod",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C45",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C46",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C47",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S6",
+        "S2"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C48",
+      "field": "crew.service_number",
+      "value": "1565479",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C49",
+      "field": "crew.fate",
+      "value": "Killed in the crash",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C50",
+      "field": "crew.burial_location",
+      "value": "Blyth (Cowpen) Cemetery, Sec. F, Cons. Grave 100",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C51",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/108433/",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C52",
+      "field": "crew.hometown",
+      "value": "Blyth, Northumberland",
+      "sources": [
+        "S6"
+      ],
+      "person": "garrod-le"
+    },
+    {
+      "id": "C53",
+      "field": "crew.age",
+      "value": 25,
+      "sources": [
+        "S7"
+      ],
+      "person": "doyle-dr"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Wellington X MF200 of 28 Operational Training Unit took off from Wymeswold for circuit training on 19 April 1944 and crashed at Normanton on Soar. All four men aboard died. The Nottinghamshire Roll of Honour gives the take-off as 02:30 and the crash about 35 minutes later; War Memorials Online gives 02:50 and a crash about 15 minutes after take-off. The sources do not settle which is right. The IBCC records describe it as night training and give no cause.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C17",
+        "C15"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "The pilot, Flying Officer Donald Hugh King, was 24. The Roll of Honour says he had about 1,500 flying hours but only 10 on Wellingtons. With him were Pilot Officer Douglas Robert Doyle, navigator; Sergeant Desmond Fretwell, 19, wireless operator and air gunner; and Sergeant Lawrence Emmerson Garrod, 22, air gunner. IBCC and War Memorials Online give Doyle's age as 24; the Wicklow heritage page says 25.",
+      "cites": [
+        "C18",
+        "C19",
+        "C21",
+        "C26",
+        "C28",
+        "C38",
+        "C37",
+        "C47",
+        "C46",
+        "C29"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "King is buried at Burton-on-the-Wolds, Doyle at Greystones (Redford) Cemetery in County Wicklow, Fretwell at Bradfield (St Nicholas) churchyard and Garrod at Blyth (Cowpen) Cemetery.",
+      "cites": [
+        "C24",
+        "C32",
+        "C41",
+        "C50"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "A plaque on a stone and brass pillar stands in a field beside the village hall off Main Street. It names the four men. A visitor comment on War Memorials Online says it needs cleaning of lichen and weeds. No source names who looks after it.",
+      "cites": [
+        "C11",
+        "C12",
+        "C13",
+        "C16"
+      ]
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "IWM id 108496 in our record is dead. Search found no IWM entry for this plaque (hits were other memorials; 37427 is Rothersthorpe LN482). Not settled. ASN wikibase 153274 not readable (403 / certificate error), so not used. CWGC not checked, so no cwgc_url claims. Take-off time conflict 02:30 (Notts roll) vs 02:50 (WMO). Doyle age 24 (IBCC, WMO) vs 25 (Wicklow Heritage, which cites The Wicklow War Dead). IBCC lists the sortie as Day but also night training. Custodian: only WMO checked, which shows none; parish council not searched on a dedicated page, so left unknown not unknown-confirmed. Find a Grave and Traces of War not fetched."
+}

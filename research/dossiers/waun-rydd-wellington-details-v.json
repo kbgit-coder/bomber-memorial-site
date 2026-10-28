@@ -1,0 +1,857 @@
+{
+  "memorial_id": "waun-rydd-wellington-details-v",
+  "researched_at": "2026-10-28",
+  "searches": [
+    {
+      "query": "Wellington R1465 Waun Rydd 1942 crew RCAF",
+      "useful": true
+    },
+    {
+      "query": "Waun Rydd Wellington memorial cairn Tredegar Comprehensive School plaque Kemp Mittell Yuill Beatty Hayes",
+      "useful": false
+    },
+    {
+      "query": "IWM War Memorials Register Wellington Waun Rydd Brecon Beacons memorial",
+      "useful": false
+    },
+    {
+      "query": "CWGC Kemp John Beverley Royal Canadian Air Force 6 July 1942 Hereford Cemetery",
+      "useful": true
+    },
+    {
+      "query": "Mittell Ernest Edward R/71725 RCAF 6 July 1942 Hereford Cemetery CWGC",
+      "useful": true
+    },
+    {
+      "query": "Hayes James Patrick R/82352 RCAF 6 July 1942 Hereford Cemetery",
+      "useful": true
+    },
+    {
+      "query": "Yuill Kenneth Ferguson R/106035 RCAF 6 July 1942 Hereford Cemetery",
+      "useful": true
+    },
+    {
+      "query": "Beatty Harold Creighton R/75332 RCAF 6 July 1942 Hereford Cemetery wireless operator",
+      "useful": true
+    },
+    {
+      "query": "Waun Rydd Wellington R1465 memorial cairn built school pupils plaque Brecon Beacons National Park crash site",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://coflein.gov.uk/en/site/507039",
+      "title": "Vickers Wellington Ic R1465, Waun Rydd (NPRN 507039)",
+      "publisher": "Coflein (RCAHMW)",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "National monuments record entry for the crash site. Gives serial, unit, date, crew list, cause, site condition and who built the cairn.",
+      "key_details": [
+        "R1465, 22 OTU Wellesbourne Mountford, 6 July 1942",
+        "Five Canadian crew buried at Hereford",
+        "Controlled Site under the Protection of Military Remains Act 1986",
+        "Cairn built by pupils and staff of Tredeger Comprehensive School"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2447759",
+      "title": "Flight Sergeant John Beverley Kemp",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-10-28",
+      "summary": "CWGC record for the pilot: RCAF, service number, age, burial in a joint grave at Hereford Cemetery.",
+      "key_details": [
+        "Flight Sergeant, R/88687, age 21",
+        "Hereford Cemetery, Plot A (C. of E.), joint grave 5619"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial/detail/2447759",
+      "title": "Canadian Virtual War Memorial: John Beverley Kemp",
+      "publisher": "Veterans Affairs Canada (Canadian Virtual War Memorial)",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search-result excerpts only, not fetched in full. Gives family, unit, circumstances and burial for Kemp.",
+      "key_details": [
+        "Pilot with No. 22 OTU",
+        "Wellington carried practice bombs and reconnaissance flares, flew into low cloud and crashed near the summit of a mountain at Cerric, Breconshire",
+        "Son of John Beverley Oxborough and Emma Donovan Kemp; husband of Freda Rose Kemp, Oakville, Ontario"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/detail/2447764",
+      "title": "Canadian Virtual War Memorial: Ernest Edward Mittell",
+      "publisher": "Veterans Affairs Canada (Canadian Virtual War Memorial)",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search-result excerpts only. Mittell's service number, age, parents and Hereford burial.",
+      "key_details": [
+        "R/71725, age 22, died 6 July 1942",
+        "Son of Edward Lancelot and Annie Edna Mittell, Clinton, Ontario",
+        "Hereford Cemetery Plot A (C. of E.) joint grave 5640"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/detail/2447756",
+      "title": "Canadian Virtual War Memorial: James Patrick Hayes",
+      "publisher": "Veterans Affairs Canada (Canadian Virtual War Memorial)",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search-result excerpts only. Hayes's parents and the crash description.",
+      "key_details": [
+        "Son of Edward Emmanuel and Mabel Frances Hayes, Souris, Manitoba",
+        "On the Bomber Command Memorial Wall, Nanton"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/detail/2447782",
+      "title": "Canadian Virtual War Memorial: Kenneth Ferguson Yuill",
+      "publisher": "Veterans Affairs Canada (Canadian Virtual War Memorial)",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search-result excerpts only. Yuill's birth, age, parents and burial.",
+      "key_details": [
+        "Born 28 March 1912, Winnipeg; age 30",
+        "Son of James McAuley and Agnes Yuill, Winnipeg",
+        "Hereford Cemetery Plot A joint grave 5619"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://losses.internationalbcc.co.uk/loss/126246",
+      "title": "Yuill, Kenneth Ferguson",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search excerpt only (page fetch returned HTTP 429). Places Yuill with 22 OTU in Wellington IC R1465 on a night training flight on 6 July 1942.",
+      "key_details": [
+        "22 OTU",
+        "Night training flight",
+        "Sergeant"
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "https://losses.internationalbcc.co.uk/loss/101445",
+      "title": "Beatty, Harold Creighton",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen in the search result list only (page fetch returned HTTP 429). Beatty's IBCC record exists; content not read.",
+      "key_details": [
+        "Record exists at this URL"
+      ]
+    },
+    {
+      "id": "S9",
+      "url": "https://losses.internationalbcc.co.uk/kiosk/loss/110298",
+      "title": "Hayes, James Patrick (IBCC)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search excerpt only. Lists Hayes as air gunner, RCAF, 22 OTU, buried Hereford Cemetery Plot A grave 5660, Wellington IC R1465, markings LT-Y.",
+      "key_details": [
+        "Air gunner",
+        "Grave 5660",
+        "Markings LT-Y"
+      ]
+    },
+    {
+      "id": "S10",
+      "url": "https://losses.internationalbcc.co.uk/kiosk/loss/116385",
+      "title": "Mittell, Ernest Edward (IBCC)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search excerpt only. Lists Mittell's trade as navigator, aircraft Wellington IC R1465, 6 July 1942.",
+      "key_details": [
+        "Trade: navigator"
+      ]
+    },
+    {
+      "id": "S11",
+      "url": "https://www.iwa.wales/agenda/2010/11/aluminium-litters-the-ravens-quarry/",
+      "title": "Aluminium litters the Raven's Quarry",
+      "publisher": "Institute of Welsh Affairs",
+      "tier": "secondary",
+      "retrieved": "2026-10-28",
+      "summary": "Article on the wreckage below Cwar y Gigfran. Gives serial, unit, date, exercise type and the descent-in-cloud explanation. Says nothing on who built the cairn or on an inquiry for R1465.",
+      "key_details": [
+        "Cross-country flight training exercise",
+        "Pilot apparently descended from 10,000 ft in heavy cloud to fix position",
+        "Five Canadians, buried in Hereford"
+      ]
+    },
+    {
+      "id": "S12",
+      "url": "https://www.wanderingwelshgirl.com/waun-rydd-wellington-bomber-walk-brecon-beacons/",
+      "title": "Waun Rydd Wellington bomber walk",
+      "publisher": "Wandering Welsh Girl",
+      "tier": "community",
+      "retrieved": "2026-10-28",
+      "summary": "Walking blog. Repeats serial, date, bad-weather cause and the cairn decorated with poppies. Names no crew. Likely derived from the same material as the IWA article, so not independent of it.",
+      "key_details": [
+        "R-1465, 6 July 1942",
+        "Cairn often decorated with poppies",
+        "Two piles of wreckage"
+      ]
+    },
+    {
+      "id": "S13",
+      "url": "https://www.geograph.org.uk/photo/401228",
+      "title": "Geograph photo 401228, Wellington R1465 memorial",
+      "publisher": "Geograph",
+      "tier": "community",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search excerpt only. Memorial for the Canadian crew of R1465; walkers leave crosses and wreaths.",
+      "key_details": [
+        "Many remembrance crosses and wreaths left by walkers"
+      ]
+    },
+    {
+      "id": "S14",
+      "url": "https://canadianfallen.ca/74732/BEATTY",
+      "title": "Canadian Fallen: Harold Creighton Beatty",
+      "publisher": "Canadian Fallen Soldiers",
+      "tier": "community",
+      "retrieved": "2026-10-28",
+      "summary": "Seen via search excerpt only (direct fetch returned 404). Flight Sergeant H C Beatty, R/75332, RCAF, died 6 July 1942, Hereford Cemetery.",
+      "key_details": [
+        "R/75332",
+        "Hereford Cemetery"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1942-07-06",
+      "sources": [
+        "S1",
+        "S2",
+        "S11"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "R1465",
+      "sources": [
+        "S1",
+        "S7",
+        "S9",
+        "S11"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Vickers Wellington Ic",
+      "sources": [
+        "S1",
+        "S9"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "22 Operational Training Unit",
+      "sources": [
+        "S1",
+        "S3",
+        "S7"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "Wellesbourne Mountford",
+      "sources": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Training flight (cross-country exercise)",
+      "sources": [
+        "S11",
+        "S7"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Flew into the summit of Waun Rydd in heavy cloud; the pilot is believed to have descended from the advised 10,000 ft to check his position",
+      "sources": [
+        "S1",
+        "S11"
+      ],
+      "quote": "believed the pilot descended from the advised 10,000 ft to check his position"
+    },
+    {
+      "id": "C8",
+      "field": "location_name",
+      "value": "Waun Rydd, Brecon Beacons",
+      "sources": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "county",
+      "value": "Powys",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "memorial_type",
+      "value": "Memorial cairn",
+      "sources": [
+        "S1",
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "erected_by",
+      "value": "Pupils and staff of Tredeger Comprehensive School",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "condition",
+      "value": "Wreckage gathered into two piles; site is a Controlled Site under the Protection of Military Remains Act 1986",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "died_count",
+      "value": "5",
+      "sources": [
+        "S1",
+        "S11"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "operation_target",
+      "value": "No target: aircraft carried practice bombs and reconnaissance flares",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "crew.name",
+      "person": "kemp-jb",
+      "value": "John Beverley Kemp",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "crew.rank",
+      "person": "kemp-jb",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "crew.role",
+      "person": "kemp-jb",
+      "value": "Pilot",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "crew.age",
+      "person": "kemp-jb",
+      "value": "21",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "crew.service_number",
+      "person": "kemp-jb",
+      "value": "R/88687",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "crew.nationality",
+      "person": "kemp-jb",
+      "value": "Canadian (RCAF)",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C26",
+      "field": "crew.fate",
+      "person": "kemp-jb",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "id": "C27",
+      "field": "crew.burial_location",
+      "person": "kemp-jb",
+      "value": "Hereford Cemetery, Plot A (C. of E.), joint grave 5619",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C28",
+      "field": "crew.cwgc_url",
+      "person": "kemp-jb",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2447759",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C29",
+      "field": "crew.hometown",
+      "person": "kemp-jb",
+      "value": "Oakville, Ontario",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C30",
+      "field": "crew.name",
+      "person": "mittell-ee",
+      "value": "Ernest Edward Mittell",
+      "sources": [
+        "S4",
+        "S10"
+      ]
+    },
+    {
+      "id": "C31",
+      "field": "crew.age",
+      "person": "mittell-ee",
+      "value": "22",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C32",
+      "field": "crew.service_number",
+      "person": "mittell-ee",
+      "value": "R/71725",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C33",
+      "field": "crew.nationality",
+      "person": "mittell-ee",
+      "value": "Canadian (RCAF)",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C34",
+      "field": "crew.fate",
+      "person": "mittell-ee",
+      "value": "Killed",
+      "sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C35",
+      "field": "crew.burial_location",
+      "person": "mittell-ee",
+      "value": "Hereford Cemetery, Plot A (C. of E.), joint grave 5640",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C36",
+      "field": "crew.ibcc_url",
+      "person": "mittell-ee",
+      "value": "https://losses.internationalbcc.co.uk/kiosk/loss/116385",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "id": "C37",
+      "field": "crew.hometown",
+      "person": "mittell-ee",
+      "value": "Clinton, Ontario",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C38",
+      "field": "crew.role",
+      "person": "mittell-ee",
+      "value": "Observer",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C39",
+      "field": "crew.role",
+      "person": "mittell-ee",
+      "value": "Navigator",
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "crew.name",
+      "person": "yuill-kf",
+      "value": "Kenneth Ferguson Yuill",
+      "sources": [
+        "S6",
+        "S7"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "crew.age",
+      "person": "yuill-kf",
+      "value": "30",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "crew.service_number",
+      "person": "yuill-kf",
+      "value": "R/106035",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "crew.nationality",
+      "person": "yuill-kf",
+      "value": "Canadian (RCAF)",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C44",
+      "field": "crew.fate",
+      "person": "yuill-kf",
+      "value": "Killed",
+      "sources": [
+        "S6",
+        "S1"
+      ]
+    },
+    {
+      "id": "C45",
+      "field": "crew.burial_location",
+      "person": "yuill-kf",
+      "value": "Hereford Cemetery, Plot A, joint grave 5619",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "crew.ibcc_url",
+      "person": "yuill-kf",
+      "value": "https://losses.internationalbcc.co.uk/loss/126246",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "crew.cwgc_url",
+      "person": "yuill-kf",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2447782",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C48",
+      "field": "crew.hometown",
+      "person": "yuill-kf",
+      "value": "Winnipeg, Manitoba",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C49",
+      "field": "crew.rank",
+      "person": "yuill-kf",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "crew.name",
+      "person": "beatty-hc",
+      "value": "Harold Creighton Beatty",
+      "sources": [
+        "S14",
+        "S8"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "crew.service_number",
+      "person": "beatty-hc",
+      "value": "R/75332",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "crew.fate",
+      "person": "beatty-hc",
+      "value": "Killed",
+      "sources": [
+        "S14",
+        "S1"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "crew.burial_location",
+      "person": "beatty-hc",
+      "value": "Hereford Cemetery",
+      "sources": [
+        "S14",
+        "S1"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "crew.ibcc_url",
+      "person": "beatty-hc",
+      "value": "https://losses.internationalbcc.co.uk/loss/101445",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C55",
+      "field": "crew.role",
+      "person": "beatty-hc",
+      "value": "Wireless operator",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C56",
+      "field": "crew.nationality",
+      "person": "beatty-hc",
+      "value": "Canadian (RCAF)",
+      "sources": [
+        "S14",
+        "S1"
+      ]
+    },
+    {
+      "id": "C60",
+      "field": "crew.name",
+      "person": "hayes-jp",
+      "value": "James Patrick Hayes",
+      "sources": [
+        "S5",
+        "S9"
+      ]
+    },
+    {
+      "id": "C61",
+      "field": "crew.service_number",
+      "person": "hayes-jp",
+      "value": "R/82352",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C62",
+      "field": "crew.role",
+      "person": "hayes-jp",
+      "value": "Air gunner",
+      "sources": [
+        "S9",
+        "S1"
+      ]
+    },
+    {
+      "id": "C63",
+      "field": "crew.burial_location",
+      "person": "hayes-jp",
+      "value": "Hereford Cemetery, Plot A, grave 5660",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C64",
+      "field": "crew.ibcc_url",
+      "person": "hayes-jp",
+      "value": "https://losses.internationalbcc.co.uk/kiosk/loss/110298",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C65",
+      "field": "crew.hometown",
+      "person": "hayes-jp",
+      "value": "Souris, Manitoba",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C66",
+      "field": "crew.fate",
+      "person": "hayes-jp",
+      "value": "Killed",
+      "sources": [
+        "S5",
+        "S1"
+      ]
+    },
+    {
+      "id": "C67",
+      "field": "crew.nationality",
+      "person": "hayes-jp",
+      "value": "Canadian (RCAF)",
+      "sources": [
+        "S9",
+        "S1"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Wellington IC R1465 of 22 Operational Training Unit, based at Wellesbourne Mountford, flew into the summit of Waun Rydd in the Brecon Beacons on 6 July 1942. It was on a training flight. The aircraft carried practice bombs and reconnaissance flares and flew into low cloud. The pilot is believed to have come down from the advised 10,000 ft to check his position. All five crew died.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C14",
+        "C13"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The five were Canadians serving in the RCAF. They were Flight Sergeant John Beverley Kemp, the pilot, aged 21, from Oakville, Ontario; Ernest Edward Mittell, aged 22, of Clinton, Ontario; Kenneth Ferguson Yuill, aged 30, of Winnipeg; Harold Creighton Beatty, a wireless operator; and James Patrick Hayes, an air gunner, whose parents lived in Souris, Manitoba. All five are buried at Hereford Cemetery.",
+      "cites": [
+        "C20",
+        "C21",
+        "C22",
+        "C23",
+        "C29",
+        "C30",
+        "C31",
+        "C37",
+        "C40",
+        "C41",
+        "C48",
+        "C50",
+        "C55",
+        "C60",
+        "C62",
+        "C65",
+        "C27",
+        "C35",
+        "C45",
+        "C53",
+        "C63",
+        "C25",
+        "C33",
+        "C43",
+        "C56",
+        "C67"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The wreckage was spread over a large area and has since been gathered into two piles. The site is a Controlled Site under the Protection of Military Remains Act 1986.",
+      "cites": [
+        "C12"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "A memorial cairn marks the site. The Coflein record says it was built by pupils and staff of Tredeger Comprehensive School. Walkers leave poppies, crosses and wreaths there.",
+      "cites": [
+        "C10",
+        "C11"
+      ]
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "No IWM War Memorials Register entry found for this cairn (two web searches; results were unrelated). Crew role conflicts: Mittell is Observer (Coflein) vs Navigator (IBCC); Yuill is bomb aimer (Coflein) vs air observer (search excerpts of CVWM); rank for Kemp is Flight Sergeant (CWGC, ASN) vs Sergeant (Coflein). Coflein spells Mittell 'Mitell' and Yuill 'Yull'. TracesOfWar says six Canadians died; every other source says five. Several pages (CVWM, IBCC, ASN, canadianfallen) were read only as search-result excerpts because direct fetches returned 429/403/404 or failed DNS; re-check by hand. The older Ystradgynlais History page (http://www.ystradgynlais-history.co.uk/wellington-r1465.html) failed a TLS certificate check and was not read. IBCC Kemp page and CWGC pages for Mittell, Hayes and Beatty not located, so those links are omitted. 'Tredeger Comprehensive School' is Coflein's spelling; likely Tredegar, unconfirmed, and the school's role is single-source. Dedication date, inscription and current maintainer not found; the existing record's 'Brecon Royal British Legion' contact and 'Remembrance Weekend' event are unsupported by any source read. IWA and Wandering Welsh Girl share wording so are not independent. The IWA article says the official report is not given for R1465; an earlier search summary claiming 'crew error' relates to another crash.",
+  "retractions": [
+    {
+      "field": "local_contacts",
+      "reason": "No source links Brecon Royal British Legion to this memorial"
+    }
+  ]
+}

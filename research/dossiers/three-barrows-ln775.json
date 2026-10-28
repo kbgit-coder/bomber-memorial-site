@@ -1,0 +1,272 @@
+{
+  "memorial_id": "three-barrows-ln775",
+  "researched_at": "2026-10-28",
+  "searches": [
+    {
+      "query": "Wellington LN775 Three Barrows Dartmoor 1944 crew",
+      "useful": true
+    },
+    {
+      "query": "IWM war memorials register Three Barrows Wellington LN775",
+      "useful": false
+    },
+    {
+      "query": "memorials.iwm.org.uk Wellington Three Barrows Dartmoor Ugborough aircraft crash memorial 1944",
+      "useful": false
+    },
+    {
+      "query": "LN775 Wellington 1 March 1944 Hurn Overseas Aircraft Dispatch Unit crew killed IBCC",
+      "useful": false
+    },
+    {
+      "query": "Cooke Frederick Pilot Officer Wellington LN775 1 March 1944 IBCC losses",
+      "useful": false
+    },
+    {
+      "query": "cwgc Flight Sergeant William Jack RAFVR died 01 March 1944",
+      "useful": false
+    },
+    {
+      "query": "cwgc Sergeant John Yeates RAFVR died 01 March 1944",
+      "useful": false
+    },
+    {
+      "query": "cwgc Flight Sergeant Alfred Beeston RAFVR died 01 March 1944",
+      "useful": false
+    },
+    {
+      "query": "cwgc Pilot Officer Frederick Cooke RAFVR died 01 March 1944",
+      "useful": false
+    },
+    {
+      "query": "legendarydartmoor.co.uk Three Barrows (page fetch returned HTTP 500 twice)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://dartmoorexplorations.co.uk/three-barrows-crash-site-of-vickers-wellington-b-mk-x-ln775/",
+      "title": "Three Barrows, crash site of Vickers Wellington B Mk X LN775",
+      "publisher": "Dartmoor Explorations",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Blog post on the crash site. Says the Wellington flew into the hillside north east of the central barrow in cloud on 1 March 1944, killing all four crew, and was found by hikers three days later. Lists four names under a temporary memorial at the site.",
+      "key_details": [
+        "Wellington B Mk X LN775, 1 March 1944",
+        "3 OADU, RAF Hurn, transfer flight to Mediterranean Air Command at Rabat",
+        "drifted 25 miles off route",
+        "temporary memorial lists P/O Frederick Cooke, F/Sgt William Jack, F/Sgt Alfred Beeston, Sgt John Yeates",
+        "site is a scar with a few small pieces of aircraft"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "serial_number",
+      "value": "LN775",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "crash_date",
+      "value": "1944-03-01",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Vickers Wellington B Mk X",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "3 Overseas Aircraft Dispatch Unit (3 OADU)",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "RAF Hurn, Dorset",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Transfer flight to Mediterranean Air Command, Rabat, Morocco",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Flew into the hillside in cloud after drifting about 25 miles off the briefed route",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "location_name",
+      "value": "Three Barrows Hill, Dartmoor, Devon",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "died_count",
+      "value": "4",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "crew.name",
+      "person": "cooke-f",
+      "value": "Frederick Cooke",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "crew.rank",
+      "person": "cooke-f",
+      "value": "Pilot Officer",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "crew.name",
+      "person": "jack-w",
+      "value": "William Jack",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "crew.rank",
+      "person": "jack-w",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "crew.name",
+      "person": "beeston-a",
+      "value": "Alfred Beeston",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "crew.rank",
+      "person": "beeston-a",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "crew.name",
+      "person": "yeates-j",
+      "value": "John Yeates",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "crew.rank",
+      "person": "yeates-j",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "memorial_type",
+      "value": "Temporary memorial at the crash site listing the four crew",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C19",
+      "field": "names_on_memorial",
+      "value": "P/O Frederick Cooke; F/Sgt William Jack; F/Sgt Alfred Beeston; Sgt John Yeates",
+      "sources": [
+        "S1"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Vickers Wellington B Mk X LN775 was lost on 1 March 1944. It belonged to 3 Overseas Aircraft Dispatch Unit at RAF Hurn, Dorset, and was on a transfer flight to Mediterranean Air Command at Rabat, Morocco. It drifted about 25 miles off the briefed route and flew into the hillside at Three Barrows Hill on Dartmoor in cloud. All four crew were killed. Dartmoor Explorations names them as Pilot Officer Frederick Cooke, Flight Sergeants William Jack and Alfred Beeston, and Sergeant John Yeates. Their roles, ages, service numbers and burial places are not yet confirmed from CWGC or IBCC.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C14",
+        "C15",
+        "C16",
+        "C17"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "A temporary memorial at the site lists the four crew. No source found says who looks after it.",
+      "cites": [
+        "C18",
+        "C19"
+      ]
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "Single researched source for everything. No IWM War Memorials Register entry found by search. Legendary Dartmoor page (cited in our record) returned HTTP 500 twice, so unread. Crew names could not be matched to CWGC or IBCC: searches returned only different men (e.g. Sgt John Yates, 38 Sqn, died 1944-03-01, Alamein Memorial, is a different unit and almost certainly not our Yeates). OADU ferry units may not appear in IBCC. Our record says squadron 'Bomber Command' and 'Dartmoor National Park Authority' as maintainer; neither is supported by S1. S1 says the memorial is temporary, so a maintainer is unlikely to be the National Park Authority without a source. Another search summary suggested the page mixed in a 1941 Hameldown crew list; a direct re-read showed the names sit under the LN775 memorial caption, with Hameldown mentioned only as a comparison site. Warmemorialsonline/tracesofwar/baaa-acro pages for this crash were blocked (403) or unrelated.",
+  "retractions": [
+    {
+      "field": "maintainer.organisation",
+      "reason": "No source names Dartmoor National Park Authority as custodian; Dartmoor Explorations describes a temporary memorial with no named keeper (research 28 Oct 2026)"
+    },
+    {
+      "field": "local_contacts",
+      "reason": "No source links Exeter Royal British Legion to this memorial (research 28 Oct 2026)"
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "memorial_id": "handley-page-halifax-s-bb373-and-jb874",
+  "researched_at": "2026-10-28",
+  "searches": [
+    {
+      "query": "Halifax BB373 JB874 78 Squadron collision Hull Bridge Tickton 24 August 1943",
+      "useful": true
+    },
+    {
+      "query": "yorkshire-aircraft.co.uk misc43 24aug43halifax (guessed URL, 404)",
+      "useful": false
+    },
+    {
+      "query": "Greet 78 Squadron Halifax JB874 rear gunner survivor Tickton 1943",
+      "useful": true
+    },
+    {
+      "query": "War Memorials Online 229912 Hull Bridge Tickton 78 Squadron memorial",
+      "useful": true
+    },
+    {
+      "query": "IBCC Losses Database pages for Gilbert, Walton, Baylis, Jones, Hilton, Lester (HTTP 429, not read)",
+      "useful": false
+    },
+    {
+      "query": "Tickton and Routh Parish Council 78 Squadron memorial custodian",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/bb373.html",
+      "title": "Halifax BB373 and JB874 collision, Hull Bridge (BB373 page)",
+      "publisher": "yorkshire-aircraft.co.uk",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Regional crash researcher's account of the collision, with a full table of the eight BB373 crew: rank, service number, age, home town and burial. The page title misprints the serial as BB393.",
+      "key_details": [
+        "BB373 crew all killed",
+        "collision 04:30 over Hull Bridge",
+        "78 Squadron lost five aircraft and 31 airmen that night"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb874.html",
+      "title": "Halifax JB874, Hull Bridge, Tickton",
+      "publisher": "yorkshire-aircraft.co.uk (JB874 page)",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Same researcher's page for JB874, with the seven-man crew table. Six died; Sgt J. Greet was seriously injured and spent about five years recovering. Does not name the BB373 crew.",
+      "key_details": [
+        "Greet only survivor, no first name",
+        "two of the dead may have died of injuries"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
+      "title": "Pilot Officer Edward Platt 137558, Navigator, 78 Squadron",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-10-28",
+      "summary": "CWGC story about Platt. Cites the accident record card: the aircraft were diverted from Breighton, Leconfield could not take them, and they collided on the way to Hutton Cranswick. Lists the BB373 crew.",
+      "key_details": [
+        "Platt on IBCC Panel 226",
+        "family memorial at Bury Cemetery, Redvales"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/229912",
+      "title": "RAF 78 Squadron",
+      "publisher": "War Memorials Online",
+      "tier": "community",
+      "retrieved": "2026-10-28",
+      "summary": "Entry for the plaque at Hull Bridge. Lists the 14 dead and Sgt J. Greet as survivor. No county, builder, dedication date or custodian given; custodian field open for claiming.",
+      "key_details": [
+        "WMO 229912",
+        "custodian: Information Required"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://memorials.iwm.org.uk/memorial/98870",
+      "title": "Handley Page Halifax's BB373 and JB874 (IWM WMR 98870)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Our capture of the IWM entry. Gives the address on the east abutment of the footbridge over the Hull River, Weel Street, Tickton, East Riding of Yorkshire, and 15 names on the memorial.",
+      "key_details": [
+        "TA 05532 41710",
+        "15 names listed",
+        "photos credited Tony Hibberd - IBCC"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "county",
+      "value": "East Riding of Yorkshire",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "crash_date",
+      "value": "1943-08-24",
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "serial_number",
+      "value": "BB373",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "aircraft_type",
+      "value": "Halifax",
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "squadron",
+      "value": "78 Squadron",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "station",
+      "value": "Breighton",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "operation_type",
+      "value": "Bombing",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "operation_target",
+      "value": "Berlin",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "cause_of_loss",
+      "value": "Collision in fog over Hull Bridge, Tickton, at about 04:30 after being diverted to Hutton Cranswick",
+      "sources": [
+        "S1",
+        "S3",
+        "S5"
+      ],
+      "quote": "COLLISION IN FOG BETWEEN TWO HALIFAX BOMBERS"
+    },
+    {
+      "id": "C10",
+      "field": "location_name",
+      "value": "Hull Bridge, Tickton, near Beverley, East Riding of Yorkshire",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "memorial_type",
+      "value": "Board / Plaque / Tablet",
+      "sources": [
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "memorial_name",
+      "value": "Handley Page Halifax's BB373 and JB874",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "memorial_address",
+      "value": "East abutment of the footbridge over the Hull River, Weel Street, Tickton, HU17 9SB",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "inscription",
+      "value": "Dedicated to the aircrew of 78 Squadron who lost their lives following a collision in fog between two Halifax bombers BB373 EY-K and JB874 EY-E over Hull Bridge, Tickton at 04:30 hours on 24th August 1943; names; ONE REMAINING SURVIVOR",
+      "sources": [
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "names_on_memorial",
+      "value": 15,
+      "sources": [
+        "S5",
+        "S4"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "died_count",
+      "value": 14,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "maintainer.organisation",
+      "value": "Tickton and Routh Parish Council",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "George Goodall Bell",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C20",
+      "field": "crew.role",
+      "value": "Pilot (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "value": "NZ42361",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C23",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C24",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C25",
+      "field": "crew.nationality",
+      "value": "New Zealander",
+      "sources": [
+        "S1"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C26",
+      "field": "crew.name",
+      "value": "Ronald Reid Gilbert",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C27",
+      "field": "crew.role",
+      "value": "Second Pilot (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C28",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C29",
+      "field": "crew.service_number",
+      "value": "156089",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C30",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C31",
+      "field": "crew.burial_location",
+      "value": "Warriston, Edinburgh",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C32",
+      "field": "crew.name",
+      "value": "Albert Eric Lester",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C33",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C34",
+      "field": "crew.role",
+      "value": "Flight Engineer (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C35",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C36",
+      "field": "crew.service_number",
+      "value": "1214074",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C37",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C38",
+      "field": "crew.burial_location",
+      "value": "Nottingham Road Cemetery, Derby",
+      "sources": [
+        "S1"
+      ],
+      "person": "lester-ae"
+    },
+    {
+      "id": "C39",
+      "field": "crew.name",
+      "value": "Edward Platt",
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C40",
+      "field": "crew.rank",
+      "value": "P/O",
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C41",
+      "field": "crew.role",
+      "value": "Navigator (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C42",
+      "field": "crew.age",
+      "value": 29,
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C43",
+      "field": "crew.service_number",
+      "value": "137558",
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C44",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C45",
+      "field": "crew.burial_location",
+      "value": "Bury, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "platt-e"
+    },
+    {
+      "id": "C46",
+      "field": "crew.name",
+      "value": "William Leslie Clarke",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C47",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C48",
+      "field": "crew.role",
+      "value": "Bomb Aimer (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C49",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C50",
+      "field": "crew.service_number",
+      "value": "1439792",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C51",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C52",
+      "field": "crew.burial_location",
+      "value": "Newton le Willows, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "clarke-wl"
+    },
+    {
+      "id": "C53",
+      "field": "crew.name",
+      "value": "Arthur Lee",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C54",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C55",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C56",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C57",
+      "field": "crew.service_number",
+      "value": "1134570",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C58",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C59",
+      "field": "crew.burial_location",
+      "value": "Salford, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "lee-a"
+    },
+    {
+      "id": "C60",
+      "field": "crew.name",
+      "value": "David Claude Melville Walton",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C61",
+      "field": "crew.role",
+      "value": "Air Gunner (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C62",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C63",
+      "field": "crew.service_number",
+      "value": "412043",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C64",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C65",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C66",
+      "field": "crew.nationality",
+      "value": "Australian",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C67",
+      "field": "crew.name",
+      "value": "Robert Bernard Fletcher",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C68",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C69",
+      "field": "crew.role",
+      "value": "Air Gunner (BB373)",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C70",
+      "field": "crew.age",
+      "value": 19,
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C71",
+      "field": "crew.service_number",
+      "value": "1811231",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C72",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C73",
+      "field": "crew.burial_location",
+      "value": "Morden, Surrey",
+      "sources": [
+        "S1"
+      ],
+      "person": "fletcher-rb"
+    },
+    {
+      "id": "C74",
+      "field": "crew.name",
+      "value": "Charles James Keirl",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C75",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C76",
+      "field": "crew.role",
+      "value": "Pilot (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C77",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C78",
+      "field": "crew.service_number",
+      "value": "133026",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C79",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C80",
+      "field": "crew.burial_location",
+      "value": "Queensgate Cemetery, Beverley",
+      "sources": [
+        "S2"
+      ],
+      "person": "keirl-cj"
+    },
+    {
+      "id": "C81",
+      "field": "crew.name",
+      "value": "Ernest Bertram Frank Scorey",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C82",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C83",
+      "field": "crew.role",
+      "value": "Flight Engineer (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C84",
+      "field": "crew.age",
+      "value": 19,
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C85",
+      "field": "crew.service_number",
+      "value": "1628705",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C86",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C87",
+      "field": "crew.burial_location",
+      "value": "South Stoneham Cemetery, Hampshire",
+      "sources": [
+        "S2"
+      ],
+      "person": "scorey-ebf"
+    },
+    {
+      "id": "C88",
+      "field": "crew.name",
+      "value": "Harry William Baylis",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C89",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C90",
+      "field": "crew.role",
+      "value": "Navigator (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C91",
+      "field": "crew.age",
+      "value": 25,
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C92",
+      "field": "crew.service_number",
+      "value": "136528",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C93",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C94",
+      "field": "crew.burial_location",
+      "value": "Queensgate Cemetery, Beverley",
+      "sources": [
+        "S2"
+      ],
+      "person": "baylis-hw"
+    },
+    {
+      "id": "C95",
+      "field": "crew.name",
+      "value": "Henry Raymond Jones",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C96",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C97",
+      "field": "crew.role",
+      "value": "Bomb Aimer (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C98",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C99",
+      "field": "crew.service_number",
+      "value": "1419935",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C100",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C101",
+      "field": "crew.burial_location",
+      "value": "Pen-y-groes Chapelyard, Carmarthenshire",
+      "sources": [
+        "S2"
+      ],
+      "person": "jones-hr"
+    },
+    {
+      "id": "C102",
+      "field": "crew.name",
+      "value": "Charles Henry Hilton",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C103",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C104",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C105",
+      "field": "crew.age",
+      "value": 29,
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C106",
+      "field": "crew.service_number",
+      "value": "1208584",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C107",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C108",
+      "field": "crew.burial_location",
+      "value": "Yelden Churchyard, Bedfordshire",
+      "sources": [
+        "S2"
+      ],
+      "person": "hilton-ch"
+    },
+    {
+      "id": "C109",
+      "field": "crew.name",
+      "value": "Frederick Roberts",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C110",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C111",
+      "field": "crew.role",
+      "value": "Air Gunner (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C112",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C113",
+      "field": "crew.service_number",
+      "value": "649066",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C114",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C115",
+      "field": "crew.burial_location",
+      "value": "Anfield Cemetery, Liverpool",
+      "sources": [
+        "S2"
+      ],
+      "person": "roberts-f"
+    },
+    {
+      "id": "C116",
+      "field": "crew.name",
+      "value": "J. Greet",
+      "sources": [
+        "S2",
+        "S4",
+        "S5"
+      ],
+      "person": "greet-j"
+    },
+    {
+      "id": "C117",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "greet-j"
+    },
+    {
+      "id": "C118",
+      "field": "crew.role",
+      "value": "Air Gunner (JB874)",
+      "sources": [
+        "S2"
+      ],
+      "person": "greet-j"
+    },
+    {
+      "id": "C119",
+      "field": "crew.fate",
+      "value": "Survived: seriously injured, hospitalised, about five years recovering",
+      "sources": [
+        "S2"
+      ],
+      "person": "greet-j"
+    },
+    {
+      "id": "C120",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C121",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S3"
+      ],
+      "person": "walton-dcm"
+    },
+    {
+      "id": "C122",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C123",
+      "field": "crew.rank",
+      "value": "P/O",
+      "sources": [
+        "S3"
+      ],
+      "person": "gilbert-rr"
+    },
+    {
+      "id": "C124",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S3"
+      ],
+      "person": "bell-gg"
+    },
+    {
+      "id": "C125",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S4"
+      ],
+      "person": "gilbert-rr"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Two Halifax bombers of 78 Squadron, BB373 and JB874, took part in the Berlin raid on the night of 23/24 August 1943. Both had bombed and were coming back to Yorkshire when they were told to land away from base. The researcher's page says they were sent first to Leconfield and then on to Hutton Cranswick; the accident record card, quoted by CWGC, says they were diverted from Breighton because of poor weather. At about 04:30 they collided over Hull Bridge at Tickton, about two miles north-east of Beverley. The memorial inscription gives fog as the cause.",
+      "cites": [
+        "C2",
+        "C5",
+        "C4",
+        "C8",
+        "C6",
+        "C10",
+        "C9"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "All eight men aboard BB373 died. They were pilot George Bell, second pilot Ronald Gilbert, engineer Albert Lester, navigator Edward Platt, bomb aimer William Clarke, wireless operator and gunner Arthur Lee, and air gunners David Walton and Robert Fletcher. Bell was a New Zealander and Walton an Australian; both are buried at Harrogate. Six of the seven aboard JB874 died: pilot Charles Keirl, engineer Ernest Scorey, navigator Harry Baylis, bomb aimer Henry Raymond Jones, wireless operator Charles Hilton and gunner Frederick Roberts. The seventh man, Sgt J. Greet, was seriously injured and spent about five years recovering. The researcher notes that 78 Squadron lost five aircraft and 31 airmen that night.",
+      "cites": [
+        "C16",
+        "C18",
+        "C26",
+        "C32",
+        "C39",
+        "C46",
+        "C53",
+        "C60",
+        "C67",
+        "C74",
+        "C81",
+        "C88",
+        "C95",
+        "C102",
+        "C109",
+        "C116",
+        "C20",
+        "C27",
+        "C34",
+        "C41",
+        "C48",
+        "C55",
+        "C61",
+        "C69",
+        "C76",
+        "C83",
+        "C90",
+        "C97",
+        "C104",
+        "C111",
+        "C118",
+        "C25",
+        "C66",
+        "C24",
+        "C65",
+        "C119"
+      ]
+    },
+    {
+      "section": "memorial_description",
+      "text": "A black granite tablet with the 78 Squadron crest is fixed to the east abutment of the footbridge over the Hull River in Tickton. The gold lettering records the collision, lists the dead and ends with the words 'one remaining survivor'. IWM lists 15 names; the inscription as transcribed on our record gives only ten of the dead.",
+      "cites": [
+        "C13",
+        "C11",
+        "C14",
+        "C15"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://wmr.iwm.org.uk/sites/default/files/images/ey_tickton_4.jpg",
+      "credit": "Tony Hibberd - IBCC, via IWM War Memorials Register",
+      "caption": "The 78 Squadron memorial tablet at Hull Bridge, Tickton",
+      "source_id": "S5"
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "COUNTY: our record says Antrim, which is wrong; the memorial is in Tickton, East Riding of Yorkshire (IWM address, HU17 9SB). AIRCRAFT: the crew schema has no aircraft field, so each role is suffixed (BB373)/(JB874). BB373: Bell, Gilbert, Lester, Platt, Clarke, Lee, Walton, Fletcher. JB874: Keirl, Scorey, Baylis, Jones, Hilton, Roberts, Greet. SURVIVOR: only Sgt J. Greet survived (JB874). yorkshire-aircraft.co.uk and WMO call him an air gunner; no source read says rear gunner (a search summary mentioned 'Rear Gunner' only for Fletcher on BB373). No first name found. RANK CONFLICTS: Bell Sgt (S1) v Flt Sgt (S3, our record); Gilbert F/Sgt (S1, S4 says Flt Sgt) v P/O (S3); Walton Sgt (S1, S4) v Flt Sgt (S3, our record). CWGC would settle these; not checked. ERRORS IN OUR RECORD: Gilbert, Baylis, Jones, Scorey, Greet missing from crew; Lee's first name is Arthur (S1); inscription transcription has only 10 of 15 names and reads 'JBB874' (IWM text reads JB874 in the capture). Our record has Keirl and Hilton on one aircraft implicitly; they were JB874. DIVERSION DISCREPANCY: S1/S2 say Leconfield then Hutton Cranswick; S3 says diverted from Breighton, Leconfield could not take them. S2 notes two of JB874's dead may have died of injuries; Keirl's commission dates on S2 look inconsistent. S1 title misprints BB373 as BB393. S2 and S1 are one publisher. IBCC pages (losses.internationalbcc.co.uk/loss/ ids 201638, 210332, 213050, 214978, 216616, 229280 found by search) returned 429 and were NOT read, so no IBCC or CWGC casualty links were added; retry later. IBCC panel for Platt: Phase 2 Panel 226 (S3). CUSTODIAN: our record says Tickton and Routh Parish Council but I found no source for that; WMO shows no custodian. Left unknown. Not found: builder, dedication date, who unveiled it. The IWM capture photos 1 and 2 (ey_tickton_2.jpg, 98870a_0.jpg) have no credit I can confirm, so only the one credited photo is used. Greet's WMO co-listing: S4 and S5 do not independently corroborate S1/S2 on crew details (WMO may derive from the inscription).",
+  "retractions": [
+    {
+      "field": "community_connection",
+      "reason": "Fragment from the IWM listing (\"local people affected, HULL BRIDGE, TICKTON\"), not a community account; no source names a custodian or community group"
+    }
+  ]
+}
