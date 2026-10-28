@@ -434,6 +434,12 @@
           "cwgc_url": {
             "type": "string"
           },
+          "iwm_name_url": {
+            "type": "string"
+          },
+          "ibcc_url": {
+            "type": "string"
+          },
           "fate_detail": {
             "type": "string"
           },

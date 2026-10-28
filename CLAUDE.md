@@ -105,7 +105,7 @@ If a rule blocks the task and there is no permitted alternative, stop and surfac
 
 - **No server runtime** — this is a fully static site. All data loading uses `fs.readFileSync` at build time in `src/lib/data.ts`. Do not introduce API routes or server actions.
 - **Memorial slugs** are the JSON filename without `.json` extension (e.g. `annesley-eh988`). The slug is also the `id` field inside the JSON.
-- **Data quality field** — each memorial has `data_quality: "Partial" | "Good" | "Verified"`. The quality score (0–100) lives in a separate computed field. See `scripts/quality-scoring-algorithm.md` for the scoring logic.
+- **Data quality field** — each memorial has `data_quality: "Comprehensive" | "Partial" | "Stub"` (enforced by `scripts/validate-consistency.js`). The quality score (0–100) lives in a separate computed field. See `scripts/quality-scoring-algorithm.md` for the scoring logic.
 - **Schema** — memorial JSON schema at `scripts/memorial-schema.json`. Validated by `scripts/validate-memorials.js`. Add new fields to the schema before using them in the app.
 - **Prebuild scripts are idempotent** — all scripts must produce the same output when run multiple times. The deploy script verifies this for section-relevancy and crew-cleanup.
 - **TypeScript** — strict mode. Types in `src/lib/types.ts`. Do not use `any` except where Playwright or third-party libraries force it.
