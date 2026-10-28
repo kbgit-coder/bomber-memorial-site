@@ -7,7 +7,7 @@
   "aircraft_type": "Vickers Wellington X",
   "serial_number": "HF465",
   "squadron": "12 Operational Training Unit",
-  "crash_date": "1944-10-20",
+  "crash_date": "1944-10",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Black tablet on a small grey brick plinth in semicircular, kerbed flower bed.\n\nIBCC gives the date as 28 October 1944; the memorial inscription, as transcribed by IWM, reads 20 October 1944.\n\nThe black tablet in a lay-by on the A51 was built by volunteers from donated materials and dedicated in October 2003.",
   "inscription": "R.A.F. / WELLINGTON X, HF 465 OF 12 O.T.U. / DISINTEGRATED OVER BRIDGEMERE 20. 10. 1944 / IN MEMORY OF THE R.A.F.V.R. CREW",
@@ -58,6 +58,14 @@
       "role": "Navigator",
       "age": 22,
       "hometown": "Sutton Coldfield"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "James David Milnes",
+      "role": "Wireless operator / air gunner",
+      "age": 32,
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/116265"
     },
     {
       "rank": "Sergeant",

@@ -139,20 +139,6 @@
     "12 OTU"
   ],
   "narrative": "Wellington R1037 of 12 Operational Training Unit took off from Chipping Warden on a night training flight on 20 October 1941. It crashed in Chipping Warden village at about 23:10 while attempting to go round again, and caught fire. Pilot Officer Kenneth Farnes was killed. Pilot Officer Cecil Harry Hayes was seriously injured and died of his injuries on 21 October. Farnes was 30 and is buried at Brookwood Military Cemetery; Hayes is buried in Malden churchyard.",
-  "remembrance": {
-    "events": [
-      {
-        "name": "Addition/Amendment for P/O Barnett",
-        "date": "Not specified",
-        "description": "P/O Barnett was the younger brother of Wing Commander Denis Barnett (later Air Chief Marshal), who commanded 40 Squadron between 4 June and 23 December 1940."
-      },
-      {
-        "name": "Amendment for OTU/013 crew matrix and summary",
-        "date": "Not specified",
-        "description": "Crew matrix amended to include Sgt A E Hall, Sgt A C Catton, Sgt F Graham, LAC G H James. Summary amended to include details of a Blenheim incident at Carnedd Llewellyn, Snowdonia on an unspecified date."
-      }
-    ]
-  },
   "crew": [
     {
       "rank": "Pilot Officer",
@@ -470,12 +456,11 @@
       "rank": "Leading Aircraftman"
     }
   ],
-  "crew_data_note": "Crew trimmed from 78 to 6. 72 additional names from station/OTU roll of honour moved to station_roll_names.",
   "community_connection": "A plaque to Kenneth Farnes is fixed to the side of a private house in Hogg Lane, Chipping Warden.",
   "serial_number": "R1037",
   "operation_type": "Night flying training",
   "cause_of_loss": "Crashed in Chipping Warden village at about 23:10 while attempting to go round again, and caught fire",
-  "died_count": "2",
+  "died_count": 2,
   "memorial_name": "Plaque to Pilot Officer Kenneth Farnes",
   "last_validated": "2026-10-28",
   "memorial_details": "War Memorials Online records no inscription, builder, dedication date or custodian for it."

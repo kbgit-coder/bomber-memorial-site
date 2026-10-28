@@ -417,6 +417,14 @@
     {
       "field": "crew_summary",
       "reason": "\"3 survived\" has no source; CWGC and IBCC record two airmen, both killed"
+    },
+    {
+      "field": "remembrance",
+      "reason": "Events concern P/O Barnett and a Blenheim incident, unconnected with R1037 or any source for this memorial"
+    },
+    {
+      "field": "crew_data_note",
+      "reason": "Describes trimming a 78-name station roll; this record now holds the two airmen named by CWGC and IBCC"
     }
   ]
 }

@@ -9,7 +9,7 @@ Generated 2026-10-28 by scripts/research/dossier.ts report. Conflicts are never 
   - "1944-10-20" — iwm war memorials register (institutional) https://www.iwm.org.uk/memorials/item/memorial/53412
 - **location_name** — single, not applied
   - "Prince Hill, Bridgemere" — audlemonline (community) https://www.audlem.org/news/70th-anniversary-of-tragic-crash.html
-- **crew.name (milne-jd)** — conflict, not applied
+- **crew.name (milne-jd)** — conflict, resolved to "James David Milnes" by source tier
   - "James David Milne" — ibcc losses database, bridgemere local history pages (blhs.co.uk) (institutional) https://losses.internationalbcc.co.uk/loss/123453 https://blhs.co.uk/bridgemere-war-memorial
   - "James David Milnes" — iwm war memorials register (institutional) https://www.iwm.org.uk/memorials/item/memorial/53412
 

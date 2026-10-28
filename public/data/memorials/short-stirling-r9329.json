@@ -12,7 +12,6 @@
   "station": "RAF Lakenheath",
   "operation_type": "Minelaying (gardening)",
   "operation_detail": "Gardening (minelaying) — Gironde estuary; return flight",
-  "cause_of_loss": "Fired on by shore defences crossing the coast near Plymouth on return; crashed 8 miles inland at 03:25",
   "crash_date": "1942-08-21",
   "memorial_type": "Stone of remembrance (granite pillar)",
   "memorial_details": "Rectangular granite freestanding stone of remembrance. Lettering is carved in black.\n\nA granite pillar was set up at the crash site in 2011.",
@@ -73,13 +72,13 @@
     {
       "rank": "Sergeant",
       "fate": "",
-      "name": "P E J Jenkins (Peter Edward James Jenkins)",
+      "name": "Peter Edward James Jenkins",
       "age": 22
     },
     {
       "rank": "Sergeant",
       "fate": "",
-      "name": "D R Simpson (Dennis Roy Simpson)",
+      "name": "Dennis Roy Simpson",
       "age": 26
     },
     {
@@ -97,7 +96,7 @@
     {
       "rank": "Sergeant",
       "fate": "",
-      "name": "C J Bond (Cecil Jacques Bond)",
+      "name": "Cecil Jacques Bond",
       "age": 19
     }
   ],
@@ -114,8 +113,8 @@
       "source": "https://wmr.iwm.org.uk/sites/default/files/images/69860.jpg"
     }
   ],
-  "names_on_memorial": "7",
-  "died_count": "7",
+  "names_on_memorial": 7,
+  "died_count": 7,
   "external_narratives": [
     {
       "source_site": "Dartmoor Explorations",

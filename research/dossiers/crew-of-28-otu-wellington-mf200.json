@@ -670,5 +670,11 @@
   ],
   "photos": [],
   "custodian_status": "unknown",
-  "notes": "IWM id 108496 in our record is dead. Search found no IWM entry for this plaque (hits were other memorials; 37427 is Rothersthorpe LN482). Not settled. ASN wikibase 153274 not readable (403 / certificate error), so not used. CWGC not checked, so no cwgc_url claims. Take-off time conflict 02:30 (Notts roll) vs 02:50 (WMO). Doyle age 24 (IBCC, WMO) vs 25 (Wicklow Heritage, which cites The Wicklow War Dead). IBCC lists the sortie as Day but also night training. Custodian: only WMO checked, which shows none; parish council not searched on a dedicated page, so left unknown not unknown-confirmed. Find a Grave and Traces of War not fetched."
+  "notes": "IWM id 108496 in our record is dead. Search found no IWM entry for this plaque (hits were other memorials; 37427 is Rothersthorpe LN482). Not settled. ASN wikibase 153274 not readable (403 / certificate error), so not used. CWGC not checked, so no cwgc_url claims. Take-off time conflict 02:30 (Notts roll) vs 02:50 (WMO). Doyle age 24 (IBCC, WMO) vs 25 (Wicklow Heritage, which cites The Wicklow War Dead). IBCC lists the sortie as Day but also night training. Custodian: only WMO checked, which shows none; parish council not searched on a dedicated page, so left unknown not unknown-confirmed. Find a Grave and Traces of War not fetched.",
+  "retractions": [
+    {
+      "field": "iwm_photo_urls",
+      "reason": "Taken from IWM record 108496, which no longer exists; the photos cannot be tied to this memorial or credited"
+    }
+  ]
 }

@@ -270,6 +270,37 @@ describe("review fixes (codex 2026-10-28)", () => {
   });
 });
 
+describe("pilot content review fixes (codex 2026-10-28)", () => {
+  const iwm = (d: Dossier) => { d.sources.push({ id: "SI", url: "https://memorials.iwm.org.uk/memorial/1", title: "IWM", publisher: "Imperial War Museums", tier: "institutional", retrieved: "2026-10-28" }); return d; };
+
+  test("a spelling dispute between institutions keeps the man, spelt as on the stone", () => {
+    const d = iwm(base());
+    d.claims.push({ id: "N1", field: "crew.name", person: "milne", value: "James Milnes", sources: ["SI"] }, { id: "N2", field: "crew.name", person: "milne", value: "James Milne", sources: ["S1"] });
+    const r = apply(d, { id: "t", crew: [], sources: [] }).record;
+    expect(r.crew.map((c: any) => c.name)).toContain("James Milnes");
+  });
+
+  test("an unresolved date dispute keeps only the shared month", () => {
+    const d = iwm(base());
+    d.claims.push({ id: "D1", field: "crash_date", value: "1944-10-20", sources: ["SI"] }, { id: "D2", field: "crash_date", value: "1944-10-28", sources: ["S1"] });
+    expect(apply(d, { id: "t", crew: [], sources: [], crash_date: "1944-10-20" }).record.crash_date).toBe("1944-10");
+  });
+
+  test("an unresolved cause dispute clears the structured field", () => {
+    const d = base();
+    d.claims.push({ id: "K1", field: "cause_of_loss", value: "Flak", sources: ["S1"] }, { id: "K2", field: "cause_of_loss", value: "Hill in cloud", sources: ["S3"] });
+    expect(apply(d, { id: "t", crew: [], sources: [], cause_of_loss: "Flak" }).record.cause_of_loss).toBeUndefined();
+  });
+
+  test("counts must be whole numbers and are stored as numbers", () => {
+    const d = base();
+    d.claims.push({ id: "W1", field: "names_on_memorial", value: "Cooke; Jack", sources: ["S1"] });
+    expect(validate(d).join()).toContain("whole number");
+    d.claims[d.claims.length - 1].value = "4";
+    expect(apply(d, { id: "t", crew: [], sources: [] }).record.names_on_memorial).toBe(4);
+  });
+});
+
 describe("quality", () => {
   test("no photo means Partial, however good the rest", () => {
     const d = base();

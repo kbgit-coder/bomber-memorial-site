@@ -2,87 +2,588 @@
   "memorial_id": "short-stirling-r9329",
   "researched_at": "2026-10-28",
   "searches": [
-    {"query": "Stirling R9329 Gibhill Wood Cornwood 149 Squadron crash 21 August 1942", "useful": true},
-    {"query": "Sergeant Lawrence Nicholson 149 Squadron Stirling R9329 CWGC buried", "useful": true},
-    {"query": "Cornwood Gibhill Wood Stirling memorial Lutton granite pillar unveiled 2011 Nicholson crew", "useful": false},
-    {"query": "IBCC losses pages for Jenkins, Simpson, Bond (fetch)", "useful": false},
-    {"query": "IBCC loss page for Nicholson (fetch)", "useful": false},
-    {"query": "baaa-acro.com record for R9329 (fetch)", "useful": false}
+    {
+      "query": "Stirling R9329 Gibhill Wood Cornwood 149 Squadron crash 21 August 1942",
+      "useful": true
+    },
+    {
+      "query": "Sergeant Lawrence Nicholson 149 Squadron Stirling R9329 CWGC buried",
+      "useful": true
+    },
+    {
+      "query": "Cornwood Gibhill Wood Stirling memorial Lutton granite pillar unveiled 2011 Nicholson crew",
+      "useful": false
+    },
+    {
+      "query": "IBCC losses pages for Jenkins, Simpson, Bond (fetch)",
+      "useful": false
+    },
+    {
+      "query": "IBCC loss page for Nicholson (fetch)",
+      "useful": false
+    },
+    {
+      "query": "baaa-acro.com record for R9329 (fetch)",
+      "useful": false
+    }
   ],
   "sources": [
-    {"id": "S1", "url": "https://dartmoorexplorations.co.uk/gibhill-wood-crash-site-of-short-stirling-bomber-r9329/", "title": "Gibhill Wood crash site of Short Stirling bomber R9329", "publisher": "Dartmoor Explorations", "tier": "researched", "retrieved": "2026-10-28",
-     "summary": "Crash-site page with the flight timings, crew list with ages, the RAF accident report finding, the friendly-fire suggestion by a crewman's brother, the surviving navigator's log, the 2011 granite pillar and the carved crosses on a beech tree.",
-     "key_details": ["Departed Lakenheath 2045 on 20 Aug 1942", "Crashed 0325 on 21 Aug 1942", "Navigator's log last entry 03.15 completely lost", "Pillar planned from 2009 by four local men", "Unveiled by David Nicholson, nephew of Sgt Lawrence Nicholson"]},
-    {"id": "S2", "url": "https://losses.internationalbcc.co.uk/loss/223984", "title": "Robertson, Geoffrey Ernest", "publisher": "IBCC Losses Database", "tier": "institutional", "retrieved": "2026-10-28",
-     "summary": "IBCC record for the pilot, giving rank, age, service number, commemoration at Mortlake Crematorium, next of kin and the believed cause of loss. Also lists the other six crew and the memorials.",
-     "key_details": ["Pilot Officer, pilot, RAFVR, 129249, age 25", "Mortlake Crematorium Panel 9", "Believed hit by anti-aircraft fire over Plymouth on return", "Crashed 19 miles WSW of Torbay per IBCC", "Memorial window at St George's Church, Methwold"]},
-    {"id": "S3", "url": "https://losses.internationalbcc.co.uk/loss/220809", "title": "Nicholson, Lawrence Henry", "publisher": "IBCC Losses Database", "tier": "institutional", "retrieved": "2026-10-28",
-     "summary": "Seen only as a search-result summary (the page itself returned HTTP 429). Gives Sgt Lawrence Henry Nicholson, aged 21, posted to 149 Squadron on 28 June 1942, lost in R9329.",
-     "key_details": ["Sgt Lawrence Henry Nicholson, 21", "Posted to 149 Sqn 28 Jun 1942"]},
-    {"id": "S4", "url": "https://www.iwm.org.uk/memorials/item/memorial/69860", "title": "Short Stirling R9329 (WMR 69860)", "publisher": "IWM War Memorials Register", "tier": "institutional", "retrieved": "2026-10-28",
-     "summary": "Our capture of the IWM entry. Granite stone of remembrance with carved black lettering at Delamore Estate, Cornwood. Seven names, initials only. Photo by Fran Crayford.",
-     "key_details": ["Inscription: STIRLING BOMBER OF 149 SQDN RAF CRASHED HERE WITH THE LOSS OF 7 AIRCREW ON THE 21ST AUGUST 1942", "Location Delamore Estate, Cornwood, PL21 9SD", "Names: Bond, Clarke, Harris, Jenkins, Nicholson, Robertson, Simpson"]}
+    {
+      "id": "S1",
+      "url": "https://dartmoorexplorations.co.uk/gibhill-wood-crash-site-of-short-stirling-bomber-r9329/",
+      "title": "Gibhill Wood crash site of Short Stirling bomber R9329",
+      "publisher": "Dartmoor Explorations",
+      "tier": "researched",
+      "retrieved": "2026-10-28",
+      "summary": "Crash-site page with the flight timings, crew list with ages, the RAF accident report finding, the friendly-fire suggestion by a crewman's brother, the surviving navigator's log, the 2011 granite pillar and the carved crosses on a beech tree.",
+      "key_details": [
+        "Departed Lakenheath 2045 on 20 Aug 1942",
+        "Crashed 0325 on 21 Aug 1942",
+        "Navigator's log last entry 03.15 completely lost",
+        "Pillar planned from 2009 by four local men",
+        "Unveiled by David Nicholson, nephew of Sgt Lawrence Nicholson"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://losses.internationalbcc.co.uk/loss/223984",
+      "title": "Robertson, Geoffrey Ernest",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "IBCC record for the pilot, giving rank, age, service number, commemoration at Mortlake Crematorium, next of kin and the believed cause of loss. Also lists the other six crew and the memorials.",
+      "key_details": [
+        "Pilot Officer, pilot, RAFVR, 129249, age 25",
+        "Mortlake Crematorium Panel 9",
+        "Believed hit by anti-aircraft fire over Plymouth on return",
+        "Crashed 19 miles WSW of Torbay per IBCC",
+        "Memorial window at St George's Church, Methwold"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/220809",
+      "title": "Nicholson, Lawrence Henry",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Seen only as a search-result summary (the page itself returned HTTP 429). Gives Sgt Lawrence Henry Nicholson, aged 21, posted to 149 Squadron on 28 June 1942, lost in R9329.",
+      "key_details": [
+        "Sgt Lawrence Henry Nicholson, 21",
+        "Posted to 149 Sqn 28 Jun 1942"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/69860",
+      "title": "Short Stirling R9329 (WMR 69860)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-10-28",
+      "summary": "Our capture of the IWM entry. Granite stone of remembrance with carved black lettering at Delamore Estate, Cornwood. Seven names, initials only. Photo by Fran Crayford.",
+      "key_details": [
+        "Inscription: STIRLING BOMBER OF 149 SQDN RAF CRASHED HERE WITH THE LOSS OF 7 AIRCREW ON THE 21ST AUGUST 1942",
+        "Location Delamore Estate, Cornwood, PL21 9SD",
+        "Names: Bond, Clarke, Harris, Jenkins, Nicholson, Robertson, Simpson"
+      ]
+    }
   ],
   "claims": [
-    {"id": "C1", "field": "serial_number", "value": "R9329", "sources": ["S1", "S2", "S4"]},
-    {"id": "C2", "field": "aircraft_type", "value": "Short Stirling I", "sources": ["S1", "S2"]},
-    {"id": "C3", "field": "squadron", "value": "149 Squadron", "sources": ["S1", "S2", "S4"]},
-    {"id": "C4", "field": "station", "value": "RAF Lakenheath", "sources": ["S1", "S2"]},
-    {"id": "C5", "field": "crash_date", "value": "1942-08-21", "sources": ["S1", "S2", "S4"]},
-    {"id": "C6", "field": "operation_type", "value": "Minelaying (gardening)", "sources": ["S1", "S2"]},
-    {"id": "C7", "field": "operation_target", "value": "Gironde estuary, near Bordeaux", "sources": ["S1"]},
-    {"id": "C8", "field": "location_name", "value": "Gibhill Wood, Cornwood, Dartmoor", "sources": ["S1"]},
-    {"id": "C9", "field": "county", "value": "Devon", "sources": ["S4", "S2"]},
-    {"id": "C10", "field": "cause_of_loss", "value": "Probably damaged by ground defences over France; flew into rising ground and caught fire (RAF accident report, as reported by Dartmoor Explorations)", "sources": ["S1"]},
-    {"id": "C11", "field": "cause_of_loss", "value": "Believed hit by anti-aircraft fire over Plymouth on the return flight (IBCC)", "sources": ["S2"]},
-    {"id": "C12", "field": "memorial_type", "value": "Stone of remembrance (granite pillar)", "sources": ["S4", "S1"]},
-    {"id": "C13", "field": "dedication_date", "value": "2011", "sources": ["S1"]},
-    {"id": "C14", "field": "erected_by", "value": "Planned from 2009 by four local men: Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone", "sources": ["S1"]},
-    {"id": "C15", "field": "inscription", "value": "STIRLING BOMBER OF/ 149 SQDN RAF/ CRASHED HERE WITH/ THE LOSS OF/ 7 AIRCREW ON THE/ 21ST AUGUST 1942/ CREW:/ (Names)/ WE WILL REMEMBER THEM", "sources": ["S4", "S1"]},
-    {"id": "C16", "field": "names_on_memorial", "value": "7", "sources": ["S4"]},
-    {"id": "C17", "field": "died_count", "value": "7", "sources": ["S1", "S2", "S4"]},
-    {"id": "C18", "field": "memorial_address", "value": "Delamore Estate, Cornwood, South Hams, Devon, PL21 9SD", "sources": ["S4"]},
-
-    {"id": "C20", "field": "crew.name", "person": "robertson-ge", "value": "Geoffrey Ernest Robertson", "sources": ["S2"]},
-    {"id": "C21", "field": "crew.rank", "person": "robertson-ge", "value": "Pilot Officer", "sources": ["S2"]},
-    {"id": "C21b", "field": "crew.rank", "person": "robertson-ge", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C22", "field": "crew.role", "person": "robertson-ge", "value": "Pilot", "sources": ["S2"]},
-    {"id": "C23", "field": "crew.age", "person": "robertson-ge", "value": "25", "sources": ["S2", "S1"]},
-    {"id": "C24", "field": "crew.service_number", "person": "robertson-ge", "value": "129249", "sources": ["S2"]},
-    {"id": "C25", "field": "crew.burial_location", "person": "robertson-ge", "value": "Mortlake Crematorium, Surrey (Panel 9)", "sources": ["S2"]},
-    {"id": "C26", "field": "crew.hometown", "person": "robertson-ge", "value": "Twickenham, Middlesex", "sources": ["S2"]},
-    {"id": "C27", "field": "crew.ibcc_url", "person": "robertson-ge", "value": "https://losses.internationalbcc.co.uk/loss/223984", "sources": ["S2"]},
-
-    {"id": "C30", "field": "crew.name", "person": "nicholson-lh", "value": "Lawrence Henry Nicholson", "sources": ["S3", "S1"]},
-    {"id": "C31", "field": "crew.rank", "person": "nicholson-lh", "value": "Sergeant", "sources": ["S1", "S3"]},
-    {"id": "C32", "field": "crew.role", "person": "nicholson-lh", "value": "Forward (front) gunner", "sources": ["S1"]},
-    {"id": "C33", "field": "crew.age", "person": "nicholson-lh", "value": "21", "sources": ["S1", "S3"]},
-    {"id": "C34", "field": "crew.ibcc_url", "person": "nicholson-lh", "value": "https://losses.internationalbcc.co.uk/loss/220809", "sources": ["S3"]},
-
-    {"id": "C40", "field": "crew.name", "person": "jenkins-pej", "value": "P E J Jenkins (Peter Edward James Jenkins)", "sources": ["S1", "S4"]},
-    {"id": "C41", "field": "crew.rank", "person": "jenkins-pej", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C42", "field": "crew.age", "person": "jenkins-pej", "value": "22", "sources": ["S1"]},
-    {"id": "C43", "field": "crew.name", "person": "simpson-dr", "value": "D R Simpson (Dennis Roy Simpson)", "sources": ["S1", "S4"]},
-    {"id": "C44", "field": "crew.rank", "person": "simpson-dr", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C45", "field": "crew.age", "person": "simpson-dr", "value": "26", "sources": ["S1"]},
-    {"id": "C46", "field": "crew.name", "person": "harris-dh", "value": "D H Harris", "sources": ["S1", "S4"]},
-    {"id": "C47", "field": "crew.rank", "person": "harris-dh", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C48", "field": "crew.age", "person": "harris-dh", "value": "20", "sources": ["S1"]},
-    {"id": "C49", "field": "crew.name", "person": "clarke-fs", "value": "F S Clarke", "sources": ["S1", "S4"]},
-    {"id": "C50", "field": "crew.rank", "person": "clarke-fs", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C51", "field": "crew.age", "person": "clarke-fs", "value": "25", "sources": ["S1"]},
-    {"id": "C52", "field": "crew.name", "person": "bond-cj", "value": "C J Bond (Cecil Jacques Bond)", "sources": ["S1", "S4"]},
-    {"id": "C53", "field": "crew.rank", "person": "bond-cj", "value": "Sergeant", "sources": ["S1"]},
-    {"id": "C54", "field": "crew.age", "person": "bond-cj", "value": "19", "sources": ["S1"]}
+    {
+      "id": "C1",
+      "field": "serial_number",
+      "value": "R9329",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "aircraft_type",
+      "value": "Short Stirling I",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "squadron",
+      "value": "149 Squadron",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "station",
+      "value": "RAF Lakenheath",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "crash_date",
+      "value": "1942-08-21",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Minelaying (gardening)",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "operation_target",
+      "value": "Gironde estuary, near Bordeaux",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "location_name",
+      "value": "Gibhill Wood, Cornwood, Dartmoor",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "county",
+      "value": "Devon",
+      "sources": [
+        "S4",
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "cause_of_loss",
+      "value": "Probably damaged by ground defences over France; flew into rising ground and caught fire (RAF accident report, as reported by Dartmoor Explorations)",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "cause_of_loss",
+      "value": "Believed hit by anti-aircraft fire over Plymouth on the return flight (IBCC)",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "memorial_type",
+      "value": "Stone of remembrance (granite pillar)",
+      "sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "dedication_date",
+      "value": "2011",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "erected_by",
+      "value": "Planned from 2009 by four local men: Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "inscription",
+      "value": "STIRLING BOMBER OF/ 149 SQDN RAF/ CRASHED HERE WITH/ THE LOSS OF/ 7 AIRCREW ON THE/ 21ST AUGUST 1942/ CREW:/ (Names)/ WE WILL REMEMBER THEM",
+      "sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "names_on_memorial",
+      "value": "7",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "died_count",
+      "value": "7",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "memorial_address",
+      "value": "Delamore Estate, Cornwood, South Hams, Devon, PL21 9SD",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "crew.name",
+      "person": "robertson-ge",
+      "value": "Geoffrey Ernest Robertson",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "crew.rank",
+      "person": "robertson-ge",
+      "value": "Pilot Officer",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C21b",
+      "field": "crew.rank",
+      "person": "robertson-ge",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "crew.role",
+      "person": "robertson-ge",
+      "value": "Pilot",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "crew.age",
+      "person": "robertson-ge",
+      "value": "25",
+      "sources": [
+        "S2",
+        "S1"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "crew.service_number",
+      "person": "robertson-ge",
+      "value": "129249",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "crew.burial_location",
+      "person": "robertson-ge",
+      "value": "Mortlake Crematorium, Surrey (Panel 9)",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C26",
+      "field": "crew.hometown",
+      "person": "robertson-ge",
+      "value": "Twickenham, Middlesex",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C27",
+      "field": "crew.ibcc_url",
+      "person": "robertson-ge",
+      "value": "https://losses.internationalbcc.co.uk/loss/223984",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C30",
+      "field": "crew.name",
+      "person": "nicholson-lh",
+      "value": "Lawrence Henry Nicholson",
+      "sources": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "id": "C31",
+      "field": "crew.rank",
+      "person": "nicholson-lh",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C32",
+      "field": "crew.role",
+      "person": "nicholson-lh",
+      "value": "Forward (front) gunner",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C33",
+      "field": "crew.age",
+      "person": "nicholson-lh",
+      "value": "21",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C34",
+      "field": "crew.ibcc_url",
+      "person": "nicholson-lh",
+      "value": "https://losses.internationalbcc.co.uk/loss/220809",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "crew.name",
+      "person": "jenkins-pej",
+      "value": "Peter Edward James Jenkins",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "crew.rank",
+      "person": "jenkins-pej",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "crew.age",
+      "person": "jenkins-pej",
+      "value": "22",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "crew.name",
+      "person": "simpson-dr",
+      "value": "Dennis Roy Simpson",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C44",
+      "field": "crew.rank",
+      "person": "simpson-dr",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C45",
+      "field": "crew.age",
+      "person": "simpson-dr",
+      "value": "26",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "crew.name",
+      "person": "harris-dh",
+      "value": "D H Harris",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "crew.rank",
+      "person": "harris-dh",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C48",
+      "field": "crew.age",
+      "person": "harris-dh",
+      "value": "20",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C49",
+      "field": "crew.name",
+      "person": "clarke-fs",
+      "value": "F S Clarke",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "crew.rank",
+      "person": "clarke-fs",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "crew.age",
+      "person": "clarke-fs",
+      "value": "25",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "crew.name",
+      "person": "bond-cj",
+      "value": "Cecil Jacques Bond",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "crew.rank",
+      "person": "bond-cj",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "crew.age",
+      "person": "bond-cj",
+      "value": "19",
+      "sources": [
+        "S1"
+      ]
+    }
   ],
   "paragraphs": [
-    {"section": "narrative", "text": "Short Stirling R9329 of 149 Squadron left RAF Lakenheath at 2045 on 20 August 1942 to lay mines off the Gironde estuary near Bordeaux. It crashed in Gibhill Wood, near Cornwood on Dartmoor, at 0325 on 21 August 1942. All seven crew died. The navigator's log survived; its last entry, about ten minutes before the crash, read 03.15 completely lost.", "cites": ["C1", "C3", "C4", "C5", "C6", "C7", "C8", "C17"]},
-    {"section": "narrative", "text": "The sources disagree on why it came down. Dartmoor Explorations reports that the RAF accident report found the aircraft probably damaged by ground defences over France and that it flew into rising ground and caught fire. IBCC says it is believed to have been hit by anti-aircraft fire over Plymouth on the return. Dartmoor Explorations also notes a suggestion of friendly fire over Plymouth from the brother of one crewman, with no conclusive evidence.", "cites": ["C10", "C11"], "presents_conflict": true},
-    {"section": "narrative", "text": "The pilot was Pilot Officer Geoffrey Ernest Robertson, aged 25, of the RAFVR. IBCC records him as a Pilot Officer; Dartmoor Explorations lists him as a Sergeant. The other six were all sergeants: Jenkins (22), Simpson (26), Harris (20), Nicholson (21, forward gunner), Clarke (25) and Bond (19), according to Dartmoor Explorations.", "cites": ["C20", "C21", "C21b", "C22", "C23", "C30", "C32", "C33", "C41", "C42", "C44", "C45", "C47", "C48", "C50", "C51", "C53", "C54"], "presents_conflict": true},
-    {"section": "community_connection", "text": "A granite pillar was set up at the crash site in 2011. Four local men, Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone, began planning it in 2009. It was unveiled at a dedication service by David Nicholson, nephew of Sgt Lawrence Nicholson.", "cites": ["C12", "C13", "C14"]}
+    {
+      "section": "narrative",
+      "text": "Short Stirling R9329 of 149 Squadron left RAF Lakenheath at 2045 on 20 August 1942 to lay mines off the Gironde estuary near Bordeaux. It crashed in Gibhill Wood, near Cornwood on Dartmoor, at 0325 on 21 August 1942. All seven crew died. The navigator's log survived; its last entry, about ten minutes before the crash, read 03.15 completely lost.",
+      "cites": [
+        "C1",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C17"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The sources disagree on why it came down. Dartmoor Explorations reports that the RAF accident report found the aircraft probably damaged by ground defences over France and that it flew into rising ground and caught fire. IBCC says it is believed to have been hit by anti-aircraft fire over Plymouth on the return. Dartmoor Explorations also notes a suggestion of friendly fire over Plymouth from the brother of one crewman, with no conclusive evidence.",
+      "cites": [
+        "C10",
+        "C11"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "The pilot was Pilot Officer Geoffrey Ernest Robertson, aged 25, of the RAFVR. IBCC records him as a Pilot Officer; Dartmoor Explorations lists him as a Sergeant. The other six were all sergeants: Jenkins (22), Simpson (26), Harris (20), Nicholson (21, forward gunner), Clarke (25) and Bond (19), according to Dartmoor Explorations.",
+      "cites": [
+        "C20",
+        "C21",
+        "C21b",
+        "C22",
+        "C23",
+        "C30",
+        "C32",
+        "C33",
+        "C41",
+        "C42",
+        "C44",
+        "C45",
+        "C47",
+        "C48",
+        "C50",
+        "C51",
+        "C53",
+        "C54"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "community_connection",
+      "text": "A granite pillar was set up at the crash site in 2011. Four local men, Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone, began planning it in 2009. It was unveiled at a dedication service by David Nicholson, nephew of Sgt Lawrence Nicholson.",
+      "cites": [
+        "C12",
+        "C13",
+        "C14"
+      ]
+    }
   ],
   "photos": [
-    {"url": "https://wmr.iwm.org.uk/sites/default/files/images/69860.jpg", "credit": "Fran Crayford, via IWM War Memorials Register", "caption": "The granite stone of remembrance at Gibhill Wood", "source_id": "S4"}
+    {
+      "url": "https://wmr.iwm.org.uk/sites/default/files/images/69860.jpg",
+      "credit": "Fran Crayford, via IWM War Memorials Register",
+      "caption": "The granite stone of remembrance at Gibhill Wood",
+      "source_id": "S4"
+    }
   ],
   "custodian_status": "unknown",
   "notes": "IBCC pages for Jenkins, Simpson and Bond returned HTTP 429 and Nicholson's too (only a search summary seen), so only Robertson is fully identified; I did not try to work around the rate limit. Clarke and Harris have no IBCC/CWGC data yet. Burial places, service numbers, CWGC links and roles for six men are still to find. Dartmoor Explorations does not say who maintains the pillar; poppies are usually placed around it. IWM lists Delamore Estate as location, so landowner may be involved: unconfirmed. Dartmoor Explorations cites Wings over Dartmoor (Lewis 2016) and Dartmoor Air Crashes (Jones 2015) - not read. IBCC says crash 19 miles WSW of Torbay; IWM-derived record says 8 miles inland, unchecked. Memorial window at St George's Church, Methwold (IBCC) is a lead for further sources. Existing record narrative 'went off course... fired on near Plymouth' is unsourced beyond IBCC. Facebook source on our record not used."

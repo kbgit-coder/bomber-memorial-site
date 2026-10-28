@@ -62,7 +62,9 @@ export const CREW_FIELDS = new Set([
 /** A narrative-only fact (a take-off time, who was on which aircraft): paragraphs may cite it, apply never writes it to a field. */
 export const EVENT = "event";
 /** Fields a retraction may clear. Crew are never retracted wholesale: a name stays until a human removes it. */
-export const RETRACTABLE = new Set([...RECORD_FIELDS, "local_contacts", "community_connection", "narrative", "crew_summary", "memorial_details"]);
+export const RETRACTABLE = new Set([...RECORD_FIELDS, "local_contacts", "community_connection", "narrative", "crew_summary", "memorial_details", "remembrance", "crew_data_note", "iwm_photo_urls"]);
+/** Counts stored as numbers; a claim must be a whole number. */
+export const INT_FIELDS = new Set(["names_on_memorial", "died_count", "crew.age"]);
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
 const URL_FIELDS = new Set(["crew.cwgc_url", "crew.ibcc_url", "crew.iwm_name_url", "maintainer.website"]);
 export const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
@@ -107,6 +109,8 @@ export function validate(d: Dossier): string[] {
     if (/date/.test(c.field) && !/^\d{4}(-\d{2}(-\d{2})?)?$/.test(String(c.value))) e.push(`claim ${c.id}: ${c.field} must be YYYY-MM-DD (or YYYY-MM / YYYY)`);
     if (URL_FIELDS.has(c.field) && !/^https:\/\//.test(String(c.value))) e.push(`claim ${c.id}: ${c.field} must be https`);
     if (String(c.value).trim() === "") e.push(`claim ${c.id}: empty value`);
+    if (INT_FIELDS.has(c.field) && !/^\d+$/.test(String(c.value).trim())) e.push(`claim ${c.id}: ${c.field} must be a whole number`);
+    if (c.field === "crew.name" && /[();\/]/.test(String(c.value))) e.push(`claim ${c.id}: crew.name must be one plain name (put variants in their own claims)`);
   }
   const groups = crosscheck(d);
   for (const [i, p] of d.paragraphs.entries()) {
@@ -232,6 +236,13 @@ export function crosscheck(d: Dossier): Group[] {
       const best = Math.max(...values.map(v => TIER_RANK[v.topTier]));
       const top = values.filter(v => TIER_RANK[v.topTier] === best);
       if (top.length === 1 && best >= TIER_RANK.institutional && field !== "cause_of_loss") accepted = top[0].value;
+      // A spelling dispute must never drop a man from the crew: use the stone's spelling (IWM names
+      // capture) when it is among the top versions; the variant stays in the conflicts report.
+      if (accepted === undefined && field === "crew.name" && best >= TIER_RANK.researched) {
+        const stone = top.find(v => claims.some(c => normalise(field, c.value) === normalise(field, v.value) &&
+          c.sources.some(id => /iwm\.org\.uk/.test(src.get(id)?.url ?? ""))));
+        accepted = (stone ?? top[0]).value;
+      }
     } else {
       const v = values[0];
       status = v.publishers.length >= 2 ? "corroborated" : "single";
@@ -275,9 +286,19 @@ export function apply(d: Dossier, record: any): Applied {
   }
   const markUsed = (g: Group) => g.claims.filter(c => normalise(g.field, c.value) === normalise(g.field, g.accepted!)).forEach(c => c.sources.forEach(s => used.add(s)));
 
+  // An unresolved dispute must not leave one side standing as settled fact.
+  for (const g of groups.filter(g => g.status === "conflict" && g.accepted === undefined && RECORD_FIELDS.has(g.field))) {
+    if (g.field === "crash_date") {
+      // Keep only what every version agrees on: the month, else the year.
+      const vs = g.values.map(v => String(v.value));
+      const month = vs[0].slice(0, 7), year = vs[0].slice(0, 4);
+      r.crash_date = vs.every(v => v.startsWith(month)) && /^\d{4}-\d{2}$/.test(month) ? month : vs.every(v => v.startsWith(year)) ? year : r.crash_date;
+    } else if (g.field === "cause_of_loss") delete r.cause_of_loss; // the narrative presents the versions
+  }
+
   for (const g of groups.filter(g => g.accepted !== undefined && RECORD_FIELDS.has(g.field))) {
     if (g.field.startsWith("maintainer.")) { r.maintainer = { ...(r.maintainer ?? {}), [g.field.slice(11)]: g.accepted }; }
-    else r[g.field] = g.accepted;
+    else r[g.field] = INT_FIELDS.has(g.field) ? Number(g.accepted) : g.accepted;
     markUsed(g);
   }
   // The schema requires organisation and maintainer_type: no organisation means no maintainer object.
