@@ -138,10 +138,15 @@ function originOf(s: Source, src: Map<string, Source>): Source {
 function publisherOf(s: Source, src: Map<string, Source>): string {
   return originOf(s, src).publisher.trim().toLowerCase();
 }
-/** Effective tier: a copy is never more trustworthy than what it copies. */
+/** Effective tier: the weakest link anywhere in the copy chain; a copy is never more trustworthy than what it copies. */
 function tierOf(s: Source, src: Map<string, Source>): Tier {
-  const o = originOf(s, src);
-  return TIER_RANK[o.tier] < TIER_RANK[s.tier] ? o.tier : s.tier;
+  let t = s.tier;
+  const seen = new Set<string>();
+  for (let cur: Source | undefined = s; cur && !seen.has(cur.id); cur = cur.copies_of ? src.get(cur.copies_of) : undefined) {
+    seen.add(cur.id);
+    if (TIER_RANK[cur.tier] < TIER_RANK[t]) t = cur.tier;
+  }
+  return t;
 }
 /** Best effective tier among a claim's sources. */
 function claimTier(c: Claim, src: Map<string, Source>): number {
@@ -247,7 +252,13 @@ export function photoFile(memorialId: string, url: string): string {
 
 const roleOrder = ["pilot", "co-pilot", "second pilot", "navigator", "flight engineer", "bomb aimer", "wireless operator", "air gunner", "mid-upper gunner", "rear gunner"];
 
-export interface Applied { record: any; held: Group[]; conflicts: Group[]; quality: string; droppedParagraphs: Paragraph[]; used: Set<string> }
+export interface Applied { record: any; held: Group[]; conflicts: Group[]; quality: string; droppedParagraphs: Paragraph[]; used: Set<string>; factUsed: Set<string> }
+
+/** Sources the final record rests on: those behind facts, plus those behind photos that are actually on the record. */
+export function usedAfterPhotos(a: Applied, d: Dossier): Set<string> {
+  const kept = new Set((a.record.photos ?? []).map((p: any) => p.source));
+  return new Set([...a.factUsed, ...(d.photos ?? []).filter(p => kept.has(p.url)).map(p => p.source_id)]);
+}
 
 export function apply(d: Dossier, record: any): Applied {
   const groups = crosscheck(d);
@@ -304,6 +315,8 @@ export function apply(d: Dossier, record: any): Applied {
     if (paras.length) { r[section] = paras.map(p => p.text.trim()).join("\n\n"); paras.forEach(p => p.cites.forEach(cid => d.claims.find(c => c.id === cid)?.sources.forEach(s => used.add(s)))); }
   }
 
+  // Sources behind facts, kept apart from photo sources so a photo that later fails to download can't count.
+  const factUsed = new Set(used);
   const photos = (d.photos ?? []).filter(p => photoUrlOk(p.url));
   if (photos.length) {
     const have = new Set((r.photos ?? []).map((p: any) => p.source));
@@ -327,7 +340,7 @@ export function apply(d: Dossier, record: any): Applied {
   r.last_validated = d.researched_at;
   r.data_quality = quality(r, d, groups, used);
 
-  return { record: r, held: groups.filter(g => g.accepted === undefined && g.status !== "conflict"), conflicts: groups.filter(g => g.status === "conflict"), quality: r.data_quality, droppedParagraphs, used };
+  return { record: r, held: groups.filter(g => g.accepted === undefined && g.status !== "conflict"), conflicts: groups.filter(g => g.status === "conflict"), quality: r.data_quality, droppedParagraphs, used, factUsed };
 }
 
 /**
@@ -359,6 +372,8 @@ if (import.meta.main) {
   const ids = rest.filter(a => !a.startsWith("--"));
   if (!existsSync(DOSSIERS)) { console.error(`no dossiers dir: ${DOSSIERS}`); process.exit(1); }
   const all = readdirSync(DOSSIERS).filter(f => f.endsWith(".json")).map(f => f.slice(0, -5));
+  const bad = ids.filter(id => !SLUG.test(id));
+  if (bad.length) { console.error(`not a memorial id: ${bad.join(", ")}`); process.exit(1); }
   const targets = ids.length ? ids : all;
   const load = (id: string): Dossier => JSON.parse(readFileSync(join(DOSSIERS, `${id}.json`), "utf8"));
   let failed = false;
@@ -412,7 +427,7 @@ if (import.meta.main) {
         writeFileSync(dest, buf);
         await new Promise(r => setTimeout(r, 2000)); // polite pacing for IWM and other hosts
       }
-      a.record.data_quality = quality(a.record, d, undefined, a.used); // a dropped photo can lower the tier
+      a.record.data_quality = quality(a.record, d, undefined, usedAfterPhotos(a, d)); // a dropped photo can lower the tier
       if (!schemaOk(a.record)) {
         console.log(`  NOT WRITTEN: schema errors ${ajv.errorsText(schemaOk.errors)}`);
         failed = true;

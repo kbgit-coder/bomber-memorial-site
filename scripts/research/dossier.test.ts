@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { validate, crosscheck, apply, quality, photoFile, photoUrlOk, type Dossier } from "./dossier";
+import { validate, crosscheck, apply, quality, photoFile, photoUrlOk, usedAfterPhotos, type Dossier } from "./dossier";
 
 const base = (): Dossier => ({
   memorial_id: "test-memorial", researched_at: "2026-10-28", custodian_status: "known",
@@ -171,6 +171,24 @@ describe("review fixes (codex 2026-10-28)", () => {
     d.sources.push({ id: "S8", url: "https://copy.example.net/y", title: "Copy", publisher: "Copier", tier: "researched", retrieved: "2026-10-28", copies_of: "S5" });
     d.claims.push({ id: "C46", field: "erected_by", value: "Villagers", sources: ["S8"] });
     expect(crosscheck(d).find(g => g.field === "erected_by")!.accepted).toBeUndefined();
+  });
+
+  test("a copy chain takes its weakest link's tier, not just its ends", () => {
+    const d = base();
+    d.sources.push({ id: "S11", url: "https://mid.example/x", title: "Mid", publisher: "Mid Forum", tier: "community", retrieved: "2026-10-28", copies_of: "S2" },
+      { id: "S12", url: "https://top.example/x", title: "Top", publisher: "Top", tier: "researched", retrieved: "2026-10-28", copies_of: "S11" });
+    d.claims.push({ id: "C49", field: "erected_by", value: "Villagers", sources: ["S12"] });
+    expect(crosscheck(d).find(g => g.field === "erected_by")!.accepted).toBeUndefined();
+  });
+
+  test("a photo that fails to download doesn't count towards quality", () => {
+    const d = base();
+    d.sources.push({ id: "S13", url: "https://wmr.iwm.org.uk/memorial/1", title: "IWM", publisher: "IWM", tier: "institutional", retrieved: "2026-10-28" });
+    d.photos = [{ url: "https://wmr.iwm.org.uk/sites/default/files/images/y.jpg", credit: "IWM", caption: "c", source_id: "S13" }];
+    const a = apply(d, { id: "t", crew: [], sources: [] });
+    expect(a.used.has("S13")).toBe(true);
+    a.record.photos = []; // as if the download failed
+    expect(usedAfterPhotos(a, d).has("S13")).toBe(false);
   });
 
   test("copy cycles fail validation", () => {
