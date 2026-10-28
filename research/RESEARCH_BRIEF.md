@@ -28,6 +28,7 @@ The brief every research pass follows, human or agent. The output is one dossier
   ],
   "paragraphs": [
     { "section": "narrative", "text": "Plain prose.", "cites": ["C1", "C2"] },
+    { "section": "memorial_details", "text": "What the memorial is and where it stands.", "cites": ["C5"] },
     { "section": "community_connection", "text": "…", "cites": ["C9"] }
   ],
   "photos": [{ "url": "https://wmr.iwm.org.uk/sites/default/files/images/…jpg", "credit": "Name, via IWM War Memorials Register", "caption": "…", "source_id": "S3" }],

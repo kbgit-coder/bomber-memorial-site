@@ -34,7 +34,8 @@ export interface Source {
   copies_of?: string;
 }
 export interface Claim { id: string; field: string; value: string | number; person?: string; sources: string[]; quote?: string }
-export interface Paragraph { section: "narrative" | "community_connection"; text: string; cites: string[]; presents_conflict?: boolean }
+export const SECTIONS = ["narrative", "community_connection", "memorial_details"] as const;
+export interface Paragraph { section: (typeof SECTIONS)[number]; text: string; cites: string[]; presents_conflict?: boolean }
 export interface Photo { url: string; credit: string; caption: string; source_id: string }
 export interface Dossier {
   memorial_id: string; researched_at: string;
@@ -109,6 +110,7 @@ export function validate(d: Dossier): string[] {
   }
   const groups = crosscheck(d);
   for (const [i, p] of d.paragraphs.entries()) {
+    if (!SECTIONS.includes(p.section)) e.push(`paragraph ${i}: section must be one of ${SECTIONS.join(", ")}`);
     if (!p.cites?.length) e.push(`paragraph ${i}: cites no claims`);
     for (const c of p.cites ?? []) {
       if (!claimIds.has(c)) { e.push(`paragraph ${i}: unknown claim ${c}`); continue; }
@@ -310,7 +312,7 @@ export function apply(d: Dossier, record: any): Applied {
   }
 
   const droppedParagraphs = d.paragraphs.filter(p => !paragraphOk(p, d, groups));
-  for (const section of ["narrative", "community_connection"] as const) {
+  for (const section of SECTIONS) {
     const paras = d.paragraphs.filter(p => p.section === section && paragraphOk(p, d, groups));
     if (paras.length) { r[section] = paras.map(p => p.text.trim()).join("\n\n"); paras.forEach(p => p.cites.forEach(cid => d.claims.find(c => c.id === cid)?.sources.forEach(s => used.add(s)))); }
   }

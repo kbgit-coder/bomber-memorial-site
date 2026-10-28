@@ -78,6 +78,11 @@ describe("validate", () => {
     expect(validate(d).join()).toContain("no sources");
   });
 
+  test("an unsupported paragraph section fails rather than being silently dropped", () => {
+    const d = base(); d.paragraphs.push({ section: "memorial_description" as any, text: "x", cites: ["C1"] });
+    expect(validate(d).join()).toContain("section must be one of");
+  });
+
   test("a paragraph citing nothing fails", () => {
     const d = base(); d.paragraphs.push({ section: "narrative", text: "Unsourced.", cites: [] });
     expect(validate(d).join()).toContain("cites no claims");
