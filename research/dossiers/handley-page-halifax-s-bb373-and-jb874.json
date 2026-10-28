@@ -245,14 +245,6 @@
       ]
     },
     {
-      "id": "C17",
-      "field": "maintainer.organisation",
-      "value": "Tickton and Routh Parish Council",
-      "sources": [
-        "S5"
-      ]
-    },
-    {
       "id": "C18",
       "field": "crew.name",
       "value": "George Goodall Bell",
@@ -1304,11 +1296,19 @@
     }
   ],
   "custodian_status": "unknown",
-  "notes": "COUNTY: our record says Antrim, which is wrong; the memorial is in Tickton, East Riding of Yorkshire (IWM address, HU17 9SB). AIRCRAFT: the crew schema has no aircraft field, so each role is suffixed (BB373)/(JB874). BB373: Bell, Gilbert, Lester, Platt, Clarke, Lee, Walton, Fletcher. JB874: Keirl, Scorey, Baylis, Jones, Hilton, Roberts, Greet. SURVIVOR: only Sgt J. Greet survived (JB874). yorkshire-aircraft.co.uk and WMO call him an air gunner; no source read says rear gunner (a search summary mentioned 'Rear Gunner' only for Fletcher on BB373). No first name found. RANK CONFLICTS: Bell Sgt (S1) v Flt Sgt (S3, our record); Gilbert F/Sgt (S1, S4 says Flt Sgt) v P/O (S3); Walton Sgt (S1, S4) v Flt Sgt (S3, our record). CWGC would settle these; not checked. ERRORS IN OUR RECORD: Gilbert, Baylis, Jones, Scorey, Greet missing from crew; Lee's first name is Arthur (S1); inscription transcription has only 10 of 15 names and reads 'JBB874' (IWM text reads JB874 in the capture). Our record has Keirl and Hilton on one aircraft implicitly; they were JB874. DIVERSION DISCREPANCY: S1/S2 say Leconfield then Hutton Cranswick; S3 says diverted from Breighton, Leconfield could not take them. S2 notes two of JB874's dead may have died of injuries; Keirl's commission dates on S2 look inconsistent. S1 title misprints BB373 as BB393. S2 and S1 are one publisher. IBCC pages (losses.internationalbcc.co.uk/loss/ ids 201638, 210332, 213050, 214978, 216616, 229280 found by search) returned 429 and were NOT read, so no IBCC or CWGC casualty links were added; retry later. IBCC panel for Platt: Phase 2 Panel 226 (S3). CUSTODIAN: our record says Tickton and Routh Parish Council but I found no source for that; WMO shows no custodian. Left unknown. Not found: builder, dedication date, who unveiled it. The IWM capture photos 1 and 2 (ey_tickton_2.jpg, 98870a_0.jpg) have no credit I can confirm, so only the one credited photo is used. Greet's WMO co-listing: S4 and S5 do not independently corroborate S1/S2 on crew details (WMO may derive from the inscription).",
+  "notes": "COUNTY: our record says Antrim, which is wrong; the memorial is in Tickton, East Riding of Yorkshire (IWM address, HU17 9SB). AIRCRAFT: the crew schema has no aircraft field, so each role is suffixed (BB373)/(JB874). BB373: Bell, Gilbert, Lester, Platt, Clarke, Lee, Walton, Fletcher. JB874: Keirl, Scorey, Baylis, Jones, Hilton, Roberts, Greet. SURVIVOR: only Sgt J. Greet survived (JB874). yorkshire-aircraft.co.uk and WMO call him an air gunner; no source read says rear gunner (a search summary mentioned 'Rear Gunner' only for Fletcher on BB373). No first name found. RANK CONFLICTS: Bell Sgt (S1) v Flt Sgt (S3, our record); Gilbert F/Sgt (S1, S4 says Flt Sgt) v P/O (S3); Walton Sgt (S1, S4) v Flt Sgt (S3, our record). CWGC would settle these; not checked. ERRORS IN OUR RECORD: Gilbert, Baylis, Jones, Scorey, Greet missing from crew; Lee's first name is Arthur (S1); inscription transcription has only 10 of 15 names and reads 'JBB874' (IWM text reads JB874 in the capture). Our record has Keirl and Hilton on one aircraft implicitly; they were JB874. DIVERSION DISCREPANCY: S1/S2 say Leconfield then Hutton Cranswick; S3 says diverted from Breighton, Leconfield could not take them. S2 notes two of JB874's dead may have died of injuries; Keirl's commission dates on S2 look inconsistent. S1 title misprints BB373 as BB393. S2 and S1 are one publisher. IBCC pages (losses.internationalbcc.co.uk/loss/ ids 201638, 210332, 213050, 214978, 216616, 229280 found by search) returned 429 and were NOT read, so no IBCC or CWGC casualty links were added; retry later. IBCC panel for Platt: Phase 2 Panel 226 (S3). CUSTODIAN: our record says Tickton and Routh Parish Council but I found no source for that; WMO shows no custodian. Left unknown. Not found: builder, dedication date, who unveiled it. The IWM capture photos 1 and 2 (ey_tickton_2.jpg, 98870a_0.jpg) have no credit I can confirm, so only the one credited photo is used. Greet's WMO co-listing: S4 and S5 do not independently corroborate S1/S2 on crew details (WMO may derive from the inscription). | 28 Oct review: claim C17 (parish council as maintainer) removed; it cited the IWM register, whose text does not mention a custodian.",
   "retractions": [
     {
       "field": "community_connection",
       "reason": "Fragment from the IWM listing (\"local people affected, HULL BRIDGE, TICKTON\"), not a community account; no source names a custodian or community group"
+    },
+    {
+      "field": "custodian",
+      "reason": "No source names Tickton and Routh Parish Council as custodian; War Memorials Online lists none"
+    },
+    {
+      "field": "maintainer.organisation",
+      "reason": "As above: unsupported"
     }
   ]
 }

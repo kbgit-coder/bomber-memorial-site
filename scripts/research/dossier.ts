@@ -62,7 +62,7 @@ export const CREW_FIELDS = new Set([
 /** A narrative-only fact (a take-off time, who was on which aircraft): paragraphs may cite it, apply never writes it to a field. */
 export const EVENT = "event";
 /** Fields a retraction may clear. Crew are never retracted wholesale: a name stays until a human removes it. */
-export const RETRACTABLE = new Set([...RECORD_FIELDS, "local_contacts", "community_connection", "narrative", "crew_summary", "memorial_details", "remembrance", "crew_data_note", "iwm_photo_urls"]);
+export const RETRACTABLE = new Set([...RECORD_FIELDS, "local_contacts", "community_connection", "narrative", "crew_summary", "memorial_details", "remembrance", "crew_data_note", "iwm_photo_urls", "custodian"]);
 /** Counts stored as numbers; a claim must be a whole number. */
 export const INT_FIELDS = new Set(["names_on_memorial", "died_count", "crew.age"]);
 const ISO_DATE = /^\d{4}-\d{2}-\d{2}$/;
