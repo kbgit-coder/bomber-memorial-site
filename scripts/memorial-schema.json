@@ -435,10 +435,12 @@
             "type": "string"
           },
           "iwm_name_url": {
-            "type": "string"
+            "type": "string",
+            "pattern": "^https://"
           },
           "ibcc_url": {
-            "type": "string"
+            "type": "string",
+            "pattern": "^https://"
           },
           "fate_detail": {
             "type": "string"

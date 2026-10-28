@@ -152,7 +152,7 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       CWGC
                     </span>
                   )}
-                  {member.iwm_name_url && (
+                  {member.iwm_name_url?.startsWith("https://") && (
                     <a
                       href={member.iwm_name_url}
                       target="_blank"
@@ -163,7 +163,7 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       IWM
                     </a>
                   )}
-                  {member.ibcc_url && (
+                  {member.ibcc_url?.startsWith("https://") && (
                     <a
                       href={member.ibcc_url}
                       target="_blank"
