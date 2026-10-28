@@ -6,34 +6,157 @@
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "JP137",
-  "squadron": "",
+  "squadron": "1658 HCU",
   "crash_date": "1944-03-21",
   "memorial_type": "Stone of remembrance",
   "memorial_details": "Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.",
-  "inscription": "MOORDOWN/ HALIFAX MEMORIAL/ IN MEMORY OF THE TWO LOCAL RESIDENTS/AND SEVEN AIRCREW WHO LOST THEIR LIVES/ IN THE CAUSE OF FREEDOM/ WHEN RAF HALIFAX BOMBER JP 137 CRASHED/ AT THIS LOCATION ON 21st MARCH 1944./ (Names)/ 'LEST WE FORGET'/ ORGANISED BY THE MOORTOWN 2010 COMMITTEE/ AS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH.",
+  "inscription": "MOORDOWN\nHALIFAX MEMORIAL\nIN MEMORY OF THE TWO LOCAL RESIDENTS\nAND SEVEN AIRCREW WHO LOST THEIR LIVES\nIN THE CAUSE OF FREEDOM\nWHEN RAF HALIFAX BOMBER JP 137 CRASHED\nAT THIS LOCATION ON 21st MARCH 1944\nMrs. DOROTHEA BENNETT Flat 9 Meadow Court\nMr. PERCY F. CHISLETT 1027 Wimborne Road\nSgt. DENIS R. EVANS Pilot RAFVR\nSgt. HENRY W. ROBERTS Nav. RAFVR\nF/O STANLEY A. APPLETON B/A RAFVR\nSgt. GEORGE A. ALEXANDER W/Op. RAFVR\nSgt. STANLEY F. GENT F/E RAFVR\nSgt. KENNETH GREEN A/G RAFVR\nSgt. REGINALD R. McGREGOR A/G RCAF\n'LEST WE FORGET'\nORGANISED BY THE MOORDOWN 2010 COMMITTEE\nAS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH",
   "sources": [
     {
-      "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/66526",
+      "title": "IWM War Memorials Register, memorial 66526",
+      "url": "https://memorials.iwm.org.uk/memorial/66526",
       "type": "official_database"
+    },
+    {
+      "title": "International Bomber Command Centre losses database (Sgt D R Evans)",
+      "url": "https://losses.internationalbcc.co.uk/loss/208671",
+      "type": "official_database"
+    },
+    {
+      "title": "The Moordown Halifax Memorial (Moordown Local History Society)",
+      "url": "https://www.jp137.com",
+      "type": "website"
+    },
+    {
+      "title": "Wikipedia: Moordown air disaster",
+      "url": "https://en.wikipedia.org/wiki/Moordown_air_disaster",
+      "type": "website"
+    },
+    {
+      "title": "War Memorials Online, memorial 255340",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/255340",
+      "type": "website"
     }
   ],
-  "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "data_quality": "Comprehensive",
+  "narrative": "In the early hours of 21 March 1944, Halifax II JP137 took off from RAF Hurn at 00:33 on a transfer flight to Morocco. Within moments the aircraft developed engine trouble. It turned in a wide arc, apparently trying to get back to Hurn, but came down in Moordown. It clipped buildings along Wimborne Road, including a Victorian chapel and the tram depot, and crashed at the corner of Wimborne Road and Meadow Court Close with full fuel tanks.\n\nAll seven crew were killed, the youngest aged 20. So were two people on the ground: Mrs Dorothea Bennett of Flat 9 Meadow Court and Mr Percy Chislett of 1027 Wimborne Road. The official report blamed the 20-year-old pilot, Sgt Denis Evans, although eyewitnesses saw an engine on fire just before impact.\n\nThe memorial was proposed during Bournemouth's bicentenary in 2010. It was organised by the Moordown 2010 Committee and unveiled and dedicated on 10 July 2011, on the spot where the aircraft came down. The 70th and 80th anniversaries have both been marked at the memorial.",
+  "crew": [
+    {
+      "rank": "Sgt",
+      "name": "Denis Roy Evans",
+      "age": 20,
+      "role": "Pilot",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042195",
+      "service_number": "1323338 RAFVR",
+      "burial_location": "Pinner Cemetery, Sec. B.5, Grave 36",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/208671"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Henry William Roberts",
+      "age": 37,
+      "role": "Navigator",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042196",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/250051"
+    },
+    {
+      "rank": "F/O",
+      "name": "Stanley Arthur Appleton",
+      "age": 30,
+      "role": "Bomb Aimer",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042197",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/250005"
+    },
+    {
+      "rank": "Sgt",
+      "name": "George A. Alexander",
+      "age": 23,
+      "role": "Wireless Operator",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042199"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Stanley F. Gent",
+      "age": 22,
+      "role": "Flight Engineer",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042198"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Kenneth Green",
+      "age": 20,
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "nationality": "British",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042200"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Reginald Rothwell McGregor",
+      "age": 21,
+      "role": "Air Gunner",
+      "fate": "Killed",
+      "nationality": "Canadian",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1042201",
+      "service_number": "R/197660 RCAF",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/218723",
+      "hometown": "New Westminster, British Columbia, Canada"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-28",
   "latitude": 50.756537502895,
   "longitude": -1.872981603635,
   "grid_ref": "SZ 09055",
-  "photos": [],
-  "names_on_memorial": 2,
-  "died_count": 2,
+  "photos": [
+    {
+      "filename": "handley-page-halifax-jp137/moordown-halifax-memorial-mark-newton-2016.jpg",
+      "caption": "The Moordown Halifax Memorial, Wimborne Road, March 2016",
+      "credit": "Mark Newton, via IWM War Memorials Register",
+      "date_taken": "2016-03-03"
+    }
+  ],
+  "names_on_memorial": 9,
+  "died_count": 9,
   "external_narratives": [],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/40/446/large_66526_mark_newton__3_march_2016.jpg"
   ],
-  "community_connection": "Two local residents lost their lives.",
-  "last_validated": "2026-04-13"
+  "community_connection": "Organised by the Moordown 2010 Committee for Bournemouth's bicentenary and unveiled in July 2011. The Moordown Local History Society keeps the memorial's story at jp137.com, and anniversaries are still marked at the stone.",
+  "last_validated": "2026-04-13",
+  "crew_summary": "7 crew, all killed, and 2 Moordown residents killed on the ground",
+  "station": "Hurn",
+  "operation_type": "Transit",
+  "cause_of_loss": "Engine failure shortly after take-off from RAF Hurn; eyewitnesses reported an engine on fire before impact",
+  "maintainer": {
+    "organisation": "Moordown 2010 Committee (memorial organisers); Moordown Local History Society (jp137.com)",
+    "maintainer_type": "local-history-group",
+    "website": "https://www.jp137.com",
+    "notes": "The memorial was organised by the Moordown 2010 Committee. The Moordown Local History Society runs jp137.com, the memorial's website, and can be contacted through its feedback form. Moordown is unparished; the local authority is BCP Council (Moordown ward)."
+  },
+  "local_contacts": [
+    {
+      "org_name": "Moordown Local History Society",
+      "org_type": "local_history",
+      "role": "Runs jp137.com, the memorial's website",
+      "website": "https://www.jp137.com"
+    },
+    {
+      "org_name": "BCP Council, Moordown ward councillors",
+      "org_type": "local_authority",
+      "role": "Local authority (Moordown has no parish council)",
+      "website": "https://democracy.bcpcouncil.gov.uk/"
+    }
+  ]
 }

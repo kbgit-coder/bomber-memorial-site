@@ -10,6 +10,8 @@ export interface CrewMember {
   burial_location?: string;
   cwgc_url?: string;
   cwgc_verified?: boolean;
+  iwm_name_url?: string;
+  ibcc_url?: string;
   bio?: string;
   hometown?: string;
   decorations?: string;

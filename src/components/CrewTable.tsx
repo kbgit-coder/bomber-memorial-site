@@ -152,6 +152,28 @@ export default function CrewTable({ crew }: CrewTableProps) {
                       CWGC
                     </span>
                   )}
+                  {member.iwm_name_url && (
+                    <a
+                      href={member.iwm_name_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Name record on the IWM War Memorials Register"
+                      style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
+                    >
+                      IWM
+                    </a>
+                  )}
+                  {member.ibcc_url && (
+                    <a
+                      href={member.ibcc_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      title="Loss record at the International Bomber Command Centre"
+                      style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
+                    >
+                      IBCC
+                    </a>
+                  )}
                 </td>
               </tr>
             ))}
