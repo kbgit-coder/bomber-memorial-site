@@ -166,6 +166,27 @@ describe("review fixes (codex 2026-10-28)", () => {
     expect(crosscheck(d).find(g => g.field === "station")!.status).toBe("single");
   });
 
+  test("a 'researched' copy of a community source is only community", () => {
+    const d = base();
+    d.sources.push({ id: "S8", url: "https://copy.example.net/y", title: "Copy", publisher: "Copier", tier: "researched", retrieved: "2026-10-28", copies_of: "S5" });
+    d.claims.push({ id: "C46", field: "erected_by", value: "Villagers", sources: ["S8"] });
+    expect(crosscheck(d).find(g => g.field === "erected_by")!.accepted).toBeUndefined();
+  });
+
+  test("copy cycles fail validation", () => {
+    const d = base();
+    d.sources.push({ id: "S9", url: "https://a.example/x", title: "A", publisher: "A", tier: "researched", retrieved: "2026-10-28", copies_of: "S10" },
+      { id: "S10", url: "https://b.example/x", title: "B", publisher: "B", tier: "researched", retrieved: "2026-10-28", copies_of: "S9" });
+    expect(validate(d).join()).toContain("cycle");
+  });
+
+  test("a conflict shown from two weak sources is not published", () => {
+    const d = extra(base());
+    d.claims.push({ id: "C47", field: "dedication_date", value: "2001", sources: ["S5"] }, { id: "C48", field: "dedication_date", value: "2003", sources: ["S6"] });
+    d.paragraphs = [{ section: "narrative", text: "One forum says 2001, another 2003.", cites: ["C47", "C48"], presents_conflict: true }];
+    expect(apply(d, { id: "t", crew: [], sources: [] }).droppedParagraphs.length).toBe(1);
+  });
+
   test("a paragraph citing a held-back fact is not published", () => {
     const d = base();
     d.claims.push({ id: "C42", field: "erected_by", value: "Forum Claim", sources: ["S5"] });

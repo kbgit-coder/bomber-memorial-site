@@ -87,6 +87,15 @@ export function validate(d: Dossier): string[] {
     if (!(s.tier in TIER_RANK)) e.push(`source ${s.id}: bad tier ${s.tier}`);
     if (!s.publisher?.trim()) e.push(`source ${s.id}: publisher missing`);
     if (s.copies_of && (!srcIds.has(s.copies_of) || s.copies_of === s.id)) e.push(`source ${s.id}: copies_of must name another source`);
+    // A copy chain must end at an original; a cycle has no origin to credit.
+    const seen = new Set([s.id]);
+    for (let cur = s; cur.copies_of; ) {
+      if (seen.has(cur.copies_of)) { e.push(`source ${s.id}: copies_of forms a cycle`); break; }
+      seen.add(cur.copies_of);
+      const next = d.sources.find(x => x.id === cur.copies_of);
+      if (!next) break;
+      cur = next;
+    }
   }
   for (const c of d.claims) {
     if (!RECORD_FIELDS.has(c.field) && !CREW_FIELDS.has(c.field) && c.field !== EVENT) e.push(`claim ${c.id}: unknown field ${c.field}`);
@@ -119,10 +128,24 @@ export function validate(d: Dossier): string[] {
   return e;
 }
 
+/** The original a source copies, following the chain (validate rejects cycles; the visited set guards anyway). */
+function originOf(s: Source, src: Map<string, Source>): Source {
+  const seen = new Set<string>();
+  while (s.copies_of && !seen.has(s.id)) { seen.add(s.id); const o = src.get(s.copies_of); if (!o) break; s = o; }
+  return s;
+}
 /** Publisher identity for independence: a page that copies another source counts as that source's publisher. */
-function publisherOf(s: Source, src: Map<string, Source>, depth = 0): string {
-  const orig = s.copies_of ? src.get(s.copies_of) : undefined;
-  return orig && depth < 5 ? publisherOf(orig, src, depth + 1) : s.publisher.trim().toLowerCase();
+function publisherOf(s: Source, src: Map<string, Source>): string {
+  return originOf(s, src).publisher.trim().toLowerCase();
+}
+/** Effective tier: a copy is never more trustworthy than what it copies. */
+function tierOf(s: Source, src: Map<string, Source>): Tier {
+  const o = originOf(s, src);
+  return TIER_RANK[o.tier] < TIER_RANK[s.tier] ? o.tier : s.tier;
+}
+/** Best effective tier among a claim's sources. */
+function claimTier(c: Claim, src: Map<string, Source>): number {
+  return Math.max(0, ...c.sources.map(id => src.get(id)).filter(Boolean).map(s => TIER_RANK[tierOf(s!, src)]));
 }
 
 /**
@@ -137,8 +160,11 @@ export function paragraphOk(p: Paragraph, d: Dossier, groups: Group[]): boolean 
     if (g.field === EVENT) { if (TIER_RANK[g.values[0].topTier] < TIER_RANK.researched) return false; continue; }
     if (g.status === "conflict") {
       if (!p.presents_conflict) return false;
-      const shown = new Set(g.claims.filter(c => p.cites.includes(c.id)).map(c => normalise(g.field, c.value)));
-      if (shown.size < 2) return false;
+      // Both versions shown, and every version shown must itself rest on a researched-or-better source.
+      const src = new Map(d.sources.map(s => [s.id, s]));
+      const cited = g.claims.filter(c => p.cites.includes(c.id));
+      if (cited.some(c => claimTier(c, src) < TIER_RANK.researched)) return false;
+      if (new Set(cited.map(c => normalise(g.field, c.value))).size < 2) return false;
       continue;
     }
     if (g.accepted === undefined) return false;
@@ -185,7 +211,8 @@ export function crosscheck(d: Dossier): Group[] {
       for (const sid of c.sources) {
         const s = src.get(sid); if (!s) continue;
         cur.publishers.add(publisherOf(s, src));
-        if (TIER_RANK[s.tier] > TIER_RANK[cur.topTier]) cur.topTier = s.tier;
+        const t = tierOf(s, src);
+        if (TIER_RANK[t] > TIER_RANK[cur.topTier]) cur.topTier = t;
       }
       vals.set(n, cur);
     }
@@ -377,7 +404,7 @@ if (import.meta.main) {
         if (!photoUrlOk(p.source) || !dest.startsWith(resolve(IMAGES) + sep)) { drop("host or path not allowed"); continue; }
         const res = await fetch(p.source, { redirect: "error" });
         const type = res.headers.get("content-type") ?? "";
-        if (!res.ok || !/^image\/(jpeg|png|webp|gif)/.test(type)) { drop(`${res.status} ${type}`); continue; }
+        if (!res.ok || !/^image\/(jpeg|png|webp|gif)(;|$)/.test(type)) { drop(`${res.status} ${type}`); continue; }
         if (Number(res.headers.get("content-length") ?? 0) > PHOTO_MAX_BYTES) { drop("too large"); continue; }
         const buf = Buffer.from(await res.arrayBuffer());
         if (buf.length > PHOTO_MAX_BYTES) { drop("too large"); continue; }
