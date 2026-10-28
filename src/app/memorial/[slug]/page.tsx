@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import Linkify from "@/components/Linkify";
 import {
   getAllMemorialSlugs,
   getMemorialBySlug,
@@ -546,7 +547,7 @@ export default function MemorialPage({ params }: Props) {
         {memorial.narrative ? (
           <div style={narrativeBox}>
             {memorial.narrative.split('\n\n').map((para, i) => (
-              <p key={i} style={{ marginBottom: i < memorial.narrative!.split('\n\n').length - 1 ? '1rem' : 0 }}>{para}</p>
+              <p key={i} style={{ marginBottom: i < memorial.narrative!.split('\n\n').length - 1 ? '1rem' : 0 }}><Linkify text={para} /></p>
             ))}
           </div>
         ) : (
@@ -584,7 +585,7 @@ export default function MemorialPage({ params }: Props) {
         {memorial.community_connection ? (
           <div style={narrativeBox}>
             {memorial.community_connection.split('\n\n').map((para, i) => (
-              <p key={i} style={{ marginBottom: i < memorial.community_connection!.split('\n\n').length - 1 ? '1rem' : 0 }}>{para}</p>
+              <p key={i} style={{ marginBottom: i < memorial.community_connection!.split('\n\n').length - 1 ? '1rem' : 0 }}><Linkify text={para} /></p>
             ))}
           </div>
         ) : (

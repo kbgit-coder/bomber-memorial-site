@@ -9,9 +9,14 @@
   "squadron": "1658 HCU",
   "crash_date": "1944-03-21",
   "memorial_type": "Stone of remembrance",
-  "memorial_details": "Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.",
+  "memorial_details": "Stone of remembrance with a triangular pediment set on a marble base with two miliary badges centrally and the lettering in white.\n\nLiving Stones, the stonemasons at Tapper Funeral Services in Moordown, made and installed the stone at less than cost.\n\nOn 10 July 2011 the memorial was dedicated less than 25 metres from where the aircraft fell.",
   "inscription": "MOORDOWN\nHALIFAX MEMORIAL\nIN MEMORY OF THE TWO LOCAL RESIDENTS\nAND SEVEN AIRCREW WHO LOST THEIR LIVES\nIN THE CAUSE OF FREEDOM\nWHEN RAF HALIFAX BOMBER JP 137 CRASHED\nAT THIS LOCATION ON 21st MARCH 1944\nMrs. DOROTHEA BENNETT Flat 9 Meadow Court\nMr. PERCY F. CHISLETT 1027 Wimborne Road\nSgt. DENIS R. EVANS Pilot RAFVR\nSgt. HENRY W. ROBERTS Nav. RAFVR\nF/O STANLEY A. APPLETON B/A RAFVR\nSgt. GEORGE A. ALEXANDER W/Op. RAFVR\nSgt. STANLEY F. GENT F/E RAFVR\nSgt. KENNETH GREEN A/G RAFVR\nSgt. REGINALD R. McGREGOR A/G RCAF\n'LEST WE FORGET'\nORGANISED BY THE MOORDOWN 2010 COMMITTEE\nAS A CONTRIBUTION TO THE BICENTENARY OF BOURNEMOUTH",
   "sources": [
+    {
+      "title": "The Moordown Halifax Memorial, Moordown 2010 Committee (jp137.com)",
+      "url": "https://jp137.com",
+      "type": "website"
+    },
     {
       "title": "IWM War Memorials Register, memorial 66526",
       "url": "https://memorials.iwm.org.uk/memorial/66526",
@@ -21,11 +26,6 @@
       "title": "International Bomber Command Centre losses database (Sgt D R Evans)",
       "url": "https://losses.internationalbcc.co.uk/loss/208671",
       "type": "official_database"
-    },
-    {
-      "title": "The Moordown Halifax Memorial (Moordown Local History Society)",
-      "url": "https://www.jp137.com",
-      "type": "website"
     },
     {
       "title": "Wikipedia: Moordown air disaster",
@@ -39,7 +39,7 @@
     }
   ],
   "data_quality": "Comprehensive",
-  "narrative": "In the early hours of 21 March 1944, Halifax II JP137 took off from RAF Hurn at 00:33 on a transfer flight to Morocco. Within moments the aircraft developed engine trouble. It turned in a wide arc, apparently trying to get back to Hurn, but came down in Moordown. It clipped buildings along Wimborne Road, including a Victorian chapel and the tram depot, and crashed at the corner of Wimborne Road and Meadow Court Close with full fuel tanks.\n\nAll seven crew were killed, the youngest aged 20. So were two people on the ground: Mrs Dorothea Bennett of Flat 9 Meadow Court and Mr Percy Chislett of 1027 Wimborne Road. The official report blamed the 20-year-old pilot, Sgt Denis Evans, although eyewitnesses saw an engine on fire just before impact.\n\nThe memorial was proposed during Bournemouth's bicentenary in 2010. It was organised by the Moordown 2010 Committee and unveiled and dedicated on 10 July 2011, on the spot where the aircraft came down. The 70th and 80th anniversaries have both been marked at the memorial.",
+  "narrative": "In the early hours of 21 March 1944, Halifax II JP137 took off from RAF Hurn on a transfer flight to North Africa with No. 3 Overseas Aircraft Dispatch Unit. It was almost new, and heavily laden with fuel for the long flight and more than a ton of supplies. Local research suggests the crew had been picked for special duties with the Special Operations Executive, probably joining 624 Squadron in Algeria.\n\nAbout two minutes after take-off, at roughly 300 feet, the port wing was seen to drop. Several eyewitnesses saw an engine on fire. JP137 still had the early triangular tail fins, which secret tests at Boscombe Down had shown could overbalance and lock the rudder. With an engine gone, a full load and no height to spare, the aircraft fell into a spin. It clipped the bus depot, came down upside down behind Meadow Court, and slid into the back of the cottages at 1025 to 1031 Wimborne Road before the fuel tanks exploded. The whole flight lasted about three minutes.\n\nAll seven crew were killed. The pilot, Sgt Denis Evans, was 20. Two people died in their homes: Dorothea Bennett, 59, a pharmacist's widow, in her back bedroom at 9 Meadow Court, and Percy Chislett, 49, a painter and decorator, in his bedroom at 1027 Wimborne Road. Her daughter Margaret, a young RAMC doctor, escaped through the front of the flat. Percy's wife Mary and son John climbed out of an upstairs window in their nightclothes. Four families lost their homes to the fire.\n\nFor decades the Evans family believed Denis had been blamed for the crash. When the Moordown 2010 Committee studied the official papers, they found no real blame had been attached to him beyond the stock wording used when there were no survivors. In January 2012 the head of the RAF Air Historical Branch confirmed this, and the committee formally told the family that Denis was not to blame.",
   "crew": [
     {
       "rank": "Sgt",
@@ -113,7 +113,7 @@
       "hometown": "New Westminster, British Columbia, Canada"
     }
   ],
-  "contributor": "IWM War Memorials Register",
+  "contributor": "Moordown 2010 Committee research (jp137.com); IWM War Memorials Register",
   "last_updated": "2026-10-28",
   "latitude": 50.756537502895,
   "longitude": -1.872981603635,
@@ -128,29 +128,131 @@
   ],
   "names_on_memorial": 9,
   "died_count": 9,
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=the-flight",
+      "summary": "How the three-minute flight unfolded: the dropped port wing at 300 ft, eyewitness reports of an engine fire, and the likely track to Moordown.",
+      "key_details": [
+        "Flight lasted about three minutes and under 10 miles",
+        "Port wing 'seen to drop' about two minutes after take-off, per the AM1180 record card",
+        "Several eyewitnesses reported an engine on fire; the official papers do not mention it",
+        "Aircraft probably struck the ground inverted after a stall spin"
+      ],
+      "link_description": "Read 'The Flight' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=the-tail-problem",
+      "summary": "Why the Halifax II's triangular tail fins were dangerous, and how that sealed JP137's fate once an engine failed.",
+      "key_details": [
+        "Secret Boscombe Down tests in 1943 showed the fins could overbalance and lock the rudder",
+        "The Mk III Halifax got larger rectangular fins and Hercules engines",
+        "JP137 was almost new but still had the early fins"
+      ],
+      "link_description": "Read 'The Tail Problem' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=the-civilians",
+      "summary": "The two Moordown residents killed, and the families who escaped.",
+      "key_details": [
+        "Dorothea Bennett, 59, died at 9 Meadow Court; her daughter Dr Margaret Bennett escaped and was traced, aged 96, in 2012",
+        "Percy Chislett, 49, died at 1027 Wimborne Road; his wife Mary and son John escaped through an upstairs window"
+      ],
+      "link_description": "Read 'The Civilians' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=the-aircrew",
+      "summary": "Photographs and war graves certificates for all seven crew, and what their mission was likely to be.",
+      "key_details": [
+        "Probably selected for SOE special duties",
+        "Likely bound for 624 Squadron at Blida, Algeria, possibly 614 Squadron"
+      ],
+      "link_description": "Read 'The Aircrew' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=the-campaign",
+      "summary": "How the committee set the record straight for the pilot's family.",
+      "key_details": [
+        "The Evans family had long believed Denis was blamed",
+        "The official papers attached no real blame to him",
+        "The RAF Air Historical Branch confirmed this in January 2012, and the family was formally told",
+        "Covered by the Daily Mail, BBC Inside Out and Meridian TV in 2011 and 2012"
+      ],
+      "link_description": "Read 'The Campaign' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=collateral-damage",
+      "summary": "Civil Defence photographs of the burnt-out cottages and the families who lost their homes.",
+      "key_details": [
+        "Four cottages at 1025 to 1031 Wimborne Road destroyed: the Wyeth, Chislett, Fathers and Evans families",
+        "Telegram to Peter Evans's wife: 'HOME BURNT COME HOME'"
+      ],
+      "link_description": "Read 'Collateral Damage' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=memorial-design",
+      "summary": "David Atkinson's sketches and how the design was agreed.",
+      "key_details": [
+        "Vice-chairman David Atkinson, former MP for Bournemouth East, shaped the design",
+        "Made by Mark Shearman of Living Stones (Tapper Funeral Services)"
+      ],
+      "link_description": "Read 'Memorial Design' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Moordown Halifax Memorial (jp137.com)",
+      "original_url": "https://jp137.com/index.php?slab=evelyn-cleverly-obe",
+      "summary": "The navigator's sister, who spoke for the families at the dedication.",
+      "key_details": [
+        "Sister of Sgt Henry Roberts; served as a WRNS officer; OBE for work with the Sea Cadets",
+        "Died 4 September 2013, in her 98th year"
+      ],
+      "link_description": "Read 'Evelyn Cleverly OBE' on jp137.com",
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/40/446/large_66526_mark_newton__3_march_2016.jpg"
   ],
-  "community_connection": "Organised by the Moordown 2010 Committee for Bournemouth's bicentenary and unveiled in July 2011. The Moordown Local History Society keeps the memorial's story at jp137.com, and anniversaries are still marked at the stone.",
+  "community_connection": "The memorial exists because Moordown wanted to give something to Bournemouth's bicentenary in 2010. The Moordown 2010 Committee was formed to find that contribution, and chose to remember the night JP137 came down. Its vice-chairman, David Atkinson, MP for Bournemouth East for 28 years, sketched the design himself. The committee traced the families of all nine victims, including Dr Margaret Bennett, then 96, who still remembered the night. It found photographs and war graves certificates for all seven crew. Evelyn Cleverly OBE, sister of the navigator Henry Roberts, spoke for the families: \"This is a personal one, which we shall all cherish so much.\" The committee's research, photographs, documents and film of the dedication are kept at jp137.com, part of the Moordown Local History Society's pages. The 70th and 80th anniversaries have both been marked at the stone.",
   "last_validated": "2026-10-28",
   "crew_summary": "7 crew, all killed, and 2 Moordown residents killed on the ground",
   "station": "Hurn",
   "operation_type": "Transit",
-  "cause_of_loss": "Crashed shortly after take-off from RAF Hurn. The official report blamed the pilot; eyewitnesses reported an engine on fire before impact",
+  "cause_of_loss": "Engine failure and fire on take-off from RAF Hurn; the Halifax II's triangular tail fins were prone to rudder overbalance, and the aircraft fell into a stall spin",
   "maintainer": {
-    "organisation": "Moordown 2010 Committee (memorial organisers); Moordown Local History Society (jp137.com)",
+    "organisation": "Moordown 2010 Committee",
     "maintainer_type": "local-history-group",
-    "website": "https://www.jp137.com",
-    "notes": "The memorial was organised by the Moordown 2010 Committee. The Moordown Local History Society runs jp137.com, the memorial's website, and can be contacted through its feedback form. Moordown is unparished; the local authority is BCP Council (Moordown ward)."
+    "website": "https://jp137.com",
+    "notes": "The memorial was commissioned and dedicated by the Moordown 2010 Committee. Its research and records are published at jp137.com alongside the Moordown Local History Society pages, which take enquiries through a contact form. Moordown is unparished; the local authority is BCP Council (Moordown ward)."
   },
   "local_contacts": [
     {
-      "org_name": "Moordown Local History Society",
+      "org_name": "Moordown 2010 Committee / Moordown Local History Society",
       "org_type": "local_history",
-      "role": "Runs jp137.com, the memorial's website",
-      "website": "https://www.jp137.com"
+      "role": "Created the memorial and keeps its history at jp137.com (contact via the site's feedback form)",
+      "website": "https://jp137.com"
     },
     {
       "org_name": "BCP Council, Moordown ward councillors",
