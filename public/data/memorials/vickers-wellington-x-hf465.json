@@ -4,32 +4,159 @@
   "location_name": "Bridgemere, Crewe And Nantwich",
   "county": "Cheshire",
   "country": "United Kingdom",
-  "aircraft_type": "Wellington",
+  "aircraft_type": "Vickers Wellington X",
   "serial_number": "HF465",
-  "squadron": "",
+  "squadron": "12 Operational Training Unit",
   "crash_date": "1944-10-20",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Black tablet on a small grey brick plinth in semicircular, kerbed flower bed.",
-  "inscription": "R.A.F./ WELLINGTON X, HF 465 OF 12 O.T.U./ DISINTEGRATED OVER BRIDGEMERE 20. 10. 1944/ IN MEMORY OF THE R.A.F.V.R. CREW./ (Names)/ \"THEY GAVE THEIR TOMORROW FOR OUR TODAY\"/ SURVIVOR/ (Names)",
+  "memorial_details": "Black tablet on a small grey brick plinth in semicircular, kerbed flower bed.\n\nIBCC gives the date as 28 October 1944; the memorial inscription, as transcribed by IWM, reads 20 October 1944.\n\nThe black tablet in a lay-by on the A51 was built by volunteers from donated materials and dedicated in October 2003.",
+  "inscription": "R.A.F. / WELLINGTON X, HF 465 OF 12 O.T.U. / DISINTEGRATED OVER BRIDGEMERE 20. 10. 1944 / IN MEMORY OF THE R.A.F.V.R. CREW",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/53412",
       "type": "official_database"
+    },
+    {
+      "title": "Timperley, Leonard Joseph",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/123453",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Bridgemere War Memorial",
+      "type": "researched",
+      "url": "https://blhs.co.uk/bridgemere-war-memorial",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "70th anniversary of tragic crash",
+      "type": "community",
+      "url": "https://www.audlem.org/news/70th-anniversary-of-tragic-crash.html",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "Wellington X HF465 of 12 Operational Training Unit, based at Chipping Warden, was on a daytime training flight when it broke up over Bridgemere, Cheshire. IBCC records the cause as loss of control while descending through cloud. Seven men were aboard and six died. The six who died were Flight Sergeant Leonard Joseph Timperley (pilot, 20), Pilot Officer Cecil Frank Holmes (29), and Sergeants Laurence Edwin Harrison (24), James David Milne (32), Arthur Fred Baker (35) and Ronald Whiteley (23). Timperley is buried at Chester (Blacon) Cemetery. IWM spells the third sergeant's surname Milnes; IBCC and the local history page give Milne. The navigator, Sergeant Douglas Hollis Wilson, survived; IBCC says the aircraft threw him clear, while a local news item says he baled out before it broke up.",
+  "crew": [
+    {
+      "name": "Leonard Joseph Timperley",
+      "rank": "Flight Sergeant",
+      "role": "Pilot",
+      "age": 20,
+      "service_number": "1544917",
+      "nationality": "British (RAFVR)",
+      "fate": "Killed",
+      "burial_location": "Chester (Blacon) Cemetery, Sec. A. Grave 1027",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/123453",
+      "hometown": "Stretford, Lancashire"
+    },
+    {
+      "name": "Douglas Stewart Hollis Wilson",
+      "rank": "Sergeant",
+      "role": "Navigator",
+      "age": 22,
+      "fate": "Survived",
+      "hometown": "Sutton Coldfield"
+    },
+    {
+      "name": "Arthur Fred Baker",
+      "rank": "Sergeant",
+      "role": "Air gunner",
+      "age": 35,
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/100876"
+    },
+    {
+      "name": "Ronald Whiteley",
+      "rank": "Sergeant",
+      "role": "Air gunner",
+      "age": 23,
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/125113"
+    },
+    {
+      "name": "Cecil Frank Holmes",
+      "rank": "Pilot Officer",
+      "age": 29,
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/111074"
+    },
+    {
+      "name": "Laurence Edwin Harrison",
+      "rank": "Sergeant",
+      "role": "Air bomber",
+      "age": 24,
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110083"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-28",
   "latitude": 53.003716766093,
   "longitude": -2.420600213771,
   "grid_ref": "SJ 72327",
-  "photos": [],
+  "photos": [
+    {
+      "filename": "vickers-wellington-x-hf465/53412.jpg",
+      "caption": "The Wellington HF465 memorial tablet at Bridgemere",
+      "credit": "Rob Blythe, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/53412.jpg"
+    }
+  ],
   "names_on_memorial": 7,
   "died_count": 6,
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/53412",
+      "summary": "IWM record and our capture. Gives the inscription and seven names on the stone, six crew and a survivor heading.",
+      "key_details": [
+        "Inscription reads 20. 10. 1944",
+        "Seven names listed",
+        "Roadside tablet in A51 lay-by"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/123453",
+      "summary": "Loss record for the pilot. Gives date, unit, take-off station, cause and the five other dead by surname. The other IBCC records were rate-limited and not read in full.",
+      "key_details": [
+        "Died 28 October 1944",
+        "12 OTU, Chipping Warden, daytime training",
+        "Buried Chester (Blacon) Cemetery",
+        "Navigator thrown clear"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Bridgemere local history pages (blhs.co.uk)",
+      "original_url": "https://blhs.co.uk/bridgemere-war-memorial",
+      "summary": "Local history page naming the crew with roles and ages, the survivor, the cause as judged by the writer, and how the memorial came about.",
+      "key_details": [
+        "Memorial built by volunteers from donated materials",
+        "Prompted by widow Marjorie Harrison's 2000 visit",
+        "Dedicated October 2003"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "AudlemOnline",
+      "original_url": "https://www.audlem.org/news/70th-anniversary-of-tragic-crash.html",
+      "summary": "2014 local news item on the 70th anniversary service at the lay-by memorial. Says the survivor baled out before the aircraft broke up.",
+      "key_details": [
+        "Training exercise in bad weather",
+        "Prince Hill, Bridgemere",
+        "Survivor Sgt Douglas Stewart Hollis Wilson"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/171/36/large_53412c.jpg",
@@ -37,7 +164,12 @@
     "https://media.iwm.org.uk/ciim5/memorials/171/34/large_53412a.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/51/58/large_53412.jpg"
   ],
-  "last_validated": "2026-04-13",
+  "last_validated": "2026-10-28",
   "crash_date_review": "Auto-corrected to 20.10.1944 but reverted — text date, not ISO",
-  "community_connection": ""
+  "community_connection": "The inscription names the crew as RAFVR and lists the survivor separately. A local history page says it came about after Marjorie Harrison, widow of Sergeant Harrison, visited the site in 2000.",
+  "station": "RAF Chipping Warden",
+  "operation_type": "Daytime training flight",
+  "cause_of_loss": "Lost control while descending through cloud and disintegrated, throwing the navigator clear",
+  "dedication_date": "2003-10",
+  "erected_by": "Volunteers, using donated materials"
 }

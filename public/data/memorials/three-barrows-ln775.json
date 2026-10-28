@@ -1,29 +1,34 @@
 {
   "id": "three-barrows-ln775",
   "title": "Three Barrows Mk.X Memorial",
-  "location_name": "Three Barrows, Dartmoor, Devon (Dartmoor)",
+  "location_name": "Three Barrows Hill, Dartmoor, Devon",
   "county": "Devon",
   "country": "United Kingdom",
   "region_code": "SW-002",
   "crash_date": "1944-03-01",
-  "aircraft_type": "Wellington Mk.X",
+  "aircraft_type": "Vickers Wellington B Mk X",
   "serial_number": "LN775",
-  "squadron": "Bomber Command",
+  "squadron": "3 Overseas Aircraft Dispatch Unit (3 OADU)",
   "crew_summary": "4 killed",
-  "memorial_type": "Crash site marker",
+  "memorial_type": "Temporary memorial at the crash site listing the four crew",
   "sources": [
     {
       "title": "Legendary Dartmoor",
       "type": "website"
+    },
+    {
+      "title": "Three Barrows, crash site of Vickers Wellington B Mk X LN775",
+      "type": "researched",
+      "url": "https://dartmoorexplorations.co.uk/three-barrows-crash-site-of-vickers-wellington-b-mk-x-ln775/",
+      "date": "2026-10-28"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-10-28",
   "data_quality": "Partial",
   "latitude": 50.4476371,
   "longitude": -3.8983431,
   "maintainer": {
-    "organisation": "Dartmoor National Park Authority",
     "website": "https://www.dartmoor.gov.uk",
     "maintainer_type": "military"
   },
@@ -45,16 +50,23 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore the Wellington Mk.X crash site's location and remnants at Three Barrows in Dartmoor artefacts database."
-    }
-  ],
-  "local_contacts": [
+    },
     {
-      "org_name": "Exeter Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/devon/"
+      "source_site": "Dartmoor Explorations",
+      "original_url": "https://dartmoorexplorations.co.uk/three-barrows-crash-site-of-vickers-wellington-b-mk-x-ln775/",
+      "summary": "Blog post on the crash site. Says the Wellington flew into the hillside north east of the central barrow in cloud on 1 March 1944, killing all four crew, and was found by hikers three days later. Lists four names under a temporary memorial at the site.",
+      "key_details": [
+        "Wellington B Mk X LN775, 1 March 1944",
+        "3 OADU, RAF Hurn, transfer flight to Mediterranean Air Command at Rabat",
+        "drifted 25 miles off route",
+        "temporary memorial lists P/O Frederick Cooke, F/Sgt William Jack, F/Sgt Alfred Beeston, Sgt John Yeates",
+        "site is a scar with a few small pieces of aircraft"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
     }
   ],
+  "local_contacts": [],
   "what3words": "envoy.bottled.grudge",
   "location_confidence": {
     "status": "confirmed",
@@ -69,7 +81,31 @@
   ],
   "crash_category": "unknown",
   "narrative_quality_score": 0,
-  "narrative": "Wellington LN775, a Mk.X bomber assigned to Bomber Command, was on a flight over southwest England on 1 March 1944 when it came down on the high moorland at Three Barrows, Dartmoor, Devon. The precise cause of the crash is not recorded in available sources, though the exposed terrain and unpredictable weather conditions of Dartmoor presented serious hazards to low-flying aircraft. All four crew members aboard were killed. Fragments of the aircraft remain at the site today, preserved in the moorland landscape as a quiet testament to those lost.",
-  "narrative_source": "generated-claude-sonnet",
-  "community_connection": "The memorial is maintained by Dartmoor National Park Authority. Exeter Royal British Legion supports the memorial."
+  "narrative": "Vickers Wellington B Mk X LN775 was lost on 1 March 1944. It belonged to 3 Overseas Aircraft Dispatch Unit at RAF Hurn, Dorset, and was on a transfer flight to Mediterranean Air Command at Rabat, Morocco. It drifted about 25 miles off the briefed route and flew into the hillside at Three Barrows Hill on Dartmoor in cloud. All four crew were killed. Dartmoor Explorations names them as Pilot Officer Frederick Cooke, Flight Sergeants William Jack and Alfred Beeston, and Sergeant John Yeates. Their roles, ages, service numbers and burial places are not yet confirmed from CWGC or IBCC.",
+  "narrative_source": "researched-dossier",
+  "community_connection": "A temporary memorial at the site lists the four crew. No source found says who looks after it.",
+  "station": "RAF Hurn, Dorset",
+  "operation_type": "Transfer flight to Mediterranean Air Command, Rabat, Morocco",
+  "cause_of_loss": "Flew into the hillside in cloud after drifting about 25 miles off the briefed route",
+  "died_count": "4",
+  "names_on_memorial": "P/O Frederick Cooke; F/Sgt William Jack; F/Sgt Alfred Beeston; Sgt John Yeates",
+  "crew": [
+    {
+      "name": "Frederick Cooke",
+      "rank": "Pilot Officer"
+    },
+    {
+      "name": "William Jack",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "Alfred Beeston",
+      "rank": "Flight Sergeant"
+    },
+    {
+      "name": "John Yeates",
+      "rank": "Sergeant"
+    }
+  ],
+  "last_validated": "2026-10-28"
 }

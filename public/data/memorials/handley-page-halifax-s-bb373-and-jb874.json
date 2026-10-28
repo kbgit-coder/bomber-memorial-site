@@ -1,8 +1,8 @@
 {
   "id": "handley-page-halifax-s-bb373-and-jb874",
   "title": "Handley Page Halifax's BB373 and JB874",
-  "location_name": "Tickton, East Yorkshire",
-  "county": "Antrim",
+  "location_name": "Hull Bridge, Tickton, near Beverley, East Riding of Yorkshire",
+  "county": "East Riding of Yorkshire",
   "country": "United Kingdom",
   "aircraft_type": "Halifax",
   "serial_number": "BB373",
@@ -10,111 +10,278 @@
   "crash_date": "1943-08-24",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular, black granite tablet with 78 squadron crest top centre, mounted on the side of a river bridge. Dedication in gold, capital letters.",
-  "inscription": "DEDICATED TO THE AIRCREW OF/ 78 SQUADRON/ WHO LOST THEIR LIVES/ FOLLOWING A COLLISION IN FOG BETWEEN/ TWO HALIFAX BOMBERS BB373 EY-K - JBB874 EY-E/ OVER HULL BRIDGE, TICKTON/ AT 04:30 HOURS ON 24TH AUGUST 1943/ Flt Sgt George Goodall Bell/ Sgt Albert Eric Lester/ P/O Edward Platt/ Sgt William Leslie Clarke/ Flt Sgt David Claude Melville Walton/ Sgt Robert Bernard Fletcher/ Sgt A Lee / Fg Off Charles James Keirl/ Sgt Charles Henry Hilton/ Sgt Frederick Roberts/ ONE REMAINING SURVIVOR/ (name)",
+  "inscription": "Dedicated to the aircrew of 78 Squadron who lost their lives following a collision in fog between two Halifax bombers BB373 EY-K and JB874 EY-E over Hull Bridge, Tickton at 04:30 hours on 24th August 1943; names; ONE REMAINING SURVIVOR",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/98870",
       "type": "official_database"
+    },
+    {
+      "title": "Handley Page Halifax's BB373 and JB874 (IWM WMR 98870)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/memorial/98870",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Halifax BB373 and JB874 collision, Hull Bridge (BB373 page)",
+      "type": "researched",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/bb373.html",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Halifax JB874, Hull Bridge, Tickton",
+      "type": "researched",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb874.html",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Pilot Officer Edward Platt 137558, Navigator, 78 Squadron",
+      "type": "official",
+      "url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "RAF 78 Squadron",
+      "type": "community",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/229912",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "Two Halifax bombers of 78 Squadron, BB373 and JB874, took part in the Berlin raid on the night of 23/24 August 1943. Both had bombed and were coming back to Yorkshire when they were told to land away from base. The researcher's page says they were sent first to Leconfield and then on to Hutton Cranswick; the accident record card, quoted by CWGC, says they were diverted from Breighton because of poor weather. At about 04:30 they collided over Hull Bridge at Tickton, about two miles north-east of Beverley. The memorial inscription gives fog as the cause.\n\nAll eight men aboard BB373 died. They were pilot George Bell, second pilot Ronald Gilbert, engineer Albert Lester, navigator Edward Platt, bomb aimer William Clarke, wireless operator and gunner Arthur Lee, and air gunners David Walton and Robert Fletcher. Bell was a New Zealander and Walton an Australian; both are buried at Harrogate. Six of the seven aboard JB874 died: pilot Charles Keirl, engineer Ernest Scorey, navigator Harry Baylis, bomb aimer Henry Raymond Jones, wireless operator Charles Hilton and gunner Frederick Roberts. The seventh man, Sgt J. Greet, was seriously injured and spent about five years recovering. The researcher notes that 78 Squadron lost five aircraft and 31 airmen that night.",
   "crew": [
     {
       "rank": "Flt Sgt",
       "name": "George Goodall Bell",
-      "role": "Crew",
+      "role": "Pilot (BB373)",
       "nationality": "New Zealander",
       "fate": "Killed",
-      "age": 21
+      "age": 21,
+      "service_number": "NZ42361",
+      "burial_location": "Harrogate (Stonefall) Cemetery"
     },
     {
-      "rank": "Sgt",
-      "name": "Albert Eric Lester",
-      "role": "Crew",
+      "rank": "F/O",
+      "name": "Charles James Keirl",
+      "role": "Pilot (JB874)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 21
+      "age": 23,
+      "service_number": "133026",
+      "burial_location": "Queensgate Cemetery, Beverley"
+    },
+    {
+      "name": "Ronald Reid Gilbert",
+      "role": "Second Pilot (BB373)",
+      "age": 21,
+      "service_number": "156089",
+      "fate": "Killed",
+      "burial_location": "Warriston, Edinburgh",
+      "rank": "P/O"
     },
     {
       "rank": "P/O",
       "name": "Edward Platt",
-      "role": "Navigator",
+      "role": "Navigator (BB373)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 29
+      "age": 29,
+      "service_number": "137558",
+      "burial_location": "Bury, Lancashire"
+    },
+    {
+      "name": "Harry William Baylis",
+      "rank": "F/O",
+      "role": "Navigator (JB874)",
+      "age": 25,
+      "service_number": "136528",
+      "fate": "Killed",
+      "burial_location": "Queensgate Cemetery, Beverley"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Albert Eric Lester",
+      "role": "Flight Engineer (BB373)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 21,
+      "service_number": "1214074",
+      "burial_location": "Nottingham Road Cemetery, Derby"
+    },
+    {
+      "name": "Ernest Bertram Frank Scorey",
+      "rank": "Sgt",
+      "role": "Flight Engineer (JB874)",
+      "age": 19,
+      "service_number": "1628705",
+      "fate": "Killed",
+      "burial_location": "South Stoneham Cemetery, Hampshire"
     },
     {
       "rank": "Sgt",
       "name": "William Leslie Clarke",
-      "role": "Crew",
+      "role": "Bomb Aimer (BB373)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 21
+      "age": 21,
+      "service_number": "1439792",
+      "burial_location": "Newton le Willows, Lancashire"
     },
     {
-      "rank": "Flt Sgt",
-      "name": "David Claude Melville Walton",
-      "role": "Crew",
-      "nationality": "Australian",
+      "name": "Henry Raymond Jones",
+      "rank": "Sgt",
+      "role": "Bomb Aimer (JB874)",
+      "age": 21,
+      "service_number": "1419935",
       "fate": "Killed",
-      "age": 24
+      "burial_location": "Pen-y-groes Chapelyard, Carmarthenshire"
     },
     {
       "rank": "Sgt",
-      "name": "Robert Bernard Fletcher",
-      "role": "Crew",
+      "name": "Arthur Lee",
+      "role": "Wireless Operator/Air Gunner (BB373)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 19
-    },
-    {
-      "rank": "Sgt",
-      "name": "A Lee",
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Fg Off",
-      "name": "Charles James Keirl",
-      "role": "Pilot",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 23
+      "age": 22,
+      "service_number": "1134570",
+      "burial_location": "Salford, Lancashire"
     },
     {
       "rank": "Sgt",
       "name": "Charles Henry Hilton",
-      "role": "Wireless Operator/Air Gunner",
+      "role": "Wireless Operator/Air Gunner (JB874)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 29
+      "age": 29,
+      "service_number": "1208584",
+      "burial_location": "Yelden Churchyard, Bedfordshire"
+    },
+    {
+      "rank": "Flt Sgt",
+      "name": "David Claude Melville Walton",
+      "role": "Air Gunner (BB373)",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "age": 24,
+      "service_number": "412043",
+      "burial_location": "Harrogate (Stonefall) Cemetery"
+    },
+    {
+      "rank": "Sgt",
+      "name": "Robert Bernard Fletcher",
+      "role": "Air Gunner (BB373)",
+      "nationality": "British",
+      "fate": "Killed",
+      "age": 19,
+      "service_number": "1811231",
+      "burial_location": "Morden, Surrey"
     },
     {
       "rank": "Sgt",
       "name": "Frederick Roberts",
-      "role": "Air Gunner",
+      "role": "Air Gunner (JB874)",
       "nationality": "British",
       "fate": "Killed",
-      "age": 21
+      "age": 21,
+      "service_number": "649066",
+      "burial_location": "Anfield Cemetery, Liverpool"
+    },
+    {
+      "name": "J. Greet",
+      "rank": "Sgt",
+      "role": "Air Gunner (JB874)",
+      "fate": "Survived: seriously injured, hospitalised, about five years recovering"
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-28",
   "latitude": 53.860893041193,
   "longitude": -0.396839804948,
   "grid_ref": "TA 05532",
-  "photos": [],
-  "names_on_memorial": 10,
-  "died_count": 10,
+  "photos": [
+    {
+      "filename": "handley-page-halifax-s-bb373-and-jb874/ey_tickton_4.jpg",
+      "caption": "The 78 Squadron memorial tablet at Hull Bridge, Tickton",
+      "credit": "Tony Hibberd - IBCC, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/ey_tickton_4.jpg"
+    }
+  ],
+  "names_on_memorial": 15,
+  "died_count": 14,
   "custodian": "Tickton and Routh Parish Council",
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/memorial/98870",
+      "summary": "Our capture of the IWM entry. Gives the address on the east abutment of the footbridge over the Hull River, Weel Street, Tickton, East Riding of Yorkshire, and 15 names on the memorial.",
+      "key_details": [
+        "TA 05532 41710",
+        "15 names listed",
+        "photos credited Tony Hibberd - IBCC"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "yorkshire-aircraft.co.uk",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/bb373.html",
+      "summary": "Regional crash researcher's account of the collision, with a full table of the eight BB373 crew: rank, service number, age, home town and burial. The page title misprints the serial as BB393.",
+      "key_details": [
+        "BB373 crew all killed",
+        "collision 04:30 over Hull Bridge",
+        "78 Squadron lost five aircraft and 31 airmen that night"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "yorkshire-aircraft.co.uk (JB874 page)",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb874.html",
+      "summary": "Same researcher's page for JB874, with the seven-man crew table. Six died; Sgt J. Greet was seriously injured and spent about five years recovering. Does not name the BB373 crew.",
+      "key_details": [
+        "Greet only survivor, no first name",
+        "two of the dead may have died of injuries"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/stories/stories/pilot-officer-edward-platt-137558-navigator-78-squadron-raf-bomber-command/",
+      "summary": "CWGC story about Platt. Cites the accident record card: the aircraft were diverted from Breighton, Leconfield could not take them, and they collided on the way to Hutton Cranswick. Lists the BB373 crew.",
+      "key_details": [
+        "Platt on IBCC Panel 226",
+        "family memorial at Bury Cemetery, Redvales"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/229912",
+      "summary": "Entry for the plaque at Hull Bridge. Lists the 14 dead and Sgt J. Greet as survivor. No county, builder, dedication date or custodian given; custodian field open for claiming.",
+      "key_details": [
+        "WMO 229912",
+        "custodian: Information Required"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/126/10/large_ey_tickton_2.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/126/9/large_ey_tickton_4.jpg"
   ],
-  "community_connection": "local people affected, HULL BRIDGE, TICKTON"
+  "station": "Breighton",
+  "operation_type": "Bombing",
+  "operation_target": "Berlin",
+  "cause_of_loss": "Collision in fog over Hull Bridge, Tickton, at about 04:30 after being diverted to Hutton Cranswick",
+  "memorial_name": "Handley Page Halifax's BB373 and JB874",
+  "memorial_address": "East abutment of the footbridge over the Hull River, Weel Street, Tickton, HU17 9SB",
+  "maintainer": {
+    "organisation": "Tickton and Routh Parish Council"
+  },
+  "last_validated": "2026-10-28"
 }

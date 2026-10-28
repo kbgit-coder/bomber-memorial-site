@@ -6,24 +6,46 @@
   "country": "United Kingdom",
   "region_code": "NH-005",
   "crash_date": "1941-10-20",
-  "aircraft_type": "Wellington R.1037",
-  "squadron": "12 OTU",
+  "aircraft_type": "Vickers Wellington",
+  "squadron": "12 Operational Training Unit",
   "station": "Chipping Warden",
-  "crew_summary": "2 killed, 3 survived",
   "memorial_type": "Memorial plaque",
   "sources": [
     {
       "title": "Geograph",
       "type": "website"
+    },
+    {
+      "title": "Pilot Officer Kenneth Farnes (WMO/265170)",
+      "type": "community",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/265170",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Hayes, Cecil Harry",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/110290",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Pilot Officer Kenneth Farnes",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2762609/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Pilot Officer Cecil Harry Hayes",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2435002",
+      "date": "2026-10-28"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-10-28",
   "data_quality": "Partial",
   "latitude": 52.136,
   "longitude": -1.272,
   "maintainer": {
-    "organisation": "Chipping Warden and Edgcote Parish Council",
     "maintainer_type": "parish-council"
   },
   "external_narratives": [
@@ -51,21 +73,60 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "RAF Chipping Warden's history: WWII airfield training base for Avro Ansons and Vickers Wellingtons from 1941-45."
-    }
-  ],
-  "local_contacts": [
-    {
-      "org_name": "Daventry & District Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://counties.britishlegion.org.uk/counties/northamptonshire/local-rbl-branches/"
     },
     {
-      "org_name": "Chipping Warden and Edgcote Parish Council",
-      "org_type": "parish_council",
-      "role": "Local authority responsible for memorial upkeep"
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/265170",
+      "summary": "Record of a plaque on the side of a private house in Hogg Lane, Chipping Warden, for P/O Kenneth Farnes, pilot of 12 OTU Wellington R1037. No inscription, erector, dedication date or custodian is recorded.",
+      "key_details": [
+        "Plaque on private residence, Hogg Lane",
+        "Night flying training from Chipping Warden, 20 October 1941",
+        "Crashed in the village about 23:10 and burst into flames",
+        "Pilot killed, a second crewman died of injuries next day",
+        "Custodian fields: Information Required"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/110290",
+      "summary": "IBCC loss record for P/O Cecil Harry Hayes, RAFVR pilot, 12 OTU, Wellington R1037, buried Malden churchyard. Describes a night training flight that crashed in Chipping Warden village at 23:10 while going round again. Crew list names only Farnes K (died).",
+      "key_details": [
+        "Service number 108017",
+        "Burial Malden (St John the Baptist) Churchyard, grave 250",
+        "Crew list shows Farnes K (P/O) died",
+        "Hayes seriously injured, died 5am next day",
+        "Age not stated"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2762609/",
+      "summary": "CWGC record for P/O Kenneth Farnes, RAFVR, aged 30, died 20 October 1941, buried Brookwood Military Cemetery plot 21. A. 11.",
+      "key_details": [
+        "Service number 107977",
+        "Age 30",
+        "Brookwood Military Cemetery 21. A. 11."
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2435002",
+      "summary": "CWGC record for P/O Hayes, RAFVR, died 21 October 1941, buried Malden churchyard grave 250. Age not listed.",
+      "key_details": [
+        "Service number 108017",
+        "Died 21 October 1941"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
     }
   ],
+  "local_contacts": [],
   "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/12.jpg",
   "squadron_motto": "Leads the field",
   "what3words": "wanderers.expropriate.spiders",
@@ -80,7 +141,7 @@
   "squadron_aliases": [
     "12 OTU"
   ],
-  "narrative": "Wellington R.1037 was on a training sortie from RAF Chipping Warden, Northamptonshire, operated by 12 Operational Training Unit, which prepared aircrew for frontline bomber service. On 20 October 1941, the aircraft came down near the station itself. Those aboard included crew members Brumby, Newton, Jenner, Brathwaite, and Crompton, among others. Two of the crew were killed; three survived. The cause of the crash is not recorded in the available sources.",
+  "narrative": "Wellington R1037 of 12 Operational Training Unit took off from Chipping Warden on a night training flight on 20 October 1941. It crashed in Chipping Warden village at about 23:10 while attempting to go round again, and caught fire. Pilot Officer Kenneth Farnes was killed. Pilot Officer Cecil Harry Hayes was seriously injured and died of his injuries on 21 October. Farnes was 30 and is buried at Brookwood Military Cemetery; Hayes is buried in Malden churchyard.",
   "remembrance": {
     "events": [
       {
@@ -95,10 +156,32 @@
       }
     ]
   },
-  "crew": [],
+  "crew": [
+    {
+      "name": "Cecil Harry Hayes",
+      "rank": "Pilot Officer",
+      "role": "Pilot",
+      "service_number": "108017",
+      "nationality": "British",
+      "fate": "Seriously injured in the crash; died of his injuries on 21 October 1941",
+      "burial_location": "Malden (St John the Baptist) Churchyard, grave 250",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2435002",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110290"
+    },
+    {
+      "name": "Kenneth Farnes",
+      "rank": "Pilot Officer",
+      "age": 30,
+      "service_number": "107977",
+      "fate": "Killed in the crash, 20 October 1941",
+      "burial_location": "Brookwood Military Cemetery, Surrey, plot 21. A. 11.",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2762609/",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/107393"
+    }
+  ],
   "crash_category": "training",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet",
+  "narrative_source": "researched-dossier",
   "station_roll_names": [
     {
       "name": "Denman",
@@ -390,5 +473,11 @@
     }
   ],
   "crew_data_note": "Crew trimmed from 78 to 6. 72 additional names from station/OTU roll of honour moved to station_roll_names.",
-  "community_connection": "The memorial is maintained by Chipping Warden and Edgcote Parish Council."
+  "community_connection": "A plaque to Kenneth Farnes is fixed to the side of a private house in Hogg Lane, Chipping Warden.",
+  "serial_number": "R1037",
+  "operation_type": "Night flying training",
+  "cause_of_loss": "Crashed in Chipping Warden village at about 23:10 while attempting to go round again, and caught fire",
+  "died_count": "2",
+  "last_validated": "2026-10-28",
+  "memorial_details": "War Memorials Online records no inscription, builder, dedication date or custodian for it."
 }

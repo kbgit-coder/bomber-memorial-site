@@ -1,40 +1,276 @@
 {
   "id": "handley-page-halifax-lk794",
   "title": "Handley Page Halifax LK794",
-  "location_name": "Burchetts Green, Windsor And Maidenhead",
+  "location_name": "Burchetts Green",
   "county": "Berkshire",
   "country": "United Kingdom",
-  "aircraft_type": "Halifax",
+  "aircraft_type": "Halifax III",
   "serial_number": "LK794",
   "squadron": "578 Squadron",
   "crash_date": "1944-07-18",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Brushed stainless steel engraved plaque on oak stand.",
+  "memorial_details": "Brushed stainless steel engraved plaque on oak stand.\n\nIWM records the plaque as brushed stainless steel on an oak stand, unveiled on 18 July 1998, with the 578 Burn Association responsible for it.",
   "inscription": "ON THE MORNING OF 18 JULY 1944, 21 HALIFAX MK BIII/ BOMBERS OF 578 SQUADRON ROYAL AIR FORCE TOOK OFF/ FROM BURN IN NORTH YORKSHIRE TO ATTACK FORTIFIED/ VILLAGES NEAR CAEN IN FRANCE. ON THE OUTWARD FLIGHT/ LK-Q DEVELOPED A FIRE WHICH THE CREW WERE UNABLE/ TO CONTROL. THE PILOT MANAGED TO AVOID THE HEAVILY/ POPULATED AREAS OF READING AND MAIDENHEAD BEFORE/ THE AIRCRAFT EXPLODED AND PLUNGED INTO THIS WOOD./ MIRACULOUSLY THE CANADIAN REAR GUNNER MANAGED TO/ PARACHUTE TO SAFETY BUT THE REST OF THE CREW WERE LOST/ WITHOUT TRACE. THEIR NAMES, WHICH ARE RECORDED AT/ THE RAF MEMORIAL TO THE MISSING AT RUNNYMEDE ARE/ (Names)/ TREAD SOFTLY HERE FOR THIS IS HALLOWED GROUND",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/12805",
       "type": "official_database"
+    },
+    {
+      "title": "Handley Page Halifax LK794 (WMR 12805)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/memorial/12805",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Starkoff, Victor (IBCC Losses Database)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/226709/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Fink, Jan Frederick (IBCC Losses Database)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/209157",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Lest We Forget: Flying Officer Victor Starkoff DFC",
+      "type": "researched",
+      "url": "https://aviationmuseumwa.org.au/?p=24021",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Gerald Nicholson, NatWest Group Remembers",
+      "type": "researched",
+      "url": "https://natwestgroupremembers.com/our-fallen/our-fallen-ww2/n/gerald-nicholson.html",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Hopper, Lloyd Hinson, Canadian Fallen",
+      "type": "community",
+      "url": "https://canadianfallen.ca/95460/HOPPER",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Morgan, Ivor (IBCC Losses Database)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/219885",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Strakoff Victor, TracesOfWar",
+      "type": "community",
+      "url": "https://tracesofwar.com/persons/98861/Strakoff-Victor.htm",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "On the morning of 18 July 1944, 21 Halifax III bombers of 578 Squadron took off from Burn in North Yorkshire to attack fortified villages near Caen. One of them, coded LK-Q, caught fire on the outward flight and the crew could not put it out. The plaque says the pilot steered clear of Reading and Maidenhead before the aircraft exploded and fell into the wood where the memorial now stands.\n\nSix of the seven crew died. The Canadian rear gunner baled out and survived; the plaque says the others were lost without trace and are named on the Runnymede Memorial. The six names on the stone are the pilot, Flying Officer Victor Starkoff DFC of the RAAF, aged 33; navigator Pilot Officer Jan Fink, 26; wireless operator Pilot Officer Lloyde Hopper of the RCAF; air bomber Flight Sergeant Ivor Morgan, 20; flight engineer Sergeant Gerald Nicholson, 20, from Liverpool; and mid-upper gunner Flight Sergeant John Claque. An Australian museum page, which appears to copy the Australian War Memorial, names the surviving rear gunner as Flight Sergeant H C Sloan, RCAF.\n\nSources disagree on the serial. The IWM register and the IBCC losses database give LK794; the Australian museum page and Traces of War give LK974. Our record's LK794 follows the two institutional sources. The same museum page puts the crash at Bisham, while IWM places the memorial at Carpenters Wood, Burchetts Green; the two places are near each other.",
+  "crew": [
+    {
+      "name": "Victor Starkoff",
+      "rank": "Flying Officer",
+      "role": "Pilot",
+      "age": 33,
+      "service_number": "414432",
+      "nationality": "Australian",
+      "fate": "Killed",
+      "burial_location": "No known grave; Runnymede Memorial, Panel 258",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/226709/",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303546",
+      "decorations": "DFC"
+    },
+    {
+      "name": "Jan Frederick Fink",
+      "rank": "Pilot Officer",
+      "role": "Navigator",
+      "age": 26,
+      "service_number": "176585",
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/209157",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303547"
+    },
+    {
+      "name": "Gerald Thomas Nicholson",
+      "rank": "Sergeant",
+      "role": "Flight Engineer",
+      "age": 20,
+      "service_number": "1523535",
+      "fate": "Killed",
+      "hometown": "Liverpool",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303550"
+    },
+    {
+      "name": "Lloyde Hinson Hopper",
+      "rank": "Pilot Officer",
+      "role": "Wireless Operator",
+      "service_number": "J/86734",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303549"
+    },
+    {
+      "name": "John Edward Claque",
+      "rank": "Flight Sergeant",
+      "role": "Mid-Upper Gunner",
+      "service_number": "1588531",
+      "fate": "Killed",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303551"
+    },
+    {
+      "name": "H C Sloan",
+      "rank": "Flight Sergeant",
+      "role": "Rear Gunner",
+      "service_number": "R/194792",
+      "nationality": "Canadian",
+      "fate": "Survived; baled out"
+    },
+    {
+      "name": "Ivor Morgan",
+      "rank": "Flight Sergeant",
+      "role": "Air Bomber",
+      "age": 20,
+      "service_number": "1337960",
+      "fate": "Killed",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/219885",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1303548"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-28",
   "latitude": 51.535108450493,
   "longitude": -0.784688097567,
   "grid_ref": "SU 84390",
-  "photos": [],
+  "photos": [
+    {
+      "filename": "handley-page-halifax-lk794/halifax_fileminimizer.jpg",
+      "caption": "The Halifax LK794 plaque at Carpenters Wood, Burchetts Green",
+      "credit": "Paul Clarke, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/halifax_fileminimizer.jpg"
+    },
+    {
+      "filename": "handley-page-halifax-lk794/halifax_-_copy_fileminimizer.jpg",
+      "caption": "The Halifax LK794 plaque, second view",
+      "credit": "Paul Clarke, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/halifax_-_copy_fileminimizer.jpg"
+    }
+  ],
   "names_on_memorial": 6,
   "died_count": 6,
   "custodian": "578 BURN ASSOCIATION",
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/memorial/12805",
+      "summary": "Our capture of the IWM record. Gives the plaque inscription (578 Squadron, Burn to Caen, LK-Q fire, Canadian rear gunner baled out, six lost and commemorated at Runnymede), six names, location at Carpenters Wood off Dungrove Hill Lane, and two photos by Paul Clarke. Web search summaries of the live page add that the plaque was unveiled on 18 July 1998 and that the 578 Burn Association is responsible; the capture's History/Commemoration sections were empty.",
+      "key_details": [
+        "Carpenters Wood, Dungrove Hill Lane, Burchetts Green",
+        "six names",
+        "memorial title gives serial LK794"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/226709/",
+      "summary": "IBCC entry for Starkoff, F/O aged 33, DFC, died 18 July 1944, Halifax III serial LK794, markings LK-Q, 578 Squadron. The page itself returned HTTP 429 when fetched directly; details here come from a web search summary of the page and were not read in full.",
+      "key_details": [
+        "LK794 LK-Q",
+        "age 33",
+        "son of Alexis and Marie Starkoff, East Brisbane"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/209157",
+      "summary": "IBCC entry for Fink, P/O navigator aged 26, Halifax III LK794, fire on outward leg, explosion and crash between Reading and Maidenhead. Direct fetch got HTTP 429; content taken from a search summary.",
+      "key_details": [
+        "age 26",
+        "LK794",
+        "crash between Reading and Maidenhead"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Aviation Museum of Western Australia",
+      "original_url": "https://aviationmuseumwa.org.au/?p=24021",
+      "summary": "Reproduces Australian War Memorial roll-of-honour style text for Starkoff and lists the whole seven-man crew with ranks, service numbers, air forces, roles and fate. Names the aircraft as Halifax LK974, takeoff from Burn 0520 for Caen, starboard engine fire at 8,000 ft and a crash at Bisham, Berkshire. The text appears to derive from the AWM (service number page awm.gov.au/collection/P10317700), so it may not be independent of the AWM.",
+      "key_details": [
+        "serial given as LK974",
+        "crash place given as Bisham",
+        "crew table incl. survivor Sloan",
+        "Starkoff age 33, 414432 RAAF"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "NatWest Group Remembers",
+      "original_url": "https://natwestgroupremembers.com/our-fallen/our-fallen-ww2/n/gerald-nicholson.html",
+      "summary": "Staff memorial page for Sgt Gerald Thomas Nicholson RAFVR, born Liverpool 10 December 1923, died aged 20. Describes the 18 July 1944 flight from Burn: engine fire, pilot steering clear of populated areas, mid-air explosion, six of seven killed.",
+      "key_details": [
+        "born Liverpool 1923",
+        "age 20",
+        "parents Arthur Thomas and Julia Mary Nicholson",
+        "joined Westminster Bank Aigburth March 1940"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Canadian Fallen",
+      "original_url": "https://canadianfallen.ca/95460/HOPPER",
+      "summary": "Lists P/O Lloyd Hinson Hopper, J/86734, RCAF, died 18 July 1944, Runnymede Memorial. Read via search summary only. Veterans Affairs Canada Book of Remembrance (veterans.gc.ca/en/node/422019) lists him too, page 338.",
+      "key_details": [
+        "J/86734",
+        "RCAF",
+        "Runnymede Memorial"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/219885",
+      "summary": "IBCC entry for Morgan, F/S aged 20, 578 Squadron, 18 July 1944, Burn to Caen. Direct fetch got HTTP 429; content from a search summary.",
+      "key_details": [
+        "age 20",
+        "Burn, Caen operation"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Traces of War",
+      "original_url": "https://tracesofwar.com/persons/98861/Strakoff-Victor.htm",
+      "summary": "DFC database entry spelling the surname Strakoff; per a search summary it also gives the aircraft as LK974. Not opened in full.",
+      "key_details": [
+        "spelling Strakoff",
+        "LK974"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/51/833/large_halifax_fileminimizer.jpg"
   ],
-  "community_connection": "The memorial is maintained by 578 Burn Association.",
-  "last_validated": "2026-04-13"
+  "community_connection": "",
+  "last_validated": "2026-10-28",
+  "station": "Burn, North Yorkshire",
+  "operation_target": "Fortified villages near Caen, France",
+  "operation_type": "Tactical bombing in support of ground forces",
+  "cause_of_loss": "Uncontrollable fire on the outward flight; the aircraft exploded",
+  "memorial_address": "Carpenters Wood, Dungrove Hill Lane, Burchetts Green, Windsor And Maidenhead, Berkshire, SL6 6PE",
+  "dedication_date": "1998-07-18",
+  "maintainer": {
+    "organisation": "578 Burn Association"
+  }
 }

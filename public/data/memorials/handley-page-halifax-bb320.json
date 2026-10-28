@@ -4,9 +4,9 @@
   "location_name": "Near Werrington, Staffordshire Moorlands",
   "county": "Staffordshire",
   "country": "United Kingdom",
-  "aircraft_type": "Halifax",
+  "aircraft_type": "Halifax II",
   "serial_number": "BB320",
-  "squadron": "",
+  "squadron": "1656 Heavy Conversion Unit",
   "crash_date": "1944-02-07",
   "memorial_type": "Board / Plaque / Tablet",
   "memorial_details": "Rectangular brass plaque screwed onto a stone backplate and mounted on the wall of the Blakley Lane Methodist Chapel. Dedication is incised in black, lower-case script.",
@@ -16,61 +16,279 @@
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/97249",
       "type": "official_database"
+    },
+    {
+      "title": "Kerr, Hubert Lloyd",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/215496",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Richards, Ernest Charles David",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/223632",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Handley Page Halifax BB320 (WMR 97249)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/memorial/97249",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Murray, Kenneth",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/220407",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Joshua, William Desmond",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/215130",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Couling, Herbert John",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/205988",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Denny, Albert John",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/207250",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "LONG OVERDUE",
+      "type": "secondary",
+      "url": "https://www.pressreader.com/uk/leek-post-times/20200212/281522228092013",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Sergeant Albert John Denny",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2429829",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "It emerged from cloud spinning and crashed near Cheadle, Staffordshire, on 7 February 1944. All six crew died. The crew were Flying Officer Ernest Richards (pilot, 26), Flying Officer Hubert Kerr of the RCAF (air bomber, 28), Sergeant Kenneth Murray (navigator, 23), Sergeant Albert Denny (flight engineer, 28), Sergeant William Joshua (wireless operator/air gunner, 22) and Sergeant Herbert Couling (air gunner, 20). They were buried at Chester (Blacon) Cemetery (Richards, Kerr and Couling), Darlington West Cemetery (Murray), Sarn Cemetery (Joshua) and Streatham Cemetery (Denny).",
   "crew": [
     {
-      "rank": "Fg Off",
-      "name": "Hubert Lloyd Kerr",
-      "role": "Pilot",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "age": 28,
-      "service_number": "J/27159"
-    },
-    {
-      "rank": "Fg Off",
+      "rank": "F/O",
       "name": "Ernest Charles David Richards",
-      "role": "Crew",
+      "role": "Pilot",
       "nationality": "British",
       "fate": "Killed",
       "age": 26,
-      "service_number": "125875"
+      "service_number": "125875",
+      "burial_location": "Chester (Blacon) Cemetery, Sec. A, Grave 324",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/223632",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660570"
     },
     {
       "rank": "Sgt",
       "name": "Kenneth Murray",
-      "role": "Crew",
+      "role": "Navigator",
       "nationality": "British",
       "fate": "Killed",
       "age": 23,
-      "service_number": "1559341"
+      "service_number": "1559341",
+      "burial_location": "Darlington West Cemetery, Section V.7E, Grave 301",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/220407",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660566"
+    },
+    {
+      "name": "Albert John Denny",
+      "rank": "Sgt",
+      "role": "Flight Engineer",
+      "age": 28,
+      "service_number": "1863320",
+      "fate": "Killed",
+      "burial_location": "Streatham Cemetery, Block 14, Grave 98",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/207250",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660569",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2429829"
+    },
+    {
+      "name": "Herbert John Couling",
+      "rank": "Sgt",
+      "role": "Air Gunner",
+      "age": 20,
+      "service_number": "1582477",
+      "fate": "Killed",
+      "burial_location": "Chester (Blacon) Cemetery, Section A, Grave 41",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/205988",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660568"
+    },
+    {
+      "rank": "F/O",
+      "name": "Hubert Lloyd Kerr",
+      "role": "Air Bomber",
+      "nationality": "Canadian",
+      "fate": "Killed",
+      "age": 28,
+      "service_number": "J/27159",
+      "burial_location": "Chester (Blacon) Cemetery, Sec. A, Grave 675",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/215496",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660571"
     },
     {
       "rank": "Sgt",
       "name": "William Desmond Joshua",
-      "role": "Crew",
+      "role": "WOp/AG",
       "nationality": "British",
       "fate": "Killed",
       "age": 22,
-      "service_number": "1419221"
+      "service_number": "1419221",
+      "burial_location": "Sarn Cemetery, Grave 134",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/215130",
+      "iwm_name_url": "https://memorials.iwm.org.uk/name/1660567"
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-10-28",
   "latitude": 53.021308633987,
   "longitude": -2.042043722554,
   "grid_ref": "SJ 97276",
-  "photos": [],
+  "photos": [
+    {
+      "filename": "handley-page-halifax-bb320/bb320.jpg",
+      "caption": "The BB320 brass plaque on Blakeley Lane Methodist Chapel.",
+      "credit": "Martyn Horden, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/bb320.jpg"
+    }
+  ],
   "names_on_memorial": 6,
   "died_count": 6,
   "custodian": "Blakeley Lane Methodist Church",
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/215496",
+      "summary": "IBCC loss record for F/O Hubert Lloyd Kerr, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: Air Bomber",
+        "Age 28",
+        "Service number J/27159",
+        "Buried Chester (Blacon) Cemetery, Sec. A, Grave 675"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/223632",
+      "summary": "IBCC loss record for F/O Ernest Charles David Richards, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: Pilot",
+        "Age 26",
+        "Service number 125875",
+        "Buried Chester (Blacon) Cemetery, Sec. A, Grave 324"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/memorial/97249",
+      "summary": "IWM record for the brass plaque on Blakeley Lane Methodist Chapel, with six names, the inscription and a photograph by Martyn Horden. Read from our capture in research/iwm/.",
+      "key_details": [
+        "Brass plaque on stone backplate on chapel wall",
+        "Six names: Couling, Denny, Joshua, Kerr, Murray, Richards",
+        "Plaque unveiled 7 February 2020",
+        "Located 'Near Werrington'; OS grid SJ 97276 47113",
+        "No maintainer recorded in capture"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/220407",
+      "summary": "IBCC loss record for Sgt Kenneth Murray, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: Navigator",
+        "Age 23",
+        "Service number 1559341",
+        "Buried Darlington West Cemetery, Section V.7E, Grave 301"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/215130",
+      "summary": "IBCC loss record for Sgt William Desmond Joshua, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: WOp/AG",
+        "Age 22",
+        "Service number 1419221",
+        "Buried Sarn Cemetery, Grave 134"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/205988",
+      "summary": "IBCC loss record for Sgt Herbert John Couling, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: Air Gunner",
+        "Age 20",
+        "Service number 1582477",
+        "Buried Chester (Blacon) Cemetery, Section A, Grave 41"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/207250",
+      "summary": "IBCC loss record for Sgt Albert John Denny, 1656 HCU, Halifax II BB320 (-A2), died 7 Feb 1944. Gives trade, age, service number and burial. Loss reason: emerged from cloud spinning and crashed near Cheadle, Staffordshire; training night navigation exercise from Lindholme.",
+      "key_details": [
+        "Trade: Flight Engineer",
+        "Age 28",
+        "Service number 1863320",
+        "Buried Streatham Cemetery, Block 14, Grave 98"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "Leek Post & Times",
+      "original_url": "https://www.pressreader.com/uk/leek-post-times/20200212/281522228092013",
+      "summary": "Leek Post & Times report (12 Feb 2020) on the plaque unveiling at Blakeley Lane Chapel. Page returned 403 to a direct fetch, so its content was taken from search-result extracts only and is not verified against the full text.",
+      "key_details": [
+        "Training flight crashed about 6.30pm on 7 Feb 1944 on farmland about 200 yards from the A52, beside the chapel near Kingsley Moor",
+        "Six men died",
+        "Local historian Martyn Hordern rediscovered the story",
+        "Plaque funded by Kingsley Parish Council; RAF, parish councillors, Royal British Legion and residents attended the unveiling"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2429829",
+      "summary": "CWGC record for Sgt Albert John Denny, RAFVR, 1863320, age 28, died 7 February 1944, Streatham Cemetery Block 14 Grave 98.",
+      "key_details": [
+        "Agrees with IBCC on number, age, date and grave"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/116/505/large_bb320.jpg"
   ],
-  "community_connection": "The memorial is cared for by Blakeley Lane Methodist Church."
+  "community_connection": "A brass plaque on the wall of Blakeley Lane Methodist Chapel names the crew. It was unveiled on 7 February 2020. The Leek Post & Times reported that Kingsley Parish Council funded it, and that the story was rediscovered by local historian Martyn Hordern.",
+  "station": "RAF Lindholme",
+  "operation_type": "Training - night navigation exercise",
+  "cause_of_loss": "Emerged from cloud spinning, and crashed near Cheadle, Staffordshire",
+  "memorial_address": "Blakeley Lane Methodist Chapel, junction of Blakeley Lane and Cheadle Road (A52), ST10 2PS",
+  "dedication_date": "2020-02-07",
+  "last_validated": "2026-10-28"
 }

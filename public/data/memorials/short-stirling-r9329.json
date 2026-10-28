@@ -1,21 +1,21 @@
 {
   "id": "short-stirling-r9329",
   "title": "Short Stirling R9329",
-  "location_name": "Cornwood, South Hams",
+  "location_name": "Gibhill Wood, Cornwood, Dartmoor",
   "county": "Devon",
   "country": "United Kingdom",
-  "aircraft_type": "Stirling",
+  "aircraft_type": "Short Stirling I",
   "serial_number": "R9329",
   "squadron": "149 Squadron",
   "squadron_display_name": "149 Squadron RAF",
   "aircraft_code": "OJ-V",
   "station": "RAF Lakenheath",
-  "operation_type": "Operational",
+  "operation_type": "Minelaying (gardening)",
   "operation_detail": "Gardening (minelaying) — Gironde estuary; return flight",
   "cause_of_loss": "Fired on by shore defences crossing the coast near Plymouth on return; crashed 8 miles inland at 03:25",
   "crash_date": "1942-08-21",
-  "memorial_type": "Stone of remembrance",
-  "memorial_details": "Rectangular granite freestanding stone of remembrance. Lettering is carved in black.",
+  "memorial_type": "Stone of remembrance (granite pillar)",
+  "memorial_details": "Rectangular granite freestanding stone of remembrance. Lettering is carved in black.\n\nA granite pillar was set up at the crash site in 2011.",
   "inscription": "STIRLING BOMBER OF/ 149 SQDN RAF/ CRASHED HERE WITH/ THE LOSS OF/ 7 AIRCREW ON THE/ 21ST AUGUST 1942/ CREW:/ (Names)/ WE WILL REMEMBER THEM",
   "sources": [
     {
@@ -27,24 +27,149 @@
       "title": "Facebook post by Daran Walker (RAF Bomber Command Memorials group)",
       "url": "https://www.facebook.com/groups/1445802465656368/posts/4512001135703137/",
       "type": "social_media"
+    },
+    {
+      "title": "Gibhill Wood crash site of Short Stirling bomber R9329",
+      "type": "researched",
+      "url": "https://dartmoorexplorations.co.uk/gibhill-wood-crash-site-of-short-stirling-bomber-r9329/",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Robertson, Geoffrey Ernest",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/223984",
+      "date": "2026-10-28"
+    },
+    {
+      "title": "Nicholson, Lawrence Henry",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/220809",
+      "date": "2026-10-28"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "In the early hours of 21 August 1942 (03:25), Stirling R9329 (OJ-V) of 149 Squadron was returning to RAF Lakenheath from a gardening (minelaying) operation in the Gironde estuary when it went off course. Crossing the coast near Plymouth, the aircraft was fired on by shore defences and crashed 8 miles inland at Gibhill Wood, Cornwood, Devon. All seven crew were killed.",
-  "community_connection": "We Will Remember Them",
-  "crew": [],
+  "narrative": "Short Stirling R9329 of 149 Squadron left RAF Lakenheath at 2045 on 20 August 1942 to lay mines off the Gironde estuary near Bordeaux. It crashed in Gibhill Wood, near Cornwood on Dartmoor, at 0325 on 21 August 1942. All seven crew died. The navigator's log survived; its last entry, about ten minutes before the crash, read 03.15 completely lost.\n\nThe sources disagree on why it came down. Dartmoor Explorations reports that the RAF accident report found the aircraft probably damaged by ground defences over France and that it flew into rising ground and caught fire. IBCC says it is believed to have been hit by anti-aircraft fire over Plymouth on the return. Dartmoor Explorations also notes a suggestion of friendly fire over Plymouth from the brother of one crewman, with no conclusive evidence.\n\nThe pilot was Pilot Officer Geoffrey Ernest Robertson, aged 25, of the RAFVR. IBCC records him as a Pilot Officer; Dartmoor Explorations lists him as a Sergeant. The other six were all sergeants: Jenkins (22), Simpson (26), Harris (20), Nicholson (21, forward gunner), Clarke (25) and Bond (19), according to Dartmoor Explorations.",
+  "community_connection": "Four local men, Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone, began planning it in 2009. It was unveiled at a dedication service by David Nicholson, nephew of Sgt Lawrence Nicholson.",
+  "crew": [
+    {
+      "name": "Geoffrey Ernest Robertson",
+      "rank": "Pilot Officer",
+      "role": "Pilot",
+      "age": 25,
+      "service_number": "129249",
+      "burial_location": "Mortlake Crematorium, Surrey (Panel 9)",
+      "hometown": "Twickenham, Middlesex",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/223984"
+    },
+    {
+      "name": "Lawrence Henry Nicholson",
+      "rank": "Sergeant",
+      "role": "Forward (front) gunner",
+      "age": 21,
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/220809"
+    },
+    {
+      "name": "P E J Jenkins (Peter Edward James Jenkins)",
+      "rank": "Sergeant",
+      "age": 22
+    },
+    {
+      "name": "D R Simpson (Dennis Roy Simpson)",
+      "rank": "Sergeant",
+      "age": 26
+    },
+    {
+      "name": "D H Harris",
+      "rank": "Sergeant",
+      "age": 20
+    },
+    {
+      "name": "F S Clarke",
+      "rank": "Sergeant",
+      "age": 25
+    },
+    {
+      "name": "C J Bond (Cecil Jacques Bond)",
+      "rank": "Sergeant",
+      "age": 19
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-10-28",
   "latitude": 50.421873784994,
   "longitude": -3.980185397158,
   "grid_ref": "SX 59428",
-  "photos": [],
-  "names_on_memorial": 7,
-  "died_count": 7,
-  "external_narratives": [],
+  "photos": [
+    {
+      "filename": "short-stirling-r9329/69860.jpg",
+      "caption": "The granite stone of remembrance at Gibhill Wood",
+      "credit": "Fran Crayford, via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/images/69860.jpg"
+    }
+  ],
+  "names_on_memorial": "7",
+  "died_count": "7",
+  "external_narratives": [
+    {
+      "source_site": "Dartmoor Explorations",
+      "original_url": "https://dartmoorexplorations.co.uk/gibhill-wood-crash-site-of-short-stirling-bomber-r9329/",
+      "summary": "Crash-site page with the flight timings, crew list with ages, the RAF accident report finding, the friendly-fire suggestion by a crewman's brother, the surviving navigator's log, the 2011 granite pillar and the carved crosses on a beech tree.",
+      "key_details": [
+        "Departed Lakenheath 2045 on 20 Aug 1942",
+        "Crashed 0325 on 21 Aug 1942",
+        "Navigator's log last entry 03.15 completely lost",
+        "Pillar planned from 2009 by four local men",
+        "Unveiled by David Nicholson, nephew of Sgt Lawrence Nicholson"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/223984",
+      "summary": "IBCC record for the pilot, giving rank, age, service number, commemoration at Mortlake Crematorium, next of kin and the believed cause of loss. Also lists the other six crew and the memorials.",
+      "key_details": [
+        "Pilot Officer, pilot, RAFVR, 129249, age 25",
+        "Mortlake Crematorium Panel 9",
+        "Believed hit by anti-aircraft fire over Plymouth on return",
+        "Crashed 19 miles WSW of Torbay per IBCC",
+        "Memorial window at St George's Church, Methwold"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/69860",
+      "summary": "Our capture of the IWM entry. Granite stone of remembrance with carved black lettering at Delamore Estate, Cornwood. Seven names, initials only. Photo by Fran Crayford.",
+      "key_details": [
+        "Inscription: STIRLING BOMBER OF 149 SQDN RAF CRASHED HERE WITH THE LOSS OF 7 AIRCREW ON THE 21ST AUGUST 1942",
+        "Location Delamore Estate, Cornwood, PL21 9SD",
+        "Names: Bond, Clarke, Harris, Jenkins, Nicholson, Robertson, Simpson"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/220809",
+      "summary": "Seen only as a search-result summary (the page itself returned HTTP 429). Gives Sgt Lawrence Henry Nicholson, aged 21, posted to 149 Squadron on 28 June 1942, lost in R9329.",
+      "key_details": [
+        "Sgt Lawrence Henry Nicholson, 21",
+        "Posted to 149 Sqn 28 Jun 1942"
+      ],
+      "date_retrieved": "2026-10-28",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/63/583/large_69860_r.jpg"
   ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/149.jpg"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/149.jpg",
+  "operation_target": "Gironde estuary, near Bordeaux",
+  "dedication_date": "2011",
+  "erected_by": "Planned from 2009 by four local men: Gordon Fowell, Alan Graham, Peter Sandover and Ian Stone",
+  "memorial_address": "Delamore Estate, Cornwood, South Hams, Devon, PL21 9SD",
+  "last_validated": "2026-10-28"
 }
