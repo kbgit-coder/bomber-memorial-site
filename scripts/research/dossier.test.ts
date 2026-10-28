@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import { validate, crosscheck, apply, quality, type Dossier } from "./dossier";
+import { validate, crosscheck, apply, quality, photoFile, photoUrlOk, type Dossier } from "./dossier";
 
 const base = (): Dossier => ({
   memorial_id: "test-memorial", researched_at: "2026-10-28", custodian_status: "known",
@@ -145,6 +145,84 @@ describe("apply", () => {
     const r = apply(base(), record()).record;
     expect(r.narrative).toBe("Sgt Smith flew from Hurn.");
     expect(r.narrative_source).toBe("researched-dossier");
+  });
+});
+
+describe("review fixes (codex 2026-10-28)", () => {
+  const extra = (d: Dossier) => { d.sources.push({ id: "S6", url: "https://other.example.com/x", title: "Other", publisher: "Other Forum", tier: "community", retrieved: "2026-10-28" }); return d; };
+
+  test("two agreeing community publishers are corroboration but never accepted", () => {
+    const d = extra(base());
+    d.claims.push({ id: "C40", field: "erected_by", value: "Villagers", sources: ["S5", "S6"] });
+    const g = crosscheck(d).find(g => g.field === "erected_by")!;
+    expect(g.status).toBe("corroborated");
+    expect(g.accepted).toBeUndefined();
+  });
+
+  test("a page copying another source counts as the same publisher", () => {
+    const d = base();
+    d.sources.push({ id: "S7", url: "https://copy.example.com/x", title: "Copy", publisher: "Copy Site", tier: "researched", retrieved: "2026-10-28", copies_of: "S1" });
+    d.claims.push({ id: "C41", field: "station", value: "Hurn", sources: ["S1", "S7"] });
+    expect(crosscheck(d).find(g => g.field === "station")!.status).toBe("single");
+  });
+
+  test("a paragraph citing a held-back fact is not published", () => {
+    const d = base();
+    d.claims.push({ id: "C42", field: "erected_by", value: "Forum Claim", sources: ["S5"] });
+    d.paragraphs = [{ section: "narrative", text: "The forum says villagers built it.", cites: ["C42"] }];
+    const a = apply(d, { id: "t", crew: [], sources: [], narrative: "old" });
+    expect(a.record.narrative).toBe("old");
+    expect(a.droppedParagraphs.length).toBe(1);
+  });
+
+  test("presents_conflict must actually cite two versions", () => {
+    const d = base();
+    d.claims.push({ id: "C43", field: "cause_of_loss", value: "Icing", sources: ["S1"] }, { id: "C44", field: "cause_of_loss", value: "Lightning", sources: ["S3"] });
+    d.paragraphs = [{ section: "narrative", text: "It was icing.", cites: ["C43"], presents_conflict: true }];
+    expect(apply(d, { id: "t", crew: [], sources: [] }).droppedParagraphs.length).toBe(1);
+    d.paragraphs[0] = { section: "narrative", text: "IBCC says icing; the local society says lightning.", cites: ["C43", "C44"], presents_conflict: true };
+    expect(apply(d, { id: "t", crew: [], sources: [] }).droppedParagraphs.length).toBe(0);
+  });
+
+  test("path traversal in memorial_id is rejected", () => {
+    const d = base(); d.memorial_id = "../../etc";
+    expect(validate(d).join()).toContain("slug");
+    expect(() => photoFile("../../etc", "https://wmr.iwm.org.uk/sites/default/files/images/x.jpg")).toThrow();
+    expect(photoFile("ok-id", "https://wmr.iwm.org.uk/a/..%2F..%2Fx.jpg")).not.toContain("..");
+  });
+
+  test("photos only from IWM or Geograph over https", () => {
+    expect(photoUrlOk("https://wmr.iwm.org.uk/sites/default/files/images/x.jpg")).toBe(true);
+    expect(photoUrlOk("https://s0.geograph.org.uk/photos/1.jpg")).toBe(true);
+    expect(photoUrlOk("http://wmr.iwm.org.uk/x.jpg")).toBe(false);
+    expect(photoUrlOk("https://evil.example.com/x.jpg")).toBe(false);
+    expect(photoUrlOk("https://wmr.iwm.org.uk.evil.com/x.jpg")).toBe(false);
+  });
+
+  test("new crew carry the schema's required keys, blank rather than guessed", () => {
+    const m = apply(base(), { id: "t", crew: [], sources: [] }).record.crew[0];
+    expect(m.rank).toBeNull();
+    expect(m.fate).toBe("");
+  });
+
+  test("a maintainer without an organisation is not created", () => {
+    const d = base();
+    d.claims.push({ id: "C45", field: "maintainer.website", value: "https://x.example.org", sources: ["S3"] });
+    expect(apply(d, { id: "t", crew: [], sources: [] }).record.maintainer).toBeUndefined();
+  });
+
+  test("unresearched crew already on the record block Comprehensive", () => {
+    const d = base();
+    d.photos = [{ url: "https://wmr.iwm.org.uk/sites/default/files/images/x.jpg", credit: "IWM", caption: "c", source_id: "S1" }];
+    expect(apply(d, { id: "t", crew: [{ name: "Unknown Person" }], sources: [] }).quality).toBe("Partial");
+  });
+
+  test("unused sources don't count towards independent publishers", () => {
+    const d = base();
+    d.claims = [{ id: "C1", field: "crew.name", person: "smith", value: "John Smith", sources: ["S2"] }, { id: "C5", field: "squadron", value: "1658 HCU", sources: ["S2"] }];
+    d.paragraphs = [{ section: "narrative", text: "Smith.", cites: ["C1"] }];
+    d.photos = [{ url: "https://wmr.iwm.org.uk/sites/default/files/images/x.jpg", credit: "IWM", caption: "c", source_id: "S2" }];
+    expect(apply(d, { id: "t", crew: [], sources: [] }).quality).toBe("Partial"); // only CWGC used
   });
 });
 

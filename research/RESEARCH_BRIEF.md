@@ -52,8 +52,8 @@ Independence is counted by **publisher**: two pages on one site are one source. 
 |---|---|---|
 | official | CWGC, RAF Air Historical Branch, National Archives, London Gazette, Library and Archives Canada service files | Accepted alone |
 | institutional | IWM War Memorials Register (incl. our capture in `research/iwm/`), IBCC Losses Database, county rolls of honour, Canadian Virtual War Memorial, Australian War Memorial, Auckland Museum Cenotaph, RAF Museum | Accepted alone; win conflicts against lower tiers |
-| researched | Dedicated memorial/committee sites, local history societies, regional crash researchers (yorkshire-aircraft.co.uk, aircrashsites, Peak District Air Accident Research, Dartmoor Explorations), Aircrew Remembered, Aviation Safety Network, squadron associations, published books | Accepted alone, best with a second source |
-| community | War Memorials Online, Traces of War, Find a Grave, Geograph, forums, parish newsletters | Corroboration only; never alone |
+| researched | War Memorials Online (War Memorials Trust: curated, photographed; best for the memorial itself), dedicated memorial/committee sites, local history societies, regional crash researchers (yorkshire-aircraft.co.uk, aircrashsites, Peak District Air Accident Research, Dartmoor Explorations), Aircrew Remembered, Aviation Safety Network, squadron associations, published books | Accepted alone, best with a second source |
+| community | Traces of War, Find a Grave, Geograph, forums, parish newsletters | Corroboration only; never alone |
 | secondary | Wikipedia, news articles | Corroboration only; follow their references to the primary |
 
 ## Search method
