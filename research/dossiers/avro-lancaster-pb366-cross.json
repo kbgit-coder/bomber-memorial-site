@@ -1,0 +1,1547 @@
+{
+  "memorial_id": "avro-lancaster-pb366-cross",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "Lancaster PB366 35 Squadron Great Paxton 24 December 1944 crew",
+      "useful": true
+    },
+    {
+      "query": "Great Paxton Lancaster PB366 memorial pillar eagle plaque cross dedicated Graveley 35 Squadron",
+      "useful": true
+    },
+    {
+      "query": "Great Paxton History Society PB366 memorial Holy Trinity churchyard parish council maintained",
+      "useful": true
+    },
+    {
+      "query": "IBCC losses database pages for all seven crew (fetch)",
+      "useful": true
+    },
+    {
+      "query": "CWGC casualty page for Sgt Albert Thomas (fetch; other six not fetched)",
+      "useful": true
+    },
+    {
+      "query": "backtonormandy.org PB366 page (fetch)",
+      "useful": false
+    },
+    {
+      "query": "Who built or erected the Dovecote Lane cross; who maintains the cross or pillar",
+      "useful": false
+    },
+    {
+      "query": "War Memorials Online entry for either memorial (not searched separately)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://aircrewremembered.com/kenyon-arthur.html",
+      "title": "24/25.12.1944 35 Squadron Lancaster III PB366 TL:S Fg Off. Kenyon",
+      "publisher": "Aircrew Remembered",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Crew page with take-off time, FIDO, crew table (rank, role, age, service number, burial, parents), a biography of Sgt Yallop and a note on the planned Great Paxton memorial. Compiled with research by Linda Ibrom and credits Bomber Command Losses, CWGC and family photos.",
+      "key_details": [
+        "Took off Graveley 15:35, 24 Dec 1944",
+        "Operation Cologne",
+        "Crew of seven table with ages and burials",
+        "Yallop flew the Gremberg raid on 23 Dec with the Potts crew"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://rafgraveley.wordpress.com/wp-content/uploads/2012/11/pb366-tl-s-crash-at-great-paxton.pdf",
+      "title": "The Final Flight of Lancaster PB 366 TL-S (PDF)",
+      "publisher": "RAF Graveley site (rafgraveley.wordpress.com)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Earlier write-up of the loss: crew list with service numbers, burials, Yallop biography, his poem, and a 1985 account by a member of the Graveley crash guard. Aircrew Remembered's crew page may draw on it; they are counted as separate publishers here but not as fully independent.",
+      "key_details": [
+        "Crew list with service numbers",
+        "Crash guard account: Low Farm, bomb hit farmhouse bathroom",
+        "Navigator's age shown as a question mark"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://35squadron.wordpress.com/2017/07/23/lancaster-pb366-24121944/",
+      "title": "Lancaster PB366 (24/12/1944)",
+      "publisher": "35 Squadron Association research site (35squadron.wordpress.com)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Squadron-association loss page quoting the operations record book, AM Form 1180 and eyewitness notes. Gives the target, load, Pathfinder role, FIDO confirmation, the accident finding and crash site.",
+      "key_details": [
+        "Ten 35 Sqn aircraft detailed for Nippes Marshalling Yard",
+        "Pathfinder role Supporter",
+        "AM Form 1180: pilot lost control on take-off in fog, faulty instrument flying",
+        "Crash site Low Farm, half a mile south of the aerodrome"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://losses.internationalbcc.co.uk/loss/230567/",
+      "title": "Williams L (IBCC loss 230567)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the flight engineer, with raid context (102 aircraft, 7 lost), crash site, CWGC number, and the list of six memorials including the roadside cross and the Holy Trinity memorial.",
+      "key_details": [
+        "Sgt, flight engineer, 23, 1095530",
+        "CWGC casualty 2702583",
+        "Lists 'Roadside cross and board, Great Paxton' and Holy Trinity memorial separately",
+        "Cologne raid: 102 aircraft, 7 lost"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://losses.internationalbcc.co.uk/loss/215477/",
+      "title": "Kenyon A T (IBCC loss 215477)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the pilot.",
+      "key_details": [
+        "F/O, pilot, 23, 185554",
+        "CWGC casualty 2699790",
+        "Prestwich (St Mary) Churchyard"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://losses.internationalbcc.co.uk/loss/202482/",
+      "title": "Blundell C L (IBCC loss 202482)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the wireless operator.",
+      "key_details": [
+        "F/S, wireless operator, 20, 1602657",
+        "CWGC casualty 2350306"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://losses.internationalbcc.co.uk/loss/206024/",
+      "title": "Cousins A H (IBCC loss 206024)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the air bomber.",
+      "key_details": [
+        "F/S, air bomber, 21, 1321669",
+        "CWGC casualty 2436458"
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "https://losses.internationalbcc.co.uk/loss/227818/",
+      "title": "Thomas A (IBCC loss 227818)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the navigator. Age and family not stated.",
+      "key_details": [
+        "Sgt, navigator, 1652801",
+        "CWGC casualty 2718401"
+      ]
+    },
+    {
+      "id": "S9",
+      "url": "https://losses.internationalbcc.co.uk/loss/230927/",
+      "title": "Winter C A (IBCC loss 230927)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for an air gunner.",
+      "key_details": [
+        "Sgt, air gunner, 23, 1614511",
+        "CWGC casualty 2734752"
+      ]
+    },
+    {
+      "id": "S10",
+      "url": "https://losses.internationalbcc.co.uk/loss/231398/",
+      "title": "Yallop R F A (IBCC loss 231398)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for an air gunner; gives his full name, birth date and place.",
+      "key_details": [
+        "Sgt, air gunner, 24, 1356347",
+        "CWGC casualty 2720773",
+        "Born 10 Sep 1920, Little Bealings, Suffolk"
+      ]
+    },
+    {
+      "id": "S11",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2718401/",
+      "title": "Sergeant Albert Thomas (CWGC)",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record for the navigator. No age listed. Only this CWGC page was fetched; the other six casualty numbers come from IBCC.",
+      "key_details": [
+        "35 Squadron RAFVR",
+        "1652801",
+        "Ystalyfera (St David) Church Burial Ground, Llangiwg"
+      ]
+    },
+    {
+      "id": "S12",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101383",
+      "title": "Avro Lancaster PB366 - Cross (WMR 101383)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IWM entry for the cross: location at the Dovecote Lane and High Street junction, description, inscription, size and condition. No maker, date, history or custodian given.",
+      "key_details": [
+        "Junction of Dovecote Lane and High Street (B1043)",
+        "Wooden cross about 1200 mm high",
+        "Condition Good",
+        "Photos: Colin Murray"
+      ]
+    },
+    {
+      "id": "S13",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/101430",
+      "title": "Avro Lancaster PB366 - Pillar (WMR 101430)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IWM entry for the pillar in Holy Trinity churchyard: description, inscription, Clipsham stone, bronze plaque, unveiled and dedicated 7 May 2022. No maker or custodian given.",
+      "key_details": [
+        "Holy Trinity Churchyard, Church Lane",
+        "Clipsham stone, about 2000 mm",
+        "Unveiled and dedicated 7 May 2022",
+        "Photos: Colin Murray"
+      ]
+    },
+    {
+      "id": "S14",
+      "url": "https://35squadron.wordpress.com/2019/11/11/pb366-crew-great-paxton/",
+      "title": "PB366 Kenyon Crew (Great Paxton)",
+      "publisher": "35 Squadron Association research site (35squadron.wordpress.com)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Memorial page, updated May 2022: says the new memorial at Holy Trinity replaced one that had stood near the crash site for a number of years, shown in a photo labelled 'Up to May 2022'. It does not name the earlier memorial as a cross.",
+      "key_details": [
+        "Installed 7 May 2022",
+        "Over 300 attended",
+        "Replaced an earlier memorial near the crash site"
+      ]
+    },
+    {
+      "id": "S15",
+      "url": "https://35squadron.wordpress.com/2022/05/09/pb366-memorial-unveiling/",
+      "title": "PB366 Memorial Unveiling",
+      "publisher": "35 Squadron Association research site (35squadron.wordpress.com)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Report of the 7 May 2022 unveiling and dedication: local history society organised funding, planning and installation; Canon Annette Reed led the service; Father Peter Taylor dedicated it; relatives unveiled it; schoolchildren's poems; BBMF Spitfire flypast.",
+      "key_details": [
+        "Over 300 attended",
+        "Dedicated by Father Peter Taylor, Hon. Padre of the 35/635 Squadron Association",
+        "Yallop's brother read his poem"
+      ]
+    },
+    {
+      "id": "S16",
+      "url": "https://www.huntspost.co.uk/news/22971163.memorial-planned-honour-crew-tragic-bomber/",
+      "title": "Memorial planned to honour crew of tragic bomber",
+      "publisher": "Hunts Post",
+      "tier": "secondary",
+      "retrieved": "2026-11-06",
+      "summary": "Newspaper report of the History Society's campaign: the crash, the crew, a bomb through a bathroom at Low Farm, and the planned steel Lancaster sculpture for Dovecote Lane. No date shown; the plan later changed.",
+      "key_details": [
+        "Great Paxton History Society launched campaign",
+        "Average age 22",
+        "Original plan: steel sculpture on a stone in Dovecote Lane"
+      ]
+    },
+    {
+      "id": "S17",
+      "url": "https://huntspost.co.uk/news/graveley-bomber-crew-to-be-remembered-7985374",
+      "title": "War memorial planned for Lancaster bomber crew",
+      "publisher": "Hunts Post",
+      "tier": "secondary",
+      "retrieved": "2026-11-06",
+      "summary": "Report on planning approval: a granite memorial with an RAF eagle, a little over six feet tall, for Holy Trinity churchyard. Stone from a Cornish quarry. Proposed by a local history group, supported by the parish council.",
+      "key_details": [
+        "Granite with RAF eagle",
+        "Cornish stone per the report",
+        "Parish council supported the application"
+      ]
+    },
+    {
+      "id": "S18",
+      "url": "https://greatpaxtonhistory.weebly.com/lancaster-memorial.html",
+      "title": "Great Paxton Lancaster Memorial",
+      "publisher": "Great Paxton History Society",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Society's own page: the memorial is in Holy Trinity churchyard, paid for by donations including a JustGiving appeal, unveiled 7 May 2022 with crew families present. The page does not mention the cross or maintenance.",
+      "key_details": [
+        "Funded by local donations, crew families, businesses and a JustGiving appeal",
+        "Unveiled 7 May 2022"
+      ]
+    },
+    {
+      "id": "S19",
+      "url": "https://www.thepaxtonsbenefice.org/news/news/greatpaxton/great-paxton-history-society-notes",
+      "title": "Great Paxton History Society Notes",
+      "publisher": "The Paxtons Benefice (parish newsletter)",
+      "tier": "community",
+      "retrieved": "2026-11-06",
+      "summary": "Undated newsletter notes (about 2019-20): planning permission granted, fundraising started, and a white cross at Dovecote Lane 'will remain in place' until the memorial is built.",
+      "key_details": [
+        "Cross at Dovecote Lane to stay until memorial built"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crew.name",
+      "value": "Arthur Thomas Kenyon",
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C2",
+      "field": "crew.rank",
+      "value": "Flying Officer",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C3",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C4",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C5",
+      "field": "crew.service_number",
+      "value": "185554",
+      "sources": [
+        "S1",
+        "S2",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C6",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C7",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C8",
+      "field": "crew.burial_location",
+      "value": "Prestwich (St Mary) Churchyard, Clough Sec. 3, Row 6, Grave 83",
+      "sources": [
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C9",
+      "field": "crew.hometown",
+      "value": "Prestwich, Lancashire",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C10",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2699790/",
+      "sources": [
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C11",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/215477/",
+      "sources": [
+        "S5"
+      ],
+      "person": "kenyon-a"
+    },
+    {
+      "id": "C12",
+      "field": "crew.name",
+      "value": "Leonard Williams",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C13",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C14",
+      "field": "crew.role",
+      "value": "Flight engineer",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C15",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C16",
+      "field": "crew.service_number",
+      "value": "1095530",
+      "sources": [
+        "S1",
+        "S2",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C17",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C18",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C19",
+      "field": "crew.burial_location",
+      "value": "Staveley Cemetery, Sec. K.K., Grave 30",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C20",
+      "field": "crew.hometown",
+      "value": "Staveley, Derbyshire",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C21",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2702583/",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C22",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/230567/",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-l"
+    },
+    {
+      "id": "C23",
+      "field": "crew.name",
+      "value": "Albert Thomas",
+      "sources": [
+        "S1",
+        "S2",
+        "S8",
+        "S11"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C24",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S8",
+        "S11"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C25",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1",
+        "S8"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C26",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C27",
+      "field": "crew.service_number",
+      "value": "1652801",
+      "sources": [
+        "S2",
+        "S8",
+        "S11"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C28",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S8"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C29",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S8"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C30",
+      "field": "crew.burial_location",
+      "value": "Ystalyfera (St David) Church Burial Ground, Llangiwg",
+      "sources": [
+        "S8",
+        "S11"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C31",
+      "field": "crew.hometown",
+      "value": "Ystalyfera, Glamorgan",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C32",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2718401/",
+      "sources": [
+        "S11"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C33",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/227818/",
+      "sources": [
+        "S8"
+      ],
+      "person": "thomas-a"
+    },
+    {
+      "id": "C34",
+      "field": "crew.name",
+      "value": "Alec Henry Cousins",
+      "sources": [
+        "S1",
+        "S2",
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C35",
+      "field": "crew.rank",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S1",
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C36",
+      "field": "crew.role",
+      "value": "Bomb aimer",
+      "sources": [
+        "S1"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C37",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1",
+        "S2",
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C38",
+      "field": "crew.service_number",
+      "value": "1321669",
+      "sources": [
+        "S1",
+        "S2",
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C39",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C40",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C41",
+      "field": "crew.burial_location",
+      "value": "Maidenhead Cemetery, Sec. C.C., Row W, Grave 30",
+      "sources": [
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C42",
+      "field": "crew.hometown",
+      "value": "Maidenhead, Berkshire",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C43",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2436458/",
+      "sources": [
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C44",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/206024/",
+      "sources": [
+        "S7"
+      ],
+      "person": "cousins-ah"
+    },
+    {
+      "id": "C45",
+      "field": "crew.name",
+      "value": "Cecil Leonard Blundell",
+      "sources": [
+        "S1",
+        "S2",
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C46",
+      "field": "crew.rank",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S1",
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C47",
+      "field": "crew.role",
+      "value": "Wireless operator",
+      "sources": [
+        "S6",
+        "S3"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C48",
+      "field": "crew.age",
+      "value": 20,
+      "sources": [
+        "S1",
+        "S2",
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C49",
+      "field": "crew.service_number",
+      "value": "1602657",
+      "sources": [
+        "S1",
+        "S2",
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C50",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C51",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C52",
+      "field": "crew.burial_location",
+      "value": "Southampton (Hollybrook) Cemetery, Sec. M, Row 12, Grave 41",
+      "sources": [
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C53",
+      "field": "crew.hometown",
+      "value": "Shirley, Southampton",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C54",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2350306/",
+      "sources": [
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C55",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/202482/",
+      "sources": [
+        "S6"
+      ],
+      "person": "blundell-cl"
+    },
+    {
+      "id": "C56",
+      "field": "crew.name",
+      "value": "Cyril Arthur Winter",
+      "sources": [
+        "S1",
+        "S2",
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C57",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C58",
+      "field": "crew.role",
+      "value": "Mid-upper air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C59",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1",
+        "S2",
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C60",
+      "field": "crew.service_number",
+      "value": "1614511",
+      "sources": [
+        "S1",
+        "S2",
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C61",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C62",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C63",
+      "field": "crew.burial_location",
+      "value": "Harlington (Cherry Lane) Cemetery, Sec. C.3, Grave C.17",
+      "sources": [
+        "S9",
+        "S3"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C64",
+      "field": "crew.hometown",
+      "value": "Harlington, Middlesex",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C65",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2734752/",
+      "sources": [
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C66",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/230927/",
+      "sources": [
+        "S9"
+      ],
+      "person": "winter-ca"
+    },
+    {
+      "id": "C67",
+      "field": "crew.name",
+      "value": "Roy Frederick Arthur Yallop",
+      "sources": [
+        "S1",
+        "S10",
+        "S3"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C68",
+      "field": "crew.name",
+      "value": "Roy Arthur Yallop",
+      "sources": [
+        "S2"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C69",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S1",
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C70",
+      "field": "crew.role",
+      "value": "Rear gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C71",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S1",
+        "S2",
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C72",
+      "field": "crew.service_number",
+      "value": "1356347",
+      "sources": [
+        "S1",
+        "S2",
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C73",
+      "field": "crew.nationality",
+      "value": "British",
+      "sources": [
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C74",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C75",
+      "field": "crew.burial_location",
+      "value": "Ipswich Old Cemetery, Sec. C, Div. 31, Grave 63",
+      "sources": [
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C76",
+      "field": "crew.hometown",
+      "value": "Ipswich, Suffolk",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C77",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2720773/",
+      "sources": [
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C78",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/231398/",
+      "sources": [
+        "S10"
+      ],
+      "person": "yallop-r"
+    },
+    {
+      "id": "C79",
+      "field": "crash_date",
+      "value": "1944-12-24",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C80",
+      "field": "serial_number",
+      "value": "PB366",
+      "sources": [
+        "S1",
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "C81",
+      "field": "aircraft_type",
+      "value": "Avro Lancaster III",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C82",
+      "field": "squadron",
+      "value": "35 Squadron",
+      "sources": [
+        "S1",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C83",
+      "field": "station",
+      "value": "RAF Graveley",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C84",
+      "field": "operation_type",
+      "value": "Bombing raid (Pathfinder Force, Supporter role)",
+      "sources": [
+        "S3"
+      ],
+      "quote": "PB366's Pathfinder role was Supporter"
+    },
+    {
+      "id": "C85",
+      "field": "operation_target",
+      "value": "Nippes Marshalling Yard, Cologne",
+      "sources": [
+        "S3",
+        "S16"
+      ]
+    },
+    {
+      "id": "C86",
+      "field": "cause_of_loss",
+      "value": "Pilot lost control on take-off in fog, attributed to faulty instrument flying (AM Form 1180); aircraft struck trees and caught fire",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C87",
+      "field": "location_name",
+      "value": "Low Farm, Great Paxton",
+      "sources": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C88",
+      "field": "county",
+      "value": "Cambridgeshire",
+      "sources": [
+        "S1",
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "C89",
+      "field": "died_count",
+      "value": "7",
+      "sources": [
+        "S1",
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "C90",
+      "field": "names_on_memorial",
+      "value": "7",
+      "sources": [
+        "S12",
+        "S13"
+      ]
+    },
+    {
+      "id": "C91",
+      "field": "dedication_date",
+      "value": "2022-05-07",
+      "sources": [
+        "S13",
+        "S15",
+        "S18"
+      ]
+    },
+    {
+      "id": "C92",
+      "field": "erected_by",
+      "value": "Great Paxton History Society",
+      "sources": [
+        "S15",
+        "S18"
+      ]
+    },
+    {
+      "id": "C93",
+      "field": "memorial_type",
+      "value": "Cross",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C94",
+      "field": "memorial_address",
+      "value": "Junction of Dovecote Lane and High Street (B1043), Great Paxton, Huntingdon, Cambridgeshire, PE19 6TU",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C95",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C96",
+      "field": "inscription",
+      "value": "Cross: LANCASTER CRASH 1944. Board: CHRISTMAS EVE 44 / LANCASTER PB366 / (Names) / 35 SQUADRON",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C101",
+      "field": "event",
+      "value": "Took off from Graveley at 15:35 on 24 December 1944 on an operation to Cologne",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C102",
+      "field": "event",
+      "value": "Ten 35 Squadron aircraft were detailed to attack the Nippes Marshalling Yard, Cologne, that afternoon; PB366 carried 8 x 1000lb, 4 x 500lb GP and 4 x 500lb ANM.64 bombs",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C103",
+      "field": "event",
+      "value": "FIDO fog dispersal was operating at take-off; the Air Historical Branch confirmed it",
+      "sources": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "id": "C104",
+      "field": "event",
+      "value": "Crashed almost immediately after take-off, flying into trees at Great Paxton; all seven crew were killed",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C105",
+      "field": "event",
+      "value": "AM Form 1180 attributed the crash to the pilot losing control on take-off in fog, due to faulty instrument flying; the aircraft burned on impact with trees",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C106",
+      "field": "event",
+      "value": "The bombs were thrown clear; one rolled into the wall of the Low Farm bathroom, where the farmer's wife was at the time, and did not explode",
+      "sources": [
+        "S2",
+        "S16"
+      ]
+    },
+    {
+      "id": "C107",
+      "field": "event",
+      "value": "An airman on the Graveley crash guard reached the scene about 7 or 8 minutes after the crash and found the aircraft on fire",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C108",
+      "field": "event",
+      "value": "The Cologne raid that night involved 102 aircraft, of which 7 were lost",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C109",
+      "field": "event",
+      "value": "Roy Yallop had flown as a gunner with the Potts crew on the Gremberg daylight raid on 23 December 1944, the day before he died; his family received the telegram on Christmas morning",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C110",
+      "field": "event",
+      "value": "Yallop's brother found a poem in the back of his notebook; a line from it, 'The bright beloved marauders of the sky', appears on the pillar plaque",
+      "sources": [
+        "S1",
+        "S2",
+        "S13"
+      ]
+    },
+    {
+      "id": "C111",
+      "field": "event",
+      "value": "The cross stands at the junction of Dovecote Lane and High Street (B1043), Great Paxton; IWM records it as about 1200 mm high, in good condition",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C112",
+      "field": "event",
+      "value": "The pillar stands in Holy Trinity churchyard, Church Lane, Great Paxton; IWM records Clipsham stone about 2000 mm high with a bronze plaque about 600 mm by 300 mm",
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "id": "C113",
+      "field": "event",
+      "value": "The 35 Squadron site says the 2022 memorial replaced an earlier memorial that had stood near the crash site for a number of years, and shows a photo of it labelled 'Up to May 2022'",
+      "sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "C114",
+      "field": "event",
+      "value": "The pillar was unveiled and dedicated on 7 May 2022; the unveiling was by relatives of the crew, the dedication by Father Peter Taylor, Honorary Padre of the 35/635 Squadron Association, and Canon Annette Reed led the service; more than 300 people attended",
+      "sources": [
+        "S15",
+        "S13"
+      ]
+    },
+    {
+      "id": "C115",
+      "field": "event",
+      "value": "The ceremony ended with a flypast by a BBMF Spitfire",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "C116",
+      "field": "event",
+      "value": "Local schoolchildren's poems about the crash were read at the service, and Yallop's brother read his brother's poem",
+      "sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "C117",
+      "field": "event",
+      "value": "The History Society organised the funding, planning and installation; payment came from donations from residents, crew families, local businesses and a JustGiving appeal",
+      "sources": [
+        "S15",
+        "S18"
+      ]
+    },
+    {
+      "id": "C118",
+      "field": "event",
+      "value": "IBCC lists the roadside cross and board and the Holy Trinity memorial as two separate memorials to the crew",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C119",
+      "field": "event",
+      "value": "None of the sources read states who looks after the cross or the pillar",
+      "sources": [
+        "S18"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Lancaster III PB366 (TL-S) of 35 Squadron, a Pathfinder squadron, took off from Graveley at 15:35 on 24 December 1944 for Cologne. Ten of the squadron's aircraft were detailed to attack the Nippes Marshalling Yard. PB366's Pathfinder role was Supporter.",
+      "cites": [
+        "C101",
+        "C102",
+        "C82",
+        "C83",
+        "C84",
+        "C85"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "FIDO fog dispersal was burning at take-off. PB366 crashed almost immediately, flying into trees at Great Paxton. The squadron-association page puts the crash site at Low Farm, about half a mile south of the aerodrome. AM Form 1180 blamed the pilot losing control in fog through faulty instrument flying. All seven crew died.",
+      "cites": [
+        "C103",
+        "C104",
+        "C87",
+        "C105",
+        "C86",
+        "C89"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The bombs were thrown clear of the wreck. One rolled into the wall of the farmhouse bathroom at Low Farm, with the farmer's wife inside, and did not explode. A man on the Graveley crash guard reached the scene a few minutes later and found the aircraft burning.",
+      "cites": [
+        "C106",
+        "C107"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The crew were Flying Officer Arthur Kenyon (pilot, 23), Sergeant Leonard Williams (flight engineer, 23), Sergeant Albert Thomas (navigator, 22), Flight Sergeant Alec Cousins (bomb aimer, 21), Flight Sergeant Cecil Blundell (wireless operator, 20), Sergeant Cyril Winter (mid-upper gunner, 23) and Sergeant Roy Yallop (rear gunner, 24). All were RAFVR. Their burial places run from Prestwich and Staveley to Ystalyfera, Maidenhead, Southampton, Harlington and Ipswich. Thomas's age is given by Aircrew Remembered only; IBCC and CWGC do not state it, and the Graveley PDF shows a question mark.",
+      "cites": [
+        "C1",
+        "C12",
+        "C23",
+        "C34",
+        "C45",
+        "C56",
+        "C67",
+        "C4",
+        "C15",
+        "C26",
+        "C37",
+        "C48",
+        "C59",
+        "C71",
+        "C3",
+        "C14",
+        "C25",
+        "C36",
+        "C47",
+        "C58",
+        "C70",
+        "C2",
+        "C13",
+        "C24",
+        "C35",
+        "C46",
+        "C57",
+        "C69",
+        "C8",
+        "C19",
+        "C30",
+        "C41",
+        "C52",
+        "C63",
+        "C75"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Yallop had flown as a gunner with the Potts crew on the Gremberg daylight raid on 23 December, the day before he died. His family received the telegram on Christmas morning.",
+      "cites": [
+        "C109"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The cross is a plain white wooden cross, about 1.2 m high, at the junction of Dovecote Lane and High Street (B1043) in Great Paxton. The cross member reads LANCASTER CRASH 1944, and a board beneath gives the date, the aircraft, the crew names and 35 Squadron. IWM records it in good condition. IWM gives no maker or date for it, and none of the other sources read says who put it up.",
+      "cites": [
+        "C93",
+        "C94",
+        "C111",
+        "C96",
+        "C95"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The crew now also have a stone pillar with an eagle and bronze plaque in Holy Trinity churchyard, unveiled and dedicated on 7 May 2022 and organised by the Great Paxton History Society. IBCC lists the two as separate memorials. The 35 Squadron site says the 2022 memorial replaced an earlier one near the crash site, without calling it a cross, so whether the cross still stands is not established by any source read. No source read says who looks after the cross.",
+      "cites": [
+        "C91",
+        "C92",
+        "C118",
+        "C113",
+        "C119"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "The Great Paxton History Society organised the funding, planning and installation of the pillar, paid for by donations from residents, crew families, local businesses and a JustGiving appeal. More than 300 people came to the unveiling on 7 May 2022. Local schoolchildren's poems were read, Roy Yallop's brother read his brother's poem, and a BBMF Spitfire flew past at the end.",
+      "cites": [
+        "C117",
+        "C114",
+        "C116",
+        "C115"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/138/311/large_lancaster_pb366_crash_site_cross.jpg",
+      "credit": "Colin Murray, via IWM War Memorials Register",
+      "caption": "The white wooden cross",
+      "source_id": "S12"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/138/314/large_lancaster_pb366_crashsite_cross_in_context.jpg",
+      "credit": "Colin Murray, via IWM War Memorials Register",
+      "caption": "The cross in its setting",
+      "source_id": "S12"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/138/312/large_lancaster_pb366_crash_site_cross_detail.jpg",
+      "credit": "Colin Murray, via IWM War Memorials Register",
+      "caption": "Detail of the cross",
+      "source_id": "S12"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/138/313/large_lancaster_pb366_cross.jpg",
+      "credit": "Colin Murray, via IWM War Memorials Register",
+      "caption": "The cross and board",
+      "source_id": "S12"
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "Conflicts and cautions. (1) Yallop's middle names: IBCC, 35 Squadron site and Aircrew Remembered give Roy Frederick Arthur; the Graveley PDF gives Roy Arthur. Same man, variant claim recorded. (2) Albert Thomas's age is 22 only from Aircrew Remembered (single source); IBCC and CWGC show no age, the Graveley PDF a question mark. (3) Crew roles for Cousins, Winter and Yallop (bomb aimer, mid-upper, rear gunner) rest on Aircrew Remembered only; IBCC says Air Bomber / Air Gunner. (4) Material of the pillar: IWM says Clipsham stone; Hunts Post planning report (S17) says granite from a Cornish quarry. Not used in paragraphs because Hunts Post is secondary; it may be the proposed rather than final stone. (5) Original plan reported in Hunts Post (S16) was a steel Lancaster sculpture in Dovecote Lane; the memorial built is the eagle pillar in the churchyard. (6) Crash location varies: Low Farm about half a mile south of Graveley aerodrome (S3, S4); Hunts Post says a field near what is now Brookside after clipping a house on London Lane. (7) Hunts Post and 35 Squadron site say unveiling 7 May 2022; Aircrew Remembered's earlier note said 14:00 at the church, unconfirmed. CWGC: only the Thomas page was fetched; the other six cwgc_url claims are built from casualty numbers printed on their IBCC pages (URL pattern confirmed by the Thomas page). Burial section wording is from IBCC. Nationality is IBCC 'country of origin' (United Kingdom), all RAFVR; no source states a nationality outright. Hometowns are from next-of-kin lines (Aircrew Remembered/Graveley PDF). IWM names lists on both register pages are empty, so the stone's name spellings could not be checked. Aircrew Remembered and the Graveley PDF may share origin; the 35 Squadron site and Great Paxton site are separate publishers. Paxtons benefice newsletter (S19, community tier, undated about 2019-20) says a white cross and silhouette were at Dovecote Lane and would 'remain in place' until the memorial was built; used only here. Custodian: nothing read names a custodian for either memorial, so custodian_status is 'unknown' (searched, no source either way), not 'unknown-confirmed'. The History Society built the pillar; the parish council supported planning (S17); neither is stated to maintain it. Contact details exist in S19 for private individuals and were deliberately not recorded. The IWM record's own inscription for the pillar and cross are as on IWM. Existing record contradictions: none found; our pillar record has an empty squadron field (35 Squadron per sources). Memorial leads not followed: IBCC Digital Archive accident form, War Memorials Online, Find a Grave pages, the video on the History Society page."
+}

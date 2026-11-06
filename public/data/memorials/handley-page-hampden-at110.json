@@ -4,31 +4,196 @@
   "location_name": "Felpham, Arun",
   "county": "West Sussex",
   "country": "United Kingdom",
-  "aircraft_type": "Hampden",
+  "aircraft_type": "Handley Page Hampden I",
   "serial_number": "AT110",
   "squadron": "144 Squadron",
   "crash_date": "1942-04-14",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "A portrait orientated polished steel plaque with incised dedication and detail picked out in black. At top centre is a rendition of the RAF pilots wings, and at centre a side outline of a Hampden bomber. The plaque is set into the top sloping face of a rough hewn stone block mounted on a concrete base. This plaque appears to be the third iteration. A new plaque was made c2019 and the commemoration updated for spelling mistakes. The second iteration plaque is mounted on a wooden backboard is attached to the wall behind the current memorial. The first plaque was also wall mounted with slightly different wording and with no backboard.",
+  "memorial_details": "The memorial is a polished steel plaque with an RAF wings badge and a Hampden outline, set into the sloping top of a rough-hewn stone block on a concrete base. It stands beside Sea Road near the junction with Longbrook, Felpham.\n\nIWM records this as the third version of the plaque. A new plaque was made around 2019 with spelling corrected. The second sits on a wooden backboard on the wall behind. The first was wall mounted with slightly different wording and no backboard. IWM lists the condition as Good.\n\nThe plaque was first on a wall at the corner with Longbrook, which became overgrown. The local RAFA branch moved it to a low plinth close to the road. No source read gives a maker or an unveiling date for the first plaque.",
   "inscription": "New plaque: THIS PLAQUE COMMEMORATES THE LOSS OF/ THE CREW OF A HAMPDEN BOMBER OF/ 144 SQUADRON, ROYAL AIR FORCE,/ CLOSE TO THIS MEMORIAL ON 14th APRIL 1942/ THE TWIN ENGINE BOMBER (SERIAL No AT110) WAS/ EN ROUTE FROM NORTH LUFFENHAMHAM (RUTLAND)/ TO ATTACK THE PORT OF LE HAVRE IN FRANCE/ AN ENGINE FIRE WAS THE SUSPECTED CAUSE/ THE CREW WERE:/ (Names)/ TANGMERE MILITARY AVIATION MUSEUM/ FELPHAM PARISH COUNCIL/ SNOOKS CORNER COMMUNITY CENTRE/ ANONYMOUS DONOR/ RAF ASSOCIATION - BOGNOR REGIS BRANCH/ Old plaque: THIS PLAQUE COMMEMORATES THE SACRIFICE OF/ THE CREW OF A HAMPDEN BOMBER OF 144 SQUADRON/ WHICH CRASHED NEAR THIS SPOT ON 14th APRIL 1942/ THIS TWIN ENGINE BOMBER (Serial No. AT110)/ HAD TAKEN OFF FROM NORTH LUTHAM [sic] (RUTLAND)/ TO BOMB DORTMUND GERMANY. THE FULL REASON/ WHY IT CRASHED HERE MAY NEVER BE KNOWN./ THE CREW WERE:- (Names)/ TANGMERE MILITARY AVIATION MUSEUM/ FELPHAM PARISH COUNCIL/ SNOOKS CORNER COMMUNITY GROUP/ ANONYMOUS DONOR",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/91402",
       "type": "official_database"
+    },
+    {
+      "title": "Culmer, Stanley Wilson Charles",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/105412",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Handley Page Hampden AT110 (WMR 91402)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/91402",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hutchison, James Aitken",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/111638",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Manning, Dennis",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/114833",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Nation, Ronald Edward George",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/117062",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hampden Bomber Crash (144 Sqdn, AT110)",
+      "type": "researched",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/285847",
+      "date": "2026-11-06"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "Hampden AT110 of 144 Squadron, 5 Group, took off from RAF North Luffenham on 14 April 1942 on a night operation. The IBCC Losses Database gives the target as Dortmund. The current plaque at Felpham says Le Havre, while the earlier plaque said Dortmund, so the target is not yet settled.\n\nThe aircraft crashed at 2215 at Felpham, between Bognor Regis and Middleton-on-Sea. All four crew died. The current plaque gives an engine fire as the suspected cause. The earlier plaque said the full reason may never be known.\n\nThe pilot was Sergeant Stanley Wilson Charles Culmer, aged 26, buried at West Wickham (St John the Baptist) Churchyard. Sergeant Ronald Edward George Nation, the observer, was 21 and is buried at Bristol (Canford) Cemetery. Sergeant James Aitken Hutchison, wireless operator and air gunner, was 25 and is buried at North Berwick. Sergeant Dennis Manning, air gunner, was 21 and is buried at Stoak (St Laurence) Churchyard.",
+  "crew": [
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "name": "Stanley Wilson Charles Culmer",
+      "role": "Pilot",
+      "age": 26,
+      "service_number": "1283606",
+      "nationality": "United Kingdom",
+      "burial_location": "West Wickham (St John the Baptist) Churchyard",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/105412"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "name": "James Aitken Hutchison",
+      "role": "Wireless Operator/Air Gunner",
+      "age": 25,
+      "service_number": "951362",
+      "nationality": "United Kingdom",
+      "burial_location": "North Benwick Cemetery, Section D, Grave 1660",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/111638"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "name": "Dennis Manning",
+      "role": "Air Gunner",
+      "age": 21,
+      "service_number": "1112428",
+      "nationality": "United Kingdom",
+      "burial_location": "Stoak (St Laurence) Churchyard, Row 4, Grave 2",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/114833"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "name": "Ronald Edward George Nation",
+      "role": "Observer",
+      "age": 21,
+      "service_number": "925007",
+      "nationality": "United Kingdom",
+      "burial_location": "Bristol (Canford) Cemetery, Sec. Q, Grave 94",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/117062"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-06",
   "latitude": 50.785261,
   "longitude": -0.65676838,
   "grid_ref": "SZ 94790",
   "names_on_memorial": 4,
   "died_count": 4,
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/105412",
+      "summary": "IBCC record for the pilot: rank, age, service number, burial, next of kin, crash time and place, target, and the other three crew.",
+      "key_details": [
+        "Sgt, pilot, RAFVR, 1283606, age 26",
+        "West Wickham (St John the Baptist) Churchyard",
+        "Crashed 2215 at Felpham",
+        "Target Dortmund, from North Luffenham"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/91402",
+      "summary": "IWM entry for the Felpham plaque: description, current and old inscriptions, the three plaque iterations, condition, location and photos. Names are not listed. No maker, unveiling date or maintainer is given.",
+      "key_details": [
+        "Third plaque c2019",
+        "Current plaque says Le Havre; earlier plaque said Dortmund",
+        "Maintainer not stated",
+        "Condition Good"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/111638",
+      "summary": "IBCC record for the wireless operator/air gunner.",
+      "key_details": [
+        "Sgt, WOp/AG, RAFVR, 951362, age 25",
+        "North Benwick [sic] Cemetery, Section D, Grave 1660"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/114833",
+      "summary": "IBCC record for the air gunner.",
+      "key_details": [
+        "Sgt, air gunner, RAFVR, 1112428, age 21",
+        "Stoak (St Laurence) Churchyard, Row 4, Grave 2",
+        "CWGC casualty ID 2736032"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/117062",
+      "summary": "IBCC record for the observer.",
+      "key_details": [
+        "Sgt, observer, RAFVR, 925007, age 21",
+        "Bristol (Canford) Cemetery, Sec. Q, Grave 94",
+        "CWGC casualty record 2450735"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/285847",
+      "summary": "WMO entry for the memorial: description, old-plaque inscription, and a note that the plaque was moved from an overgrown wall to a low plinth by the local RAFA branch. Custodian fields read Information Required.",
+      "key_details": [
+        "Originally on a wall at the corner with Longbrook",
+        "Moved by local RAFA branch to a plinth near the road",
+        "Custodian: Information Required"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
   "what3words": "",
-  "community_connection": "Tangmere Military Aviation Museum;Felpham Parish Council;Snooks Corner Community Centre;Anonymous Donor;RAF Association - Bognor Regis Branch"
+  "community_connection": "The current plaque credits Tangmere Military Aviation Museum, Felpham Parish Council, Snooks Corner Community Centre, an anonymous donor and the RAF Association Bognor Regis Branch. The earlier plaque credited the museum, the parish council, Snooks Corner Community Group and an anonymous donor.\n\nNo custodian is confirmed. War Memorials Online lists the custodian as Information Required and IWM states no maintainer. The only body shown acting on the plaque is the local RAFA branch, which moved it.",
+  "station": "RAF North Luffenham",
+  "photos": [
+    {
+      "filename": "handley-page-hampden-at110/91402_-_115792_roger_brooks_2005_11_27.jpg",
+      "caption": "The Felpham Hampden plaque, photographed 27 November 2005",
+      "credit": "Roger Brooks (CC BY-SA 2.0), via IWM War Memorials Register",
+      "source": "https://wmr.iwm.org.uk/sites/default/files/styles/thumbnail/public/2024-09/91402_-_115792_roger_brooks_2005_11_27.jpg"
+    }
+  ],
+  "last_validated": "2026-11-06"
 }

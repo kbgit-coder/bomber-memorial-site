@@ -37,9 +37,21 @@
       "mp_parliamentary_email": "karen.bradley.mp@parliament.uk"
     },
     {
+      "memorial_id": "selby-halifax-jb789",
+      "title": "Selby St James Halifax Memorial",
+      "county": "North Yorkshire",
+      "latitude": 53.784012,
+      "longitude": -1.068781,
+      "constituency": "Selby",
+      "mp_name": "Keir Mather",
+      "mp_party": "Labour",
+      "mp_member_id": 4993,
+      "mp_parliamentary_email": "keir.mather.mp@parliament.uk"
+    },
+    {
       "memorial_id": "location-via-iwm-w4904",
-      "title": "(Location via IWM) Lancaster Memorial",
-      "county": "Derbyshire",
+      "title": "Lancaster W4904 Memorial, Moor Monkton",
+      "county": "North Yorkshire",
       "latitude": 52.86133774572582,
       "longitude": -1.891070306819895,
       "constituency": "Lichfield",
@@ -83,6 +95,18 @@
       "mp_party": "Labour",
       "mp_member_id": 5205,
       "mp_parliamentary_email": "ben.goldsborough.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "wressle-halifax-dt524",
+      "title": "Halifax DT524 Memorial, Wressle (Intake Plantation)",
+      "county": "East Riding of Yorkshire",
+      "latitude": 53.776,
+      "longitude": -0.979,
+      "constituency": "Selby",
+      "mp_name": "Keir Mather",
+      "mp_party": "Labour",
+      "mp_member_id": 4993,
+      "mp_parliamentary_email": "keir.mather.mp@parliament.uk"
     },
     {
       "memorial_id": "skegness-x3027",
@@ -193,6 +217,30 @@
       "mp_parliamentary_email": null
     },
     {
+      "memorial_id": "benington-lancaster-r5683",
+      "title": "Lancaster R5683 Memorial, Benington Sea End",
+      "county": "Lincolnshire",
+      "latitude": 52.971,
+      "longitude": 0.101,
+      "constituency": "Boston and Skegness",
+      "mp_name": "Richard Tice",
+      "mp_party": "Reform UK",
+      "mp_member_id": 5161,
+      "mp_parliamentary_email": "richard.tice.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "bushey-whitley-ad679",
+      "title": "Bushey Whitley Memorial",
+      "county": "Hertfordshire",
+      "latitude": 51.644157,
+      "longitude": -0.362186,
+      "constituency": "Hertsmere",
+      "mp_name": "Sir Oliver Dowden",
+      "mp_party": "Conservative",
+      "mp_member_id": 4441,
+      "mp_parliamentary_email": "oliver.dowden.mp@parliament.uk"
+    },
+    {
       "memorial_id": "ryhope-sunderland-barton-vc",
       "title": "Ryhope, Sunderland — Cyril Joe Barton VC Memorial",
       "county": "Tyne and Wear",
@@ -239,6 +287,18 @@
       "mp_party": "Labour",
       "mp_member_id": 5226,
       "mp_parliamentary_email": "michelle.welsh.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "belton-wellington-nc721",
+      "title": "Belton Wellington Memorial",
+      "county": "Norfolk",
+      "latitude": 52.567583,
+      "longitude": 1.666277,
+      "constituency": "Great Yarmouth",
+      "mp_name": "Rupert Lowe",
+      "mp_party": "Restore Britain",
+      "mp_member_id": 5158,
+      "mp_parliamentary_email": "rupert.lowe.mp@parliament.uk"
     },
     {
       "memorial_id": "chippenham-bk784",
@@ -481,6 +541,18 @@
       "mp_parliamentary_email": "charlie.dewhirst.mp@parliament.uk"
     },
     {
+      "memorial_id": "stagsden-halifax-mz492",
+      "title": "Stagsden Halifax Memorial",
+      "county": "Bedfordshire",
+      "latitude": 52.128127,
+      "longitude": -0.576458,
+      "constituency": "North Bedfordshire",
+      "mp_name": "Richard Fuller",
+      "mp_party": "Conservative",
+      "mp_member_id": 3912,
+      "mp_parliamentary_email": "richard.fuller.mp@parliament.uk"
+    },
+    {
       "memorial_id": "mynydd-mawr-aircraft-type-varies",
       "title": "Mynydd Mawr Memorial",
       "county": "Gwynedd",
@@ -503,6 +575,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 4032,
       "mp_parliamentary_email": "stuart.andrew.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "penryn-battle-p2326",
+      "title": "Penryn Battle Memorial",
+      "county": "Cornwall",
+      "latitude": 50.17055,
+      "longitude": -5.099822,
+      "constituency": "Truro and Falmouth",
+      "mp_name": "Jayne Kirkham",
+      "mp_party": "Labour (Co-op)",
+      "mp_member_id": 5279,
+      "mp_parliamentary_email": "jayne.kirkham.mp@parliament.uk"
     },
     {
       "memorial_id": "vickers-wellington-ln181",
@@ -721,6 +805,18 @@
       "mp_parliamentary_email": "rosie.wrighting.mp@parliament.uk"
     },
     {
+      "memorial_id": "yearsley-lancaster-ds837",
+      "title": "Lancaster DS837 Memorial, Yearsley",
+      "county": "North Yorkshire",
+      "latitude": 54.1625,
+      "longitude": -1.1055,
+      "constituency": "Wetherby and Easingwold",
+      "mp_name": "Sir Alec Shelbrooke",
+      "mp_party": "Conservative",
+      "mp_member_id": 3997,
+      "mp_parliamentary_email": "alec.shelbrooke.mp@parliament.uk"
+    },
+    {
       "memorial_id": "vickers-wellingtons-ln532-and-lp172",
       "title": "Vickers Wellingtons LN532 and LP172",
       "county": "Northamptonshire",
@@ -791,6 +887,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 345,
       "mp_parliamentary_email": "edward.leigh.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "beetley-wellington-bj764",
+      "title": "Wellington BJ764 Memorial, St Mary Magdalene Church, Beetley",
+      "county": "Norfolk",
+      "latitude": 52.7284,
+      "longitude": 0.9219,
+      "constituency": "Mid Norfolk",
+      "mp_name": "George Freeman",
+      "mp_party": "Conservative",
+      "mp_member_id": 4020,
+      "mp_parliamentary_email": "george.freeman.mp@parliament.uk"
     },
     {
       "memorial_id": "rcaf-crew-of-raf-wellington-he821-and-pilot-officer-h-s-keeton",
@@ -1105,6 +1213,18 @@
       "mp_parliamentary_email": "richard.fuller.mp@parliament.uk"
     },
     {
+      "memorial_id": "tywyn-wellington-bk542",
+      "title": "Tywyn Wellington Memorial",
+      "county": "Gwynedd",
+      "latitude": 52.586112,
+      "longitude": -4.085591,
+      "constituency": "Dwyfor Meirionnydd",
+      "mp_name": "Liz Saville Roberts",
+      "mp_party": "Plaid Cymru",
+      "mp_member_id": 4521,
+      "mp_parliamentary_email": "liz.savilleroberts.mp@parliament.uk"
+    },
+    {
       "memorial_id": "short-stirling-eh940-and-avro-lancaster-lm292",
       "title": "Short Stirling EH940 and Avro Lancaster LM292",
       "county": "Lincolnshire",
@@ -1115,6 +1235,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 345,
       "mp_parliamentary_email": "edward.leigh.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "ingoldmells-church-stevenson",
+      "title": "P/O Stevenson Memorial, St Peter and St Paul Church, Ingoldmells",
+      "county": "Lincolnshire",
+      "latitude": 53.191,
+      "longitude": 0.347,
+      "constituency": "Boston and Skegness",
+      "mp_name": "Richard Tice",
+      "mp_party": "Reform UK",
+      "mp_member_id": 5161,
+      "mp_parliamentary_email": "richard.tice.mp@parliament.uk"
     },
     {
       "memorial_id": "handley-page-halifax-eb203",
@@ -1211,6 +1343,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 87,
       "mp_parliamentary_email": "galerj@parliament.uk"
+    },
+    {
+      "memorial_id": "pollington-51-squadron-memorial-garden",
+      "title": "51 Squadron RAF Memorial Garden, Pollington (RAF Snaith)",
+      "county": "East Riding of Yorkshire",
+      "latitude": 53.6769,
+      "longitude": -1.0807,
+      "constituency": "Goole and Pocklington",
+      "mp_name": "David Davis",
+      "mp_party": "Conservative",
+      "mp_member_id": 373,
+      "mp_parliamentary_email": "david.davis.mp@parliament.uk"
     },
     {
       "memorial_id": "sheffield-b-17-flying-fortress",
@@ -1465,6 +1609,30 @@
       "mp_parliamentary_email": "steve@stevebarclay.net"
     },
     {
+      "memorial_id": "stogumber-wellington-dv593",
+      "title": "Stogumber Wellington Memorial",
+      "county": "Somerset",
+      "latitude": 51.118719,
+      "longitude": -3.304047,
+      "constituency": "Tiverton and Minehead",
+      "mp_name": "Rachel Gilmour",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5252,
+      "mp_parliamentary_email": "rachel.gilmour.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "porthleven-gibson-memorial",
+      "title": "Porthleven Gibson Memorial",
+      "county": "Cornwall",
+      "latitude": 50.084917,
+      "longitude": -5.316656,
+      "constituency": "St Ives",
+      "mp_name": "Andrew George",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 227,
+      "mp_parliamentary_email": "andrew.george.mp@parliament.uk"
+    },
+    {
       "memorial_id": "handley-page-hampden-at219",
       "title": "Handley Page Hampden AT219",
       "county": "Lincolnshire",
@@ -1487,6 +1655,18 @@
       "mp_party": "Liberal Democrat",
       "mp_member_id": 5164,
       "mp_parliamentary_email": "steff.aquarone.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "streetly-hampden-ad839",
+      "title": "Streetly Hampden Memorial",
+      "county": "West Midlands",
+      "latitude": 52.584487,
+      "longitude": -1.880302,
+      "constituency": "Aldridge-Brownhills",
+      "mp_name": "Wendy Morton",
+      "mp_party": "Conservative",
+      "mp_member_id": 4358,
+      "mp_parliamentary_email": "wendy.morton.mp@parliament.uk"
     },
     {
       "memorial_id": "handley-page-hampden-ad783",
@@ -1696,13 +1876,13 @@
       "memorial_id": "crew-of-wellington-w5557",
       "title": "Crew of Wellington W5557",
       "county": "South Yorkshire",
-      "latitude": 52.5,
-      "longitude": -1,
-      "constituency": "Harborough, Oadby and Wigston",
-      "mp_name": "Neil O'Brien",
-      "mp_party": "Conservative",
-      "mp_member_id": 4679,
-      "mp_parliamentary_email": "neil.obrien.mp@parliament.uk"
+      "latitude": 53.553,
+      "longitude": -0.989,
+      "constituency": "Doncaster East and the Isle of Axholme",
+      "mp_name": "Lee Pitcher",
+      "mp_party": "Labour",
+      "mp_member_id": 5233,
+      "mp_parliamentary_email": "lee.pitcher.mp@parliament.uk"
     },
     {
       "memorial_id": "crew-of-lancaster-pb476-12-squadron-raf",
@@ -1862,15 +2042,15 @@
     },
     {
       "memorial_id": "location-via-iwm-handley-page-halifax",
-      "title": "(Location via IWM) (WW2) Memorial",
+      "title": "Halifax LW693 (425 Sqn RCAF) Memorial Plaque, Bradford on Avon",
       "county": "Wiltshire",
-      "latitude": 52.20320183061082,
-      "longitude": -1.7690008193585556,
-      "constituency": "Stratford-on-Avon",
-      "mp_name": "Manuela Perteghella",
+      "latitude": 51.34668886515,
+      "longitude": -2.251819804889,
+      "constituency": "Melksham and Devizes",
+      "mp_name": "Brian Mathew",
       "mp_party": "Liberal Democrat",
-      "mp_member_id": 5122,
-      "mp_parliamentary_email": "manuela.perteghella.mp@parliament.uk"
+      "mp_member_id": 5214,
+      "mp_parliamentary_email": "brian.mathew.mp@parliament.uk"
     },
     {
       "memorial_id": "crew-of-handley-page-hampden-ae381-2",
@@ -1895,6 +2075,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 4020,
       "mp_parliamentary_email": "george.freeman.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "wressle-halifax-jd151",
+      "title": "Halifax JD151 Memorial, Wressle (Intake Plantation)",
+      "county": "East Riding of Yorkshire",
+      "latitude": 53.776,
+      "longitude": -0.979,
+      "constituency": "Selby",
+      "mp_name": "Keir Mather",
+      "mp_party": "Labour",
+      "mp_member_id": 4993,
+      "mp_parliamentary_email": "keir.mather.mp@parliament.uk"
     },
     {
       "memorial_id": "balkholme-halifax-mid-air-collision",
@@ -1931,6 +2123,18 @@
       "mp_party": null,
       "mp_member_id": null,
       "mp_parliamentary_email": null
+    },
+    {
+      "memorial_id": "belfast-whitley-z6578",
+      "title": "Belfast St Patrick's Whitley Memorial",
+      "county": "County Antrim",
+      "latitude": 54.605234,
+      "longitude": -5.931481,
+      "constituency": "Belfast North",
+      "mp_name": "John Finucane",
+      "mp_party": "Sinn Féin",
+      "mp_member_id": 4823,
+      "mp_parliamentary_email": "john.finucane.mp@parliament.uk"
     },
     {
       "memorial_id": "cloot-drove-nd981-and-lancaster-me625-mid-air-collision-",
@@ -2017,6 +2221,18 @@
       "mp_parliamentary_email": "lauren.edwards.mp@parliament.uk"
     },
     {
+      "memorial_id": "wetherby-halifax-dg226",
+      "title": "Wetherby Halifax Memorial",
+      "county": "West Yorkshire",
+      "latitude": 53.918707,
+      "longitude": -1.40247,
+      "constituency": "Wetherby and Easingwold",
+      "mp_name": "Sir Alec Shelbrooke",
+      "mp_party": "Conservative",
+      "mp_member_id": 3997,
+      "mp_parliamentary_email": "alec.shelbrooke.mp@parliament.uk"
+    },
+    {
       "memorial_id": "vickers-wellington-x3707",
       "title": "Vickers Wellington X3707",
       "county": "Lothian",
@@ -2039,6 +2255,18 @@
       "mp_party": "Labour",
       "mp_member_id": 5199,
       "mp_parliamentary_email": "luke.charters.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "blockley-lancaster-nd445",
+      "title": "Blockley Lancaster Memorial",
+      "county": "Gloucestershire",
+      "latitude": 52.022391,
+      "longitude": -1.740822,
+      "constituency": "North Cotswolds",
+      "mp_name": "Sir Geoffrey Clifton-Brown",
+      "mp_party": "Conservative",
+      "mp_member_id": 249,
+      "mp_parliamentary_email": "cliftonbrowng@parliament.uk"
     },
     {
       "memorial_id": "hampden-p1294",
@@ -2111,6 +2339,18 @@
       "mp_party": "Reform UK",
       "mp_member_id": 4320,
       "mp_parliamentary_email": "robert.jenrick.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "wythall-wellington-w5356",
+      "title": "Wythall Wellington Memorial",
+      "county": "Worcestershire",
+      "latitude": 52.378354,
+      "longitude": -1.870182,
+      "constituency": "Bromsgrove",
+      "mp_name": "Bradley Thomas",
+      "mp_party": "Conservative",
+      "mp_member_id": 5186,
+      "mp_parliamentary_email": "bradley.thomas.mp@parliament.uk"
     },
     {
       "memorial_id": "bleasby-3-lancaster-r-5698",
@@ -2219,6 +2459,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 345,
       "mp_parliamentary_email": "edward.leigh.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "old-whittington-halifax-dt645",
+      "title": "Old Whittington Halifax Memorial",
+      "county": "Derbyshire",
+      "latitude": 53.269405,
+      "longitude": -1.422585,
+      "constituency": "Chesterfield",
+      "mp_name": "Mr Toby Perkins",
+      "mp_party": "Labour",
+      "mp_member_id": 3952,
+      "mp_parliamentary_email": "toby.perkins.mp@parliament.uk"
     },
     {
       "memorial_id": "avro-lancaster-hk773",
@@ -2507,6 +2759,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 4592,
       "mp_parliamentary_email": "caroline.johnson.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "east-woodlands-halifax-w7747",
+      "title": "East Woodlands Halifax Memorial",
+      "county": "Somerset",
+      "latitude": 51.198695,
+      "longitude": -2.299126,
+      "constituency": "Frome and East Somerset",
+      "mp_name": "Anna Sabine",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5286,
+      "mp_parliamentary_email": "anna.sabine.mp@parliament.uk"
     },
     {
       "memorial_id": "vickers-wellingtons-hf517-and-mf589",
@@ -2821,6 +3085,18 @@
       "mp_parliamentary_email": "james.cartlidge.mp@parliament.uk"
     },
     {
+      "memorial_id": "tunbridge-wells-halifax-w7882",
+      "title": "Tunbridge Wells Halifax Memorial",
+      "county": "Kent",
+      "latitude": 51.137148,
+      "longitude": 0.267345,
+      "constituency": "Tunbridge Wells",
+      "mp_name": "Mike Martin",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5219,
+      "mp_parliamentary_email": "mike.martin.mp@parliament.uk"
+    },
+    {
       "memorial_id": "vickers-wellington-bj879",
       "title": "Vickers Wellington BJ879",
       "county": "Buckinghamshire",
@@ -3109,6 +3385,18 @@
       "mp_parliamentary_email": "alec.shelbrooke.mp@parliament.uk"
     },
     {
+      "memorial_id": "lacock-halifax-mz513",
+      "title": "Lacock Halifax Memorial",
+      "county": "Wiltshire",
+      "latitude": 51.416077,
+      "longitude": -2.120615,
+      "constituency": "Chippenham",
+      "mp_name": "Sarah Gibson",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5239,
+      "mp_parliamentary_email": "sarah.gibson.mp@parliament.uk"
+    },
+    {
       "memorial_id": "handley-page-hampden-p4313",
       "title": "Handley Page Hampden P4313",
       "county": "Isle of Man",
@@ -3155,6 +3443,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 5089,
       "mp_parliamentary_email": "ben.obesejecty.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "emsworth-bridge-ln185-hk374",
+      "title": "Wellington LN185 / Mosquito HK374 Mid-Air Collision Memorial, Emsworth",
+      "county": "Hampshire",
+      "latitude": 50.848,
+      "longitude": -0.938,
+      "constituency": "Havant",
+      "mp_name": "Alan Mak",
+      "mp_party": "Conservative",
+      "mp_member_id": 4484,
+      "mp_parliamentary_email": "alan.mak.mp@parliament.uk"
     },
     {
       "memorial_id": "thorpe-morieux-1-b-17-42-3108",
@@ -3518,15 +3818,15 @@
     },
     {
       "memorial_id": "victor-george-bailey-and-louis-grover-martin-wellington-crash-ford",
-      "title": "Ford Vickers Wellington",
-      "county": "Buckinghamshire",
-      "latitude": 51.77777,
-      "longitude": -0.8739318,
-      "constituency": "Mid Buckinghamshire",
-      "mp_name": "Greg Smith",
+      "title": "Wellington Crash Memorial, Ford, Dinton",
+      "county": "Wiltshire",
+      "latitude": 51.081,
+      "longitude": -1.974,
+      "constituency": "Salisbury",
+      "mp_name": "John Glen",
       "mp_party": "Conservative",
-      "mp_member_id": 4778,
-      "mp_parliamentary_email": "greg.smith.mp@parliament.uk"
+      "mp_member_id": 4051,
+      "mp_parliamentary_email": "john.glen.mp@parliament.uk"
     },
     {
       "memorial_id": "wellington-bomber-crash-westbury-may-1943",
@@ -3539,6 +3839,18 @@
       "mp_party": "Labour",
       "mp_member_id": 5193,
       "mp_parliamentary_email": "callum.anderson.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "sandiacre-lancaster-ee196",
+      "title": "Sandiacre Lancaster Memorial",
+      "county": "Derbyshire",
+      "latitude": 52.930669,
+      "longitude": -1.287335,
+      "constituency": "Erewash",
+      "mp_name": "Adam Thompson",
+      "mp_party": "Labour",
+      "mp_member_id": 5044,
+      "mp_parliamentary_email": "adam.thompson.mp@parliament.uk"
     },
     {
       "memorial_id": "crew-of-wellington-ln281",
@@ -3555,7 +3867,7 @@
     {
       "memorial_id": "handley-page-halifax-s-bb373-and-jb874",
       "title": "Handley Page Halifax's BB373 and JB874",
-      "county": "Antrim",
+      "county": "East Riding of Yorkshire",
       "latitude": 53.860893041193,
       "longitude": -0.396839804948,
       "constituency": "Beverley and Holderness",
@@ -3637,6 +3949,18 @@
       "mp_parliamentary_email": "richard.tice.mp@parliament.uk"
     },
     {
+      "memorial_id": "goudhurst-halifax-w7866",
+      "title": "Goudhurst Halifax Memorial",
+      "county": "Kent",
+      "latitude": 51.11363,
+      "longitude": 0.461526,
+      "constituency": "Tunbridge Wells",
+      "mp_name": "Mike Martin",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5219,
+      "mp_parliamentary_email": "mike.martin.mp@parliament.uk"
+    },
+    {
       "memorial_id": "avro-lancaster-dv334",
       "title": "Avro Lancaster DV334",
       "county": "Nottinghamshire",
@@ -3685,6 +4009,18 @@
       "mp_parliamentary_email": "steff.aquarone.mp@parliament.uk"
     },
     {
+      "memorial_id": "stratford-upon-avon-morris-bench-ng251",
+      "title": "F/Lt J P Morris Memorial Bench, Stratford-upon-Avon",
+      "county": "Warwickshire",
+      "latitude": 52.191,
+      "longitude": -1.706,
+      "constituency": "Stratford-on-Avon",
+      "mp_name": "Manuela Perteghella",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5122,
+      "mp_parliamentary_email": "manuela.perteghella.mp@parliament.uk"
+    },
+    {
       "memorial_id": "canadian-crew-of-wellington-bomber",
       "title": "Canadian Crew of Wellington Bomber",
       "county": "Northamptonshire",
@@ -3731,18 +4067,6 @@
       "mp_party": "Labour",
       "mp_member_id": 5163,
       "mp_parliamentary_email": "peter.prinsley.mp@parliament.uk"
-    },
-    {
-      "memorial_id": "avro-lancaster-jb477",
-      "title": "Avro Lancaster JB477",
-      "county": "Cambridgeshire",
-      "latitude": 52.241773205064,
-      "longitude": -0.156039731958,
-      "constituency": "St Neots and Mid Cambridgeshire",
-      "mp_name": "Ian Sollom",
-      "mp_party": "Liberal Democrat",
-      "mp_member_id": 5096,
-      "mp_parliamentary_email": "ian.sollom.mp@parliament.uk"
     },
     {
       "memorial_id": "old-leake-wellington-w-5667",
@@ -4057,6 +4381,18 @@
       "mp_parliamentary_email": "kevin.hollinrake.mp@parliament.uk"
     },
     {
+      "memorial_id": "cannock-chase-wellington-nc678",
+      "title": "Cannock Chase Wellington Memorial",
+      "county": "Staffordshire",
+      "latitude": 52.70692,
+      "longitude": -1.978435,
+      "constituency": "Cannock Chase",
+      "mp_name": "Josh Newbury",
+      "mp_party": "Labour",
+      "mp_member_id": 5034,
+      "mp_parliamentary_email": "josh.newbury.mp@parliament.uk"
+    },
+    {
       "memorial_id": "carneddau-black-ladders-wellington",
       "title": "Carneddau (Black Ladders) Wellington Memorial",
       "county": "Gwynedd",
@@ -4213,6 +4549,18 @@
       "mp_parliamentary_email": "charlotte.cane.mp@parliament.uk"
     },
     {
+      "memorial_id": "faversham-stirling-ee956",
+      "title": "Faversham Stirling Memorial",
+      "county": "Kent",
+      "latitude": 51.317134,
+      "longitude": 0.894897,
+      "constituency": "Faversham and Mid Kent",
+      "mp_name": "Helen Whately",
+      "mp_party": "Conservative",
+      "mp_member_id": 4527,
+      "mp_parliamentary_email": "helen.whately.mp@parliament.uk"
+    },
+    {
       "memorial_id": "handley-page-halifax-lk954",
       "title": "Handley Page Halifax LK954",
       "county": "Lincolnshire",
@@ -4261,6 +4609,30 @@
       "mp_parliamentary_email": "robert.jenrick.mp@parliament.uk"
     },
     {
+      "memorial_id": "hackington-lancaster-me743",
+      "title": "Hackington Lancaster Memorial",
+      "county": "Kent",
+      "latitude": 51.309901,
+      "longitude": 1.079158,
+      "constituency": "Canterbury",
+      "mp_name": "Rosie Duffield",
+      "mp_party": "Independent",
+      "mp_member_id": 4616,
+      "mp_parliamentary_email": "rosie.duffield.mp@parliament.uk"
+    },
+    {
+      "memorial_id": "hamble-le-rice-whitley-z6576",
+      "title": "Hamble-le-Rice Whitley Memorial",
+      "county": "Hampshire",
+      "latitude": 50.858162,
+      "longitude": -1.317937,
+      "constituency": "Hamble Valley",
+      "mp_name": "Paul Holmes",
+      "mp_party": "Conservative",
+      "mp_member_id": 4803,
+      "mp_parliamentary_email": "paul.holmes.mp@parliament.uk"
+    },
+    {
       "memorial_id": "redenhall-two-b-24-crashes-b-24-42-50790-little",
       "title": "Redenhall (two B-24 crashes) 42-51909 Memorial",
       "county": "Norfolk",
@@ -4283,6 +4655,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 1508,
       "mp_parliamentary_email": "coxg@parliament.uk"
+    },
+    {
+      "memorial_id": "billingborough-credland-church",
+      "title": "Sgt Credland Memorial, St Andrew's Church, Billingborough",
+      "county": "Lincolnshire",
+      "latitude": 52.892,
+      "longitude": -0.369,
+      "constituency": "Grantham and Bourne",
+      "mp_name": "Gareth Davies",
+      "mp_party": "Conservative",
+      "mp_member_id": 4850,
+      "mp_parliamentary_email": "gareth.davies.mp@parliament.uk"
     },
     {
       "memorial_id": "handley-page-halifax-dk253",
@@ -4360,8 +4744,8 @@
       "memorial_id": "avro-lancaster-ja964",
       "title": "Avro Lancaster JA964",
       "county": "Cambridgeshire",
-      "latitude": 52.303,
-      "longitude": -0.057,
+      "latitude": 52.2781,
+      "longitude": 0.0492,
       "constituency": "St Neots and Mid Cambridgeshire",
       "mp_name": "Ian Sollom",
       "mp_party": "Liberal Democrat",
@@ -4427,6 +4811,18 @@
       "mp_party": null,
       "mp_member_id": null,
       "mp_parliamentary_email": null
+    },
+    {
+      "memorial_id": "epsom-lancaster-pb921",
+      "title": "Epsom College Lancaster Memorial",
+      "county": "Surrey",
+      "latitude": 51.325809,
+      "longitude": -0.248021,
+      "constituency": "Epsom and Ewell",
+      "mp_name": "Helen Maguire",
+      "mp_party": "Liberal Democrat",
+      "mp_member_id": 5336,
+      "mp_parliamentary_email": "helen.maguire.mp@parliament.uk"
     },
     {
       "memorial_id": "wellington-r1392-crash",
@@ -4525,6 +4921,18 @@
       "mp_parliamentary_email": "jerome.mayhew.mp@parliament.uk"
     },
     {
+      "memorial_id": "shildon-stirling-lk517",
+      "title": "Stirling LK517 Memorial, Shildon Cricket Club",
+      "county": "County Durham",
+      "latitude": 54.627,
+      "longitude": -1.643,
+      "constituency": "Bishop Auckland",
+      "mp_name": "Dr Sam Rushworth",
+      "mp_party": "Labour",
+      "mp_member_id": 5108,
+      "mp_parliamentary_email": "sam.rushworth.mp@parliament.uk"
+    },
+    {
       "memorial_id": "chediston-dv930",
       "title": "Chediston Wellington Memorial",
       "county": "Suffolk",
@@ -4559,6 +4967,18 @@
       "mp_party": "Conservative",
       "mp_member_id": 4399,
       "mp_parliamentary_email": "Victoria@victoriaatkins.org.uk "
+    },
+    {
+      "memorial_id": "norton-disney-lancaster-r5689",
+      "title": "Norton Disney 'On Freedom's Wings' Lancaster Memorial",
+      "county": "Lincolnshire",
+      "latitude": 53.12182,
+      "longitude": -0.67353,
+      "constituency": "Sleaford and North Hykeham",
+      "mp_name": "Dr Caroline Johnson",
+      "mp_party": "Conservative",
+      "mp_member_id": 4592,
+      "mp_parliamentary_email": "caroline.johnson.mp@parliament.uk"
     },
     {
       "memorial_id": "garvestone-b-24-liberator-42-95",
@@ -5090,8 +5510,8 @@
     }
   ],
   "summary": {
-    "total_uk_with_coords": 424,
-    "mapped": 401,
+    "total_uk_with_coords": 459,
+    "mapped": 436,
     "unmapped": [
       "buckden-pike-wellington-n-2848",
       "carreg-goch-wellington-mf509-mf509",
@@ -5117,7 +5537,7 @@
       "carreg-goch-wellington-r1465-r1465",
       "handley-page-halifax-r9438"
     ],
-    "distinct_constituency_count": 138,
+    "distinct_constituency_count": 156,
     "ambiguous": []
   }
 }

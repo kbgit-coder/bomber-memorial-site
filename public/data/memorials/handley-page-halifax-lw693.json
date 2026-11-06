@@ -1,93 +1,244 @@
 {
   "id": "handley-page-halifax-lw693",
-  "title": "Handley Page Halifax LW693",
-  "location_name": "Bradford On Avon, West Wiltshire",
+  "title": "Halifax LW693 (425 Sqn RCAF) Memorial Plaque, Bradford on Avon",
+  "location_name": "Bradford on Avon",
   "county": "Wiltshire",
   "country": "United Kingdom",
-  "aircraft_type": "Halifax",
-  "serial_number": "LW693",
-  "squadron": "425 Squadron",
-  "crash_date": "1944-03-26",
-  "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "A wall-mounted brass plaque.",
-  "inscription": "TO COMMEMORATE THE CREW OF/ THE HANDLEY PAGE HALIFAX BOMBER 'V' FOR VICTOR/ OF NO. 425 SQUADRON ROYAL CANADIAN AIR FORCE/ WHO DIED IN THE CRASH AT BRADFORD ON AVON, WILTSHIRE/ ON 26TH MARCH 1944/ P/O G B HALL RCAF/ P/O D H DE SOTO GROVER RCAF/ P/O R S PORTER RCAF/ SGT H NEWTON/ P/O W A FISHER/ SGT F N SIMPSON",
+  "aircraft_type": "Handley Page Halifax III",
+  "memorial_type": "Brass plaque",
   "sources": [
     {
-      "title": "IWM War Memorials Register",
-      "url": "https://www.iwm.org.uk/memorials/item/memorial/24276",
-      "type": "official_database"
+      "title": "IWM (memorial/24276)",
+      "type": "website"
+    },
+    {
+      "title": "Handley Page Halifax LW693 (WMR-24276)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/24276",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Memorial plaque to crew of V for Victor RCAF Halifax Bomber Crash - WW2 (WMO/241165)",
+      "type": "researched",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/241165",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Newton, Harry (IBCC loss 220734)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/220734",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Evans, Graham Herbert (IBCC loss 208686)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/208686",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Simpson, Frank Norman (IBCC loss 225654)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/225654",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Grover, Don Hernando Desoto (CASPIR)",
+      "type": "researched",
+      "url": "https://caspir.warplane.com/pdoc/pn/600007885",
+      "date": "2026-11-06"
     }
   ],
+  "contributor": "Keith Binley",
+  "last_updated": "2026-11-06",
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [
-    {
-      "rank": "P/O",
-      "name": "George Brian Hall",
-      "role": "Pilot",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "age": 22,
-      "service_number": "J/89283"
-    },
-    {
-      "rank": "P/O",
-      "name": "Don Hernando De Soto Grover",
-      "role": "Navigator",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "age": 23,
-      "service_number": "J/85140"
-    },
-    {
-      "rank": "P/O",
-      "name": "Roy Stanley Porter",
-      "role": "Bomb Aimer",
-      "nationality": "Canadian",
-      "fate": "Killed",
-      "age": 21,
-      "service_number": "J/89470"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Harry Newton",
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 22,
-      "service_number": "1480974"
-    },
-    {
-      "rank": "P/O",
-      "name": "William Alfred Fisher",
-      "role": "Crew",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 35,
-      "service_number": "170833"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Frank Norman Simpson",
-      "role": "Flight Engineer",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 20,
-      "service_number": "2208949"
-    }
-  ],
-  "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-10-25",
   "latitude": 51.34668886515,
   "longitude": -2.251819804889,
-  "grid_ref": "ST 82557",
+  "external_narratives": [
+    {
+      "source_site": "Imperial War Museums",
+      "original_url": "https://www.iwm.org.uk/memorials/item/memorial/24276",
+      "summary": "IWM War Memorials Register entry for the brass plaque to the crew of Halifax LW693 of 425 Squadron RCAF, lost at Bradford on Avon, Wiltshire, on 26 March 1944.",
+      "key_details": [
+        "IWM reference number 24276",
+        "Westbury House, St Margaret's Street, Bradford on Avon"
+      ],
+      "date_retrieved": "2026-03-23",
+      "still_live": true,
+      "link_description": "IWM War Memorials Register entry 24276"
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/24276",
+      "summary": "IWM War Memorials Register entry for the brass plaque to the crew of Halifax LW693 of 425 Squadron RCAF, lost at Bradford on Avon, Wiltshire, on 26 March 1944.",
+      "key_details": [
+        "IWM reference number 24276",
+        "Westbury House, St Margaret's Street, Bradford on Avon"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true,
+      "link_description": "IWM War Memorials Register entry 24276"
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/241165",
+      "summary": "Record of the same plaque, with a history of the loss, an unveiling in 1994, condition updates and a note that the plaque was moved on site. Gives the aircraft as LE693 (IWM and IBCC give LW693). Names Bradford on Avon Town Council as custodian.",
+      "key_details": [
+        "Aircraft given as LE693 KW-V",
+        "Left Tholthorpe 16:30 on a test flight",
+        "1994 unveiling attended by ex-corporal radio technician from Canada",
+        "Custodian Bradford on Avon Town Council",
+        "Plaque legible; wooden backing will deteriorate; moss; moved on site (photos Nov 2024)",
+        "Coordinates 51.346634, -2.251997"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/220734",
+      "summary": "Loss record for Sgt Harry Newton, wireless operator/air gunner, Halifax III LW693 KW-V, 425 Squadron, from Tholthorpe on a cross-country training flight. Lists the other five dead and two survivors, and mentions the Westbury House plaque.",
+      "key_details": [
+        "Age 22, service number 1480974, RAFVR",
+        "Buried Oldham (Greenacres) Cemetery",
+        "Others who died: Evans G H, Grover D H S, Hall J G B, Porter R S, Simpson F N",
+        "Survivors: Cpl Craig Reid, Sgt Bill Cameron"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/208686",
+      "summary": "Loss record for Sgt Graham Herbert Evans, air gunner, Halifax III LW693, 425 Squadron. Position in the aircraft not stated beyond role.",
+      "key_details": [
+        "Age 21, service number 1025594, RAFVR",
+        "Buried Ystrad Mynach (Holy Trinity) Churchyard, Plot F, Grave 290",
+        "Son of William Jenkins Stanley and Elizabeth Evans"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/225654",
+      "summary": "Loss record for Sgt Frank Norman Simpson, flight engineer, Halifax III LW693, 425 Squadron. Does not say how he died.",
+      "key_details": [
+        "Age 20, service number 2208949, RAFVR",
+        "Buried Stretton (St Matthew) Cemetery",
+        "Son of Frank and Ethel Simpson, of Stretton"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Canadian Warplane Heritage Museum (CASPIR)",
+      "original_url": "https://caspir.warplane.com/pdoc/pn/600007885",
+      "summary": "Personnel record for P/O Don Grover RCAF, navigator, with a summary of the LW693 loss. Names the Canadian dead (Hall pilot, Porter bomb aimer, Grover navigator), puts the crash in the Priory grounds at Christchurch, Bradford on Avon, and quotes two survivors.",
+      "key_details": [
+        "Grover J/85140, Kirkland Lake, Ontario home, buried Haycombe Cemetery, Bath",
+        "P/O Joseph Georges Brian Hall, pilot",
+        "P/O Roy Stanley Porter, bomb aimer",
+        "Two Canadians bailed out; pilot ordered abandon aircraft; no confirmed cause"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
+  "local_contacts": [],
+  "location_confidence": {
+    "status": "estimated",
+    "verified_by": "Holly (PAI)",
+    "verification_date": "2026-04-05",
+    "community_submissions": 0,
+    "last_reviewed": "2026-04-06"
+  },
+  "squadron_display_name": "",
+  "squadron_aliases": [],
+  "narrative": "This memorial is for the crew of Halifax III LW693, code KW-V, of 425 (Alouette) Squadron RCAF, lost at Bradford on Avon, Wiltshire, on 26 March 1944. The aircraft flew from Tholthorpe on a training flight; the IBCC calls it a day cross-country exercise and War Memorials Online calls it a test flight leaving at 16:30. War Memorials Online gives the serial as LE693, where IWM and IBCC give LW693. It was not an operation over enemy territory.\n\nWar Memorials Online says the pilot lost control at about 10,000 ft over Wiltshire and ordered the crew to bail out. Witnesses saw the aircraft circling low over the town with an engine on fire. Men who jumped over the town were too low for their parachutes to open. The aircraft crashed in a field above the town and exploded; the pilot was killed, and townspeople pulled out the rear gunner, who died soon afterwards. A Canadian museum record puts the crash site in the Priory grounds at Christchurch. Six men died. The accounts of the survivors differ: IBCC names Cpl Craig Reid, a ground radar technician standing in for a colleague, and Sgt Bill Cameron, who it says was killed over Germany weeks later. War Memorials Online instead says the surviving mid-upper gunner died in Halifax LW672 over the Ruhr in July 1944. The Canadian record says two Canadians survived and gives no confirmed cause for the loss.\n\nThe dead were Pilot Officers Joseph Georges Brian Hall (pilot), Don Hernando Desoto Grover (navigator) and Roy Stanley Porter (bomb aimer), all RCAF, and Sergeants Harry Newton (wireless operator/air gunner, aged 22, of Oldham), Graham Herbert Evans (air gunner, aged 21, of Ystrad Mynach) and Frank Norman Simpson (flight engineer, aged 20, of Stretton).",
+  "remembrance": {
+    "events": []
+  },
+  "crash_category": "unknown",
+  "narrative_quality_score": 4,
+  "crash_date": "1944-03-26",
+  "last_validated": "2026-11-06",
+  "serial_number": "LW693",
+  "squadron": "425 (Alouette) Squadron RCAF",
+  "station": "RAF Tholthorpe",
+  "operation_type": "Training cross-country flight",
+  "memorial_address": "Westbury House, St Margaret's Street, Bradford on Avon, BA15 1DE",
+  "dedication_date": "1994",
+  "died_count": 6,
+  "condition": "Legible; wooden backing expected to deteriorate outdoors",
+  "maintainer": {
+    "organisation": "Bradford on Avon Town Council",
+    "website": "https://bradfordonavontowncouncil.gov.uk/",
+    "maintainer_type": ""
+  },
+  "crew": [
+    {
+      "rank": "Pilot Officer",
+      "fate": "Killed 26 March 1944",
+      "name": "Joseph Georges Brian Hall",
+      "role": "Pilot",
+      "nationality": "Canadian"
+    },
+    {
+      "rank": "Pilot Officer",
+      "fate": "Killed 26 March 1944",
+      "name": "Don Hernando Desoto Grover",
+      "role": "Navigator",
+      "service_number": "J/85140",
+      "nationality": "Canadian",
+      "burial_location": "Haycombe Cemetery, Bath, Plot 39, Sec H, Row A, Grave 248",
+      "hometown": "Kirkland Lake, Ontario"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 26 March 1944",
+      "name": "Frank Norman Simpson",
+      "role": "Flight engineer",
+      "age": 20,
+      "service_number": "2208949",
+      "burial_location": "Stretton (St Matthew) Cemetery",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/225654",
+      "hometown": "Stretton"
+    },
+    {
+      "rank": "Pilot Officer",
+      "fate": "Killed 26 March 1944",
+      "name": "Roy Stanley Porter",
+      "role": "Bomb aimer",
+      "nationality": "Canadian"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 26 March 1944",
+      "name": "Harry Newton",
+      "role": "Wireless operator / air gunner",
+      "age": 22,
+      "service_number": "1480974",
+      "burial_location": "Oldham (Greenacres) Cemetery, Section C, Row 15, Grave 192",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/220734",
+      "hometown": "Oldham"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed 26 March 1944",
+      "name": "Graham Herbert Evans",
+      "role": "Air gunner",
+      "age": 21,
+      "service_number": "1025594",
+      "burial_location": "Ystrad Mynach (Holy Trinity) Churchyard, Plot F, Grave 290",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/208686",
+      "hometown": "Ystrad Mynach"
+    }
+  ],
+  "grid_ref": "ST 82565 60870",
+  "what3words": "",
   "photos": [],
   "names_on_memorial": 6,
-  "died_count": 6,
-  "external_narratives": [],
-  "what3words": "",
-  "iwm_photo_urls": [
-    "https://media.iwm.org.uk/ciim5/memorials/178/661/large_24276.jpg"
-  ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/425.jpg"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/425.jpg",
+  "community_connection": "War Memorials Online lists Bradford on Avon Town Council as the custodian of the plaque. The council's own Westbury Garden page does not mention the plaque, and no source found shows an annual event there.",
+  "memorial_details": "The memorial is a brass plaque at Westbury House, St Margaret's Street, Bradford on Avon. IWM describes it as attached to a stone block by the wall of the war memorial gardens. War Memorials Online says it was unveiled in 1994 and that an ex-corporal radio technician flew in from Canada for it. The plaque has since been moved to a new position on the same site, and the page describes it as legible, with a wooden backing that will deteriorate outdoors. IWM does not show the names on the plaque, so no source here confirms that names are inscribed on it."
 }

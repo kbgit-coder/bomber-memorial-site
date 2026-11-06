@@ -1,0 +1,983 @@
+{
+  "memorial_id": "flight-sergeant-a-g-reid-and-crew-of-short-stirling-lk276",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "Stirling LK276 190 Squadron 21 November 1944 Great Dunmow",
+      "useful": true
+    },
+    {
+      "query": "Stirling LK276 Little Easton memorial crew stone Newton Field",
+      "useful": true
+    },
+    {
+      "query": "Great Dunmow Town Council memorial bench Reid Stirling LK276",
+      "useful": true
+    },
+    {
+      "query": "IWM memorial pages 97190 to 97196 and 97203",
+      "useful": true
+    },
+    {
+      "query": "CWGC search Kidgell (HTTP 403, blocked)",
+      "useful": false
+    },
+    {
+      "query": "IBCC losses database search for the crew (search page returns only an unfiltered list; no per-man IDs found)",
+      "useful": true
+    },
+    {
+      "query": "Dunmow Broadcast seven benches Stirling crew 2010",
+      "useful": true
+    },
+    {
+      "query": "ukairfields.org.uk Great Dunmow benches page (404)",
+      "useful": false
+    },
+    {
+      "query": "aviation-safety.net wikibase 161625 and key.aero LK276 thread (HTTP 403)",
+      "useful": false
+    },
+    {
+      "query": "Seven Airmen of Stirling LK276 Easton Lodge stone unveiled (nothing found on who erected the stone)",
+      "useful": false
+    },
+    {
+      "query": "Easton Lodge Gardens LK276 crew stone Stirling Walk (found only a different obelisk for 190 and 620 Sqns, dedicated 9 June 2000; no LK276 link)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://aircrewremembered.com/kidgell-james.html",
+      "title": "20/21.11.1944 190 Squadron Stirling IV LK276 Fg Off Kidgell, Great Dunmow, Newton Field, Essex",
+      "publisher": "Aircrew Remembered",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Loss page for Stirling IV LK276 with a timed account of the night glider-towing sortie, both versions of the cause, and a crew table with ages, service numbers and burial places. Notes the seven commemorative seats in Great Dunmow and the 21 November 2010 ceremony.",
+      "key_details": [
+        "Glider released 21:08, crash 21:20",
+        "Board of enquiry blamed pilot (altimeter); later reports of a night fighter",
+        "Crew table: ranks, ages, service numbers, burials",
+        "Page is internally inconsistent: says six killed at scene and rear gunner died of injuries, yet lists seven dead"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.rafweb.org/Members%20Pages/Casualties/1940s/1944/Casualties_1944_11-09.htm",
+      "title": "Casualties 21-22 Nov 1944",
+      "publisher": "rafweb.org (Air of Authority)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Casualty listing for 190 Sqn Stirling IV LK276 giving all seven crew with rank, service number, age, service and burial cemetery. Says the aircraft may have been shot down by an enemy intruder.",
+      "key_details": [
+        "All seven crew listed with service numbers and ages",
+        "Cemetery for each man",
+        "Enemy intruder possibility noted"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://www.dunmowbroadcast.co.uk/news/21707400.benches-dunmow-dedicated-seven-men-killed-1944/",
+      "title": "Benches in Dunmow dedicated to seven men killed in 1944",
+      "publisher": "Dunmow Broadcast",
+      "tier": "secondary",
+      "retrieved": "2026-11-06",
+      "summary": "News report (6 Dec 2010) on the dedication of benches to the seven crew. Four benches were dedicated earlier, three in the previous month by Canon David Ainge, and the final ceremony was on 21 November 2010. Gives an eyewitness account and names relatives who attended.",
+      "key_details": [
+        "Seven seats, one per crew member",
+        "Town Clerk Caroline Fuller revived the final ceremony",
+        "Landing lights reportedly switched off because an unidentified aircraft was detected",
+        "Does not say who funded or maintains the benches"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97190",
+      "title": "Flight Sergeant A G Reid and crew of Short Stirling LK276 (WMR 97190)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Register entry for the Reid bench: a plaque on a cast iron and wooden bench with Great Dunmow Town Council crests on the ends. Dedication listed as 2007, with a note that the Dunmow Broadcast describes benches dedicated on 21 November 2010. Erector and maintainer not stated.",
+      "key_details": [
+        "Seat, Woodlands Park Drive, Great Dunmow, CM6 1ZR",
+        "Dedication field 2007",
+        "Condition good",
+        "Erected by / maintained by not stated",
+        "Photo credit Councillor Danielle Frost"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97203",
+      "title": "Short Stirling LK276 (WMR 97203)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Register entry for the stone with bronze plaque at Easton Lodge, Little Easton, naming seven crew. Maker, dedication date and maintainer are not stated. Links the seven Great Dunmow benches as erected by Great Dunmow Town Council.",
+      "key_details": [
+        "Stone of remembrance, Easton Park Gardens, Easton Lodge, CM6 2BB",
+        "Seven names, all died",
+        "Erector, date, maintainer not stated",
+        "Gardens Grade II listed (1001484)",
+        "Photo credit Richard E. Flagg"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97191",
+      "title": "Flight Sergeant R M Dauncey (WMR 97191)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Dauncey at Newton Green, dedicated 21 November 2010 by Canon David Ainge. Plaque says the crash was as the result of enemy action.",
+      "key_details": [
+        "Newton Green, CM6 1UB",
+        "Dedicated 21/11/2010"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97192",
+      "title": "Flight Sergeant R D Payne (WMR 97192)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Payne at Great Dunmow Primary School; dedication given as 2007.",
+      "key_details": [
+        "Woodlands Park Drive, CM6 1ZR",
+        "Dedicated 2007"
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97193",
+      "title": "Flying Officer E D Woods (WMR 97193)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Woods on Stortford Road, dedicated 21 November 2010. Plaque says enemy action.",
+      "key_details": [
+        "Stortford Road, CM6 1DN"
+      ]
+    },
+    {
+      "id": "S9",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97194",
+      "title": "Flying Officer J I Kidgell (WMR 97194)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Kidgell on Woodlands Walk. Dedication field says 2000, which conflicts with the 2010 newspaper account. Lists CWGC ID 2667301.",
+      "key_details": [
+        "Woodlands Walk, CM6 1YQ",
+        "CWGC ID 2667301",
+        "Dedication field 2000"
+      ]
+    },
+    {
+      "id": "S10",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97195",
+      "title": "Flying Officer W W D Brain (WMR 97195)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Brain on Woodlands Walk; dedication field 2000.",
+      "key_details": [
+        "Woodlands Walk, CM6 1YQ"
+      ]
+    },
+    {
+      "id": "S11",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97196",
+      "title": "Sergeant H Holt (WMR 97196)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Bench plaque for Holt at Threaders Green, dedicated 21 November 2010. The first plaque gave his age as 33; a replacement with the correct age of 20 was fitted in March 2011.",
+      "key_details": [
+        "Stortford Road / Green Lane, CM6 1DL",
+        "Plaque age corrected March 2011"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1944-11-21",
+      "sources": [
+        "S2",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "LK276",
+      "sources": [
+        "S1",
+        "S2",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Stirling IV",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "190 Squadron",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "Great Dunmow (Newton Field), Essex",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Night glider towing sortie",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Struck willow trees and HT cables while told to circle; board of enquiry blamed the pilot for not monitoring his altimeter",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "cause_of_loss",
+      "value": "Shot down by a Luftwaffe night fighter, according to later investigations reported on Aircrew Remembered",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "cause_of_loss",
+      "value": "Possibly shot down by an enemy intruder",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "event",
+      "value": "Towing Horsa glider P-F573 under check pilot Fg Off Brain; glider released 21:08 and landed safely",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "event",
+      "value": "At 21:13 the pilot asked to land, was told to hold off and circle the outer perimeter lights; crashed at 21:20, hitting willow trees and HT cables, skidding along a bank and exploding",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "event",
+      "value": "Aircraft came down in the field where the primary school now stands (quoted from the Dunmow Broadcast on the IWM page)",
+      "sources": [
+        "S4"
+      ],
+      "quote": "came down in the field where the primary school is now"
+    },
+    {
+      "id": "C13",
+      "field": "event",
+      "value": "Bench plaques for Dauncey, Woods and Holt say the crash was as the result of enemy action",
+      "sources": [
+        "S6",
+        "S8",
+        "S11"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "event",
+      "value": "IWM lists the Reid bench as dedicated in 2007 and notes the Dunmow Broadcast describes benches dedicated on 21 November 2010",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "Holt's first plaque gave his age as 33; a corrected plaque showing 20 was fitted in March 2011",
+      "sources": [
+        "S11"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "Final ceremony for the seven seats held 21 November 2010, 66th anniversary; relatives and representatives of RBL, Essex Wing ATC and Great Dunmow Town Council attended",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "Seven seats, one per crew member, at Great Dunmow; Canon David Ainge dedicated three in October 2010",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "James Ian Kidgell",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "Fg Off",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C20",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "value": "410499",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C23",
+      "field": "crew.nationality",
+      "value": "Australian",
+      "sources": [
+        "S1"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C24",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C25",
+      "field": "crew.burial_location",
+      "value": "Brookwood Military Cemetery, 4.O.14",
+      "sources": [
+        "S1"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C26",
+      "field": "crew.name",
+      "value": "William Walter D'Arcy Brain",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C27",
+      "field": "crew.rank",
+      "value": "Fg Off",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C28",
+      "field": "crew.role",
+      "value": "Pilot 2 (instructor)",
+      "sources": [
+        "S1"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C29",
+      "field": "crew.age",
+      "value": 26,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C30",
+      "field": "crew.service_number",
+      "value": "42365",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C31",
+      "field": "crew.nationality",
+      "value": "New Zealander",
+      "sources": [
+        "S1"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C32",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C33",
+      "field": "crew.burial_location",
+      "value": "Brookwood Military Cemetery, 8.AA.16",
+      "sources": [
+        "S1"
+      ],
+      "person": "brain-w"
+    },
+    {
+      "id": "C34",
+      "field": "crew.name",
+      "value": "Ernest Douglas Woods",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C35",
+      "field": "crew.rank",
+      "value": "Fg Off",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C36",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C37",
+      "field": "crew.age",
+      "value": 26,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C38",
+      "field": "crew.service_number",
+      "value": "176742",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C39",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C40",
+      "field": "crew.burial_location",
+      "value": "Chapeltown Cemetery, Sec. Q, Grave 66",
+      "sources": [
+        "S1"
+      ],
+      "person": "woods-e"
+    },
+    {
+      "id": "C41",
+      "field": "crew.name",
+      "value": "Hugh Holt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C42",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C43",
+      "field": "crew.role",
+      "value": "Flight Engineer",
+      "sources": [
+        "S1"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C44",
+      "field": "crew.age",
+      "value": 20,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C45",
+      "field": "crew.service_number",
+      "value": "2209061",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C46",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C47",
+      "field": "crew.burial_location",
+      "value": "Burnley Cemetery, N.E. 7941",
+      "sources": [
+        "S1"
+      ],
+      "person": "holt-h"
+    },
+    {
+      "id": "C48",
+      "field": "crew.name",
+      "value": "Ronald David Payne",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C49",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C50",
+      "field": "crew.role",
+      "value": "Air Bomber",
+      "sources": [
+        "S1"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C51",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C52",
+      "field": "crew.service_number",
+      "value": "1391069",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C53",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C54",
+      "field": "crew.burial_location",
+      "value": "Lewisham Cemetery, Sec. GG, Grave 388",
+      "sources": [
+        "S1"
+      ],
+      "person": "payne-r"
+    },
+    {
+      "id": "C55",
+      "field": "crew.name",
+      "value": "Reginald Matthew Dauncey",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C56",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C57",
+      "field": "crew.role",
+      "value": "WOp/Air Gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C58",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C59",
+      "field": "crew.service_number",
+      "value": "1431216",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C60",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C61",
+      "field": "crew.burial_location",
+      "value": "Northwich Cemetery, Sec. E, Grave 1662",
+      "sources": [
+        "S1"
+      ],
+      "person": "dauncey-r"
+    },
+    {
+      "id": "C62",
+      "field": "crew.name",
+      "value": "Arthur George Reid",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C63",
+      "field": "crew.rank",
+      "value": "Flt Sgt",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C64",
+      "field": "crew.role",
+      "value": "Air Gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C65",
+      "field": "crew.age",
+      "value": 33,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C66",
+      "field": "crew.service_number",
+      "value": "1800613",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C67",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C68",
+      "field": "crew.burial_location",
+      "value": "Brookwood Military Cemetery, 20.D.15",
+      "sources": [
+        "S1"
+      ],
+      "person": "reid-a"
+    },
+    {
+      "id": "C69",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2667301/",
+      "sources": [
+        "S9"
+      ],
+      "person": "kidgell-j"
+    },
+    {
+      "id": "C70",
+      "field": "memorial_type",
+      "value": "Seat",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C71",
+      "field": "memorial_address",
+      "value": "Great Dunmow Primary School, Woodlands Park Drive, Great Dunmow, Essex, CM6 1ZR",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C72",
+      "field": "names_on_memorial",
+      "value": 1,
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C73",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C74",
+      "field": "dedication_date",
+      "value": "2007",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C75",
+      "field": "erected_by",
+      "value": "Great Dunmow Town Council",
+      "sources": [
+        "S5"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Stirling IV LK276 of 190 Squadron flew from Great Dunmow (Newton Field) on a night glider-towing sortie on 20/21 November 1944. It was towing Horsa glider P-F573 with Flying Officer Brain aboard as check pilot. The glider was released at 21:08 and landed safely. At 21:13 the pilot asked to land and was told to hold off and circle the outer perimeter lights. At 21:20 the Stirling hit willow trees and high-tension cables, skidded along a bank and exploded. All seven crew died. Local reporting places the impact in the field where Great Dunmow Primary School now stands.",
+      "cites": [
+        "C4",
+        "C3",
+        "C5",
+        "C6",
+        "C10",
+        "C11",
+        "C12",
+        "C1"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The cause is disputed. Aircrew Remembered says the board of enquiry blamed the pilot for failing to monitor his altimeter, and also reports later investigations that a Luftwaffe night fighter shot the aircraft down. The rafweb casualty listing says it may have been shot down by an enemy intruder. The bench plaques for Dauncey, Woods and Holt say the crash was the result of enemy action; that is the plaque wording, not a verified finding.",
+      "cites": [
+        "C7",
+        "C8",
+        "C9",
+        "C13"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "The seven crew were Flying Officer James Ian Kidgell (pilot, RAAF, 23), Flying Officer William Walter D'Arcy Brain (second pilot and instructor, RNZAF, 26), Flying Officer Ernest Douglas Woods (navigator, 26), Sergeant Hugh Holt (flight engineer, 20), Flight Sergeant Ronald David Payne (air bomber, 21), Flight Sergeant Reginald Matthew Dauncey (wireless operator and air gunner, 23) and Flight Sergeant Arthur George Reid (air gunner, 33). Kidgell, Brain and Reid are buried at Brookwood Military Cemetery; Woods at Chapeltown, Holt at Burnley, Payne at Lewisham and Dauncey at Northwich.",
+      "cites": [
+        "C18",
+        "C21",
+        "C25",
+        "C26",
+        "C29",
+        "C33",
+        "C34",
+        "C37",
+        "C40",
+        "C41",
+        "C44",
+        "C47",
+        "C48",
+        "C51",
+        "C54",
+        "C55",
+        "C58",
+        "C61",
+        "C62",
+        "C65",
+        "C68"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The Reid bench is a cast iron and wooden seat with a plaque for Flight Sergeant Arthur George Reid, fitted at Great Dunmow Primary School on Woodlands Park Drive. The ends carry the Great Dunmow Town Council crest, and the register lists it in good condition. The register gives 2007 as its dedication, while the Dunmow Broadcast describes benches dedicated on 21 November 2010, so the date is unsettled. The IWM register for the stone says Great Dunmow Town Council erected the seven benches.",
+      "cites": [
+        "C70",
+        "C71",
+        "C73",
+        "C74",
+        "C14",
+        "C75"
+      ],
+      "presents_conflict": false
+    },
+    {
+      "section": "community_connection",
+      "text": "The council has seven seats in the town, one for each crew member, and held the final ceremony on 21 November 2010 with relatives and representatives of the Royal British Legion and Essex Wing ATC. Holt's first plaque gave his age wrongly as 33; a corrected one went up in March 2011.",
+      "cites": [
+        "C17",
+        "C16",
+        "C15"
+      ]
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "Custodian: our record says Great Dunmow Town Council maintains the bench, but the IWM 97190 page as read says maintained-by is not stated; only the erected-by (council) and the council crest on the bench ends are evidenced. Left as unknown pending a check with the council. Not made claims: nationality for Woods, Holt, Payne, Dauncey and Reid (no source read states it; our record says British); IBCC and CWGC links for six of seven men (CWGC and IBCC pages blocked or unsearchable by name; only Kidgell's CWGC ID 2667301 from IWM 97194, URL pattern copied from an existing dossier and unverified). Aircrew Remembered is internally inconsistent (six killed at scene, rear gunner died of injuries, seven listed dead); crash dated 20/21 Nov there, 21 Nov elsewhere. Crash site: Aircrew Remembered says 'Puildings Farm'; Dunmow Broadcast says field of the primary school / Newton Green. Dunmow Broadcast (secondary) also says the landing lights were switched off because an unidentified aircraft was detected; not used in text as single-source. IWM bench dedication dates are inconsistent (2000/2007/2010) and the 2000 entries predate the 2010 article. Holt's first plaque age (33) was wrong. The IWM 'Easton Lodge Stirling Walk' obelisk (190 and 620 Sqns, 9 June 2000, Waymarking) is a different memorial. No photos included: IWM photos were not in research/iwm capture for these ids. Sources S4-S11 are all IWM (one publisher). Dunmow Broadcast is quoted partly via IWM so is not treated as independent of it."
+}

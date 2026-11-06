@@ -17,6 +17,11 @@
     {
       "title": "Geograph Cambridgeshire",
       "type": "website"
+    },
+    {
+      "title": "IWM War Memorials Register",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/8410",
+      "type": "official_database"
     }
   ],
   "contributor": "Keith Binley",
@@ -227,5 +232,8 @@
     "https://media.iwm.org.uk/ciim5/memorials/170/801/large_8410b.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/170/802/large_8410c.jpg"
   ],
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/405.jpg"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/405.jpg",
+  "inscription": "BATTLE OF BERLIN/ November 1943 - March 1944/ Near this spot on December 17th 1943/ R. C. A. F. from Gransden Lodge/ crashed killing six of the crew of seven./ W. O. S. C. H. NUTTING D. F. M. the rear/ gunner who was on his 45th raid survived./ IN MEMORY OF/ (Names)/ And who are buried at/ CAMBRIDGE CITY CEMETERY/ (Names)/ We will remember them.",
+  "names_on_memorial": 7,
+  "died_count": 6
 }

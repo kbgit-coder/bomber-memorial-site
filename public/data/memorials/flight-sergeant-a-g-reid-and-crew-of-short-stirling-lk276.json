@@ -4,43 +4,258 @@
   "location_name": "Great Dunmow, Uttlesford",
   "county": "Essex",
   "country": "United Kingdom",
-  "aircraft_type": "Stirling",
+  "aircraft_type": "Stirling IV",
   "serial_number": "LK276",
   "squadron": "190 Squadron",
   "crash_date": "1944-11-21",
   "memorial_type": "Seat",
-  "memorial_details": "Rectangular plaque, fixed to a cast iron and wooden bench. The plaque has the Royal Air Force crest at top left and the 190 Squadron crest at top right; beneath is the inscription in white lettering. The ends of the bench have the coloured crest of Great Dunmow Town Council.\n\nA memorial bench with a plaque bearing the RAF and 190 Squadron crests was subsequently erected near the crash site and is maintained by Great Dunmow Town Council.",
+  "memorial_details": "The Reid bench is a cast iron and wooden seat with a plaque for Flight Sergeant Arthur George Reid, fitted at Great Dunmow Primary School on Woodlands Park Drive. The ends carry the Great Dunmow Town Council crest, and the register lists it in good condition. The register gives 2007 as its dedication, while the Dunmow Broadcast describes benches dedicated on 21 November 2010, so the date is unsettled. The IWM register for the stone says Great Dunmow Town Council erected the seven benches.",
   "inscription": "IN MEMORY OF/ Flight Sergeant/ ARTHUR GEORGE REID/ aged 33/ Killed with the rest of his crew, when Short Stirling bomber LK276/ crashed near this location on 21st November 1944,/ as the result of enemy action.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/97190",
       "type": "official_database"
+    },
+    {
+      "title": "Casualties 21-22 Nov 1944",
+      "type": "researched",
+      "url": "https://www.rafweb.org/Members%20Pages/Casualties/1940s/1944/Casualties_1944_11-09.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flight Sergeant A G Reid and crew of Short Stirling LK276 (WMR 97190)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97190",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Short Stirling LK276 (WMR 97203)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97203",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "20/21.11.1944 190 Squadron Stirling IV LK276 Fg Off Kidgell, Great Dunmow, Newton Field, Essex",
+      "type": "researched",
+      "url": "https://aircrewremembered.com/kidgell-james.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flying Officer J I Kidgell (WMR 97194)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97194",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flight Sergeant R M Dauncey (WMR 97191)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97191",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flying Officer E D Woods (WMR 97193)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97193",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Sergeant H Holt (WMR 97196)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/97196",
+      "date": "2026-11-06"
     }
   ],
-  "data_quality": "Comprehensive",
-  "narrative": "On 21 November 1944, Short Stirling LK276 of 190 Squadron came down near Great Dunmow in Essex as the result of enemy action. Flight Sergeant Arthur George Reid, aged 33, was killed along with the rest of his crew.",
+  "data_quality": "Partial",
+  "narrative": "Stirling IV LK276 of 190 Squadron flew from Great Dunmow (Newton Field) on a night glider-towing sortie on 20/21 November 1944. It was towing Horsa glider P-F573 with Flying Officer Brain aboard as check pilot. The glider was released at 21:08 and landed safely. At 21:13 the pilot asked to land and was told to hold off and circle the outer perimeter lights. At 21:20 the Stirling hit willow trees and high-tension cables, skidded along a bank and exploded. All seven crew died. Local reporting places the impact in the field where Great Dunmow Primary School now stands.\n\nThe cause is disputed. Aircrew Remembered says the board of enquiry blamed the pilot for failing to monitor his altimeter, and also reports later investigations that a Luftwaffe night fighter shot the aircraft down. The rafweb casualty listing says it may have been shot down by an enemy intruder. The bench plaques for Dauncey, Woods and Holt say the crash was the result of enemy action; that is the plaque wording, not a verified finding.\n\nThe seven crew were Flying Officer James Ian Kidgell (pilot, RAAF, 23), Flying Officer William Walter D'Arcy Brain (second pilot and instructor, RNZAF, 26), Flying Officer Ernest Douglas Woods (navigator, 26), Sergeant Hugh Holt (flight engineer, 20), Flight Sergeant Ronald David Payne (air bomber, 21), Flight Sergeant Reginald Matthew Dauncey (wireless operator and air gunner, 23) and Flight Sergeant Arthur George Reid (air gunner, 33). Kidgell, Brain and Reid are buried at Brookwood Military Cemetery; Woods at Chapeltown, Holt at Burnley, Payne at Lewisham and Dauncey at Northwich.",
   "crew": [
     {
-      "rank": "Flight Sergeant",
-      "name": "A G Reid",
-      "fate": "Unknown"
+      "rank": "Fg Off",
+      "fate": "Killed",
+      "name": "James Ian Kidgell",
+      "role": "Pilot",
+      "age": 23,
+      "service_number": "410499",
+      "nationality": "Australian",
+      "burial_location": "Brookwood Military Cemetery, 4.O.14",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2667301/"
+    },
+    {
+      "rank": "Fg Off",
+      "fate": "Killed",
+      "name": "William Walter D'Arcy Brain",
+      "role": "Pilot 2 (instructor)",
+      "age": 26,
+      "service_number": "42365",
+      "nationality": "New Zealander",
+      "burial_location": "Brookwood Military Cemetery, 8.AA.16"
+    },
+    {
+      "rank": "Fg Off",
+      "fate": "Killed",
+      "name": "Ernest Douglas Woods",
+      "role": "Navigator",
+      "age": 26,
+      "service_number": "176742",
+      "burial_location": "Chapeltown Cemetery, Sec. Q, Grave 66"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Hugh Holt",
+      "role": "Flight Engineer",
+      "age": 20,
+      "service_number": "2209061",
+      "burial_location": "Burnley Cemetery, N.E. 7941"
+    },
+    {
+      "rank": "Flt Sgt",
+      "fate": "Killed",
+      "name": "Arthur George Reid",
+      "role": "Air Gunner",
+      "age": 33,
+      "service_number": "1800613",
+      "burial_location": "Brookwood Military Cemetery, 20.D.15"
+    },
+    {
+      "rank": "Flt Sgt",
+      "fate": "Killed",
+      "name": "Ronald David Payne",
+      "role": "Air Bomber",
+      "age": 21,
+      "service_number": "1391069",
+      "burial_location": "Lewisham Cemetery, Sec. GG, Grave 388"
+    },
+    {
+      "rank": "Flt Sgt",
+      "fate": "Killed",
+      "name": "Reginald Matthew Dauncey",
+      "role": "WOp/Air Gunner",
+      "age": 23,
+      "service_number": "1431216",
+      "burial_location": "Northwich Cemetery, Sec. E, Grave 1662"
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-06",
   "latitude": 51.873000218614,
   "longitude": 0.349611908099,
   "grid_ref": "TL 61848",
   "photos": [],
   "names_on_memorial": 1,
-  "died_count": 1,
-  "external_narratives": [],
+  "died_count": 7,
+  "external_narratives": [
+    {
+      "source_site": "rafweb.org (Air of Authority)",
+      "original_url": "https://www.rafweb.org/Members%20Pages/Casualties/1940s/1944/Casualties_1944_11-09.htm",
+      "summary": "Casualty listing for 190 Sqn Stirling IV LK276 giving all seven crew with rank, service number, age, service and burial cemetery. Says the aircraft may have been shot down by an enemy intruder.",
+      "key_details": [
+        "All seven crew listed with service numbers and ages",
+        "Cemetery for each man",
+        "Enemy intruder possibility noted"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97190",
+      "summary": "Register entry for the Reid bench: a plaque on a cast iron and wooden bench with Great Dunmow Town Council crests on the ends. Dedication listed as 2007, with a note that the Dunmow Broadcast describes benches dedicated on 21 November 2010. Erector and maintainer not stated.",
+      "key_details": [
+        "Seat, Woodlands Park Drive, Great Dunmow, CM6 1ZR",
+        "Dedication field 2007",
+        "Condition good",
+        "Erected by / maintained by not stated",
+        "Photo credit Councillor Danielle Frost"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97203",
+      "summary": "Register entry for the stone with bronze plaque at Easton Lodge, Little Easton, naming seven crew. Maker, dedication date and maintainer are not stated. Links the seven Great Dunmow benches as erected by Great Dunmow Town Council.",
+      "key_details": [
+        "Stone of remembrance, Easton Park Gardens, Easton Lodge, CM6 2BB",
+        "Seven names, all died",
+        "Erector, date, maintainer not stated",
+        "Gardens Grade II listed (1001484)",
+        "Photo credit Richard E. Flagg"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered",
+      "original_url": "https://aircrewremembered.com/kidgell-james.html",
+      "summary": "Loss page for Stirling IV LK276 with a timed account of the night glider-towing sortie, both versions of the cause, and a crew table with ages, service numbers and burial places. Notes the seven commemorative seats in Great Dunmow and the 21 November 2010 ceremony.",
+      "key_details": [
+        "Glider released 21:08, crash 21:20",
+        "Board of enquiry blamed pilot (altimeter); later reports of a night fighter",
+        "Crew table: ranks, ages, service numbers, burials",
+        "Page is internally inconsistent: says six killed at scene and rear gunner died of injuries, yet lists seven dead"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97194",
+      "summary": "Bench plaque for Kidgell on Woodlands Walk. Dedication field says 2000, which conflicts with the 2010 newspaper account. Lists CWGC ID 2667301.",
+      "key_details": [
+        "Woodlands Walk, CM6 1YQ",
+        "CWGC ID 2667301",
+        "Dedication field 2000"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97191",
+      "summary": "Bench plaque for Dauncey at Newton Green, dedicated 21 November 2010 by Canon David Ainge. Plaque says the crash was as the result of enemy action.",
+      "key_details": [
+        "Newton Green, CM6 1UB",
+        "Dedicated 21/11/2010"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97193",
+      "summary": "Bench plaque for Woods on Stortford Road, dedicated 21 November 2010. Plaque says enemy action.",
+      "key_details": [
+        "Stortford Road, CM6 1DN"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/97196",
+      "summary": "Bench plaque for Holt at Threaders Green, dedicated 21 November 2010. The first plaque gave his age as 33; a replacement with the correct age of 20 was fitted in March 2011.",
+      "key_details": [
+        "Stortford Road / Green Lane, CM6 1DL",
+        "Plaque age corrected March 2011"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/171/704/large_97190a.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/171/703/large_97190.jpg"
   ],
   "original_title": "Flight Sergeant A G Reid and crew of Short Stirling LK276",
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/190.jpg"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/190.jpg",
+  "station": "Great Dunmow (Newton Field), Essex",
+  "operation_type": "Night glider towing sortie",
+  "memorial_address": "Great Dunmow Primary School, Woodlands Park Drive, Great Dunmow, Essex, CM6 1ZR",
+  "condition": "Good",
+  "dedication_date": "2007",
+  "erected_by": "Great Dunmow Town Council",
+  "community_connection": "The council has seven seats in the town, one for each crew member, and held the final ceremony on 21 November 2010 with relatives and representatives of the Royal British Legion and Essex Wing ATC. Holt's first plaque gave his age wrongly as 33; a corrected one went up in March 2011.",
+  "last_validated": "2026-11-06"
 }

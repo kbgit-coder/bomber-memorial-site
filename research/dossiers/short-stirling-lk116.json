@@ -1,0 +1,889 @@
+{
+  "memorial_id": "short-stirling-lk116",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "Stirling LK116 Great Dunmow 20 March 1945 crash Flt Sgt Cramp",
+      "useful": true
+    },
+    {
+      "query": "LK116 Stirling 190 Squadron OR 620 Squadron Great Dunmow March 1945 intruder",
+      "useful": true
+    },
+    {
+      "query": "Great Dunmow Stirling crashed River Chelmer Oakroyd Avenue memorial 1945 Great Sampford",
+      "useful": true
+    },
+    {
+      "query": "620 Squadron 20 March 1945 Williams Ames Douglas Bell Whitty Slater LK116 CWGC",
+      "useful": true
+    },
+    {
+      "query": "IBCC losses Whitty George Oliver Samuel 620 Squadron",
+      "useful": false
+    },
+    {
+      "query": "George Edward Ames 620 Squadron 20 March 1945 CWGC burial",
+      "useful": true
+    },
+    {
+      "query": "George Robert Douglas / John George Joseph Williams 620 Squadron CWGC",
+      "useful": true
+    },
+    {
+      "query": "Captain George Frederick Slater SAS liaison LK116",
+      "useful": true
+    },
+    {
+      "query": "Great Dunmow LK116 memorial plaque unveiled custodian Oakroyd Avenue Ford Farm",
+      "useful": false
+    },
+    {
+      "query": "Great Dunmow Society / Town Council Stirling memorial River Chelmer Ford Farm Sandra Taylor",
+      "useful": false
+    },
+    {
+      "query": "ASN wikibase 161626 (fetch; certificate and 403 errors)",
+      "useful": false
+    },
+    {
+      "query": "IBCC loss 200373 Ames (fetch; 404)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/107981",
+      "title": "Short Stirling LK116, IWM War Memorials Register WMR-107981",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "Register entry for the slate tablet in Oakroyd Avenue, Great Dunmow. Gives the inscription, type, condition and location. Maker, dedication date, who erected it and maintainer are all blank.",
+      "key_details": [
+        "Incised slate tablet on a stand, Composite type",
+        "Corner of a house driveway, Oakroyd Avenue, CM6 1HG",
+        "Condition Good; inscription says (3 NAMES)",
+        "Photographer Richard E. Flagg"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.rememberthefallen.co.uk/casualty/whitty-george-oliver-samuel/",
+      "title": "WHITTY George Oliver Samuel",
+      "publisher": "Remember the Fallen",
+      "tier": "community",
+      "retrieved": "2026-11-06",
+      "summary": "Roll-of-honour page for the pilot. It lists a seven-man LK116 crew including F/Sgt Cramp as flight engineer, and cites research by Sandra Taylor and a 1999 book by Mark Rogers.",
+      "key_details": [
+        "Seven aboard: six killed, F/Sgt Cramp parachuted to safety",
+        "Cramp listed as flight engineer, landed at Barnston"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://caspir.warplane.com/personnel/unit-search/p/600001209",
+      "title": "Bell, Andrew Paul (Warrant Officer 1), CASPIR",
+      "publisher": "CASPIR (Canadian Aircraft Squadron and Personnel Information Resource)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Record for the RCAF air gunner with the LK116 crew table. Six killed, Flight Sergeant A. Cramp baled out and survived. Notes Bell had evaded in France in July 1944.",
+      "key_details": [
+        "620 Squadron, RAF Great Dunmow",
+        "Stirling LK116 'A' shot down by a German intruder, crashed Great Dunmow",
+        "Crew table of seven"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://caspir.warplane.com/personnel/unit-search/p/600033351",
+      "title": "Whitty, George Oliver Samuel (Sqn Leader), CASPIR",
+      "publisher": "CASPIR (Canadian Aircraft Squadron and Personnel Information Resource)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Record for the pilot with the loss narrative: training supply-dropping exercise near RAF Great Sampford, attacked by an unidentified Luftwaffe intruder, crashed by the River Chelmer at Ford Farmhouse. Same publisher as S3.",
+      "key_details": [
+        "620 (B) Squadron",
+        "Crashed by the River Chelmer at Ford Farmhouse, Great Dunmow"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2929426/george-oliver-samuel-whitty/",
+      "title": "Squadron Leader George Oliver Samuel Whitty, CWGC",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: 108172, RAFVR, 620 Squadron, age 23, died 20 March 1945, Brookwood Military Cemetery 23. E. 15., DFC.",
+      "key_details": []
+    },
+    {
+      "id": "S6",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2834505/john-george-joseph-williams/",
+      "title": "Warrant Officer John George Joseph Williams, CWGC",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: 1392933, RAFVR, 620 Squadron, age 25, died 20 March 1945, Woodmansterne (St. Peter) Churchyard Row 9 Grave 17.",
+      "key_details": []
+    },
+    {
+      "id": "S7",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2761808/andrew-paul-bell/",
+      "title": "Warrant Officer Class I Andrew Paul Bell, CWGC",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: R/189575, RCAF attached 620 Squadron, age 21, died 20 March 1945, Brookwood 50. I. 2., country of service Canadian.",
+      "key_details": []
+    },
+    {
+      "id": "S8",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2928943/george-frederick-slater/",
+      "title": "Captain George Frederick Slater, CWGC",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: 67935, The Parachute Regiment attached SAS Regiment, age 32, died 20 March 1945, Brookwood 23. E. 13.",
+      "key_details": []
+    },
+    {
+      "id": "S9",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2402073/george-robert-douglas/",
+      "title": "Flight Sergeant George Robert Douglas, CWGC",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: 1045068, RAFVR, 620 Squadron, age 24, died 20 March 1945, Hull Eastern Cemetery Compartment 217 Grave 18.",
+      "key_details": []
+    },
+    {
+      "id": "S10",
+      "url": "https://aircrewremembered.com/kilgour-leonard-alfred-arthur.html",
+      "title": "190 Squadron Stirling IV LJ882 (Bell's earlier loss and LK116)",
+      "publisher": "Aircrew Remembered",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Entry for the July 1944 loss of LJ882 with a short note on Bell's death in LK116: shot down by a night fighter on a training exercise, Bell, four other crew and an SAS officer killed, one baled out.",
+      "key_details": [
+        "Bell evaded after LJ882 in July 1944, later joined 620 Squadron",
+        "Crashed by the River Chelmer"
+      ]
+    },
+    {
+      "id": "S11",
+      "url": "https://paradata.org.uk/content/4638700-captain-george-slater",
+      "title": "Captain George Slater, Paradata",
+      "publisher": "Paradata",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Airborne forces archive profile. Slater was SAS HQ liaison officer attached to RAF Great Dunmow and died as a passenger in LK116, shot down by a German intruder over Essex.",
+      "key_details": [
+        "Born in South Africa per the page",
+        "Buried Brookwood 23. E. 13."
+      ]
+    },
+    {
+      "id": "S12",
+      "url": "https://losses.internationalbcc.co.uk/loss/200373",
+      "title": "Ames, George Edward, IBCC Losses Database",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for Pilot Officer Ames, RAFVR, 188436, 620 Squadron, died 20 March 1945. Only the search-result summary was read; the page itself returned 404 to my fetch, and the cemetery field was reported blank.",
+      "key_details": []
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "squadron",
+      "value": "620 Squadron",
+      "sources": [
+        "S3",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "station",
+      "value": "RAF Great Dunmow",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "crash_date",
+      "value": "1945-03-20",
+      "sources": [
+        "S1",
+        "S3",
+        "S5"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "serial_number",
+      "value": "LK116",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "aircraft_type",
+      "value": "Short Stirling IV",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Training supply-dropping exercise",
+      "sources": [
+        "S4",
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "died_count",
+      "value": 6,
+      "sources": [
+        "S3",
+        "S10"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "memorial_type",
+      "value": "Composite",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "memorial_address",
+      "value": "Corner of a house driveway, Oakroyd Avenue, Great Dunmow, Essex, CM6 1HG",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "event",
+      "value": "620 Squadron Stirling LK116 'A' flew a training supply-dropping exercise to RAF Great Sampford from RAF Great Dunmow",
+      "sources": [
+        "S4",
+        "S3"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "event",
+      "value": "An unidentified Luftwaffe intruder attacked LK116 and it crashed by the River Chelmer at Ford Farmhouse, Great Dunmow",
+      "sources": [
+        "S4",
+        "S3"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "event",
+      "value": "The inscription says the resulting fire caused LK116 to crash in the fields behind Oakroyd Avenue",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "event",
+      "value": "Flight Sergeant Cramp baled out and survived; the other six aboard were killed",
+      "sources": [
+        "S1",
+        "S3",
+        "S10"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "Captain Slater was SAS headquarters liaison officer attached to RAF Great Dunmow and was aboard as a passenger",
+      "sources": [
+        "S11",
+        "S3"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "Bell had evaded capture in France after the loss of 190 Squadron Stirling LJ882 in July 1944 and later joined 620 Squadron",
+      "sources": [
+        "S3",
+        "S10"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "The inscription ends '(3 NAMES)'",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "person": "whitty-g",
+      "value": "George Oliver Samuel Whitty",
+      "sources": [
+        "S5",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "person": "whitty-g",
+      "value": "Squadron Leader",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "crew.role",
+      "person": "whitty-g",
+      "value": "Pilot",
+      "sources": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "person": "whitty-g",
+      "value": 23,
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "person": "whitty-g",
+      "value": "108172",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "crew.fate",
+      "person": "whitty-g",
+      "value": "Killed",
+      "sources": [
+        "S5",
+        "S3"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "crew.burial_location",
+      "person": "whitty-g",
+      "value": "Brookwood Military Cemetery, Surrey, grave 23. E. 15.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "crew.cwgc_url",
+      "person": "whitty-g",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2929426/george-oliver-samuel-whitty/",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C26",
+      "field": "crew.decorations",
+      "person": "whitty-g",
+      "value": "DFC",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C27",
+      "field": "crew.name",
+      "person": "williams-j",
+      "value": "John George Joseph Williams",
+      "sources": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "id": "C28",
+      "field": "crew.rank",
+      "person": "williams-j",
+      "value": "Warrant Officer",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C29",
+      "field": "crew.role",
+      "person": "williams-j",
+      "value": "Navigator",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C30",
+      "field": "crew.age",
+      "person": "williams-j",
+      "value": 25,
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C31",
+      "field": "crew.service_number",
+      "person": "williams-j",
+      "value": "1392933",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C32",
+      "field": "crew.fate",
+      "person": "williams-j",
+      "value": "Killed",
+      "sources": [
+        "S6",
+        "S3"
+      ]
+    },
+    {
+      "id": "C33",
+      "field": "crew.burial_location",
+      "person": "williams-j",
+      "value": "Woodmansterne (St. Peter) Churchyard, Row 9, Grave 17",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C34",
+      "field": "crew.cwgc_url",
+      "person": "williams-j",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2834505/john-george-joseph-williams/",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C35",
+      "field": "crew.name",
+      "person": "ames-g",
+      "value": "George Edward Ames",
+      "sources": [
+        "S12",
+        "S3"
+      ]
+    },
+    {
+      "id": "C36",
+      "field": "crew.rank",
+      "person": "ames-g",
+      "value": "Pilot Officer",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C37",
+      "field": "crew.role",
+      "person": "ames-g",
+      "value": "Wireless operator",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C38",
+      "field": "crew.service_number",
+      "person": "ames-g",
+      "value": "188436",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C39",
+      "field": "crew.fate",
+      "person": "ames-g",
+      "value": "Killed",
+      "sources": [
+        "S12",
+        "S3"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "crew.name",
+      "person": "bell-a",
+      "value": "Andrew Paul Bell",
+      "sources": [
+        "S7",
+        "S3"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "crew.rank",
+      "person": "bell-a",
+      "value": "Warrant Officer Class I",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "crew.role",
+      "person": "bell-a",
+      "value": "Air gunner",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "crew.age",
+      "person": "bell-a",
+      "value": 21,
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C44",
+      "field": "crew.service_number",
+      "person": "bell-a",
+      "value": "R/189575",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C45",
+      "field": "crew.nationality",
+      "person": "bell-a",
+      "value": "Canadian",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "crew.fate",
+      "person": "bell-a",
+      "value": "Killed",
+      "sources": [
+        "S7",
+        "S3"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "crew.burial_location",
+      "person": "bell-a",
+      "value": "Brookwood Military Cemetery, Surrey, grave 50. I. 2.",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C48",
+      "field": "crew.cwgc_url",
+      "person": "bell-a",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2761808/andrew-paul-bell/",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C49",
+      "field": "crew.name",
+      "person": "douglas-g",
+      "value": "George Robert Douglas",
+      "sources": [
+        "S9",
+        "S3"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "crew.rank",
+      "person": "douglas-g",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "crew.role",
+      "person": "douglas-g",
+      "value": "Bomb aimer",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "crew.age",
+      "person": "douglas-g",
+      "value": 24,
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "crew.service_number",
+      "person": "douglas-g",
+      "value": "1045068",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "crew.fate",
+      "person": "douglas-g",
+      "value": "Killed",
+      "sources": [
+        "S9",
+        "S3"
+      ]
+    },
+    {
+      "id": "C55",
+      "field": "crew.burial_location",
+      "person": "douglas-g",
+      "value": "Hull Eastern Cemetery, Compartment 217, Grave 18",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C56",
+      "field": "crew.cwgc_url",
+      "person": "douglas-g",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2402073/george-robert-douglas/",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C57",
+      "field": "crew.name",
+      "person": "slater-g",
+      "value": "George Frederick Slater",
+      "sources": [
+        "S8",
+        "S11",
+        "S3"
+      ]
+    },
+    {
+      "id": "C58",
+      "field": "crew.rank",
+      "person": "slater-g",
+      "value": "Captain",
+      "sources": [
+        "S8",
+        "S11"
+      ]
+    },
+    {
+      "id": "C59",
+      "field": "crew.role",
+      "person": "slater-g",
+      "value": "SAS liaison officer (passenger)",
+      "sources": [
+        "S3",
+        "S11"
+      ]
+    },
+    {
+      "id": "C60",
+      "field": "crew.age",
+      "person": "slater-g",
+      "value": 32,
+      "sources": [
+        "S8",
+        "S11"
+      ]
+    },
+    {
+      "id": "C61",
+      "field": "crew.service_number",
+      "person": "slater-g",
+      "value": "67935",
+      "sources": [
+        "S8",
+        "S11"
+      ]
+    },
+    {
+      "id": "C62",
+      "field": "crew.fate",
+      "person": "slater-g",
+      "value": "Killed",
+      "sources": [
+        "S8",
+        "S11",
+        "S3"
+      ]
+    },
+    {
+      "id": "C63",
+      "field": "crew.burial_location",
+      "person": "slater-g",
+      "value": "Brookwood Military Cemetery, Surrey, grave 23. E. 13.",
+      "sources": [
+        "S8",
+        "S11"
+      ]
+    },
+    {
+      "id": "C64",
+      "field": "crew.cwgc_url",
+      "person": "slater-g",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2928943/george-frederick-slater/",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C65",
+      "field": "crew.ibcc_url",
+      "person": "ames-g",
+      "value": "https://losses.internationalbcc.co.uk/loss/200373",
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "id": "C66",
+      "field": "crew.name",
+      "person": "cramp-a",
+      "value": "A. Cramp",
+      "sources": [
+        "S3",
+        "S1"
+      ]
+    },
+    {
+      "id": "C67",
+      "field": "crew.rank",
+      "person": "cramp-a",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C68",
+      "field": "crew.fate",
+      "person": "cramp-a",
+      "value": "Survived: baled out",
+      "sources": [
+        "S1",
+        "S3",
+        "S10"
+      ]
+    },
+    {
+      "id": "C69",
+      "field": "crew.role",
+      "person": "cramp-a",
+      "value": "Flight engineer",
+      "sources": [
+        "S2"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Stirling Mk IV LK116 'A' of 620 Squadron flew from RAF Great Dunmow on 20 March 1945 on a training supply-dropping exercise to RAF Great Sampford. An unidentified Luftwaffe intruder attacked it, and it crashed by the River Chelmer at Ford Farmhouse, Great Dunmow. The inscription on the memorial says the resulting fire brought the aircraft down in the fields behind Oakroyd Avenue.",
+      "cites": [
+        "C11",
+        "C12",
+        "C13"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Seven men were aboard. Flight Sergeant Cramp baled out and survived. The other six were killed: Squadron Leader George Whitty, DFC (pilot), Warrant Officer John Williams (navigator), Pilot Officer George Ames (wireless operator), Warrant Officer Andrew Bell, RCAF (air gunner), Flight Sergeant George Douglas (bomb aimer) and Captain George Slater, who was a passenger.",
+      "cites": [
+        "C14",
+        "C7"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Slater was the SAS headquarters liaison officer attached to RAF Great Dunmow. Bell had already evaded capture in France in July 1944, after the loss of a 190 Squadron Stirling, before he joined 620 Squadron.",
+      "cites": [
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The memorial is an incised slate tablet on a stand, at the corner of a house driveway in Oakroyd Avenue, Great Dunmow. The IWM register records its condition as good. The inscription ends '(3 NAMES)', although six men died.",
+      "cites": [
+        "C9",
+        "C10",
+        "C17",
+        "C7"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/171/722/large_107981c.jpg",
+      "credit": "Richard E. Flagg, via IWM War Memorials Register",
+      "caption": "The slate tablet at Oakroyd Avenue, Great Dunmow.",
+      "source_id": "S1"
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "CONTRADICTS OUR RECORD: record and IWM say died 3 / 3 names / 'no other survivors' beyond Cramp; CASPIR (S3) and Aircrew Remembered (S10), two publishers, say six killed and one survivor (seven aboard). Names on the stone are not in the IWM page, so which three are named is unknown; names_on_memorial=4 in our record also unexplained (IWM: commemorated 4, died 3, served 1). I did not claim IWM's 3 as died_count because it would out-rank the researched sources and be accepted. Decision for Keith. Custodian: IWM maintainer, erected-by, maker and dedication fields are blank; nothing found in searches. Memorial sits at the corner of a house driveway (IWM), so a private householder may be involved: not investigated. Ames: IBCC page returned 404 to my fetch, so his rank, number and date rest on a search-result summary of that page plus CASPIR; age, burial and CWGC link not found. Whitty's CASPIR page is internally inconsistent on burial (own entry Brookwood, crew table 'unknown'); CWGC settles Brookwood. Cramp: only initial 'A' known (CASPIR); rank from inscription/CASPIR; role flight engineer and landing at Barnston come only from Remember the Fallen (community tier, held back; it also cites Sandra Taylor's research and Mark Rogers' 1999 book). Aircrew Remembered calls the attacker a night fighter; others say intruder. ASN wikibase 161626 (reported via search: 6 killed of 7, flight engineer survived) could not be fetched (cert error/403), not used. CASPIR is one publisher (S3 and S4 count once). Slater nationality not stated; Paradata says born in South Africa, not claimed. A second Paradata page reportedly describes his death only as a UK training exercise: not fetched. Other Dunmow Stirling memorials (LK276 bench at Newton Green, 190 Squadron) are a different crash."
+}

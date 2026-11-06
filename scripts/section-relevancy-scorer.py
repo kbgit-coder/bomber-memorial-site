@@ -29,6 +29,7 @@ import re
 import copy
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'public', 'data', 'memorials')
+DOSSIER_DIR = os.path.join(os.path.dirname(__file__), '..', 'research', 'dossiers')
 dry_run = '--dry-run' in sys.argv
 verbose = '--verbose' in sys.argv
 
@@ -110,7 +111,8 @@ CREW_BIO_PATTERNS = [
 
 # Patterns that indicate JUNK / NOT RELEVANT to this memorial
 JUNK_PATTERNS = [
-    re.compile(r'\b(click here|read more|visit our|website|homepage|navigation)\b', re.I),
+    # "navigation" alone also matches flying ("night navigation exercise"); only site chrome is junk.
+    re.compile(r'\b(click here|read more|visit our|website|homepage|(site|skip|main) navigation|navigation (menu|bar|links))\b', re.I),
     re.compile(r'\b(cookie|privacy policy|terms of use|subscribe|newsletter)\b', re.I),
     re.compile(r'\b(all rights reserved|copyright|©)\b', re.I),
     re.compile(r'\b(help desk|contact us for|support ticket)\b', re.I),
@@ -641,6 +643,10 @@ def main():
             data = json.load(f)
 
         memorial_id = data.get('id', os.path.basename(filepath).replace('.json', ''))
+        # Dossier-built records are already cited and sectioned paragraph by paragraph;
+        # re-scoring them sentence by sentence drops and relocates sourced text.
+        if os.path.exists(os.path.join(DOSSIER_DIR, f'{memorial_id}.json')):
+            continue
         modified, changes = process_memorial(data, memorial_id)
 
         if changes:

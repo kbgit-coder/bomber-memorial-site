@@ -1,0 +1,757 @@
+{
+  "memorial_id": "handley-page-hampden-at110",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "Hampden AT110 144 Squadron 14 April 1942 Felpham crew",
+      "useful": true
+    },
+    {
+      "query": "Felpham Sea Road Hampden memorial plaque 144 Squadron Culmer Hutchison Manning Nation unveiled",
+      "useful": true
+    },
+    {
+      "query": "Hampden AT110 Felpham aviation-safety.net wikibase 14 April 1942 144 Sqn North Luffenham",
+      "useful": false
+    },
+    {
+      "query": "IBCC loss pages for Culmer, Hutchison, Manning, Nation (fetch)",
+      "useful": true
+    },
+    {
+      "query": "IWM memorial 91402 (fetch)",
+      "useful": true
+    },
+    {
+      "query": "War Memorials Online 285847 (fetch)",
+      "useful": true
+    },
+    {
+      "query": "East Lothian Courier Hutchison memorial (fetch)",
+      "useful": true
+    },
+    {
+      "query": "tracesofwar Memorial Crash Hampden Bomber 21702 (fetch, 403)",
+      "useful": false
+    },
+    {
+      "query": "baaa-acro.com node 538008 (fetch, 403)",
+      "useful": false
+    },
+    {
+      "query": "aviation-safety.net wikibase 202504 (fetch, 403 / host not found)",
+      "useful": false
+    },
+    {
+      "query": "Sussex Express/Bognor Observer 80th-anniversary service and wreath-laying articles (fetch, 403)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://losses.internationalbcc.co.uk/loss/105412",
+      "title": "Culmer, Stanley Wilson Charles",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the pilot: rank, age, service number, burial, next of kin, crash time and place, target, and the other three crew.",
+      "key_details": [
+        "Sgt, pilot, RAFVR, 1283606, age 26",
+        "West Wickham (St John the Baptist) Churchyard",
+        "Crashed 2215 at Felpham",
+        "Target Dortmund, from North Luffenham"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://losses.internationalbcc.co.uk/loss/111638",
+      "title": "Hutchison, James Aitken",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the wireless operator/air gunner.",
+      "key_details": [
+        "Sgt, WOp/AG, RAFVR, 951362, age 25",
+        "North Benwick [sic] Cemetery, Section D, Grave 1660"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/114833",
+      "title": "Manning, Dennis",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the air gunner.",
+      "key_details": [
+        "Sgt, air gunner, RAFVR, 1112428, age 21",
+        "Stoak (St Laurence) Churchyard, Row 4, Grave 2",
+        "CWGC casualty ID 2736032"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://losses.internationalbcc.co.uk/loss/117062",
+      "title": "Nation, Ronald Edward George",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the observer.",
+      "key_details": [
+        "Sgt, observer, RAFVR, 925007, age 21",
+        "Bristol (Canford) Cemetery, Sec. Q, Grave 94",
+        "CWGC casualty record 2450735"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://memorials.iwm.org.uk/item/memorial/91402",
+      "title": "Handley Page Hampden AT110 (WMR 91402)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IWM entry for the Felpham plaque: description, current and old inscriptions, the three plaque iterations, condition, location and photos. Names are not listed. No maker, unveiling date or maintainer is given.",
+      "key_details": [
+        "Third plaque c2019",
+        "Current plaque says Le Havre; earlier plaque said Dortmund",
+        "Maintainer not stated",
+        "Condition Good"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/285847",
+      "title": "Hampden Bomber Crash (144 Sqdn, AT110)",
+      "publisher": "War Memorials Online",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "WMO entry for the memorial: description, old-plaque inscription, and a note that the plaque was moved from an overgrown wall to a low plinth by the local RAFA branch. Custodian fields read Information Required.",
+      "key_details": [
+        "Originally on a wall at the corner with Longbrook",
+        "Moved by local RAFA branch to a plinth near the road",
+        "Custodian: Information Required"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://www.eastlothiancourier.com/news/15254416.memorial-to-north-berwick-second-world-war-airman-unveiled-460-miles-from-his-home/",
+      "title": "Memorial to North Berwick Second World War airman unveiled 460 miles from his home",
+      "publisher": "East Lothian Courier",
+      "tier": "secondary",
+      "retrieved": "2026-11-06",
+      "summary": "Local news report on a 75th-anniversary plaque and Easter Sunday service at Felpham run by the Bognor Regis RAF Association. Page shows no date; the 75th anniversary points to April 2017.",
+      "key_details": [
+        "Service organised by Bognor Regis RAFA, conducted by its Padre",
+        "Branch secretary appealing for Hutchison's relatives",
+        "Engine fire believed to be the cause"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crew.name",
+      "value": "Stanley Wilson Charles Culmer",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C2",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C3",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C4",
+      "field": "crew.age",
+      "value": 26,
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C5",
+      "field": "crew.service_number",
+      "value": "1283606",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C6",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C7",
+      "field": "crew.fate",
+      "value": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C8",
+      "field": "crew.burial_location",
+      "value": "West Wickham (St John the Baptist) Churchyard",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C9",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/105412",
+      "sources": [
+        "S1"
+      ],
+      "person": "culmer-s"
+    },
+    {
+      "id": "C10",
+      "field": "crew.name",
+      "value": "James Aitken Hutchison",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C11",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C12",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C13",
+      "field": "crew.age",
+      "value": 25,
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C14",
+      "field": "crew.service_number",
+      "value": "951362",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C15",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C16",
+      "field": "crew.fate",
+      "value": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C17",
+      "field": "crew.burial_location",
+      "value": "North Benwick Cemetery, Section D, Grave 1660",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C18",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/111638",
+      "sources": [
+        "S2"
+      ],
+      "person": "hutchison-j"
+    },
+    {
+      "id": "C19",
+      "field": "crew.name",
+      "value": "Dennis Manning",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C20",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C21",
+      "field": "crew.role",
+      "value": "Air Gunner",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C22",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C23",
+      "field": "crew.service_number",
+      "value": "1112428",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C24",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C25",
+      "field": "crew.fate",
+      "value": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C26",
+      "field": "crew.burial_location",
+      "value": "Stoak (St Laurence) Churchyard, Row 4, Grave 2",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C27",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/114833",
+      "sources": [
+        "S3"
+      ],
+      "person": "manning-d"
+    },
+    {
+      "id": "C28",
+      "field": "crew.name",
+      "value": "Ronald Edward George Nation",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C29",
+      "field": "crew.rank",
+      "value": "Sergeant",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C30",
+      "field": "crew.role",
+      "value": "Observer",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C31",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C32",
+      "field": "crew.service_number",
+      "value": "925007",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C33",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C34",
+      "field": "crew.fate",
+      "value": "Killed 14 April 1942 when the aircraft crashed at Felpham",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C35",
+      "field": "crew.burial_location",
+      "value": "Bristol (Canford) Cemetery, Sec. Q, Grave 94",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C36",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/117062",
+      "sources": [
+        "S4"
+      ],
+      "person": "nation-r"
+    },
+    {
+      "id": "C37",
+      "field": "crash_date",
+      "value": "1942-04-14",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C38",
+      "field": "serial_number",
+      "value": "AT110",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C39",
+      "field": "aircraft_type",
+      "value": "Handley Page Hampden I",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "squadron",
+      "value": "144 Squadron",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "station",
+      "value": "RAF North Luffenham",
+      "sources": [
+        "S1",
+        "S5"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "died_count",
+      "value": 4,
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "operation_target",
+      "value": "Dortmund",
+      "sources": [
+        "S1",
+        "S6"
+      ],
+      "quote": "BOMB DORTMUND GERMANY"
+    },
+    {
+      "id": "C44",
+      "field": "operation_target",
+      "value": "Le Havre",
+      "sources": [
+        "S5"
+      ],
+      "quote": "TO ATTACK THE PORT OF LE HAVRE IN FRANCE"
+    },
+    {
+      "id": "C45",
+      "field": "event",
+      "value": "The aircraft crashed at 2215 at Felpham, between Bognor Regis and Middleton-on-Sea.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "event",
+      "value": "It was a night raid with 0% moon; the operation is dated 14-15 April 1942, and the aircraft carried the markings PL-.",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "event",
+      "value": "The current plaque gives an engine fire as the suspected cause; the earlier plaque said the full reason may never be known.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C48",
+      "field": "event",
+      "value": "All four men were serving in 144 Squadron, 5 Group, RAFVR.",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C49",
+      "field": "event",
+      "value": "The memorial is a polished steel plaque with an RAF wings badge and a Hampden outline, set into the sloping top of a rough-hewn stone block on a concrete base, beside Sea Road near the junction with Longbrook, Felpham.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "event",
+      "value": "The IWM record calls the plaque the third version. A new plaque was made around 2019 with spelling corrected. The second sits on a wooden backboard on the wall behind. The first was wall mounted with slightly different wording and no backboard.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "event",
+      "value": "The current plaque credits Tangmere Military Aviation Museum, Felpham Parish Council, Snooks Corner Community Centre, an anonymous donor and the RAF Association Bognor Regis Branch; the earlier plaque credited the museum, the parish council, Snooks Corner Community Group and an anonymous donor.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "event",
+      "value": "The plaque was first on a wall at the corner with Longbrook, which became overgrown. The local RAFA branch moved it to a low plinth close to the road.",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "event",
+      "value": "IWM lists the plaque and plinth condition as Good.",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "event",
+      "value": "War Memorials Online lists the custodian as Information Required and claims none; IWM states no maintainer. Neither names who owns or maintains the memorial.",
+      "sources": [
+        "S5",
+        "S6"
+      ]
+    },
+    {
+      "id": "C55",
+      "field": "event",
+      "value": "A plaque was reported unveiled for the 75th anniversary, with an Easter Sunday service organised by the Bognor Regis RAF Association and conducted by its Padre, the Rev Brian Shersby.",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C56",
+      "field": "event",
+      "value": "The branch secretary at that time, David Hewings, was appealing for relatives of Sgt Hutchison.",
+      "sources": [
+        "S7"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Hampden AT110 of 144 Squadron, 5 Group, took off from RAF North Luffenham on 14 April 1942 on a night operation. The IBCC Losses Database gives the target as Dortmund. The current plaque at Felpham says Le Havre, while the earlier plaque said Dortmund, so the target is not yet settled.",
+      "cites": [
+        "C38",
+        "C40",
+        "C41",
+        "C37",
+        "C48",
+        "C46",
+        "C43",
+        "C44"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "The aircraft crashed at 2215 at Felpham, between Bognor Regis and Middleton-on-Sea. All four crew died. The current plaque gives an engine fire as the suspected cause. The earlier plaque said the full reason may never be known.",
+      "cites": [
+        "C45",
+        "C42",
+        "C47"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The pilot was Sergeant Stanley Wilson Charles Culmer, aged 26, buried at West Wickham (St John the Baptist) Churchyard. Sergeant Ronald Edward George Nation, the observer, was 21 and is buried at Bristol (Canford) Cemetery. Sergeant James Aitken Hutchison, wireless operator and air gunner, was 25 and is buried at North Berwick. Sergeant Dennis Manning, air gunner, was 21 and is buried at Stoak (St Laurence) Churchyard.",
+      "cites": [
+        "C1",
+        "C3",
+        "C4",
+        "C8",
+        "C28",
+        "C30",
+        "C31",
+        "C35",
+        "C10",
+        "C12",
+        "C13",
+        "C17",
+        "C19",
+        "C21",
+        "C22",
+        "C26"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The memorial is a polished steel plaque with an RAF wings badge and a Hampden outline, set into the sloping top of a rough-hewn stone block on a concrete base. It stands beside Sea Road near the junction with Longbrook, Felpham.",
+      "cites": [
+        "C49"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "IWM records this as the third version of the plaque. A new plaque was made around 2019 with spelling corrected. The second sits on a wooden backboard on the wall behind. The first was wall mounted with slightly different wording and no backboard. IWM lists the condition as Good.",
+      "cites": [
+        "C50",
+        "C53"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The plaque was first on a wall at the corner with Longbrook, which became overgrown. The local RAFA branch moved it to a low plinth close to the road. No source read gives a maker or an unveiling date for the first plaque.",
+      "cites": [
+        "C52"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "The current plaque credits Tangmere Military Aviation Museum, Felpham Parish Council, Snooks Corner Community Centre, an anonymous donor and the RAF Association Bognor Regis Branch. The earlier plaque credited the museum, the parish council, Snooks Corner Community Group and an anonymous donor.",
+      "cites": [
+        "C51"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "No custodian is confirmed. War Memorials Online lists the custodian as Information Required and IWM states no maintainer. The only body shown acting on the plaque is the local RAFA branch, which moved it.",
+      "cites": [
+        "C54",
+        "C52"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "A local news report describes a 75th-anniversary plaque and an Easter Sunday service organised by the Bognor Regis RAF Association and conducted by its Padre, the Rev Brian Shersby. The branch secretary at that time, David Hewings, was appealing for relatives of Sgt Hutchison.",
+      "cites": [
+        "C55",
+        "C56"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://wmr.iwm.org.uk/sites/default/files/styles/thumbnail/public/2024-09/91402_-_115792_roger_brooks_2005_11_27.jpg",
+      "credit": "Roger Brooks (CC BY-SA 2.0), via IWM War Memorials Register",
+      "caption": "The Felpham Hampden plaque, photographed 27 November 2005",
+      "source_id": "S5"
+    }
+  ],
+  "custodian_status": "unknown",
+  "notes": "CUSTODIAN: unconfirmed. IWM maintainer not stated; WMO custodian 'Information Required'. Local RAFA Bognor Regis branch moved the plaque (WMO) and organised a 2017 service (East Lothian Courier), so it is the lead to ask, but no source says it owns or maintains the memorial. Status left 'unknown', not 'unknown-confirmed'.\nCONFLICT: target. IBCC (all four pages) and the old plaque (via WMO) say Dortmund; the current plaque (via IWM) says Le Havre. Both institutional-tier, so unresolved.\nNO IWM CAPTURE: research/iwm/handley-page-hampden-at110.json does not exist; IWM page was fetched directly (old URL 301s to memorials.iwm.org.uk). IWM lists no names on the stone.\nPAGES NOT READ (403): Traces of War 21702, baaa-acro node 538008, ASN wikibase 202504, Sussex Express/Bognor Observer articles. Search-result summaries of these (baaa-acro: Felpham, 4 killed, engine fire; ASN: 22:15, 4 killed; Observer: 80th-anniversary service by RAFA at the Sea Cadet unit, wreath laying, 'Le Havre with four 408 Sqn aircraft') were NOT used as sources. Worth reading by hand: they may supply second sources and the Le Havre/Dortmund answer, and the 2022 service.\nEast Lothian Courier is secondary and undated (April 2017 inferred, not stated); the two paragraph claims resting on it will be held back at apply until a researched-tier source confirms. WMO says local press reported plans to move the plaque in 2016; a RAFA report on its own website is mentioned by WMO but no URL given, not found. Plaque dedication date and maker not found; the 2017 unveiling and the c2019 replacement dates are not reconciled with each other.\nCREW: every crew fact rests on IBCC alone (one publisher, institutional tier). CWGC not fetched. IBCC gives CWGC casualty IDs for Manning (2736032) and Nation (2450735) but no cwgc_url claims were made because the CWGC pages were not read. Culmer and Hutchison CWGC IDs not seen. IBCC spells Hutchison's burial place 'North Benwick Cemetery' (apparent typo for North Berwick, where his parents lived). The Courier spells the pilot's forename 'Standley'. Plaque transcription and a search summary spelt the pilot 'Culmur'; not verified. Roles: IBCC gives Nation as Observer, Manning Air Gunner, Hutchison WOp/AG.\nPHOTO: only the IWM thumbnail URL was seen; apply would save a low-resolution image. Photo is the 2005 Roger Brooks image (Geograph 115792 per IWM); the caption date comes from WMO.\nLiving people: Rev Brian Shersby and David Hewings are named only in their published 2017 roles; no contact details."
+}

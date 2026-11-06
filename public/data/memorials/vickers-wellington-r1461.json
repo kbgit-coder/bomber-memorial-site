@@ -1,76 +1,211 @@
 {
   "id": "vickers-wellington-r1461",
   "title": "Vickers Wellington R1461",
-  "location_name": "Llansilin, Glyndwr",
+  "location_name": "Bwlch Y Rhiw Farmhouse, Llansilin",
   "county": "Clwyd",
   "country": "United Kingdom",
-  "aircraft_type": "Wellington",
+  "aircraft_type": "Vickers Wellington IC",
   "serial_number": "R1461",
-  "squadron": "",
+  "squadron": "15 OTU",
   "crash_date": "1943-01-26",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Wall-mounted, slate tablet bearing incised inscription in white lettering: the commemoration is above the names which are in a single column.",
+  "memorial_details": "IWM records a wall-mounted tablet of Welsh slate, in good condition, at Bwlch Y Rhiw Farmhouse on the B4580, Llansilin. It is on the house, which is the crash site. IWM does not state who made or erected it, when it was dedicated or who looks after it, and we found no other source that does. IBCC calls the county Montgomeryshire; IWM gives Glyndwr, Clwyd.",
   "inscription": "BWLCH-Y-RHIW FARMHOUSE/ At 0146 Hrs on 26th January 1943, a Wellington Aircraft, R1461, on a training exercise from/ R.A.F. Harwell, Berkshire, crashed on this house/ causing the deaths of/ EDWIN WILLIAMS, his wife ANNIE JANE/ and the entire crew of the aircraft/ SGT G G OTTLEY/ SGT L C MUSTON/ SGT J S TODD/ SGT C EDWARDS/ SGT B H PARKER",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/31139",
       "type": "official_database"
+    },
+    {
+      "title": "Vickers Wellington R1461 (WMR-31139)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/31139",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Todd, John Simpson",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/123492",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Air of Authority: RAF casualties January-September 1943",
+      "type": "researched",
+      "url": "https://rafweb.org/Members%20Pages/Casualties/1940s/1943/Casualties_1943_01-09.htm",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Edwards, Cadfan",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/106887/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Sergeant Leonard Charles Muston",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2711712/leonard-charles-muston/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Aeroplane Accident, Wales (written answer, 17 Feb 1943)",
+      "type": "official",
+      "url": "https://api.parliament.uk/historic-hansard/written_answers/1943/feb/17/aeroplane-accident-wales",
+      "date": "2026-11-06"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "Wellington R1461 of 15 Operational Training Unit took off from RAF Harwell on a night navigation exercise and crashed at Llansilin on 26 January 1943; the inscription gives the time as 0146 hrs. IBCC says the aircraft was seen on fire before it struck a hillside and then a farmhouse. The Air of Authority casualty listing says it crashed in flames, possibly after hitting high ground. The two civilians in the farmhouse, Edwin Williams and his wife Annie Jane, died with the crew. Sources disagree on the serial: the plaque and IWM give R1461, while IBCC and Air of Authority give R1491.\n\nFive sergeants of the RAFVR died. IBCC lists John Simpson Todd (22) as wireless operator and Cadfan Edwards (24) as WOp/AG. Air of Authority gives Geoffrey George Ottley (20), Leonard Charles Muston (28) and Brace Harry Parker (26); we found no source for their crew roles. Todd and Muston are buried at Oswestry General Cemetery. Edwards, Ottley and Parker are commemorated on the Runnymede Memorial.",
   "crew": [
     {
       "rank": "Sgt",
-      "name": "Geoffrey George Ottley",
-      "role": "Pilot",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Leonard Charles Muston",
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed"
-    },
-    {
-      "rank": "Sgt",
+      "fate": "Killed",
       "name": "John Simpson Todd",
-      "role": "Bomb Aimer",
-      "nationality": "British",
-      "fate": "Killed"
+      "role": "Wireless Operator",
+      "nationality": "United Kingdom",
+      "age": 22,
+      "service_number": "1385587",
+      "burial_location": "Oswestry General Cemetery, Section T, Grave 120",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/123492",
+      "hometown": "Epsom, Surrey"
     },
     {
       "rank": "Sgt",
-      "name": "Cadfan Edwards",
+      "fate": "Killed",
+      "name": "Geoffrey George Ottley",
       "role": "Crew",
       "nationality": "British",
-      "fate": "Killed"
+      "age": 20,
+      "service_number": "1387817",
+      "burial_location": "Runnymede Memorial"
     },
     {
       "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Leonard Charles Muston",
+      "role": "Crew",
+      "nationality": "British",
+      "age": 28,
+      "service_number": "1390823",
+      "burial_location": "Oswestry General Cemetery, Section T, Grave 212",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2711712/leonard-charles-muston/",
+      "hometown": "Fulham, London"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Cadfan Edwards",
+      "role": "WOp/AG",
+      "nationality": "United Kingdom",
+      "age": 24,
+      "service_number": "1313119",
+      "burial_location": "Runnymede Memorial, Panel 148",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/106887/"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
       "name": "Brace Harry Parker",
       "role": "Crew",
       "nationality": "British",
-      "fate": "Killed"
+      "age": 26,
+      "service_number": "1300008",
+      "burial_location": "Runnymede Memorial"
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-11-06",
   "latitude": 52.860505638328,
   "longitude": -3.149315711329,
   "grid_ref": "SJ 22701",
   "photos": [],
-  "names_on_memorial": 2,
-  "died_count": 2,
-  "external_narratives": [],
+  "names_on_memorial": 7,
+  "died_count": 5,
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/31139",
+      "summary": "IWM entry for the slate tablet at Bwlch Y Rhiw Farmhouse. Gives location, address, size, condition and a commemoration count of 2 civilians and 5 service dead. Maker, dedication date, erector and custodian are all 'not stated'.",
+      "key_details": [
+        "Wall-mounted Welsh slate tablet, c355 x 610 mm",
+        "Address B4580, Llansilin, SY10 7PT",
+        "Names-listed section empty; commemoration 2 civilians died, 5 service died",
+        "Condition Good",
+        "Main photo credited Huw Davies"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/123492",
+      "summary": "IBCC loss record for the wireless operator. Gives unit, base, cause, burial and the other four crew by surname. Records the aircraft as R1491, not R1461.",
+      "key_details": [
+        "15 OTU, Harwell, training navigation exercise, night",
+        "Serial R1491",
+        "Buried Oswestry General Cemetery, Section T, Grave 120",
+        "Notes the serial discrepancy with the plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Air of Authority (rafweb.org)",
+      "original_url": "https://rafweb.org/Members%20Pages/Casualties/1940s/1943/Casualties_1943_01-09.htm",
+      "summary": "Casualty listing. Five 26 January 1943 entries for Wellington IC R1491 of 15 OTU, each with service number, age and burial or memorial. Read via page fetch; an unrelated RNZAF entry (McKoy, Spitfire, 64 Sqn) shares the date and is not part of this crew.",
+      "key_details": [
+        "Five RAFVR sergeants listed with numbers and ages",
+        "Crashed in flames, possibly hitting high ground, near Llansilin on a night navigation exercise",
+        "Muston and Todd buried Oswestry; Edwards, Ottley, Parker on Runnymede"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/106887/",
+      "summary": "IBCC loss record for Sgt Edwards, WOp/AG, commemorated on Runnymede. Same flight details and serial R1491; describes the slate plaque at the farmhouse.",
+      "key_details": [
+        "WOp/AG, age 24, 1313119",
+        "Runnymede Memorial Panel 148",
+        "Serial R1491"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2711712/leonard-charles-muston/",
+      "summary": "CWGC record for Sgt Muston: RAFVR, died 26 January 1943 aged 28, buried Oswestry General Cemetery Sec. T Grave 212.",
+      "key_details": [
+        "Service number 1390823",
+        "Son of Herbert and Emma Rose Muston, of Fulham, London"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Hansard (UK Parliament)",
+      "original_url": "https://api.parliament.uk/historic-hansard/written_answers/1943/feb/17/aeroplane-accident-wales",
+      "summary": "Written answer to Robert Richards about a crash in Llansilin parish, Denbighshire, that killed two civilians and all the aircraft's occupants. The Air Minister said the cause was under investigation and compensation was for the Minister of Pensions.",
+      "key_details": [
+        "Question dated the crash to the 25th",
+        "Cause 'under investigation'"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/65/296/large_31139.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/166/553/large_31139.jpg"
   ],
   "community_connection": "",
-  "last_validated": "2026-04-13"
+  "last_validated": "2026-11-06",
+  "station": "RAF Harwell",
+  "operation_type": "Night training navigation exercise",
+  "cause_of_loss": "Seen on fire before it struck a hillside and then a farmhouse at Llansilin",
+  "memorial_address": "B4580, Llansilin, Glyndwr, Clwyd, SY10 7PT",
+  "condition": "Good"
 }

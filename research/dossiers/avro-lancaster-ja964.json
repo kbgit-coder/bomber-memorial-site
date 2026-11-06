@@ -1,0 +1,1018 @@
+{
+  "memorial_id": "avro-lancaster-ja964",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "Lancaster JA964 7 Squadron 22 March 1944 Frankfurt Wyborn Hinde",
+      "useful": true
+    },
+    {
+      "query": "IWM War Memorials Register 108560 (page fetch)",
+      "useful": true
+    },
+    {
+      "query": "IBCC Losses Wyborn John Henry JA964",
+      "useful": false
+    },
+    {
+      "query": "Bullivant Albert Edward 1805873 CWGC Rheinberg",
+      "useful": true
+    },
+    {
+      "query": "Hamilton Gordon Eben 424979 RNZAF 7 Squadron Auckland Museum Cenotaph",
+      "useful": true
+    },
+    {
+      "query": "Lambert Jack 421229 RAAF CWGC Rheinberg",
+      "useful": true
+    },
+    {
+      "query": "All Saints Church Longstanton stained glass window 7 Squadron Oakington",
+      "useful": true
+    },
+    {
+      "query": "Longstanton All Saints Lancaster JA964 Wyborn 70th anniversary 2014",
+      "useful": false
+    },
+    {
+      "query": "Hinde McMaster Love prisoners of war JA964 Stalag",
+      "useful": false
+    },
+    {
+      "query": "ukairfields Oakington Longstanton",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/108560",
+      "title": "Avro Lancaster JA964 (WMR-108560)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "The register entry for the photograph in All Saints' Church, Longstanton. It gives the description, size, condition and custodian, and says the inscription records a 7 Squadron Lancaster shot down by a night fighter on 22 March 1944 returning from Frankfurt.",
+      "key_details": [
+        "Black and white photograph under clear plastic, about 125 mm by 180 mm",
+        "Custodian All Saints' Church",
+        "Number commemorated 5 (1 served, 4 died)",
+        "Inscription as read begins 'JB455 (sic)'"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://aviationmuseumwa.org.au/?p=20327",
+      "title": "Lest We Forget: Lancaster JA964 and Flight Sergeant Jack Lambert",
+      "publisher": "Aviation Heritage Museum (WA)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "A tribute page for Jack Lambert that gives the full seven-man crew of JA964 with service numbers, roles and fates, the take-off time, and extracts from the 1945 statements of the pilot and bomb aimer.",
+      "key_details": [
+        "Took off Oakington 18:58 on 22 March 1944 for Frankfurt",
+        "Four killed, three prisoners of war",
+        "Hinde and McMaster statements give different crash locations"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/203761",
+      "title": "Bullivant, Albert Edward (IBCC Losses Database)",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC entry for the mid-upper gunner. It records the aircraft as Lancaster III JA964 (MG-P) of 7 Squadron from Oakington, the Frankfurt raid of 22-23 March 1944, burial at Rheinberg, and his link to All Saints, Longstanton.",
+      "key_details": [
+        "Lancaster III JA964 MG-P, 8 Group",
+        "816 aircraft on the raid, 33 lost",
+        "Listed memorials include a window and Roll of Honour at All Saints, Longstanton"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2033325",
+      "title": "Flying Officer John Henry Wyborn (CWGC)",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC casualty record: age 28, buried Rheinberg War Cemetery 8. A. 14.",
+      "key_details": [
+        "124519",
+        "RAFVR, 7 Squadron",
+        "8. A. 14."
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2047382",
+      "title": "Flight Sergeant Gordon Eben Hamilton (CWGC)",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC casualty record: RNZAF, age 20, buried Rheinberg War Cemetery 8. A. 16.",
+      "key_details": [
+        "424979",
+        "RNZAF, 7 (RAF) Squadron",
+        "8. A. 16."
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2042592",
+      "title": "Sergeant Albert Edward Bullivant (CWGC)",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC casualty record: age 20, buried Rheinberg War Cemetery 8. A. 17.",
+      "key_details": [
+        "1805873",
+        "RAFVR, 7 Squadron",
+        "8. A. 17."
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2047830",
+      "title": "Flight Sergeant Jack Lambert (CWGC)",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC casualty record: RAAF, age 22, buried Rheinberg War Cemetery 8. A. 15.",
+      "key_details": [
+        "421229",
+        "RAAF",
+        "8. A. 15."
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "https://7squadronassociation.com/all_saint_s_parish_church",
+      "title": "All Saints' Parish Church",
+      "publisher": "7 Squadron Association",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "The squadron association's page on All Saints', Longstanton: the church holds the squadron's memorial window and Book of Remembrance, and the association holds its Remembrance service there each autumn.",
+      "key_details": [
+        "Window dedicated 17 August 1992",
+        "Book of Remembrance: 72 WWI and 1,011 WWII names",
+        "Grade I listed church"
+      ]
+    },
+    {
+      "id": "S9",
+      "url": "https://www.ldhs.org/?p=663",
+      "title": "All Saints' Church Longstanton",
+      "publisher": "Longstanton & District Heritage Society",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Local history page on the church: Grade I listed, nave roof collapse in the early 2000s, closure for about five years, Friends of All Saints' Church formed, reopened 30 September 2007.",
+      "key_details": [
+        "Reopened 30 September 2007",
+        "Friends of All Saints' Church"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1944-03-22",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "JA964",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Lancaster III",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "7 Squadron",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "Oakington",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_target",
+      "value": "Frankfurt",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Shot down by a night fighter",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "died_count",
+      "value": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "memorial_type",
+      "value": "Photograph",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "memorial_address",
+      "value": "All Saints' Church, Rampton Road, Longstanton, Cambridgeshire, CB24 3BP",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "county",
+      "value": "Cambridgeshire",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "maintainer.organisation",
+      "value": "All Saints' Church",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "event",
+      "value": "Lancaster JA964 took off from Oakington at 18:58 on 22 March 1944 to bomb Frankfurt; nothing was heard from it after take-off",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "JA964 carried the markings MG-P and 7 Squadron flew from Oakington in 8 Group",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "The raid was the night of 22-23 March 1944: 816 aircraft took part and 33 were lost",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "Post-war enquiries established the aircraft was shot down; four of the crew were killed and three were prisoners of war",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "event",
+      "value": "Hinde's 1945 statement: the aircraft was attacked ten minutes before the target, a second attack two minutes later set the port inner engine on fire, he ordered the crew out at about 16,000 feet, and it crashed half way between Frankfurt and Saarbrucken",
+      "sources": [
+        "S2"
+      ],
+      "quote": "The aircraft was attacked 10 minutes before the target, causing momentary loss of control."
+    },
+    {
+      "id": "C19",
+      "field": "event",
+      "value": "McMaster's 1945 statement: he baled out at 19,000 feet with the controls useless and fire in the port engine, and placed the crash 10 miles east of 'Jaoberstein' and east of Trier",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "event",
+      "value": "Hinde and McMaster were released by the Russians; McMaster's release was in May 1945",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "event",
+      "value": "The memorial is a black and white photograph of aircrew in front of a Lancaster, mounted under clear plastic, with crew details in white print, about 125 mm high and 180 mm wide, on paper",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "event",
+      "value": "All Saints' Church is a Grade I listed building",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "event",
+      "value": "The church holds the 7 Squadron Memorial Window, dedicated on 17 August 1992, and the squadron's Book of Remembrance, which lists 1,011 Second World War dead",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "event",
+      "value": "The 7 Squadron Association holds its Remembrance Day service at All Saints' each autumn",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "event",
+      "value": "IBCC lists a stained glass window and Roll of Honour at All Saints, Longstanton, among the memorials for Sgt Bullivant",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C26",
+      "field": "event",
+      "value": "The church was closed for about five years after the nave roof collapsed, and reopened on 30 September 2007 after the Friends of All Saints' Church were formed",
+      "sources": [
+        "S9"
+      ]
+    },
+    {
+      "id": "C27",
+      "field": "event",
+      "value": "Lambert is also on Panel 125 of the Australian War Memorial Roll of Honour",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C28",
+      "field": "crew.name",
+      "person": "wyborn-jh",
+      "value": "John Henry Wyborn",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C29",
+      "field": "crew.rank",
+      "person": "wyborn-jh",
+      "value": "Flying Officer",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C30",
+      "field": "crew.role",
+      "person": "wyborn-jh",
+      "value": "Navigator",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C31",
+      "field": "crew.age",
+      "person": "wyborn-jh",
+      "value": 28,
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C32",
+      "field": "crew.service_number",
+      "person": "wyborn-jh",
+      "value": "124519",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C33",
+      "field": "crew.nationality",
+      "person": "wyborn-jh",
+      "value": "British",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C34",
+      "field": "crew.fate",
+      "person": "wyborn-jh",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C35",
+      "field": "crew.burial_location",
+      "person": "wyborn-jh",
+      "value": "Rheinberg War Cemetery, Germany, grave 8. A. 14",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C36",
+      "field": "crew.cwgc_url",
+      "person": "wyborn-jh",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2033325",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C37",
+      "field": "crew.name",
+      "person": "lambert-j",
+      "value": "Jack Lambert",
+      "sources": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "id": "C38",
+      "field": "crew.rank",
+      "person": "lambert-j",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "id": "C39",
+      "field": "crew.role",
+      "person": "lambert-j",
+      "value": "Wireless operator/air gunner",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C40",
+      "field": "crew.age",
+      "person": "lambert-j",
+      "value": 22,
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C41",
+      "field": "crew.service_number",
+      "person": "lambert-j",
+      "value": "421229",
+      "sources": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "id": "C42",
+      "field": "crew.nationality",
+      "person": "lambert-j",
+      "value": "Australian",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C43",
+      "field": "crew.fate",
+      "person": "lambert-j",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S7"
+      ]
+    },
+    {
+      "id": "C44",
+      "field": "crew.burial_location",
+      "person": "lambert-j",
+      "value": "Rheinberg War Cemetery, Germany, grave 8. A. 15",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C45",
+      "field": "crew.cwgc_url",
+      "person": "lambert-j",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2047830",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C46",
+      "field": "crew.name",
+      "person": "hamilton-ge",
+      "value": "Gordon Eben Hamilton",
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C47",
+      "field": "crew.rank",
+      "person": "hamilton-ge",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C48",
+      "field": "crew.role",
+      "person": "hamilton-ge",
+      "value": "Rear gunner",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C49",
+      "field": "crew.age",
+      "person": "hamilton-ge",
+      "value": 20,
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C50",
+      "field": "crew.service_number",
+      "person": "hamilton-ge",
+      "value": "424979",
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C51",
+      "field": "crew.nationality",
+      "person": "hamilton-ge",
+      "value": "New Zealander",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C52",
+      "field": "crew.fate",
+      "person": "hamilton-ge",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S5"
+      ]
+    },
+    {
+      "id": "C53",
+      "field": "crew.burial_location",
+      "person": "hamilton-ge",
+      "value": "Rheinberg War Cemetery, Germany, grave 8. A. 16",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C54",
+      "field": "crew.cwgc_url",
+      "person": "hamilton-ge",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2047382",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C55",
+      "field": "crew.name",
+      "person": "bullivant-ae",
+      "value": "Albert Edward Bullivant",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C56",
+      "field": "crew.rank",
+      "person": "bullivant-ae",
+      "value": "Sergeant",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C57",
+      "field": "crew.role",
+      "person": "bullivant-ae",
+      "value": "Mid-upper gunner",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C58",
+      "field": "crew.age",
+      "person": "bullivant-ae",
+      "value": 20,
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C59",
+      "field": "crew.service_number",
+      "person": "bullivant-ae",
+      "value": "1805873",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C60",
+      "field": "crew.nationality",
+      "person": "bullivant-ae",
+      "value": "British",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C61",
+      "field": "crew.fate",
+      "person": "bullivant-ae",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C62",
+      "field": "crew.burial_location",
+      "person": "bullivant-ae",
+      "value": "Rheinberg War Cemetery, Germany, grave 8. A. 17",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C63",
+      "field": "crew.cwgc_url",
+      "person": "bullivant-ae",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2042592",
+      "sources": [
+        "S6"
+      ]
+    },
+    {
+      "id": "C64",
+      "field": "crew.ibcc_url",
+      "person": "bullivant-ae",
+      "value": "https://losses.internationalbcc.co.uk/loss/203761",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C65",
+      "field": "crew.hometown",
+      "person": "bullivant-ae",
+      "value": "Nunhead, London",
+      "sources": [
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "id": "C66",
+      "field": "crew.hometown",
+      "person": "lambert-j",
+      "value": "Randwick, New South Wales",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C67",
+      "field": "crew.hometown",
+      "person": "hamilton-ge",
+      "value": "Silverdale, Auckland",
+      "sources": [
+        "S5"
+      ]
+    },
+    {
+      "id": "C68",
+      "field": "crew.name",
+      "person": "hinde-k",
+      "value": "Kenneth Hinde",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C69",
+      "field": "crew.rank",
+      "person": "hinde-k",
+      "value": "Flying Officer",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C70",
+      "field": "crew.role",
+      "person": "hinde-k",
+      "value": "Pilot",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C71",
+      "field": "crew.service_number",
+      "person": "hinde-k",
+      "value": "413382",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C72",
+      "field": "crew.fate",
+      "person": "hinde-k",
+      "value": "Prisoner of War",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C73",
+      "field": "crew.name",
+      "person": "love-ai",
+      "value": "Albert Ivon Love",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C74",
+      "field": "crew.rank",
+      "person": "love-ai",
+      "value": "Sergeant",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C75",
+      "field": "crew.role",
+      "person": "love-ai",
+      "value": "Flight engineer",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C76",
+      "field": "crew.service_number",
+      "person": "love-ai",
+      "value": "1815027",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C77",
+      "field": "crew.fate",
+      "person": "love-ai",
+      "value": "Prisoner of War",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C78",
+      "field": "crew.name",
+      "person": "mcmaster-hs",
+      "value": "Harry Stevenson McMaster",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C79",
+      "field": "crew.rank",
+      "person": "mcmaster-hs",
+      "value": "Flight Sergeant",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C80",
+      "field": "crew.role",
+      "person": "mcmaster-hs",
+      "value": "Bomb aimer",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C81",
+      "field": "crew.service_number",
+      "person": "mcmaster-hs",
+      "value": "422659",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C82",
+      "field": "crew.fate",
+      "person": "mcmaster-hs",
+      "value": "Prisoner of War",
+      "sources": [
+        "S2"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Lancaster III JA964, marked MG-P, took off from Oakington at 18:58 on 22 March 1944 to bomb Frankfurt. It flew with 7 Squadron, 8 Group. The raid that night involved 816 aircraft, and 33 were lost. Nothing was heard from JA964 after take-off, and it did not return.",
+      "cites": [
+        "C14",
+        "C15",
+        "C16",
+        "C4",
+        "C5",
+        "C6",
+        "C3",
+        "C2"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Post-war enquiries established that the aircraft had been shot down. The memorial in Longstanton says a night fighter did it. The pilot, Flying Officer Kenneth Hinde, said in 1945 that the Lancaster was attacked ten minutes before the target and again two minutes later, which set the port inner engine on fire. He ordered the crew out at about 16,000 feet and put the crash half way between Frankfurt and Saarbrucken. The bomb aimer, Flight Sergeant Harry McMaster, said he baled out at 19,000 feet with the controls useless and a fire in the port engine. He put the crash 10 miles east of a place he gave as 'Jaoberstein', east of Trier. The two accounts place the crash in different spots, and no source here settles which is right.",
+      "cites": [
+        "C17",
+        "C7",
+        "C18",
+        "C19"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Four men died: Flying Officer John Henry Wyborn (navigator, 28), Flight Sergeant Jack Lambert (wireless operator/air gunner, 22, RAAF), Flight Sergeant Gordon Eben Hamilton (rear gunner, 20, RNZAF) and Sergeant Albert Edward Bullivant (mid-upper gunner, 20). All four are buried at Rheinberg War Cemetery. Three survived as prisoners of war: Hinde, Sergeant Albert Ivon Love (flight engineer) and McMaster. Hinde and McMaster were released by the Russians.",
+      "cites": [
+        "C8",
+        "C28",
+        "C29",
+        "C30",
+        "C31",
+        "C37",
+        "C38",
+        "C39",
+        "C40",
+        "C46",
+        "C47",
+        "C48",
+        "C49",
+        "C55",
+        "C56",
+        "C57",
+        "C58",
+        "C35",
+        "C44",
+        "C53",
+        "C62",
+        "C68",
+        "C69",
+        "C70",
+        "C71",
+        "C72",
+        "C73",
+        "C74",
+        "C75",
+        "C76",
+        "C77",
+        "C78",
+        "C79",
+        "C80",
+        "C81",
+        "C82",
+        "C20"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The memorial is a black and white photograph of aircrew in front of a Lancaster, mounted under clear plastic, with crew details in white print. It is about 125 mm high and 180 mm wide, on paper, and its condition is good. It hangs in All Saints' Church, Rampton Road, Longstanton. All Saints' is the custodian. The church is Grade I listed.",
+      "cites": [
+        "C9",
+        "C21",
+        "C12",
+        "C10",
+        "C13",
+        "C22"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "All Saints' holds the 7 Squadron Memorial Window, dedicated on 17 August 1992, and the squadron's Book of Remembrance, which lists 1,011 Second World War dead. The 7 Squadron Association holds its Remembrance Day service there each autumn. IBCC also lists a window and Roll of Honour at All Saints' in its entry for Sergeant Bullivant. The church was closed for about five years after its nave roof collapsed and reopened on 30 September 2007.",
+      "cites": [
+        "C23",
+        "C24",
+        "C25",
+        "C26"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/176/46/large_p1050926.jpg",
+      "credit": "IWM War Memorials Register (source: John Bastock)",
+      "caption": "The framed photograph in All Saints' Church, Longstanton",
+      "source_id": "S1"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/175/821/large_16___compressed.jpg",
+      "credit": "IWM War Memorials Register (source: John Bastock)",
+      "caption": "The photograph of the crew in front of a Lancaster",
+      "source_id": "S1"
+    }
+  ],
+  "custodian_status": "known",
+  "notes": "CREW: our placeholder 'Unknown (PoW 1)' (Flt Sgt, Crew) is wrong. S2 names three PoWs: Hinde (pilot), Love (flight engineer, Sgt RAFVR), McMaster (bomb aimer, Flt Sgt RAAF). Love and McMaster are missing from our record; the placeholder should go, but crew names are not retracted here, so a human should remove it. Our Hinde entry says Australian; S2 gives only service RAAF, so nationality is not claimed for the PoWs. Roles for the four dead are from S2 only (IBCC just says air gunner for Bullivant). CONFLICTS/DOUBTS: (1) IWM's inscription reads 'JB455 (sic)' where the memorial text begins; our record's inscription says JA964. IBCC and S2 both give JA964 for this loss, so 'JB455' looks like an error on the stone. I did not claim the inscription field; a human should check the IWM photos. (2) IWM says 5 commemorated (1 served, 4 died); our record says 4 names and the inscription lists 4. The fifth is unidentified; the IWM page showed only a names placeholder. (3) Hinde and McMaster give different crash places (both quoted in the narrative). (4) S2 says Hinde's statement mentions only Love and McMaster as PoWs; unresolved. (5) IBCC warns the crew may not share one date of death; CWGC gives 22 March 1944 for all four. WHY IN LONGSTANTON: no source I read says who placed the photograph or when (the IWM entry gives no maker or dedication date). The 7 Squadron Association and IBCC show the church is the squadron's memorial church (window, Book of Remembrance). The IWM description says it is a 70th anniversary item (i.e. around 2014), but that rests on our own record's inscription, not an independent read. OAKINGTON/LONGSTANTON: Oakington as base is confirmed by S2 and S3. That the airfield sits beside Longstanton comes from a UK Airfields page heading ('Oakington / Longstanton / Northstowe') and a search snippet attributed to Wikipedia; neither is cited as a claim, so I left it out of the story. The 1944 Longstanton church link was not otherwise tied to this crew. NOT FOUND: IBCC pages for Wyborn, Hamilton, Lambert, Hinde, Love, McMaster (one IBCC fetch returned 429, so I stopped); Auckland Museum Cenotaph and AWM pages were not fetched; PoW camps; ages of PoWs; the target's weather or raid detail beyond IBCC. S2 is a museum tribute page and may draw on the same service files as other sources; treat its crew list as single-source for the PoWs. Lambert's Panel 125 is from S2 (AWM page not read). Coordinates untouched."
+}

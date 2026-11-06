@@ -4,96 +4,294 @@
   "location_name": "Longstanton, South Cambridgeshire",
   "county": "Cambridgeshire",
   "country": "United Kingdom",
-  "aircraft_type": "Lancaster",
+  "aircraft_type": "Lancaster III",
   "serial_number": "JA964",
   "squadron": "7 Squadron",
   "crash_date": "1944-03-22",
   "memorial_type": "Photograph",
-  "memorial_details": "Black & White photograph of aircrew in front of a Lancaster bomber mounted under clear plastic. Crew details printed in white letters.",
+  "memorial_details": "The memorial is a black and white photograph of aircrew in front of a Lancaster, mounted under clear plastic, with crew details in white print. It is about 125 mm high and 180 mm wide, on paper, and its condition is good. It hangs in All Saints' Church, Rampton Road, Longstanton. All Saints' is the custodian. The church is Grade I listed.",
   "inscription": "REMEMBERING THE 70TH ANNIVERSARY OF LANCASTER JA964 OF 7 SQUADRON SHOT/ DOWN BY A NIGHT FIGHTER ON 22ND MARCH 1944 RETURNING FROM FRANKFURT/ FG OFF J H WYBORN/ FLT SGT J LAMBERT RAAF/ FLT SGT G E HAMILTON RNZAF/ SGT A E BULLIVANT",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/108560",
       "type": "official_database"
+    },
+    {
+      "title": "Lest We Forget: Lancaster JA964 and Flight Sergeant Jack Lambert",
+      "type": "researched",
+      "url": "https://aviationmuseumwa.org.au/?p=20327",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Sergeant Albert Edward Bullivant (CWGC)",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2042592",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bullivant, Albert Edward (IBCC Losses Database)",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/203761",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Avro Lancaster JA964 (WMR-108560)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/108560",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flying Officer John Henry Wyborn (CWGC)",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2033325",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flight Sergeant Jack Lambert (CWGC)",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2047830",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flight Sergeant Gordon Eben Hamilton (CWGC)",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2047382",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "All Saints' Parish Church",
+      "type": "researched",
+      "url": "https://7squadronassociation.com/all_saint_s_parish_church",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "All Saints' Church Longstanton",
+      "type": "researched",
+      "url": "https://www.ldhs.org/?p=663",
+      "date": "2026-11-06"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "Lancaster III JA964, marked MG-P, took off from Oakington at 18:58 on 22 March 1944 to bomb Frankfurt. It flew with 7 Squadron, 8 Group. The raid that night involved 816 aircraft, and 33 were lost. Nothing was heard from JA964 after take-off, and it did not return.\n\nPost-war enquiries established that the aircraft had been shot down. The memorial in Longstanton says a night fighter did it. The pilot, Flying Officer Kenneth Hinde, said in 1945 that the Lancaster was attacked ten minutes before the target and again two minutes later, which set the port inner engine on fire. He ordered the crew out at about 16,000 feet and put the crash half way between Frankfurt and Saarbrucken. The bomb aimer, Flight Sergeant Harry McMaster, said he baled out at 19,000 feet with the controls useless and a fire in the port engine. He put the crash 10 miles east of a place he gave as 'Jaoberstein', east of Trier. The two accounts place the crash in different spots, and no source here settles which is right.\n\nFour men died: Flying Officer John Henry Wyborn (navigator, 28), Flight Sergeant Jack Lambert (wireless operator/air gunner, 22, RAAF), Flight Sergeant Gordon Eben Hamilton (rear gunner, 20, RNZAF) and Sergeant Albert Edward Bullivant (mid-upper gunner, 20). All four are buried at Rheinberg War Cemetery. Three survived as prisoners of war: Hinde, Sergeant Albert Ivon Love (flight engineer) and McMaster. Hinde and McMaster were released by the Russians.",
   "crew": [
     {
-      "rank": "Fg Off",
-      "name": "John Henry Wyborn",
-      "role": "Navigator",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 28,
-      "service_number": "124519"
-    },
-    {
-      "rank": "Flt Sgt",
-      "name": "Jack Lambert",
-      "role": "Wireless Operator/Air Gunner",
-      "nationality": "Australian",
-      "fate": "Killed",
-      "age": 22,
-      "service_number": "421229"
-    },
-    {
-      "rank": "Flt Sgt",
-      "name": "Gordon Eben Hamilton",
-      "role": "Air Gunner (Rear)",
-      "nationality": "New Zealander",
-      "fate": "Killed",
-      "age": 20,
-      "service_number": "424979"
-    },
-    {
-      "rank": "Sgt",
-      "name": "Albert Edward Bullivant",
-      "role": "Air Gunner (Mid Upper)",
-      "nationality": "British",
-      "fate": "Killed",
-      "age": 20,
-      "service_number": "1805873"
-    },
-    {
-      "rank": "Fg Off",
+      "rank": "Flying Officer",
+      "fate": "Prisoner of War",
       "name": "Kenneth Hinde",
       "role": "Pilot",
       "nationality": "Australian",
-      "fate": "Prisoner of War",
       "service_number": "413382"
     },
     {
-      "rank": "Flt Sgt",
-      "name": "Unknown (PoW 1)",
-      "role": "Crew",
-      "nationality": "Unknown",
-      "fate": "Prisoner of War"
+      "rank": "Flying Officer",
+      "fate": "Killed",
+      "name": "John Henry Wyborn",
+      "role": "Navigator",
+      "nationality": "British",
+      "age": 28,
+      "service_number": "124519",
+      "burial_location": "Rheinberg War Cemetery, Germany, grave 8. A. 14",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2033325"
     },
     {
-      "rank": "Flt Sgt",
-      "name": "Unknown (PoW 2)",
-      "role": "Crew",
-      "nationality": "Unknown",
-      "fate": "Prisoner of War"
+      "rank": "Sergeant",
+      "fate": "Prisoner of War",
+      "name": "Albert Ivon Love",
+      "role": "Flight engineer",
+      "service_number": "1815027"
+    },
+    {
+      "rank": "Flight Sergeant",
+      "fate": "Prisoner of War",
+      "name": "Harry Stevenson McMaster",
+      "role": "Bomb aimer",
+      "service_number": "422659"
+    },
+    {
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "Jack Lambert",
+      "role": "Wireless operator/air gunner",
+      "nationality": "Australian",
+      "age": 22,
+      "service_number": "421229",
+      "burial_location": "Rheinberg War Cemetery, Germany, grave 8. A. 15",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2047830",
+      "hometown": "Randwick, New South Wales"
+    },
+    {
+      "rank": "Sergeant",
+      "fate": "Killed",
+      "name": "Albert Edward Bullivant",
+      "role": "Mid-upper gunner",
+      "nationality": "British",
+      "age": 20,
+      "service_number": "1805873",
+      "burial_location": "Rheinberg War Cemetery, Germany, grave 8. A. 17",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2042592",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/203761",
+      "hometown": "Nunhead, London"
+    },
+    {
+      "rank": "Flight Sergeant",
+      "fate": "Killed",
+      "name": "Gordon Eben Hamilton",
+      "role": "Rear gunner",
+      "nationality": "New Zealander",
+      "age": 20,
+      "service_number": "424979",
+      "burial_location": "Rheinberg War Cemetery, Germany, grave 8. A. 16",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2047382",
+      "hometown": "Silverdale, Auckland"
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-10-25",
-  "photos": [],
+  "last_updated": "2026-11-06",
+  "photos": [
+    {
+      "filename": "avro-lancaster-ja964/large_p1050926.jpg",
+      "caption": "The framed photograph in All Saints' Church, Longstanton",
+      "credit": "IWM War Memorials Register (source: John Bastock)",
+      "source": "https://media.iwm.org.uk/ciim5/memorials/176/46/large_p1050926.jpg"
+    },
+    {
+      "filename": "avro-lancaster-ja964/large_16___compressed.jpg",
+      "caption": "The photograph of the crew in front of a Lancaster",
+      "credit": "IWM War Memorials Register (source: John Bastock)",
+      "source": "https://media.iwm.org.uk/ciim5/memorials/175/821/large_16___compressed.jpg"
+    }
+  ],
   "names_on_memorial": 4,
   "died_count": 4,
   "custodian": "All Saints' Church",
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "Aviation Heritage Museum (WA)",
+      "original_url": "https://aviationmuseumwa.org.au/?p=20327",
+      "summary": "A tribute page for Jack Lambert that gives the full seven-man crew of JA964 with service numbers, roles and fates, the take-off time, and extracts from the 1945 statements of the pilot and bomb aimer.",
+      "key_details": [
+        "Took off Oakington 18:58 on 22 March 1944 for Frankfurt",
+        "Four killed, three prisoners of war",
+        "Hinde and McMaster statements give different crash locations"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2042592",
+      "summary": "CWGC casualty record: age 20, buried Rheinberg War Cemetery 8. A. 17.",
+      "key_details": [
+        "1805873",
+        "RAFVR, 7 Squadron",
+        "8. A. 17."
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/203761",
+      "summary": "IBCC entry for the mid-upper gunner. It records the aircraft as Lancaster III JA964 (MG-P) of 7 Squadron from Oakington, the Frankfurt raid of 22-23 March 1944, burial at Rheinberg, and his link to All Saints, Longstanton.",
+      "key_details": [
+        "Lancaster III JA964 MG-P, 8 Group",
+        "816 aircraft on the raid, 33 lost",
+        "Listed memorials include a window and Roll of Honour at All Saints, Longstanton"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/108560",
+      "summary": "The register entry for the photograph in All Saints' Church, Longstanton. It gives the description, size, condition and custodian, and says the inscription records a 7 Squadron Lancaster shot down by a night fighter on 22 March 1944 returning from Frankfurt.",
+      "key_details": [
+        "Black and white photograph under clear plastic, about 125 mm by 180 mm",
+        "Custodian All Saints' Church",
+        "Number commemorated 5 (1 served, 4 died)",
+        "Inscription as read begins 'JB455 (sic)'"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2033325",
+      "summary": "CWGC casualty record: age 28, buried Rheinberg War Cemetery 8. A. 14.",
+      "key_details": [
+        "124519",
+        "RAFVR, 7 Squadron",
+        "8. A. 14."
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2047830",
+      "summary": "CWGC casualty record: RAAF, age 22, buried Rheinberg War Cemetery 8. A. 15.",
+      "key_details": [
+        "421229",
+        "RAAF",
+        "8. A. 15."
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2047382",
+      "summary": "CWGC casualty record: RNZAF, age 20, buried Rheinberg War Cemetery 8. A. 16.",
+      "key_details": [
+        "424979",
+        "RNZAF, 7 (RAF) Squadron",
+        "8. A. 16."
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "7 Squadron Association",
+      "original_url": "https://7squadronassociation.com/all_saint_s_parish_church",
+      "summary": "The squadron association's page on All Saints', Longstanton: the church holds the squadron's memorial window and Book of Remembrance, and the association holds its Remembrance service there each autumn.",
+      "key_details": [
+        "Window dedicated 17 August 1992",
+        "Book of Remembrance: 72 WWI and 1,011 WWII names",
+        "Grade I listed church"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Longstanton & District Heritage Society",
+      "original_url": "https://www.ldhs.org/?p=663",
+      "summary": "Local history page on the church: Grade I listed, nave roof collapse in the early 2000s, closure for about five years, Friends of All Saints' Church formed, reopened 30 September 2007.",
+      "key_details": [
+        "Reopened 30 September 2007",
+        "Friends of All Saints' Church"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/176/46/large_p1050926.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/175/821/large_16___compressed.jpg"
   ],
-  "latitude": 52.303,
-  "longitude": -0.057,
-  "coordinates_approximate": true,
-  "community_connection": "The memorial is cared for by All Saints' Church."
+  "latitude": 52.2781,
+  "longitude": 0.0492,
+  "community_connection": "All Saints' holds the 7 Squadron Memorial Window, dedicated on 17 August 1992, and the squadron's Book of Remembrance, which lists 1,011 Second World War dead. The 7 Squadron Association holds its Remembrance Day service there each autumn. IBCC also lists a window and Roll of Honour at All Saints' in its entry for Sergeant Bullivant. The church was closed for about five years after its nave roof collapsed and reopened on 30 September 2007.",
+  "grid_ref": "TL 39893 66411",
+  "station": "Oakington",
+  "operation_target": "Frankfurt",
+  "cause_of_loss": "Shot down by a night fighter",
+  "memorial_address": "All Saints' Church, Rampton Road, Longstanton, Cambridgeshire, CB24 3BP",
+  "condition": "Good",
+  "maintainer": {
+    "organisation": "All Saints' Church",
+    "maintainer_type": ""
+  },
+  "last_validated": "2026-11-06"
 }
