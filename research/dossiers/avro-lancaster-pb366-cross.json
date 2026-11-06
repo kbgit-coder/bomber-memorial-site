@@ -1189,25 +1189,6 @@
       ]
     },
     {
-      "id": "C91",
-      "field": "dedication_date",
-      "value": "2022-05-07",
-      "sources": [
-        "S13",
-        "S15",
-        "S18"
-      ]
-    },
-    {
-      "id": "C92",
-      "field": "erected_by",
-      "value": "Great Paxton History Society",
-      "sources": [
-        "S15",
-        "S18"
-      ]
-    },
-    {
       "id": "C93",
       "field": "memorial_type",
       "value": "Cross",
@@ -1234,7 +1215,7 @@
     {
       "id": "C96",
       "field": "inscription",
-      "value": "Cross: LANCASTER CRASH 1944. Board: CHRISTMAS EVE 44 / LANCASTER PB366 / (Names) / 35 SQUADRON",
+      "value": "Cross: LANCASTER CRASH 1944. Board: CHRISTMAS EVE 44/ LANCASTER PB366/ 35 SQUADRON",
       "sources": [
         "S12"
       ]
@@ -1493,27 +1474,6 @@
         "C96",
         "C95"
       ]
-    },
-    {
-      "section": "memorial_details",
-      "text": "The crew now also have a stone pillar with an eagle and bronze plaque in Holy Trinity churchyard, unveiled and dedicated on 7 May 2022 and organised by the Great Paxton History Society. IBCC lists the two as separate memorials. The 35 Squadron site says the 2022 memorial replaced an earlier one near the crash site, without calling it a cross, so whether the cross still stands is not established by any source read. No source read says who looks after the cross.",
-      "cites": [
-        "C91",
-        "C92",
-        "C118",
-        "C113",
-        "C119"
-      ]
-    },
-    {
-      "section": "community_connection",
-      "text": "The Great Paxton History Society organised the funding, planning and installation of the pillar, paid for by donations from residents, crew families, local businesses and a JustGiving appeal. More than 300 people came to the unveiling on 7 May 2022. Local schoolchildren's poems were read, Roy Yallop's brother read his brother's poem, and a BBMF Spitfire flew past at the end.",
-      "cites": [
-        "C117",
-        "C114",
-        "C116",
-        "C115"
-      ]
     }
   ],
   "photos": [
@@ -1543,5 +1503,19 @@
     }
   ],
   "custodian_status": "unknown",
-  "notes": "Conflicts and cautions. (1) Yallop's middle names: IBCC, 35 Squadron site and Aircrew Remembered give Roy Frederick Arthur; the Graveley PDF gives Roy Arthur. Same man, variant claim recorded. (2) Albert Thomas's age is 22 only from Aircrew Remembered (single source); IBCC and CWGC show no age, the Graveley PDF a question mark. (3) Crew roles for Cousins, Winter and Yallop (bomb aimer, mid-upper, rear gunner) rest on Aircrew Remembered only; IBCC says Air Bomber / Air Gunner. (4) Material of the pillar: IWM says Clipsham stone; Hunts Post planning report (S17) says granite from a Cornish quarry. Not used in paragraphs because Hunts Post is secondary; it may be the proposed rather than final stone. (5) Original plan reported in Hunts Post (S16) was a steel Lancaster sculpture in Dovecote Lane; the memorial built is the eagle pillar in the churchyard. (6) Crash location varies: Low Farm about half a mile south of Graveley aerodrome (S3, S4); Hunts Post says a field near what is now Brookside after clipping a house on London Lane. (7) Hunts Post and 35 Squadron site say unveiling 7 May 2022; Aircrew Remembered's earlier note said 14:00 at the church, unconfirmed. CWGC: only the Thomas page was fetched; the other six cwgc_url claims are built from casualty numbers printed on their IBCC pages (URL pattern confirmed by the Thomas page). Burial section wording is from IBCC. Nationality is IBCC 'country of origin' (United Kingdom), all RAFVR; no source states a nationality outright. Hometowns are from next-of-kin lines (Aircrew Remembered/Graveley PDF). IWM names lists on both register pages are empty, so the stone's name spellings could not be checked. Aircrew Remembered and the Graveley PDF may share origin; the 35 Squadron site and Great Paxton site are separate publishers. Paxtons benefice newsletter (S19, community tier, undated about 2019-20) says a white cross and silhouette were at Dovecote Lane and would 'remain in place' until the memorial was built; used only here. Custodian: nothing read names a custodian for either memorial, so custodian_status is 'unknown' (searched, no source either way), not 'unknown-confirmed'. The History Society built the pillar; the parish council supported planning (S17); neither is stated to maintain it. Contact details exist in S19 for private individuals and were deliberately not recorded. The IWM record's own inscription for the pillar and cross are as on IWM. Existing record contradictions: none found; our pillar record has an empty squadron field (35 Squadron per sources). Memorial leads not followed: IBCC Digital Archive accident form, War Memorials Online, Find a Grave pages, the video on the History Society page."
+  "notes": "Conflicts and cautions. (1) Yallop's middle names: IBCC, 35 Squadron site and Aircrew Remembered give Roy Frederick Arthur; the Graveley PDF gives Roy Arthur. Same man, variant claim recorded. (2) Albert Thomas's age is 22 only from Aircrew Remembered (single source); IBCC and CWGC show no age, the Graveley PDF a question mark. (3) Crew roles for Cousins, Winter and Yallop (bomb aimer, mid-upper, rear gunner) rest on Aircrew Remembered only; IBCC says Air Bomber / Air Gunner. (4) Material of the pillar: IWM says Clipsham stone; Hunts Post planning report (S17) says granite from a Cornish quarry. Not used in paragraphs because Hunts Post is secondary; it may be the proposed rather than final stone. (5) Original plan reported in Hunts Post (S16) was a steel Lancaster sculpture in Dovecote Lane; the memorial built is the eagle pillar in the churchyard. (6) Crash location varies: Low Farm about half a mile south of Graveley aerodrome (S3, S4); Hunts Post says a field near what is now Brookside after clipping a house on London Lane. (7) Hunts Post and 35 Squadron site say unveiling 7 May 2022; Aircrew Remembered's earlier note said 14:00 at the church, unconfirmed. CWGC: only the Thomas page was fetched; the other six cwgc_url claims are built from casualty numbers printed on their IBCC pages (URL pattern confirmed by the Thomas page). Burial section wording is from IBCC. Nationality is IBCC 'country of origin' (United Kingdom), all RAFVR; no source states a nationality outright. Hometowns are from next-of-kin lines (Aircrew Remembered/Graveley PDF). IWM names lists on both register pages are empty, so the stone's name spellings could not be checked. Aircrew Remembered and the Graveley PDF may share origin; the 35 Squadron site and Great Paxton site are separate publishers. Paxtons benefice newsletter (S19, community tier, undated about 2019-20) says a white cross and silhouette were at Dovecote Lane and would 'remain in place' until the memorial was built; used only here. Custodian: nothing read names a custodian for either memorial, so custodian_status is 'unknown' (searched, no source either way), not 'unknown-confirmed'. The History Society built the pillar; the parish council supported planning (S17); neither is stated to maintain it. Contact details exist in S19 for private individuals and were deliberately not recorded. The IWM record's own inscription for the pillar and cross are as on IWM. Existing record contradictions: none found; our pillar record has an empty squadron field (35 Squadron per sources). Memorial leads not followed: IBCC Digital Archive accident form, War Memorials Online, Find a Grave pages, the video on the History Society page.",
+  "retractions": [
+    {
+      "field": "dedication_date",
+      "reason": "2022-05-07 is the churchyard pillar's dedication; no source dates the roadside cross."
+    },
+    {
+      "field": "erected_by",
+      "reason": "The Great Paxton History Society built the pillar; no source says who put up the cross."
+    },
+    {
+      "field": "community_connection",
+      "reason": "Described the pillar's funding and unveiling, not the cross."
+    }
+  ]
 }

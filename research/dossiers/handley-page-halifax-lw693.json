@@ -876,14 +876,6 @@
     {
       "field": "memorial_details",
       "reason": "'Unveiling of the Handley Page Halifax LW693 memorial' is a template fragment with no date or detail; replaced by sourced description (brass plaque, Westbury House, 1994 unveiling)."
-    },
-    {
-      "field": "inscription",
-      "reason": "Ends with an invented placeholder '[crew names inscribed on memorial]'. IWM shows only a template with '(NAMES)' and no names; WMO paraphrases the inscription. The full real text is unverified."
-    },
-    {
-      "field": "iwm_photo_urls",
-      "reason": "Neither stored URL could be matched to the photos on IWM page 24276 (credited Jon Webber, May 2026); unverified."
     }
   ],
   "notes": "WHAT 24276 IS: a brass plaque at Westbury House / Westbury Gardens, Bradford on Avon, BA15 1DE, for the crew of Halifax III LW693 KW-V, 425 Sqn RCAF, lost 26 March 1944 on a training flight from Tholthorpe. It is a memorial to a training-flight crash, not an operation; it is Bomber Command (6 Group RCAF) aircrew. NOT Peak/Pennines: our stored summary of IWM 24276 ('Halifax crash site in Peak/Pennines region') is wrong and cannot be retracted by this tool (external_narratives); fix by hand. Coordinates: IWM 51.34668886515, -2.251819804889 (OS grid ST 82565 60870); WMO 51.346634, -2.251997. Our 52.2032, -1.7690 is Stratford-upon-Avon. Suggested title: 'Halifax LW693 (425 Sqn RCAF) Memorial Plaque, Bradford on Avon'. MERGE: the narrative, inscription and Bradford on Avon location/county, LW693 and crash_date are all correct and belong to IWM 24276; the Peak/Pennines summary, the Glossop contact (Derbyshire), the Stratford coordinates and the region_code PN-005 (Peak/Pennines) and what3words belong to something else or were guessed. The inscription's names line is the placeholder. DISCREPANCIES: serial LE693 (WMO) vs LW693 (IWM, IBCC, CASPIR); survivors and bail-out accounts differ between WMO, IBCC and CASPIR (recorded in text); crash site 'field above the town' (WMO) vs 'Priory grounds at Christchurch' (CASPIR). Hall and Porter are named only by CASPIR (IBCC gives initials 'Hall J G B', 'Porter R S'); I did not find their IBCC pages or CWGC pages, nor ages. CWGC links omitted (not read directly). IWM photos are credited to Jon Webber but I did not capture image URLs, so no photos included. Town council page and the plaque custodian rests on WMO alone.\n\n2026-11-06: record merged into handley-page-halifax-lw693 (same IWM 24276 plaque); old slug location-via-iwm-handley-page-halifax redirects there."

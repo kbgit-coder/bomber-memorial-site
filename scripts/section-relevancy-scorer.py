@@ -336,6 +336,26 @@ def assess_narrative_specificity(text, memorial):
         return True, score
 
 
+_dossier_cache = {}
+
+
+def dossier_paragraphs(memorial_id, section):
+    """Paragraph texts for one section of a memorial's research dossier, if it has a valid one.
+    The dossier must name this memorial; a mismatched or unreadable file protects nothing."""
+    if memorial_id not in _dossier_cache:
+        path = os.path.join(DOSSIER_DIR, f'{memorial_id}.json')
+        paras = []
+        try:
+            with open(path) as f:
+                d = json.load(f)
+            if d.get('memorial_id') == memorial_id:
+                paras = [p for p in d.get('paragraphs', []) if isinstance(p.get('text'), str)]
+        except (OSError, ValueError):
+            pass
+        _dossier_cache[memorial_id] = paras
+    return [p['text'] for p in _dossier_cache[memorial_id] if p.get('section') == section]
+
+
 def process_text_field(text, current_section, memorial_id, memorial):
     """Process a text field: score each sentence for section relevancy.
     Returns (cleaned_text, moves, removals) where:
@@ -350,8 +370,16 @@ def process_text_field(text, current_section, memorial_id, memorial):
     kept = []
     moves = []
     removals = []
+    protected = dossier_paragraphs(memorial_id, current_section)
 
     for sentence in sentences:
+        # A sentence that is word-for-word part of a cited dossier paragraph for this
+        # same section was placed by a human-reviewed research pass; never drop or move it.
+        # Anything else in the field (stale or hand-added text) still goes through the gate.
+        if any(sentence in p for p in protected):
+            kept.append(sentence)
+            continue
+
         # Pass 1: Memorial-level relevancy
         if not score_memorial_relevancy(sentence, memorial):
             removals.append((sentence, 'junk'))
@@ -643,10 +671,6 @@ def main():
             data = json.load(f)
 
         memorial_id = data.get('id', os.path.basename(filepath).replace('.json', ''))
-        # Dossier-built records are already cited and sectioned paragraph by paragraph;
-        # re-scoring them sentence by sentence drops and relocates sourced text.
-        if os.path.exists(os.path.join(DOSSIER_DIR, f'{memorial_id}.json')):
-            continue
         modified, changes = process_memorial(data, memorial_id)
 
         if changes:
