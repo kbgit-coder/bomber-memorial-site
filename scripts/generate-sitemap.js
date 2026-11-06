@@ -12,16 +12,23 @@ const path = require('path');
 const SITE_URL = 'https://bombermemorial.co.uk';
 const DATA_DIR = path.resolve(__dirname, '../public/data');
 const MEMORIALS_DIR = path.join(DATA_DIR, 'memorials');
+// Same three directories as src/lib/data.ts, so every built memorial page is listed.
+const MEMORIAL_DIRS = [MEMORIALS_DIR, path.resolve(__dirname, '../international-memorials'), path.resolve(__dirname, '../ftr-memorials')];
+const memorialFiles = new Map();
+for (const dir of MEMORIAL_DIRS) {
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith('.json') || f.startsWith('_') || f.includes('.data.')) continue;
+    memorialFiles.set(f.replace('.json', ''), path.join(dir, f));
+  }
+}
 const SQUADRONS_DIR = path.join(DATA_DIR, 'squadrons');
 const OUTPUT = path.resolve(__dirname, '../public/sitemap.xml');
 
 const today = new Date().toISOString().split('T')[0];
 
 function getMemorialSlugs() {
-  return fs.readdirSync(MEMORIALS_DIR)
-    .filter(f => f.endsWith('.json'))
-    .map(f => f.replace('.json', ''))
-    .sort();
+  return [...memorialFiles.keys()].sort();
 }
 
 function getSquadronSlugs() {
@@ -39,7 +46,7 @@ function getSquadronSlugs() {
   const squadrons = new Map();
   for (const slug of getMemorialSlugs()) {
     try {
-      const m = JSON.parse(fs.readFileSync(path.join(MEMORIALS_DIR, `${slug}.json`), 'utf-8'));
+      const m = JSON.parse(fs.readFileSync(memorialFiles.get(slug), 'utf-8'));
       if (m.squadron) {
         const sqSlug = m.squadron.toLowerCase()
           .replace(/[^a-z0-9]+/g, '-')
@@ -63,7 +70,7 @@ function getRegionCodes() {
   const countries = new Map();
   for (const slug of getMemorialSlugs()) {
     try {
-      const m = JSON.parse(fs.readFileSync(path.join(MEMORIALS_DIR, `${slug}.json`), 'utf-8'));
+      const m = JSON.parse(fs.readFileSync(memorialFiles.get(slug), 'utf-8'));
       if (m.country) {
         const code = m.country.toLowerCase().replace(/\s+/g, '-');
         countries.set(code, (countries.get(code) || 0) + 1);
@@ -118,7 +125,7 @@ for (const slug of storySlugs) {
 const memorialSlugs = getMemorialSlugs();
 for (const slug of memorialSlugs) {
   // Try to get lastmod from file mtime
-  const filePath = path.join(MEMORIALS_DIR, `${slug}.json`);
+  const filePath = memorialFiles.get(slug);
   let lastmod = today;
   try {
     const stat = fs.statSync(filePath);
