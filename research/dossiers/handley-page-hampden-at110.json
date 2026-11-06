@@ -132,20 +132,6 @@
         "Moved by local RAFA branch to a plinth near the road",
         "Custodian: Information Required"
       ]
-    },
-    {
-      "id": "S7",
-      "url": "https://www.eastlothiancourier.com/news/15254416.memorial-to-north-berwick-second-world-war-airman-unveiled-460-miles-from-his-home/",
-      "title": "Memorial to North Berwick Second World War airman unveiled 460 miles from his home",
-      "publisher": "East Lothian Courier",
-      "tier": "secondary",
-      "retrieved": "2026-11-06",
-      "summary": "Local news report on a 75th-anniversary plaque and Easter Sunday service at Felpham run by the Bognor Regis RAF Association. Page shows no date; the 75th anniversary points to April 2017.",
-      "key_details": [
-        "Service organised by Bognor Regis RAFA, conducted by its Padre",
-        "Branch secretary appealing for Hutchison's relatives",
-        "Engine fire believed to be the cause"
-      ]
     }
   ],
   "claims": [
@@ -633,22 +619,6 @@
         "S5",
         "S6"
       ]
-    },
-    {
-      "id": "C55",
-      "field": "event",
-      "value": "A plaque was reported unveiled for the 75th anniversary, with an Easter Sunday service organised by the Bognor Regis RAF Association and conducted by its Padre, the Rev Brian Shersby.",
-      "sources": [
-        "S7"
-      ]
-    },
-    {
-      "id": "C56",
-      "field": "event",
-      "value": "The branch secretary at that time, David Hewings, was appealing for relatives of Sgt Hutchison.",
-      "sources": [
-        "S7"
-      ]
     }
   ],
   "paragraphs": [
@@ -695,7 +665,27 @@
         "C19",
         "C21",
         "C22",
-        "C26"
+        "C26",
+        "C2",
+        "C5",
+        "C6",
+        "C7",
+        "C9",
+        "C11",
+        "C14",
+        "C15",
+        "C16",
+        "C18",
+        "C20",
+        "C23",
+        "C24",
+        "C25",
+        "C27",
+        "C29",
+        "C32",
+        "C33",
+        "C34",
+        "C36"
       ]
     },
     {
@@ -733,14 +723,6 @@
       "cites": [
         "C54",
         "C52"
-      ]
-    },
-    {
-      "section": "community_connection",
-      "text": "A local news report describes a 75th-anniversary plaque and an Easter Sunday service organised by the Bognor Regis RAF Association and conducted by its Padre, the Rev Brian Shersby. The branch secretary at that time, David Hewings, was appealing for relatives of Sgt Hutchison.",
-      "cites": [
-        "C55",
-        "C56"
       ]
     }
   ],

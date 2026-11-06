@@ -116,20 +116,6 @@
         "Question dated the crash to the 25th",
         "Cause 'under investigation'"
       ]
-    },
-    {
-      "id": "S7",
-      "url": "https://www.shropshirestar.com/news/oswestry/special-tributes-to-bomber-crash-dead-6390789",
-      "title": "Special tributes to bomber crash dead",
-      "publisher": "Shropshire Star",
-      "tier": "secondary",
-      "retrieved": "2026-11-06",
-      "summary": "News article. Page itself returned 403 to our fetch, so only the search-result summary was read: night training flight from Harwell hit Edwin Williams's farmhouse; Mr Williams was a Home Guard sergeant buried with his wife; at an anniversary the Oswestry Royal British Legion laid a wreath beside the rebuilt farmhouse.",
-      "key_details": [
-        "Home Guard sergeant Edwin Williams",
-        "Military funeral at Llansilin 29 January 1943",
-        "Oswestry RBL wreath at rebuilt farmhouse"
-      ]
     }
   ],
   "claims": [
@@ -290,30 +276,6 @@
       "value": "The Commons question dated the crash to the night of 25 January in Llansilin parish, Denbighshire",
       "sources": [
         "S6"
-      ]
-    },
-    {
-      "id": "C19",
-      "field": "event",
-      "value": "Edwin Williams was a Home Guard sergeant, buried with his wife in a military funeral at Llansilin on 29 January 1943",
-      "sources": [
-        "S7"
-      ]
-    },
-    {
-      "id": "C20",
-      "field": "event",
-      "value": "Oswestry branch of the Royal British Legion laid a wreath at the side of the rebuilt farmhouse at an anniversary",
-      "sources": [
-        "S7"
-      ]
-    },
-    {
-      "id": "C21",
-      "field": "event",
-      "value": "The farmhouse has been rebuilt",
-      "sources": [
-        "S7"
       ]
     },
     {
@@ -739,16 +701,29 @@
         "C56",
         "C57",
         "C58",
-        "C13"
-      ]
-    },
-    {
-      "section": "narrative",
-      "text": "On 17 February 1943 the Air Minister told the Commons that the cause was under investigation. The question put to him dated the crash to the night of 25 January. We found no later inquiry finding. A local report says Edwin Williams was a Home Guard sergeant and that he and his wife were buried in a military funeral at Llansilin on 29 January 1943.",
-      "cites": [
-        "C17",
-        "C18",
-        "C19"
+        "C13",
+        "C25",
+        "C27",
+        "C28",
+        "C31",
+        "C33",
+        "C34",
+        "C36",
+        "C38",
+        "C40",
+        "C41",
+        "C43",
+        "C45",
+        "C47",
+        "C48",
+        "C50",
+        "C52",
+        "C54",
+        "C55",
+        "C59",
+        "C60",
+        "C61",
+        "C62"
       ]
     },
     {
@@ -760,14 +735,6 @@
         "C11",
         "C12",
         "C22"
-      ]
-    },
-    {
-      "section": "community_connection",
-      "text": "A local newspaper report says the Oswestry branch of the Royal British Legion laid a wreath at the side of the rebuilt farmhouse at an anniversary. No custodian has been identified.",
-      "cites": [
-        "C20",
-        "C21"
       ]
     }
   ],
