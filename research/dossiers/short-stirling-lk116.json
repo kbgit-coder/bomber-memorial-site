@@ -797,6 +797,14 @@
       "sources": [
         "S2"
       ]
+    },
+    {
+      "id": "C70",
+      "field": "event",
+      "value": "IWM register records Died: 3, Served: 1, Commemorated: 4 for this memorial and does not transcribe the names",
+      "sources": [
+        "S1"
+      ]
     }
   ],
   "paragraphs": [
@@ -806,12 +814,18 @@
       "cites": [
         "C11",
         "C12",
-        "C13"
+        "C13",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6"
       ]
     },
     {
       "section": "narrative",
-      "text": "Seven men were aboard. Flight Sergeant Cramp baled out and survived. The other six were killed: Squadron Leader George Whitty, DFC (pilot), Warrant Officer John Williams (navigator), Pilot Officer George Ames (wireless operator), Warrant Officer Andrew Bell, RCAF (air gunner), Flight Sergeant George Douglas (bomb aimer) and Captain George Slater, who was a passenger.",
+      "text": "Seven men were aboard. Flight Sergeant Cramp baled out and survived. The other six were killed: Squadron Leader George Whitty, DFC (pilot), Warrant Officer John Williams (navigator), George Ames (wireless operator), Warrant Officer Andrew Bell, RCAF (air gunner), Flight Sergeant George Douglas (bomb aimer) and Captain George Slater, who was a passenger.",
       "cites": [
         "C14",
         "C7",
@@ -893,13 +907,15 @@
     },
     {
       "section": "memorial_details",
-      "text": "The memorial is an incised slate tablet on a stand, at the corner of a house driveway in Oakroyd Avenue, Great Dunmow. The IWM register records its condition as good. The IWM register records three names on the tablet, although six men died.",
+      "text": "The memorial is an incised slate tablet on a stand, at the corner of a house driveway in Oakroyd Avenue, Great Dunmow. The IWM register records its condition as good. The IWM register records three dead and four commemorated, and does not list the names, while other sources show six men died.",
       "cites": [
         "C9",
         "C10",
         "C17",
-        "C7"
-      ]
+        "C7",
+        "C70"
+      ],
+      "presents_conflict": true
     }
   ],
   "photos": [

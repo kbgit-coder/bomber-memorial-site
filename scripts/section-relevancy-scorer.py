@@ -349,7 +349,9 @@ def dossier_paragraphs(memorial_id, section):
             with open(path) as f:
                 d = json.load(f)
             if d.get('memorial_id') == memorial_id:
-                paras = [p for p in d.get('paragraphs', []) if isinstance(p.get('text'), str)]
+                # Only cited paragraphs count: uncited text gets no protection.
+                paras = [p for p in d.get('paragraphs', [])
+                         if isinstance(p.get('text'), str) and p.get('text').strip() and p.get('cites')]
         except (OSError, ValueError):
             pass
         _dossier_cache[memorial_id] = paras
@@ -470,9 +472,14 @@ def process_memorial(data, memorial_id):
                 changes.append(f'  [{memorial_id}] {field} CLEARED — extraction meta-description: "{val[:80]}..."')
             modified[field] = ''
 
+    # A field holding cited dossier text is never cleared wholesale; its sentences are gated one by one below.
+    def holds_dossier_text(field):
+        val = modified.get(field) or ''
+        return any(p in val for p in dossier_paragraphs(memorial_id, field))
+
     # Pass 1 whole-field: Check if narrative is a generic article dump
     narrative = (modified.get('narrative') or '').strip()
-    if narrative:
+    if narrative and not holds_dossier_text('narrative'):
         is_specific, spec_score = assess_narrative_specificity(narrative, modified)
         if not is_specific:
             changes.append(f'  [{memorial_id}] NARRATIVE CLEARED — article dump (specificity={spec_score}, len={len(narrative)}): "{narrative[:80]}..."')
@@ -481,7 +488,7 @@ def process_memorial(data, memorial_id):
 
     # Pass 1 whole-field: Check community_connection for article dumps too
     community_raw = (modified.get('community_connection') or '').strip()
-    if community_raw:
+    if community_raw and not holds_dossier_text('community_connection'):
         is_specific_cc, spec_score_cc = assess_narrative_specificity(community_raw, modified)
         if not is_specific_cc:
             changes.append(f'  [{memorial_id}] COMMUNITY CLEARED — article dump (specificity={spec_score_cc}, len={len(community_raw)}): "{community_raw[:80]}..."')
