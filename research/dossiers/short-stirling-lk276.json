@@ -894,22 +894,6 @@
       ]
     },
     {
-      "id": "C75",
-      "field": "names_on_memorial",
-      "value": 7,
-      "sources": [
-        "S5"
-      ]
-    },
-    {
-      "id": "C76",
-      "field": "died_count",
-      "value": 7,
-      "sources": [
-        "S5"
-      ]
-    },
-    {
       "id": "C77",
       "field": "condition",
       "value": "Good",
@@ -1041,12 +1025,10 @@
     },
     {
       "section": "memorial_details",
-      "text": "A large freestanding stone with a bronze plaque naming the seven crew stands in the gardens at Easton Lodge, Little Easton. The IWM register lists seven names, all of men who died, and records the stone and plaque in good condition. It does not state who made the stone or when it was dedicated, and the site is Grade II listed.",
+      "text": "A large freestanding stone with a bronze plaque stands in the gardens at Easton Lodge, Little Easton. The IWM register records the stone and plaque in good condition. It does not state who made the stone or when it was dedicated, and the site is Grade II listed.",
       "cites": [
         "C70",
         "C72",
-        "C75",
-        "C76",
         "C77",
         "C78"
       ]

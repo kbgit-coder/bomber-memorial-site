@@ -152,8 +152,9 @@ def classify_sentence(sentence):
     return best, confidence
 
 
-def split_sentences(text):
-    """Split text into sentences, preserving meaningful boundaries."""
+def split_sentences(text, keep_short=False):
+    """Split text into sentences, preserving meaningful boundaries.
+    keep_short=True keeps fragments of 10 characters or fewer, so callers can protect cited ones."""
     if not text or not text.strip():
         return []
     # Split on sentence-ending punctuation followed by space/newline
@@ -163,7 +164,7 @@ def split_sentences(text):
     for s in sentences:
         parts = re.split(r'\n\n+', s)
         result.extend(p.strip() for p in parts if p.strip())
-    return [s for s in result if len(s) > 10]  # Skip tiny fragments
+    return result if keep_short else [s for s in result if len(s) > 10]  # Skip tiny fragments
 
 
 def score_memorial_relevancy(sentence, memorial):
@@ -368,7 +369,7 @@ def process_text_field(text, current_section, memorial_id, memorial):
     if not text or not text.strip():
         return text, [], []
 
-    sentences = split_sentences(text)
+    sentences = split_sentences(text, keep_short=True)
     kept = []
     moves = []
     removals = []
@@ -381,6 +382,9 @@ def process_text_field(text, current_section, memorial_id, memorial):
         if any(sentence in p for p in protected):
             kept.append(sentence)
             continue
+        if len(sentence) <= 10:
+            continue  # Unprotected tiny fragment: drop, as split_sentences always did
+
 
         # Pass 1: Memorial-level relevancy
         if not score_memorial_relevancy(sentence, memorial):
@@ -454,7 +458,10 @@ def process_memorial(data, memorial_id):
     # its sentences are gated one by one in pass 2.
     def holds_dossier_text(field):
         val = modified.get(field) or ''
-        return isinstance(val, str) and any(p in val for p in dossier_paragraphs(memorial_id, field))
+        if not isinstance(val, str):
+            return False
+        cited = [t for p in dossier_paragraphs(memorial_id, field) for t in split_sentences(p, keep_short=True)]
+        return any(t in val for t in cited)
 
     # Pass 0: Remove extraction meta-descriptions
     # "The text describes..." / "This content is about..." — artefacts from Granite extraction
