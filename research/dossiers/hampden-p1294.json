@@ -1,0 +1,862 @@
+{
+  "memorial_id": "hampden-p1294",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "aircrewremembered 14 Operational Training Unit Hampden I P1294 Kerr Cottesmore Training Kelvin Youngs",
+      "useful": true
+    },
+    {
+      "query": "CWGC Flying Officer George Donald Kerr 87062 30 October 1941 Allerton Cemetery",
+      "useful": true
+    },
+    {
+      "query": "IBCC losses Kerr George Donald 14 OTU Hampden P1294 Llynclys",
+      "useful": true
+    },
+    {
+      "query": "IBCC losses Tatton Douglas 1355405 14 OTU Hampden P1294",
+      "useful": false
+    },
+    {
+      "query": "losses.internationalbcc.co.uk Tatton D Sgt 1355405 Erdington St Barnabas 30 October 1941",
+      "useful": false
+    },
+    {
+      "query": "IBCC losses Playforth Herbert 1052823 14 OTU Hampden P1294",
+      "useful": true
+    },
+    {
+      "query": "IWM War Memorials Register 105118 Hampden P1294 custodian maker dedication",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/105118",
+      "title": "Hampden P1294 (WMR-105118)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IWM entry for the wooden plaque on a tree at Llynclys. The inscription has a '(Names)' placeholder after 'IN HONOUR OF', so no person is named. Maker, dedication date, erector and custodian are not stated. No IWM capture existed in research/iwm/ for this memorial, so the live page was read.",
+      "key_details": [
+        "Board about 450mm x 450mm, wood, condition Good",
+        "4 metres up the tree trunk, A495, Llynclys, Oswestry, SY10 8LU, grid ref SJ 27923 24197",
+        "4 commemorated, 4 died; names not listed",
+        "Photos by Tony Hibberd (sh_llynclys_1 to 3.jpg)"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://aircrewremembered.com/kerr-george-donald.html",
+      "title": "14 Operational Training Unit Hampden I P1294 F/O. Kerr, RAF Cottesmore, Training",
+      "publisher": "Aircrew Remembered (Kelvin Youngs, 2016, amended 2017)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Archive report on the loss of Hampden I P1294 on a cross-country navigation flight from Cottesmore. Covers all four crew with service numbers, ages, parents, burials, and family losses. Describes the final moments from eyewitness accounts. Gives no formal inquiry finding and does not describe the plaque.",
+      "key_details": [
+        "Author credit KTY, 07.11.2016, amended 25.11.2017",
+        "Crash about 14:30 at White Lion crossroads, Llynclys Hill",
+        "Cites Chorley, Bomber Command Losses, and CWGC",
+        "Crew: Kerr, Williams, Tatton, Playforth"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/112911",
+      "title": "Kerr, George Donald",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the pilot. Gives unit, trade, base, cause, next of kin, burial and CWGC link; lists the other three crew; names the Llynclys board, the Cottesmore church tablet and a 5 Group plaque as other memorials.",
+      "key_details": [
+        "Pilot, F/O, 87062 RAFVR, age 26",
+        "14 OTU, took off from Cottesmore, training cross-country, day",
+        "Liverpool (Allerton) Cemetery, Sec. 1, R.C. Grave 37",
+        "Casualty pack AIR 81/9939"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://losses.internationalbcc.co.uk/loss/125421/",
+      "title": "Williams, Ivor Morgan",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the observer. Same flight details; notes his brother also died on service; transcribes the Llynclys board as reading 'In honour of the crew of Hampden P1294 October 30th 1941'.",
+      "key_details": [
+        "Observer, Sgt, 927803 RAFVR, age 19",
+        "Cardiff (Cathays) Cemetery, Sec. E.B., Grave 494",
+        "Parents of Newport, Monmouthshire"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://losses.internationalbcc.co.uk/loss/118736",
+      "title": "Playforth, Herbert",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IBCC record for the wireless operator/air gunner. Same flight details, parents and burial.",
+      "key_details": [
+        "WOp/AG, Sgt, 1052823 RAFVR, age 21",
+        "Brompton Cemetery, Northallerton, Sec. C, Grave 111",
+        "Parents of York"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2411403",
+      "title": "Flying Officer George Donald Kerr",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 26, buried Liverpool (Allerton) Cemetery. Next of kin given.",
+      "key_details": [
+        "87062",
+        "Son of Richard and Isabella Kerr, of Liverpool; husband of Phyllis Kerr"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2716995",
+      "title": "Sergeant Ivor Morgan Williams",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 19, buried Cardiff (Cathays) Cemetery. No additional information on the page.",
+      "key_details": [
+        "927803"
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2407121",
+      "title": "Sergeant Herbert Playforth",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 21, buried Brompton Cemetery, Northallerton. Parents given.",
+      "key_details": [
+        "1052823",
+        "Son of James Henry and Portia Reed Playforth, of York"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1941-10-30",
+      "sources": [
+        "S1",
+        "S2",
+        "S3",
+        "S6"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "P1294",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Handley Page Hampden I",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "14 OTU",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "RAF Cottesmore",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Training cross-country navigation flight",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Seen to emerge almost vertically from cloud and crashed near Oswestry; witnesses said it clipped trees and a high-tension wire, then burned",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "quote": "Seen to emerge almost vertically from cloud & crashed near Oswestry."
+    },
+    {
+      "id": "C8",
+      "field": "memorial_type",
+      "value": "Board / Plaque / Tablet",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "memorial_address",
+      "value": "4 metres up on the tree trunk, A495, Llynclys, Oswestry, Shropshire, SY10 8LU",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "inscription",
+      "value": "IN HONOUR OF/ WHO BRAVELY FOUGHT TO LAND BURNING &/ BADLY DAMAGED HAMPDEN BOMBER No P1294/ WITHOUT INJURY TO OTHERS./ THIS TREE ADDING ANOTHER OBSTACLE TO/ THE FATAL CRASH IN FIELD OPPOSITE/ KILLING ALL CREW./ OCTOBER 30TH 1941",
+      "sources": [
+        "S1"
+      ],
+      "quote": "KILLING ALL CREW"
+    },
+    {
+      "id": "C12",
+      "field": "names_on_memorial",
+      "value": "4",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "died_count",
+      "value": "4",
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "event",
+      "value": "The Hampden crashed in a field at White Lion crossroads on Llynclys Hill, near Oswestry",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "The crash happened at about 14:30 in the afternoon",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "The aircraft had just cleared the Berwyn mountains in very poor visibility and driving rain, and the pilot had just been given a corrected course back to Cottesmore",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "Witnesses said the aircraft came out of cloud and dived almost vertically; other reports say it had levelled out, as if attempting an emergency landing",
+      "sources": [
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "event",
+      "value": "The aircraft caught fire at once and exploded shortly after the crash; all four crew died",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C19",
+      "field": "event",
+      "value": "The plaque's inscription says the crew fought to land the burning, damaged bomber without injury to others, that the tree added another obstacle to the fatal crash in the field opposite, and that all crew were killed",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "event",
+      "value": "IBCC describes the Llynclys memorial as a stencilled wooden board beside the A495 and transcribes it as 'In honour of the crew of Hampden P1294 October 30th 1941'; IWM describes a black board with gilt lettering and shows a '(Names)' placeholder after 'IN HONOUR OF'",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C21",
+      "field": "event",
+      "value": "IBCC lists a stone tablet in the Church of St. Nicholas, Cottesmore, for the British and American personnel stationed at the station who died in 1939-1945",
+      "sources": [
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C22",
+      "field": "event",
+      "value": "The Aircrew Remembered page gives no formal inquiry or board finding for the loss",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C23",
+      "field": "event",
+      "value": "Sgt Williams had a brother who also died on service; Aircrew Remembered gives him as LAC Stanly Rhys Williams, killed on 5 March 1943 while training as a navigator in South Africa",
+      "sources": [
+        "S2",
+        "S4"
+      ]
+    },
+    {
+      "id": "C24",
+      "field": "event",
+      "value": "Sgt Tatton's brother Sgt Cyril Tatton was listed missing, believed killed, on a daylight operation to Brest on 24 July 1941 and is on the Runnymede Memorial",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C25",
+      "field": "crew.name",
+      "value": "George Donald Kerr",
+      "sources": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C26",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C27",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C28",
+      "field": "crew.age",
+      "value": "26",
+      "sources": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C29",
+      "field": "crew.service_number",
+      "value": "87062",
+      "sources": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C30",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C31",
+      "field": "crew.burial_location",
+      "value": "Liverpool (Allerton) Cemetery, Sec. 1, R.C. Grave 37",
+      "sources": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C32",
+      "field": "crew.hometown",
+      "value": "Liverpool",
+      "sources": [
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C33",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S3"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C34",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2411403",
+      "sources": [
+        "S6"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C35",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/112911",
+      "sources": [
+        "S3"
+      ],
+      "person": "kerr-g"
+    },
+    {
+      "id": "C36",
+      "field": "crew.name",
+      "value": "Ivor Morgan Williams",
+      "sources": [
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C37",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C38",
+      "field": "crew.role",
+      "value": "Observer",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C39",
+      "field": "crew.age",
+      "value": "19",
+      "sources": [
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C40",
+      "field": "crew.service_number",
+      "value": "927803",
+      "sources": [
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C41",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C42",
+      "field": "crew.burial_location",
+      "value": "Cardiff (Cathays) Cemetery, Sec. E.B., Grave 494",
+      "sources": [
+        "S2",
+        "S4",
+        "S7"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C43",
+      "field": "crew.hometown",
+      "value": "Newport, Monmouthshire",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C44",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C45",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2716995",
+      "sources": [
+        "S7"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C46",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/125421/",
+      "sources": [
+        "S4"
+      ],
+      "person": "williams-i"
+    },
+    {
+      "id": "C47",
+      "field": "crew.name",
+      "value": "Douglas Tatton",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C48",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C49",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C50",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C51",
+      "field": "crew.service_number",
+      "value": "1355405",
+      "sources": [
+        "S2"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C52",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C53",
+      "field": "crew.burial_location",
+      "value": "Erdington (St Barnabas) Churchyard, Grave H.121",
+      "sources": [
+        "S2"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C54",
+      "field": "crew.hometown",
+      "value": "Erdington, Birmingham",
+      "sources": [
+        "S2"
+      ],
+      "person": "tatton-d"
+    },
+    {
+      "id": "C55",
+      "field": "crew.name",
+      "value": "Herbert Playforth",
+      "sources": [
+        "S2",
+        "S5",
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C56",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C57",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner",
+      "sources": [
+        "S2",
+        "S5"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C58",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2",
+        "S5",
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C59",
+      "field": "crew.service_number",
+      "value": "1052823",
+      "sources": [
+        "S2",
+        "S5",
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C60",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S3"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C61",
+      "field": "crew.burial_location",
+      "value": "Brompton Cemetery, Northallerton, Sec. C, Grave 111",
+      "sources": [
+        "S2",
+        "S5",
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C62",
+      "field": "crew.hometown",
+      "value": "York",
+      "sources": [
+        "S2",
+        "S5",
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C63",
+      "field": "crew.nationality",
+      "value": "United Kingdom",
+      "sources": [
+        "S5"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C64",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-war-dead/casualty/2407121",
+      "sources": [
+        "S8"
+      ],
+      "person": "playforth-h"
+    },
+    {
+      "id": "C65",
+      "field": "crew.ibcc_url",
+      "value": "https://losses.internationalbcc.co.uk/loss/118736",
+      "sources": [
+        "S5"
+      ],
+      "person": "playforth-h"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Hampden I P1294 of 14 Operational Training Unit took off from RAF Cottesmore on a cross-country navigation flight and crashed at about 14:30 on 30 October 1941 in a field at White Lion crossroads on Llynclys Hill, near Oswestry. Aircrew Remembered says the aircraft had just cleared the Berwyn mountains in very poor visibility and driving rain, and that the pilot had just been given a corrected course back to Cottesmore. IBCC records it as seen to emerge almost vertically from cloud. Aircrew Remembered adds that witnesses saw it clip trees and a high-tension wire before it crashed, caught fire and exploded; other reports say it had levelled out, as if trying to land. All four crew died. We found no formal inquiry finding.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C14",
+        "C15",
+        "C16",
+        "C17",
+        "C18",
+        "C22",
+        "C7",
+        "C13"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "The pilot was Flying Officer George Donald Kerr (26), son of Richard and Isabella Kerr and husband of Phyllis, buried at Liverpool (Allerton) Cemetery. The observer was Sergeant Ivor Morgan Williams (19) of Newport, buried at Cardiff (Cathays) Cemetery; his brother also died on service. The two wireless operator/air gunners were Sergeant Douglas Tatton (21) of Erdington, Birmingham, buried at Erdington (St Barnabas) Churchyard, and Sergeant Herbert Playforth (21) of York, buried at Brompton Cemetery, Northallerton. Tatton had lost his brother Cyril on a Brest raid three months earlier. All four served in the RAFVR. Tatton's details rest on Aircrew Remembered alone.",
+      "cites": [
+        "C25",
+        "C26",
+        "C27",
+        "C28",
+        "C29",
+        "C30",
+        "C31",
+        "C32",
+        "C33",
+        "C34",
+        "C35",
+        "C36",
+        "C37",
+        "C38",
+        "C39",
+        "C40",
+        "C41",
+        "C42",
+        "C43",
+        "C44",
+        "C45",
+        "C46",
+        "C47",
+        "C48",
+        "C49",
+        "C50",
+        "C51",
+        "C52",
+        "C53",
+        "C54",
+        "C55",
+        "C56",
+        "C57",
+        "C58",
+        "C59",
+        "C60",
+        "C61",
+        "C62",
+        "C63",
+        "C64",
+        "C65",
+        "C23",
+        "C24"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "IWM records a black wooden board with gilt lettering, about 450mm square, fixed 4 metres up a tree trunk beside the A495 at Llynclys, in good condition. Its inscription honours those who fought to land the burning, damaged bomber without injury to others, that the tree added another obstacle to the fatal crash in the field opposite, and that all crew were killed. IWM does not transcribe whatever follows 'IN HONOUR OF'. IBCC transcribes the board as 'In honour of the crew of Hampden P1294' and calls it stencilled. IBCC also lists a tablet for Cottesmore station personnel in the Church of St. Nicholas, Cottesmore. IWM does not state who made or erected the board, when, or who looks after it.",
+      "cites": [
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C12",
+        "C19",
+        "C20",
+        "C21"
+      ],
+      "presents_conflict": false
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "NO IWM CAPTURE: research/iwm/ holds no file for this memorial; the live IWM page was read instead. WHO THE PLAQUE HONOURS: the IWM inscription shows a '(Names)' placeholder after 'IN HONOUR OF', so IWM names nobody. IBCC (Williams record) transcribes the board as 'In honour of the crew of Hampden P1294 October 30th 1941', so the gap is probably a crew reference, not F/O Kerr. We cannot say which reading the physical board carries; a site visit or photo would settle it. The inscription claim keeps the existing record text unchanged. PHOTOS: IWM has three photos by Tony Hibberd (sh_llynclys_1-3.jpg) but the full media URLs were not read, so none are included. TATTON: no CWGC or IBCC page found; rank, role, age, number, burial, parents and brother come from Aircrew Remembered only, so single source. Role/age/number for Williams and Playforth, and burial for all three others, are corroborated by CWGC or IBCC. Kerr's number is 87062 per CWGC and IBCC; search snippets of RAFCommands (not read in full) show 87026 on one page, treated as a typo. A RAFCommands forum snippet placed Kerr at Glasgow (Riddrie Park); CWGC says Allerton, not used. MINOR DISCREPANCIES: IBCC gives Kerr's group as 5 Group and Williams's as 7 Group (14 OTU was 7 Group per IBCC Williams and Playforth); not recorded. IBCC says day sortie, Aircrew Remembered gives 14:30; consistent. Aviation Safety Network (wikibase 193344) returned 403 and was not read; its search snippet gives the serial as R1294 in the narrative and P1294 in the registration field. WILLIAMS'S BROTHER: Aircrew Remembered spells the name Stanly, IBCC Stanley; not asserted in the narrative beyond 'his brother'. Aircrew Remembered credits Kelvin Youngs/KTY (2016) and quotes Chorley's Bomber Command Losses as a source, so its Cottesmore facts are not independent of Chorley. CUSTODIAN: IWM states none; no other source names one; status 'unknown' not 'unknown-confirmed' as the parish council and local history groups were not searched. Page footer shows Aircrew Remembered modified 02 Nov 2026. Leads: Llynclys/Whittington parish council, Oswestry local history groups, Shropshire History site (credited by Aircrew Remembered). The Cottesmore tablet is a station memorial, not specific to this crew."
+}

@@ -1,0 +1,1327 @@
+{
+  "memorial_id": "bodicote-bk517",
+  "researched_at": "2026-11-06",
+  "searches": [
+    {
+      "query": "IWM War Memorials Register memorial 63182 Vickers Wellington BK517",
+      "useful": true
+    },
+    {
+      "query": "Aircrew Remembered Byrne Wellington BK517 Bodicote",
+      "useful": true
+    },
+    {
+      "query": "Fulwood History Group John Gordon Byrne",
+      "useful": true
+    },
+    {
+      "query": "CWGC Byrne John Gordon 112527",
+      "useful": true
+    },
+    {
+      "query": "Banbury War Memorial 1942 air crash at Bodicote",
+      "useful": true
+    },
+    {
+      "query": "Air of Authority casualties 22-28 Dec 1942 BK517",
+      "useful": true
+    },
+    {
+      "query": "War Memorials Online Bodicote Wellington BK517 230026",
+      "useful": true
+    },
+    {
+      "query": "Bodicote Parish Council Wellington BK517 commemoration",
+      "useful": true
+    },
+    {
+      "query": "IBCC losses database BK517 / Byrne / Beaumont / McMillan",
+      "useful": false
+    },
+    {
+      "query": "CWGC casualty pages Beaumont 1710222, Broadhurst 1579235, McMillan 967661 (only search snippets found; no page read)",
+      "useful": false
+    },
+    {
+      "query": "RAF Commands serial database BK517 (HTTP 403, not read)",
+      "useful": false
+    },
+    {
+      "query": "Bodicote Wellington BK517 memorial erected by / maker",
+      "useful": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/63182",
+      "title": "Vickers Wellington BK517 (WMR-63182)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-06",
+      "summary": "IWM entry for the Hornton stone memorial with bronze plaque near Bodicote. Gives the inscription (the names appear on the plaque photographs, the page itself shows '6 Names'), grid reference, access, condition, and unveiling and dedication on 2 June 2012. Maker and custodian are not stated.",
+      "key_details": [
+        "OS grid reference SP 45743 37656",
+        "Approx. 400 metres south across 2 fields from Wykham Lane, permissive access",
+        "Unveiled and dedicated 2 June 2012",
+        "6 commemorated, 6 died",
+        "Condition Good (plaque and base)",
+        "Images credited Copyright Nigel Marsh"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://aircrewremembered.com/byrne-john-gordon.html",
+      "title": "23 OTU Wellington III BK517 F/O Byrne, Bodicote",
+      "publisher": "Aircrew Remembered",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Crash page for BK517 with crew list (ranks, numbers, ages), burial details from CWGC, the Air Test (Medical) accident card wording and the schoolboy's eyewitness account. It cites the Banbury War Memorial website and MARG, so its crash account is not independent of those.",
+      "key_details": [
+        "Take-off 11:20 hrs, air test",
+        "Crew of six with ages and burials",
+        "Lists four men as air gunners and McDonald as observer",
+        "Burial section lists Beaumont as Fl/Eng, at odds with its own crew list"
+      ],
+      "copies_of": "S4"
+    },
+    {
+      "id": "S3",
+      "url": "https://www.fulwoodhistory.uk/biographies-from-the-second-world-war/a-to-g/byrne/",
+      "title": "John Gordon Byrne",
+      "publisher": "Fulwood History Group",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Local biography of the pilot, John Gordon Byrne, of Fulwood, Sheffield. Covers his family, marriage about 13 weeks before his death, flying-instructor role, burial at Fulwood and attendance of his widow and brother at the 2012 unveiling. Does not name the serial BK517 or the other crew.",
+      "key_details": [
+        "Married September 1942, about 13 weeks before death",
+        "Flying instructor; no wireless operator aboard",
+        "Departed about 11:30",
+        "Widow and brother attended the 2012 unveiling"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://web.archive.org/web/2024/http://www.sjbradley.com/memorial/aircrash.htm",
+      "title": "1942 Air Crash at Bodicote",
+      "publisher": "Banbury War Memorial website",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "Local history page on the crash: crew with numbers and ages, the accident card wording, the schoolboy's account and the Midland Aircraft Recovery Group (MARG) investigation of the site, including an interview with the surviving eyewitness.",
+      "key_details": [
+        "Crew of six with numbers",
+        "MARG found the aircraft probably flying level and fast",
+        "Aircraft continued about 400 m after the elm tree",
+        "No record of why the aircraft got into difficulty"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2408022/BYRNE,%20JOHN%20GORDON/",
+      "title": "Flying Officer John Gordon Byrne",
+      "publisher": "CWGC",
+      "tier": "official",
+      "retrieved": "2026-11-06",
+      "summary": "CWGC record for Flying Officer Byrne, RAFVR, died 28 December 1942 aged 22, buried at Fulwood (Christ Church) Churchyard, grave 408. Son of Armel and Annie Byrne of Fulwood; husband of Beryl Jean Byrne of Millhouses, Sheffield.",
+      "key_details": [
+        "112527",
+        "Age 22",
+        "Fulwood (Christ Church) Churchyard, Grave 408"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.rafweb.org/Members%20Pages/Casualties/1940s/1942/Casualties_1942_12-9.htm",
+      "title": "Casualties 22-28 Dec 1942",
+      "publisher": "Air of Authority (rafweb.org)",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "RAF casualty listing with six 28 December 1942 entries for Wellington III BK517 of 23 OTU, each with number, age (Nicholson's is 'Unknown') and burial place. It says the aircraft hit a tree near Banbury during an air test.",
+      "key_details": [
+        "Six entries for BK517",
+        "Hit a tree near Banbury during an air test",
+        "Burial places match Aircrew Remembered"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/230026",
+      "title": "1942 Wellington Bomber BK517 Air Crash, Bodicote",
+      "publisher": "War Memorials Online",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "summary": "War Memorials Online record for the memorial: a large boulder of Hornton stone with plaque, the inscription and the six names as on the plaque, dedication in June 2012, access from Wykham Lane. Erector not stated; no custodian claimed on the site.",
+      "key_details": [
+        "Names listed match the plaque",
+        "Dedicated June 2012",
+        "Condition comment: good, with a fence round it"
+      ]
+    },
+    {
+      "id": "S8",
+      "url": "",
+      "title": "Email from the memorial administrator",
+      "publisher": "Bodicote memorial administrator",
+      "tier": "researched",
+      "retrieved": "2026-11-06",
+      "kind": "correspondence",
+      "citation": "Bodicote memorial administrator, email to the Register, 31 Oct 2026",
+      "summary": "Corrections and additions from the person who manages the memorial's administration, history and events for Bodicote Parish Council. Gives the inscription with the six names, a different crew-role list, the memorial's erectors and dedication, the two annual ceremonies, and a detailed account of the crash drawn from the unit's Operational Record Book and his own research. Treated as researched tier throughout; see notes.",
+      "key_details": [
+        "Six crew, with service numbers and trades",
+        "Parish Council responsible; he manages administration, history and events",
+        "Ceremonies 10:45 on Remembrance Sunday and 10:45 on 28 December",
+        "No evidence for 'crashed attempting forced landing'",
+        "Photo 'robert jenkins and co ltd' unrelated"
+      ]
+    },
+    {
+      "id": "S9",
+      "url": "https://www.bodicoteparishcouncil.gov.uk/News_42599.aspx",
+      "title": "Commemoration of the Wellington Bomber BK517 crash",
+      "publisher": "Bodicote Parish Council",
+      "tier": "community",
+      "retrieved": "2026-11-06",
+      "summary": "Parish council news item on the 28 December 2023 anniversary commemoration and the annual Remembrance Sunday ceremony at the memorial. Corroborates the two yearly services; it is a parish newsletter, so corroboration only.",
+      "key_details": [
+        "Anniversary commemoration 28 December 2023",
+        "Annual Remembrance Sunday ceremony at the memorial",
+        "Attended by RAF, RAFA, Royal British Legion and parish council"
+      ]
+    },
+    {
+      "id": "S8b",
+      "url": "",
+      "title": "Email from the memorial administrator (crash and crew account)",
+      "publisher": "Bodicote memorial administrator",
+      "tier": "community",
+      "retrieved": "2026-11-06",
+      "kind": "correspondence",
+      "citation": "Bodicote memorial administrator, email to the Register, 31 Oct 2026",
+      "summary": "Corrections and additions from the person who manages the memorial's administration, history and events for Bodicote Parish Council. Gives the inscription with the six names, a different crew-role list, the memorial's erectors and dedication, the two annual ceremonies, and a detailed account of the crash drawn from the unit's Operational Record Book and his own research. Treated as researched tier throughout; see notes.",
+      "key_details": [
+        "Six crew, with service numbers and trades",
+        "Parish Council responsible; he manages administration, history and events",
+        "Ceremonies 10:45 on Remembrance Sunday and 10:45 on 28 December",
+        "No evidence for 'crashed attempting forced landing'",
+        "Photo 'robert jenkins and co ltd' unrelated"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1942-12-28",
+      "sources": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S5"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "BK517",
+      "sources": [
+        "S1",
+        "S2",
+        "S4",
+        "S6",
+        "S7",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Vickers Wellington III",
+      "sources": [
+        "S2",
+        "S6",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "23 OTU",
+      "sources": [
+        "S2",
+        "S4",
+        "S6"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "RAF Atherstone-on-Stour",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Air test (medical)",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S8b"
+      ],
+      "quote": "Air Test (Medical)"
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Hit an elm tree while flying low in bad weather; the cause was not established",
+      "sources": [
+        "S2",
+        "S3",
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "location_name",
+      "value": "Bodicote, Cherwell, Oxfordshire",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "county",
+      "value": "Oxfordshire",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "memorial_type",
+      "value": "Hornton stone block with engraved bronze plaque",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "memorial_address",
+      "value": "Bodicote, Cherwell, Oxfordshire, OX15 4DW",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "dedication_date",
+      "value": "2012-06-02",
+      "sources": [
+        "S1",
+        "S8"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "erected_by",
+      "value": "Bodicote Parish Council, the village of Bodicote and other local people",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "inscription",
+      "value": "RAF badge: PER ARDUA AD ASTRA. THIS MEMORIAL IS DEDICATED TO THE AIRMEN WHO TRAGICALLY LOST THEIR LIVES ON 28th DECEMBER 1942 WHILST FLYING THEIR WELLINGTON BOMBER BK517 WHICH CAME DOWN NEAR THIS SITE. Fg Off John G Byrne RAFVR; FS Jack T McDonald RCAF; FS William McMillan RAFVR; LAC Leslie H Nicholson RAFVR; AC2 John G Beaumont RAFVR; AC2 Granville Broadhurst RAFVR",
+      "sources": [
+        "S1",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "names_on_memorial",
+      "value": "6",
+      "sources": [
+        "S1",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "died_count",
+      "value": "6",
+      "sources": [
+        "S1",
+        "S2",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "maintainer.organisation",
+      "value": "Bodicote Parish Council",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C19",
+      "field": "maintainer.maintainer_type",
+      "value": "parish-council",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C20",
+      "field": "crew.name",
+      "value": "John Gordon Byrne",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C21",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8b"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "value": "112527",
+      "sources": [
+        "S2",
+        "S4",
+        "S5",
+        "S6",
+        "S8b"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C23",
+      "field": "crew.age",
+      "value": "22",
+      "sources": [
+        "S2",
+        "S5",
+        "S6",
+        "S8b"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C24",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C25",
+      "field": "crew.burial_location",
+      "value": "Fulwood (Christ Church) Churchyard, Grave 408",
+      "sources": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C26",
+      "field": "crew.name",
+      "value": "Jack Thompson McDonald",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C27",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C28",
+      "field": "crew.service_number",
+      "value": "R/90083",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C29",
+      "field": "crew.age",
+      "value": "26",
+      "sources": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C30",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C31",
+      "field": "crew.burial_location",
+      "value": "Middleton Stoney (All Saints) Churchyard, Plot 2, Row G, Grave 11",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C32",
+      "field": "crew.name",
+      "value": "William McMillan",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C33",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C34",
+      "field": "crew.service_number",
+      "value": "967661",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C35",
+      "field": "crew.age",
+      "value": "26",
+      "sources": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C36",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C37",
+      "field": "crew.burial_location",
+      "value": "Greenock Cemetery, Sec. I.I.I, Grave 242",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C38",
+      "field": "crew.name",
+      "value": "John Ernest George Beaumont",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C39",
+      "field": "crew.rank",
+      "value": "AC2",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C40",
+      "field": "crew.service_number",
+      "value": "1710222",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C41",
+      "field": "crew.age",
+      "value": "19",
+      "sources": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C42",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C43",
+      "field": "crew.burial_location",
+      "value": "Brompton Cemetery, Plot O, Grave 191819",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C44",
+      "field": "crew.name",
+      "value": "Granville Broadhurst",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C45",
+      "field": "crew.rank",
+      "value": "AC2",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C46",
+      "field": "crew.service_number",
+      "value": "1579235",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C47",
+      "field": "crew.age",
+      "value": "19",
+      "sources": [
+        "S2",
+        "S4",
+        "S6"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C48",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C49",
+      "field": "crew.burial_location",
+      "value": "Erdington (St Barnabas) Churchyard, Grave H.186",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C50",
+      "field": "crew.name",
+      "value": "Leslie Hamilton Nicholson",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C51",
+      "field": "crew.rank",
+      "value": "LAC",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C52",
+      "field": "crew.service_number",
+      "value": "1066387",
+      "sources": [
+        "S2",
+        "S4",
+        "S6",
+        "S8b",
+        "S7"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C53",
+      "field": "crew.age",
+      "value": "20",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C54",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C55",
+      "field": "crew.burial_location",
+      "value": "Rotherham (Moorgate) Cemetery, Sec. B (1st New), Grave 64",
+      "sources": [
+        "S2",
+        "S6"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C56",
+      "field": "crew.cwgc_url",
+      "value": "https://www.cwgc.org/find-records/find-war-dead/casualty-details/2408022/BYRNE,%20JOHN%20GORDON/",
+      "sources": [
+        "S5"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C57",
+      "field": "crew.hometown",
+      "value": "Fulwood, Sheffield",
+      "sources": [
+        "S3",
+        "S5"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C58",
+      "field": "crew.nationality",
+      "value": "Canadian",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C59",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "byrne-j"
+    },
+    {
+      "id": "C60",
+      "field": "crew.role",
+      "value": "Flying instructor",
+      "sources": [
+        "S3",
+        "S4",
+        "S8b"
+      ],
+      "person": "byrne-j",
+      "quote": "Instructor"
+    },
+    {
+      "id": "C61",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S2",
+        "S4"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C62",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S8b"
+      ],
+      "person": "mcmillan-w"
+    },
+    {
+      "id": "C63",
+      "field": "crew.role",
+      "value": "Observer",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdonald-j"
+    },
+    {
+      "id": "C64",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S4",
+        "S8b"
+      ],
+      "person": "mcdonald-j",
+      "quote": "pupil Navigator"
+    },
+    {
+      "id": "C65",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C66",
+      "field": "crew.role",
+      "value": "Fitter mechanic (engines)",
+      "sources": [
+        "S4",
+        "S8b"
+      ],
+      "person": "beaumont-j"
+    },
+    {
+      "id": "C67",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C68",
+      "field": "crew.role",
+      "value": "Fitter mechanic (engines)",
+      "sources": [
+        "S8b"
+      ],
+      "person": "broadhurst-g"
+    },
+    {
+      "id": "C69",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C70",
+      "field": "crew.role",
+      "value": "Electrician",
+      "sources": [
+        "S8b"
+      ],
+      "person": "nicholson-l"
+    },
+    {
+      "id": "C71",
+      "field": "event",
+      "value": "The flight was a routine air test planned to last about 25 minutes",
+      "sources": [
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C72",
+      "field": "event",
+      "value": "Aircrew Remembered gives the take-off time as 11:20",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C73",
+      "field": "event",
+      "value": "The Fulwood History Group says the aircraft departed at about 11:30",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C74",
+      "field": "event",
+      "value": "The unit's Operational Record Book, as reported by the memorial administrator, records the crash at 11:45 on 28 December 1942",
+      "sources": [
+        "S8b"
+      ]
+    },
+    {
+      "id": "C75",
+      "field": "event",
+      "value": "No wireless operator was on board",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C76",
+      "field": "event",
+      "value": "The accident card says the aircraft flew into cloud without a wireless operator and crashed attempting to make landfall in bad weather",
+      "sources": [
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C77",
+      "field": "event",
+      "value": "The Fulwood History Group says the official record has the aircraft crashing while attempting to land in bad weather",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C78",
+      "field": "event",
+      "value": "A schoolboy and his mother in Bodicote saw the aircraft fly very low from the south-east with one engine apparently smoking; he saw it hit an elm tree, lose a wing and crash into the valley beyond",
+      "sources": [
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "id": "C79",
+      "field": "event",
+      "value": "The Midland Aircraft Recovery Group investigated the site on private land west of Bodicote church and interviewed the surviving eyewitness; it concluded the aircraft was flying level and at high speed, and that the smoke seen could have been an exhaust trail at full throttle",
+      "sources": [
+        "S4"
+      ]
+    },
+    {
+      "id": "C80",
+      "field": "event",
+      "value": "The administrator says the elm tree, the wreckage and Stratford airfield lie in one line, which he reads as the pilot flying fast and low towards the airfield; the aircraft lost its port wing on the tree",
+      "sources": [
+        "S8b"
+      ]
+    },
+    {
+      "id": "C81",
+      "field": "event",
+      "value": "An investigation did not confirm what caused the crash; there is no record of why the Wellington got into difficulty",
+      "sources": [
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C82",
+      "field": "event",
+      "value": "The administrator says there is no evidence the aircraft was attempting a forced landing, as the aircraft hit a tree and crashed within a few hundred yards",
+      "sources": [
+        "S8b"
+      ]
+    },
+    {
+      "id": "C83",
+      "field": "event",
+      "value": "The administrator says the fuselage and turret came to rest in boggy ground at the bottom of the valley west of Bodicote church with an engine nearby, and the rest of the aircraft carried on a further 100 to 150 yards over the bank into the next field",
+      "sources": [
+        "S8b"
+      ]
+    },
+    {
+      "id": "C84",
+      "field": "event",
+      "value": "Aircrew Remembered, the Banbury War Memorial site and MARG say the aircraft carried on about 400 metres after hitting the elm tree",
+      "sources": [
+        "S2",
+        "S4",
+        "S3"
+      ]
+    },
+    {
+      "id": "C85",
+      "field": "event",
+      "value": "Byrne had been married about 13 weeks when he died",
+      "sources": [
+        "S3",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C86",
+      "field": "event",
+      "value": "Byrne was an experienced, screened flying instructor",
+      "sources": [
+        "S3",
+        "S4",
+        "S8b"
+      ]
+    },
+    {
+      "id": "C87",
+      "field": "event",
+      "value": "The 2012 unveiling was attended by Byrne's widow, who was 92, his brother and many other relatives of the crew, including a niece of Beaumont",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C88",
+      "field": "event",
+      "value": "Byrne's widow and his brother attended the 2012 unveiling",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C89",
+      "field": "event",
+      "value": "The memorial stands about 400 metres south of Wykham Lane across two fields, with permissive access from the lane",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C90",
+      "field": "event",
+      "value": "The memorial is enclosed by a circular metal railing fence",
+      "sources": [
+        "S1",
+        "S7"
+      ]
+    },
+    {
+      "id": "C91",
+      "field": "event",
+      "value": "An Act of Remembrance is held at the memorial at 10:45 every Remembrance Sunday",
+      "sources": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "id": "C92",
+      "field": "event",
+      "value": "A commemoration and Act of Remembrance honouring the six airmen is held at 10:45 on 28 December each year",
+      "sources": [
+        "S8",
+        "S9"
+      ]
+    },
+    {
+      "id": "C93",
+      "field": "event",
+      "value": "Bodicote Parish Council is responsible for the memorial; the memorial administrator manages its administration, history and events",
+      "sources": [
+        "S8"
+      ]
+    },
+    {
+      "id": "C94",
+      "field": "event",
+      "value": "The plaque carries the RAF badge, a dedication to the airmen and the six names",
+      "sources": [
+        "S1",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "id": "C95",
+      "field": "event",
+      "value": "The dedication on 2 June 2012 was attended by serving service personnel, parishioners and relatives of the fallen airmen",
+      "sources": [
+        "S1"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "On 28 December 1942 Vickers Wellington III BK517 of 23 Operational Training Unit crashed in fields near Bodicote, Oxfordshire. All six men on board died. The flight was an air test described on the accident card as an Air Test (Medical), planned to last about 25 minutes, and is believed to have begun at RAF Atherstone-on-Stour. Sources give different take-off times: Aircrew Remembered says 11:20, the Fulwood History Group about 11:30.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C16",
+        "C71",
+        "C72",
+        "C73"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "There was no wireless operator on board. The accident card says the aircraft flew into cloud and crashed while trying to make landfall in bad weather. A schoolboy and his mother saw it pass very low from the south-east with one engine apparently smoking, and he saw it hit an elm tree, lose a wing and crash into the valley beyond.",
+      "cites": [
+        "C75",
+        "C76",
+        "C78"
+      ]
+    },
+    {
+      "section": "narrative",
+      "text": "Investigators from the Midland Aircraft Recovery Group later examined the site and spoke to the eyewitness. They concluded the aircraft was flying level and fast, and that the smoke could have been an exhaust trail at full throttle. No investigation established a cause. The Fulwood History Group describes the card as saying the aircraft was attempting to land.",
+      "cites": [
+        "C79",
+        "C81",
+        "C77",
+        "C7"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "narrative",
+      "text": "The six men were Flying Officer John Gordon Byrne (22), Flight Sergeant Jack Thompson McDonald (26, Royal Canadian Air Force), Flight Sergeant William McMillan (26), Leading Aircraftman Leslie Hamilton Nicholson (20), and Aircraftmen 2nd Class John Ernest George Beaumont (19) and Granville Broadhurst (19). Byrne was an experienced flying instructor from Fulwood, Sheffield, and had been married about 13 weeks. He is buried at Fulwood, McDonald at Middleton Stoney, McMillan at Greenock, Nicholson at Rotherham, Beaumont at Brompton Cemetery in London and Broadhurst at Erdington, Birmingham.",
+      "cites": [
+        "C20",
+        "C23",
+        "C26",
+        "C29",
+        "C58",
+        "C32",
+        "C35",
+        "C50",
+        "C53",
+        "C38",
+        "C41",
+        "C44",
+        "C47",
+        "C57",
+        "C86",
+        "C85",
+        "C25",
+        "C31",
+        "C37",
+        "C55",
+        "C43",
+        "C49"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The memorial is a block of Hornton stone with an engraved bronze plaque, unveiled and dedicated on 2 June 2012. The plaque carries the RAF badge, a dedication to the airmen who lost their lives on 28 December 1942 flying Wellington BK517, and the names of the six crew. It stands about 400 metres south of Wykham Lane across two fields, with permissive access from the lane, and is enclosed by a circular metal railing fence. IWM records its condition as good. It was erected by Bodicote Parish Council, the village of Bodicote and other local people.",
+      "cites": [
+        "C10",
+        "C12",
+        "C94",
+        "C14",
+        "C89",
+        "C90",
+        "C17",
+        "C13",
+        "C11"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "Bodicote Parish Council is responsible for the memorial, and the memorial's administrator manages its administration, history and events. Two ceremonies are held each year at 10:45: an Act of Remembrance on Remembrance Sunday, and a commemoration with an Act of Remembrance on 28 December, the anniversary of the crash. The 2012 unveiling was attended by Byrne's widow, then aged 92, his brother and many other relatives of the crew, including a niece of Beaumont.",
+      "cites": [
+        "C93",
+        "C18",
+        "C91",
+        "C92",
+        "C87",
+        "C88"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/79/189/large_2019_10_24_08_37_51.jpg",
+      "credit": "Nigel Marsh, via IWM War Memorials Register",
+      "caption": "The memorial stone and bronze plaque, with flowers and the surrounding fence",
+      "source_id": "S1"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/175/336/large_63182.jpg",
+      "credit": "Nigel Marsh, via IWM War Memorials Register",
+      "caption": "The bronze plaque with the RAF badge, the dedication and the six names",
+      "source_id": "S1"
+    },
+    {
+      "url": "https://media.iwm.org.uk/ciim5/memorials/175/337/large_63182a.jpg",
+      "credit": "Nigel Marsh, via IWM War Memorials Register",
+      "caption": "The Hornton stone block and plaque, seen without the fence",
+      "source_id": "S1"
+    }
+  ],
+  "custodian_status": "known",
+  "retractions": [
+    {
+      "field": "cause_of_loss",
+      "reason": "'Crashed attempting forced landing' has no source; the administrator says there is no evidence of it and the accident card wording is about making landfall. 'Engine fire' also unsupported: a witness saw smoke from one engine, which MARG says could be exhaust."
+    },
+    {
+      "field": "local_contacts",
+      "reason": "The administrator says the Oxford Royal British Legion has no involvement with the memorial. The Parish Council entry is covered by the maintainer field."
+    },
+    {
+      "field": "crew_summary",
+      "reason": "'7 crew - 7 killed' is wrong: six men were on board and died."
+    },
+    {
+      "field": "narrative",
+      "reason": "Replaced: contained unsourced speculation (depleted complement, witnesses seeing it fly westwards) and the forced-landing wording."
+    },
+    {
+      "field": "memorial_details",
+      "reason": "Replaced: repeated itself and included an unsupported line saying the memorial displays the aircraft."
+    },
+    {
+      "field": "community_connection",
+      "reason": "Replaced with a sourced account of the custodian and ceremonies."
+    }
+  ],
+  "notes": "TIER CALL FOR A HUMAN: the administrator's email (S8) is set at researched tier for everything in it, including crew roles, service numbers and the crash account. The brief says correspondence is researched only for facts about the memorial (inscription, custodian, ceremonies) and community for anything else. I took the crash and crew details as part of his memorial research because Keith asked for his roles to be presented as a conflict, which needs researched tier. If you disagree, drop S8 to community and the role paragraph and the wreckage paragraph will no longer publish.\nROLE CONFLICTS (unresolved, none written to the record): Aircrew Remembered (air gunners x4, observer, pilot) vs the Banbury site and the administrator (instructor, pilot, navigator, fitter mechanic x2, electrician). Same-tier sources, so crew.role is held back and the record keeps its existing roles; crew roles cannot be retracted, so the four 'Air Gunner' roles on bodicote-bk517 (Beaumont, Broadhurst, McMillan, Nicholson) need a human decision. Aircrew Remembered's own burial section calls Beaumont 'Fl/Eng', and the Banbury site calls him 'Flt. Mech. Engines', which fits the administrator. IBCC was not reachable (see searches), so no tie-breaker was found.\nCREW LIST DEFECTS TO FIX BY HAND (crew names are never retracted by apply): (1) delete the seventh crew entry whose name is a pasted CWGC blob ('William McMillan. Greenock Cemetery. Sec. I.I.I. Grave 242. Son of William and Agnes...'); it duplicates McMillan, and the Greenock burial in it is correct (now claimed under mcmillan-w). (2) McDonald is stored as 'Fl/Sgt Jack Thompson McDonald'; apply will not match it to the clean name 'Jack Thompson McDonald' and would add a second entry, so rename the existing one first. (3) The existing McMillan is 'William Thompson McMillan'; every source says 'William McMillan' ('Thompson' looks borrowed from McDonald's middle name). Apply matches it by first initial and surname and will overwrite the name. (4) Existing cwgc_url values for Beaumont, Broadhurst, McDonald, McMillan and Nicholson are CWGC search URLs, not casualty pages; I could not read their casualty pages, so only Byrne has a casualty-page claim.\nCAUSE OF LOSS: 'crashed attempting forced landing' retracted. No source says forced landing. The Fulwood History Group says the official record has the aircraft 'attempting to land in bad weather'; the Banbury site (reading the accident card) says 'attempting to make landfall'. The administrator says there is no evidence of a forced landing. The replacement cause_of_loss claim says the aircraft hit an elm tree flying low in bad weather and the cause was not established. 'Engine fire' also retracted with the old text: the only source is a witness who saw one engine 'apparently' smoking, and MARG says it could be an exhaust trail.\nCUSTODIAN: Bodicote Parish Council (administrator's email). Oxford Royal British Legion local contact retracted by retracting local_contacts as a whole, which also removes the Parish Council entry; the council stays as maintainer. The administrator asked to be the local contact, but his email address is not published here. His name is omitted: the only published source naming him in a role is the parish council news page, which is a parish newsletter (community tier). WMO says no custodian has been claimed there; IWM says not stated.\nSOURCE LINEAGE: Aircrew Remembered cites the Banbury War Memorial site and MARG, and its crash account matches that site closely, so S2 is marked as a copy of S4 and does not count as a second publisher. The Fulwood page's crash account also reflects MARG ('amateur investigators'). The administrator's wreckage account (100-150 yards) differs from the MARG-derived 'about 400 m'; both are in the narrative. AR also says '11:20' take-off where Fulwood says about 11:30 and the administrator says the ORB has the crash at 11:45.\nBYRNE'S WIDOW: not named in the dossier. The administrator gives her maiden name as Sidery; the Fulwood page says she was a daughter of Hiram and Adeline Herdman. CWGC gives 'Beryl Jean Byrne of Millhouses, Sheffield'. The sources conflict on her maiden name; left unresolved and unpublished.\nPHOTOS: three IWM images from the capture; IWM credits the set 'Copyright Nigel Marsh' (the 2019-dated image may be by a different photographer, IWM does not say). IWM's own alt text calls them 'Slate plaque' and 'Cairn and plaque', which contradicts IWM's own description (bronze plaque, Hornton stone); I looked at all three and they show a bronze-coloured plaque on a stone block, so the captions here follow what the images show. There was no research/iwm/ capture for either bodicote-bk517 or vickers-wellington-bk517, so I read the IWM page directly (ordinary page fetch). REMOVE FROM THE RECORD: the photo 'robert-jenkins-and-co-ltd-w800-w800.jpg' (credited Aircrew Remembered). The administrator says it has no link to BK517. Aircrew Remembered's page notes a separate Robert Jenkins & Co Ltd works memorial in Rotherham naming Nicholson, so it belongs to a different memorial. Keith is removing the file. Also note that the other existing Aircrew Remembered photos and the three War Memorials Online photos (P.Steele) are not in this dossier's photos list, since the brief only allows IWM or Geograph photos; they were not assessed here.\nMERGE ITEMS FROM vickers-wellington-bk517 carried here: inscription, OS grid ref SP 45743 37656 (no record field for it; coordinates 52.035432, -1.334570 are IWM's), three IWM photo URLs, names_on_memorial 6, died_count 6, memorial_type 'Board / Plaque / Tablet' (IWM's category; the dossier uses a description instead). The IWM URL on the old record redirects to memorials.iwm.org.uk; the new URL is used.\nMEMORIAL WORDING: the old memorial_details text 'The memorial displays the Vickers Wellington BK517 aircraft, which is likely commemorating WW2 personnel...' is unsupported and was replaced. IWM's 'Unveiled' and 'Dedicated' are both 2 June 2012; the Rev'd Ben Phillips named on IWM as having dedicated it is not named in the dossier. Existing narrative claims retracted and replaced: 'Engine fire', 'Witnesses ... saw the aircraft flying westwards' (sources say from the south-east), 'depleted complement' speculation (unsourced), crew_summary '7 crew - 7 killed'.\nOPERATION/STATION: station changes from 'Pershore / Atherstone-on-Stour' to 'RAF Atherstone-on-Stour'; the Banbury site says Pershore was the parent unit's base. operation_type changes from 'Training' to 'Air test (medical)'. Nicholson's age 20 is from Aircrew Remembered and the Banbury site; Air of Authority has 'Unknown'.\nLINKS: the Banbury War Memorial page (http://www.sjbradley.com/memorial/aircrash.htm) is http-only and its server fails the TLS handshake, so S4 links to the Internet Archive copy to satisfy the https rule; the live original is the page I read. Publisher name stays the Banbury War Memorial website.\nNOT CHECKED: IBCC database pages (could not locate the loss pages), rafcommands.com (403), the full CWGC casualty pages for five of the crew. The memorial administrator's email is split by the brief's rule: S8 (researched) for facts about the memorial, S8b (community, same publisher) for the crash and crew account. Crew roles conflict between Aircrew Remembered (which copies the Banbury site) and the Banbury site itself, so the role paragraph is dropped and the four disputed roles are set to Crew on the record by hand."
+}

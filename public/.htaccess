@@ -40,6 +40,7 @@ ErrorDocument 404 /404.html
 # 301 Redirects — merged duplicates (old slug → the record it was folded into)
 Redirect 301 /memorial/avro-lancaster-jb477 /memorial/yelling-jb477
 Redirect 301 /memorial/location-via-iwm-handley-page-halifax /memorial/handley-page-halifax-lw693
+Redirect 301 /memorial/vickers-wellington-bk517 /memorial/bodicote-bk517
 
 # 301 Redirects — removed memorials (scoped out of v3.3.0, redirect to homepage)
 # These slugs were deliberately removed from the active dataset. External links

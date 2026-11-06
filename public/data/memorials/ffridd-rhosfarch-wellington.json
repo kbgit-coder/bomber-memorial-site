@@ -1,27 +1,91 @@
 {
   "id": "ffridd-rhosfarch-wellington",
   "title": "Ffridd Rhosfarch Wellington Memorial",
-  "location_name": "Ffridd Rhosfarch, Other Wales",
+  "location_name": "Pennal",
   "county": "Gwynedd",
   "country": "United Kingdom",
   "region_code": "WA-009",
-  "crash_date": "1941",
-  "aircraft_type": "Wellington",
+  "crash_date": "1941-08-17",
+  "aircraft_type": "Vickers Wellington IC",
   "squadron": "21 OTU",
   "station": "Moreton-in-Marsh",
-  "crew_summary": "All killed (training flight from Gloucestershire)",
-  "memorial_type": "Crash site marker",
+  "crew_summary": "6 crew — 6 killed",
   "sources": [
     {
       "title": "wellingtonaviation.org",
       "type": "website"
+    },
+    {
+      "title": "W R Chorley, RAF Bomber Command Losses of the Second World War, Vol 7: Operational Training Units 1940-1947, Midland Publishing, entry dated 17 August 1941 (21 OTU)",
+      "type": "book",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hewison, H George",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/110620/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Jackets, Allan",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/111809/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Matthews, George Joyce",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/115173/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Mole, Herbert George",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/116413/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Stuart, James Francis Paul",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/122590/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Moore, John Francis",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/116512/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Pennal war memorials",
+      "type": "researched",
+      "url": "https://historypoints.org/index.php?page=pennal-war-memorials",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Vickers Wellington Ic R1068 (NPRN 515293)",
+      "type": "institutional",
+      "url": "https://coflein.gov.uk/en/site/515293/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Ffridd Rhosfarch (WMO/227082)",
+      "type": "researched",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/227082",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Pennal War Memorial (NPRN 420058)",
+      "type": "institutional",
+      "url": "https://coflein.gov.uk/en/site/420058/",
+      "date": "2026-11-06"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-11-06",
   "data_quality": "Partial",
-  "latitude": 52.6048,
-  "longitude": -3.9411,
+  "latitude": 52.58592,
+  "longitude": -3.91909,
   "external_narratives": [
     {
       "source_site": "wellingtonaviation.org / local research",
@@ -31,21 +95,116 @@
       "date_retrieved": "2026-03-23",
       "still_live": true,
       "link_description": "Explore Wellington Memorial's crash site details in Ffridd Rhosfarch area of Wales."
-    }
-  ],
-  "local_contacts": [
+    },
     {
-      "org_name": "Wrexham Royal British Legion",
-      "org_type": "british_legion",
-      "role": "Local remembrance and memorial support",
-      "website": "https://www.britishlegion.org.uk/get-involved/things-to-do/membership/find-a-branch"
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/110620/",
+      "summary": "IBCC loss record for H George Hewison: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/111809/",
+      "summary": "IBCC loss record for Allan Jackets: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/115173/",
+      "summary": "IBCC loss record for George Joyce Matthews: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/116413/",
+      "summary": "IBCC loss record for Herbert George Mole: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/122590/",
+      "summary": "IBCC loss record for James Francis Paul Stuart: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/116512/",
+      "summary": "IBCC loss record for John Francis Moore: Wellington IC R1068, 21 OTU, died 17 August 1941. Gives rank, trade, service number, burial and next of kin. Its 'Other Memorials' section lists the crew memorial adjacent to the village war memorial at Pennal, with its text.",
+      "key_details": [
+        "Wellington IC R1068, 21 OTU",
+        "Crew memorial: adjacent to village war memorial, Pennal; stone and inscribed metal plaque"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Coflein (RCAHMW)",
+      "original_url": "https://coflein.gov.uk/en/site/515293/",
+      "summary": "National heritage record for the crash site. Gives the grid reference, the Protection of Military Remains Act status, a short account of the flight and cause, and says a memorial plaque was erected in Pennal.",
+      "key_details": [
+        "Grid reference SH6880002500",
+        "Old county Merioneth; authority Gwynedd",
+        "Protected Place; small fragments remain",
+        "Plaque erected in Pennal"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/227082",
+      "summary": "War Memorials Online record for the plaque: a brass plaque with an RAF badge, dedication and names, mounted on a cemetery wall with a grey granite surround, a memorial to the crash of Wellington R1068. No images, no condition level given.",
+      "key_details": [
+        "Address A493 Pennal",
+        "Brass plaque, RAF badge, granite surround",
+        "On wall of cemetery"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Coflein (RCAHMW)",
+      "original_url": "https://coflein.gov.uk/en/site/420058/",
+      "summary": "Coflein record for the village war memorial. Notes a slate slab in an alcove in the stone wall behind the monument commemorating the victims of the 1941 RAF crash on Ffridd Rhosfarch. Recorded by RCAHMW, 23 April 2014.",
+      "key_details": [
+        "Grid reference SH7008000410",
+        "Slate slab in alcove behind and to the left of the monument"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
     }
   ],
-  "what3words": "tweed.allows.drop",
+  "local_contacts": [],
+  "what3words": "",
   "location_confidence": {
-    "status": "approximate",
-    "verified_by": "Holly (PAI)",
-    "verification_date": "2026-04-05",
+    "status": "verified",
+    "verified_by": "Coflein 420058 grid reference (plaque at Pennal village war memorial)",
+    "verification_date": "2026-11-06",
     "community_submissions": 0,
     "last_reviewed": "2026-04-06"
   },
@@ -53,10 +212,91 @@
   "squadron_aliases": [
     "21 OTU"
   ],
-  "narrative": "A Wellington bomber from 21 Operational Training Unit departed Moreton-in-Marsh, Gloucestershire, on a training flight in 1941. The aircraft came down at Ffridd Rhosfarch in Wales under circumstances that have not been fully recorded. All crew members aboard were killed. Robert Thomas is among those identified as having died in the crash. The cause of the accident is not confirmed in available records.",
-  "community_connection": "Wrexham Royal British Legion supports the memorial.",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "James Francis Paul Stuart",
+      "role": "Pilot",
+      "age": 21,
+      "service_number": "R/62632",
+      "nationality": "Canada",
+      "burial_location": "Tywyn Cemetery, Class 2, Row 7, Grave 341",
+      "hometown": "Cornwall, Ontario, Canada",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/122590/"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "H George Hewison",
+      "role": "Air Gunner",
+      "age": 30,
+      "service_number": "1379096",
+      "nationality": "United Kingdom",
+      "burial_location": "Newcastle-upon-Tyne (St John's Westgate and Elswick) Cemetery, Sec. O, New Ground, Grave 892",
+      "hometown": "Benwell, Newcastle-upon-Tyne",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/110620/"
+    },
+    {
+      "rank": "P/O",
+      "fate": "Killed",
+      "name": "George Joyce Matthews",
+      "role": "Observer",
+      "service_number": "100059",
+      "nationality": "United Kingdom",
+      "burial_location": "Cottesmore (St Nicholas) Churchyard Extension, Compt. 1, Grave 24",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/115173/",
+      "hometown": "Olverston, Bristol"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Herbert George Mole",
+      "role": "2nd Pilot",
+      "age": 27,
+      "service_number": "1375799",
+      "nationality": "United Kingdom",
+      "burial_location": "East London Cemetery, Plaistow, Square 36, St Peter's Guild Plot, Grave 31009",
+      "hometown": "Kew, Surrey",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/116413/"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "John Francis Moore",
+      "role": "WOp/AG",
+      "age": 21,
+      "service_number": "1252146",
+      "nationality": "Eire",
+      "burial_location": "Tywyn Cemetery, Class 2, Row 7, Grave 340",
+      "hometown": "Janesboro, Limerick",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/116512/"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Allan Jackets",
+      "role": "WOp/AG",
+      "age": 21,
+      "service_number": "994357",
+      "nationality": "United Kingdom",
+      "burial_location": "Hull Eastern Cemetery, Compt. 155, Grave 78",
+      "hometown": "Hull",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/111809/"
+    }
+  ],
   "crash_category": "training",
   "narrative_quality_score": 0,
-  "narrative_source": "generated-claude-sonnet"
+  "narrative_source": "researched-dossier",
+  "serial_number": "R1068",
+  "operation_type": "Cross-country training flight",
+  "cause_of_loss": "Flew into the hillside after emerging from cloud; navigational error suspected, the crew thought to have taken the Dyfi estuary for the sea",
+  "memorial_type": "Board / Plaque / Tablet",
+  "memorial_address": "A493, Pennal, Gwynedd (beside the village war memorial)",
+  "inscription": "To the memory of six members of the RAF who died for freedom when their plane crashed on \"Ffridd Rhosfarch\" 17th August 1941",
+  "died_count": 6,
+  "narrative": "Wellington IC R1068 of 21 Operational Training Unit took off from Moreton-in-Marsh on a cross-country training flight on 17 August 1941 and crashed on Ffridd Rhosfarch, above Pennal. Chorley's Bomber Command Losses places the crash about three miles west of Machynlleth and puts the aircraft with A Flight. All six men on board were killed.\n\nSources give different times. Chorley says the aircraft emerged from cloud and crashed at 1150. History Points says it took off at 11am with a pupil crew and a more experienced navigator, and crashed at about 11.40am.\n\nHistory Points says no definite cause could be established, and that the crew were thought to have glimpsed the Dyfi estuary through cloud and taken it for the sea. Coflein records navigational error on breaking through the cloud.\n\nThe crew were Sgt James Francis Paul Stuart RCAF (pilot, 21, from Cornwall, Ontario), P/O George Joyce Matthews (observer, of Olverston, Bristol), Sgt Herbert George Mole (27, of Kew, Surrey), Sgt H George Hewison (air gunner, 30, of Benwell, Newcastle), Sgt John Francis Moore (wireless operator/air gunner, 21, of Janesboro, Limerick) and Sgt Allan Jackets (wireless operator/air gunner, 21, of Hull).\n\nStuart and Moore are buried in Tywyn Cemetery. Chorley says the other four were claimed by their next of kin: Hewison lies in Newcastle, Jackets in Hull, Matthews at Cottesmore in Rutland and Mole in Plaistow, east London.",
+  "memorial_details": "The memorial is a plaque beside the village war memorial at Pennal, in Gwynedd, not a marker at the crash site. IBCC transcribes its text as: To the memory of six members of the RAF who died for freedom when their plane crashed on \"Ffridd Rhosfarch\" 17th August 1941.\n\nSources describe the plaque differently. War Memorials Online records a brass plaque with an RAF badge, dedication and names, on the cemetery wall with a grey granite surround. Coflein records a slate slab in an alcove in the stone wall behind the village war memorial. IBCC calls it an inscribed metal plaque. Chorley says the plaque is in the local church, which none of the other sources support.\n\nWe found no source that says who erected the plaque, when it was dedicated, or who looks after it.",
+  "last_validated": "2026-11-06",
+  "grid_ref": "SH 70080 00410"
 }

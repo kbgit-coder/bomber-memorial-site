@@ -29,6 +29,8 @@ export const TIER_RANK: Record<Tier, number> = { official: 5, institutional: 4, 
 
 export interface Source {
   id: string; url: string; title: string; publisher: string; tier: Tier; retrieved: string;
+  /** "book" (a published book) or "correspondence" (a letter or email to the Register) has no page to link: url is "" and citation says where it is. */
+  kind?: "web" | "book" | "correspondence"; citation?: string;
   summary?: string; key_details?: string[];
   /** Source id this page copies (e.g. a site reproducing IWM text): it then counts as that publisher, not a second one. */
   copies_of?: string;
@@ -86,7 +88,9 @@ export function validate(d: Dossier): string[] {
   if (srcIds.size !== d.sources.length) e.push("duplicate source ids");
   if (claimIds.size !== d.claims.length) e.push("duplicate claim ids");
   for (const s of d.sources) {
-    if (!/^https:\/\//.test(s.url)) e.push(`source ${s.id}: url must be https`);
+    const offline = s.kind === "book" || s.kind === "correspondence";
+    if (offline ? s.url !== "" || !s.citation?.trim() : !/^https:\/\//.test(s.url)) e.push(`source ${s.id}: ${offline ? "offline source needs citation and an empty url" : "url must be https"}`);
+    if (s.kind === "correspondence" && s.tier !== "researched" && s.tier !== "community") e.push(`source ${s.id}: correspondence is researched or community tier`);
     if (!(s.tier in TIER_RANK)) e.push(`source ${s.id}: bad tier ${s.tier}`);
     if (!s.publisher?.trim()) e.push(`source ${s.id}: publisher missing`);
     if (s.copies_of && (!srcIds.has(s.copies_of) || s.copies_of === s.id)) e.push(`source ${s.id}: copies_of must name another source`);
@@ -349,9 +353,11 @@ export function apply(d: Dossier, record: any): Applied {
 
   // Sources and external narratives: everything the applied facts rest on.
   const srcById = new Map(d.sources.map(s => [s.id, s]));
-  const have = new Set((r.sources ?? []).map((s: any) => s.url));
+  const key = (x: { url?: string; title?: string }) => x.url || `title:${x.title}`;
+  const have = new Set((r.sources ?? []).map(key));
   for (const id of used) {
     const s = srcById.get(id)!;
+    if (!s.url) { const title = s.citation || s.title; if (!have.has(`title:${title}`)) { (r.sources ??= []).push({ title, type: s.kind, date: s.retrieved }); have.add(`title:${title}`); } continue; }
     if (!have.has(s.url)) { (r.sources ??= []).push({ title: s.title, type: s.tier, url: s.url, date: s.retrieved }); have.add(s.url); }
     if (s.summary && !(r.external_narratives ?? []).some((e: any) => e.original_url === s.url)) {
       (r.external_narratives ??= []).push({ source_site: s.publisher, original_url: s.url, summary: s.summary, key_details: s.key_details ?? [], date_retrieved: s.retrieved, still_live: true });

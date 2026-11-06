@@ -4,32 +4,232 @@
   "location_name": "Llynclys, Oswestry",
   "county": "Shropshire",
   "country": "United Kingdom",
-  "aircraft_type": "Hampden",
+  "aircraft_type": "Handley Page Hampden I",
   "serial_number": "P1294",
-  "squadron": "",
+  "squadron": "14 OTU",
   "crash_date": "1941-10-30",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "A wooden plaque in a tree remembers the crew of 14 OTU Hampden P1294 which crashed in the adjacent field. Board is painted black with gilt lettering.",
+  "memorial_details": "IWM records a black wooden board with gilt lettering, about 450mm square, fixed 4 metres up a tree trunk beside the A495 at Llynclys, in good condition. Its inscription honours those who fought to land the burning, damaged bomber without injury to others, that the tree added another obstacle to the fatal crash in the field opposite, and that all crew were killed. IWM does not transcribe whatever follows 'IN HONOUR OF'. IBCC transcribes the board as 'In honour of the crew of Hampden P1294' and calls it stencilled. IBCC also lists a tablet for Cottesmore station personnel in the Church of St. Nicholas, Cottesmore. IWM does not state who made or erected the board, when, or who looks after it.",
   "inscription": "IN HONOUR OF/ WHO BRAVELY FOUGHT TO LAND BURNING &/ BADLY DAMAGED HAMPDEN BOMBER No P1294/ WITHOUT INJURY TO OTHERS./ THIS TREE ADDING ANOTHER OBSTACLE TO/ THE FATAL CRASH IN FIELD OPPOSITE/ KILLING ALL CREW./ OCTOBER 30TH 1941",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/105118",
       "type": "official_database"
+    },
+    {
+      "title": "Hampden P1294 (WMR-105118)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/105118",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "14 Operational Training Unit Hampden I P1294 F/O. Kerr, RAF Cottesmore, Training",
+      "type": "researched",
+      "url": "https://aircrewremembered.com/kerr-george-donald.html",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Kerr, George Donald",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/112911",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Flying Officer George Donald Kerr",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2411403",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Williams, Ivor Morgan",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/125421/",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Sergeant Ivor Morgan Williams",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2716995",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Playforth, Herbert",
+      "type": "institutional",
+      "url": "https://losses.internationalbcc.co.uk/loss/118736",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Sergeant Herbert Playforth",
+      "type": "official",
+      "url": "https://www.cwgc.org/find-war-dead/casualty/2407121",
+      "date": "2026-11-06"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "Hampden I P1294 of 14 Operational Training Unit took off from RAF Cottesmore on a cross-country navigation flight and crashed at about 14:30 on 30 October 1941 in a field at White Lion crossroads on Llynclys Hill, near Oswestry. Aircrew Remembered says the aircraft had just cleared the Berwyn mountains in very poor visibility and driving rain, and that the pilot had just been given a corrected course back to Cottesmore. IBCC records it as seen to emerge almost vertically from cloud. Aircrew Remembered adds that witnesses saw it clip trees and a high-tension wire before it crashed, caught fire and exploded; other reports say it had levelled out, as if trying to land. All four crew died. We found no formal inquiry finding.\n\nThe pilot was Flying Officer George Donald Kerr (26), son of Richard and Isabella Kerr and husband of Phyllis, buried at Liverpool (Allerton) Cemetery. The observer was Sergeant Ivor Morgan Williams (19) of Newport, buried at Cardiff (Cathays) Cemetery; his brother also died on service. The two wireless operator/air gunners were Sergeant Douglas Tatton (21) of Erdington, Birmingham, buried at Erdington (St Barnabas) Churchyard, and Sergeant Herbert Playforth (21) of York, buried at Brompton Cemetery, Northallerton. Tatton had lost his brother Cyril on a Brest raid three months earlier. All four served in the RAFVR. Tatton's details rest on Aircrew Remembered alone.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "fate": "Killed",
+      "name": "George Donald Kerr",
+      "role": "Pilot",
+      "age": 26,
+      "service_number": "87062",
+      "burial_location": "Liverpool (Allerton) Cemetery, Sec. 1, R.C. Grave 37",
+      "hometown": "Liverpool",
+      "nationality": "United Kingdom",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2411403",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/112911"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Douglas Tatton",
+      "role": "Wireless Operator/Air Gunner",
+      "age": 21,
+      "service_number": "1355405",
+      "burial_location": "Erdington (St Barnabas) Churchyard, Grave H.121",
+      "hometown": "Erdington, Birmingham"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Herbert Playforth",
+      "role": "Wireless Operator/Air Gunner",
+      "age": 21,
+      "service_number": "1052823",
+      "burial_location": "Brompton Cemetery, Northallerton, Sec. C, Grave 111",
+      "hometown": "York",
+      "nationality": "United Kingdom",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2407121",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/118736"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Ivor Morgan Williams",
+      "role": "Observer",
+      "age": 19,
+      "service_number": "927803",
+      "burial_location": "Cardiff (Cathays) Cemetery, Sec. E.B., Grave 494",
+      "hometown": "Newport, Monmouthshire",
+      "nationality": "United Kingdom",
+      "cwgc_url": "https://www.cwgc.org/find-war-dead/casualty/2716995",
+      "ibcc_url": "https://losses.internationalbcc.co.uk/loss/125421/"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-06",
   "latitude": 52.810478599355,
   "longitude": -3.070756788404,
   "grid_ref": "SJ 27923",
   "names_on_memorial": 4,
   "died_count": 4,
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/105118",
+      "summary": "IWM entry for the wooden plaque on a tree at Llynclys. The inscription has a '(Names)' placeholder after 'IN HONOUR OF', so no person is named. Maker, dedication date, erector and custodian are not stated. No IWM capture existed in research/iwm/ for this memorial, so the live page was read.",
+      "key_details": [
+        "Board about 450mm x 450mm, wood, condition Good",
+        "4 metres up the tree trunk, A495, Llynclys, Oswestry, SY10 8LU, grid ref SJ 27923 24197",
+        "4 commemorated, 4 died; names not listed",
+        "Photos by Tony Hibberd (sh_llynclys_1 to 3.jpg)"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "Aircrew Remembered (Kelvin Youngs, 2016, amended 2017)",
+      "original_url": "https://aircrewremembered.com/kerr-george-donald.html",
+      "summary": "Archive report on the loss of Hampden I P1294 on a cross-country navigation flight from Cottesmore. Covers all four crew with service numbers, ages, parents, burials, and family losses. Describes the final moments from eyewitness accounts. Gives no formal inquiry finding and does not describe the plaque.",
+      "key_details": [
+        "Author credit KTY, 07.11.2016, amended 25.11.2017",
+        "Crash about 14:30 at White Lion crossroads, Llynclys Hill",
+        "Cites Chorley, Bomber Command Losses, and CWGC",
+        "Crew: Kerr, Williams, Tatton, Playforth"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/112911",
+      "summary": "IBCC record for the pilot. Gives unit, trade, base, cause, next of kin, burial and CWGC link; lists the other three crew; names the Llynclys board, the Cottesmore church tablet and a 5 Group plaque as other memorials.",
+      "key_details": [
+        "Pilot, F/O, 87062 RAFVR, age 26",
+        "14 OTU, took off from Cottesmore, training cross-country, day",
+        "Liverpool (Allerton) Cemetery, Sec. 1, R.C. Grave 37",
+        "Casualty pack AIR 81/9939"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2411403",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 26, buried Liverpool (Allerton) Cemetery. Next of kin given.",
+      "key_details": [
+        "87062",
+        "Son of Richard and Isabella Kerr, of Liverpool; husband of Phyllis Kerr"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/125421/",
+      "summary": "IBCC record for the observer. Same flight details; notes his brother also died on service; transcribes the Llynclys board as reading 'In honour of the crew of Hampden P1294 October 30th 1941'.",
+      "key_details": [
+        "Observer, Sgt, 927803 RAFVR, age 19",
+        "Cardiff (Cathays) Cemetery, Sec. E.B., Grave 494",
+        "Parents of Newport, Monmouthshire"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2716995",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 19, buried Cardiff (Cathays) Cemetery. No additional information on the page.",
+      "key_details": [
+        "927803"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "IBCC Losses Database",
+      "original_url": "https://losses.internationalbcc.co.uk/loss/118736",
+      "summary": "IBCC record for the wireless operator/air gunner. Same flight details, parents and burial.",
+      "key_details": [
+        "WOp/AG, Sgt, 1052823 RAFVR, age 21",
+        "Brompton Cemetery, Northallerton, Sec. C, Grave 111",
+        "Parents of York"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    },
+    {
+      "source_site": "CWGC",
+      "original_url": "https://www.cwgc.org/find-war-dead/casualty/2407121",
+      "summary": "CWGC record: RAFVR, died 30 October 1941 aged 21, buried Brompton Cemetery, Northallerton. Parents given.",
+      "key_details": [
+        "1052823",
+        "Son of James Henry and Portia Reed Playforth, of York"
+      ],
+      "date_retrieved": "2026-11-06",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "community_connection": "",
-  "last_validated": "2026-04-12"
+  "last_validated": "2026-11-06",
+  "station": "RAF Cottesmore",
+  "operation_type": "Training cross-country navigation flight",
+  "cause_of_loss": "Seen to emerge almost vertically from cloud and crashed near Oswestry; witnesses said it clipped trees and a high-tension wire, then burned",
+  "memorial_address": "4 metres up on the tree trunk, A495, Llynclys, Oswestry, Shropshire, SY10 8LU",
+  "condition": "Good",
+  "crew_summary": "4 crew — 4 killed"
 }
