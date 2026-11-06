@@ -450,6 +450,12 @@ def process_memorial(data, memorial_id):
     modified = copy.deepcopy(data)
     sentences_to_add = {}  # section -> [sentences]
 
+    # A field holding cited dossier text is never cleared wholesale (passes 0, 1 and 3);
+    # its sentences are gated one by one in pass 2.
+    def holds_dossier_text(field):
+        val = modified.get(field) or ''
+        return isinstance(val, str) and any(p in val for p in dossier_paragraphs(memorial_id, field))
+
     # Pass 0: Remove extraction meta-descriptions
     # "The text describes..." / "This content is about..." — artefacts from Granite extraction
     META_DESC_RE = re.compile(
@@ -459,7 +465,7 @@ def process_memorial(data, memorial_id):
     )
     for field in ['narrative', 'community_connection']:
         val = (modified.get(field) or '').strip()
-        if val and META_DESC_RE.match(val):
+        if val and META_DESC_RE.match(val) and not holds_dossier_text(field):
             # Check if it contains memorial description content worth saving
             mem_content_match = len(re.findall(
                 r'\b(plaque|inscription|memorial|tablet|stone|cairn|dedicated)\b', val, re.I
@@ -471,11 +477,6 @@ def process_memorial(data, memorial_id):
             else:
                 changes.append(f'  [{memorial_id}] {field} CLEARED — extraction meta-description: "{val[:80]}..."')
             modified[field] = ''
-
-    # A field holding cited dossier text is never cleared wholesale; its sentences are gated one by one below.
-    def holds_dossier_text(field):
-        val = modified.get(field) or ''
-        return any(p in val for p in dossier_paragraphs(memorial_id, field))
 
     # Pass 1 whole-field: Check if narrative is a generic article dump
     narrative = (modified.get('narrative') or '').strip()
@@ -598,7 +599,7 @@ def process_memorial(data, memorial_id):
     md_final_str = md_final if isinstance(md_final, str) else md_final.get('description', '') if isinstance(md_final, dict) else str(md_final)
     md_final_len = len(md_final_str)
 
-    if community_final and md_final_len > 100:
+    if community_final and md_final_len > 100 and not holds_dossier_text('community_connection'):
         # Count memorial-related words in community
         mem_word_count = len(re.findall(
             r'\b(memorial|plaque|tablet|inscription|erected|dedicated|stone|cairn|monument|unveil|dedicat)\b',

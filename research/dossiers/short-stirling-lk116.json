@@ -63,7 +63,7 @@
       "key_details": [
         "Incised slate tablet on a stand, Composite type",
         "Corner of a house driveway, Oakroyd Avenue, CM6 1HG",
-        "Condition Good; inscription says (3 NAMES)",
+        "Condition Good; names not transcribed",
         "Photographer Richard E. Flagg"
       ]
     },
@@ -324,14 +324,6 @@
       "sources": [
         "S3",
         "S10"
-      ]
-    },
-    {
-      "id": "C17",
-      "field": "event",
-      "value": "The inscription ends '(3 NAMES)'",
-      "sources": [
-        "S1"
       ]
     },
     {
@@ -911,7 +903,6 @@
       "cites": [
         "C9",
         "C10",
-        "C17",
         "C7",
         "C70"
       ],
