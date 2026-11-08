@@ -142,6 +142,23 @@
         "1052823",
         "Son of James Henry and Portia Reed Playforth, of York"
       ]
+    },
+    {
+      "id": "S9",
+      "url": "",
+      "title": "Emails and photos from a local resident",
+      "publisher": "Helen Gerald (Llynclys/Pant resident)",
+      "tier": "community",
+      "retrieved": "2026-11-08",
+      "kind": "correspondence",
+      "citation": "Helen Gerald, emails to the Register with three photos, 6 Nov 2026",
+      "summary": "Condition photos taken the week before: the board on the tree, the tree, and the roadside location. Notes that the hedge has grown up around the tree since her 2016 photos. Helen is a trustee of Pant Memorial Hall, which holds the village Second World War memorial and its research.",
+      "key_details": [
+        "Board legible and intact, autumn 2026",
+        "Roadside hedge overgrown since 2016",
+        "Pant Memorial Hall research page: https://pantmemorialhall.org.uk/second-world-war-memorial/",
+        "Plaque gives the pilot as Plt/Off G.D. Kerr; CWGC records Flying Officer"
+      ]
     }
   ],
   "claims": [
@@ -446,7 +463,7 @@
     {
       "id": "C33",
       "field": "crew.nationality",
-      "value": "United Kingdom",
+      "value": "British",
       "sources": [
         "S3"
       ],
@@ -557,7 +574,7 @@
     {
       "id": "C44",
       "field": "crew.nationality",
-      "value": "United Kingdom",
+      "value": "British",
       "sources": [
         "S4"
       ],
@@ -745,7 +762,7 @@
     {
       "id": "C63",
       "field": "crew.nationality",
-      "value": "United Kingdom",
+      "value": "British",
       "sources": [
         "S5"
       ],
@@ -768,6 +785,15 @@
         "S5"
       ],
       "person": "playforth-h"
+    },
+    {
+      "id": "C70",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S9"
+      ],
+      "quote": "photos of the Llynclys memorial taken last week"
     }
   ],
   "paragraphs": [
@@ -854,9 +880,24 @@
         "C21"
       ],
       "presents_conflict": false
+    },
+    {
+      "section": "community_connection",
+      "text": "Helen Gerald, who lives nearby and is a trustee of Pant Memorial Hall, photographed the memorial in autumn 2026. The board is intact and legible. The roadside hedge has grown up around the tree since 2016, so the board is harder to see from the A495 than it was. Pant Memorial Hall holds the village Second World War memorial and publishes research on the men named on it.",
+      "cites": [
+        "C70"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The board names the pilot as Plt/Off G.D. Kerr. The Commonwealth War Graves Commission records him as a Flying Officer.",
+      "cites": [
+        "C11",
+        "C70"
+      ]
     }
   ],
   "photos": [],
   "custodian_status": "unknown",
-  "notes": "NO IWM CAPTURE: research/iwm/ holds no file for this memorial; the live IWM page was read instead. WHO THE PLAQUE HONOURS: the IWM inscription shows a '(Names)' placeholder after 'IN HONOUR OF', so IWM names nobody. IBCC (Williams record) transcribes the board as 'In honour of the crew of Hampden P1294 October 30th 1941', so the gap is probably a crew reference, not F/O Kerr. We cannot say which reading the physical board carries; a site visit or photo would settle it. The inscription claim keeps the existing record text unchanged. PHOTOS: IWM has three photos by Tony Hibberd (sh_llynclys_1-3.jpg) but the full media URLs were not read, so none are included. TATTON: no CWGC or IBCC page found; rank, role, age, number, burial, parents and brother come from Aircrew Remembered only, so single source. Role/age/number for Williams and Playforth, and burial for all three others, are corroborated by CWGC or IBCC. Kerr's number is 87062 per CWGC and IBCC; search snippets of RAFCommands (not read in full) show 87026 on one page, treated as a typo. A RAFCommands forum snippet placed Kerr at Glasgow (Riddrie Park); CWGC says Allerton, not used. MINOR DISCREPANCIES: IBCC gives Kerr's group as 5 Group and Williams's as 7 Group (14 OTU was 7 Group per IBCC Williams and Playforth); not recorded. IBCC says day sortie, Aircrew Remembered gives 14:30; consistent. Aviation Safety Network (wikibase 193344) returned 403 and was not read; its search snippet gives the serial as R1294 in the narrative and P1294 in the registration field. WILLIAMS'S BROTHER: Aircrew Remembered spells the name Stanly, IBCC Stanley; not asserted in the narrative beyond 'his brother'. Aircrew Remembered credits Kelvin Youngs/KTY (2016) and quotes Chorley's Bomber Command Losses as a source, so its Cottesmore facts are not independent of Chorley. CUSTODIAN: IWM states none; no other source names one; status 'unknown' not 'unknown-confirmed' as the parish council and local history groups were not searched. Page footer shows Aircrew Remembered modified 02 Nov 2026. Leads: Llynclys/Whittington parish council, Oswestry local history groups, Shropshire History site (credited by Aircrew Remembered). The Cottesmore tablet is a station memorial, not specific to this crew."
+  "notes": "NO IWM CAPTURE: research/iwm/ holds no file for this memorial; the live IWM page was read instead. WHO THE PLAQUE HONOURS: the IWM inscription shows a '(Names)' placeholder after 'IN HONOUR OF', so IWM names nobody. IBCC (Williams record) transcribes the board as 'In honour of the crew of Hampden P1294 October 30th 1941', so the gap is probably a crew reference, not F/O Kerr. We cannot say which reading the physical board carries; a site visit or photo would settle it. The inscription claim keeps the existing record text unchanged. PHOTOS: IWM has three photos by Tony Hibberd (sh_llynclys_1-3.jpg) but the full media URLs were not read, so none are included. TATTON: no CWGC or IBCC page found; rank, role, age, number, burial, parents and brother come from Aircrew Remembered only, so single source. Role/age/number for Williams and Playforth, and burial for all three others, are corroborated by CWGC or IBCC. Kerr's number is 87062 per CWGC and IBCC; search snippets of RAFCommands (not read in full) show 87026 on one page, treated as a typo. A RAFCommands forum snippet placed Kerr at Glasgow (Riddrie Park); CWGC says Allerton, not used. MINOR DISCREPANCIES: IBCC gives Kerr's group as 5 Group and Williams's as 7 Group (14 OTU was 7 Group per IBCC Williams and Playforth); not recorded. IBCC says day sortie, Aircrew Remembered gives 14:30; consistent. Aviation Safety Network (wikibase 193344) returned 403 and was not read; its search snippet gives the serial as R1294 in the narrative and P1294 in the registration field. WILLIAMS'S BROTHER: Aircrew Remembered spells the name Stanly, IBCC Stanley; not asserted in the narrative beyond 'his brother'. Aircrew Remembered credits Kelvin Youngs/KTY (2016) and quotes Chorley's Bomber Command Losses as a source, so its Cottesmore facts are not independent of Chorley. CUSTODIAN: IWM states none; no other source names one; status 'unknown' not 'unknown-confirmed' as the parish council and local history groups were not searched. Page footer shows Aircrew Remembered modified 02 Nov 2026. Leads: Llynclys/Whittington parish council, Oswestry local history groups, Shropshire History site (credited by Aircrew Remembered). The Cottesmore tablet is a station memorial, not specific to this crew. 8 Nov 2026: S9 added from Helen Gerald correspondence; CWGC 2411403 confirms Flying Officer, service no. 87062."
 }

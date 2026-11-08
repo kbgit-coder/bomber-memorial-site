@@ -10,8 +10,8 @@ export default function CrewTable({ crew }: CrewTableProps) {
 
   return (
     <div>
-      {/* Summary table */}
-      <div style={{ overflowX: "auto" }}>
+      {/* Summary table (tablet and up) */}
+      <div className="hidden md:block" style={{ overflowX: "auto" }}>
         <table
           style={{
             width: "100%",
@@ -84,101 +84,49 @@ export default function CrewTable({ crew }: CrewTableProps) {
                 <td style={tdStyle}>{member.age || "\u2014"}</td>
                 <td style={tdStyle}>{member.nationality || "\u2014"}</td>
                 <td style={tdStyle}>
-                  <span
-                    style={{
-                      display: "inline-block",
-                      padding: "0.15rem 0.5rem",
-                      borderRadius: 8,
-                      fontSize: "0.8rem",
-                      fontWeight: 500,
-                      backgroundColor:
-                        member.fate === "Killed" || member.fate === "Killed in action"
-                          ? "#f5e8e8"
-                          : member.fate === "Survived" || member.fate === "Survived injured"
-                          ? "#e8f5e8"
-                          : member.fate === "POW" || member.fate === "Prisoner of War"
-                          ? "#e8ecf5"
-                          : member.fate === "MIA" || member.fate === "Missing"
-                          ? "#f5f0e8"
-                          : "#f5f5f5",
-                      color:
-                        member.fate === "Killed" || member.fate === "Killed in action"
-                          ? "#8b3a3a"
-                          : member.fate === "Survived" || member.fate === "Survived injured"
-                          ? "#3a6b3a"
-                          : member.fate === "POW" || member.fate === "Prisoner of War"
-                          ? "#3a4a8b"
-                          : member.fate === "MIA" || member.fate === "Missing"
-                          ? "#8b6b3a"
-                          : "#666",
-                    }}
-                  >
-                    {member.fate || "\u2014"}
-                  </span>
-                  {member.decorations && (
-                    <div style={{ fontSize: "0.75rem", color: "#8b7355", marginTop: "0.25rem" }}>
-                      {member.decorations}
-                    </div>
-                  )}
+                  <FateBadge member={member} />
                 </td>
                 <td style={{ ...tdStyle, fontSize: "0.8rem" }}>
-                  {member.cwgc_url ? (
-                    <a
-                      href={member.cwgc_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      style={{ color: "#7a4500" }}
-                    >
-                      {member.burial_location && member.burial_location !== "\u2014"
-                        ? member.burial_location
-                        : "CWGC Record"}
-                    </a>
-                  ) : (
-                    member.burial_location && member.burial_location !== "\u2014"
-                      ? member.burial_location
-                      : "\u2014"
-                  )}
-                  {member.cwgc_verified && (
-                    <span
-                      style={{
-                        fontSize: "0.65rem",
-                        marginLeft: "0.4rem",
-                        padding: "0.1rem 0.4rem",
-                        borderRadius: 6,
-                        backgroundColor: "#e8f5e8",
-                        color: "#3a6b3a",
-                      }}
-                    >
-                      CWGC
-                    </span>
-                  )}
-                  {member.iwm_name_url?.startsWith("https://") && (
-                    <a
-                      href={member.iwm_name_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="Name record on the IWM War Memorials Register"
-                      style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
-                    >
-                      IWM
-                    </a>
-                  )}
-                  {member.ibcc_url?.startsWith("https://") && (
-                    <a
-                      href={member.ibcc_url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="Loss record at the International Bomber Command Centre"
-                      style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
-                    >
-                      IBCC
-                    </a>
-                  )}
+                  <BurialLinks member={member} />
                 </td>
               </tr>
             ))}
           </tbody>
         </table>
+      </div>
+
+      {/* Phones: one card per crew member, since seven columns don't fit 390px */}
+      <div className="md:hidden" style={{ display: "flex", flexDirection: "column", gap: "0.75rem" }}>
+        {crew.map((member, index) => (
+          <div
+            key={index}
+            style={{
+              backgroundColor: "#ffffff",
+              border: "1px solid #e0dcd5",
+              borderRadius: 8,
+              padding: "0.75rem 1rem",
+            }}
+          >
+            <div style={{ display: "flex", alignItems: "center", gap: "0.5rem", justifyContent: "space-between" }}>
+              <div style={{ fontWeight: 600, color: "#1a2332" }}>
+                {member.rank && member.rank !== "\u2014" ? `${member.rank} ` : ""}
+                {member.name}
+              </div>
+              <FateBadge member={member} />
+            </div>
+            <div style={{ fontSize: "0.85rem", color: "#666", marginTop: "0.25rem" }}>
+              {[member.role, member.age ? `age ${member.age}` : "", member.nationality]
+                .filter((v) => v && v !== "\u2014")
+                .join(" \u00b7 ")}
+              {member.service_number && member.service_number !== "\u2014" && (
+                <span style={{ color: "#999" }}>{" \u00b7 "}{member.service_number}</span>
+              )}
+            </div>
+            <div style={{ fontSize: "0.8rem", marginTop: "0.35rem", overflowWrap: "anywhere" }}>
+              <BurialLinks member={member} />
+            </div>
+          </div>
+        ))}
       </div>
 
       {/* Individual crew bios */}
@@ -271,6 +219,108 @@ export default function CrewTable({ crew }: CrewTableProps) {
         </div>
       )}
     </div>
+  );
+}
+
+function FateBadge({ member }: { member: CrewMember }) {
+  return (
+    <>
+      <span
+        style={{
+          display: "inline-block",
+          padding: "0.15rem 0.5rem",
+          borderRadius: 8,
+          fontSize: "0.8rem",
+          fontWeight: 500,
+          backgroundColor:
+            member.fate === "Killed" || member.fate === "Killed in action"
+              ? "#f5e8e8"
+              : member.fate === "Survived" || member.fate === "Survived injured"
+              ? "#e8f5e8"
+              : member.fate === "POW" || member.fate === "Prisoner of War"
+              ? "#e8ecf5"
+              : member.fate === "MIA" || member.fate === "Missing"
+              ? "#f5f0e8"
+              : "#f5f5f5",
+          color:
+            member.fate === "Killed" || member.fate === "Killed in action"
+              ? "#8b3a3a"
+              : member.fate === "Survived" || member.fate === "Survived injured"
+              ? "#3a6b3a"
+              : member.fate === "POW" || member.fate === "Prisoner of War"
+              ? "#3a4a8b"
+              : member.fate === "MIA" || member.fate === "Missing"
+              ? "#8b6b3a"
+              : "#666",
+        }}
+      >
+        {member.fate || "\u2014"}
+      </span>
+      {member.decorations && (
+        <div style={{ fontSize: "0.75rem", color: "#8b7355", marginTop: "0.25rem" }}>
+          {member.decorations}
+        </div>
+      )}
+    </>
+  );
+}
+
+function BurialLinks({ member }: { member: CrewMember }) {
+  return (
+    <>
+      {member.cwgc_url ? (
+        <a
+          href={member.cwgc_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: "#7a4500" }}
+        >
+          {member.burial_location && member.burial_location !== "\u2014"
+            ? member.burial_location
+            : "CWGC Record"}
+        </a>
+      ) : (
+        member.burial_location && member.burial_location !== "\u2014"
+          ? member.burial_location
+          : "\u2014"
+      )}
+      {member.cwgc_verified && (
+        <span
+          style={{
+            fontSize: "0.65rem",
+            marginLeft: "0.4rem",
+            padding: "0.1rem 0.4rem",
+            borderRadius: 6,
+            backgroundColor: "#e8f5e8",
+            color: "#3a6b3a",
+          }}
+        >
+          CWGC
+        </span>
+      )}
+      {member.iwm_name_url?.startsWith("https://") && (
+        <a
+          href={member.iwm_name_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Name record on the IWM War Memorials Register"
+          style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
+        >
+          IWM
+        </a>
+      )}
+      {member.ibcc_url?.startsWith("https://") && (
+        <a
+          href={member.ibcc_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Loss record at the International Bomber Command Centre"
+          style={{ display: "inline-block", fontSize: "0.65rem", marginLeft: "0.4rem", color: "#7a4500" }}
+        >
+          IBCC
+        </a>
+      )}
+    </>
   );
 }
 

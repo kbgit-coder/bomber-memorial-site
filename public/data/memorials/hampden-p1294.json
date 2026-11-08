@@ -9,7 +9,7 @@
   "squadron": "14 OTU",
   "crash_date": "1941-10-30",
   "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "IWM records a black wooden board with gilt lettering, about 450mm square, fixed 4 metres up a tree trunk beside the A495 at Llynclys, in good condition. Its inscription honours those who fought to land the burning, damaged bomber without injury to others, that the tree added another obstacle to the fatal crash in the field opposite, and that all crew were killed. IWM does not transcribe whatever follows 'IN HONOUR OF'. IBCC transcribes the board as 'In honour of the crew of Hampden P1294' and calls it stencilled. IBCC also lists a tablet for Cottesmore station personnel in the Church of St. Nicholas, Cottesmore. IWM does not state who made or erected the board, when, or who looks after it.",
+  "memorial_details": "IWM records a black wooden board with gilt lettering, about 450mm square, fixed 4 metres up a tree trunk beside the A495 at Llynclys, in good condition. Its inscription honours those who fought to land the burning, damaged bomber without injury to others, that the tree added another obstacle to the fatal crash in the field opposite, and that all crew were killed. IWM does not transcribe whatever follows 'IN HONOUR OF'. IBCC transcribes the board as 'In honour of the crew of Hampden P1294' and calls it stencilled. IBCC also lists a tablet for Cottesmore station personnel in the Church of St. Nicholas, Cottesmore. IWM does not state who made or erected the board, when, or who looks after it.\n\nThe board names the pilot as Plt/Off G.D. Kerr. The Commonwealth War Graves Commission records him as a Flying Officer.",
   "inscription": "IN HONOUR OF/ WHO BRAVELY FOUGHT TO LAND BURNING &/ BADLY DAMAGED HAMPDEN BOMBER No P1294/ WITHOUT INJURY TO OTHERS./ THIS TREE ADDING ANOTHER OBSTACLE TO/ THE FATAL CRASH IN FIELD OPPOSITE/ KILLING ALL CREW./ OCTOBER 30TH 1941",
   "sources": [
     {
@@ -64,6 +64,11 @@
       "type": "official",
       "url": "https://www.cwgc.org/find-war-dead/casualty/2407121",
       "date": "2026-11-06"
+    },
+    {
+      "title": "Helen Gerald, emails to the Register with three photos, 6 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-08"
     }
   ],
   "data_quality": "Partial",
@@ -224,12 +229,32 @@
     }
   ],
   "what3words": "",
-  "community_connection": "",
+  "community_connection": "Helen Gerald, who lives nearby and is a trustee of Pant Memorial Hall, photographed the memorial in autumn 2026. The board is intact and legible. The roadside hedge has grown up around the tree since 2016, so the board is harder to see from the A495 than it was. Pant Memorial Hall holds the village Second World War memorial and publishes research on the men named on it.",
   "last_validated": "2026-11-06",
   "station": "RAF Cottesmore",
   "operation_type": "Training cross-country navigation flight",
   "cause_of_loss": "Seen to emerge almost vertically from cloud and crashed near Oswestry; witnesses said it clipped trees and a high-tension wire, then burned",
   "memorial_address": "4 metres up on the tree trunk, A495, Llynclys, Oswestry, Shropshire, SY10 8LU",
   "condition": "Good",
-  "crew_summary": "4 crew — 4 killed"
+  "crew_summary": "4 crew — 4 killed",
+  "photos": [
+    {
+      "filename": "hampden-p1294/llynclys-plaque-2026.jpg",
+      "caption": "The memorial board on the tree beside the A495, autumn 2026",
+      "credit": "Helen Gerald",
+      "date_taken": "2026-10"
+    },
+    {
+      "filename": "hampden-p1294/llynclys-tree-2026.jpg",
+      "caption": "The tree carrying the memorial board, autumn 2026",
+      "credit": "Helen Gerald",
+      "date_taken": "2026-10"
+    },
+    {
+      "filename": "hampden-p1294/llynclys-roadside-2026.jpg",
+      "caption": "The memorial tree from the A495, with the hedge grown up around it",
+      "credit": "Helen Gerald",
+      "date_taken": "2026-10"
+    }
+  ]
 }

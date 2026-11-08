@@ -166,8 +166,8 @@ export default function SquadronPage({ params }: Props) {
               transition: "border-color 0.2s",
             }}
           >
-            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
-              <div>
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: "0.75rem" }}>
+              <div style={{ minWidth: 0 }}>
                 <h3 style={{
                   fontFamily: "'Helvetica Neue', Arial, sans-serif",
                   color: "#1a2332",
@@ -186,7 +186,7 @@ export default function SquadronPage({ params }: Props) {
                   </div>
                 )}
               </div>
-              <div style={{ textAlign: "right", flexShrink: 0 }}>
+              <div style={{ textAlign: "right", maxWidth: "50%", overflowWrap: "anywhere" }}>
                 {m.aircraft_type && (
                   <div style={{ fontSize: "0.8rem", color: "#8b7355", fontWeight: 600 }}>
                     {m.aircraft_type}

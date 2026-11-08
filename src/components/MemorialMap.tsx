@@ -90,6 +90,8 @@ export default function MemorialMap({
         height: 450,
         width: "100%",
         borderRadius: 8,
+        // Positioned so overflow clips off-screen markers; without it they widen the page on phones.
+        position: "relative",
         overflow: "hidden",
         border: "2px solid #8b7355",
         backgroundColor: "#e8e4de",

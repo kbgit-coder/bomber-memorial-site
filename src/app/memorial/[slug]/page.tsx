@@ -165,7 +165,7 @@ export default function MemorialPage({ params }: Props) {
   };
 
   return (
-    <div data-pagefind-body="" style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem" }}>
+    <div data-pagefind-body="" style={{ maxWidth: 900, margin: "0 auto", padding: "2rem 1.5rem", overflowWrap: "anywhere" }}>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       {/* Breadcrumb */}
@@ -236,7 +236,7 @@ export default function MemorialPage({ params }: Props) {
           <h2 style={sectionHeading}>Photographs</h2>
           <div style={{
             display: "grid",
-            gridTemplateColumns: `repeat(auto-fill, minmax(${memorial.photos.length === 1 ? "400px" : "200px"}, 1fr))`,
+            gridTemplateColumns: `repeat(auto-fill, minmax(min(${memorial.photos.length === 1 ? "400px" : "200px"}, 100%), 1fr))`,
             gap: "1rem",
           }}>
             {memorial.photos.map((photo, i) => (
@@ -1099,7 +1099,7 @@ export default function MemorialPage({ params }: Props) {
                 <div>
                   <div style={labelStyle}>Website</div>
                   <div style={{ fontWeight: 500 }}>
-                    <a href={memorial.maintainer.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500" }}>
+                    <a href={memorial.maintainer.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500", overflowWrap: "anywhere" }}>
                       {memorial.maintainer.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
                     </a>
                   </div>
@@ -1151,7 +1151,7 @@ export default function MemorialPage({ params }: Props) {
                   )}
                   {contact.contact_phone && <span style={{ color: "#333" }}>{contact.contact_phone}</span>}
                   {contact.website && (
-                    <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500" }}>
+                    <a href={contact.website} target="_blank" rel="noopener noreferrer" style={{ color: "#7a4500", overflowWrap: "anywhere" }}>
                       {contact.website.replace(/^https?:\/\//, "").replace(/\/$/, "")}
                     </a>
                   )}
