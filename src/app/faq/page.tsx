@@ -78,6 +78,7 @@ const faqs: { q: string; a: string[] }[] = [
     a: [
       "We cross-reference multiple sources before publishing or upgrading an entry\u2019s quality tier. Primary sources include the Commonwealth War Graves Commission (CWGC), squadron Operations Record Books (ORBs) held at the National Archives, AIR 81 casualty files, War Memorials Online, and local historians and parish records.",
       "We also rely heavily on submissions from families and community researchers, who frequently have access to letters, photographs, log books, and oral histories that no official archive holds. We note our sources on each entry, and flag where information comes from a single unverified source.",
+      "This is a community project, so we aim to credit every source we find, including people who share what they know in public groups such as Facebook. If we have missed a credit, or you would rather not be named, let us know and we will put it right.",
       "We do not claim perfection. When we have doubts about a detail, we say so rather than present it as fact.",
     ],
   },
