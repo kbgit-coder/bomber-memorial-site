@@ -15,10 +15,15 @@
     {
       "title": "Geograph Norfolk",
       "type": "website"
+    },
+    {
+      "title": "Steve Bond, photographs sent to the Register by WeTransfer, 9 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-11"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-11-11",
   "data_quality": "Partial",
   "latitude": 52.7556,
   "longitude": 0.8881,
@@ -84,7 +89,7 @@
       "rank": "Sgt",
       "age": 19,
       "fate": "Killed",
-      "role": "Unknown (not specified in text)",
+      "role": "Observer",
       "nationality": "British",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Beaufoy&Forename=Michael"
     },
@@ -93,7 +98,7 @@
       "rank": "Sgt",
       "age": 22,
       "fate": "Killed",
-      "role": "Unknown (not specified in text)",
+      "role": "Wireless Operator / Air Gunner",
       "nationality": "British",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Harrowell&Forename=Leslie"
     }
@@ -132,5 +137,19 @@
   "memorial_details": "A memorial was placed at the site in 2000 to honor these young airmen.\n\nMemorial placement (2000): Memorial placed on site in 2000",
   "crash_category": "unknown",
   "narrative_quality_score": 4,
-  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/114.jpg"
+  "squadron_badge_url": "https://rafweb.org/Badges/RAFHT/114.jpg",
+  "serial_number": "V5455",
+  "inscription": "IN MEMORY OF THE CREW OF BLENHEIM V5455\nOF 114 SQN RAF WEST RAYNHAM\nWHO LOST THEIR LIVES HERE ON 9TH JUNE 1942\nWHEN LEAVING FOR A NIGHT INTRUDER ATTACK\nON GERMANY\nPILOT OFFICER JOHN GRAHAM RAF-PILOT, AGED 21 YRS\nSGT. MICHAEL BEAUFOY RAF(VR)-OBSERVER, AGED 19 YRS\nSGT. LESLIE HARROWELL RAF(VR)-WOP/AG, AGED 22 YRS\n\"WE WILL REMEMBER THEM\"",
+  "photos": [
+    {
+      "filename": "brisley-blenheim-v-5455/brisley-memorial.jpg",
+      "caption": "The brick and flint memorial wall with wreaths",
+      "credit": "Steve Bond"
+    },
+    {
+      "filename": "brisley-blenheim-v-5455/brisley-plaque.jpg",
+      "caption": "The plaque naming the three crew of Blenheim V5455",
+      "credit": "Steve Bond"
+    }
+  ]
 }

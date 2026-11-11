@@ -10,23 +10,80 @@
   "crash_date": "1945-03-04",
   "memorial_type": "Window",
   "memorial_details": "Rectangular, stained-glass panel in an oak frame, located bottom-right of an older, plain, two-light window. The panel depicts a Halifax bomber flying against a sunlit sky. The 192 Squadron badge and motto are above and below the aircraft. Two brass plaques provide the dedication and the crew names, engraved in black, upper-case letters.",
-  "inscription": "Upper plaque, reported to read (though not visible on the image): DEDICATED TO THE CREW OF THE HALIFAX LV955 OF 192 SQUADRON/ WHICH CRASHED IN THE VILLAGE ON THE 4TH MARCH 1945./ Squadron badge and motto on window: 192 SQUADRON 192/ ROYAL AIR FORCE/ DARE TO DISCOVER/ Lower brass plaque:",
+  "inscription": "Upper plaque, reported to read (though not visible on the image): DEDICATED TO THE CREW OF THE HALIFAX LV955 OF 192 SQUADRON/ WHICH CRASHED IN THE VILLAGE ON THE 4TH MARCH 1945./ Squadron badge and motto on window: 192 SQUADRON 192/ ROYAL AIR FORCE/ DARE TO DISCOVER/ Lower brass plaque: F/O E D ROBERTS / F/O R G TODD / SGT K A SUTCLIFFE / F/O W DARLINGTON RCAF † / W/O W S CLEMENTSON † / F/S R G HOLMES † / SGT J C ANDERSON † / SGT R T GRAPES †",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/101343",
       "type": "official_database"
+    },
+    {
+      "title": "Steve Bond, photographs sent to the Register by WeTransfer, 9 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-11"
     }
   ],
   "data_quality": "Partial",
   "narrative": "",
-  "crew": [],
+  "crew": [
+    {
+      "rank": "F/O",
+      "name": "W. Darlington",
+      "fate": "Killed"
+    },
+    {
+      "rank": "W/O",
+      "name": "W. S. Clementson",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/Sgt",
+      "name": "R. G. Holmes",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "J. C. Anderson",
+      "fate": "Killed"
+    },
+    {
+      "rank": "Sgt",
+      "name": "R. T. Grapes",
+      "fate": "Killed"
+    },
+    {
+      "rank": "F/O",
+      "name": "E. D. Roberts",
+      "fate": "Survived"
+    },
+    {
+      "rank": "F/O",
+      "name": "R. G. Todd",
+      "fate": "Survived"
+    },
+    {
+      "rank": "Sgt",
+      "name": "K. A. Sutcliffe",
+      "fate": "Survived"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-11",
   "latitude": 52.838629258763,
   "longitude": 0.956856202364,
   "grid_ref": "TF 99253",
-  "photos": [],
+  "photos": [
+    {
+      "filename": "handley-page-halifax-lv955/fulmodeston-window.jpg",
+      "caption": "The memorial window, with the 192 Squadron badge and motto Dare to Discover",
+      "credit": "Steve Bond"
+    },
+    {
+      "filename": "handley-page-halifax-lv955/fulmodeston-names-plaque.jpg",
+      "caption": "The brass plaque naming the eight crew; a cross marks the five who died",
+      "credit": "Steve Bond"
+    }
+  ],
   "names_on_memorial": 8,
   "died_count": 5,
   "custodian": "Christ Church",

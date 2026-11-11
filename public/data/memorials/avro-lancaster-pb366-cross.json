@@ -9,7 +9,7 @@
   "squadron": "35 Squadron",
   "crash_date": "1944-12-24",
   "memorial_type": "Cross",
-  "memorial_details": "The cross is a plain white wooden cross, about 1.2 m high, at the junction of Dovecote Lane and High Street (B1043) in Great Paxton. The cross member reads LANCASTER CRASH 1944, and a board beneath gives the date, the aircraft and 35 Squadron. IWM records it in good condition. IWM gives no maker or date for it, and none of the other sources read says who put it up.",
+  "memorial_details": "The cross is a plain white wooden cross, about 1.2 m high, at the junction of Dovecote Lane and High Street (B1043) in Great Paxton. The cross member reads LANCASTER CRASH 1944, and a board beneath gives the date, the aircraft and 35 Squadron. IWM recorded the original cross in good condition, but it later deteriorated and was replaced with a new cross in October 2026. IWM gives no maker or date for it, and none of the other sources read says who put it up.",
   "inscription": "Cross: LANCASTER CRASH 1944. Board: CHRISTMAS EVE 44/ LANCASTER PB366/ 35 SQUADRON",
   "sources": [
     {
@@ -112,6 +112,11 @@
       "type": "researched",
       "url": "https://35squadron.wordpress.com/2019/11/11/pb366-crew-great-paxton/",
       "date": "2026-11-06"
+    },
+    {
+      "title": "Chris Hall, correction to the Register with photograph, 8 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-11"
     }
   ],
   "data_quality": "Partial",
@@ -210,32 +215,32 @@
     }
   ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-11",
   "latitude": 52.256508799531,
   "longitude": -0.232350527985,
   "grid_ref": "TL 20750",
   "photos": [
     {
       "filename": "avro-lancaster-pb366-cross/large_lancaster_pb366_crash_site_cross.jpg",
-      "caption": "The white wooden cross",
+      "caption": "The original white wooden cross",
       "credit": "Colin Murray, via IWM War Memorials Register",
       "source": "https://media.iwm.org.uk/ciim5/memorials/138/311/large_lancaster_pb366_crash_site_cross.jpg"
     },
     {
       "filename": "avro-lancaster-pb366-cross/large_lancaster_pb366_crashsite_cross_in_context.jpg",
-      "caption": "The cross in its setting",
+      "caption": "The original cross in its setting",
       "credit": "Colin Murray, via IWM War Memorials Register",
       "source": "https://media.iwm.org.uk/ciim5/memorials/138/314/large_lancaster_pb366_crashsite_cross_in_context.jpg"
     },
     {
       "filename": "avro-lancaster-pb366-cross/large_lancaster_pb366_crash_site_cross_detail.jpg",
-      "caption": "Detail of the cross",
+      "caption": "Detail of the original cross",
       "credit": "Colin Murray, via IWM War Memorials Register",
       "source": "https://media.iwm.org.uk/ciim5/memorials/138/312/large_lancaster_pb366_crash_site_cross_detail.jpg"
     },
     {
       "filename": "avro-lancaster-pb366-cross/large_lancaster_pb366_cross.jpg",
-      "caption": "The cross and board",
+      "caption": "The original cross and board",
       "credit": "Colin Murray, via IWM War Memorials Register",
       "source": "https://media.iwm.org.uk/ciim5/memorials/138/313/large_lancaster_pb366_cross.jpg"
     }

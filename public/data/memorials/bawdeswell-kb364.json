@@ -16,10 +16,15 @@
     {
       "title": "Geograph Norfolk",
       "type": "website"
+    },
+    {
+      "title": "Steve Bond, photographs sent to the Register by WeTransfer, 9 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-11"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-11-11",
   "data_quality": "Comprehensive",
   "latitude": 52.744246,
   "longitude": 1.03116,
@@ -116,10 +121,10 @@
   },
   "crew": [
     {
-      "name": "Mervyn Lambert Tansley",
-      "rank": "Mervyn Tansley",
-      "fate": "Unknown",
-      "role": "Unknown",
+      "name": "Melvin Lambert Tansley",
+      "rank": "Sgt",
+      "fate": "Killed",
+      "role": "Navigator",
       "age": 21,
       "nationality": "British"
     },
@@ -136,5 +141,13 @@
   "crash_category": "unknown",
   "narrative_quality_score": 0,
   "narrative_source": "generated-claude-sonnet",
-  "community_connection": "The memorial is maintained by Bawdeswell Parish Council."
+  "community_connection": "The memorial is maintained by Bawdeswell Parish Council.",
+  "inscription": "IN MEMORY OF\nP/O JAMES McLEAN\nSGT MELVIN TANSLEY R.A.F.\nWHO WERE KILLED WHEN THEIR MOSQUITO\nAIRCRAFT DESTROYED BAWDESWELL CHURCH\nNOVEMBER 6th 1944\nTHE METAL BASE IS PART OF THE AIRCRAFT",
+  "photos": [
+    {
+      "filename": "bawdeswell-kb364/bawdeswell-plaque.jpg",
+      "caption": "The memorial plaque, mounted on a piece of the Mosquito's metal",
+      "credit": "Steve Bond"
+    }
+  ]
 }
