@@ -5,24 +5,42 @@
   "county": "East Sussex",
   "country": "United Kingdom",
   "aircraft_type": "Wellington",
-  "serial_number": "",
+  "serial_number": "R1392",
   "squadron": "304 (Silesian) Squadron",
   "crash_date": "1941-05-28",
-  "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Concrete foundation supporting a square-headed blue-brick wall with an engraved bronze plaque on front face. Crest at top centre of plaque.",
+  "memorial_type": "Brick wall with bronze plaque and bronze Polish eagle",
+  "memorial_details": "The memorial is a brick wall with a bronze plaque and a bronze Polish eagle. It was unveiled on 27 May 2001. Survivor Stanislaw Jozefiak sponsored, designed and built it.",
   "inscription": "HERE ON 27/28 MAY 1941/ A WELLINGTON BOMBER/ NZ-N OF 304 (Silesian) Squadron/ CRASHED AFTER BOMBING THE FRENCH/ PORT OF BOLOGNE WHERE IT HAD BEEN/ HIT AND BADLY DAMAGED/ CREW WHO DIED/ (1 NAME)/ DROWNED IN THE LA MANCHE CANAL/ CREW WHO SURVIVED/ BALED OUT",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/40191",
       "type": "official_database"
+    },
+    {
+      "title": "R1392 (NZ-N) 28th May 1941",
+      "type": "researched",
+      "url": "https://304squadron.blogspot.com/2009/06/r1392-nz-n-28th-may-1941-this-aircraft.html",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Vickers Wellington NZ-N (WMR-40191)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/40191",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Wellington Bomber NZ-N Polish 304 Squadron (WMO/136229)",
+      "type": "researched",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/136229",
+      "date": "2026-11-11"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
+  "narrative": "A Wellington of 304 Polish Squadron, R1392, was hit by flak in the port engine during a raid on Boulogne in May 1941 and crashed at Darwell Hole near Netherfield. Four of the crew were killed and two injured men survived. One more man baled out and was never found.",
   "crew": [],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-11",
   "latitude": 50.944996789242,
   "longitude": 0.416525602341,
   "grid_ref": "TQ 69833",
@@ -30,7 +48,47 @@
   "names_on_memorial": 6,
   "died_count": 4,
   "custodian": "Stanislaw Jozefiak; Polish Air Force Association Trust",
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "304 Squadron blog",
+      "original_url": "https://304squadron.blogspot.com/2009/06/r1392-nz-n-28th-may-1941-this-aircraft.html",
+      "summary": "Blog account of the loss of R1392 on a raid on Boulogne. Hit by flak in the port engine, crashed at Darwell Hole near Brightling, Sussex (the squadron record book says Kent). Lists four dead, one man missing after baling out, and two injured survivors including Jozefiak, who later built a memorial.",
+      "key_details": [
+        "Date given as 28 May 1941",
+        "Dead: Waroczewski, Wieczorek, Kuszczynski, Drozdz",
+        "Survivors: Jozefiak, Nilski",
+        "Dead buried at Newark Cemetery"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/40191",
+      "summary": "IWM entry for the brick and bronze plaque memorial on Darwell Hill, Netherfield. Names the maintainer as Stanislaw Jozefiak and the Polish Air Force Association Trust, and says it was unveiled on 27 May 2001, privately sponsored, designed and built by Mr Jozefiak. No names are listed; the inscription gives counts only.",
+      "key_details": [
+        "Behind a pedestrian gate and hedge, Darwell Hill (B2096), Netherfield, Rother, TN33 9QL",
+        "Grid ref TQ 69833 18968",
+        "4 crew died, 2 survived by baling out",
+        "Parish not stated"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/136229",
+      "summary": "WMO entry for the same memorial. No custodian is listed. A comment says it is maintained each May before a service on the last Sunday of May at 15:00 led by members of the Royal British Legion; the maintainer is not named. Condition comments note encroaching vegetation and no safe parking on a busy narrow road.",
+      "key_details": [
+        "Near Doctors Cottage, Darwell Hill, Netherfield, Battle, TN33 9QL",
+        "Brick wall, bronze plaque, bronze Polish eagle on top",
+        "Photos dated 10 April 2013 and 22 September 2017",
+        "Comments are undated and unattributed"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/178/277/large_108829b.jpg",
@@ -38,5 +96,13 @@
     "https://media.iwm.org.uk/ciim5/memorials/71/803/large_3510065_74d8128a_1024x1024_r.jpg",
     "https://media.iwm.org.uk/ciim5/memorials/178/276/large_108829a.jpg"
   ],
-  "community_connection": "The memorial is maintained by Stanislaw Jozefiak; Polish Air Force Association Trust."
+  "community_connection": "IWM lists the Polish Air Force Association Trust as maintainer. A War Memorials Online comment says an annual service is held on the last Sunday of May, led by members of the Royal British Legion. We have not confirmed who looks after the memorial today.",
+  "operation_target": "Boulogne",
+  "dedication_date": "2001-05-27",
+  "erected_by": "Stanislaw Jozefiak (privately sponsored, designed and built), a survivor of the crash",
+  "maintainer": {
+    "organisation": "Polish Air Force Association Trust (IWM also names Stanislaw Jozefiak)",
+    "maintainer_type": ""
+  },
+  "last_validated": "2026-11-11"
 }

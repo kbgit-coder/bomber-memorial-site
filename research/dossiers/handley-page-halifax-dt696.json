@@ -1,0 +1,687 @@
+{
+  "memorial_id": "handley-page-halifax-dt696",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "IWM memorial 70260 Halifax DT696 Stillingfleet",
+      "useful": true
+    },
+    {
+      "query": "Stillingfleet Halifax DT696 158 Squadron memorial St Helen church Stillingfleet Chroniclers",
+      "useful": true
+    },
+    {
+      "query": "Stillingfleet St Helen's church Halifax bomber plaque 158 Squadron Yvonne Clarke",
+      "useful": false
+    },
+    {
+      "query": "yorkshire-aircraft.co.uk dt696",
+      "useful": true
+    },
+    {
+      "query": "Stillingfleet parish council / church website custodian of plaque",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/dt696.html",
+      "title": "Halifax DT696, Stillingfleet, 14/15 February 1943",
+      "publisher": "Yorkshire Aircraft",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Researcher's account of 158 Squadron Halifax DT696 crashing after take-off from Rufforth, with crew list and an account of the 2008 plaque in Stillingfleet church.",
+      "key_details": [
+        "Took off Rufforth 18.16, crashed 18.30",
+        "All seven killed",
+        "Plaque dedicated in church 14 Feb 2008, arranged by Yvonne Clarke",
+        "Plaque repeats CWGC error on Flood's rank",
+        "Who looks after plaque not stated"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://memorials.iwm.org.uk/item/memorial/70260",
+      "title": "Handley Page Halifax DT696 (WMR 70260)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-11",
+      "summary": "IWM entry for the brass plaque on a wooden backboard at St Helen, Stillingfleet. Lists Stillingfleet Chroniclers as sponsor; no maintainer stated.",
+      "key_details": [
+        "St Helen, York Road, Stillingfleet YO19 6SN",
+        "Unveiled February 2008 by H N Mottershead DFC",
+        "Sponsor: Stillingfleet Chroniclers",
+        "7 commemorated, all died",
+        "Photo copyright David Lyons"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1943-02-14",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "DT696",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "squadron",
+      "value": "158 Squadron",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "station",
+      "value": "RAF Rufforth",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "operation_target",
+      "value": "Cologne",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "event",
+      "value": "Took off from Rufforth at 18.16; one port engine failed soon after, bombs were jettisoned near Appleton Roebuck, and the heavily loaded aircraft stalled and crashed at 18.30 just west of Stillingfleet",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "event",
+      "value": "All seven crew were killed",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "memorial_type",
+      "value": "Board / Plaque / Tablet: brass plaque on wooden backboard",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "dedication_date",
+      "value": "2008-02-14",
+      "sources": [
+        "S1"
+      ],
+      "quote": "14th February 2008"
+    },
+    {
+      "id": "C10",
+      "field": "memorial_address",
+      "value": "St Helen, York Road, Stillingfleet, Selby, North Yorkshire, YO19 6SN",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "died_count",
+      "value": 7,
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "event",
+      "value": "The plaque was arranged by local resident Yvonne Clarke with help from aviation historians David Thompson and the late Eddie Fell, who traced the crew's families",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "event",
+      "value": "The plaque was unveiled by H N 'Bluey' Mottershead, President of the 158 Squadron Association",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "The plaque lists Flood as P/O, repeating a CWGC error; Yorkshire Aircraft says he was promoted F/O on 22 December 1942",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "IWM lists the sponsor as Stillingfleet Chroniclers; neither source says who looks after the plaque",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "A second memorial stone placed near the crash site in 2008 was mistakenly moved to a nearby farm and is believed still there",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "Gerald Bevill Herbert",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C20",
+      "field": "crew.service_number",
+      "value": "116456",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": 20,
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C22",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C23",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C24",
+      "field": "crew.burial_location",
+      "value": "Theale Churchyard, Berkshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "herbert-g"
+    },
+    {
+      "id": "C25",
+      "field": "crew.name",
+      "value": "Reginald Flood",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C26",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C27",
+      "field": "crew.service_number",
+      "value": "124712",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C28",
+      "field": "crew.age",
+      "value": 26,
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C29",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C30",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C31",
+      "field": "crew.burial_location",
+      "value": "Staveley Cemetery, Derbyshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "flood-r"
+    },
+    {
+      "id": "C32",
+      "field": "crew.name",
+      "value": "Arthur Bruce Langeland",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C33",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C34",
+      "field": "crew.service_number",
+      "value": "1260753",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C35",
+      "field": "crew.age",
+      "value": 26,
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C36",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C37",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C38",
+      "field": "crew.burial_location",
+      "value": "Staines (London Road) Cemetery, Middlesex",
+      "sources": [
+        "S1"
+      ],
+      "person": "langeland-a"
+    },
+    {
+      "id": "C39",
+      "field": "crew.name",
+      "value": "Sidney William Cains",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C40",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C41",
+      "field": "crew.service_number",
+      "value": "NZ.405472",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C42",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C43",
+      "field": "crew.role",
+      "value": "Wireless operator / air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C44",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C45",
+      "field": "crew.burial_location",
+      "value": "Harrogate Stonefall Cemetery, Yorkshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C46",
+      "field": "crew.nationality",
+      "value": "New Zealander",
+      "sources": [
+        "S1"
+      ],
+      "person": "cains-s"
+    },
+    {
+      "id": "C47",
+      "field": "crew.name",
+      "value": "John Rust Mace",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C48",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C49",
+      "field": "crew.service_number",
+      "value": "1225368",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C50",
+      "field": "crew.age",
+      "value": 29,
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C51",
+      "field": "crew.role",
+      "value": "Flight engineer",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C52",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C53",
+      "field": "crew.burial_location",
+      "value": "North Walsham New Cemetery, Norfolk",
+      "sources": [
+        "S1"
+      ],
+      "person": "mace-j"
+    },
+    {
+      "id": "C54",
+      "field": "crew.name",
+      "value": "Dennis Booker",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C55",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C56",
+      "field": "crew.service_number",
+      "value": "610543",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C57",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C58",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C59",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C60",
+      "field": "crew.burial_location",
+      "value": "Wybunbury Churchyard, Cheshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "booker-d"
+    },
+    {
+      "id": "C61",
+      "field": "crew.name",
+      "value": "William Ruth",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C62",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C63",
+      "field": "crew.service_number",
+      "value": "1074263",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C64",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C65",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C66",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    },
+    {
+      "id": "C67",
+      "field": "crew.burial_location",
+      "value": "Barrow in Furness Cemetery, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "ruth-w"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Halifax DT696 of 158 Squadron took off from Rufforth at 18.16 on the evening of 14 February 1943, bound for Cologne. One port engine failed soon after take-off. The bombs were jettisoned near Appleton Roebuck, but the heavily loaded aircraft stalled and crashed at 18.30 just west of Stillingfleet. All seven crew were killed.",
+      "cites": [
+        "C1",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "A brass plaque on a wooden backboard hangs in St Helen's church, Stillingfleet. It was dedicated on 14 February 2008 and unveiled by H N Mottershead, President of the 158 Squadron Association. It gives Flood's rank as P/O, repeating a CWGC error. A second memorial stone placed near the crash site was mistakenly moved to a nearby farm, according to Yorkshire Aircraft.",
+      "cites": [
+        "C9",
+        "C14",
+        "C15",
+        "C17"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "Local resident Yvonne Clarke arranged the plaque, helped by aviation historians David Thompson and the late Eddie Fell, who traced the crew's families. IWM lists the Stillingfleet Chroniclers as sponsor.",
+      "cites": [
+        "C13",
+        "C16"
+      ]
+    }
+  ],
+  "custodian_status": "unknown-confirmed",
+  "retractions": [
+    {
+      "field": "community_connection",
+      "reason": "Existing text is only the plaque's closing line, 'Their Names Liveth For Evermore', which is not community connection."
+    }
+  ],
+  "notes": "CUSTODIAN: not found. The plaque is inside St Helen's church (Church of England), Stillingfleet, which implies the church looks after it, but no source says so, so I have not claimed it. IWM sponsor: 'Stillingfleet Chroniclers' (probably a local history group, unverified, no site found). Yvonne Clarke arranged the plaque in 2008 (Yorkshire Aircraft); she is a named private individual, no contact given. Next step: ask the church/PCC or the Stillingfleet Chroniclers. DISCREPANCY: Yorkshire Aircraft says the aircraft took off at 18.16 and crashed 18.30 on the evening of 14 Feb; the plaque says 'Sunday 14th February 1943' (fits). IBCC mentions the plaque too (spelling 'Sillingflet'), not fetched. Our record's lat/long put the stone at the church; second stone said to be at a nearby farm. Crew nationalities other than Cains are inferred in the source, not claimed. IWM photo by David Lyons exists but I did not add it (no capture in research/iwm; credit/URL taken from our record only)."
+}

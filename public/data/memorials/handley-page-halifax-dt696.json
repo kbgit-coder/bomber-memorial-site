@@ -8,31 +8,143 @@
   "serial_number": "DT696",
   "squadron": "158 Squadron",
   "crash_date": "1943-02-14",
-  "memorial_type": "Board / Plaque / Tablet",
-  "memorial_details": "Small rectangular brass plaque on wooden backboard with incised inscription within single line border. Regimental insignia engraved at the top left- and right-hand sides of the plaque.",
+  "memorial_type": "Board / Plaque / Tablet: brass plaque on wooden backboard",
+  "memorial_details": "A brass plaque on a wooden backboard hangs in St Helen's church, Stillingfleet. It was dedicated on 14 February 2008 and unveiled by H N Mottershead, President of the 158 Squadron Association. It gives Flood's rank as P/O, repeating a CWGC error. A second memorial stone placed near the crash site was mistakenly moved to a nearby farm, according to Yorkshire Aircraft.",
   "inscription": "DEDICATED TO THE CREW OF/ RAF HALIFAX DT696/ OF 158 SQUADRON/ WHO DIED NEAR STILLINGFLEET/ ON SUNDAY 14TH FEBRUARY 1943./ (Names...)/ THEIR NAMES LIVETH FOR EVERMORE.",
   "sources": [
     {
       "title": "IWM War Memorials Register",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/70260",
       "type": "official_database"
+    },
+    {
+      "title": "Halifax DT696, Stillingfleet, 14/15 February 1943",
+      "type": "researched",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/dt696.html",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Handley Page Halifax DT696 (WMR 70260)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/70260",
+      "date": "2026-11-11"
     }
   ],
   "data_quality": "Partial",
-  "narrative": "",
-  "crew": [],
+  "narrative": "Halifax DT696 of 158 Squadron took off from Rufforth at 18.16 on the evening of 14 February 1943, bound for Cologne. One port engine failed soon after take-off. The bombs were jettisoned near Appleton Roebuck, but the heavily loaded aircraft stalled and crashed at 18.30 just west of Stillingfleet. All seven crew were killed.",
+  "crew": [
+    {
+      "rank": "F/O",
+      "fate": "Killed",
+      "name": "Gerald Bevill Herbert",
+      "service_number": "116456",
+      "age": 20,
+      "role": "Pilot",
+      "burial_location": "Theale Churchyard, Berkshire"
+    },
+    {
+      "rank": "F/O",
+      "fate": "Killed",
+      "name": "Reginald Flood",
+      "service_number": "124712",
+      "age": 26,
+      "role": "Navigator",
+      "burial_location": "Staveley Cemetery, Derbyshire"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Arthur Bruce Langeland",
+      "service_number": "1260753",
+      "age": 26,
+      "role": "Navigator",
+      "burial_location": "Staines (London Road) Cemetery, Middlesex"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "John Rust Mace",
+      "service_number": "1225368",
+      "age": 29,
+      "role": "Flight engineer",
+      "burial_location": "North Walsham New Cemetery, Norfolk"
+    },
+    {
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "name": "Sidney William Cains",
+      "service_number": "NZ.405472",
+      "age": 24,
+      "role": "Wireless operator / air gunner",
+      "burial_location": "Harrogate Stonefall Cemetery, Yorkshire",
+      "nationality": "New Zealander"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Dennis Booker",
+      "service_number": "610543",
+      "age": 22,
+      "role": "Air gunner",
+      "burial_location": "Wybunbury Churchyard, Cheshire"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "William Ruth",
+      "service_number": "1074263",
+      "age": 21,
+      "role": "Air gunner",
+      "burial_location": "Barrow in Furness Cemetery, Lancashire"
+    }
+  ],
   "contributor": "IWM War Memorials Register",
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-11-11",
   "latitude": 53.861895398463,
   "longitude": -1.09957877447,
   "grid_ref": "SE 59315",
   "photos": [],
   "names_on_memorial": 7,
   "died_count": 7,
-  "external_narratives": [],
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/dt696.html",
+      "summary": "Researcher's account of 158 Squadron Halifax DT696 crashing after take-off from Rufforth, with crew list and an account of the 2008 plaque in Stillingfleet church.",
+      "key_details": [
+        "Took off Rufforth 18.16, crashed 18.30",
+        "All seven killed",
+        "Plaque dedicated in church 14 Feb 2008, arranged by Yvonne Clarke",
+        "Plaque repeats CWGC error on Flood's rank",
+        "Who looks after plaque not stated"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/70260",
+      "summary": "IWM entry for the brass plaque on a wooden backboard at St Helen, Stillingfleet. Lists Stillingfleet Chroniclers as sponsor; no maintainer stated.",
+      "key_details": [
+        "St Helen, York Road, Stillingfleet YO19 6SN",
+        "Unveiled February 2008 by H N Mottershead DFC",
+        "Sponsor: Stillingfleet Chroniclers",
+        "7 commemorated, all died",
+        "Photo copyright David Lyons"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    }
+  ],
   "what3words": "",
   "iwm_photo_urls": [
     "https://media.iwm.org.uk/ciim5/memorials/71/405/large_70260.jpg"
   ],
-  "community_connection": "Their Names Liveth For Evermore."
+  "station": "RAF Rufforth",
+  "operation_target": "Cologne",
+  "dedication_date": "2008-02-14",
+  "memorial_address": "St Helen, York Road, Stillingfleet, Selby, North Yorkshire, YO19 6SN",
+  "condition": "Good",
+  "community_connection": "Local resident Yvonne Clarke arranged the plaque, helped by aviation historians David Thompson and the late Eddie Fell, who traced the crew's families. IWM lists the Stillingfleet Chroniclers as sponsor.",
+  "last_validated": "2026-11-11"
 }

@@ -1,0 +1,765 @@
+{
+  "memorial_id": "selby-halifax-jb789",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "Selby St James church Halifax JB789 spire 1944 crash memorial",
+      "useful": true
+    },
+    {
+      "query": "IWM War Memorials Register 30919 Halifax JB798",
+      "useful": true
+    },
+    {
+      "query": "yorkshire-aircraft.co.uk JB789 (1944 and 1943 pages)",
+      "useful": true
+    },
+    {
+      "query": "St James Selby church website building and home page",
+      "useful": true
+    },
+    {
+      "query": "\"Peter Aird Fraser\" Halifax JB798",
+      "useful": true
+    },
+    {
+      "query": "Selby St James plaque custodian Selby Town Council OR Royal British Legion OR heritage",
+      "useful": false
+    },
+    {
+      "query": "The Press 2014 \"Selby church seeks memories of Second World War air crash\"",
+      "useful": false
+    },
+    {
+      "query": "Wikipedia St James' Church Selby",
+      "useful": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/30919",
+      "title": "Handley Page Halifax JB798 (WMR-30919)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-11",
+      "summary": "IWM entry for a metal plaque on the wall in the south west corner of the nave of St James Church, Selby. It records the 1944 spire strike and the church's restoration and re-dedication, and says the plaque is shown with British and Australian flags and the spire's golden cockerel. It names no maintainer.",
+      "key_details": [
+        "Plaque states aircraft struck the spire on 10 May 1944",
+        "Restoration began 10 May 1949; church re-dedicated 11 December 1950",
+        "Aircraft serial given as JB798",
+        "Church of England; New Lane, Selby YO8 4QB",
+        "Condition Good",
+        "No maintainer stated",
+        "Photograph by John E Scurr"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/jb789.html",
+      "title": "Halifax JB789, Selby, 10 May 1944",
+      "publisher": "Yorkshire Aircraft",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Crash page for JB789 of 1658 HCU Riccall: aircraft history, narrative, the seven aircrew with service numbers and burials, civilian casualties, and a short memorial note. It does not mention JB798 and does not say who maintains the plaque.",
+      "key_details": [
+        "Take-off 01.00, struck St James spire 01.02 on 10 May 1944",
+        "Circuits and landings exercise from Riccall",
+        "Seven aircrew killed; five RAAF, two RAFVR",
+        "Memorial plaque unveiled in St James Church 1 November 1953",
+        "70th anniversary service held in the church in 2014",
+        "Investigation reached no firm conclusion"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://losses.internationalbcc.co.uk/loss/209733/",
+      "title": "Fraser, Peter Aird",
+      "publisher": "IBCC Losses Database",
+      "tier": "institutional",
+      "retrieved": "2026-11-11",
+      "summary": "IBCC entry for F/S Peter Aird Fraser RAAF, pilot of Halifax II JB798 EY-P of 78 Squadron, Breighton, lost on the Hamburg raid of 29-30 July 1943. It lists the same six other men that our JB798 record names as crew. Buried in Hamburg Cemetery.",
+      "key_details": [
+        "Serial JB798, 78 Squadron, Breighton",
+        "Date of loss 30 July 1943, Hamburg raid",
+        "Hit by flak, crashed at Bad Oldesloe",
+        "Other crew: Baillie, Campbell, Goodacre, Hetherington, Nicholls, Woodcock"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://www.stjamesselby.org/church-building",
+      "title": "Church building",
+      "publisher": "St James Selby (church website)",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "The parish church's own page says a Halifax returning from training crashed into the spire in 1944, killing all seven crew and six local residents, and that the tower was rebuilt without a spire. It does not mention the plaque and does not say who maintains it.",
+      "key_details": [
+        "Seven crew and six residents killed (church figure)",
+        "Tower rebuilt without a spire"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://en.wikipedia.org/wiki/St_James%27_Church,_Selby",
+      "title": "St James' Church, Selby",
+      "publisher": "Wikipedia",
+      "tier": "secondary",
+      "retrieved": "2026-11-11",
+      "summary": "Gives the crash only as May 1944, with the crew and eight people in nearby houses killed. Cites The Press, 19 March 2014, which was not readable.",
+      "key_details": [
+        "Crew and eight residents killed",
+        "Tower rebuilt without spire",
+        "Cites The Press 19 March 2014"
+      ]
+    },
+    {
+      "id": "S6",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb789.html",
+      "title": "Halifax JB789, Linton on Ouse, 22 May 1943",
+      "publisher": "Yorkshire Aircraft",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Earlier page for the same airframe (158 Squadron landing accident). Says the aircraft later went to 1658 HCU and flew into the spire of St James Church, Selby on 10 May 1944.",
+      "key_details": [
+        "Same serial JB789 tied to the Selby spire strike"
+      ]
+    },
+    {
+      "id": "S7",
+      "url": "https://www.stjamesselby.org/",
+      "title": "St James Selby home page",
+      "publisher": "St James Selby (church website)",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Home page of the church. Names the vicar and says the PCC adopted a safeguarding policy. Its Open Church section refers to a WWII display in the church but does not describe the plaque or say who looks after it.",
+      "key_details": [
+        "Mentions a WWII display in the church",
+        "No churchwardens or memorial custodian named"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "serial_number",
+      "value": "JB789",
+      "sources": [
+        "S2",
+        "S6"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "crash_date",
+      "value": "1944-05-10",
+      "sources": [
+        "S2",
+        "S1"
+      ],
+      "quote": "ON 10TH MAY 1944 IN THE EARLY MORNING AN R.A.F. AEROPLANE STRUCK THE SPIRE"
+    },
+    {
+      "id": "C3",
+      "field": "aircraft_type",
+      "value": "Halifax",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "squadron",
+      "value": "1658 Heavy Conversion Unit",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "station",
+      "value": "Riccall",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "operation_type",
+      "value": "Training - circuits and landings",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "cause_of_loss",
+      "value": "Failed to gain height on take-off and struck the spire of St James Church; the inquiry reached no firm conclusion",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "event",
+      "value": "Take-off at 01.00, strike on the spire at 01.02, on the third circuit after two successful ones",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "event",
+      "value": "The aircraft broke up and came down across Portholme Road and Union Lane, through the roof of Portholme Mill and onto Portholme Drive, destroying Nos 30 and 32 and partly No 34",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "event",
+      "value": "Yorkshire Aircraft lists about 15 dead in total; the church website gives seven crew and six residents and Wikipedia gives the crew and eight residents. The sources disagree on the civilian toll",
+      "sources": [
+        "S2",
+        "S4",
+        "S5"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "location_name",
+      "value": "St James Church, New Lane, Selby, North Yorkshire",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "memorial_type",
+      "value": "Metal plaque on the nave wall, shown with flags and the spire's cockerel",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "memorial_address",
+      "value": "St James Church, New Lane, Selby YO8 4QB (south west corner of the nave)",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C15",
+      "field": "event",
+      "value": "A memorial plaque was unveiled in St James Church on 1 November 1953, and a 70th anniversary service was held there in 2014",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C16",
+      "field": "event",
+      "value": "The church was restored from 10 May 1949 and re-dedicated on 11 December 1950; the tower was rebuilt without a spire",
+      "sources": [
+        "S1",
+        "S4"
+      ]
+    },
+    {
+      "id": "C17",
+      "field": "event",
+      "value": "The church website refers to a WWII display in the church",
+      "sources": [
+        "S7"
+      ]
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "Thomas Roy Laver",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C20",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C22",
+      "field": "crew.service_number",
+      "value": "426752",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C23",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery, B/C/5",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C24",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "laver-t"
+    },
+    {
+      "id": "C25",
+      "field": "crew.name",
+      "value": "Derrick McDermott",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C26",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C27",
+      "field": "crew.role",
+      "value": "Flight Engineer",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C28",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C29",
+      "field": "crew.service_number",
+      "value": "1111437",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C30",
+      "field": "crew.burial_location",
+      "value": "Selby Cemetery, grave 5317",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C31",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "mcdermott-d"
+    },
+    {
+      "id": "C32",
+      "field": "crew.name",
+      "value": "Peter Hilary Rockingham",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C33",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C34",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C35",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C36",
+      "field": "crew.service_number",
+      "value": "1622397",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C37",
+      "field": "crew.burial_location",
+      "value": "Selby Cemetery, grave 5351",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C38",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "rockingham-p"
+    },
+    {
+      "id": "C39",
+      "field": "crew.name",
+      "value": "Bernard Kevin Storer",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C40",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C41",
+      "field": "crew.role",
+      "value": "Bomb Aimer",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C42",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C43",
+      "field": "crew.service_number",
+      "value": "426702",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C44",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery, B/C/3",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C45",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "storer-b"
+    },
+    {
+      "id": "C46",
+      "field": "crew.name",
+      "value": "Noel Joseph Knight",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C47",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C48",
+      "field": "crew.role",
+      "value": "Wireless Operator/Air Gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C49",
+      "field": "crew.age",
+      "value": "21",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C50",
+      "field": "crew.service_number",
+      "value": "423420",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C51",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery, B/C/2",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C52",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "knight-n"
+    },
+    {
+      "id": "C53",
+      "field": "crew.name",
+      "value": "John Roper",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C54",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C55",
+      "field": "crew.role",
+      "value": "Air Gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C56",
+      "field": "crew.age",
+      "value": "20",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C57",
+      "field": "crew.service_number",
+      "value": "424822",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C58",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery, B/C/1",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C59",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "roper-j"
+    },
+    {
+      "id": "C60",
+      "field": "crew.name",
+      "value": "John Russell Dixon",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C61",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C62",
+      "field": "crew.role",
+      "value": "Air Gunner",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C63",
+      "field": "crew.age",
+      "value": "25",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C64",
+      "field": "crew.service_number",
+      "value": "434607",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C65",
+      "field": "crew.burial_location",
+      "value": "Harrogate (Stonefall) Cemetery, B/C/4",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    },
+    {
+      "id": "C66",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S2"
+      ],
+      "person": "dixon-j"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Halifax JB789 of 1658 Heavy Conversion Unit was on a circuits and landings exercise from Riccall. It took off for its third circuit at 01.00 and struck the spire of St James Church, Selby, at 01.02 on 10 May 1944. It came down across Portholme Road and Union Lane, through the roof of Portholme Mill and onto Portholme Drive. All seven aircrew were killed. The inquiry reached no firm conclusion. The sources give different totals for civilian dead, so the number is not settled here.",
+      "cites": [
+        "C1",
+        "C2",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10"
+      ],
+      "presents_conflict": true
+    },
+    {
+      "section": "memorial_details",
+      "text": "A metal plaque on the nave wall at St James Church, Selby, records the strike and the church's restoration, and is shown with British and Australian flags and the spire's cockerel. Yorkshire Aircraft says a memorial plaque was unveiled in the church on 1 November 1953 and that a 70th anniversary service was held there in 2014. The church was re-dedicated on 11 December 1950 and the tower was rebuilt without a spire.",
+      "cites": [
+        "C12",
+        "C13",
+        "C15",
+        "C16"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "The church website refers to a WWII display in the church.",
+      "cites": [
+        "C17"
+      ]
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "DUPLICATE VERDICT: SAME memorial and same aircraft. Correct serial is JB789 (1658 HCU, Riccall). (1) Yorkshire Aircraft traces JB789 from 158 Sqn to 1658 HCU and the 10 May 1944 Selby spire strike (two pages). (2) IWM 30919, titled JB798, describes one plaque in St James Church recording a 10 May 1944 RAF aeroplane striking the spire; no source shows a second Selby memorial or a second Halifax. (3) JB798 was a different airframe: IBCC puts JB798 (78 Sqn, EY-P, Fraser) on the Hamburg raid of 30 July 1943, crashed at Bad Oldesloe, crew buried Hamburg. The seven crew names in our JB798 record (Fraser, Nicholls, Hetherington, Baillie, Goodacre, Campbell, Woodcock) are that 1943 crew, not the Selby crew; IWM's inscription text as we hold it appears to carry them too. The Selby crew per Yorkshire Aircraft are Laver, McDermott, Rockingham, Storer, Knight, Roper, Dixon. Caveat: coordinates differ by about 200 m (53.784012,-1.068781 vs 53.782467,-1.071457; the IWM grid SE 61280 32193 is the plaque position); both are inside the one church area, and the 1953 plaque date (Yorkshire Aircraft) vs a plaque mentioning 1950 re-dedication (IWM) could mean two plaques, not checked. Our JB789 record's 9 May 1944 date is unsupported: both IWM and Yorkshire Aircraft say 10 May. Recommend merging the JB798 record into JB789 after human review. CUSTODIAN: not found. No source says who looks after the plaque. IWM 30919 names no maintainer; the church site (S4, S7) does not mention it beyond a 'WWII display'. The memorial is inside the Church of England parish church of St James, so the church (vicar and PCC) is the obvious enquiry point, but that is an inference, not sourced; nothing found for Selby Town Council, RBL or a local society. The 2014 Press article cited by Wikipedia could not be read and may name a parish contact. Also doubtful: our record's 'original cockerel weather vane' and 'seven civilians' wording is not supported by what was read (IWM says 8 civilians commemorated; Yorkshire Aircraft implies 15 dead in total; church says 6 residents). Note IWM text says the cockerel was found under debris. Sources S1 and S4/S7 are independent of S2. The Facebook source in our record was not used."
+}

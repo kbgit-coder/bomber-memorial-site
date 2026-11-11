@@ -1,0 +1,567 @@
+{
+  "memorial_id": "wressle-halifax-jd151",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "Halifax DT524 JD151 memorial Wressle Intake Plantation plaque",
+      "useful": false
+    },
+    {
+      "query": "Wressle Halifax memorial plaque Intake Plantation Yorkshire Air Museum Pritchard Barton Reast",
+      "useful": false
+    },
+    {
+      "query": "yorkshire-aircraft.co.uk Halifax JD151 page",
+      "useful": true
+    },
+    {
+      "query": "IWM war memorials register Halifax DT524 Wressle (no entry found)",
+      "useful": false
+    },
+    {
+      "query": "Wressle plaque custodian / maintainer / landowner",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jd151.html",
+      "title": "Halifax JD151, Bowthorpe Hall, 11 August 1943",
+      "publisher": "Yorkshire Aircraft",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Researcher's account of 78 Squadron Halifax JD151 running out of fuel returning from Nuremberg, with crew list. Says the small JD151 plaque in Intake Plantation, Wressle, is at the wrong location, two miles from the real crash site.",
+      "key_details": [
+        "Crash 06.19 near Bowthorpe Hall, South Duffield",
+        "Plaque in Intake Plantation is at wrong location",
+        "Maintainer of plaque not stated",
+        "Memorial photo credited to Eric Barton"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1943-08-11",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "JD151",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "squadron",
+      "value": "78 Squadron",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "station",
+      "value": "RAF Breighton",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "operation_target",
+      "value": "Nuremberg",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "memorial_type",
+      "value": "Plaque",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "event",
+      "value": "On return from Nuremberg, short of fuel, the pilot was seventh to land at Breighton; two engines cut out and the aircraft crashed at 06.19 near Bowthorpe Hall, South Duffield",
+      "sources": [
+        "S1"
+      ],
+      "quote": "two engines then cut out before the propellers could be feathered"
+    },
+    {
+      "id": "C8",
+      "field": "event",
+      "value": "A small plaque to JD151 stands in Intake Plantation, Wressle, about two miles from the crash site, which the author says is the wrong location",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "event",
+      "value": "The author suggests the error came from conflicting crash locations at the Yorkshire Air Museum, relied on by the plaque's organisers; the page does not say who arranged or maintains the plaque",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "event",
+      "value": "Albert Pritchard, Eric Barton and Ken Reast located the correct JD151 site, confirming the AM Form 1180 map reference near Bowthorpe Hall",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "event",
+      "value": "The wood has no public right of way; reaching the plaque means going through a field gate near Wressle and dense undergrowth",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "event",
+      "value": "Three of the seven crew died: Binns and Gillicker in the crash and Brown on 13 August 1943 at Naburn Military Hospital; four were injured",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "crew.name",
+      "value": "Jack Jenkinson",
+      "sources": [
+        "S1"
+      ],
+      "person": "jenkinson-j"
+    },
+    {
+      "id": "C14",
+      "field": "crew.rank",
+      "value": "P/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "jenkinson-j"
+    },
+    {
+      "id": "C15",
+      "field": "crew.service_number",
+      "value": "149961",
+      "sources": [
+        "S1"
+      ],
+      "person": "jenkinson-j"
+    },
+    {
+      "id": "C16",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1"
+      ],
+      "person": "jenkinson-j"
+    },
+    {
+      "id": "C17",
+      "field": "crew.fate",
+      "value": "Injured",
+      "sources": [
+        "S1"
+      ],
+      "person": "jenkinson-j"
+    },
+    {
+      "id": "C18",
+      "field": "crew.name",
+      "value": "Harry Binns",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C19",
+      "field": "crew.rank",
+      "value": "P/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C20",
+      "field": "crew.service_number",
+      "value": "149339",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C21",
+      "field": "crew.age",
+      "value": 35,
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C22",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C23",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C24",
+      "field": "crew.burial_location",
+      "value": "Birkdale Cemetery, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "binns-h"
+    },
+    {
+      "id": "C25",
+      "field": "crew.name",
+      "value": "William John Brown",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C26",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C27",
+      "field": "crew.service_number",
+      "value": "616402",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C28",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C29",
+      "field": "crew.role",
+      "value": "Flight engineer",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C30",
+      "field": "crew.fate",
+      "value": "Died of injuries 13 August 1943",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C31",
+      "field": "crew.burial_location",
+      "value": "Allerton Cemetery, Liverpool",
+      "sources": [
+        "S1"
+      ],
+      "person": "brown-w"
+    },
+    {
+      "id": "C32",
+      "field": "crew.name",
+      "value": "Thomas Gillicker",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C33",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C34",
+      "field": "crew.service_number",
+      "value": "547631",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C35",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C36",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C37",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C38",
+      "field": "crew.burial_location",
+      "value": "Warrington Cemetery, Lancashire",
+      "sources": [
+        "S1"
+      ],
+      "person": "gillicker-t"
+    },
+    {
+      "id": "C39",
+      "field": "crew.name",
+      "value": "Charles William Eyles",
+      "sources": [
+        "S1"
+      ],
+      "person": "eyles-c"
+    },
+    {
+      "id": "C40",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "eyles-c"
+    },
+    {
+      "id": "C41",
+      "field": "crew.service_number",
+      "value": "900473",
+      "sources": [
+        "S1"
+      ],
+      "person": "eyles-c"
+    },
+    {
+      "id": "C42",
+      "field": "crew.role",
+      "value": "Bomb aimer",
+      "sources": [
+        "S1"
+      ],
+      "person": "eyles-c"
+    },
+    {
+      "id": "C43",
+      "field": "crew.fate",
+      "value": "Injured",
+      "sources": [
+        "S1"
+      ],
+      "person": "eyles-c"
+    },
+    {
+      "id": "C44",
+      "field": "crew.name",
+      "value": "Gerald John O'Neill",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    },
+    {
+      "id": "C45",
+      "field": "crew.rank",
+      "value": "F/Lt",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    },
+    {
+      "id": "C46",
+      "field": "crew.service_number",
+      "value": "47705",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    },
+    {
+      "id": "C47",
+      "field": "crew.role",
+      "value": "Wireless operator / air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    },
+    {
+      "id": "C48",
+      "field": "crew.fate",
+      "value": "Injured",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    },
+    {
+      "id": "C49",
+      "field": "crew.name",
+      "value": "Richard Lewis Barger",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C50",
+      "field": "crew.rank",
+      "value": "S/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C51",
+      "field": "crew.service_number",
+      "value": "10601064",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C52",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C53",
+      "field": "crew.fate",
+      "value": "Injured",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C54",
+      "field": "crew.nationality",
+      "value": "American",
+      "sources": [
+        "S1"
+      ],
+      "person": "barger-r"
+    },
+    {
+      "id": "C55",
+      "field": "crew.decorations",
+      "value": "DFM",
+      "sources": [
+        "S1"
+      ],
+      "person": "oneill-g"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Halifax JD151 of 78 Squadron was returning from Nuremberg on 11 August 1943 short of fuel. Waiting seventh in the landing queue at Breighton, two engines cut out and the pilot lost control. The aircraft crashed at 06.19 near Bowthorpe Hall, South Duffield. Navigator Harry Binns and air gunner Thomas Gillicker died; flight engineer William John Brown died of his injuries on 13 August. The other four crew were injured.",
+      "cites": [
+        "C7",
+        "C12"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "A small plaque to JD151 stands in Intake Plantation, Wressle, about two miles from where the aircraft crashed. Yorkshire Aircraft, the only source found, says this is the wrong location and suggests a mix-up at the Yorkshire Air Museum. The wood has no public right of way. The source does not say who arranged the plaque or who maintains it.",
+      "cites": [
+        "C8",
+        "C9",
+        "C11"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "Albert Pritchard, Eric Barton and Ken Reast located the correct crash site near Bowthorpe Hall.",
+      "cites": [
+        "C10"
+      ]
+    }
+  ],
+  "custodian_status": "unknown-confirmed",
+  "retractions": [
+    {
+      "field": "community_connection",
+      "reason": "'The Yorkshire Air Museum is associated with the original plaque' is not stated by any source; Yorkshire Aircraft only suggests a museum display caused the location mix-up."
+    },
+    {
+      "field": "memorial_details",
+      "reason": "Existing text says the plaque marks DT524, not JD151. The source says the plaque commemorates JD151 but stands at the wrong site; no separate DT524 plaque is described. Replaced by a sourced paragraph."
+    }
+  ],
+  "notes": "WRESSLE VERDICT: one plaque, not two (see wressle-halifax-dt524 notes). Yorkshire Aircraft describes one plaque, commemorating JD151, in Intake Plantation near the DT524 crash site; the real JD151 site is near Bowthorpe Hall. Our record has this the wrong way round ('marks DT524 not JD151'), so the retraction replaces it. Custodian not found. CONFLICT O'NEILL: our record has Sgt Gerald John O'Neill, service no. 550757; Yorkshire Aircraft has F/Lt Gerald John O'Neill DFM RAF 47705. Our narrative says F/Lt is unconfirmed, but this source says it. Only the one source read, so no second source to settle it; check CWGC/IBCC/Aircrew Remembered. Brown's burial: ours says Allerton Sec 16 RC Gr 517; source gives cemetery only. Aircrew Remembered (jenkinson-j) was not fetched. Barger's later life (died 2012) comes from RAFCommands forum per the source; not claimed here. Single publisher."
+}

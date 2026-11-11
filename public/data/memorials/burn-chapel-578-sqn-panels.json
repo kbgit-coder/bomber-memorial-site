@@ -6,8 +6,8 @@
   "country": "United Kingdom",
   "latitude": 53.726,
   "longitude": -1.075,
-  "memorial_type": "Board/Plaque/Tablet — 11 stainless steel plaques on glazed backboard",
-  "memorial_address": "Burn Methodist Chapel, Main Street, Burn, Selby, North Yorkshire YO8 8LJ",
+  "memorial_type": "Board/plaque/tablet: eleven stainless steel plaques on a backboard in a glazed stainless steel frame",
+  "memorial_address": "Burn Methodist Chapel, Main Street, Burn, Selby, North Yorkshire, YO8 8LJ",
   "os_grid_reference": "SE 59388 28517",
   "squadron": "578 Squadron",
   "squadron_display_name": "578 Squadron",
@@ -17,21 +17,32 @@
   ],
   "station": "RAF Burn",
   "dedication_date": "1999-05-16",
-  "erected_by": "Burn Village Council",
-  "inscription": "Names all 219 aircrew killed serving with 578 Squadron from RAF Burn, January 1944 to March 1945. Also records 79 POW and 45 aircraft lost.",
+  "inscription": "219 members of aircrew killed, 79 shot down and taken prisoner of war, 45 aircraft lost on active service; presented by the 578 Burn Association to the people of Burn",
   "crew_summary": "219 aircrew killed, 79 taken prisoner, 45 aircraft lost — 578 Squadron at RAF Burn January 1944 to March 1945",
   "narrative": "578 Squadron formed at RAF Burn in North Yorkshire in January 1944 and flew Halifax bombers until the end of the war. In just fourteen months of operations from Burn, 219 aircrew were killed, 79 became prisoners of war, and 45 aircraft were lost — a savage toll for a single station. The memorial panels in Burn Methodist Chapel were dedicated in May 1999, fifty-four years after the squadron's disbandment. Eleven stainless steel plaques mounted on a glazed backboard record every name of those killed. The memorial is maintained by Burn Village Council and stands as a permanent record of the human cost of Bomber Command operations from this quiet North Yorkshire village. RAF Burn — now farmland — saw many notable operations including crew of the Farnsfield Halifax MZ519 (also 578 Squadron) who flew from this station.",
-  "memorial_details": "11 stainless steel plaques mounted on a glazed backboard inside Burn Methodist Chapel. The plaques name all 219 aircrew killed serving with 578 Squadron from RAF Burn, January 1944 to March 1945. Also records 79 POW and 45 aircraft lost. Dedicated 16 May 1999 by Rev Owain Williams. Maintained by Burn Village Council. Not listed on National Heritage List for England. IWM War Memorials Register reference: IWM 11819.\n\nThe memorial was erected by Burn Village Council.",
+  "memorial_details": "Eleven stainless steel plaques on a backboard, in a glazed stainless steel frame, hang in Burn Methodist Chapel. They record 219 aircrew of 578 Squadron killed, with 79 taken prisoner and 45 aircraft lost. The memorial was designed by the architect Hugh Cawdron, cost 750 pounds, and was unveiled and dedicated on 16 May 1999 by Rev Owain Williams. The 578 Burn Association presented it to the people of Burn. IWM names Burn Village Council as custodian. A separate roadside stone to the squadron stands on the A19 opposite the Wheatsheaf Inn.",
   "sources": [
     {
       "title": "IWM War Memorials Register — 578 Squadron Burn Chapel",
       "url": "https://www.iwm.org.uk/memorials/item/memorial/11819",
       "type": "database"
+    },
+    {
+      "title": "578 Squadron Royal Air Force (WMR 11819)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/11819",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "578 Squadron memorial stone, Burn (WMO/243643)",
+      "type": "researched",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/243643",
+      "date": "2026-11-11"
     }
   ],
   "contributor": "Holly (PAI) — Squadron Deep Dive research",
-  "last_updated": "2026-04-09",
-  "data_quality": "Partial",
+  "last_updated": "2026-11-11",
+  "data_quality": "Stub",
   "photos": [],
   "what3words": "",
   "external_narratives": [
@@ -49,6 +60,32 @@
       "date_retrieved": "2026-04-07",
       "still_live": true,
       "link_description": "Detailed records of 219 aircrew from RAF Burn, killed in action between 1944-45, enshrined on eleven stainless steel plaques."
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/11819",
+      "summary": "IWM entry for the eleven stainless steel plaques in Burn Methodist Chapel. Names Burn Village Council as custodian, Hugh Cawdron as architect and designer, and says the 578 Burn Association presented the memorial to the people of Burn.",
+      "key_details": [
+        "Custodian: Burn Village Council",
+        "Designer: Hugh Cawdron FRIBA FRSA",
+        "Cost 750 pounds",
+        "Unveiled and dedicated 16 May 1999 by Rev Owain Williams",
+        "219 commemorated, all died",
+        "Presented by the 578 Burn Association at its fifty-fourth reunion"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "War Memorials Online",
+      "original_url": "https://www.warmemorialsonline.org.uk/memorial/243643",
+      "summary": "Separate roadside memorial stone to 578 Squadron opposite the Wheatsheaf Inn, A19, Burn. No custodian listed. Not the chapel panels.",
+      "key_details": [
+        "Stone, not the chapel plaques",
+        "Custodian field: Information Required"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
     }
   ],
   "location_confidence": {
@@ -60,5 +97,15 @@
   },
   "crash_category": "operational-combat",
   "narrative_quality_score": 4,
-  "community_connection": ""
+  "community_connection": "",
+  "maintainer": {
+    "organisation": "Burn Village Council",
+    "maintainer_type": "Parish or village council"
+  },
+  "memorial_name": "578 Squadron Royal Air Force",
+  "erected_by": "578 Burn Association (presented to the people of Burn); designed by Hugh Cawdron FRIBA FRSA",
+  "died_count": 219,
+  "names_on_memorial": 219,
+  "condition": "Good",
+  "last_validated": "2026-11-11"
 }

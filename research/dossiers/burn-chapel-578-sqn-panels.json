@@ -1,0 +1,199 @@
+{
+  "memorial_id": "burn-chapel-578-sqn-panels",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "IWM memorial 11819 578 Squadron Burn Methodist Chapel",
+      "useful": true
+    },
+    {
+      "query": "Burn Village Council 578 Squadron memorial Burn Methodist Chapel",
+      "useful": true
+    },
+    {
+      "query": "Burn Methodist Church (Goole and Selby circuit) page for memorial mention",
+      "useful": false
+    },
+    {
+      "query": "War Memorials Online 578 Squadron Burn stone",
+      "useful": true
+    },
+    {
+      "query": "Burn Village Council / Burn Parish Council website contact",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/11819",
+      "title": "578 Squadron Royal Air Force (WMR 11819)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-11",
+      "summary": "IWM entry for the eleven stainless steel plaques in Burn Methodist Chapel. Names Burn Village Council as custodian, Hugh Cawdron as architect and designer, and says the 578 Burn Association presented the memorial to the people of Burn.",
+      "key_details": [
+        "Custodian: Burn Village Council",
+        "Designer: Hugh Cawdron FRIBA FRSA",
+        "Cost 750 pounds",
+        "Unveiled and dedicated 16 May 1999 by Rev Owain Williams",
+        "219 commemorated, all died",
+        "Presented by the 578 Burn Association at its fifty-fourth reunion"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/243643",
+      "title": "578 Squadron memorial stone, Burn (WMO/243643)",
+      "publisher": "War Memorials Online",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Separate roadside memorial stone to 578 Squadron opposite the Wheatsheaf Inn, A19, Burn. No custodian listed. Not the chapel panels.",
+      "key_details": [
+        "Stone, not the chapel plaques",
+        "Custodian field: Information Required"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://gooleselbymethodist.org.uk/burn/",
+      "title": "Burn Methodist Church",
+      "publisher": "Goole and Selby Methodist Circuit",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Circuit page for Burn Methodist Church listing worship and groups. Does not mention the 578 Squadron memorial.",
+      "key_details": [
+        "Sunday 10.00am worship",
+        "No mention of memorial"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "maintainer.organisation",
+      "value": "Burn Village Council",
+      "sources": [
+        "S1"
+      ],
+      "quote": "Burn Village Council is the custodian"
+    },
+    {
+      "id": "C2",
+      "field": "maintainer.maintainer_type",
+      "value": "Parish or village council",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "memorial_name",
+      "value": "578 Squadron Royal Air Force",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "memorial_address",
+      "value": "Burn Methodist Chapel, Main Street, Burn, Selby, North Yorkshire, YO8 8LJ",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "dedication_date",
+      "value": "1999-05-16",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "erected_by",
+      "value": "578 Burn Association (presented to the people of Burn); designed by Hugh Cawdron FRIBA FRSA",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "died_count",
+      "value": 219,
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "names_on_memorial",
+      "value": 219,
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "condition",
+      "value": "Good",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "memorial_type",
+      "value": "Board/plaque/tablet: eleven stainless steel plaques on a backboard in a glazed stainless steel frame",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "inscription",
+      "value": "219 members of aircrew killed, 79 shot down and taken prisoner of war, 45 aircraft lost on active service; presented by the 578 Burn Association to the people of Burn",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "event",
+      "value": "The memorial cost 750 pounds and was designed by architect Hugh Cawdron; unveiled and dedicated by Rev Owain Williams",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "event",
+      "value": "A separate memorial stone to 578 Squadron stands by the A19 opposite the Wheatsheaf Inn; War Memorials Online lists no custodian for it",
+      "sources": [
+        "S2"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "memorial_details",
+      "text": "Eleven stainless steel plaques on a backboard, in a glazed stainless steel frame, hang in Burn Methodist Chapel. They record 219 aircrew of 578 Squadron killed, with 79 taken prisoner and 45 aircraft lost. The memorial was designed by the architect Hugh Cawdron, cost 750 pounds, and was unveiled and dedicated on 16 May 1999 by Rev Owain Williams. The 578 Burn Association presented it to the people of Burn. IWM names Burn Village Council as custodian. A separate roadside stone to the squadron stands on the A19 opposite the Wheatsheaf Inn.",
+      "cites": [
+        "C1",
+        "C5",
+        "C11",
+        "C12",
+        "C13"
+      ]
+    }
+  ],
+  "custodian_status": "known",
+  "retractions": [
+    {
+      "field": "erected_by",
+      "reason": "Our record says Burn Village Council erected it. IWM says the 578 Burn Association presented the memorial to the people of Burn (designer Hugh Cawdron); Burn Village Council is named as custodian, not erector. Replaced by the IWM wording."
+    }
+  ],
+  "notes": "CUSTODIAN: Burn Village Council, per IWM (institutional). IWM says 'Burn Village Council is the custodian' and gives no separate maintenance arrangement. Not corroborated by a second publisher, and I did not find the council's own website or a contact, so a human should confirm with the council (also check whether it is a parish council, since a web snippet mentions 'Burn Parish Council' for the Snowbirds event). The 'erected by Burn Village Council' claim in our record is wrong per IWM: the 578 Burn Association presented it. The chapel is a Methodist church in the Goole and Selby circuit; the circuit page does not mention the memorial and I did not establish whether the chapel trustees share custody. A DIFFERENT 578 Sqn memorial (roadside stone on A19, WMO/243643) also exists, with no custodian listed; do not confuse. IWM page lists no names. Our narrative's 'now farmland' etc. and the 'Farnsfield Halifax MZ519' aside are unchecked here. Our dedication date 1999-05-16 matches IWM."
+}

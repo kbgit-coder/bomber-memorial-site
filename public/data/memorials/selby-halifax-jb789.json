@@ -1,21 +1,21 @@
 {
   "id": "selby-halifax-jb789",
   "title": "Selby St James Halifax Memorial",
-  "location_name": "St James the Apostle Church, Selby, North Yorkshire",
+  "location_name": "St James Church, New Lane, Selby, North Yorkshire",
   "county": "North Yorkshire",
   "country": "United Kingdom",
-  "crash_date": "1944-05-09",
+  "crash_date": "1944-05-10",
   "aircraft_type": "Halifax",
   "serial_number": "JB789",
-  "squadron": "1658 HCU",
+  "squadron": "1658 Heavy Conversion Unit",
   "station": "Riccall",
   "crew_summary": "7 crew — all killed; 7 civilians killed",
-  "memorial_type": "Plaque and display",
-  "memorial_details": "Plaque and memorabilia display in St James the Apostle Church, Selby, including the original cockerel weather vane 'grounded' since the church spire was never rebuilt after the crash.",
-  "narrative": "Halifax JB789 of 1658 Heavy Conversion Unit departed Riccall at an unknown time and, for unknown reasons, struck the spire of St James the Apostle Church in Selby at 0102 on 9 May 1944, then crashed into a town-centre residential street. All seven crew were killed. Seven civilians on the ground also died; a further seven were seriously injured, one of whom died later. The original cockerel weather vane from the spire, which was never rebuilt, is now preserved in the church as a memorial.",
-  "cause_of_loss": "Struck church spire during night cross-country training exercise; crashed into residential street",
-  "operation_type": "Training — cross-country NAVEX",
-  "community_connection": "Seven civilians in Selby were killed when the aircraft struck the church spire and fell into a residential street. A further seven were seriously injured. The church spire was never rebuilt; the original cockerel weather vane is preserved in the church.",
+  "memorial_type": "Metal plaque on the nave wall, shown with flags and the spire's cockerel",
+  "memorial_details": "A metal plaque on the nave wall at St James Church, Selby, records the strike and the church's restoration, and is shown with British and Australian flags and the spire's cockerel. Yorkshire Aircraft says a memorial plaque was unveiled in the church on 1 November 1953 and that a 70th anniversary service was held there in 2014. The church was re-dedicated on 11 December 1950 and the tower was rebuilt without a spire.",
+  "narrative": "Halifax JB789 of 1658 Heavy Conversion Unit was on a circuits and landings exercise from Riccall. It took off for its third circuit at 01.00 and struck the spire of St James Church, Selby, at 01.02 on 10 May 1944. It came down across Portholme Road and Union Lane, through the roof of Portholme Mill and onto Portholme Drive. All seven aircrew were killed. The inquiry reached no firm conclusion. The sources give different totals for civilian dead, so the number is not settled here.",
+  "cause_of_loss": "Failed to gain height on take-off and struck the spire of St James Church; the inquiry reached no firm conclusion",
+  "operation_type": "Training - circuits and landings",
+  "community_connection": "The church website refers to a WWII display in the church.",
   "latitude": 53.784012,
   "longitude": -1.068781,
   "sources": [
@@ -23,11 +23,196 @@
       "title": "Tony Hibberd (RAF Bomber Command Memorials Facebook group, admin post)",
       "url": "https://www.facebook.com/groups/1445802465656368/posts/4477256105844307/",
       "type": "social-media"
+    },
+    {
+      "title": "Halifax JB789, Selby, 10 May 1944",
+      "type": "researched",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/jb789.html",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Halifax JB789, Linton on Ouse, 22 May 1943",
+      "type": "researched",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb789.html",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Handley Page Halifax JB798 (WMR-30919)",
+      "type": "institutional",
+      "url": "https://memorials.iwm.org.uk/item/memorial/30919",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Church building",
+      "type": "researched",
+      "url": "https://www.stjamesselby.org/church-building",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "St James' Church, Selby",
+      "type": "secondary",
+      "url": "https://en.wikipedia.org/wiki/St_James%27_Church,_Selby",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "St James Selby home page",
+      "type": "researched",
+      "url": "https://www.stjamesselby.org/",
+      "date": "2026-11-11"
     }
   ],
   "contributor": "Tony Hibberd (Facebook post); compiled by Holly (LifeOS)",
-  "last_updated": "2026-10-23",
+  "last_updated": "2026-11-11",
   "data_quality": "Partial",
-  "external_narratives": [],
-  "what3words": ""
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york44/jb789.html",
+      "summary": "Crash page for JB789 of 1658 HCU Riccall: aircraft history, narrative, the seven aircrew with service numbers and burials, civilian casualties, and a short memorial note. It does not mention JB798 and does not say who maintains the plaque.",
+      "key_details": [
+        "Take-off 01.00, struck St James spire 01.02 on 10 May 1944",
+        "Circuits and landings exercise from Riccall",
+        "Seven aircrew killed; five RAAF, two RAFVR",
+        "Memorial plaque unveiled in St James Church 1 November 1953",
+        "70th anniversary service held in the church in 2014",
+        "Investigation reached no firm conclusion"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jb789.html",
+      "summary": "Earlier page for the same airframe (158 Squadron landing accident). Says the aircraft later went to 1658 HCU and flew into the spire of St James Church, Selby on 10 May 1944.",
+      "key_details": [
+        "Same serial JB789 tied to the Selby spire strike"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "IWM War Memorials Register",
+      "original_url": "https://memorials.iwm.org.uk/item/memorial/30919",
+      "summary": "IWM entry for a metal plaque on the wall in the south west corner of the nave of St James Church, Selby. It records the 1944 spire strike and the church's restoration and re-dedication, and says the plaque is shown with British and Australian flags and the spire's golden cockerel. It names no maintainer.",
+      "key_details": [
+        "Plaque states aircraft struck the spire on 10 May 1944",
+        "Restoration began 10 May 1949; church re-dedicated 11 December 1950",
+        "Aircraft serial given as JB798",
+        "Church of England; New Lane, Selby YO8 4QB",
+        "Condition Good",
+        "No maintainer stated",
+        "Photograph by John E Scurr"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "St James Selby (church website)",
+      "original_url": "https://www.stjamesselby.org/church-building",
+      "summary": "The parish church's own page says a Halifax returning from training crashed into the spire in 1944, killing all seven crew and six local residents, and that the tower was rebuilt without a spire. It does not mention the plaque and does not say who maintains it.",
+      "key_details": [
+        "Seven crew and six residents killed (church figure)",
+        "Tower rebuilt without a spire"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "Wikipedia",
+      "original_url": "https://en.wikipedia.org/wiki/St_James%27_Church,_Selby",
+      "summary": "Gives the crash only as May 1944, with the crew and eight people in nearby houses killed. Cites The Press, 19 March 2014, which was not readable.",
+      "key_details": [
+        "Crew and eight residents killed",
+        "Tower rebuilt without spire",
+        "Cites The Press 19 March 2014"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    },
+    {
+      "source_site": "St James Selby (church website)",
+      "original_url": "https://www.stjamesselby.org/",
+      "summary": "Home page of the church. Names the vicar and says the PCC adopted a safeguarding policy. Its Open Church section refers to a WWII display in the church but does not describe the plaque or say who looks after it.",
+      "key_details": [
+        "Mentions a WWII display in the church",
+        "No churchwardens or memorial custodian named"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    }
+  ],
+  "what3words": "",
+  "memorial_address": "St James Church, New Lane, Selby YO8 4QB (south west corner of the nave)",
+  "condition": "Good",
+  "crew": [
+    {
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "name": "Thomas Roy Laver",
+      "role": "Pilot",
+      "age": 21,
+      "service_number": "426752",
+      "burial_location": "Harrogate (Stonefall) Cemetery, B/C/5"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Peter Hilary Rockingham",
+      "role": "Navigator",
+      "age": 21,
+      "service_number": "1622397",
+      "burial_location": "Selby Cemetery, grave 5351"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Derrick McDermott",
+      "role": "Flight Engineer",
+      "age": 21,
+      "service_number": "1111437",
+      "burial_location": "Selby Cemetery, grave 5317"
+    },
+    {
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "name": "Bernard Kevin Storer",
+      "role": "Bomb Aimer",
+      "age": 21,
+      "service_number": "426702",
+      "burial_location": "Harrogate (Stonefall) Cemetery, B/C/3"
+    },
+    {
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "name": "Noel Joseph Knight",
+      "role": "Wireless Operator/Air Gunner",
+      "age": 21,
+      "service_number": "423420",
+      "burial_location": "Harrogate (Stonefall) Cemetery, B/C/2"
+    },
+    {
+      "rank": "F/Sgt",
+      "fate": "Killed",
+      "name": "John Roper",
+      "role": "Air Gunner",
+      "age": 20,
+      "service_number": "424822",
+      "burial_location": "Harrogate (Stonefall) Cemetery, B/C/1"
+    },
+    {
+      "rank": "F/O",
+      "fate": "Killed",
+      "name": "John Russell Dixon",
+      "role": "Air Gunner",
+      "age": 25,
+      "service_number": "434607",
+      "burial_location": "Harrogate (Stonefall) Cemetery, B/C/4"
+    }
+  ],
+  "last_validated": "2026-11-11",
+  "iwm_photo_urls": [
+    "https://media.iwm.org.uk/ciim5/memorials/82/208/large_30919_halifax_bomber_jb798___weather_vane_memorial_and_flags_p1190287.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/82/209/large_30919_halifax_bomber_jb798_contemporay_pictures_of_the_damage_p1190288.jpg",
+    "https://media.iwm.org.uk/ciim5/memorials/82/207/large_30919_halifax_bomber_jb798_p1190290.jpg"
+  ]
 }

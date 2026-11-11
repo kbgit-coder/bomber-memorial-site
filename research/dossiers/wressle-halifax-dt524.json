@@ -1,0 +1,849 @@
+{
+  "memorial_id": "wressle-halifax-dt524",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "Halifax DT524 JD151 memorial Wressle Intake Plantation plaque",
+      "useful": false
+    },
+    {
+      "query": "Wressle Halifax memorial plaque Intake Plantation Yorkshire Air Museum Pritchard Barton Reast",
+      "useful": false
+    },
+    {
+      "query": "IWM war memorials register Halifax DT524 Wressle (no entry found)",
+      "useful": false
+    },
+    {
+      "query": "yorkshire-aircraft.co.uk Halifax DT524 page",
+      "useful": true
+    },
+    {
+      "query": "Wressle plaque custodian / maintainer / landowner",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/dt524.html",
+      "title": "Halifax DT524, near Wressle, 7 September 1943",
+      "publisher": "Yorkshire Aircraft",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Researcher's account of the fighter-affiliation crash of 1658 HCU Halifax DT524 at Intake Plantation, with crew biographies. States that the only plaque in the wood commemorates JD151, not DT524.",
+      "key_details": [
+        "Take-off Riccall 10:05",
+        "All ten killed",
+        "Plaque in Intake Plantation commemorates JD151, 'the wrong accident'",
+        "Maintainer of plaque not stated",
+        "Fragments found 1999 by Pritchard, Barton and Reast"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "crash_date",
+      "value": "1943-09-07",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "serial_number",
+      "value": "DT524",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "squadron",
+      "value": "1658 Heavy Conversion Unit",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "station",
+      "value": "RAF Riccall",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "event",
+      "value": "Took off from Riccall at 10:05 on a fighter affiliation exercise with a Hurricane making simulated attacks",
+      "sources": [
+        "S1"
+      ],
+      "quote": "departing Riccall airfield at 10:05 hrs"
+    },
+    {
+      "id": "C6",
+      "field": "event",
+      "value": "Aircraft banked sharply, the starboard outer engine smoked, it rolled, entered a spin, the engine separated and it dived into the ground about midday in Intake Plantation",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "event",
+      "value": "Seven trainees and three instructors aboard; all ten killed",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "event",
+      "value": "The small plaque placed in Intake Plantation in recent years commemorates Halifax JD151, which crashed two miles away a month earlier, not DT524",
+      "sources": [
+        "S1"
+      ],
+      "quote": "it unfortunately commemorates the wrong accident of Halifax JD151"
+    },
+    {
+      "id": "C9",
+      "field": "event",
+      "value": "Albert Pritchard, Eric Barton and Ken Reast found small fragments just outside the woodland in 1999 with the landowner's permission, confirming the DT524 site",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "event",
+      "value": "No public right of way into the wood; access is through a field gate near Wressle",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C11",
+      "field": "event",
+      "value": "The page does not say who placed or maintains the plaque",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C12",
+      "field": "died_count",
+      "value": 10,
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C13",
+      "field": "memorial_type",
+      "value": "Plaque",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C14",
+      "field": "crew.name",
+      "value": "Maynard Meyer Caplan",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C15",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C16",
+      "field": "crew.service_number",
+      "value": "142555",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C17",
+      "field": "crew.age",
+      "value": 27,
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C18",
+      "field": "crew.role",
+      "value": "Pilot (instructor)",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C19",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C20",
+      "field": "crew.burial_location",
+      "value": "East Ham Jewish Cemetery, London",
+      "sources": [
+        "S1"
+      ],
+      "person": "dfm-m"
+    },
+    {
+      "id": "C21",
+      "field": "crew.name",
+      "value": "Lawrence Gay Dunlop",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C22",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C23",
+      "field": "crew.service_number",
+      "value": "J/20568",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C24",
+      "field": "crew.age",
+      "value": 20,
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C25",
+      "field": "crew.role",
+      "value": "Pilot",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C26",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C27",
+      "field": "crew.burial_location",
+      "value": "Harrogate Stonefall Cemetery, C/B/15",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C28",
+      "field": "crew.nationality",
+      "value": "Canadian",
+      "sources": [
+        "S1"
+      ],
+      "person": "dunlop-l"
+    },
+    {
+      "id": "C29",
+      "field": "crew.name",
+      "value": "Arthur Wilfred Bailey",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C30",
+      "field": "crew.rank",
+      "value": "P/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C31",
+      "field": "crew.service_number",
+      "value": "143799",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C32",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C33",
+      "field": "crew.role",
+      "value": "Flight engineer (instructor)",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C34",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C35",
+      "field": "crew.burial_location",
+      "value": "St Albans Cemetery, Hertfordshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "bailey-a"
+    },
+    {
+      "id": "C36",
+      "field": "crew.name",
+      "value": "Alan Basil Granville Williams",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C37",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C38",
+      "field": "crew.service_number",
+      "value": "1653142",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C39",
+      "field": "crew.age",
+      "value": 19,
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C40",
+      "field": "crew.role",
+      "value": "Flight engineer",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C41",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C42",
+      "field": "crew.burial_location",
+      "value": "Ystrad Mynach Churchyard, Glamorgan",
+      "sources": [
+        "S1"
+      ],
+      "person": "williams-a"
+    },
+    {
+      "id": "C43",
+      "field": "crew.name",
+      "value": "Frank Reynolds",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C44",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C45",
+      "field": "crew.service_number",
+      "value": "1497496",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C46",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C47",
+      "field": "crew.role",
+      "value": "Navigator",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C48",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C49",
+      "field": "crew.burial_location",
+      "value": "Calverley Churchyard, Yorkshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "reynolds-f"
+    },
+    {
+      "id": "C50",
+      "field": "crew.name",
+      "value": "Samuel Rutherford Parker",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C51",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C52",
+      "field": "crew.service_number",
+      "value": "R/132048",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C53",
+      "field": "crew.age",
+      "value": 23,
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C54",
+      "field": "crew.role",
+      "value": "Bomb aimer",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C55",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C56",
+      "field": "crew.burial_location",
+      "value": "Harrogate Stonefall Cemetery, C/B/17",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C57",
+      "field": "crew.nationality",
+      "value": "Canadian",
+      "sources": [
+        "S1"
+      ],
+      "person": "parker-s"
+    },
+    {
+      "id": "C58",
+      "field": "crew.name",
+      "value": "Edward Leo McCartie",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C59",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C60",
+      "field": "crew.service_number",
+      "value": "1146785",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C61",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C62",
+      "field": "crew.role",
+      "value": "Wireless operator / air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C63",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C64",
+      "field": "crew.burial_location",
+      "value": "Middlesbrough (Thorntree) R.C. Cemetery",
+      "sources": [
+        "S1"
+      ],
+      "person": "mccartie-e"
+    },
+    {
+      "id": "C65",
+      "field": "crew.name",
+      "value": "Alfred John Gamble",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C66",
+      "field": "crew.rank",
+      "value": "Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C67",
+      "field": "crew.service_number",
+      "value": "1391617",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C68",
+      "field": "crew.age",
+      "value": 22,
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C69",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C70",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C71",
+      "field": "crew.burial_location",
+      "value": "Selby Cemetery, Yorkshire",
+      "sources": [
+        "S1"
+      ],
+      "person": "gamble-a"
+    },
+    {
+      "id": "C72",
+      "field": "crew.name",
+      "value": "Gordon Gibson",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C73",
+      "field": "crew.rank",
+      "value": "F/Sgt",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C74",
+      "field": "crew.service_number",
+      "value": "1349486",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C75",
+      "field": "crew.age",
+      "value": 21,
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C76",
+      "field": "crew.role",
+      "value": "Air gunner",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C77",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C78",
+      "field": "crew.burial_location",
+      "value": "Ellon Cemetery, Aberdeen",
+      "sources": [
+        "S1"
+      ],
+      "person": "gibson-g"
+    },
+    {
+      "id": "C79",
+      "field": "crew.name",
+      "value": "James Low",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C80",
+      "field": "crew.rank",
+      "value": "F/O",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C81",
+      "field": "crew.service_number",
+      "value": "J/17294",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C82",
+      "field": "crew.age",
+      "value": 24,
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C83",
+      "field": "crew.role",
+      "value": "Air gunner (instructor)",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C84",
+      "field": "crew.fate",
+      "value": "Killed",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C85",
+      "field": "crew.burial_location",
+      "value": "Harrogate Stonefall Cemetery, C/B/16",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    },
+    {
+      "id": "C86",
+      "field": "crew.nationality",
+      "value": "Canadian",
+      "sources": [
+        "S1"
+      ],
+      "person": "low-j"
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "Halifax DT524 of 1658 Heavy Conversion Unit took off from Riccall at 10:05 on 7 September 1943 for a fighter affiliation exercise, with a Hurricane making simulated attacks. Seven trainees and three instructors were aboard. The aircraft banked sharply, rolled, and entered a spin. The starboard outer engine separated and the Halifax dived into Intake Plantation about midday. All ten men were killed.",
+      "cites": [
+        "C1",
+        "C5",
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The only plaque known in Intake Plantation commemorates Halifax JD151, which crashed about two miles away a month earlier, not DT524. Yorkshire Aircraft, the only source found, describes this as a mistake. The wood has no public right of way. The source does not say who placed the plaque or who looks after it.",
+      "cites": [
+        "C8",
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "Albert Pritchard, Eric Barton and Ken Reast found small fragments just outside the wood in 1999, with the landowner's permission. This confirmed the crash site.",
+      "cites": [
+        "C9"
+      ]
+    }
+  ],
+  "custodian_status": "unknown-confirmed",
+  "retractions": [
+    {
+      "field": "community_connection",
+      "reason": "'The Yorkshire Air Museum is associated with the plaque' is not stated by any source. Yorkshire Aircraft only suggests a museum display mixed up the two crash locations, which is not the same thing."
+    },
+    {
+      "field": "memorial_details",
+      "reason": "Existing text says the plaque marks DT524 and is a JD151 labelling error. The source says the plaque commemorates JD151 and stands near the DT524 crash site; there is no separate DT524 plaque. Replaced by a sourced paragraph."
+    }
+  ],
+  "notes": "WRESSLE VERDICT: one plaque, not two. Yorkshire Aircraft (DT524 and JD151 pages) describes a single small plaque in Intake Plantation. It commemorates JD151 (11 Aug 1943), but sits near the DT524 crash site (7 Sep 1943); JD151 actually came down about two miles away near Bowthorpe Hall. No source found describes a separate DT524 plaque, so wressle-halifax-dt524 may have no memorial of its own. Our two records are inverted versions of the same story; the human should decide whether to merge or keep one as a 'misplaced plaque' record. Custodian: not found in Yorkshire Aircraft; no IWM or War Memorials Online entry found by search; the Yorkshire Air Museum link in our record is unsupported. CREW DOUBT: our record lists Brian Tristram Davies, Frank Oliver Bonham and John Leonard Gunn, who do not appear in Yorkshire Aircraft's list of ten, which instead has Alan Basil Granville Williams, Frank Reynolds, Alfred John Gamble and Gordon Gibson. Crew names are not retracted; a human should check CWGC/IBCC. Our record's '(Meyer) Caplan' fate_detail and 'one crew name not recovered' are superseded by the full list. Only one publisher (Yorkshire Aircraft) so everything here is single-source. No IWM photos available."
+}

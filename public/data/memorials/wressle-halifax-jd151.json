@@ -15,80 +15,83 @@
   "squadron_display_name": "78 Squadron RAF",
   "station": "RAF Breighton",
   "operation_type": "Operational",
-  "operation_target": "Nürnberg, Germany",
+  "operation_target": "Nuremberg",
   "memorial_type": "Plaque",
-  "memorial_details": "A small plaque placed within Intake Plantation, Wressle, on private land with no public right of way — access requires passing through a field gate. LOCATION ERROR: The plaque marks the site of the DT524 crash (7 September 1943), not JD151. Metal-detector survey by local historians Albert Pritchard, Eric Barton, and Ken Reast confirmed that JD151 came down approximately two miles away near Bowthorpe Hall, South Duffield. The error arose from mixed-up data held by the Yorkshire Air Museum. The true JD151 crash site is private farmland.",
   "crew_summary": "Three killed, four survived with injuries. P/O Binns and Sgt Gillicker killed in the crash; F/Sgt Brown died of injuries on 13 August 1943.",
-  "narrative": "JD151 took off from RAF Breighton on the night of 10/11 August 1943 as part of a 653-aircraft attack on Nürnberg. The round trip placed heavy demands on fuel and by the time the aircraft turned for home the fuel state was critical. On approach to Breighton the engines failed through fuel starvation. The aircraft came down near Bowthorpe Hall, South Duffield, on the western side of the River Derwent — geographically near Wressle, though the village itself sits across the river.\n\nThree of the seven crew did not survive. Navigator P/O Harry Binns and air gunner Sgt Thomas Gillicker died in the crash; flight engineer F/Sgt William John Brown survived initial injuries but died two days later on 13 August. The other four, including pilot P/O Jack Jenkinson and the American gunner S/Sgt Richard Barger of the USAAF (one of several US personnel flying operationally with RAF Bomber Command at that time), were injured but recovered. Barger lived until 2012.\n\nThe primary source records Binns's rank as P/O and O'Neill's as Sgt. The seed data gave these as Sgt Binns and F/Lt O'Neill respectively — those ranks are not confirmed by the yorkshire-aircraft.co.uk or aircrewremembered.com records and should not be used.",
+  "narrative": "Halifax JD151 of 78 Squadron was returning from Nuremberg on 11 August 1943 short of fuel. Waiting seventh in the landing queue at Breighton, two engines cut out and the pilot lost control. The aircraft crashed at 06.19 near Bowthorpe Hall, South Duffield. Navigator Harry Binns and air gunner Thomas Gillicker died; flight engineer William John Brown died of his injuries on 13 August. The other four crew were injured.",
   "crew": [
     {
       "rank": "P/O",
+      "fate": "Injured",
       "name": "Jack Jenkinson",
       "service_number": "149961",
       "role": "Pilot",
       "nationality": "British",
-      "fate": "Survived",
       "fate_detail": "Survived with injuries",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Jenkinson&Forename=Jack&ServiceNum=149961"
     },
     {
       "rank": "P/O",
+      "fate": "Killed",
       "name": "Harry Binns",
       "service_number": "149339",
       "role": "Navigator",
       "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Southport (Birkdale) Cemetery, Sec. G, Gr. 267",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Binns&Forename=Harry&ServiceNum=149339"
+      "burial_location": "Birkdale Cemetery, Lancashire",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Binns&Forename=Harry&ServiceNum=149339",
+      "age": 35
     },
     {
       "rank": "F/Sgt",
+      "fate": "Died of injuries 13 August 1943",
       "name": "William John Brown",
       "service_number": "616402",
-      "role": "Flight Engineer",
+      "role": "Flight engineer",
       "nationality": "British",
-      "fate": "Killed",
       "fate_detail": "Died of injuries 13 August 1943",
-      "burial_location": "Liverpool (Allerton) Cemetery, Sec. 16 RC, Gr. 517",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Brown&Forename=William%20John&ServiceNum=616402"
+      "burial_location": "Allerton Cemetery, Liverpool",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Brown&Forename=William%20John&ServiceNum=616402",
+      "age": 22
     },
     {
       "rank": "Sgt",
-      "name": "Thomas Gillicker",
-      "service_number": "547631",
-      "role": "Air Gunner",
-      "nationality": "British",
-      "fate": "Killed",
-      "burial_location": "Warrington Cemetery, Sec. O, Gr. 507",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Gillicker&Forename=Thomas&ServiceNum=547631"
-    },
-    {
-      "rank": "Sgt",
+      "fate": "Injured",
       "name": "Charles William Eyles",
       "service_number": "900473",
-      "role": "Bomb Aimer",
+      "role": "Bomb aimer",
       "nationality": "British",
-      "fate": "Survived",
       "fate_detail": "Survived with minor injuries",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Eyles&Forename=Charles%20William&ServiceNum=900473"
     },
     {
-      "rank": "Sgt",
+      "rank": "F/Lt",
+      "fate": "Injured",
       "name": "Gerald John O'Neill",
-      "service_number": "550757",
-      "role": "Wireless Operator/Air Gunner",
+      "service_number": "47705",
+      "role": "Wireless operator / air gunner",
       "nationality": "British",
-      "fate": "Survived",
       "fate_detail": "Survived, seriously injured",
-      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=O%27Neill&Forename=Gerald%20John&ServiceNum=550757"
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=O%27Neill&Forename=Gerald%20John&ServiceNum=550757",
+      "decorations": "DFM"
+    },
+    {
+      "rank": "Sgt",
+      "fate": "Killed",
+      "name": "Thomas Gillicker",
+      "service_number": "547631",
+      "role": "Air gunner",
+      "nationality": "British",
+      "burial_location": "Warrington Cemetery, Lancashire",
+      "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Gillicker&Forename=Thomas&ServiceNum=547631",
+      "age": 23
     },
     {
       "rank": "S/Sgt",
+      "fate": "Injured",
       "name": "Richard Lewis Barger",
       "service_number": "10601064",
-      "role": "Air Gunner",
+      "role": "Air gunner",
       "nationality": "American",
-      "fate": "Survived",
       "fate_detail": "Survived with injuries. Died 2012; buried Saint Colmans Cemetery, Fayette, Ohio.",
       "cwgc_url": "https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Barger&Forename=Richard%20Lewis&ServiceNum=10601064"
     }
@@ -105,10 +108,26 @@
       "type": "website"
     }
   ],
-  "data_quality": "Comprehensive",
+  "data_quality": "Partial",
   "contributor": "Keith Binley, Bomber Command Memorial Register",
-  "last_updated": "2026-10-15",
-  "community_connection": "Research by local historians Albert Pritchard, Eric Barton, and Ken Reast, who used metal-detector survey to confirm the true JD151 crash site near Bowthorpe Hall and identify the location error at Intake Plantation. The Yorkshire Air Museum is associated with the original (erroneously sited) plaque.",
+  "last_updated": "2026-11-11",
   "photos": [],
-  "external_narratives": []
+  "external_narratives": [
+    {
+      "source_site": "Yorkshire Aircraft",
+      "original_url": "https://www.yorkshire-aircraft.co.uk/aircraft/yorkshire/york43/jd151.html",
+      "summary": "Researcher's account of 78 Squadron Halifax JD151 running out of fuel returning from Nuremberg, with crew list. Says the small JD151 plaque in Intake Plantation, Wressle, is at the wrong location, two miles from the real crash site.",
+      "key_details": [
+        "Crash 06.19 near Bowthorpe Hall, South Duffield",
+        "Plaque in Intake Plantation is at wrong location",
+        "Maintainer of plaque not stated",
+        "Memorial photo credited to Eric Barton"
+      ],
+      "date_retrieved": "2026-11-11",
+      "still_live": true
+    }
+  ],
+  "community_connection": "Albert Pritchard, Eric Barton and Ken Reast located the correct crash site near Bowthorpe Hall.",
+  "memorial_details": "A small plaque to JD151 stands in Intake Plantation, Wressle, about two miles from where the aircraft crashed. Yorkshire Aircraft, the only source found, says this is the wrong location and suggests a mix-up at the Yorkshire Air Museum. The wood has no public right of way. The source does not say who arranged the plaque or who maintains it.",
+  "last_validated": "2026-11-11"
 }

@@ -1,0 +1,216 @@
+{
+  "memorial_id": "vickers-wellington-nz-n",
+  "researched_at": "2026-11-11",
+  "searches": [
+    {
+      "query": "Wellington R1392 304 Squadron Netherfield East Sussex memorial 27 May 1941 Boulogne",
+      "useful": true
+    },
+    {
+      "query": "Netherfield Parish Council East Sussex Darwell Hill Polish Wellington memorial",
+      "useful": true
+    },
+    {
+      "query": "Netherfield Parish Council Battle East Sussex clerk website",
+      "useful": true
+    },
+    {
+      "query": "Sussex Express annual service Netherfield Polish memorial organiser (pages returned 403)",
+      "useful": false
+    },
+    {
+      "query": "IWM 108829 page fetch (returned error page)",
+      "useful": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://memorials.iwm.org.uk/item/memorial/40191",
+      "title": "Vickers Wellington NZ-N (WMR-40191)",
+      "publisher": "IWM War Memorials Register",
+      "tier": "institutional",
+      "retrieved": "2026-11-11",
+      "summary": "IWM entry for the brick and bronze plaque memorial on Darwell Hill, Netherfield. Names the maintainer as Stanislaw Jozefiak and the Polish Air Force Association Trust, and says it was unveiled on 27 May 2001, privately sponsored, designed and built by Mr Jozefiak. No names are listed; the inscription gives counts only.",
+      "key_details": [
+        "Behind a pedestrian gate and hedge, Darwell Hill (B2096), Netherfield, Rother, TN33 9QL",
+        "Grid ref TQ 69833 18968",
+        "4 crew died, 2 survived by baling out",
+        "Parish not stated"
+      ]
+    },
+    {
+      "id": "S2",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/136229",
+      "title": "Wellington Bomber NZ-N Polish 304 Squadron (WMO/136229)",
+      "publisher": "War Memorials Online",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "WMO entry for the same memorial. No custodian is listed. A comment says it is maintained each May before a service on the last Sunday of May at 15:00 led by members of the Royal British Legion; the maintainer is not named. Condition comments note encroaching vegetation and no safe parking on a busy narrow road.",
+      "key_details": [
+        "Near Doctors Cottage, Darwell Hill, Netherfield, Battle, TN33 9QL",
+        "Brick wall, bronze plaque, bronze Polish eagle on top",
+        "Photos dated 10 April 2013 and 22 September 2017",
+        "Comments are undated and unattributed"
+      ]
+    },
+    {
+      "id": "S3",
+      "url": "https://304squadron.blogspot.com/2009/06/r1392-nz-n-28th-may-1941-this-aircraft.html",
+      "title": "R1392 (NZ-N) 28th May 1941",
+      "publisher": "304 Squadron blog",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Blog account of the loss of R1392 on a raid on Boulogne. Hit by flak in the port engine, crashed at Darwell Hole near Brightling, Sussex (the squadron record book says Kent). Lists four dead, one man missing after baling out, and two injured survivors including Jozefiak, who later built a memorial.",
+      "key_details": [
+        "Date given as 28 May 1941",
+        "Dead: Waroczewski, Wieczorek, Kuszczynski, Drozdz",
+        "Survivors: Jozefiak, Nilski",
+        "Dead buried at Newark Cemetery"
+      ]
+    },
+    {
+      "id": "S4",
+      "url": "https://en.wikipedia.org/wiki/Netherfield,_East_Sussex",
+      "title": "Netherfield, East Sussex",
+      "publisher": "Wikipedia",
+      "tier": "secondary",
+      "retrieved": "2026-11-11",
+      "summary": "Describes Netherfield as a village in the civil parish of Battle, Rother. Does not mention the memorial.",
+      "key_details": [
+        "Civil parish of Battle"
+      ]
+    },
+    {
+      "id": "S5",
+      "url": "https://democracy.eastsussex.gov.uk/mgParishCouncilDetails.aspx?ID=238",
+      "title": "Parish council (East Sussex County Council democracy pages, via search)",
+      "publisher": "East Sussex County Council",
+      "tier": "researched",
+      "retrieved": "2026-11-11",
+      "summary": "Search result summary indicated Battle Town Council covers Netherfield ward. Page itself not read in full; treat as a lead.",
+      "key_details": [
+        "Battle Town Council, The Almonry, High Street, Battle"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "field": "serial_number",
+      "value": "R1392",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C2",
+      "field": "squadron",
+      "value": "304 (Silesian) Squadron",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C3",
+      "field": "operation_target",
+      "value": "Boulogne",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C4",
+      "field": "event",
+      "value": "Hit by flak in the port engine and crashed at Darwell Hole near Netherfield; four crew killed, two injured survivors, one man missing after baling out",
+      "sources": [
+        "S3"
+      ]
+    },
+    {
+      "id": "C5",
+      "field": "dedication_date",
+      "value": "2001-05-27",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C6",
+      "field": "erected_by",
+      "value": "Stanislaw Jozefiak (privately sponsored, designed and built), a survivor of the crash",
+      "sources": [
+        "S1",
+        "S3"
+      ]
+    },
+    {
+      "id": "C7",
+      "field": "maintainer.organisation",
+      "value": "Polish Air Force Association Trust (IWM also names Stanislaw Jozefiak)",
+      "sources": [
+        "S1"
+      ]
+    },
+    {
+      "id": "C8",
+      "field": "event",
+      "value": "Annual service on the last Sunday of May at 15:00 led by members of the Royal British Legion; memorial tidied each May beforehand",
+      "sources": [
+        "S2"
+      ]
+    },
+    {
+      "id": "C9",
+      "field": "memorial_type",
+      "value": "Brick wall with bronze plaque and bronze Polish eagle",
+      "sources": [
+        "S1",
+        "S2"
+      ]
+    },
+    {
+      "id": "C10",
+      "field": "event",
+      "value": "Netherfield is in the civil parish of Battle; Battle Town Council has a Netherfield ward",
+      "sources": [
+        "S4",
+        "S5"
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "section": "narrative",
+      "text": "A Wellington of 304 Polish Squadron, R1392, was hit by flak in the port engine during a raid on Boulogne in May 1941 and crashed at Darwell Hole near Netherfield. Four of the crew were killed and two injured men survived. One more man baled out and was never found.",
+      "cites": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "section": "memorial_details",
+      "text": "The memorial is a brick wall with a bronze plaque and a bronze Polish eagle. It was unveiled on 27 May 2001. Survivor Stanislaw Jozefiak sponsored, designed and built it.",
+      "cites": [
+        "C5",
+        "C6",
+        "C9"
+      ]
+    },
+    {
+      "section": "community_connection",
+      "text": "IWM lists the Polish Air Force Association Trust as maintainer. A War Memorials Online comment says an annual service is held on the last Sunday of May, led by members of the Royal British Legion. We have not confirmed who looks after the memorial today.",
+      "cites": [
+        "C7",
+        "C8"
+      ]
+    }
+  ],
+  "photos": [],
+  "custodian_status": "unknown",
+  "notes": "This is the same physical memorial and crash (Wellington R1392 NZ-N) as record wellington-r1392-crash (IWM 108829); IWM 40191 for this record. Custodian: IWM (S1) names Mr Jozefiak and the Polish Air Force Association Trust, but gives no date and Mr Jozefiak is described as a crash survivor from 1941, so current upkeep is unverified. WMO (S2) comment says Royal British Legion members lead the annual service; unattributed and undated, community-grade. Parish: Netherfield is in Battle civil parish (Wikipedia, S4) and Battle Town Council has a Netherfield ward (S5, search summary only); the 304 Squadron blog places the crash near Brightling and Art UK search snippet says Dallington, so the memorial's exact civil parish is not confirmed and needs checking with the council. Crash night: inscription says 27/28 May, blog says 28 May. Crew names from the blog only (single source), so not entered as crew claims. Sussex Express / Hastings Observer articles returned 403 and were not read. IWM 108829 page returned an error."
+}

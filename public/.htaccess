@@ -127,3 +127,6 @@ Options -Indexes
     Order allow,deny
     Deny from all
 </FilesMatch>
+Redirect 301 /memorial/handley-page-halifax-jb798 /memorial/selby-halifax-jb789
+Redirect 301 /memorial/wellington-r1392-crash /memorial/vickers-wellington-nz-n
+Redirect 301 /memorial/wressle-halifax-dt524 /memorial/wressle-halifax-jd151
