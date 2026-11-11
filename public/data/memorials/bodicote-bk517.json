@@ -68,10 +68,20 @@
       "type": "community",
       "url": "https://www.bodicoteparishcouncil.gov.uk/News_42599.aspx",
       "date": "2026-11-06"
+    },
+    {
+      "title": "Graham Wyeth, email to the Register with photographs and directions, 10 Nov 2026",
+      "type": "correspondence",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Strathroy Museum, John \"Jack\" Thompson McDonald (biography PDF, via Graham Wyeth)",
+      "type": "community",
+      "date": "2026-11-11"
     }
   ],
   "contributor": "Keith Binley",
-  "last_updated": "2026-11-06",
+  "last_updated": "2026-11-11",
   "data_quality": "Comprehensive",
   "crew": [
     {
@@ -111,7 +121,9 @@
       "cwgc_verified": true,
       "age": 19,
       "service_number": "1710222",
-      "nationality": "British"
+      "nationality": "British",
+      "photo": "bodicote-bk517/crew-beaumont.jpg",
+      "bio": "Portrait courtesy of Graham Wyeth."
     },
     {
       "rank": "AC2",
@@ -147,7 +159,10 @@
       "cwgc_verified": true,
       "age": 26,
       "service_number": "R/90083",
-      "nationality": "Canadian"
+      "nationality": "Canadian",
+      "photo": "bodicote-bk517/crew-mcdonald.jpg",
+      "hometown": "Strathroy, Ontario",
+      "bio": "Born on 29 September 1916 in Strathroy, Ontario, the son of William Telfer McDonald, a carpenter, and Minnie Thompson McDonald. Known as Jack, and to some as Mickey, he went to Maitland School and Strathroy Collegiate Institute, played golf and badminton, built model aircraft from balsa wood and worked at the Strathroy Hardware Store. He enlisted in the Royal Canadian Air Force in London, Ontario, on 29 January 1941, married Aletha Mackey of Port Stewart in February 1942, finished training at Mountain View near Ottawa and went overseas on 1 May 1942. He served as an observer with 23 OTU. Portrait and details from the Strathroy Museum."
     }
   ],
   "latitude": 52.0354,
@@ -289,6 +304,24 @@
   "what3words": "crackled.village.rhino",
   "photos": [
     {
+      "filename": "bodicote-bk517/bodicote-remembrance-sunday-2026.jpg",
+      "caption": "Wreaths at the memorial after the Act of Remembrance, Remembrance Sunday, 8 November 2026",
+      "credit": "Graham Wyeth",
+      "date_taken": "2026-11-08"
+    },
+    {
+      "filename": "bodicote-bk517/bodicote-anniversary-2025.jpg",
+      "caption": "Wreaths on the railing on the 83rd anniversary of the crash, 28 December 2025",
+      "credit": "Graham Wyeth",
+      "date_taken": "2025-12-28"
+    },
+    {
+      "filename": "bodicote-bk517/bodicote-commemoration-day-2012.jpg",
+      "caption": "Flowers and wreaths on Commemoration Day, 2 June 2012, when the memorial was unveiled and dedicated",
+      "credit": "Graham Wyeth",
+      "date_taken": "2012-06-02"
+    },
+    {
       "filename": "bodicote-bk517/23-operational-training-unit-wellington-iii-bk517-w800-w800.jpg",
       "caption": "23 operational training unit wellington iii bk517",
       "credit": "Aircrew Remembered"
@@ -349,7 +382,13 @@
     "23 OTU"
   ],
   "remembrance": {
-    "events": [],
+    "events": [
+      {
+        "name": "Act of Remembrance, Remembrance Sunday 2026",
+        "date": "2026-11-08",
+        "description": "Wreaths, including from the Royal British Legion, were laid at the memorial."
+      }
+    ],
     "annual_service": true,
     "service_description": "Two ceremonies are held at the memorial each year, both at 10:45: an Act of Remembrance on Remembrance Sunday, and a commemoration with an Act of Remembrance on 28 December, the anniversary of the crash."
   },
@@ -372,5 +411,6 @@
   "community_connection": "Bodicote Parish Council is responsible for the memorial, and the memorial's administrator manages its administration, history and events. Two ceremonies are held each year at 10:45: an Act of Remembrance on Remembrance Sunday, and a commemoration with an Act of Remembrance on 28 December, the anniversary of the crash. The 2012 unveiling was attended by Byrne's widow, then aged 92, his brother and many other relatives of the crew, including a niece of Beaumont.",
   "memorial_details": "The memorial is a block of Hornton stone with an engraved bronze plaque, unveiled and dedicated on 2 June 2012. The plaque carries the RAF badge, a dedication to the airmen who lost their lives on 28 December 1942 flying Wellington BK517, and the names of the six crew. It stands about 400 metres south of Wykham Lane across two fields, with permissive access from the lane, and is enclosed by a circular metal railing fence. IWM records its condition as good. It was erected by Bodicote Parish Council, the village of Bodicote and other local people.",
   "last_validated": "2026-11-06",
-  "crew_summary": "6 crew — 6 killed"
+  "crew_summary": "6 crew — 6 killed",
+  "memorial_access_notes": "The memorial is reached by a country footpath. The ground can be soft and very muddy, so wear wellies or walking boots; the walk is difficult for anyone unsteady on their feet. There are two places to park. At the cemetery on Wykham Lane, walk east on the path inside the fence to the memorial path: the parking is limited but the walk is easier. At Town Furlong, walk across the fields: better parking but a harder walk."
 }

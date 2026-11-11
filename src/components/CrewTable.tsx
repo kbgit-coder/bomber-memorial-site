@@ -16,6 +16,10 @@ export default function CrewTable({ crew }: CrewTableProps) {
           style={{
             width: "100%",
             borderCollapse: "collapse",
+            // The page container sets overflowWrap "anywhere" for phones; in a table that
+            // shrinks columns to single letters ("Kill ed"). Words wrap normally here; the
+            // wrapper scrolls if the table is wider than the page.
+            overflowWrap: "normal",
             fontSize: "0.9rem",
             backgroundColor: "#ffffff",
             borderRadius: 8,

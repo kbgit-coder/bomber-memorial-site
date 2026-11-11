@@ -451,6 +451,10 @@
           "hometown": {
             "type": "string"
           },
+          "photo": {
+            "description": "Portrait path under public/images/memorials/, shown in the crew table",
+            "type": "string"
+          },
           "cwgc_record": {
             "type": "string"
           },
